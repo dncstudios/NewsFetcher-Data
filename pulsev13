@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/pulsev13",
     "created_at": "2025-09-01T11:08:29.286397",
-    "total_articles": 30,
+    "total_articles": 31,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -398,6 +398,19 @@
       "hash": "c0e44964bcb225229d12632fa2c3d446",
       "rewritten_content": "HEADLINE: WALL STREET REACTS TO RULING DECLARING TRUMP'S GLOBAL TARIFFS ILLEGAL 🚨\n\n- Federal appeals court rules most of Trump's global tariffs illegal ⚠️\n- Investors analyze implications on market stability and trade policies 📊\n- Uncertainty looms over future of global trade agreements 🚨\n- Ruling may impact international businesses and supply chains ⚠️\n- Tariff legality dispute sparks discussions on trade regulations 📊\n- Market response to ruling remains cautious and observant ⚠️\n\nTAKEAWAY: The ruling on Trump's tariffs creates uncertainty in global trade, prompting market analysis and discussions on trade policies.",
       "exported_at": "2025-09-01T18:24:40.976649",
+      "continuous_session": true
+    },
+    {
+      "title": "Asia markets set to open mixed as investors assess SCO summit as tariff concerns weigh",
+      "link": "https://www.cnbc.com/2025/09/02/asia-stock-markets-today-live-updates-nikkei-225-asx-200-kospi-hang-seng-csi-300-sensex-nifty-50.html",
+      "summary": "Indian markets will be in focus after U.S. President Donald Trump said that the South Asian giant offered to reduce its tariffs on U.S. imports to zero.",
+      "published": "Mon, 01 Sep 2025 23:52:39 GMT",
+      "content": "Indian markets will be in focus after U.S. President Donald Trump said that the South Asian giant offered to reduce its tariffs on U.S. imports to zero.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f7e6d2815e1bbfeb1a210adf506033c0",
+      "rewritten_content": "HEADLINE: INDIAN MARKETS EYEING POTENTIAL TARIFF REDUCTION OFFER 🚀\n\n- U.S. President Trump hints at zero tariffs on Indian imports 🔥\n- Indian markets poised for increased trade with the U.S. 🚀\n- Potential opportunity for Indian companies to expand globally ✅\n- Tariff reduction could boost bilateral trade and economic growth 📈\n- Investors closely monitoring developments for market impact 🧐\n- Positive news may lead to increased investor confidence ⚡️\n\nTAKEAWAY: Indian markets primed for growth if tariffs are reduced to zero on U.S. imports. 📈",
+      "exported_at": "2025-09-01T19:54:51.078019",
       "continuous_session": true
     }
   ]
