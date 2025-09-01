@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/Continuous_2025_09_01.json",
-    "created_at": "2025-09-01T03:48:56.566904",
-    "total_articles": 10,
-    "new_articles_in_last_fetch": 10,
+    "created_at": "2025-09-01T03:54:20.262661",
+    "total_articles": 12,
+    "new_articles_in_last_fetch": 2,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
     ],
@@ -23,7 +23,7 @@
       "fetch_method": "rss_deep",
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "92eeec16a8edb854b2d1f7a65ab48d7c",
-      "exported_at": "2025-09-01T03:48:56.566720",
+      "exported_at": "2025-09-01T03:54:20.262430",
       "continuous_session": true
     },
     {
@@ -39,7 +39,7 @@
       "fetch_method": "rss_deep",
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "779b647e4e94afc8b00a90786ad3c70d",
-      "exported_at": "2025-09-01T03:48:56.566725",
+      "exported_at": "2025-09-01T03:54:20.262437",
       "continuous_session": true
     },
     {
@@ -55,7 +55,7 @@
       "fetch_method": "rss_deep",
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "a06029052b0459b3e9e149640e41e4d0",
-      "exported_at": "2025-09-01T03:48:56.566727",
+      "exported_at": "2025-09-01T03:54:20.262439",
       "continuous_session": true
     },
     {
@@ -71,7 +71,7 @@
       "fetch_method": "rss_deep",
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "f11e0e124bdf8429deecd31a057db6d8",
-      "exported_at": "2025-09-01T03:48:56.566729",
+      "exported_at": "2025-09-01T03:54:20.262441",
       "continuous_session": true
     },
     {
@@ -87,7 +87,7 @@
       "fetch_method": "rss_deep",
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "7339546aaab716b46e8f15762cea9cc8",
-      "exported_at": "2025-09-01T03:48:56.566731",
+      "exported_at": "2025-09-01T03:54:20.262445",
       "continuous_session": true
     },
     {
@@ -103,7 +103,7 @@
       "fetch_method": "rss_deep",
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "d74d3a3357005614f876074581107a22",
-      "exported_at": "2025-09-01T03:48:56.566733",
+      "exported_at": "2025-09-01T03:54:20.262446",
       "continuous_session": true
     },
     {
@@ -119,7 +119,7 @@
       "fetch_method": "rss_deep",
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "3be19a241b89d4a3d25aab3d6cfadedb",
-      "exported_at": "2025-09-01T03:48:56.566734",
+      "exported_at": "2025-09-01T03:54:20.262448",
       "continuous_session": true
     },
     {
@@ -135,7 +135,7 @@
       "fetch_method": "rss_deep",
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "664fa46f6933db74496dd3008696480a",
-      "exported_at": "2025-09-01T03:48:56.566736",
+      "exported_at": "2025-09-01T03:54:20.262449",
       "continuous_session": true
     },
     {
@@ -151,7 +151,7 @@
       "fetch_method": "rss_deep",
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "ff984aba7bf883353d8be0d699b987e9",
-      "exported_at": "2025-09-01T03:48:56.566738",
+      "exported_at": "2025-09-01T03:54:20.262451",
       "continuous_session": true
     },
     {
@@ -167,7 +167,39 @@
       "fetch_method": "rss_deep",
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "a8d9ae826a4371ef0e6aeb8e4e240c7c",
-      "exported_at": "2025-09-01T03:48:56.566739",
+      "exported_at": "2025-09-01T03:54:20.262453",
+      "continuous_session": true
+    },
+    {
+      "title": "Alibaba shares jump 19% on cloud unit growth, report of new AI chip",
+      "link": "https://www.cnbc.com/2025/09/01/alibaba-shares-hong-kong-today.html",
+      "summary": "Alibaba's Hong Kong-listed shares jumped 19% on strong results at its cloud computing division driven by its AI investments.",
+      "published": "Mon, 01 Sep 2025 07:42:18 GMT",
+      "content": "In this article Alibaba's Hong Kong listed shares surged more than 19% on Monday as the Chinese tech giant's cloud computing unit drove strong quarterly results, while details emerged over its new AI chip development. It's the highest level for the stock since March. Investors have backed the company's improving performance in its key cloud unit and are content with the the tech giant's investment into new areas — particularly in the so-called\"instant commerce,\"which has become incredibly competitive in China. The Hong Kong rally builds on the momentum ofAlibaba's earnings report of Friday, when the company's New York-listed shares closed nearly 13% higher. Alibaba last week weekposted revenuefor the June quarter of 247.65 billion Chinese yuan ($34.73 billion), marking a 2% year-on-year rise that nevertheless missed analyst expectations. On the upside, a 78% annual surge in net income came in ahead of forecasts. The Chinese company's cloud computing unit was a bright spot with revenue picking up by an annual 26%, which was a faster growth rate than seen in the previous quarter. Alibaba's cloud growth has been accelerating over the last few quarter. Like some of its Chinese and U.S. tech rivals, Alibaba has been investing in AI infrastructure and developing its own models, as well as selling AI services for its cloud computing unit. Investors see the division as key to the company's efforts to monetize artificial intelligence, much like Microsoft or Google. AI-related product revenue \"maintained triple-digit year-over-year growth for the eighth consecutive quarter,\" the company said Friday. That same day, CNBC reported thatAlibaba is developing a new AI chip, which also supported the share price rally on Monday. Alibaba's core e-commerce business has meanwhile been showing signs of revival, while the company has jumped into China's cut-throat instant commerce space in China. This is a feature introduced this year on Taobao, one of Alibaba's main Chinese e-commerce apps, which provides deliveries of certain products in China within an hour. Investments in quick commerce weighed on Alibaba's adjusted earnings for its e-commerce business. Investors have given the company some leeway to invest for now.",
+      "source": "https://www.cnbc.com/2025/09/01/alibaba-shares-hong-kong-today.html",
+      "url": "https://www.cnbc.com/2025/09/01/alibaba-shares-hong-kong-today.html",
+      "rss_source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "fetched_from": "https://www.cnbc.com/2025/09/01/alibaba-shares-hong-kong-today.html",
+      "fetch_method": "rss_deep",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4330b0725eebb7bce18a964822462df0",
+      "exported_at": "2025-09-01T03:54:20.262454",
+      "continuous_session": true
+    },
+    {
+      "title": "Indonesia's stocks fall, currency weakens as protests dent sentiment",
+      "link": "https://www.cnbc.com/2025/09/01/indonesias-stocks-fall-currency-weakens-as-protests-dent-sentiment.html",
+      "summary": "Violence and protests have rattled investors confidence, but are unlikely to challenge the underlying growth story for Indonesia, several market watchers said.",
+      "published": "Mon, 01 Sep 2025 07:49:56 GMT",
+      "content": "Indonesia is facing a tough political climate, as it grapples with protests over rising living costs, lawmakers' pay and police violence, hurting investor sentiment in Southeast Asia's largest economy. The Jakarta Composite Index fell as much as 3.6% on Monday, while the Indonesian rupiah depreciated to 16,500 against the U.S. dollar — its weakest intra-day level since Aug. 1 — according to LSEG data. While the violence and protests have rattled investors confidence, they are unlikely to challenge the underlying growth story for Indonesia, several market watchers said. The latest selloff was primarily \"sentiment driven,\" as investors reacted to developments over the weekend, said Howe Chung Wan, managing director and head of Asian fixed income at Principal Fixed Income. Indonesia still ranks among the more stable emerging markets, Howe said, shrugging off impact from the demonstrations as a near-term setback. \"I don't think it completely changes the story at this point.\" The near-term potential softness for rupiah is expected to be temporary and will likely reverse when domestic uncertainties fade, according to Christopher Wong, FX analyst at OCBC Bank. He refrained from giving more precise forecasts, citing heightened uncertainty. It was unclear if demonstrations in Jakarta or other cities will continue on Monday, with some Indonesian students and civil society groups having called off protests to avoid any violent escalation by authorities. Investors will watch the government's next steps to address the public's demands and improve market confidence, said Ari Jahja, head of Indonesia research, Macquarie Capital. \"On slight positive side, Indonesia could emerge stronger if structural reforms are executed.\" Radhika Rao, economist at DBS, agreed that the long-term growth drivers remain intact for Indonesia. Investors will watch for any signs of the government's priority to boost growth and jobs, she said, expecting part of Jakarta's spending cuts could be redirected to alleviate unemployment. Bank Indonesia still has ample room to keep policy accommodative, she said, expecting the central bank to act swiftly to calm markets and step in to support the rupiah when it's due. Yields on Indonesia's 10-year government bonds ticked higher to 6.335 on Monday while yields on the 30-year debts were little changed at 6.850, according to LSEG data. Thousands of protestors in several major cities in the Southeast Asian nation have rallied for for about a week, demonstrating against increasing cost of living, high unemployment rate and what many see as excessive pay for lawmakers. Lawmakers' housing allowances which are said to be10 times the country's monthly minimumwage at a time when tax hikes, layoffs and inflation have hit lower-income Indonesians, have been key to stoking public anger. That discontent over economic hardship has morphed into a broader outrage after a motorcycle taxi driver wasreportedlykilled during police action at aprotest site last Thursday. That incident set off a wave of violent protests across several Indonesian cities, calling for a police reform. Protests intensified over the weekend, with rioters targeting the homes of lawmakers, ransacking and looting properties, and burning government buildings, according tomedia reports. Hundreds of peoplereportedlystormed finance minister Sri Mulyani's residence in South Tangerang, forcing their way in and taking away valuables. In an attempt to quell the public anger, Indonesian President Prabowo Subianto said on Sunday the country's parliament would listen and act on people's concerns, pledging to curb hefty allowances for lawmakers. Indonesia, the world's fourth-largest economy with a population of 284 million, had been seen as one of Southeast Asia's most stable economies. The latest protests, which killed at least five and injured hundreds, created the worst crisis for the country since Subianto took office about a year ago. \"This moment represents a key test for Prabowo's approach to dissent,\" said Bob Herrera-Lim, managing director at political consultancy Teneo. \"The president may worry that continuing to yield ground on the streets for more than a few days may generate the impression that he is encouraging a popular opposition to emerge to challenge his government\" The president has warned that firm action will be taken against violent demonstrators. \"We cannot deny that signs of extrajudicial, even unlawful, actions are beginning to emerge, some even leading to treason and terrorism,\" he reportedly said, while ordering the military and police to take stern action against rioters and looters.",
+      "source": "https://www.cnbc.com/2025/09/01/indonesias-stocks-fall-currency-weakens-as-protests-dent-sentiment.html",
+      "url": "https://www.cnbc.com/2025/09/01/indonesias-stocks-fall-currency-weakens-as-protests-dent-sentiment.html",
+      "rss_source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "fetched_from": "https://www.cnbc.com/2025/09/01/indonesias-stocks-fall-currency-weakens-as-protests-dent-sentiment.html",
+      "fetch_method": "rss_deep",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e7a6179dae7f51729f41f6c19a706950",
+      "exported_at": "2025-09-01T03:54:20.262455",
       "continuous_session": true
     }
   ]
