@@ -2,8 +2,8 @@
   "session_info": {
     "filename": "public/pulsev6",
     "created_at": "2025-09-01T07:21:59.337839",
-    "total_articles": 20,
-    "new_articles_in_last_fetch": 20,
+    "total_articles": 21,
+    "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
     ],
@@ -268,6 +268,19 @@
       "hash": "48871a7e766464c7baafa9108e9f2382",
       "rewritten_content": "HEADLINE: UNVEILING THE DIVERSE WORLD OF RETIREMENT PLANS 🚀\n\n- US relies on voluntary savings, while Netherlands and Australia mandate contributions 🌍\n- US citizens encouraged to save for retirement independently 💰\n- Netherlands and Australia enforce compulsory retirement fund contributions 🔒\n- Diverse approaches reflect unique cultural and financial landscapes 🌏\n- US system offers flexibility but leaves potential gaps in retirement security ⚠️\n- Netherlands and Australia ensure a more structured retirement savings approach ✅\n- Each country's system tailored to fit its citizens' needs and preferences 🎯\n\nTAKEAWAY: Understanding global retirement systems unveils diverse approaches to securing financial futures. 🌎",
       "exported_at": "2025-09-01T07:21:59.337838",
+      "continuous_session": true
+    },
+    {
+      "title": "UK&apos;s Starmer reshapes team, names ex-BoE official as top economic adviser",
+      "link": "https://www.cnbc.com/2025/09/01/uks-starmer-reshapes-team-names-ex-boe-official-as-top-economic-adviser.html",
+      "summary": "The moves indicate that Starmer believes he needs better economic advice before a budget later this year that is expected to include further tax rises.",
+      "published": "Mon, 01 Sep 2025 11:21:14 GMT",
+      "content": "The moves indicate that Starmer believes he needs better economic advice before a budget later this year that is expected to include further tax rises.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "58e273fb087fbd7f87d4fedc388312be",
+      "rewritten_content": "Not disclosed.",
+      "exported_at": "2025-09-01T07:27:03.832732",
       "continuous_session": true
     }
   ]
