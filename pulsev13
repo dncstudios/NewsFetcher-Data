@@ -2,8 +2,8 @@
   "session_info": {
     "filename": "public/pulsev13",
     "created_at": "2025-09-01T11:08:29.286397",
-    "total_articles": 22,
-    "new_articles_in_last_fetch": 2,
+    "total_articles": 23,
+    "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
     ],
@@ -294,6 +294,19 @@
       "hash": "8be96bf5de6f6e2753fdf6b7ee6b373e",
       "rewritten_content": "HEADLINE: HONEY DEUCE PRICE GROWTH OUTPACES CPI BASKET 🚀\n\n- Honey Deuce price surged vs. CPI basket since 2015 📈\n- CNBC analysis reveals strong price growth trend ⚡️\n- Honey Deuce performance surpasses CPI metrics ✅\n- Comparison showcases Honey Deuce's impressive growth 🔥\n- Investors eyeing Honey Deuce for potential returns 🚀\n- Honey Deuce shines in price growth analysis 🌟\n\nTAKEAWAY: Honey Deuce's price growth outpacing CPI basket signifies a lucrative investment opportunity.",
       "exported_at": "2025-09-01T11:53:36.707151",
+      "continuous_session": true
+    },
+    {
+      "title": "College athletes will be paid by schools this season, but their future is messier than ever",
+      "link": "https://www.cnbc.com/2025/09/01/college-athletes-will-be-paid-by-schools-this-season-but-their-future-is-messier-than-ever.html",
+      "summary": "From bipartisan fights in Congress to competing interests among schools and debates over whether the athletes themselves deserve a seat at the table, the future of the NCAA model is far from settled.",
+      "published": "Mon, 01 Sep 2025 16:15:12 GMT",
+      "content": "From bipartisan fights in Congress to competing interests among schools and debates over whether the athletes themselves deserve a seat at the table, the future of the NCAA model is far from settled.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c225f9db2419639f777c92466112bdd6",
+      "rewritten_content": "Not disclosed.",
+      "exported_at": "2025-09-01T12:23:42.626312",
       "continuous_session": true
     }
   ]
