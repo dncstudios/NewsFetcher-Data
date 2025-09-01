@@ -2,8 +2,8 @@
   "session_info": {
     "filename": "public/pulsev13",
     "created_at": "2025-09-01T11:08:29.286397",
-    "total_articles": 20,
-    "new_articles_in_last_fetch": 20,
+    "total_articles": 22,
+    "new_articles_in_last_fetch": 2,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
     ],
@@ -268,6 +268,32 @@
       "hash": "48871a7e766464c7baafa9108e9f2382",
       "rewritten_content": "HEADLINE: RETIREMENT SECURITY STRATEGIES AROUND THE GLOBE 🌍\n\n- U.S. focuses on voluntary savings for retirement security 🇺🇸\n- Netherlands, Australia mandate contributions for retirement 🇳🇱🇦🇺\n- Diverse approaches to ensure financial stability post-retirement ✅\n- Varied strategies aim to address retirement needs effectively 📊\n- Flexibility vs. compulsion: contrasting retirement saving philosophies ⚖️\n- Understanding global retirement systems for informed financial planning 🌐\n\nTAKEAWAY: Different countries adopt unique strategies for retirement security, emphasizing the importance of diverse approaches in ensuring financial stability post-retirement.",
       "exported_at": "2025-09-01T11:08:29.286395",
+      "continuous_session": true
+    },
+    {
+      "title": "U.S.-run &apos;Gaza Riviera’: Post-war redevelopment plan sees &apos;voluntary relocation&apos; of millions",
+      "link": "https://www.cnbc.com/2025/09/01/gaza-riviera-trump-administration-weighs-post-war-redevelopment-plan.html",
+      "summary": "The 38-page document envisions \"voluntary\" relocation of Gaza's population, AI-powered \"smart cities\", and a manufacturing hub named after Elon Musk.",
+      "published": "Mon, 01 Sep 2025 15:20:02 GMT",
+      "content": "The 38-page document envisions \"voluntary\" relocation of Gaza's population, AI-powered \"smart cities\", and a manufacturing hub named after Elon Musk.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5f4f03e4bed08381929b674d8007aa66",
+      "rewritten_content": "BORSA 321 STYLE:\n\n🚀⚡️ GAZA'S FUTURE REIMAGINED: SMART CITIES & ELON MUSK HUB\n\n- 38-page plan suggests \"voluntary\" Gaza relocation\n- Vision includes AI-driven \"smart cities\"\n- Proposed manufacturing hub to honor Elon Musk\n- Future plans aim for transformation and progress\n- Innovation at the core of redevelopment strategy\n- Ambitious vision for Gaza's economic and social landscape\n\nTAKEAWAY: Bold plans for Gaza's future envision a transformative shift towards innovation and progress.",
+      "exported_at": "2025-09-01T11:53:36.707126",
+      "continuous_session": true
+    },
+    {
+      "title": "Here&apos;s how the U.S. Open&apos;s signature Honey Deuce cocktail price stacks up against inflation",
+      "link": "https://www.cnbc.com/2025/08/31/honey-deuce-us-open-signature-cocktail-price-inflation.html",
+      "summary": "CNBC compared the Honey Deuce's price growth since 2015 against the CPI basket.",
+      "published": "Sun, 31 Aug 2025 11:40:11 GMT",
+      "content": "CNBC compared the Honey Deuce's price growth since 2015 against the CPI basket.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8be96bf5de6f6e2753fdf6b7ee6b373e",
+      "rewritten_content": "HEADLINE: HONEY DEUCE PRICE GROWTH OUTPACES CPI BASKET 🚀\n\n- Honey Deuce price surged vs. CPI basket since 2015 📈\n- CNBC analysis reveals strong price growth trend ⚡️\n- Honey Deuce performance surpasses CPI metrics ✅\n- Comparison showcases Honey Deuce's impressive growth 🔥\n- Investors eyeing Honey Deuce for potential returns 🚀\n- Honey Deuce shines in price growth analysis 🌟\n\nTAKEAWAY: Honey Deuce's price growth outpacing CPI basket signifies a lucrative investment opportunity.",
+      "exported_at": "2025-09-01T11:53:36.707151",
       "continuous_session": true
     }
   ]
