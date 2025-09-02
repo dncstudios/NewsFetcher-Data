@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-02T11:37:41.090228",
-    "total_articles": 62,
-    "new_articles_in_last_fetch": 62,
+    "created_at": "2025-09-02T11:52:51.917464",
+    "total_articles": 67,
+    "new_articles_in_last_fetch": 67,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -812,6 +812,71 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: EVERCORE ISI SETS 2026 S&P 500 TARGET AT 7,750 ON AI REVOLUTION 🚀\n\n- Evercore ISI predicts S&P 500 to reach 7,750 by 2026 📈\n- AI revolution to boost market multiples and society 🤖\n- Positive forces identified to drive market growth 📈\n- Strategist confident in market's upward trajectory 💪\n- Forecast based on AI's impact on market dynamics 🤖✅\n- Strong optimism for market's future growth potential 🚀\n\nTAKEAWAY: Evercore ISI's bold prediction of S&P 500 hitting 7,750 by 2026 is driven by the AI revolution's influence on market multiples and society, signaling a positive outlook for growth.",
       "exported_at": "2025-09-02T11:37:41.088780",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump can’t use National Guard, military in California to enforce laws, Judge Breyer rules",
+      "link": "https://www.cnbc.com/2025/09/02/trump-national-guard-california-newsom.html",
+      "summary": "The ruling from Judge Charles Breyer in San Francisco federal court comes as Trump mulls deploying National Guard troops to other cities to deal with crime.",
+      "published": "Tue, 02 Sep 2025 15:50:18 GMT",
+      "content": "The ruling from Judge Charles Breyer in San Francisco federal court comes as Trump mulls deploying National Guard troops to other cities to deal with crime.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1a561ade6e3d5d5f38323aac31d41804",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP BARRED FROM USING NATIONAL GUARD IN CALIFORNIA ⚠️\n\n- Judge Breyer blocks Trump from deploying National Guard in California 🛑\n- Ruling prevents Trump from using military to enforce laws in the state 🚫\n- Trump's plans to deploy National Guard in other cities halted by the ruling ⛔\n- Judge's decision comes amid Trump's considerations to tackle crime with troops 🚔\n\nTAKEAWAY: Judge Breyer's ruling restricts Trump from utilizing the National Guard in California, impacting his strategies to address law enforcement in the state and potentially beyond.",
+      "exported_at": "2025-09-02T11:52:51.916009",
+      "continuous_session": true
+    },
+    {
+      "title": "Hundreds of economists defend Lisa Cook, Fed&apos;s independence in open letter against Trump efforts",
+      "link": "https://www.cnbc.com/2025/09/02/trump-lisa-cook-fed-powell-fraud.html",
+      "summary": "Cook has filed a federal lawsuit to block Trump from firing her, and said in court filings that the allegations against her are pretextual and untrue.",
+      "published": "Tue, 02 Sep 2025 15:41:22 GMT",
+      "content": "Cook has filed a federal lawsuit to block Trump from firing her, and said in court filings that the allegations against her are pretextual and untrue.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c658b372b8fca484bf4f96d10ae6dc64",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: HUNDREDS OF ECONOMISTS RALLY BEHIND LISA COOK AGAINST TRUMP EFFORTS ⚡️\n\n- Cook fights to preserve Fed independence amidst Trump's firing attempts 🛡️\n- Hundreds of economists sign open letter supporting Cook's cause 📜\n- Cook files lawsuit against Trump, denying allegations as false 🚫\n- Defending Cook crucial to uphold integrity and independence of the Fed ✅\n\nTAKEAWAY: The unified support from hundreds of economists underscores the importance of defending Lisa Cook and preserving the Federal Reserve's independence in the face of Trump's firing attempts.",
+      "exported_at": "2025-09-02T11:52:51.916017",
+      "continuous_session": true
+    },
+    {
+      "title": "Bitcoin bucks stock market downtrend but lags gold rally",
+      "link": "https://www.cnbc.com/2025/09/02/crypto-market-today.html",
+      "summary": "Bitcoin edged higher on Tuesday as stocks fell and gold shot to a new record.",
+      "published": "Tue, 02 Sep 2025 15:40:30 GMT",
+      "content": "Bitcoin edged higher on Tuesday as stocks fell and gold shot to a new record.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "aa6f95254db46f163fd0a286a51eed30",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BITCOIN RESILIENT AMID STOCK DOWNTREND, GOLD SURGES 🚀\n\n- Bitcoin rises while stocks decline 📈\n- Gold hits new record high 🌟\n- Bitcoin shows resilience compared to stock market trend 💪\n\nTAKEAWAY: Bitcoin's resilience during stock market downtrend and gold's surge highlights its unique position as a digital asset.",
+      "exported_at": "2025-09-02T11:52:51.916019",
+      "continuous_session": true
+    },
+    {
+      "title": "Best stocks: Small banks are breaking out including one with a chart set-up that Josh Brown dreams about",
+      "link": "https://www.cnbc.com/2025/09/02/best-stocks-small-banks-are-breaking-out-including-one-with-a-chart-set-up-that-josh-brown-dreams-about.html",
+      "summary": "Josh and Sean review why regional banks are joining the Best Stocks ranks lately.",
+      "published": "Tue, 02 Sep 2025 15:37:06 GMT",
+      "content": "Josh and Sean review why regional banks are joining the Best Stocks ranks lately.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e63a7f39db39a5740b15dc1c075a3dc4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SMALL BANKS BREAKOUT: JOSH BROWN'S DREAM CHART SET-UP! 🚀\n\n- Regional banks surge in Best Stocks rankings 📈\n- Josh Brown excited about chart set-up 💼\n- Sean and Josh analyze small banks' rise 🧐\n\nTAKEAWAY: Regional banks making waves in the market with promising chart set-ups, catching the attention of experts like Josh Brown.",
+      "exported_at": "2025-09-02T11:52:51.916023",
+      "continuous_session": true
+    },
+    {
+      "title": "Pepsi shares jump as activist Elliott takes $4 billion stake, sees &apos;historic&apos; value opportunity",
+      "link": "https://www.cnbc.com/2025/09/02/pepsi-shares-jump-4percent-after-wsj-reports-elliott-planning-major-activist-campaign.html",
+      "summary": "The Paul Singer-founded Elliott's bet in Pepsi is worth $4 billion, becoming the consumer giant's top five active investors excluding index funds.",
+      "published": "Tue, 02 Sep 2025 15:41:48 GMT",
+      "content": "The Paul Singer-founded Elliott's bet in Pepsi is worth $4 billion, becoming the consumer giant's top five active investors excluding index funds.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f86340da2c1fa095d9b5838e60758545",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PEPSI SHARES SOAR 5% AS ELLIOTT TAKES $4B STAKE 🚀\n\n- Activist Elliott sees 'historic' value opportunity in Pepsi 💰\n- Singer's Elliott now a top 5 investor in Pepsi 📈\n- $4 billion bet on Pepsi boosts investor confidence 🤑\n\nTAKEAWAY: Elliott's $4 billion stake in Pepsi propels shares up by 5%, signaling a significant value opportunity and boosting investor confidence.",
+      "exported_at": "2025-09-02T11:52:51.916026",
       "continuous_session": true
     }
   ]
