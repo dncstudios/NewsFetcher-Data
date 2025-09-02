@@ -1,0 +1,462 @@
+{
+  "session_info": {
+    "filename": "public/pulsev20250902_055120",
+    "created_at": "2025-09-02T05:51:20.983632",
+    "total_articles": 50,
+    "new_articles_in_last_fetch": 50,
+    "sources": [],
+    "continuous_interval": "15 minutes"
+  },
+  "articles": [
+    {
+      "title": "WhatsApp Issues Emergency Update for Zero-Click Exploit Targeting iOS and macOS Devices",
+      "link": "https://thehackernews.com/2025/08/whatsapp-issues-emergency-update-for.html",
+      "summary": "WhatsApp has addressed a security vulnerability in its messaging apps for Apple iOS and macOS that it said may have been exploited in the wild in conjunction with a recently disclosed Apple flaw in targeted zero-day attacks.\nThe vulnerability, CVE-2025-55177 (CVSS score: 8.0), relates to a case of insufficient authorization of linked device synchronization messages. Internal researchers on the",
+      "published": "Sat, 30 Aug 2025 10:06:00 +0530",
+      "content": "WhatsApp has addressed a security vulnerability in its messaging apps for Apple iOS and macOS that it said may have been exploited in the wild in conjunction with a recently disclosed Apple flaw in targeted zero-day attacks.\nThe vulnerability, CVE-2025-55177 (CVSS score: 8.0), relates to a case of insufficient authorization of linked device synchronization messages. Internal researchers on the",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "title": "Researchers Warn of Sitecore Exploit Chain Linking Cache Poisoning and Remote Code Execution",
+      "link": "https://thehackernews.com/2025/08/researchers-warn-of-sitecore-exploit.html",
+      "summary": "Three new security vulnerabilities have been disclosed in the Sitecore Experience Platform that could be exploited to achieve information disclosure and remote code execution.&nbsp;\nThe flaws, per watchTowr Labs, are listed below -\n\nCVE-2025-53693 - HTML cache poisoning through unsafe reflections\nCVE-2025-53691 - Remote code execution (RCE) through insecure deserialization\nCVE-2025-53694 -",
+      "published": "Fri, 29 Aug 2025 22:52:00 +0530",
+      "content": "Three new security vulnerabilities have been disclosed in the Sitecore Experience Platform that could be exploited to achieve information disclosure and remote code execution.&nbsp;\nThe flaws, per watchTowr Labs, are listed below -\n\nCVE-2025-53693 - HTML cache poisoning through unsafe reflections\nCVE-2025-53691 - Remote code execution (RCE) through insecure deserialization\nCVE-2025-53694 -",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "title": "Webinar: Learn How to Unite Dev, Sec, and Ops Teams With One Shared Playbook",
+      "link": "https://thehackernews.com/2025/08/webinar-why-top-teams-are-prioritizing.html",
+      "summary": "Picture this: Your team rolls out some new code, thinking everything's fine. But hidden in there is a tiny flaw that explodes into a huge problem once it hits the cloud. Next thing you know, hackers are in, and your company is dealing with a mess that costs millions.\nScary, right? In 2025, the average data breach hits businesses with a whopping $4.44 million bill globally. And guess what? A big",
+      "published": "Fri, 29 Aug 2025 21:12:00 +0530",
+      "content": "Picture this: Your team rolls out some new code, thinking everything's fine. But hidden in there is a tiny flaw that explodes into a huge problem once it hits the cloud. Next thing you know, hackers are in, and your company is dealing with a mess that costs millions.\nScary, right? In 2025, the average data breach hits businesses with a whopping $4.44 million bill globally. And guess what? A big",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "title": "Amazon Disrupts APT29 Watering Hole Campaign Abusing Microsoft Device Code Authentication",
+      "link": "https://thehackernews.com/2025/08/amazon-disrupts-apt29-watering-hole.html",
+      "summary": "Amazon on Friday said it flagged and disrupted what it described as an opportunistic watering hole campaign orchestrated by the Russia-linked APT29 actors as part of their intelligence gathering efforts.\nThe campaign used \"compromised websites to redirect visitors to malicious infrastructure designed to trick users into authorizing attacker-controlled devices through Microsoft's device code",
+      "published": "Fri, 29 Aug 2025 18:52:00 +0530",
+      "content": "Amazon on Friday said it flagged and disrupted what it described as an opportunistic watering hole campaign orchestrated by the Russia-linked APT29 actors as part of their intelligence gathering efforts.\nThe campaign used \"compromised websites to redirect visitors to malicious infrastructure designed to trick users into authorizing attacker-controlled devices through Microsoft's device code",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "title": "Abandoned Sogou Zhuyin Update Server Hijacked, Weaponized in Taiwan Espionage Campaign",
+      "link": "https://thehackernews.com/2025/08/abandoned-sogou-zhuyin-update-server.html",
+      "summary": "An abandoned update server associated with input method editor (IME) software Sogou Zhuyin was leveraged by threat actors as part of an espionage campaign to deliver several malware families, including C6DOOR and GTELAM, in attacks primarily targeting users across Eastern Asia.\n\"Attackers employed sophisticated infection chains, such as hijacked software updates and fake cloud storage or login",
+      "published": "Fri, 29 Aug 2025 18:42:00 +0530",
+      "content": "An abandoned update server associated with input method editor (IME) software Sogou Zhuyin was leveraged by threat actors as part of an espionage campaign to deliver several malware families, including C6DOOR and GTELAM, in attacks primarily targeting users across Eastern Asia.\n\"Attackers employed sophisticated infection chains, such as hijacked software updates and fake cloud storage or login",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "title": "Can Your Security Stack See ChatGPT? Why Network Visibility Matters",
+      "link": "https://thehackernews.com/2025/08/can-your-security-stack-see-chatgpt-why.html",
+      "summary": "Generative AI platforms like ChatGPT, Gemini, Copilot, and Claude are increasingly common in organizations. While these solutions improve efficiency across tasks, they also present new data leak prevention for generative AI challenges. Sensitive information may be shared through chat prompts, files uploaded for AI-driven summarization, or browser plugins that bypass familiar security controls.",
+      "published": "Fri, 29 Aug 2025 16:00:00 +0530",
+      "content": "Generative AI platforms like ChatGPT, Gemini, Copilot, and Claude are increasingly common in organizations. While these solutions improve efficiency across tasks, they also present new data leak prevention for generative AI challenges. Sensitive information may be shared through chat prompts, files uploaded for AI-driven summarization, or browser plugins that bypass familiar security controls.",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "title": "Click Studios Patches Passwordstate Authentication Bypass Vulnerability in Emergency Access Page",
+      "link": "https://thehackernews.com/2025/08/click-studios-patches-passwordstate.html",
+      "summary": "Click Studios, the developer of enterprise-focused password management solution Passwordstate, said it has released security updates to address an authentication bypass vulnerability in its software.\nThe high-severity issue, which is yet to be assigned a CVE identifier, has been addressed in Passwordstate 9.9 (Build 9972), released August 28, 2025.\nThe Australian company said it fixed a \"",
+      "published": "Fri, 29 Aug 2025 15:28:00 +0530",
+      "content": "Click Studios, the developer of enterprise-focused password management solution Passwordstate, said it has released security updates to address an authentication bypass vulnerability in its software.\nThe high-severity issue, which is yet to be assigned a CVE identifier, has been addressed in Passwordstate 9.9 (Build 9972), released August 28, 2025.\nThe Australian company said it fixed a \"",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "title": "FreePBX Servers Targeted by Zero-Day Flaw, Emergency Patch Now Available",
+      "link": "https://thehackernews.com/2025/08/freepbx-servers-targeted-by-zero-day.html",
+      "summary": "The Sangoma FreePBX Security Team has issued an advisory warning about an actively exploited FreePBX zero-day vulnerability that impacts systems with an administrator control panel (ACP) exposed to the public internet.\nFreePBX is an open-source private branch exchange (PBX) platform widely used by businesses, call centers, and service providers to manage voice communications. It's built on top",
+      "published": "Fri, 29 Aug 2025 15:14:00 +0530",
+      "content": "The Sangoma FreePBX Security Team has issued an advisory warning about an actively exploited FreePBX zero-day vulnerability that impacts systems with an administrator control panel (ACP) exposed to the public internet.\nFreePBX is an open-source private branch exchange (PBX) platform widely used by businesses, call centers, and service providers to manage voice communications. It's built on top",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "title": "Feds Seize $6.4M VerifTools Fake-ID Marketplace, but Operators Relaunch on New Domain",
+      "link": "https://thehackernews.com/2025/08/feds-seize-64m-veriftools-fake-id.html",
+      "summary": "Authorities from the Netherlands and the United States have announced the dismantling of an illicit marketplace called VerifTools that peddled fraudulent identity documents to cybercriminals across the world.\nTo that end, two marketplace domains (verif[.]tools and veriftools[.]net) and one blog have been taken down, redirecting site visitors to a splash page stating the action was undertaken by",
+      "published": "Fri, 29 Aug 2025 14:35:00 +0530",
+      "content": "Authorities from the Netherlands and the United States have announced the dismantling of an illicit marketplace called VerifTools that peddled fraudulent identity documents to cybercriminals across the world.\nTo that end, two marketplace domains (verif[.]tools and veriftools[.]net) and one blog have been taken down, redirecting site visitors to a splash page stating the action was undertaken by",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "title": "Google Warns Salesloft Drift Breach Impacts All Drift Integrations Beyond Salesforce",
+      "link": "https://thehackernews.com/2025/08/google-warns-salesloft-oauth-breach.html",
+      "summary": "Google has revealed that the recent wave of attacks targeting Salesforce instances via Salesloft Drift is much broader in scope than previously thought, stating it impacts all integrations.\n\"We now advise all Salesloft Drift customers to treat any and all authentication tokens stored in or connected to the Drift platform as potentially compromised,\" Google Threat Intelligence Group (GTIG) and",
+      "published": "Fri, 29 Aug 2025 12:54:00 +0530",
+      "content": "Google has revealed that the recent wave of attacks targeting Salesforce instances via Salesloft Drift is much broader in scope than previously thought, stating it impacts all integrations.\n\"We now advise all Salesloft Drift customers to treat any and all authentication tokens stored in or connected to the Drift platform as potentially compromised,\" Google Threat Intelligence Group (GTIG) and",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "title": "TamperedChef Malware Disguised as Fake PDF Editors Steals Credentials and Cookies",
+      "link": "https://thehackernews.com/2025/08/tamperedchef-malware-disguised-as-fake.html",
+      "summary": "Cybersecurity researchers have discovered a cybercrime campaign that's using malvertising tricks to direct victims to fraudulent sites to deliver a new information stealer called TamperedChef.\n\"The objective is to lure victims into downloading and installing a trojanized PDF editor, which includes an information-stealing malware dubbed TamperedChef,\" Truesec researchers Mattias Wåhlén, Nicklas",
+      "published": "Fri, 29 Aug 2025 09:47:00 +0530",
+      "content": "Cybersecurity researchers have discovered a cybercrime campaign that's using malvertising tricks to direct victims to fraudulent sites to deliver a new information stealer called TamperedChef.\n\"The objective is to lure victims into downloading and installing a trojanized PDF editor, which includes an information-stealing malware dubbed TamperedChef,\" Truesec researchers Mattias Wåhlén, Nicklas",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "title": "Researchers Find VS Code Flaw Allowing Attackers to Republish Deleted Extensions Under Same Names",
+      "link": "https://thehackernews.com/2025/08/researchers-find-vs-code-flaw-allowing.html",
+      "summary": "Cybersecurity researchers have discovered a loophole in the Visual Studio Code Marketplace that allows threat actors to reuse names of previously removed extensions.\nSoftware supply chain security outfit ReversingLabs said it made the discovery after it identified a malicious extension named \"ahbanC.shiba\" that functioned similarly to two other extensions – ahban.shiba and ahban.cychelloworld –",
+      "published": "Thu, 28 Aug 2025 22:40:00 +0530",
+      "content": "Cybersecurity researchers have discovered a loophole in the Visual Studio Code Marketplace that allows threat actors to reuse names of previously removed extensions.\nSoftware supply chain security outfit ReversingLabs said it made the discovery after it identified a malicious extension named \"ahbanC.shiba\" that functioned similarly to two other extensions – ahban.shiba and ahban.cychelloworld –",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "title": "Salt Typhoon Exploits Flaws in Edge Network Devices to Breach 600 Organizations Worldwide",
+      "link": "https://thehackernews.com/2025/08/salt-typhoon-exploits-cisco-ivanti-palo.html",
+      "summary": "The China-linked advanced persistent threat (APT) actor known as Salt Typhoon has continued its attacks targeting networks across the world, including organizations in the telecommunications, government, transportation, lodging, and military infrastructure sectors.\n\"While these actors focus on large backbone routers of major telecommunications providers, as well as provider edge (PE) and",
+      "published": "Thu, 28 Aug 2025 19:34:00 +0530",
+      "content": "The China-linked advanced persistent threat (APT) actor known as Salt Typhoon has continued its attacks targeting networks across the world, including organizations in the telecommunications, government, transportation, lodging, and military infrastructure sectors.\n\"While these actors focus on large backbone routers of major telecommunications providers, as well as provider edge (PE) and",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "title": "Hidden Vulnerabilities of Project Management Tools & How FluentPro Backup Secures Them",
+      "link": "https://thehackernews.com/2025/08/hidden-vulnerabilities-of-project.html",
+      "summary": "Every day, businesses, teams, and project managers trust platforms like Trello, Asana, etc., to collaborate and manage tasks. But what happens when that trust is broken? According to a recent report by Statista, the average cost of a data breach worldwide was about $4.88 million. Also, in 2024, the private data of over 15 million Trello user profiles was shared on a popular hacker forum. Yet,",
+      "published": "Thu, 28 Aug 2025 16:30:00 +0530",
+      "content": "Every day, businesses, teams, and project managers trust platforms like Trello, Asana, etc., to collaborate and manage tasks. But what happens when that trust is broken? According to a recent report by Statista, the average cost of a data breach worldwide was about $4.88 million. Also, in 2024, the private data of over 15 million Trello user profiles was shared on a popular hacker forum. Yet,",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "title": "Malicious Nx Packages in ‘s1ngularity’ Attack Leaked 2,349 GitHub, Cloud, and AI Credentials",
+      "link": "https://thehackernews.com/2025/08/malicious-nx-packages-in-s1ngularity.html",
+      "summary": "The maintainers of the nx build system have alerted users to a supply chain attack that allowed attackers to publish malicious versions of the popular npm package and other auxiliary plugins with data-gathering capabilities.\n\"Malicious versions of the nx package, as well as some supporting plugin packages, were published to npm, containing code that scans the file system, collects credentials,",
+      "published": "Thu, 28 Aug 2025 16:06:00 +0530",
+      "content": "The maintainers of the nx build system have alerted users to a supply chain attack that allowed attackers to publish malicious versions of the popular npm package and other auxiliary plugins with data-gathering capabilities.\n\"Malicious versions of the nx package, as well as some supporting plugin packages, were published to npm, containing code that scans the file system, collects credentials,",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "title": "U.S. Treasury Sanctions DPRK IT-Worker Scheme, Exposing $600K Crypto Transfers and $1M+ Profits",
+      "link": "https://thehackernews.com/2025/08/us-treasury-sanctions-dprk-it-worker.html",
+      "summary": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) announced a fresh round of sanctions against two individuals and two entities for their role in the North Korean remote information technology (IT) worker scheme to generate illicit revenue for the regime's weapons of mass destruction and ballistic missile programs.\n\"The North Korean regime continues to target American",
+      "published": "Thu, 28 Aug 2025 14:23:00 +0530",
+      "content": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) announced a fresh round of sanctions against two individuals and two entities for their role in the North Korean remote information technology (IT) worker scheme to generate illicit revenue for the regime's weapons of mass destruction and ballistic missile programs.\n\"The North Korean regime continues to target American",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "title": "Storm-0501 Exploits Entra ID to Exfiltrate and Delete Azure Data in Hybrid Cloud Attacks",
+      "link": "https://thehackernews.com/2025/08/storm-0501-exploits-entra-id-to.html",
+      "summary": "The financially motivated threat actor known as Storm-0501 has been observed refining its tactics to conduct data exfiltration and extortion attacks targeting cloud environments.\n\"Unlike traditional on-premises ransomware, where the threat actor typically deploys malware to encrypt critical files across endpoints within the compromised network and then negotiates for a decryption key,",
+      "published": "Thu, 28 Aug 2025 00:34:00 +0530",
+      "content": "The financially motivated threat actor known as Storm-0501 has been observed refining its tactics to conduct data exfiltration and extortion attacks targeting cloud environments.\n\"Unlike traditional on-premises ransomware, where the threat actor typically deploys malware to encrypt critical files across endpoints within the compromised network and then negotiates for a decryption key,",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "title": "Someone Created the First AI-Powered Ransomware Using OpenAI's gpt-oss:20b Model",
+      "link": "https://thehackernews.com/2025/08/someone-created-first-ai-powered.html",
+      "summary": "Cybersecurity company ESET has disclosed that it discovered an artificial intelligence (AI)-powered ransomware variant codenamed PromptLock.\nWritten in Golang, the newly identified strain uses the gpt-oss:20b model from OpenAI locally via the Ollama API to generate malicious Lua scripts in real-time. The open-weight language model was released by OpenAI earlier this month.\n\"PromptLock",
+      "published": "Wed, 27 Aug 2025 22:37:00 +0530",
+      "content": "Cybersecurity company ESET has disclosed that it discovered an artificial intelligence (AI)-powered ransomware variant codenamed PromptLock.\nWritten in Golang, the newly identified strain uses the gpt-oss:20b model from OpenAI locally via the Ollama API to generate malicious Lua scripts in real-time. The open-weight language model was released by OpenAI earlier this month.\n\"PromptLock",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "title": "Anthropic Disrupts AI-Powered Cyberattacks Automating Theft and Extortion Across Critical Sectors",
+      "link": "https://thehackernews.com/2025/08/anthropic-disrupts-ai-powered.html",
+      "summary": "Anthropic on Wednesday revealed that it disrupted a sophisticated operation that weaponized its artificial intelligence (AI)-powered chatbot Claude to conduct large-scale theft and extortion of personal data in July 2025.\n\"The actor targeted at least 17 distinct organizations, including in healthcare, the emergency services, and government, and religious institutions,\" the company said. \"",
+      "published": "Wed, 27 Aug 2025 20:40:00 +0530",
+      "content": "Anthropic on Wednesday revealed that it disrupted a sophisticated operation that weaponized its artificial intelligence (AI)-powered chatbot Claude to conduct large-scale theft and extortion of personal data in July 2025.\n\"The actor targeted at least 17 distinct organizations, including in healthcare, the emergency services, and government, and religious institutions,\" the company said. \"",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "title": "ShadowSilk Hits 35 Organizations in Central Asia and APAC Using Telegram Bots",
+      "link": "https://thehackernews.com/2025/08/shadowsilk-hits-36-government-targets.html",
+      "summary": "A threat activity cluster known as ShadowSilk has been attributed to a fresh set of attacks targeting government entities within Central Asia and Asia-Pacific (APAC).\nAccording to Group-IB, nearly three dozen victims have been identified, with the intrusions mainly geared towards data exfiltration. The hacking group shares toolset and infrastructural overlaps with campaigns undertaken by threat",
+      "published": "Wed, 27 Aug 2025 19:17:00 +0530",
+      "content": "A threat activity cluster known as ShadowSilk has been attributed to a fresh set of attacks targeting government entities within Central Asia and Asia-Pacific (APAC).\nAccording to Group-IB, nearly three dozen victims have been identified, with the intrusions mainly geared towards data exfiltration. The hacking group shares toolset and infrastructural overlaps with campaigns undertaken by threat",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "title": "The 5 Golden Rules of Safe AI Adoption",
+      "link": "https://thehackernews.com/2025/08/the-5-golden-rules-of-safe-ai-adoption.html",
+      "summary": "Employees are experimenting with AI at record speed. They are drafting emails, analyzing data, and transforming the workplace. The problem is not the pace of AI adoption, but the lack of control and safeguards in place.\nFor CISOs and security leaders like you, the challenge is clear: you don’t want to slow AI adoption down, but you must make it safe. A policy sent company-wide will not cut it.",
+      "published": "Wed, 27 Aug 2025 17:00:00 +0530",
+      "content": "Employees are experimenting with AI at record speed. They are drafting emails, analyzing data, and transforming the workplace. The problem is not the pace of AI adoption, but the lack of control and safeguards in place.\nFor CISOs and security leaders like you, the challenge is clear: you don’t want to slow AI adoption down, but you must make it safe. A policy sent company-wide will not cut it.",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "title": "Salesloft OAuth Breach via Drift AI Chat Agent Exposes Salesforce Customer Data",
+      "link": "https://thehackernews.com/2025/08/salesloft-oauth-breach-via-drift-ai.html",
+      "summary": "A widespread data theft campaign has allowed hackers to breach sales automation platform Salesloft to steal OAuth and refresh tokens associated with the Drift artificial intelligence (AI) chat agent.\nThe activity, assessed to be opportunistic in nature, has been attributed to a threat actor tracked by Google Threat Intelligence Group (GTIG) and Mandiant, tracked as UNC6395. GTIG told The Hacker",
+      "published": "Wed, 27 Aug 2025 15:09:00 +0530",
+      "content": "A widespread data theft campaign has allowed hackers to breach sales automation platform Salesloft to steal OAuth and refresh tokens associated with the Drift artificial intelligence (AI) chat agent.\nThe activity, assessed to be opportunistic in nature, has been attributed to a threat actor tracked by Google Threat Intelligence Group (GTIG) and Mandiant, tracked as UNC6395. GTIG told The Hacker",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "title": "Blind Eagle’s Five Clusters Target Colombia Using RATs, Phishing Lures, and Dynamic DNS Infra",
+      "link": "https://thehackernews.com/2025/08/blind-eagles-five-clusters-target.html",
+      "summary": "Cybersecurity researchers have discovered five distinct activity clusters linked to a persistent threat actor known as Blind Eagle between May 2024 and July 2025.\nThese attacks, observed by Recorded Future Insikt Group, targeted various victims, but primarily within the Colombian government across local, municipal, and federal levels. The threat intelligence firm is tracking the activity under",
+      "published": "Wed, 27 Aug 2025 14:58:00 +0530",
+      "content": "Cybersecurity researchers have discovered five distinct activity clusters linked to a persistent threat actor known as Blind Eagle between May 2024 and July 2025.\nThese attacks, observed by Recorded Future Insikt Group, targeted various victims, but primarily within the Colombian government across local, municipal, and federal levels. The threat intelligence firm is tracking the activity under",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "title": "Citrix Patches Three NetScaler Flaws, Confirms Active Exploitation of CVE-2025-7775",
+      "link": "https://thehackernews.com/2025/08/citrix-patches-three-netscaler-flaws.html",
+      "summary": "Citrix has released fixes to address three security flaws in NetScaler ADC and NetScaler Gateway, including one that it said has been actively exploited in the wild.\nThe vulnerabilities in question are listed below -\n\nCVE-2025-7775 (CVSS score: 9.2) - Memory overflow vulnerability leading to Remote Code Execution and/or Denial-of-Service\nCVE-2025-7776 (CVSS score: 8.8) - Memory overflow",
+      "published": "Tue, 26 Aug 2025 22:59:00 +0530",
+      "content": "Citrix has released fixes to address three security flaws in NetScaler ADC and NetScaler Gateway, including one that it said has been actively exploited in the wild.\nThe vulnerabilities in question are listed below -\n\nCVE-2025-7775 (CVSS score: 9.2) - Memory overflow vulnerability leading to Remote Code Execution and/or Denial-of-Service\nCVE-2025-7776 (CVSS score: 8.8) - Memory overflow",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "title": "New Sni5Gect Attack Crashes Phones and Downgrades 5G to 4G without Rogue Base Station",
+      "link": "https://thehackernews.com/2025/08/new-sni5gect-attack-crashes-phones-and.html",
+      "summary": "A team of academics has devised a novel attack that can be used to downgrade a 5G connection to a lower generation without relying on a rogue base station (gNB).\nThe attack, per the ASSET (Automated Systems SEcuriTy) Research Group at the Singapore University of Technology and Design (SUTD), relies on a new open-source software toolkit named Sni5Gect (short for \"Sniffing 5G Inject\") that's",
+      "published": "Tue, 26 Aug 2025 22:53:00 +0530",
+      "content": "A team of academics has devised a novel attack that can be used to downgrade a 5G connection to a lower generation without relying on a rogue base station (gNB).\nThe attack, per the ASSET (Automated Systems SEcuriTy) Research Group at the Singapore University of Technology and Design (SUTD), relies on a new open-source software toolkit named Sni5Gect (short for \"Sniffing 5G Inject\") that's",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "title": "MixShell Malware Delivered via Contact Forms Targets U.S. Supply Chain Manufacturers",
+      "link": "https://thehackernews.com/2025/08/mixshell-malware-delivered-via-contact.html",
+      "summary": "Cybersecurity researchers are calling attention to a sophisticated social engineering campaign that's targeting supply chain-critical manufacturing companies with an in-memory malware dubbed MixShell.\nThe activity has been codenamed ZipLine by Check Point Research.\n\"Instead of sending unsolicited phishing emails, attackers initiate contact through a company's public 'Contact Us' form, tricking",
+      "published": "Tue, 26 Aug 2025 19:00:00 +0530",
+      "content": "Cybersecurity researchers are calling attention to a sophisticated social engineering campaign that's targeting supply chain-critical manufacturing companies with an in-memory malware dubbed MixShell.\nThe activity has been codenamed ZipLine by Check Point Research.\n\"Instead of sending unsolicited phishing emails, attackers initiate contact through a company's public 'Contact Us' form, tricking",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "title": "AI-Driven Trends in Endpoint Security: What the 2025 Gartner® Magic Quadrant™ Reveals",
+      "link": "https://thehackernews.com/2025/07/ai-driven-trends-in-endpoint-security.html",
+      "summary": "Cyber threats and attacks like ransomware continue to increase in volume and complexity with the endpoint typically being the most sought after and valued target. With the rapid expansion and adoption of AI, it is more critical than ever to ensure the endpoint is adequately secured by a platform capable of not just keeping pace, but staying ahead of an ever-evolving threat landscape.",
+      "published": "Tue, 26 Aug 2025 16:17:00 +0530",
+      "content": "Cyber threats and attacks like ransomware continue to increase in volume and complexity with the endpoint typically being the most sought after and valued target. With the rapid expansion and adoption of AI, it is more critical than ever to ensure the endpoint is adequately secured by a platform capable of not just keeping pace, but staying ahead of an ever-evolving threat landscape.",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "title": "ShadowCaptcha Exploits WordPress Sites to Spread Ransomware, Info Stealers, and Crypto Miners",
+      "link": "https://thehackernews.com/2025/08/shadowcaptcha-exploits-wordpress-sites.html",
+      "summary": "A new large-scale campaign has been observed exploiting over 100 compromised WordPress sites to direct site visitors to fake CAPTCHA verification pages that employ the ClickFix social engineering tactic to deliver information stealers, ransomware, and cryptocurrency miners.\nThe large-scale cybercrime campaign, first detected in August 2025, has been codenamed ShadowCaptcha by the Israel National",
+      "published": "Tue, 26 Aug 2025 16:15:00 +0530",
+      "content": "A new large-scale campaign has been observed exploiting over 100 compromised WordPress sites to direct site visitors to fake CAPTCHA verification pages that employ the ClickFix social engineering tactic to deliver information stealers, ransomware, and cryptocurrency miners.\nThe large-scale cybercrime campaign, first detected in August 2025, has been codenamed ShadowCaptcha by the Israel National",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "title": "HOOK Android Trojan Adds Ransomware Overlays, Expands to 107 Remote Commands",
+      "link": "https://thehackernews.com/2025/08/hook-android-trojan-adds-ransomware.html",
+      "summary": "Cybersecurity researchers have discovered a new variant of an Android banking trojan called HOOK that features ransomware-style overlay screens to display extortion messages.\n\"A prominent characteristic of the latest variant is its capacity to deploy a full-screen ransomware overlay, which aims to coerce the victim into remitting a ransom payment,\" Zimperium zLabs researcher Vishnu Pratapagiri",
+      "published": "Tue, 26 Aug 2025 14:31:00 +0530",
+      "content": "Cybersecurity researchers have discovered a new variant of an Android banking trojan called HOOK that features ransomware-style overlay screens to display extortion messages.\n\"A prominent characteristic of the latest variant is its capacity to deploy a full-screen ransomware overlay, which aims to coerce the victim into remitting a ransom payment,\" Zimperium zLabs researcher Vishnu Pratapagiri",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "title": "Google to Verify All Android Developers in 4 Countries to Block Malicious Apps",
+      "link": "https://thehackernews.com/2025/08/google-to-verify-all-android-developers.html",
+      "summary": "Google has announced plans to begin verifying the identity of all developers who distribute apps on Android, even for those who distribute their software outside the Play Store.\n\"Android will require all apps to be registered by verified developers in order to be installed by users on certified Android devices,\" the company said. \"This creates crucial accountability, making it much harder for",
+      "published": "Tue, 26 Aug 2025 11:57:00 +0530",
+      "content": "Google has announced plans to begin verifying the identity of all developers who distribute apps on Android, even for those who distribute their software outside the Play Store.\n\"Android will require all apps to be registered by verified developers in order to be installed by users on certified Android devices,\" the company said. \"This creates crucial accountability, making it much harder for",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "title": "CISA Adds Three Exploited Vulnerabilities to KEV Catalog Affecting Citrix and Git",
+      "link": "https://thehackernews.com/2025/08/cisa-adds-three-exploited.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added three security flaws impacting Citrix Session Recording and Git to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\nThe list of vulnerabilities is as follows -\n\nCVE-2024-8068 (CVSS score: 5.1) - An improper privilege management vulnerability in Citrix Session Recording",
+      "published": "Tue, 26 Aug 2025 11:25:00 +0530",
+      "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added three security flaws impacting Citrix Session Recording and Git to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\nThe list of vulnerabilities is as follows -\n\nCVE-2024-8068 (CVSS score: 5.1) - An improper privilege management vulnerability in Citrix Session Recording",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "title": "UNC6384 Deploys PlugX via Captive Portal Hijacks and Valid Certificates Targeting Diplomats",
+      "link": "https://thehackernews.com/2025/08/unc6384-deploys-plugx-via-captive.html",
+      "summary": "A China-nexus threat actor known as UNC6384 has been attributed to a set of attacks targeting diplomats in Southeast Asia and other entities across the globe to advance Beijing's strategic interests.\n\"This multi-stage attack chain leverages advanced social engineering including valid code signing certificates, an adversary-in-the-middle (AitM) attack, and indirect execution techniques to evade",
+      "published": "Mon, 25 Aug 2025 23:41:00 +0530",
+      "content": "A China-nexus threat actor known as UNC6384 has been attributed to a set of attacks targeting diplomats in Southeast Asia and other entities across the globe to advance Beijing's strategic interests.\n\"This multi-stage attack chain leverages advanced social engineering including valid code signing certificates, an adversary-in-the-middle (AitM) attack, and indirect execution techniques to evade",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "title": "Docker Fixes CVE-2025-9074, Critical Container Escape Vulnerability With CVSS Score 9.3",
+      "link": "https://thehackernews.com/2025/08/docker-fixes-cve-2025-9074-critical.html",
+      "summary": "Docker has released fixes to address a critical security flaw affecting the Docker Desktop app for Windows and macOS that could potentially allow an attacker to break out of the confines of a container.\nThe vulnerability, tracked as CVE-2025-9074, carries a CVSS score of 9.3 out of 10.0. It has been addressed in version 4.44.3.\n\"A malicious container running on Docker Desktop could access the",
+      "published": "Mon, 25 Aug 2025 23:23:00 +0530",
+      "content": "Docker has released fixes to address a critical security flaw affecting the Docker Desktop app for Windows and macOS that could potentially allow an attacker to break out of the confines of a container.\nThe vulnerability, tracked as CVE-2025-9074, carries a CVSS score of 9.3 out of 10.0. It has been addressed in version 4.44.3.\n\"A malicious container running on Docker Desktop could access the",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "title": "Phishing Campaign Uses UpCrypter in Fake Voicemail Emails to Deliver RAT Payloads",
+      "link": "https://thehackernews.com/2025/08/phishing-campaign-uses-upcrypter-in.html",
+      "summary": "Cybersecurity researchers have flagged a new phishing campaign that's using fake voicemails and purchase orders to deliver a malware loader called UpCrypter.\nThe campaign leverages \"carefully crafted emails to deliver malicious URLs linked to convincing phishing pages,\" Fortinet FortiGuard Labs researcher Cara Lin said. \"These pages are designed to entice recipients into downloading JavaScript",
+      "published": "Mon, 25 Aug 2025 21:34:00 +0530",
+      "content": "Cybersecurity researchers have flagged a new phishing campaign that's using fake voicemails and purchase orders to deliver a malware loader called UpCrypter.\nThe campaign leverages \"carefully crafted emails to deliver malicious URLs linked to convincing phishing pages,\" Fortinet FortiGuard Labs researcher Cara Lin said. \"These pages are designed to entice recipients into downloading JavaScript",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "title": "⚡ Weekly Recap: Password Manager Flaws, Apple 0-Day, Hidden AI Prompts, In-the-Wild Exploits & More",
+      "link": "https://thehackernews.com/2025/08/weekly-recap-password-manager-flaws.html",
+      "summary": "Cybersecurity today moves at the pace of global politics. A single breach can ripple across supply chains, turn a software flaw into leverage, or shift who holds the upper hand. For leaders, this means defense isn’t just a matter of firewalls and patches—it’s about strategy. The strongest organizations aren’t the ones with the most tools, but the ones that see how cyber risks connect to business",
+      "published": "Mon, 25 Aug 2025 17:47:00 +0530",
+      "content": "Cybersecurity today moves at the pace of global politics. A single breach can ripple across supply chains, turn a software flaw into leverage, or shift who holds the upper hand. For leaders, this means defense isn’t just a matter of firewalls and patches—it’s about strategy. The strongest organizations aren’t the ones with the most tools, but the ones that see how cyber risks connect to business",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "title": "Why SIEM Rules Fail and How to Fix Them: Insights from 160 Million Attack Simulations",
+      "link": "https://thehackernews.com/2025/08/why-siem-rules-fail-and-how-to-fix-them.html",
+      "summary": "Security Information and Event Management (SIEM) systems act as the primary tools for detecting suspicious activity in enterprise networks, helping organizations identify and respond to potential attacks in real time. However, the new Picus Blue Report 2025, based on over 160 million real-world attack simulations, revealed that organizations are only detecting 1 out of 7 simulated attacks,",
+      "published": "Mon, 25 Aug 2025 17:20:00 +0530",
+      "content": "Security Information and Event Management (SIEM) systems act as the primary tools for detecting suspicious activity in enterprise networks, helping organizations identify and respond to potential attacks in real time. However, the new Picus Blue Report 2025, based on over 160 million real-world attack simulations, revealed that organizations are only detecting 1 out of 7 simulated attacks,",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "title": "Transparent Tribe Targets Indian Govt With Weaponized Desktop Shortcuts via Phishing",
+      "link": "https://thehackernews.com/2025/08/transparent-tribe-targets-indian-govt.html",
+      "summary": "The advanced persistent threat (APT) actor known as Transparent Tribe has been observed targeting both Windows and BOSS (Bharat Operating System Solutions) Linux systems with malicious Desktop shortcut files in attacks targeting Indian Government entities.\n\"Initial access is achieved through spear-phishing emails,\" CYFIRMA said. \"Linux BOSS environments are targeted via weaponized .desktop",
+      "published": "Mon, 25 Aug 2025 13:43:00 +0530",
+      "content": "The advanced persistent threat (APT) actor known as Transparent Tribe has been observed targeting both Windows and BOSS (Bharat Operating System Solutions) Linux systems with malicious Desktop shortcut files in attacks targeting Indian Government entities.\n\"Initial access is achieved through spear-phishing emails,\" CYFIRMA said. \"Linux BOSS environments are targeted via weaponized .desktop",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "title": "Malicious Go Module Poses as SSH Brute-Force Tool, Steals Credentials via Telegram Bot",
+      "link": "https://thehackernews.com/2025/08/malicious-go-module-poses-as-ssh-brute.html",
+      "summary": "Cybersecurity researchers have discovered a malicious Go module that presents itself as a brute-force tool for SSH but actually contains functionality to discreetly exfiltrate credentials to its creator.\n\"On the first successful login, the package sends the target IP address, username, and password to a hard-coded Telegram bot controlled by the threat actor,\" Socket researcher Kirill Boychenko",
+      "published": "Sun, 24 Aug 2025 19:08:00 +0530",
+      "content": "Cybersecurity researchers have discovered a malicious Go module that presents itself as a brute-force tool for SSH but actually contains functionality to discreetly exfiltrate credentials to its creator.\n\"On the first successful login, the package sends the target IP address, username, and password to a hard-coded Telegram bot controlled by the threat actor,\" Socket researcher Kirill Boychenko",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "title": "GeoServer Exploits, PolarEdge, and Gayfemboy Push Cybercrime Beyond Traditional Botnets",
+      "link": "https://thehackernews.com/2025/08/geoserver-exploits-polaredge-and.html",
+      "summary": "Cybersecurity researchers are calling attention to multiple campaigns that are taking advantage of known security vulnerabilities and exposed Redis servers to various malicious activities, including leveraging the compromised devices as IoT botnets, residential proxies, or cryptocurrency mining infrastructure.\nThe first set of attacks entails the exploitation of CVE-2024-36401 (CVSS score: 9.8),",
+      "published": "Sat, 23 Aug 2025 13:08:00 +0530",
+      "content": "Cybersecurity researchers are calling attention to multiple campaigns that are taking advantage of known security vulnerabilities and exposed Redis servers to various malicious activities, including leveraging the compromised devices as IoT botnets, residential proxies, or cryptocurrency mining infrastructure.\nThe first set of attacks entails the exploitation of CVE-2024-36401 (CVSS score: 9.8),",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "title": "Linux Malware Delivered via Malicious RAR Filenames Evades Antivirus Detection",
+      "link": "https://thehackernews.com/2025/08/linux-malware-delivered-via-malicious.html",
+      "summary": "Cybersecurity researchers have shed light on a novel attack chain that employs phishing emails to deliver an open-source backdoor called VShell.\nThe \"Linux-specific malware infection chain that starts with a spam email with a malicious RAR archive file,\" Trellix researcher Sagar Bade said in a technical write-up.\n\"The payload isn't hidden inside the file content or a macro, it's encoded directly",
+      "published": "Fri, 22 Aug 2025 20:01:00 +0530",
+      "content": "Cybersecurity researchers have shed light on a novel attack chain that employs phishing emails to deliver an open-source backdoor called VShell.\nThe \"Linux-specific malware infection chain that starts with a spam email with a malicious RAR archive file,\" Trellix researcher Sagar Bade said in a technical write-up.\n\"The payload isn't hidden inside the file content or a macro, it's encoded directly",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "title": "Chinese Hackers Murky, Genesis, and Glacial Panda Escalate Cloud and Telecom Espionage",
+      "link": "https://thehackernews.com/2025/08/chinese-hackers-murky-genesis-and.html",
+      "summary": "Cybersecurity researchers are calling attention to malicious activity orchestrated by a China-nexus cyber espionage group known as Murky Panda that involves abusing trusted relationships in the cloud to breach enterprise networks.\n\"The adversary has also shown considerable ability to quickly weaponize N-day and zero-day vulnerabilities and frequently achieves initial access to their targets by",
+      "published": "Fri, 22 Aug 2025 16:36:00 +0530",
+      "content": "Cybersecurity researchers are calling attention to malicious activity orchestrated by a China-nexus cyber espionage group known as Murky Panda that involves abusing trusted relationships in the cloud to breach enterprise networks.\n\"The adversary has also shown considerable ability to quickly weaponize N-day and zero-day vulnerabilities and frequently achieves initial access to their targets by",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "title": "Automation Is Redefining Pentest Delivery",
+      "link": "https://thehackernews.com/2025/08/automation-is-redefining-pentest.html",
+      "summary": "Pentesting remains one of the most effective ways to identify real-world security weaknesses before adversaries do. But as the threat landscape has evolved, the way we deliver pentest results hasn't kept pace.\nMost organizations still rely on traditional reporting methods—static PDFs, emailed documents, and spreadsheet-based tracking. The problem? These outdated workflows introduce delays,",
+      "published": "Fri, 22 Aug 2025 16:36:00 +0530",
+      "content": "Pentesting remains one of the most effective ways to identify real-world security weaknesses before adversaries do. But as the threat landscape has evolved, the way we deliver pentest results hasn't kept pace.\nMost organizations still rely on traditional reporting methods—static PDFs, emailed documents, and spreadsheet-based tracking. The problem? These outdated workflows introduce delays,",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "title": "INTERPOL Arrests 1,209 Cybercriminals Across 18 African Nations in Global Crackdown",
+      "link": "https://thehackernews.com/2025/08/interpol-arrests-1209-cybercriminals.html",
+      "summary": "INTERPOL on Friday announced that authorities from 18 countries across Africa have arrested 1,209 cybercriminals who targeted 88,000 victims.\n\"The crackdown recovered $97.4 million and dismantled 11,432 malicious infrastructures, underscoring the global reach of cybercrime and the urgent need for cross-border cooperation,\" the agency said.\nThe effort is the second phase of an ongoing law",
+      "published": "Fri, 22 Aug 2025 16:35:00 +0530",
+      "content": "INTERPOL on Friday announced that authorities from 18 countries across Africa have arrested 1,209 cybercriminals who targeted 88,000 victims.\n\"The crackdown recovered $97.4 million and dismantled 11,432 malicious infrastructures, underscoring the global reach of cybercrime and the urgent need for cross-border cooperation,\" the agency said.\nThe effort is the second phase of an ongoing law",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "title": "Ex-Developer Jailed Four Years for Sabotaging Ohio Employer with Kill-Switch Malware",
+      "link": "https://thehackernews.com/2025/08/ex-developer-jailed-four-years-for.html",
+      "summary": "A 55-year-old Chinese national has been sentenced to four years in prison and three years of supervised release for sabotaging his former employer's network with custom malware and deploying a kill switch that locked out employees when his account was disabled.\nDavis Lu, 55, of Houston, Texas, was convicted of causing intentional damage to protected computers in March 2025. He was arrested and",
+      "published": "Fri, 22 Aug 2025 11:34:00 +0530",
+      "content": "A 55-year-old Chinese national has been sentenced to four years in prison and three years of supervised release for sabotaging his former employer's network with custom malware and deploying a kill switch that locked out employees when his account was disabled.\nDavis Lu, 55, of Houston, Texas, was convicted of causing intentional damage to protected computers in March 2025. He was arrested and",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "title": "Pre-Auth Exploit Chains Found in Commvault Could Enable Remote Code Execution Attacks",
+      "link": "https://thehackernews.com/2025/08/pre-auth-exploit-chains-found-in.html",
+      "summary": "Commvault has released updates to address four security gaps that could be exploited to achieve remote code execution on susceptible instances.\nThe list of vulnerabilities, identified in Commvault versions before 11.36.60, is as follows -\n\nCVE-2025-57788 (CVSS score: 6.9) - A vulnerability in a known login mechanism allows unauthenticated attackers to execute API calls without requiring user",
+      "published": "Thu, 21 Aug 2025 22:08:00 +0530",
+      "content": "Commvault has released updates to address four security gaps that could be exploited to achieve remote code execution on susceptible instances.\nThe list of vulnerabilities, identified in Commvault versions before 11.36.60, is as follows -\n\nCVE-2025-57788 (CVSS score: 6.9) - A vulnerability in a known login mechanism allows unauthenticated attackers to execute API calls without requiring user",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "title": "Cybercriminals Deploy CORNFLAKE.V3 Backdoor via ClickFix Tactic and Fake CAPTCHA Pages",
+      "link": "https://thehackernews.com/2025/08/cybercriminals-deploy-cornflakev3.html",
+      "summary": "Threat actors have been observed leveraging the deceptive social engineering tactic known as ClickFix to deploy a versatile backdoor codenamed CORNFLAKE.V3.\nGoogle-owned Mandiant described the activity, which it tracks as UNC5518, as part of an access-as-a-service scheme that employs fake CAPTCHA pages as lures to trick users into providing initial access to their systems, which is then",
+      "published": "Thu, 21 Aug 2025 21:55:00 +0530",
+      "content": "Threat actors have been observed leveraging the deceptive social engineering tactic known as ClickFix to deploy a versatile backdoor codenamed CORNFLAKE.V3.\nGoogle-owned Mandiant described the activity, which it tracks as UNC5518, as part of an access-as-a-service scheme that employs fake CAPTCHA pages as lures to trick users into providing initial access to their systems, which is then",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "title": "Weak Passwords and Compromised Accounts: Key Findings from the Blue Report 2025",
+      "link": "https://thehackernews.com/2025/08/weak-passwords-and-compromised-accounts.html",
+      "summary": "As security professionals, it's easy to get caught up in a race to counter the latest advanced adversary techniques. Yet the most impactful attacks often aren't from cutting-edge exploits, but from cracked credentials and compromised accounts. Despite widespread awareness of this threat vector, Picus Security's Blue Report 2025 shows that organizations continue to struggle with preventing",
+      "published": "Thu, 21 Aug 2025 16:20:00 +0530",
+      "content": "As security professionals, it's easy to get caught up in a race to counter the latest advanced adversary techniques. Yet the most impactful attacks often aren't from cutting-edge exploits, but from cracked credentials and compromised accounts. Despite widespread awareness of this threat vector, Picus Security's Blue Report 2025 shows that organizations continue to struggle with preventing",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "title": "Hackers Using New QuirkyLoader Malware to Spread Agent Tesla, AsyncRAT and Snake Keylogger",
+      "link": "https://thehackernews.com/2025/08/hackers-using-new-quirkyloader-malware.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new malware loader called QuirkyLoader that's being used to deliver via email spam campaigns an array of next-stage payloads ranging from information stealers to remote access trojans since November 2024.\nSome of the notable malware families distributed using QuirkyLoader include Agent Tesla, AsyncRAT, Formbook, Masslogger, Remcos RAT,",
+      "published": "Thu, 21 Aug 2025 16:11:00 +0530",
+      "content": "Cybersecurity researchers have disclosed details of a new malware loader called QuirkyLoader that's being used to deliver via email spam campaigns an array of next-stage payloads ranging from information stealers to remote access trojans since November 2024.\nSome of the notable malware families distributed using QuirkyLoader include Agent Tesla, AsyncRAT, Formbook, Masslogger, Remcos RAT,",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "title": "Scattered Spider Hacker Gets 10 Years, $13M Restitution for SIM Swapping Crypto Theft",
+      "link": "https://thehackernews.com/2025/08/scattered-spider-hacker-gets-10-years.html",
+      "summary": "A 20-year-old member of the notorious cybercrime gang known as Scattered Spider has been sentenced to ten years in prison in the U.S. in connection with a series of major hacks and cryptocurrency thefts.\nNoah Michael Urban pleaded guilty to charges related to wire fraud and aggravated identity theft back in April 2025. News of Urban's sentencing was reported by Bloomberg and Jacksonville news",
+      "published": "Thu, 21 Aug 2025 12:15:00 +0530",
+      "content": "A 20-year-old member of the notorious cybercrime gang known as Scattered Spider has been sentenced to ten years in prison in the U.S. in connection with a series of major hacks and cryptocurrency thefts.\nNoah Michael Urban pleaded guilty to charges related to wire fraud and aggravated identity theft back in April 2025. News of Urban's sentencing was reported by Bloomberg and Jacksonville news",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "title": "Apple Patches CVE-2025-43300 Zero-Day in iOS, iPadOS, and macOS Exploited in Targeted Attacks",
+      "link": "https://thehackernews.com/2025/08/apple-patches-cve-2025-43300-zero-day.html",
+      "summary": "Apple has released security updates to address a security flaw impacting iOS, iPadOS, and macOS that it said has come under active exploitation in the wild.\nThe zero-day out-of-bounds write vulnerability, tracked as CVE-2025-43300 (CVSS score: 8.8), resides in the ImageIO framework&nbsp;and could result in memory corruption&nbsp;when processing a malicious image.\n\"Apple is aware of a report that",
+      "published": "Thu, 21 Aug 2025 10:17:00 +0530",
+      "content": "Apple has released security updates to address a security flaw impacting iOS, iPadOS, and macOS that it said has come under active exploitation in the wild.\nThe zero-day out-of-bounds write vulnerability, tracked as CVE-2025-43300 (CVSS score: 8.8), resides in the ImageIO framework&nbsp;and could result in memory corruption&nbsp;when processing a malicious image.\n\"Apple is aware of a report that",
+      "source": "https://feeds.feedburner.com/TheHackersNews",
+      "rewritten_content": "Error rewriting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    }
+  ]
+}
