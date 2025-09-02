@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-02T08:00:54.670883",
-    "total_articles": 28,
-    "new_articles_in_last_fetch": 28,
+    "created_at": "2025-09-02T08:06:24.593015",
+    "total_articles": 31,
+    "new_articles_in_last_fetch": 31,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -370,6 +370,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SAP TO INVEST €20B IN 'SOVEREIGN CLOUD' BOOSTING EUROPE'S AI AMBITIONS 🚀\n\n- SAP commits €20B for European sovereign cloud in next decade 💰\n- Investment aims to strengthen Europe's AI capabilities 🌐\n- Focus on data security and privacy in the cloud ☁️\n- SAP's move aligns with European push for digital sovereignty 🇪🇺\n- Plan includes expanding data centers and utilizing AI technologies 🏗️\n- Strategic investment to propel Europe's tech independence 🚀\n\nTAKEAWAY: SAP's massive €20 billion investment in a sovereign cloud over the next 10 years aims to boost Europe's AI ambitions and enhance digital sovereignty.",
       "exported_at": "2025-09-02T08:00:54.669353",
+      "continuous_session": true
+    },
+    {
+      "title": "Deutsche Bank upgrades Ferrari, says new F80 supercar will drive major earnings growth",
+      "link": "https://www.cnbc.com/2025/09/02/deutsche-bank-upgrades-ferrari-says-new-f80-supercar-will-drive-major-earnings-growth.html",
+      "summary": "The F80 model, which starts at 3.6 million euros, could generate more than 450 million euros in incremental earnings for Ferrari, Deutsche Bank predicted.",
+      "published": "Tue, 02 Sep 2025 12:03:45 GMT",
+      "content": "The F80 model, which starts at 3.6 million euros, could generate more than 450 million euros in incremental earnings for Ferrari, Deutsche Bank predicted.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "24e41153bbebb846a21bd8d3070fade8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DEUTSCHE BANK UPGRADES FERRARI, PREDICTS MAJOR EARNINGS BOOST 🚀\n\n- Deutsche Bank upgrades Ferrari on F80 supercar potential 📈\n- F80 model priced at 3.6 million euros 💰\n- Predicted incremental earnings over 450 million euros 📈💰\n- F80 expected to drive significant earnings growth for Ferrari 🚀\n- Analysts optimistic about Ferrari's future prospects 🌟\n- Deutsche Bank anticipates strong performance from the F80 model 🔥\n\nTAKEAWAY: Deutsche Bank's upgrade of Ferrari and optimistic predictions about the F80 supercar indicate a potential major earnings boost for the company. 🚀📈",
+      "exported_at": "2025-09-02T08:06:24.591950",
+      "continuous_session": true
+    },
+    {
+      "title": "Manhattan office leasing on track to hit highest volume since 2019",
+      "link": "https://www.cnbc.com/2025/09/02/manhattan-office-leasing-on-track-to-hit-highest-volume-since-2019.html",
+      "summary": "Manhattan office leasing increased more than 20% in August compared with July to 3.7 million square feet, according to a new report from Colliers.",
+      "published": "Tue, 02 Sep 2025 12:00:01 GMT",
+      "content": "Manhattan office leasing increased more than 20% in August compared with July to 3.7 million square feet, according to a new report from Colliers.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9ef39a389cb31c12f85d7ffdbb12e1e2",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MANHATTAN OFFICE LEASING SURGES OVER 20% IN AUGUST 📈\n\n- Manhattan office leasing spikes to 3.7M sq ft in August\n- Marks a 20% increase from July's leasing volume\n- Colliers report reveals highest volume since 2019 🏢\n- Positive momentum in Manhattan's commercial real estate market\n- Strong recovery signals post-pandemic revival 🌟\n- Boost in leasing showcases growing confidence in office spaces\n\nTAKEAWAY: Manhattan's office leasing market shows a remarkable recovery, hitting the highest volume since 2019, signaling a strong post-pandemic revival and renewed confidence in commercial real estate.",
+      "exported_at": "2025-09-02T08:06:24.591960",
+      "continuous_session": true
+    },
+    {
+      "title": "EVs are giving Cadillac a shot at luxury leadership",
+      "link": "https://www.cnbc.com/2025/09/02/evs-are-giving-cadillac-a-shot-at-luxury-leadership-.html",
+      "summary": "Cadillac's EVs are poaching buyers from Audi, BMW, Mercedes, and Tesla, and EV sales make up nearly a third of Cadillac sales.",
+      "published": "Tue, 02 Sep 2025 12:00:01 GMT",
+      "content": "Cadillac's EVs are poaching buyers from Audi, BMW, Mercedes, and Tesla, and EV sales make up nearly a third of Cadillac sales.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ad6668e1acec45fc7a1d06c65d61facb",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CADILLAC'S EVs POACH LUXURY BUYERS FROM AUDI, BMW, MERCEDES, AND TESLA 🚀\n\n- EVs driving Cadillac's rise in luxury market share 📈\n- Nearly 1/3 of Cadillac sales come from EVs ⚡️\n- Competing with Audi, BMW, Mercedes, and Tesla 💥\n- Cadillac positioned for luxury leadership with EVs 🔝\n- EVs reshaping Cadillac's market presence 🔄\n- Disrupting traditional luxury car market 🌟\n\nTAKEAWAY: Cadillac's EVs are disrupting the luxury car market, poaching buyers from top competitors like Audi, BMW, Mercedes, and Tesla, positioning the brand for leadership in the luxury EV segment.",
+      "exported_at": "2025-09-02T08:06:24.591968",
       "continuous_session": true
     }
   ]
