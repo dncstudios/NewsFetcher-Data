@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-02T07:45:48.735084",
-    "total_articles": 26,
-    "new_articles_in_last_fetch": 26,
+    "created_at": "2025-09-02T08:00:54.670883",
+    "total_articles": 28,
+    "new_articles_in_last_fetch": 28,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -344,6 +344,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: UBS UPGRADES GLASS STOCK TO BUY, AI BENEFICIARY 🚀\n\n- UBS upgrades glass manufacturer shares from neutral to buy 📈\n- Stock likely to benefit from artificial intelligence technologies 🤖\n- Positive outlook for the glass company's future growth 📈\n\nTAKEAWAY: UBS's upgrade of the glass manufacturer's stock to buy, citing it as an AI beneficiary, indicates a positive growth trajectory ahead.",
       "exported_at": "2025-09-02T07:45:48.734160",
+      "continuous_session": true
+    },
+    {
+      "title": "Microsoft offers U.S. government over $6 billion in savings on cloud services over 3 years",
+      "link": "https://www.cnbc.com/2025/09/02/microsoft-offers-us-government-6-billion-in-savings-on-cloud-services.html",
+      "summary": "Microsoft is the latest company to discount the cost of its software to the General Services Administration.",
+      "published": "Tue, 02 Sep 2025 11:49:21 GMT",
+      "content": "Microsoft is the latest company to discount the cost of its software to the General Services Administration.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ee574dc6daacb4fbbab47e5afd4febcc",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MICROSOFT OFFERS $6 BILLION SAVINGS TO U.S. GOV ON CLOUD SERVICES 🚀\n\n- Microsoft cuts software costs for General Services Administration 💰\n- Savings valued at over $6 billion in 3 years 💸\n- Move follows other companies offering discounts to government 🏛️\n\nTAKEAWAY: Microsoft's $6 billion savings on cloud services for the U.S. government showcases their commitment to providing cost-effective solutions, aligning with other companies offering discounts to governmental agencies.",
+      "exported_at": "2025-09-02T08:00:54.669339",
+      "continuous_session": true
+    },
+    {
+      "title": "SAP to invest over 20 billion euros in &apos;sovereign cloud&apos; in boost to Europe&apos;s AI ambitions",
+      "link": "https://www.cnbc.com/2025/09/02/sap-to-invest-over-20-billion-euros-in-sovereign-cloud-in-europe.html",
+      "summary": "German software giant SAP on Tuesday announced it will invest over 20 billion euros into its sovereign cloud capabilities in Europe over the next 10 years.",
+      "published": "Tue, 02 Sep 2025 11:50:59 GMT",
+      "content": "German software giant SAP on Tuesday announced it will invest over 20 billion euros into its sovereign cloud capabilities in Europe over the next 10 years.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "43ea3e23c315269a95b4d606b26e0f0e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SAP TO INVEST €20B IN 'SOVEREIGN CLOUD' BOOSTING EUROPE'S AI AMBITIONS 🚀\n\n- SAP commits €20B for European sovereign cloud in next decade 💰\n- Investment aims to strengthen Europe's AI capabilities 🌐\n- Focus on data security and privacy in the cloud ☁️\n- SAP's move aligns with European push for digital sovereignty 🇪🇺\n- Plan includes expanding data centers and utilizing AI technologies 🏗️\n- Strategic investment to propel Europe's tech independence 🚀\n\nTAKEAWAY: SAP's massive €20 billion investment in a sovereign cloud over the next 10 years aims to boost Europe's AI ambitions and enhance digital sovereignty.",
+      "exported_at": "2025-09-02T08:00:54.669353",
       "continuous_session": true
     }
   ]
