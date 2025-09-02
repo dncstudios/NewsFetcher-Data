@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-02T18:55:31.030255",
-    "total_articles": 96,
-    "new_articles_in_last_fetch": 96,
+    "created_at": "2025-09-02T19:25:43.326568",
+    "total_articles": 97,
+    "new_articles_in_last_fetch": 97,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -1254,6 +1254,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JIM CRAMER'S INSIGHTS ON TUESDAY'S MARKET DECLINE 📉\n\n- CNBC's Jim Cramer analyzes Tuesday's market performance\n- Cramer shares strategies for navigating market downturns\n- Insights on handling volatility and market fluctuations\n- Tips for investors on managing risks during declines\n- Cramer breaks down key factors impacting market movements\n- Guidance on staying informed and making informed decisions\n\nTAKEAWAY: Jim Cramer provides valuable insights and strategies for investors to navigate market declines with confidence and informed decisions.",
       "exported_at": "2025-09-02T18:55:31.020795",
+      "continuous_session": true
+    },
+    {
+      "title": "Wednesday&apos;s big stock stories: What’s likely to move the market in the next trading session",
+      "link": "https://www.cnbc.com/2025/09/02/wednesdays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html",
+      "summary": "Stocks got off to a tough start in September, but a U.S. federal court ruling in Alphabet's antitrust case has futures moving higher.",
+      "published": "Tue, 02 Sep 2025 22:54:17 GMT",
+      "content": "Stocks got off to a tough start in September, but a U.S. federal court ruling in Alphabet's antitrust case has futures moving higher.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1b9647bdc6e7d8bfe0e240db415ff156",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WEDNESDAY'S STOCK MARKET OUTLOOK: ANTITRUST RULING BOOSTS ALPHABET 🚀\n\n- September starts tough for stocks, but futures rise after Alphabet antitrust win 📈\n- U.S. federal court ruling favors Alphabet, impacting market sentiment 🎯\n- Positive movement expected in the next trading session 📈\n\nTAKEAWAY: Alphabet's antitrust case victory in a U.S. federal court is likely to drive market optimism and boost stock futures for the upcoming trading session.",
+      "exported_at": "2025-09-02T19:25:43.316828",
       "continuous_session": true
     }
   ]
