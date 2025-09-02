@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-02T07:15:38.268419",
-    "total_articles": 23,
-    "new_articles_in_last_fetch": 23,
+    "created_at": "2025-09-02T07:30:42.894615",
+    "total_articles": 24,
+    "new_articles_in_last_fetch": 24,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -305,6 +305,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BUILDING PRODUCTS DISTRIBUTOR SET FOR MAJOR GAINS, MORGAN STANLEY PREDICTS 🚀\n\n- QXO identified by Morgan Stanley for industry consolidation 🏗️\n- High fragmentation in industry creates opportunity for growth 🌱\n- QXO positioned for significant gains in the market 📈\n\nTAKEAWAY: Morgan Stanley's prediction suggests that QXO, amidst industry fragmentation, is well-positioned for substantial growth and potential market dominance.",
       "exported_at": "2025-09-02T07:15:38.267559",
+      "continuous_session": true
+    },
+    {
+      "title": "Afghan earthquake death toll crosses 1,400, authorities say",
+      "link": "https://www.cnbc.com/2025/09/01/hundreds-feared-dead-injured-as-earthquake-of-magnitude-6-hits-afghanistan.html",
+      "summary": "The death toll from Afghanistan's worst earthquake in years jumped to over 1,400 on Tuesday with thousands more injured, authorities said.",
+      "published": "Tue, 02 Sep 2025 11:28:09 GMT",
+      "content": "The death toll from Afghanistan's worst earthquake in years jumped to over 1,400 on Tuesday with thousands more injured, authorities said.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e76f3accdf64d18463eea8a3a0b46f40",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AFGHAN EARTHQUAKE DEATH TOLL SURPASSES 1,400 🚨\n\n- Afghanistan struck by worst earthquake in years\n- Death toll rises to over 1,400, with thousands injured\n- Authorities confirm the devastating impact of the quake\n- Rescue efforts underway to assist the affected population\n\nTAKEAWAY: Afghanistan faces a tragic aftermath as the death toll surpasses 1,400 in the wake of the devastating earthquake, with thousands more injured and in need of assistance.",
+      "exported_at": "2025-09-02T07:30:42.893520",
       "continuous_session": true
     }
   ]
