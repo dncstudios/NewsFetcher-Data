@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-02T09:06:50.277526",
-    "total_articles": 44,
-    "new_articles_in_last_fetch": 44,
+    "created_at": "2025-09-02T09:21:54.420958",
+    "total_articles": 45,
+    "new_articles_in_last_fetch": 45,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -578,6 +578,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BLUE OWL EXPANDS INVESTOR BASE WITH TENNIS PLAYERS 🎾\n\n- Blue Owl targets broader investor audience in private markets 🎯\n- Strategic move to increase brand visibility and accessibility 🔍\n- Investing in pro tennis players to raise brand awareness 🌟\n- Aims to bring alternative asset managers into the spotlight 🌠\n\nTAKEAWAY: Blue Owl's innovative strategy of backing pro tennis players is a bold move to elevate brand awareness and attract a wider range of investors in the private markets, aiming to shine a spotlight on alternative asset managers.",
       "exported_at": "2025-09-02T09:06:50.276318",
+      "continuous_session": true
+    },
+    {
+      "title": "Media mogul John Malone on his memoir, state of the media landscape",
+      "link": "https://www.cnbc.com/video/2025/09/02/media-mogul-john-malone-on-his-memoir-state-of-the-media-landscape.html",
+      "summary": "John Malone, Liberty Media chairman, and ‘Born To Be Wired’ author, joins 'Squawk Box' to discuss the details of his memoir, his relationship with Barry Diller, his thoughts on CNN, state of the media landscape, M&amp;A outlook, and more.",
+      "published": "Tue, 02 Sep 2025 13:10:52 GMT",
+      "content": "John Malone, Liberty Media chairman, and ‘Born To Be Wired’ author, joins 'Squawk Box' to discuss the details of his memoir, his relationship with Barry Diller, his thoughts on CNN, state of the media landscape, M&amp;A outlook, and more.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3d29f4104fbf3ca705e2f080e4c86c23",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JOHN MALONE DISCUSSES MEMOIR & MEDIA LANDSCAPE 🚀\n\n- Liberty Media chairman shares insights on 'Born To Be Wired' 📚\n- Reveals details on his relationship with Barry Diller 💼\n- Malone discusses his thoughts on CNN in the current landscape 📺\n- Provides outlook on mergers and acquisitions in the media industry 💰\n\nTAKEAWAY: John Malone's memoir insights and media landscape analysis offer valuable perspectives for industry professionals and enthusiasts alike.",
+      "exported_at": "2025-09-02T09:21:54.419858",
       "continuous_session": true
     }
   ]
