@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-02T17:25:11.046884",
-    "total_articles": 93,
-    "new_articles_in_last_fetch": 93,
+    "created_at": "2025-09-02T17:40:15.071029",
+    "total_articles": 94,
+    "new_articles_in_last_fetch": 94,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -1215,6 +1215,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: GOOGLE KEEPS CHROME, BUT EXCLUSIVE SEARCH DEALS BARRED ⚠️\n\n- Google allowed to retain Chrome amidst exclusive search deals ban ✅\n- U.S. judge rules Google's monopoly in internet search as illegal ⚠️\n- Decision follows a year-long legal battle over Google's market dominance ⚖️\n\nTAKEAWAY: Google's victory in keeping Chrome amidst exclusive search deals ban, while facing the challenge of an illegal monopoly ruling, reshapes the tech giant's market landscape.",
       "exported_at": "2025-09-02T17:25:11.045142",
+      "continuous_session": true
+    },
+    {
+      "title": "Waymo starts testing in Denver, Seattle in bid to expand robotaxi service across U.S.",
+      "link": "https://www.cnbc.com/2025/09/02/waymo-starts-testing-in-denver-seattle-expands-us-robotaxi-service.html",
+      "summary": "Waymo is moving into new markets as it seeks to expand its lead in the nascent U.S. robotaxi industry.",
+      "published": "Tue, 02 Sep 2025 21:27:11 GMT",
+      "content": "Waymo is moving into new markets as it seeks to expand its lead in the nascent U.S. robotaxi industry.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e6eee3f7954c16270557b9f5c2b31072",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WAYMO EXPANDS ROBOTAXI SERVICE TO DENVER & SEATTLE 🚀\n\n- Waymo aims to dominate U.S. robotaxi industry 🌟\n- Testing begins in Denver and Seattle 🚗\n- Strategic move to capture new markets 🌎\n- Waymo seeks to solidify its position as an industry leader 🏆\n- Expansion signals aggressive growth strategy 📈\n- Waymo's focus on innovation drives market expansion 🔍\n\nTAKEAWAY: Waymo's strategic expansion into Denver and Seattle showcases its commitment to dominating the U.S. robotaxi industry through aggressive growth and innovation.",
+      "exported_at": "2025-09-02T17:40:15.069263",
       "continuous_session": true
     }
   ]
