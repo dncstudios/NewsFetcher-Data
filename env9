@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-02T12:23:07.402108",
-    "total_articles": 72,
-    "new_articles_in_last_fetch": 72,
+    "created_at": "2025-09-02T12:38:11.888514",
+    "total_articles": 73,
+    "new_articles_in_last_fetch": 73,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -942,6 +942,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JIM CRAMER HESITATES TO BUY TUESDAY'S SELL-OFF 🤔\n\n- Jim Cramer cautious amidst Tuesday's market downturn\n- Positive news on Starbucks' successful turnaround 🌟\n- The Investing Club's daily \"Morning Meeting\" at 10:20 a.m. ET\n\nTAKEAWAY: Jim Cramer's caution during the market sell-off paired with Starbucks' turnaround success highlights the importance of strategic investment decisions.",
       "exported_at": "2025-09-02T12:23:07.400606",
+      "continuous_session": true
+    },
+    {
+      "title": "Amazon cracks down on Prime free shipping sharing",
+      "link": "https://www.cnbc.com/2025/09/02/amazon-eliminates-prime-share-shipping.html",
+      "summary": "The company is ending the program in favor of Amazon Family, which lets users share Prime benefits with another adult, but they must share the same address.",
+      "published": "Tue, 02 Sep 2025 16:23:52 GMT",
+      "content": "The company is ending the program in favor of Amazon Family, which lets users share Prime benefits with another adult, but they must share the same address.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "83bcb1a199c557d04cef3a442bcd48aa",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AMAZON ENDS PRIME FREE SHIPPING SHARING PROGRAM 🚨\n\n- Amazon replaces program with Amazon Family 🔄\n- Prime benefits can now be shared with another adult 🤝\n- Users must reside at the same address 🏠\n\nTAKEAWAY: Amazon discontinuing the Prime free shipping sharing program in favor of Amazon Family requires users to share benefits with another adult residing at the same address.",
+      "exported_at": "2025-09-02T12:38:11.886950",
       "continuous_session": true
     }
   ]
