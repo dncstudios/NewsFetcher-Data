@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-02T07:00:31.094698",
-    "total_articles": 20,
-    "new_articles_in_last_fetch": 20,
+    "created_at": "2025-09-02T07:15:38.268419",
+    "total_articles": 23,
+    "new_articles_in_last_fetch": 23,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -266,6 +266,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: 2 BIG STOCK MARKET TRENDS TO WATCH THIS WEEK 📈\n\n- Market awaits impact of upcoming jobs data release 📊\n- Focus on whether data will affect expectations of Fed rate cut in September 🔍\n\nTAKEAWAY: Investors are closely monitoring this week's stock market trends, particularly the upcoming jobs data and its potential impact on expectations for a Fed rate cut in September.",
       "exported_at": "2025-09-02T07:00:31.093929",
+      "continuous_session": true
+    },
+    {
+      "title": "Treasury yields jump on prospect of U.S. having to refund tariff money; 30-year yield tops 4.97%",
+      "link": "https://www.cnbc.com/2025/09/02/us-treasury-yields-investors-look-to-key-jobs-report.html",
+      "summary": "U.S. Treasury yields were higher on Tuesday as investors looked ahead to a key jobs report on Friday and monitored the latest tariff developments.",
+      "published": "Tue, 02 Sep 2025 11:09:07 GMT",
+      "content": "U.S. Treasury yields were higher on Tuesday as investors looked ahead to a key jobs report on Friday and monitored the latest tariff developments.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b6fdcf41361af77bc3d8df3845c583c6",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TREASURY YIELDS SURGE AS INVESTORS EYE JOB REPORT 🚀\n\n- U.S. Treasury yields spike on potential tariff refunding 💸\n- 30-year yield climbs over 4.97%, indicating market optimism 📈\n- Investors anticipate Friday's critical job report 📆\n- Tariff updates closely monitored for market impact 🧐\n\nTAKEAWAY: Surge in Treasury yields driven by prospects of tariff refunding, with investors keenly watching upcoming job report for further market cues.",
+      "exported_at": "2025-09-02T07:15:38.267547",
+      "continuous_session": true
+    },
+    {
+      "title": "Klarna aims to raise up to $1.27 billion in U.S. IPO",
+      "link": "https://www.cnbc.com/2025/09/02/klarna-ipo-in-us-to-raise-up-to-1point27-billion-in.html",
+      "summary": "Swedish fintech firm Klarna is aiming to raise up to $1.27 billion in its long-awaited U.S. initial public offering, according to its official filing on Tuesday.",
+      "published": "Tue, 02 Sep 2025 11:11:44 GMT",
+      "content": "Swedish fintech firm Klarna is aiming to raise up to $1.27 billion in its long-awaited U.S. initial public offering, according to its official filing on Tuesday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6d584536e4948413145bb008dc6cef81",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: KLARNA SET TO RAISE UP TO $1.27 BILLION IN U.S. IPO 🚀\n\n- Swedish fintech Klarna targets $1.27 billion in U.S. IPO 💸\n- Official filing confirms long-awaited IPO plans 🎉\n- Klarna's move to tap into U.S. market for growth 🔝\n- Filing provides insight into Klarna's IPO strategy 📈\n- IPO marks a significant milestone for the fintech industry 💪\n\nTAKEAWAY: Klarna's ambitious plan to raise $1.27 billion in its U.S. IPO signifies a major step forward for the fintech company as it aims for growth and market expansion.",
+      "exported_at": "2025-09-02T07:15:38.267555",
+      "continuous_session": true
+    },
+    {
+      "title": "This building products distributor is poised for major gains, Morgan Stanley says",
+      "link": "https://www.cnbc.com/2025/09/02/this-building-products-distributor-is-poised-for-major-gains-morgan-stanley-says.html",
+      "summary": "Morgan Stanley said that QXO was one player in a highly fragmented industry that was \"ripe for consolidation.\"",
+      "published": "Tue, 02 Sep 2025 11:00:52 GMT",
+      "content": "Morgan Stanley said that QXO was one player in a highly fragmented industry that was \"ripe for consolidation.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b62ffc0316b96435b3aee725035a242b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BUILDING PRODUCTS DISTRIBUTOR SET FOR MAJOR GAINS, MORGAN STANLEY PREDICTS 🚀\n\n- QXO identified by Morgan Stanley for industry consolidation 🏗️\n- High fragmentation in industry creates opportunity for growth 🌱\n- QXO positioned for significant gains in the market 📈\n\nTAKEAWAY: Morgan Stanley's prediction suggests that QXO, amidst industry fragmentation, is well-positioned for substantial growth and potential market dominance.",
+      "exported_at": "2025-09-02T07:15:38.267559",
       "continuous_session": true
     }
   ]
