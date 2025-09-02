@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-02T08:36:37.519528",
-    "total_articles": 38,
-    "new_articles_in_last_fetch": 38,
+    "created_at": "2025-09-02T08:51:42.118802",
+    "total_articles": 40,
+    "new_articles_in_last_fetch": 40,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -500,6 +500,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TUESDAY'S TOP ANALYST CALLS: NVIDIA, APPLE, BROADCOM 🚀\n\n- Analysts issue top recommendations for Nvidia, Apple, Broadcom 🔥\n- Wall Street's spotlight on Ferrari, Walmart, McDonald's, Corning ⚡️\n- Market awaits insights from key analyst predictions ✅\n\nTAKEAWAY: Tuesday brings crucial analyst calls for tech giants like Nvidia, Apple, and Broadcom, shaping market expectations and investor decisions.",
       "exported_at": "2025-09-02T08:36:37.518314",
+      "continuous_session": true
+    },
+    {
+      "title": "McDonald&apos;s to expand value menu as CEO says the chain aims to reach more customers",
+      "link": "https://www.cnbc.com/2025/09/02/mcdonalds-value-menu-combo-meals.html",
+      "summary": "McDonald's is bringing back its Extra Value Meals as it tries to appeal to price-sensitive customers.",
+      "published": "Tue, 02 Sep 2025 12:44:02 GMT",
+      "content": "McDonald's is bringing back its Extra Value Meals as it tries to appeal to price-sensitive customers.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "05b8bc8e2c0a0ac4087d1be731754357",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MCDONALD'S EXPANDS VALUE MENU WITH DISCOUNTED COMBO MEALS 🍔🍟\n\n- McDonald's reintroduces Extra Value Meals for budget-conscious customers 🌟\n- Strategy aims to attract price-sensitive clientele seeking affordable options 💰\n- Focus on value menu expansion to boost customer satisfaction and sales 📈\n- Extra Value Meals to offer discounted combo options for cost-effective choices 🍔🥤\n- Initiative aligns with McDonald's goal to cater to diverse consumer needs 🎯\n- Reintroduction of value menu reflects McDonald's commitment to customer preferences ✅\n\nTAKEAWAY: McDonald's strategic move to expand its value menu with discounted combo meals demonstrates a customer-centric approach to attract budget-conscious consumers and drive sales.",
+      "exported_at": "2025-09-02T08:51:42.117676",
+      "continuous_session": true
+    },
+    {
+      "title": "There&apos;s a ‘golden opportunity’ to pay 0% capital gains under Trump’s ‘big beautiful bill,’ experts say",
+      "link": "https://www.cnbc.com/2025/09/02/capital-gains-taxes-trump-big-beautiful-bill.html",
+      "summary": "More investors could pay 0% capital gains taxes in 2025 under President Donald Trump’s ‘big beautiful bill.’ How to leverage the opportunity.",
+      "published": "Tue, 02 Sep 2025 12:36:56 GMT",
+      "content": "More investors could pay 0% capital gains taxes in 2025 under President Donald Trump’s ‘big beautiful bill.’ How to leverage the opportunity.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b176955a36b64dd0c329aa3fd374aa38",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 'GOLDEN OPPORTUNITY' TO PAY 0% CAPITAL GAINS UNDER TRUMP'S 'BIG BEAUTIFUL BILL' 🌟\n\n- Experts predict more investors can pay 0% capital gains taxes in 2025 💰\n- President Trump's bill creates favorable tax conditions 📈\n- Investors advised on how to maximize this opportunity 🚀\n\nTAKEAWAY: The 'big beautiful bill' by President Trump offers a golden chance for investors to potentially pay 0% capital gains taxes in 2025, creating a favorable environment for financial growth.",
+      "exported_at": "2025-09-02T08:51:42.117685",
       "continuous_session": true
     }
   ]
