@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-02T07:30:42.894615",
-    "total_articles": 24,
-    "new_articles_in_last_fetch": 24,
+    "created_at": "2025-09-02T07:45:48.735084",
+    "total_articles": 26,
+    "new_articles_in_last_fetch": 26,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -318,6 +318,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AFGHAN EARTHQUAKE DEATH TOLL SURPASSES 1,400 🚨\n\n- Afghanistan struck by worst earthquake in years\n- Death toll rises to over 1,400, with thousands injured\n- Authorities confirm the devastating impact of the quake\n- Rescue efforts underway to assist the affected population\n\nTAKEAWAY: Afghanistan faces a tragic aftermath as the death toll surpasses 1,400 in the wake of the devastating earthquake, with thousands more injured and in need of assistance.",
       "exported_at": "2025-09-02T07:30:42.893520",
+      "continuous_session": true
+    },
+    {
+      "title": "McDonald&apos;s to expand value menu with discounted combo meals",
+      "link": "https://www.cnbc.com/2025/09/02/mcdonalds-value-menu-combo-meals.html",
+      "summary": "McDonald's is bringing back its Extra Value Meals as it tries to appeal to price-sensitive customers.",
+      "published": "Tue, 02 Sep 2025 11:30:01 GMT",
+      "content": "McDonald's is bringing back its Extra Value Meals as it tries to appeal to price-sensitive customers.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "60712d142a6eb502fed2c4ed2c26673e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MCDONALD'S EXPANDS VALUE MENU WITH DISCOUNTED COMBO MEALS 🍔🍟\n\n- McDonald's reintroduces Extra Value Meals for budget-conscious customers 🌟\n- Strategy aims to attract price-sensitive clientele seeking affordable options 💰\n- Focus on value menu expansion to boost customer satisfaction and sales 📈\n- Extra Value Meals to offer discounted combo options for cost-effective choices 🍔🥤\n- Initiative aligns with McDonald's goal to cater to diverse consumer needs 🎯\n- Reintroduction of value menu reflects McDonald's commitment to customer preferences ✅\n\nTAKEAWAY: McDonald's strategic move to expand its value menu with discounted combo meals demonstrates a customer-centric approach to attract budget-conscious consumers and drive sales.",
+      "exported_at": "2025-09-02T07:45:48.734151",
+      "continuous_session": true
+    },
+    {
+      "title": "UBS upgrades this glass stock, calls it an AI beneficiary",
+      "link": "https://www.cnbc.com/2025/09/02/ubs-upgrades-this-glass-stock-calls-it-an-ai-beneficiary.html",
+      "summary": "The bank upgraded shares of the glass manufacturer to buy from neutral.",
+      "published": "Tue, 02 Sep 2025 11:29:28 GMT",
+      "content": "The bank upgraded shares of the glass manufacturer to buy from neutral.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d3c3f0e14095388c4109d309f1bb0011",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: UBS UPGRADES GLASS STOCK TO BUY, AI BENEFICIARY 🚀\n\n- UBS upgrades glass manufacturer shares from neutral to buy 📈\n- Stock likely to benefit from artificial intelligence technologies 🤖\n- Positive outlook for the glass company's future growth 📈\n\nTAKEAWAY: UBS's upgrade of the glass manufacturer's stock to buy, citing it as an AI beneficiary, indicates a positive growth trajectory ahead.",
+      "exported_at": "2025-09-02T07:45:48.734160",
       "continuous_session": true
     }
   ]
