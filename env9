@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-02T16:40:00.640044",
-    "total_articles": 90,
-    "new_articles_in_last_fetch": 90,
+    "created_at": "2025-09-02T17:10:08.254605",
+    "total_articles": 92,
+    "new_articles_in_last_fetch": 92,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -1176,6 +1176,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SANTOLI'S TUESDAY MARKET WRAP-UP: NEW MONTH, NEW CHALLENGES ⚠️\n\n- Court ruling on tariffs leads to levitating Treasury yields 📈\n- Equity indexes wobble amidst prevailing bullish beliefs 📉\n- Fresh challenges emerge as new month starts 🆕\n\nTAKEAWAY: The market faces uncertainties as levitating Treasury yields and court rulings challenge prevailing bullish beliefs at the start of a new month.",
       "exported_at": "2025-09-02T16:40:00.638181",
+      "continuous_session": true
+    },
+    {
+      "title": "Abbe Lowell: The veteran defense lawyer squaring off against Trump in Federal Reserve fight",
+      "link": "https://www.cnbc.com/2025/09/02/abbe-lowell-trump-lawyer-lisa-cook-.html",
+      "summary": "Abbe Lowell, who has defended Hunter Biden, New York Attorney General Letitia James, Jared Kushner and others is again taking on President Donald Trump.",
+      "published": "Tue, 02 Sep 2025 20:57:43 GMT",
+      "content": "Abbe Lowell, who has defended Hunter Biden, New York Attorney General Letitia James, Jared Kushner and others is again taking on President Donald Trump.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f28bee8f235e2fa1f4b3ee0f40e7d0db",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ABBE LOWELL FACES TRUMP IN FEDERAL RESERVE BATTLE ⚔️\n\n- Veteran lawyer Abbe Lowell defends Hunter Biden, Letitia James, Jared Kushner\n- Lowell now squares off against President Trump 🤺\n- Known for high-profile clients, including Trump's rivals 🌟\n\nTAKEAWAY: Abbe Lowell's reputation as a seasoned defense lawyer is put to the test as he confronts President Trump in the Federal Reserve fight, showcasing his expertise in high-stakes legal battles.",
+      "exported_at": "2025-09-02T17:10:08.252643",
+      "continuous_session": true
+    },
+    {
+      "title": "Airplane leasing world shrinks with $7.4 billion takeover of Air Lease",
+      "link": "https://www.cnbc.com/2025/09/02/airplane-leasing-air-lease-takeover.html",
+      "summary": "A group of investors led by Sumitomo and SMBC Aviation Capital are taking Air Lease, founded by aviation mogul Steven Udvar-Házy, private for $7.4 billion.",
+      "published": "Tue, 02 Sep 2025 21:05:51 GMT",
+      "content": "A group of investors led by Sumitomo and SMBC Aviation Capital are taking Air Lease, founded by aviation mogul Steven Udvar-Házy, private for $7.4 billion.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3f8046b374f1adb0aa63cb3602301a92",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AIR LEASE SHRINKS IN $7.4B TAKEOVER 🚀\n\n- Investors lead $7.4B takeover of Air Lease ✈️\n- Sumitomo and SMBC Aviation Capital spearhead the deal 🤝\n- Air Lease, founded by Steven Udvar-Házy, goes private 💼\n- Aviation industry witnesses a significant shift 🔄\n- Consolidation in airplane leasing market accelerates 📈\n- Impact on Air Lease's future strategies and operations 🔍\n\nTAKEAWAY: The $7.4 billion takeover of Air Lease by Sumitomo and SMBC Aviation Capital marks a significant shift in the aviation industry, accelerating consolidation and raising questions about the company's future direction.",
+      "exported_at": "2025-09-02T17:10:08.252653",
       "continuous_session": true
     }
   ]
