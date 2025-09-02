@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-02T10:37:22.261518",
-    "total_articles": 58,
-    "new_articles_in_last_fetch": 58,
+    "created_at": "2025-09-02T10:52:29.978597",
+    "total_articles": 60,
+    "new_articles_in_last_fetch": 60,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -760,6 +760,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WARREN BUFFETT EXPRESS DISAPPOINTMENT IN KRAFT HEINZ SPLIT 🚨\n\n- Buffett disappointed in Kraft Heinz split; shares drop 3% 💔\n- Chosen successor Greg Abel conveys Berkshire Hathaway's disappointment 🗣️\n- Kraft Heinz faces challenges following split 📉\n\nTAKEAWAY: Warren Buffett's disappointment in Kraft Heinz split leads to a 3% drop in shares, highlighting challenges post-separation.",
       "exported_at": "2025-09-02T10:37:22.260173",
+      "continuous_session": true
+    },
+    {
+      "title": "NYSE insider Jay Woods on the three stocks pros are watching the most this week",
+      "link": "https://www.cnbc.com/2025/09/02/nyse-insider-jay-woods-on-the-three-stocks-pros-are-watching-the-most-this-week.html",
+      "summary": "Jay Woods says the pros are watching Broadcom, Dollar Tree and Salesforce this week.",
+      "published": "Tue, 02 Sep 2025 14:34:24 GMT",
+      "content": "Jay Woods says the pros are watching Broadcom, Dollar Tree and Salesforce this week.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "81f25269ee285698fdde4d8ec39ac4cc",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NYSE INSIDER REVEALS TOP 3 STOCKS PROS WATCH THIS WEEK 🚀\n\n- Pros eyeing Broadcom, Dollar Tree, and Salesforce 📈\n- Jay Woods highlights these 3 stocks for the week 💼\n- Market buzzing with anticipation for potential moves 🌟\n\nTAKEAWAY: Keep a close eye on Broadcom, Dollar Tree, and Salesforce as they catch the attention of professionals this week, signaling potential market movements.",
+      "exported_at": "2025-09-02T10:52:29.977107",
+      "continuous_session": true
+    },
+    {
+      "title": "An options trade on this outperforming timeless fashion stock",
+      "link": "https://www.cnbc.com/2025/09/02/an-options-trade-on-this-outperforming-timeless-fashion-stock.html",
+      "summary": "Options trader Michael Khouw breaks down how to trade this fashion name using options.",
+      "published": "Tue, 02 Sep 2025 14:26:22 GMT",
+      "content": "Options trader Michael Khouw breaks down how to trade this fashion name using options.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9c37313086260cb7de78323101d84914",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AN OPTIONS TRADE ON TIMELESS FASHION STOCK 🚀\n\n- Options trader Michael Khouw reveals strategy for trading fashion stock\n- Utilizing options to maximize gains on outperforming fashion company\n- Detailed breakdown of how to approach trading this timeless stock\n- Insights on leveraging options for potential profits in fashion sector\n\nTAKEAWAY: Dive into the world of options trading with Michael Khouw's strategy on maximizing gains with this outperforming timeless fashion stock.",
+      "exported_at": "2025-09-02T10:52:29.977121",
       "continuous_session": true
     }
   ]
