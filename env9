@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-02T12:38:11.888514",
-    "total_articles": 73,
-    "new_articles_in_last_fetch": 73,
+    "created_at": "2025-09-02T12:53:15.261576",
+    "total_articles": 74,
+    "new_articles_in_last_fetch": 74,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -955,6 +955,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AMAZON ENDS PRIME FREE SHIPPING SHARING PROGRAM 🚨\n\n- Amazon replaces program with Amazon Family 🔄\n- Prime benefits can now be shared with another adult 🤝\n- Users must reside at the same address 🏠\n\nTAKEAWAY: Amazon discontinuing the Prime free shipping sharing program in favor of Amazon Family requires users to share benefits with another adult residing at the same address.",
       "exported_at": "2025-09-02T12:38:11.886950",
+      "continuous_session": true
+    },
+    {
+      "title": "September has a bad reputation. It&apos;s the back half of the month traders need to worry about",
+      "link": "https://www.cnbc.com/2025/09/02/september-has-a-bad-reputation-its-the-back-half-of-month-traders-need-to-worry-about.html",
+      "summary": "September's seasonal weakness is more prevalent in the back half of the month.",
+      "published": "Tue, 02 Sep 2025 16:00:01 GMT",
+      "content": "September's seasonal weakness is more prevalent in the back half of the month.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "95ec495ce60586d1e5576d026c581a2d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SEPTEMBER BLUES: TRADERS BEWARE OF BACK-HALF SLUMP 📉\n\n- Seasonal weakness hits harder in September's latter half ⏰\n- Traders face increased volatility and risks 🔥\n- Back-half slump brings challenges for market participants 📉\n\nTAKEAWAY: Traders should stay vigilant and brace for increased volatility and risks in the latter half of September due to seasonal weakness.",
+      "exported_at": "2025-09-02T12:53:15.259947",
       "continuous_session": true
     }
   ]
