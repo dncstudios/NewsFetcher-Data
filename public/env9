@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-02T15:39:45.526985",
-    "total_articles": 87,
-    "new_articles_in_last_fetch": 87,
+    "created_at": "2025-09-02T15:54:50.177094",
+    "total_articles": 88,
+    "new_articles_in_last_fetch": 88,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -1137,6 +1137,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AIR LEASE SHRINKS IN $7.4 BILLION TAKEOVER 🚀\n\n- Sumitomo Corp and SMBC Aviation Capital lead $7.4B takeover ✈️\n- Investors acquire Air Lease founded by aviation mogul Steven Udvar-Házy 🌟\n- Airplane leasing market contracts with this significant move 💼\n\nTAKEAWAY: The $7.4 billion takeover of Air Lease by Sumitomo Corp and SMBC Aviation Capital marks a significant shift in the airplane leasing industry.",
       "exported_at": "2025-09-02T15:39:45.525106",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump&apos;s World Liberty token falls sharply a day after it begins trading: CNBC Crypto World",
+      "link": "https://www.cnbc.com/video/2025/09/02/trumps-world-liberty-token-falls-13percent-day-after-begins-trading-cnbc-crypto-world.html",
+      "summary": "On today's episode of CNBC Crypto World, bitcoin rises back while the Trump-backed World Liberty Financial token falls after it began trading on Monday. Plus, crypto platform Gemini looks to raise more than $300 million dollars in its U.S. IPO. And, Ryan Rasmussen of Bitwise Asset Management breaks down the firm's long-term outlook for bitcoin.",
+      "published": "Tue, 02 Sep 2025 19:34:58 GMT",
+      "content": "On today's episode of CNBC Crypto World, bitcoin rises back while the Trump-backed World Liberty Financial token falls after it began trading on Monday. Plus, crypto platform Gemini looks to raise more than $300 million dollars in its U.S. IPO. And, Ryan Rasmussen of Bitwise Asset Management breaks down the firm's long-term outlook for bitcoin.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "479f57c75e06731223a2fd6b33893462",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP'S WORLD LIBERTY TOKEN DROPS AFTER TRADING DEBUT 📉\n\n- Trump's World Liberty Financial token plunges post-trading 💔\n- Bitcoin rebounds amidst World Liberty token's decline 📈\n- Gemini eyes over $300M in U.S. IPO funding 💰\n- Bitwise Asset Management analyzes bitcoin's future outlook 💡\n\nTAKEAWAY: Trump's World Liberty token faces a rocky start as bitcoin rallies, Gemini aims for significant IPO funding, and Bitwise Asset Management provides insights into bitcoin's long-term prospects.",
+      "exported_at": "2025-09-02T15:54:50.175297",
       "continuous_session": true
     }
   ]
