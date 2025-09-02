@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-02T08:51:42.118802",
-    "total_articles": 40,
-    "new_articles_in_last_fetch": 40,
+    "created_at": "2025-09-02T09:06:50.277526",
+    "total_articles": 44,
+    "new_articles_in_last_fetch": 44,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -526,6 +526,58 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: 'GOLDEN OPPORTUNITY' TO PAY 0% CAPITAL GAINS UNDER TRUMP'S 'BIG BEAUTIFUL BILL' 🌟\n\n- Experts predict more investors can pay 0% capital gains taxes in 2025 💰\n- President Trump's bill creates favorable tax conditions 📈\n- Investors advised on how to maximize this opportunity 🚀\n\nTAKEAWAY: The 'big beautiful bill' by President Trump offers a golden chance for investors to potentially pay 0% capital gains taxes in 2025, creating a favorable environment for financial growth.",
       "exported_at": "2025-09-02T08:51:42.117685",
+      "continuous_session": true
+    },
+    {
+      "title": "Dow futures tumble 400 points to start September amid new tariff uncertainty, rising bond yields: Live updates",
+      "link": "https://www.cnbc.com/2025/09/01/stock-market-today-live-updates.html",
+      "summary": "Wall Street is weighing a ruling from a federal appeals court on Friday that determined most of President Donald Trump's global tariffs illegal.",
+      "published": "Tue, 02 Sep 2025 13:06:24 GMT",
+      "content": "Wall Street is weighing a ruling from a federal appeals court on Friday that determined most of President Donald Trump's global tariffs illegal.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "507598ad60d00b8324033f8e17e76d11",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK FUTURES SLIDE AMID UNCERTAINTY OVER TARIFFS COURT DECISION 📉\n\n- Wall Street reacts to federal court ruling on Trump's tariffs 🏛️\n- Court deems most of Trump's global tariffs illegal 🚫\n- Investors navigate new uncertainty in September trading 🔄\n- Market anticipates potential impact on trade policies 🌐\n- Tariff legality issue adds pressure to stock futures 📉\n- Decision raises concerns about future trade regulations ⚠️\n\nTAKEAWAY: Wall Street faces a turbulent start in September as stock futures decline due to uncertainty surrounding the legality of Trump's global tariffs after a court ruling.",
+      "exported_at": "2025-09-02T09:06:50.276303",
+      "continuous_session": true
+    },
+    {
+      "title": "Pepsi shares jump 5% as activist Elliott takes $4 billion stake, sees &apos;historic&apos; value opportunity",
+      "link": "https://www.cnbc.com/2025/09/02/pepsi-shares-jump-4percent-after-wsj-reports-elliott-planning-major-activist-campaign.html",
+      "summary": "The Paul Singer-founded Elliott's bet in Pepsi is worth $4 billion, becoming the consumer giant's top five active investors excluding index funds.",
+      "published": "Tue, 02 Sep 2025 13:05:45 GMT",
+      "content": "The Paul Singer-founded Elliott's bet in Pepsi is worth $4 billion, becoming the consumer giant's top five active investors excluding index funds.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a7bb33e6f5801719e93e3bff27607187",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PEPSI SHARES SOAR 5% AS ELLIOTT TAKES $4B STAKE 🚀\n\n- Activist Elliott sees 'historic' value opportunity in Pepsi 💰\n- Singer's Elliott now a top 5 investor in Pepsi 📈\n- $4 billion bet on Pepsi boosts investor confidence 🤑\n\nTAKEAWAY: Elliott's $4 billion stake in Pepsi propels shares up by 5%, signaling a significant value opportunity and boosting investor confidence.",
+      "exported_at": "2025-09-02T09:06:50.276311",
+      "continuous_session": true
+    },
+    {
+      "title": "Amgen to invest $600 million in new research and development facility in California",
+      "link": "https://www.cnbc.com/2025/09/02/amgen-investment-rd-facility-california.html",
+      "summary": "It is the latest U.S. investment by a drugmaker as President Donald Trump threatens to impose tariffs on pharmaceuticals imported into the U.S.",
+      "published": "Tue, 02 Sep 2025 13:00:01 GMT",
+      "content": "It is the latest U.S. investment by a drugmaker as President Donald Trump threatens to impose tariffs on pharmaceuticals imported into the U.S.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "65951d65db4cd4b583f42d74c22e5559",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AMGEN INVESTS $600M IN NEW R&D FACILITY IN CALIFORNIA 🚀\n\n- Amgen commits $600 million to new research facility in California 🏢\n- U.S. drugmaker's investment aligns with global economic uncertainties 🌍\n- Trump's tariff threats on pharma imports drive domestic investments 🇺🇸\n\nTAKEAWAY: Amid Trump's tariff threats, Amgen's $600 million investment in a California R&D facility showcases commitment to U.S. growth and innovation.",
+      "exported_at": "2025-09-02T09:06:50.276314",
+      "continuous_session": true
+    },
+    {
+      "title": "Alternative asset manager Blue Owl is playing to a broader investor audience as private markets go mainstream",
+      "link": "https://www.cnbc.com/2025/09/02/blue-owl-marketing-alternative-assets-mainstream.html",
+      "summary": "Blue Owl is backing pro tennis players as part of an effort to raise brand awareness and bring alternative asset managers out of obscurity.",
+      "published": "Tue, 02 Sep 2025 13:00:01 GMT",
+      "content": "Blue Owl is backing pro tennis players as part of an effort to raise brand awareness and bring alternative asset managers out of obscurity.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7dc60c4c81ea23dca603af19d6d1cfa2",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BLUE OWL EXPANDS INVESTOR BASE WITH TENNIS PLAYERS 🎾\n\n- Blue Owl targets broader investor audience in private markets 🎯\n- Strategic move to increase brand visibility and accessibility 🔍\n- Investing in pro tennis players to raise brand awareness 🌟\n- Aims to bring alternative asset managers into the spotlight 🌠\n\nTAKEAWAY: Blue Owl's innovative strategy of backing pro tennis players is a bold move to elevate brand awareness and attract a wider range of investors in the private markets, aiming to shine a spotlight on alternative asset managers.",
+      "exported_at": "2025-09-02T09:06:50.276318",
       "continuous_session": true
     }
   ]
