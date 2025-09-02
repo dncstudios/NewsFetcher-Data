@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-02T13:08:23.503194",
-    "total_articles": 78,
-    "new_articles_in_last_fetch": 78,
+    "created_at": "2025-09-02T13:38:34.230693",
+    "total_articles": 82,
+    "new_articles_in_last_fetch": 82,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -1020,6 +1020,58 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: LGBTQ+ COUPLES PREPARE FOR MARRIAGE EQUALITY CHALLENGE ⚠️\n\n- Recent challenge to marriage equality in early stages\n- Experts advise LGBTQ+ couples to plan ahead\n- Wise to organize legal matters proactively\n\nTAKEAWAY: LGBTQ+ couples urged to prepare for potential overturn of marriage equality by getting their affairs in order.",
       "exported_at": "2025-09-02T13:08:23.501515",
+      "continuous_session": true
+    },
+    {
+      "title": "What Trump&apos;s tariff loss in court means for shippers and the billions in trade duties collected by U.S. government",
+      "link": "https://www.cnbc.com/2025/09/02/what-trump-court-loss-means-for-billions-in-tariffs-paid-to-government.html",
+      "summary": "President Trump's court loss adds another layer of uncertainty to global shipping, from questions about refunds to status of trade deals and the tariff plan B.",
+      "published": "Tue, 02 Sep 2025 17:31:22 GMT",
+      "content": "President Trump's court loss adds another layer of uncertainty to global shipping, from questions about refunds to status of trade deals and the tariff plan B.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a34a8831e22256389bd27ab759665003",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP'S TARIFF LOSS: UNCERTAINTY LOOMS OVER GLOBAL SHIPPING 🚨\n\n- Court loss introduces uncertainty to global shipping 🌍\n- Questions arise about refunds and trade deals status ❓\n- Impact on billions in trade duties collected by U.S. gov 💰\n\nTAKEAWAY: President Trump's recent court loss in tariffs adds a layer of unpredictability to global shipping and raises questions about refunds, trade deals, and the future of collected trade duties.",
+      "exported_at": "2025-09-02T13:38:34.228781",
+      "continuous_session": true
+    },
+    {
+      "title": "Warren Buffett says he is &apos;disappointed&apos; in Kraft Heinz split; shares fall 7%",
+      "link": "https://www.cnbc.com/2025/09/02/warren-buffett-says-he-is-disappointed-in-kraft-heinz-split.html",
+      "summary": "Buffett said his chosen successor Greg Abel expressed Berkshire Hathaway's disappointment to Kraft Heinz.",
+      "published": "Tue, 02 Sep 2025 17:28:27 GMT",
+      "content": "Buffett said his chosen successor Greg Abel expressed Berkshire Hathaway's disappointment to Kraft Heinz.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "068f394eb0b2c4532d1638c0abd260f0",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WARREN BUFFETT EXPRESS DISAPPOINTMENT IN KRAFT HEINZ SPLIT 🚨\n\n- Buffett disappointed in Kraft Heinz split; shares drop 3% 💔\n- Chosen successor Greg Abel conveys Berkshire Hathaway's disappointment 🗣️\n- Kraft Heinz faces challenges following split 📉\n\nTAKEAWAY: Warren Buffett's disappointment in Kraft Heinz split leads to a 3% drop in shares, highlighting challenges post-separation.",
+      "exported_at": "2025-09-02T13:38:34.228791",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves midday: Frontier Group, Kraft Heinz, Biogen and more",
+      "link": "https://www.cnbc.com/2025/09/02/stocks-making-the-biggest-midday-moves-ulcc-khc-pep-biib.html",
+      "summary": "These are the stocks posting the largest moves in midday trading.",
+      "published": "Tue, 02 Sep 2025 17:16:10 GMT",
+      "content": "These are the stocks posting the largest moves in midday trading.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d170fc2e4b9d2e43c5b68de447e2167c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS WITH SIGNIFICANT MIDDAY MOVEMENT 🚀\n\n- Frontier Group, Kraft Heinz, Biogen among top movers 📈\n- Companies experiencing notable shifts in midday trading 🔄\n- Market volatility impacting stock prices during midday 💥\n\nTAKEAWAY: Frontier Group, Kraft Heinz, Biogen, and other stocks are witnessing significant movements during midday trading due to market volatility.",
+      "exported_at": "2025-09-02T13:38:34.228795",
+      "continuous_session": true
+    },
+    {
+      "title": "The hidden gem of Home Depot&apos;s over $22 billion of deals to boost its pro sales",
+      "link": "https://www.cnbc.com/2025/09/02/the-hidden-gem-of-home-depots-over-22-billion-of-deals-to-boost-its-pro-sales.html",
+      "summary": "Leaning pro makes sense because DIY depends more heavily on housing turnover, which has been sluggish.",
+      "published": "Tue, 02 Sep 2025 17:23:51 GMT",
+      "content": "Leaning pro makes sense because DIY depends more heavily on housing turnover, which has been sluggish.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0870122f6551f5a01a55c4a2cfa2df21",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: HOME DEPOT'S $22B PRO SALES BOOST 🚀\n\n- Home Depot focuses on pro sales for growth 📈\n- $22 billion invested in boosting pro segment 💰\n- Pro sales crucial due to slow housing turnover 🏡\n- DIY market shift towards pro services observed 🔄\n\nTAKEAWAY: Home Depot strategically invests $22 billion to enhance pro sales, capitalizing on the shift towards professional services in the DIY market.",
+      "exported_at": "2025-09-02T13:38:34.228801",
       "continuous_session": true
     }
   ]
