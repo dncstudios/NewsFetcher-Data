@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-02T09:52:06.024936",
-    "total_articles": 52,
-    "new_articles_in_last_fetch": 52,
+    "created_at": "2025-09-02T10:07:11.521554",
+    "total_articles": 54,
+    "new_articles_in_last_fetch": 54,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -682,6 +682,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: APOLLO CEO MARC ROWAN DECLARES TRADITIONAL INVESTING MODEL 'BROKEN' 🚀\n\n- Marc Rowan leads Apollo in revolutionizing investing landscape 🌐\n- Public and private market boundaries blur under Rowan's direction 📊\n- Rowan challenges traditional investing norms with bold strategies 💥\n\nTAKEAWAY: Marc Rowan's bold stance on the broken traditional investing model signifies a monumental shift in the industry, blurring lines between public and private markets.",
       "exported_at": "2025-09-02T09:52:06.023619",
+      "continuous_session": true
+    },
+    {
+      "title": "Musk looks past Tesla sales slump, says 80% of value will come from Optimus",
+      "link": "https://www.cnbc.com/2025/09/02/musk-tesla-value-optimus-robot.html",
+      "summary": "Tesla CEO Elon Musk said on X that about 80% of his automaker's value will come from Optimus humanoid robots, which have yet to hit the market.",
+      "published": "Tue, 02 Sep 2025 14:01:04 GMT",
+      "content": "Tesla CEO Elon Musk said on X that about 80% of his automaker's value will come from Optimus humanoid robots, which have yet to hit the market.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0d622078271a8e108e3a7a8092bfa3bc",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MUSK BETS BIG ON OPTIMUS ROBOTS, EYES 80% OF TESLA'S VALUE 🚀\n\n- Elon Musk predicts 80% of Tesla's value from Optimus robots 💰\n- Optimus robots, not yet launched, to revolutionize market 🤖\n- Tesla CEO shifts focus from current sales slump to future prospects 🎯\n- Optimus humanoid robots key to Tesla's long-term strategy 🔑\n- Musk's bold move showcases confidence in future innovation 🔥\n\nTAKEAWAY: Elon Musk's strategic shift towards Optimus robots signals a futuristic vision, banking on innovation for Tesla's long-term success.",
+      "exported_at": "2025-09-02T10:07:11.520463",
+      "continuous_session": true
+    },
+    {
+      "title": "Dow falls 250 points to kick off September on tariff worries, rising bond yields: Live updates",
+      "link": "https://www.cnbc.com/2025/09/01/stock-market-today-live-updates.html",
+      "summary": "Wall Street is weighing a ruling from a federal appeals court on Friday that determined most of President Donald Trump's global tariffs illegal.",
+      "published": "Tue, 02 Sep 2025 14:03:14 GMT",
+      "content": "Wall Street is weighing a ruling from a federal appeals court on Friday that determined most of President Donald Trump's global tariffs illegal.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0083500f819a07fbac8f0af2bcbd6ed4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK FUTURES SLIDE AMID UNCERTAINTY OVER TARIFFS COURT DECISION 📉\n\n- Wall Street reacts to federal court ruling on Trump's tariffs 🏛️\n- Court deems most of Trump's global tariffs illegal 🚫\n- Investors navigate new uncertainty in September trading 🔄\n- Market anticipates potential impact on trade policies 🌐\n- Tariff legality issue adds pressure to stock futures 📉\n- Decision raises concerns about future trade regulations ⚠️\n\nTAKEAWAY: Wall Street faces a turbulent start in September as stock futures decline due to uncertainty surrounding the legality of Trump's global tariffs after a court ruling.",
+      "exported_at": "2025-09-02T10:07:11.520472",
       "continuous_session": true
     }
   ]
