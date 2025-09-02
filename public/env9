@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-02T10:07:11.521554",
-    "total_articles": 54,
-    "new_articles_in_last_fetch": 54,
+    "created_at": "2025-09-02T10:22:19.695023",
+    "total_articles": 57,
+    "new_articles_in_last_fetch": 57,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -708,6 +708,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCK FUTURES SLIDE AMID UNCERTAINTY OVER TARIFFS COURT DECISION 📉\n\n- Wall Street reacts to federal court ruling on Trump's tariffs 🏛️\n- Court deems most of Trump's global tariffs illegal 🚫\n- Investors navigate new uncertainty in September trading 🔄\n- Market anticipates potential impact on trade policies 🌐\n- Tariff legality issue adds pressure to stock futures 📉\n- Decision raises concerns about future trade regulations ⚠️\n\nTAKEAWAY: Wall Street faces a turbulent start in September as stock futures decline due to uncertainty surrounding the legality of Trump's global tariffs after a court ruling.",
       "exported_at": "2025-09-02T10:07:11.520472",
+      "continuous_session": true
+    },
+    {
+      "title": "Warren Buffett says he is &apos;disappointed&apos; in Kraft Heinz split; shares fall 3%",
+      "link": "https://www.cnbc.com/2025/09/02/warren-buffett-says-he-is-disappointed-in-kraft-heinz-split.html",
+      "summary": "Buffett said his chosen successor Greg Abel expressed Berkshire Hathaway's disappointment to Kraft Heinz.",
+      "published": "Tue, 02 Sep 2025 14:19:07 GMT",
+      "content": "Buffett said his chosen successor Greg Abel expressed Berkshire Hathaway's disappointment to Kraft Heinz.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f4af4224e8b41437f83fed2d3831ecbd",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WARREN BUFFETT EXPRESS DISAPPOINTMENT IN KRAFT HEINZ SPLIT 🚨\n\n- Buffett disappointed in Kraft Heinz split; shares drop 3% 💔\n- Chosen successor Greg Abel conveys Berkshire Hathaway's disappointment 🗣️\n- Kraft Heinz faces challenges following split 📉\n\nTAKEAWAY: Warren Buffett's disappointment in Kraft Heinz split leads to a 3% drop in shares, highlighting challenges post-separation.",
+      "exported_at": "2025-09-02T10:22:19.693501",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump can&apos;t use National Guard, military in California to enforce laws, judge rules",
+      "link": "https://www.cnbc.com/2025/09/02/trump-national-guard-california-newsom.html",
+      "summary": "The ruling in San Francisco federal court comes as Trump mulls deploying National Guard troops to other California cities and elsewhere to deal with crime.",
+      "published": "Tue, 02 Sep 2025 14:16:35 GMT",
+      "content": "The ruling in San Francisco federal court comes as Trump mulls deploying National Guard troops to other California cities and elsewhere to deal with crime.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3557078c0d8867f9be0dfd69bd4bda5b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP DENIED USE OF NATIONAL GUARD, MILITARY IN CALIFORNIA 🚨\n\n- Judge rules against Trump's use of National Guard in California\n- Ruling hinders Trump's plans to deploy troops for crime control\n- San Francisco federal court blocks Trump's military enforcement\n- Trump's consideration to deploy National Guard faces legal setback\n\nTAKEAWAY: California judge's ruling prevents Trump from utilizing National Guard and military for law enforcement purposes, impacting his plans for crime control.",
+      "exported_at": "2025-09-02T10:22:19.693509",
+      "continuous_session": true
+    },
+    {
+      "title": "Jim Cramer&apos;s top 10 things to watch in the stock market Tuesday",
+      "link": "https://www.cnbc.com/2025/09/02/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+      "summary": "Wall Street is headed for a down open. But there's no need to panic.",
+      "published": "Tue, 02 Sep 2025 13:49:21 GMT",
+      "content": "Wall Street is headed for a down open. But there's no need to panic.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "99530cb04223067f4ff6b2bf8a2122a1",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JIM CRAMER'S TOP 10 STOCK MARKET INSIGHTS FOR TUESDAY 🚀\n\n- Wall Street anticipates a downward open 📉\n- Cramer's insights provide calm and clarity ✅\n- Stay informed, avoid panic in market fluctuations 📈\n- Tuesday brings key indicators for investors 📊\n- Market trends reveal opportunities for savvy traders 💼\n- Cramer's guidance helps navigate volatile markets 🎯\n\nTAKEAWAY: Jim Cramer's top 10 insights offer a steady hand amidst market uncertainty, guiding investors through potential opportunities and pitfalls.",
+      "exported_at": "2025-09-02T10:22:19.693515",
       "continuous_session": true
     }
   ]
