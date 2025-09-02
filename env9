@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-02T19:25:43.326568",
-    "total_articles": 97,
-    "new_articles_in_last_fetch": 97,
+    "created_at": "2025-09-02T19:40:47.877137",
+    "total_articles": 98,
+    "new_articles_in_last_fetch": 98,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -1267,6 +1267,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WEDNESDAY'S STOCK MARKET OUTLOOK: ANTITRUST RULING BOOSTS ALPHABET 🚀\n\n- September starts tough for stocks, but futures rise after Alphabet antitrust win 📈\n- U.S. federal court ruling favors Alphabet, impacting market sentiment 🎯\n- Positive movement expected in the next trading session 📈\n\nTAKEAWAY: Alphabet's antitrust case victory in a U.S. federal court is likely to drive market optimism and boost stock futures for the upcoming trading session.",
       "exported_at": "2025-09-02T19:25:43.316828",
+      "continuous_session": true
+    },
+    {
+      "title": "&apos;Gringos leave&apos;: Protests targeting travelers rise as overtourism anger grows",
+      "link": "https://www.cnbc.com/2025/09/03/protests-in-spain-mexico-target-travelers-as-overtourism-anger-grows.html",
+      "summary": "Protests against tourism have increased in frequency and size as tourist arrivals to popular destinations meet, and in some places surpass, pre-pandemic levels.",
+      "published": "Tue, 02 Sep 2025 23:09:51 GMT",
+      "content": "Protests against tourism have increased in frequency and size as tourist arrivals to popular destinations meet, and in some places surpass, pre-pandemic levels.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "03807f843a1f2bcc5bf8e514ae35e30e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 'GRINGOS LEAVE': OVERTOURISM PROTESTS SURGE 🚨\n\n- Protests escalate as tourist numbers exceed pre-pandemic levels 📈\n- Anger grows over overtourism in popular destinations 🌍\n- Calls for responsible tourism practices on the rise 🌿\n- Demonstrations target travelers as resentment intensifies 🛬\n- Overtourism impact felt worldwide, sparking global concern 🌎\n\nTAKEAWAY: Rising protests against overtourism signal a growing global concern, calling for more responsible and sustainable travel practices.",
+      "exported_at": "2025-09-02T19:40:47.868218",
       "continuous_session": true
     }
   ]
