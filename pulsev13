@@ -2,8 +2,8 @@
   "session_info": {
     "filename": "public/pulsev13",
     "created_at": "2025-09-01T11:08:29.286397",
-    "total_articles": 41,
-    "new_articles_in_last_fetch": 2,
+    "total_articles": 42,
+    "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
     ],
@@ -541,6 +541,19 @@
       "hash": "4ce449d15fa7c88ece114647c590e3be",
       "rewritten_content": "HEADLINE: EUROPEAN STOCKS OPEN FLAT AMID TARIFF UNCERTAINTY 🚨\n\n- Global markets waver due to tariff uncertainty ⚠️\n- European stocks set to open around the flatline ✅\n- Tuesday's opening shows market indecision 📊\n- Uncertainty impacts investor sentiment ⚠️\n- Tariff concerns continue to weigh on markets 🚨\n- Watch for potential market volatility ⚠️\n- Investors cautious amidst global uncertainty ✅\n\nTAKEAWAY: Tariff uncertainty causes European stocks to open flat, impacting investor sentiment.",
       "exported_at": "2025-09-02T01:25:45.099398",
+      "continuous_session": true
+    },
+    {
+      "title": "Why being cautious investors in September may be justified. Here&apos;s what the data shows",
+      "link": "https://www.cnbc.com/2025/09/02/why-being-cautious-investors-in-september-may-be-justified.html",
+      "summary": "Even after a positive August, historical performance suggests the coming weeks could be challenging.",
+      "published": "Tue, 02 Sep 2025 06:07:02 GMT",
+      "content": "Even after a positive August, historical performance suggests the coming weeks could be challenging.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9f227fba1f66335832a5e2a1af48d6ce",
+      "rewritten_content": "HEADLINE: HISTORICAL DATA SUGGESTS CHALLENGES AHEAD 🚨\n\n- August was positive, but challenges expected\n- Historical performance indicates tough weeks ahead ⚠️\n- Stay cautious despite recent gains\n- Market sentiment may shift soon\n- Prepare for potential volatility 🚨\n- Monitor closely for any signs of downturn\n\nTAKEAWAY: Despite a positive August, brace for challenges as historical data hints at tough weeks ahead.",
+      "exported_at": "2025-09-02T02:25:52.561434",
       "continuous_session": true
     }
   ]
