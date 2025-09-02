@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-02T14:54:30.493335",
-    "total_articles": 83,
-    "new_articles_in_last_fetch": 83,
+    "created_at": "2025-09-02T15:09:35.393219",
+    "total_articles": 84,
+    "new_articles_in_last_fetch": 84,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -1085,6 +1085,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: GOLDMAN'S SEPTEMBER 'CONVICTION LIST' ADDS WALMART ⚡️\n\n- Walmart joins buy-rated companies in Goldman's \"Conviction List\"\n- Selection part of the \"Conviction List - Directors' Cut\" group\n- Goldman's list indicates strong confidence in chosen stocks\n\nTAKEAWAY: Walmart's addition to Goldman's \"Conviction List\" signifies strong buy confidence, reflecting positive prospects for the retail giant.",
       "exported_at": "2025-09-02T14:54:30.491607",
+      "continuous_session": true
+    },
+    {
+      "title": "OpenAI acquires Statsig for $1.1 billion, brings on CEO as applications executive",
+      "link": "https://www.cnbc.com/2025/09/02/openai-buys-statsig-for-1point1-billion-hires-ceo-as-applications-exec.html",
+      "summary": "Statsig will continue to operate independently and serve customers out of its Seattle office, OpenAI said.",
+      "published": "Tue, 02 Sep 2025 18:57:37 GMT",
+      "content": "Statsig will continue to operate independently and serve customers out of its Seattle office, OpenAI said.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e016d4c7c69a2dc348406ad344a69a37",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: OPENAI ACQUIRES STATSIG FOR $1.1 BILLION 🚀\n\n- OpenAI acquires Statsig for $1.1 billion 💰\n- Statsig to operate independently, retain Seattle office 🏢\n- CEO of Statsig joins OpenAI as applications executive 👩‍💼\n- Acquisition aims to enhance services for customers 🌟\n- Statsig's expertise to strengthen OpenAI's capabilities 🔝\n- Collaboration set to drive innovation in AI industry 🤖\n\nTAKEAWAY: OpenAI's acquisition of Statsig for $1.1 billion aims to boost services, leveraging Statsig's expertise to drive innovation in the AI sector.",
+      "exported_at": "2025-09-02T15:09:35.391835",
       "continuous_session": true
     }
   ]
