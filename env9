@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-02T09:36:58.915330",
-    "total_articles": 47,
-    "new_articles_in_last_fetch": 47,
+    "created_at": "2025-09-02T09:52:06.024936",
+    "total_articles": 52,
+    "new_articles_in_last_fetch": 52,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -617,6 +617,71 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: MORGAN STANLEY DOWNGRADES LAM RESEARCH, PREDICTS 8% DECLINE 📉\n\n- Morgan Stanley downgrades Lam Research due to challenging 2026 setup\n- Shares of Lam Research forecasted to drop 8% from current levels\n- Analysts express concerns about the company's future performance\n\nTAKEAWAY: Morgan Stanley's downgrade of Lam Research reflects a bearish outlook, predicting an 8% decline in shares amidst a challenging setup for the company in 2026.",
       "exported_at": "2025-09-02T09:36:58.914090",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump can&apos;t use National Guard in California to enforce laws, make arrests, judge rules",
+      "link": "https://www.cnbc.com/2025/09/02/trump-national-guard-california-newsom.html",
+      "summary": "The ruling in San Francisco federal court comes as Trump has considered deploying National Guard troops to cities outside California to deal with crime.",
+      "published": "Tue, 02 Sep 2025 13:49:32 GMT",
+      "content": "The ruling in San Francisco federal court comes as Trump has considered deploying National Guard troops to cities outside California to deal with crime.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "944dafda7643d6bc199624b663cff6f0",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP BLOCKED FROM USING NATIONAL GUARD IN CALIFORNIA 🚫\n\n- Court rules against Trump's use of National Guard for law enforcement\n- Decision impacts Trump's plans to deploy troops in other states\n- San Francisco federal court prohibits National Guard arrests\n\nTAKEAWAY: Trump's attempts to deploy National Guard in California for law enforcement purposes face legal obstacles, affecting potential plans in other states.",
+      "exported_at": "2025-09-02T09:52:06.023599",
+      "continuous_session": true
+    },
+    {
+      "title": "Pepsi shares jump 4% as activist Elliott takes $4 billion stake, sees &apos;historic&apos; value opportunity",
+      "link": "https://www.cnbc.com/2025/09/02/pepsi-shares-jump-4percent-after-wsj-reports-elliott-planning-major-activist-campaign.html",
+      "summary": "The Paul Singer-founded Elliott's bet in Pepsi is worth $4 billion, becoming the consumer giant's top five active investors excluding index funds.",
+      "published": "Tue, 02 Sep 2025 13:41:04 GMT",
+      "content": "The Paul Singer-founded Elliott's bet in Pepsi is worth $4 billion, becoming the consumer giant's top five active investors excluding index funds.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d4e810c1a8879dc851549fc3465a7677",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PEPSI SHARES SOAR 5% AS ELLIOTT TAKES $4B STAKE 🚀\n\n- Activist Elliott sees 'historic' value opportunity in Pepsi 💰\n- Singer's Elliott now a top 5 investor in Pepsi 📈\n- $4 billion bet on Pepsi boosts investor confidence 🤑\n\nTAKEAWAY: Elliott's $4 billion stake in Pepsi propels shares up by 5%, signaling a significant value opportunity and boosting investor confidence.",
+      "exported_at": "2025-09-02T09:52:06.023607",
+      "continuous_session": true
+    },
+    {
+      "title": "Constellation Brands shares sink as Modelo maker slashes guidance, sees Hispanic consumer decline",
+      "link": "https://www.cnbc.com/2025/09/02/constellation-brands-guidance-hispanic.html",
+      "summary": "Constellation Brands, which owns alcohol names like Modelo, cut its guidance Tuesday, citing a \"challenging macroeconomic environment.\"",
+      "published": "Tue, 02 Sep 2025 13:20:21 GMT",
+      "content": "Constellation Brands, which owns alcohol names like Modelo, cut its guidance Tuesday, citing a \"challenging macroeconomic environment.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "186b26576f53345b62d2ff1a6e5acd9f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CONSTELLATION BRANDS SHARES PLUNGE AS MODELO MAKER SLASHES GUIDANCE 📉\n\n- Constellation Brands reduces guidance due to tough economic conditions\n- Modelo owner faces challenges with Hispanic consumer decline\n- Company's shares take a hit following the revised forecast\n\nTAKEAWAY: Constellation Brands' decision to slash guidance amidst economic challenges and a decline in Hispanic consumers leads to a significant drop in its shares.",
+      "exported_at": "2025-09-02T09:52:06.023610",
+      "continuous_session": true
+    },
+    {
+      "title": "What should concern investors going into this typically tough month for markets",
+      "link": "https://www.cnbc.com/2025/09/02/concerns-for-investors-entering-a-typically-tough-month-for-markets.html",
+      "summary": "August was very good for Wall Street. September is shaping up to be the opposite.",
+      "published": "Tue, 02 Sep 2025 13:25:45 GMT",
+      "content": "August was very good for Wall Street. September is shaping up to be the opposite.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7b63579e917f132fd6954d0bba552577",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: INVESTOR ALERT: SEPTEMBER MARKET CAUTION AHEAD ⚠️\n\n- August bullish, but September trend signals downturn 📉\n- Market sentiment shifts negatively for Wall Street 📉\n- Investors face challenges in traditionally tough September 📊\n\nTAKEAWAY: After a strong August, investors must exercise caution as September signals a potential market downturn and challenges lie ahead.",
+      "exported_at": "2025-09-02T09:52:06.023613",
+      "continuous_session": true
+    },
+    {
+      "title": "Why Apollo CEO Marc Rowan says the traditional investing model is ‘broken’",
+      "link": "https://www.cnbc.com/2025/09/02/apollo-ceo-marc-rowan-says-traditional-investing-model-is-broken.html",
+      "summary": "Apollo and CEO Marc Rowan are at the forefront of a tectonic shift in the investing landscape, with the lines between public and private markets blurring.",
+      "published": "Tue, 02 Sep 2025 13:30:01 GMT",
+      "content": "Apollo and CEO Marc Rowan are at the forefront of a tectonic shift in the investing landscape, with the lines between public and private markets blurring.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fea0d9bb1847ba7a29fd49b8afb5c242",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: APOLLO CEO MARC ROWAN DECLARES TRADITIONAL INVESTING MODEL 'BROKEN' 🚀\n\n- Marc Rowan leads Apollo in revolutionizing investing landscape 🌐\n- Public and private market boundaries blur under Rowan's direction 📊\n- Rowan challenges traditional investing norms with bold strategies 💥\n\nTAKEAWAY: Marc Rowan's bold stance on the broken traditional investing model signifies a monumental shift in the industry, blurring lines between public and private markets.",
+      "exported_at": "2025-09-02T09:52:06.023619",
       "continuous_session": true
     }
   ]
