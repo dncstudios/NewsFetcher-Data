@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-02T18:40:26.134415",
-    "total_articles": 95,
-    "new_articles_in_last_fetch": 95,
+    "created_at": "2025-09-02T18:55:31.030255",
+    "total_articles": 96,
+    "new_articles_in_last_fetch": 96,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -1241,6 +1241,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FED GOVERNOR LISA COOK FIGHTS BACK AGAINST MORTGAGE FRAUD ALLEGATIONS ⚠️\n\n- Lisa Cook denies committing mortgage fraud, lawyer asserts 💼\n- Cook takes legal action against Trump to prevent firing ⚖️\n- President Trump's allegations disputed by Cook's defense 🛡️\n\nTAKEAWAY: Fed Governor Lisa Cook pushes back against Trump's mortgage fraud accusations, defending her integrity and reputation.",
       "exported_at": "2025-09-02T18:40:26.124354",
+      "continuous_session": true
+    },
+    {
+      "title": "Jim Cramer explains how to handle Tuesday&apos;s market decline",
+      "link": "https://www.cnbc.com/2025/09/02/jim-cramer-explains-how-to-handle-tuesdays-market-decline.html",
+      "summary": "CNBC's Jim Cramer unpacked Tuesday's market action.",
+      "published": "Tue, 02 Sep 2025 22:50:18 GMT",
+      "content": "CNBC's Jim Cramer unpacked Tuesday's market action.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fab11cbf59b68eaba181e026bda15ebe",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JIM CRAMER'S INSIGHTS ON TUESDAY'S MARKET DECLINE 📉\n\n- CNBC's Jim Cramer analyzes Tuesday's market performance\n- Cramer shares strategies for navigating market downturns\n- Insights on handling volatility and market fluctuations\n- Tips for investors on managing risks during declines\n- Cramer breaks down key factors impacting market movements\n- Guidance on staying informed and making informed decisions\n\nTAKEAWAY: Jim Cramer provides valuable insights and strategies for investors to navigate market declines with confidence and informed decisions.",
+      "exported_at": "2025-09-02T18:55:31.020795",
       "continuous_session": true
     }
   ]
