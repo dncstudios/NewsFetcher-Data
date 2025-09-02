@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-02T11:52:51.917464",
-    "total_articles": 67,
-    "new_articles_in_last_fetch": 67,
+    "created_at": "2025-09-02T12:07:58.932922",
+    "total_articles": 69,
+    "new_articles_in_last_fetch": 69,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -877,6 +877,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: PEPSI SHARES SOAR 5% AS ELLIOTT TAKES $4B STAKE 🚀\n\n- Activist Elliott sees 'historic' value opportunity in Pepsi 💰\n- Singer's Elliott now a top 5 investor in Pepsi 📈\n- $4 billion bet on Pepsi boosts investor confidence 🤑\n\nTAKEAWAY: Elliott's $4 billion stake in Pepsi propels shares up by 5%, signaling a significant value opportunity and boosting investor confidence.",
       "exported_at": "2025-09-02T11:52:51.916026",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump can’t use National Guard, military in California to enforce laws, Judge Breyer rules",
+      "link": "https://www.cnbc.com/2025/09/02/trump-national-guard-california-newsom.html",
+      "summary": "The ruling from federal Judge Charles Breyer in San Francisco comes as President Trump mulls deploying National Guard troops to Chicago and other cities.",
+      "published": "Tue, 02 Sep 2025 16:07:11 GMT",
+      "content": "The ruling from federal Judge Charles Breyer in San Francisco comes as President Trump mulls deploying National Guard troops to Chicago and other cities.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "dba81b6d8ccd1480011f9356b7a5b503",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP BLOCKED FROM USING NATIONAL GUARD IN CALIFORNIA 🚫\n\n- Federal Judge Breyer rules against Trump's use of National Guard\n- Decision halts potential deployment of troops to Chicago\n- Trump's plan to enforce laws faces legal setback in California\n- Judge's ruling challenges Trump's authority over military deployment\n- President's considerations for National Guard use face legal obstacles\n\nTAKEAWAY: Judge Breyer's ruling against Trump using the National Guard in California poses a significant legal barrier to the President's plans for law enforcement.",
+      "exported_at": "2025-09-02T12:07:58.931332",
+      "continuous_session": true
+    },
+    {
+      "title": "Evercore ISI sets 2026 S&amp;P 500 target at 7,750 on AI revolution lifting &apos;multiples and society to new heights&apos;",
+      "link": "https://www.cnbc.com/2025/09/02/evercore-isi-sets-2026-sp-500-target-at-7750.html",
+      "summary": "The firm's strategist pointed out that several positive forces will lift the market to his 2026 target.",
+      "published": "Tue, 02 Sep 2025 16:07:22 GMT",
+      "content": "The firm's strategist pointed out that several positive forces will lift the market to his 2026 target.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2a64612a40946d1178b2db567fb98c68",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: EVERCORE ISI PREDICTS S&P 500 TO HIT 7,750 BY 2026 🚀\n\n- Evercore ISI sets ambitious S&P 500 target at 7,750 📈\n- AI revolution expected to boost market to new heights 🤖\n- Positive forces to drive market growth according to strategist 💪\n- Strategy based on lifting 'multiples and society to new heights' 🌟\n- Bullish outlook on market performance in the coming years 🐂\n- 2026 target reflects confidence in market's upward trajectory 📈\n\nTAKEAWAY: Evercore ISI's bold prediction of S&P 500 reaching 7,750 by 2026 is driven by the AI revolution and positive market forces, showcasing strong confidence in future growth.",
+      "exported_at": "2025-09-02T12:07:58.931344",
       "continuous_session": true
     }
   ]
