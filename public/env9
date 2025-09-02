@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-02T17:40:15.071029",
-    "total_articles": 94,
-    "new_articles_in_last_fetch": 94,
+    "created_at": "2025-09-02T18:40:26.134415",
+    "total_articles": 95,
+    "new_articles_in_last_fetch": 95,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -1228,6 +1228,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WAYMO EXPANDS ROBOTAXI SERVICE TO DENVER & SEATTLE 🚀\n\n- Waymo aims to dominate U.S. robotaxi industry 🌟\n- Testing begins in Denver and Seattle 🚗\n- Strategic move to capture new markets 🌎\n- Waymo seeks to solidify its position as an industry leader 🏆\n- Expansion signals aggressive growth strategy 📈\n- Waymo's focus on innovation drives market expansion 🔍\n\nTAKEAWAY: Waymo's strategic expansion into Denver and Seattle showcases its commitment to dominating the U.S. robotaxi industry through aggressive growth and innovation.",
       "exported_at": "2025-09-02T17:40:15.069263",
+      "continuous_session": true
+    },
+    {
+      "title": "Fed Governor Lisa Cook &apos;did not ever commit mortgage fraud,&apos; her lawyer says",
+      "link": "https://www.cnbc.com/2025/09/02/trump-lisa-cook-fed-powell-fraud.html",
+      "summary": "Federal Reserve Governor Lisa Cook is suing President Donald Trump to block him from firing her, saying that his mortgage fraud allegations are not true.",
+      "published": "Tue, 02 Sep 2025 21:59:42 GMT",
+      "content": "Federal Reserve Governor Lisa Cook is suing President Donald Trump to block him from firing her, saying that his mortgage fraud allegations are not true.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "be5a924b873386ccfe91195ee9a49be5",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FED GOVERNOR LISA COOK FIGHTS BACK AGAINST MORTGAGE FRAUD ALLEGATIONS ⚠️\n\n- Lisa Cook denies committing mortgage fraud, lawyer asserts 💼\n- Cook takes legal action against Trump to prevent firing ⚖️\n- President Trump's allegations disputed by Cook's defense 🛡️\n\nTAKEAWAY: Fed Governor Lisa Cook pushes back against Trump's mortgage fraud accusations, defending her integrity and reputation.",
+      "exported_at": "2025-09-02T18:40:26.124354",
       "continuous_session": true
     }
   ]
