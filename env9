@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-02T17:10:08.254605",
-    "total_articles": 92,
-    "new_articles_in_last_fetch": 92,
+    "created_at": "2025-09-02T17:25:11.046884",
+    "total_articles": 93,
+    "new_articles_in_last_fetch": 93,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -1202,6 +1202,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AIR LEASE SHRINKS IN $7.4B TAKEOVER 🚀\n\n- Investors lead $7.4B takeover of Air Lease ✈️\n- Sumitomo and SMBC Aviation Capital spearhead the deal 🤝\n- Air Lease, founded by Steven Udvar-Házy, goes private 💼\n- Aviation industry witnesses a significant shift 🔄\n- Consolidation in airplane leasing market accelerates 📈\n- Impact on Air Lease's future strategies and operations 🔍\n\nTAKEAWAY: The $7.4 billion takeover of Air Lease by Sumitomo and SMBC Aviation Capital marks a significant shift in the aviation industry, accelerating consolidation and raising questions about the company's future direction.",
       "exported_at": "2025-09-02T17:10:08.252653",
+      "continuous_session": true
+    },
+    {
+      "title": "Google stock jumps 8% after search giant avoids worst-case penalties in antitrust case",
+      "link": "https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html",
+      "summary": "The ruling comes nearly a year after a U.S. judge ruled that Google holds an illegal monopoly in its core market of internet search.",
+      "published": "Tue, 02 Sep 2025 21:16:07 GMT",
+      "content": "The ruling comes nearly a year after a U.S. judge ruled that Google holds an illegal monopoly in its core market of internet search.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5fd7a9fdacf7de175fa4ec3b3918035d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GOOGLE KEEPS CHROME, BUT EXCLUSIVE SEARCH DEALS BARRED ⚠️\n\n- Google allowed to retain Chrome amidst exclusive search deals ban ✅\n- U.S. judge rules Google's monopoly in internet search as illegal ⚠️\n- Decision follows a year-long legal battle over Google's market dominance ⚖️\n\nTAKEAWAY: Google's victory in keeping Chrome amidst exclusive search deals ban, while facing the challenge of an illegal monopoly ruling, reshapes the tech giant's market landscape.",
+      "exported_at": "2025-09-02T17:25:11.045142",
       "continuous_session": true
     }
   ]
