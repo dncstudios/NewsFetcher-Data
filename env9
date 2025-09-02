@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-02T15:24:39.760158",
-    "total_articles": 85,
-    "new_articles_in_last_fetch": 85,
+    "created_at": "2025-09-02T15:39:45.526985",
+    "total_articles": 87,
+    "new_articles_in_last_fetch": 87,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -1111,6 +1111,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: INVESTORS SCORE DOUBLE-DIGIT YIELDS WITH BANK OF AMERICA'S TOP-RATED FUNDS 🚀\n\n- Bank of America recommends buy-rated closed-end funds 🌟\n- Funds offer attractive double-digit yields 💰\n- Investors can benefit from high returns 📈\n- Trust Bank of America's expertise in fund selection ✅\n- Opportunity to diversify and earn significant income 💸\n- Consider these funds for a reliable source of high yields 🎯\n\nTAKEAWAY: Bank of America's top-rated closed-end funds provide investors with the chance to earn double-digit yields, offering a reliable source of high income. 🚀",
       "exported_at": "2025-09-02T15:24:39.758469",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump will ask Supreme Court for &apos;expedited ruling&apos; on tariffs appeal",
+      "link": "https://www.cnbc.com/2025/09/02/trump-trade-supreme-court-tariffs-appeal.html",
+      "summary": "A federal appeals court last week ruled most of President Donald Trump’s global tariffs are illegal, undercutting his expansive trade policy.",
+      "published": "Tue, 02 Sep 2025 19:36:40 GMT",
+      "content": "A federal appeals court last week ruled most of President Donald Trump’s global tariffs are illegal, undercutting his expansive trade policy.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "55e681c22d35ba3be0f3f528494c5f48",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP SEEKS 'EXPEDITED RULING' FROM SUPREME COURT ON TARIFFS APPEAL ⚠️\n\n- Federal court deems most of Trump's global tariffs illegal 🚫\n- Appeals court decision challenges Trump's trade policy 🛑\n- Trump to request swift ruling on tariffs from Supreme Court ⚡️\n\nTAKEAWAY: President Trump faces a pivotal moment as he seeks an accelerated Supreme Court ruling on the legality of his global tariffs, which could redefine his trade policy.",
+      "exported_at": "2025-09-02T15:39:45.525097",
+      "continuous_session": true
+    },
+    {
+      "title": "Airplane leasing world shrinks with $7.4 billion takeover of Air Lease",
+      "link": "https://www.cnbc.com/2025/09/02/airplane-leasing-air-lease-takeover.html",
+      "summary": "A group of investors led by Sumitomo Corp and SMBC Aviation Capital are taking Air Lease, founded by aviation mogul Steven Udvar-Házy, private for $7.4 billion.",
+      "published": "Tue, 02 Sep 2025 19:20:19 GMT",
+      "content": "A group of investors led by Sumitomo Corp and SMBC Aviation Capital are taking Air Lease, founded by aviation mogul Steven Udvar-Házy, private for $7.4 billion.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2e913735b361c17287d27fecb1a2f968",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AIR LEASE SHRINKS IN $7.4 BILLION TAKEOVER 🚀\n\n- Sumitomo Corp and SMBC Aviation Capital lead $7.4B takeover ✈️\n- Investors acquire Air Lease founded by aviation mogul Steven Udvar-Házy 🌟\n- Airplane leasing market contracts with this significant move 💼\n\nTAKEAWAY: The $7.4 billion takeover of Air Lease by Sumitomo Corp and SMBC Aviation Capital marks a significant shift in the airplane leasing industry.",
+      "exported_at": "2025-09-02T15:39:45.525106",
       "continuous_session": true
     }
   ]
