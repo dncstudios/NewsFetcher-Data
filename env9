@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-02T12:53:15.261576",
-    "total_articles": 74,
-    "new_articles_in_last_fetch": 74,
+    "created_at": "2025-09-02T13:08:23.503194",
+    "total_articles": 78,
+    "new_articles_in_last_fetch": 78,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -968,6 +968,58 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SEPTEMBER BLUES: TRADERS BEWARE OF BACK-HALF SLUMP 📉\n\n- Seasonal weakness hits harder in September's latter half ⏰\n- Traders face increased volatility and risks 🔥\n- Back-half slump brings challenges for market participants 📉\n\nTAKEAWAY: Traders should stay vigilant and brace for increased volatility and risks in the latter half of September due to seasonal weakness.",
       "exported_at": "2025-09-02T12:53:15.259947",
+      "continuous_session": true
+    },
+    {
+      "title": "Anthropic raises $13 billion funding round at $183 billion valuation",
+      "link": "https://www.cnbc.com/2025/09/02/anthropic-raises-13-billion-at-18-billion-valuation.html",
+      "summary": "Anthropic's valuation has tripled since its last funding round in March",
+      "published": "Tue, 02 Sep 2025 16:53:45 GMT",
+      "content": "Anthropic's valuation has tripled since its last funding round in March",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "687b2c6fc37bcef136238ef055f63262",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ANTHROPIC TRIPLES VALUATION TO $183 BILLION 💰\n\n- Anthropic secures $13 billion in latest funding round 💸\n- Valuation jumps threefold since March 📈\n- Massive funding fuels growth and expansion 🚀\n\nTAKEAWAY: Anthropic's impressive $13 billion funding round propels its valuation to $183 billion, marking a significant leap in growth and potential.",
+      "exported_at": "2025-09-02T13:08:23.501497",
+      "continuous_session": true
+    },
+    {
+      "title": "JPMorgan’s favorite stocks heading into September",
+      "link": "https://www.cnbc.com/2025/09/02/jpmorgans-favorite-stocks-heading-into-september.html",
+      "summary": "JPMorgan's list of top stock picks heading into May include new additions PTC Therapeutics and Armstrong World Industries.",
+      "published": "Tue, 02 Sep 2025 17:01:11 GMT",
+      "content": "JPMorgan's list of top stock picks heading into May include new additions PTC Therapeutics and Armstrong World Industries.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fa8ac27c4099e2b2e0c9650b0f45c37a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JPMORGAN'S TOP STOCK PICKS FOR SEPTEMBER 🚀\n\n- JPMorgan adds PTC Therapeutics and Armstrong World Industries to top stock list 📈\n- These picks are set to shine in September 🌟\n- Strategic move to boost portfolio performance 📊\n\nTAKEAWAY: JPMorgan's selection of PTC Therapeutics and Armstrong World Industries as top stock picks for September signals a strategic move to enhance portfolio performance.",
+      "exported_at": "2025-09-02T13:08:23.501508",
+      "continuous_session": true
+    },
+    {
+      "title": "Starbucks to launch protein-packed cold foam, lattes later this month",
+      "link": "https://www.cnbc.com/2025/09/02/starbucks-to-launch-protein-packed-cold-foam-lattes-sept-29.html",
+      "summary": "The coffee chain is trying to appeal to customers who want to add more protein to their diets.",
+      "published": "Tue, 02 Sep 2025 16:00:01 GMT",
+      "content": "The coffee chain is trying to appeal to customers who want to add more protein to their diets.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e00c40e9e84a423f5daee34141d27821",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STARBUCKS LAUNCHES PROTEIN-PACKED COLD FOAM LATTES 🚀\n\n- Starbucks introduces protein-packed beverages 🥤💪\n- Targeting customers seeking more protein in diets 🏋️‍♂️\n- New lattes with cold foam set to launch this month 🆕☕\n\nTAKEAWAY: Starbucks innovates with protein-packed cold foam lattes, catering to health-conscious customers seeking a tasty boost.",
+      "exported_at": "2025-09-02T13:08:23.501512",
+      "continuous_session": true
+    },
+    {
+      "title": "&apos;Don&apos;t freak out just yet&apos;: How LGBTQ couples can plan ahead in case marriage equality is overturned",
+      "link": "https://www.cnbc.com/2025/09/02/how-lgbtq-couples-can-plan-ahead-in-case-marriage-equality-is-overturned.html",
+      "summary": "The recent challenge to marriage equality is still in its nascent stages, experts say. Still, it's wise for LGBTQ+ couples to get their house in order.",
+      "published": "Tue, 02 Sep 2025 15:39:00 GMT",
+      "content": "The recent challenge to marriage equality is still in its nascent stages, experts say. Still, it's wise for LGBTQ+ couples to get their house in order.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d18b4825493412ce28fac601d66554a5",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: LGBTQ+ COUPLES PREPARE FOR MARRIAGE EQUALITY CHALLENGE ⚠️\n\n- Recent challenge to marriage equality in early stages\n- Experts advise LGBTQ+ couples to plan ahead\n- Wise to organize legal matters proactively\n\nTAKEAWAY: LGBTQ+ couples urged to prepare for potential overturn of marriage equality by getting their affairs in order.",
+      "exported_at": "2025-09-02T13:08:23.501515",
       "continuous_session": true
     }
   ]
