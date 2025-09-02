@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-02T15:54:50.177094",
-    "total_articles": 88,
-    "new_articles_in_last_fetch": 88,
+    "created_at": "2025-09-02T16:40:00.640044",
+    "total_articles": 90,
+    "new_articles_in_last_fetch": 90,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -1150,6 +1150,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP'S WORLD LIBERTY TOKEN DROPS AFTER TRADING DEBUT 📉\n\n- Trump's World Liberty Financial token plunges post-trading 💔\n- Bitcoin rebounds amidst World Liberty token's decline 📈\n- Gemini eyes over $300M in U.S. IPO funding 💰\n- Bitwise Asset Management analyzes bitcoin's future outlook 💡\n\nTAKEAWAY: Trump's World Liberty token faces a rocky start as bitcoin rallies, Gemini aims for significant IPO funding, and Bitwise Asset Management provides insights into bitcoin's long-term prospects.",
       "exported_at": "2025-09-02T15:54:50.175297",
+      "continuous_session": true
+    },
+    {
+      "title": "Google gets to keep Chrome but is barred from exclusive search deals, judge rules",
+      "link": "https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html",
+      "summary": "The ruling comes nearly a year after a U.S. judge ruled that Google holds an illegal monopoly in its core market of internet search.",
+      "published": "Tue, 02 Sep 2025 20:38:13 GMT",
+      "content": "The ruling comes nearly a year after a U.S. judge ruled that Google holds an illegal monopoly in its core market of internet search.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "abb3afc054a44d1633fe1d3e0eb6b11d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GOOGLE KEEPS CHROME, BUT EXCLUSIVE SEARCH DEALS BARRED ⚠️\n\n- Google allowed to retain Chrome amidst exclusive search deals ban ✅\n- U.S. judge rules Google's monopoly in internet search as illegal ⚠️\n- Decision follows a year-long legal battle over Google's market dominance ⚖️\n\nTAKEAWAY: Google's victory in keeping Chrome amidst exclusive search deals ban, while facing the challenge of an illegal monopoly ruling, reshapes the tech giant's market landscape.",
+      "exported_at": "2025-09-02T16:40:00.638169",
+      "continuous_session": true
+    },
+    {
+      "title": "Santoli&apos;s Tuesday market wrap-up:  New month brings fresh challenges to prevailing, bullish beliefs",
+      "link": "https://www.cnbc.com/2025/09/02/santolis-tuesday-market-wrap-up-challenges-to-prevailing-bullish-beliefs.html",
+      "summary": "Levitating Treasury yields after a court ruled many of the administration's tariffs were imposed illegally prompted a wobble in equity indexes Tuesday.",
+      "published": "Tue, 02 Sep 2025 20:14:01 GMT",
+      "content": "Levitating Treasury yields after a court ruled many of the administration's tariffs were imposed illegally prompted a wobble in equity indexes Tuesday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "15f58ec948d9b858709a47cc115dfe7a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SANTOLI'S TUESDAY MARKET WRAP-UP: NEW MONTH, NEW CHALLENGES ⚠️\n\n- Court ruling on tariffs leads to levitating Treasury yields 📈\n- Equity indexes wobble amidst prevailing bullish beliefs 📉\n- Fresh challenges emerge as new month starts 🆕\n\nTAKEAWAY: The market faces uncertainties as levitating Treasury yields and court rulings challenge prevailing bullish beliefs at the start of a new month.",
+      "exported_at": "2025-09-02T16:40:00.638181",
       "continuous_session": true
     }
   ]
