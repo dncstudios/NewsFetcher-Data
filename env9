@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-03T10:14:45.424603",
-    "total_articles": 157,
-    "new_articles_in_last_fetch": 157,
+    "created_at": "2025-09-03T10:39:56.641745",
+    "total_articles": 158,
+    "new_articles_in_last_fetch": 158,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -2047,6 +2047,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: 30-YEAR TREASURY YIELD SURPASSES 5% BRIEFLY AMID TARIFF UNCERTAINTY ⚠️\n\n- U.S. Treasurys stabilize, long-dated bonds near 5% milestone\n- Traders grapple with tariff uncertainty and Fed independence threat\n- 30-year Treasury yield briefly exceeds the 5% threshold\n\nTAKEAWAY: The 30-year Treasury yield briefly crossing 5% reflects market unease over tariff uncertainty and concerns about Fed independence.",
       "exported_at": "2025-09-03T10:14:45.421830",
+      "continuous_session": true
+    },
+    {
+      "title": "Trading this pharma giant through options as the market turns more defensive",
+      "link": "https://www.cnbc.com/2025/09/03/trading-this-pharma-giant-through-options-as-the-market-turns-more-defensive.html",
+      "summary": "Options trader Tony Zhang explains this options trade on a pharmaceutical giant.",
+      "published": "Wed, 03 Sep 2025 14:34:44 GMT",
+      "content": "Options trader Tony Zhang explains this options trade on a pharmaceutical giant.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "62ce86c86d56fc16174328254bc7590f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRADING PHARMA GIANT WITH OPTIONS IN DEFENSIVE MARKET 📉\n\n- Options trader Tony Zhang shares strategy on pharmaceutical giant\n- Focus on options trade amid market shift to defensive stance\n- Details on how to navigate market volatility with options\n\nTAKEAWAY: Amid a defensive market shift, utilizing options on a pharmaceutical giant can offer strategic opportunities for traders looking to navigate volatility effectively.",
+      "exported_at": "2025-09-03T10:39:56.638374",
       "continuous_session": true
     }
   ]
