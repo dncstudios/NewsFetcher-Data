@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-03T07:28:47.398933",
-    "total_articles": 138,
-    "new_articles_in_last_fetch": 138,
+    "created_at": "2025-09-03T07:43:51.925058",
+    "total_articles": 140,
+    "new_articles_in_last_fetch": 140,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -1800,6 +1800,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: MACY'S BEATS EARNINGS ESTIMATES, RAISES FULL-YEAR GUIDANCE 🚀\n\n- Macy's surpasses Wall Street's earnings expectations 💪\n- Revamped stores drive improved sales trends 📈\n- Company raises full-year guidance due to strong performance ✅\n\nTAKEAWAY: Macy's impressive earnings beat and raised guidance signal a strong performance driven by revamped stores and improved sales trends.",
       "exported_at": "2025-09-03T07:28:47.396424",
+      "continuous_session": true
+    },
+    {
+      "title": "Walmart-backed fintech OnePay is adding wireless plans to its everything app",
+      "link": "https://www.cnbc.com/2025/09/03/walmart-backed-onepay-adds-wireless.html",
+      "summary": "The OnePay launch is the latest example of a fintech firm adding wireless connectivity to its product set; Klarna and Nubank have made similar announcements.",
+      "published": "Wed, 03 Sep 2025 11:30:01 GMT",
+      "content": "The OnePay launch is the latest example of a fintech firm adding wireless connectivity to its product set; Klarna and Nubank have made similar announcements.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f789926a8d2898107d2463f2dedec976",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ONEPAY EXPANDS WITH WIRELESS PLANS ON EVERYTHING APP 🚀\n\n- Walmart-backed OnePay integrates wireless plans into its app 📱\n- Fintech trend: Klarna, Nubank also adding wireless services 📈\n- Diversification strategy aims to enhance customer experience 💪\n\nTAKEAWAY: OnePay's move to include wireless plans in their app follows a growing trend among fintech firms, aiming to elevate customer satisfaction and service offerings.",
+      "exported_at": "2025-09-03T07:43:51.922607",
+      "continuous_session": true
+    },
+    {
+      "title": "S&amp;P 500 futures rise after Google avoids harsh antitrust penalty: Live updates",
+      "link": "https://www.cnbc.com/2025/09/02/stock-market-today-live-updates.html",
+      "summary": "Investors raked in profits on Tuesday as the three major U.S. indexes closed in the red.",
+      "published": "Wed, 03 Sep 2025 11:33:59 GMT",
+      "content": "Investors raked in profits on Tuesday as the three major U.S. indexes closed in the red.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b2b61c0132ba43b8bdd67a110d9d6a51",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK FUTURES RISE AS GOOGLE AVOIDS ANTITRUST PENALTY 🚀\n\n- Google's avoidance of harsh antitrust penalty boosts market sentiment 📈\n- Investors capitalize on profits despite major U.S. indexes closing lower 📉\n- Positive outlook as stock futures edge higher post Google news 🔝\n\nTAKEAWAY: Market optimism prevails as Google's avoidance of harsh antitrust penalty leads to a rise in stock futures.",
+      "exported_at": "2025-09-03T07:43:51.922616",
       "continuous_session": true
     }
   ]
