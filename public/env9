@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-02T22:11:27.695923",
-    "total_articles": 109,
-    "new_articles_in_last_fetch": 109,
+    "created_at": "2025-09-02T22:26:30.025095",
+    "total_articles": 110,
+    "new_articles_in_last_fetch": 110,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -1423,6 +1423,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AUSTRALIA'S GDP GROWS FASTER THAN EXPECTED 🚀\n\n- Australia's GDP expands by 1.8% YoY 📈\n- Surpasses economists' forecast of 1.6% growth 🎯\n- Fastest pace since September 2023 ⚡️\n\nTAKEAWAY: Australia's economy shows resilience with GDP growth surpassing expectations, marking its fastest pace since September 2023.",
       "exported_at": "2025-09-02T22:11:27.693632",
+      "continuous_session": true
+    },
+    {
+      "title": "Asia markets trade mixed as tariff concerns weigh",
+      "link": "https://www.cnbc.com/2025/09/03/asia-stock-markets-today-nikkei-225-asx-200-kospi-hang-seng-csi-300-sensex-nifty-50.html",
+      "summary": "The yield on 30-year Japanese Government Bonds increased by nearly 7 basis point to 3.280%, surpassing its previous high in August.",
+      "published": "Wed, 03 Sep 2025 02:25:35 GMT",
+      "content": "The yield on 30-year Japanese Government Bonds increased by nearly 7 basis point to 3.280%, surpassing its previous high in August.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "33c4444e1e1d3cf73b38d92f8821f170",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASIA MARKETS FOLLOW WALL STREET'S DECLINE AMID TARIFF WORRIES 🚨\n\n- Asian markets mirror Wall Street's downturn 📉\n- Concerns over tariffs weigh on investor sentiment ⚠️\n- Japanese Government Bonds' yield spikes by 7 basis points 🔺\n- Yield reaches 3.280%, exceeding earlier peak in August 📈\n- Market volatility persists as trade tensions escalate 🌏\n- Investors cautious amidst uncertain economic outlook 🤔\n\nTAKEAWAY: Asia markets echo Wall Street's slide due to tariff concerns, with Japanese Government Bonds seeing a significant yield spike, reflecting ongoing market volatility and investor apprehension.",
+      "exported_at": "2025-09-02T22:26:30.022946",
       "continuous_session": true
     }
   ]
