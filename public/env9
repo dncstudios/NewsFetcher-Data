@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-03T05:43:18.249428",
-    "total_articles": 131,
-    "new_articles_in_last_fetch": 131,
+    "created_at": "2025-09-03T05:58:23.399375",
+    "total_articles": 132,
+    "new_articles_in_last_fetch": 132,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -1709,6 +1709,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: HOLIDAY SPENDING TO DROP BY 5% THIS YEAR, ESPECIALLY AMONG GEN Z ⚠️\n\n- US consumers set to spend 5% less this holiday season 📉\n- Gen Z leading the trend by cutting back on holiday budgets 💸\n- Anticipated decrease compared to last year's spending levels 📉\n\nTAKEAWAY: Holiday spending is expected to decline this year, with US consumers planning to cut back by 5%, particularly driven by Gen Z's budget-conscious approach.",
       "exported_at": "2025-09-03T05:43:18.247073",
+      "continuous_session": true
+    },
+    {
+      "title": "World’s largest sovereign wealth fund invests $543 million in Manhattan office building",
+      "link": "https://www.cnbc.com/2025/09/03/norway-sovereign-wealth-fund-invests-543-million-in-manhattan-offices.html",
+      "summary": "Norway’s $2 trillion sovereign wealth fund will own a 95% stake in the property, marking its latest major real estate investment.",
+      "published": "Wed, 03 Sep 2025 09:42:55 GMT",
+      "content": "Norway’s $2 trillion sovereign wealth fund will own a 95% stake in the property, marking its latest major real estate investment.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "bc6053b7b04a1482f7492f79546e127f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 🚀 NORWAY'S SOVEREIGN WEALTH FUND INVESTS $543M IN MANHATTAN OFFICE BUILDING\n\n- Norway's $2T fund acquires 95% ownership in prime property 🏙️\n- $543M investment showcases fund's significant real estate move 💰\n- Manhattan office building purchase marks major milestone 🌟\n\nTAKEAWAY: Norway's sovereign wealth fund's massive investment in a Manhattan office building demonstrates its strategic focus on real estate and highlights its strong financial position.",
+      "exported_at": "2025-09-03T05:58:23.397038",
       "continuous_session": true
     }
   ]
