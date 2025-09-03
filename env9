@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-03T01:42:09.855551",
-    "total_articles": 116,
-    "new_articles_in_last_fetch": 116,
+    "created_at": "2025-09-03T02:42:20.225032",
+    "total_articles": 117,
+    "new_articles_in_last_fetch": 117,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -1514,6 +1514,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CNBC'S UK EXCHANGE NEWSLETTER: HOOKED ON REBATES? 🚨\n\n- Clouds gather over UK's pharmaceutical sector 🌧️\n- Sector previously a top performer in the UK 📈\n- Ian King examines the industry's challenges 🧐\n\nTAKEAWAY: The once thriving UK pharmaceutical sector faces uncertainties, sparking concerns and scrutiny.",
       "exported_at": "2025-09-03T01:42:09.843926",
+      "continuous_session": true
+    },
+    {
+      "title": "CNBC Daily Open: One part of the market might actually benefit from tariffs",
+      "link": "https://www.cnbc.com/2025/09/03/cnbc-daily-open-one-part-of-the-market-might-benefit-from-tariffs.html",
+      "summary": "The yield on the 30-year bond nearly touched 5% as investors feared a hit to the U.S. government's coffers if deprived of tariff revenue.",
+      "published": "Wed, 03 Sep 2025 06:37:56 GMT",
+      "content": "The yield on the 30-year bond nearly touched 5% as investors feared a hit to the U.S. government's coffers if deprived of tariff revenue.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3ce5839c71e122814656a4587466e2c0",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CNBC DAILY OPEN: ONE PART OF THE MARKET BENEFITS FROM TARIFFS 🚀\n\n- 30-year bond yield nears 5% as investors anticipate tariff revenue ⚡️\n- Market reacts positively to potential boost in government coffers 💰\n- Tariffs may lead to increased revenue for the U.S. government 📈\n- Investors see potential benefits amidst fears of tariff impact 🔍\n\nTAKEAWAY: Despite fears of tariff implications, the market shows optimism as the 30-year bond yield rises, hinting at potential benefits from tariff revenue.",
+      "exported_at": "2025-09-03T02:42:20.214382",
       "continuous_session": true
     }
   ]
