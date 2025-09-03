@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-02T21:26:11.897938",
-    "total_articles": 103,
-    "new_articles_in_last_fetch": 103,
+    "created_at": "2025-09-02T21:41:15.613141",
+    "total_articles": 104,
+    "new_articles_in_last_fetch": 104,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -1345,6 +1345,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ASIA MARKETS FOLLOW WALL STREET'S DECLINE AMID TARIFF WORRIES 🚨\n\n- Asian markets mirror Wall Street's downturn 📉\n- Concerns over tariffs weigh on investor sentiment ⚠️\n- Japanese Government Bonds' yield spikes by 7 basis points 🔺\n- Yield reaches 3.280%, exceeding earlier peak in August 📈\n- Market volatility persists as trade tensions escalate 🌏\n- Investors cautious amidst uncertain economic outlook 🤔\n\nTAKEAWAY: Asia markets echo Wall Street's slide due to tariff concerns, with Japanese Government Bonds seeing a significant yield spike, reflecting ongoing market volatility and investor apprehension.",
       "exported_at": "2025-09-02T21:26:11.895816",
+      "continuous_session": true
+    },
+    {
+      "title": "In photos: China&apos;s military might on display with Putin and Kim Jong Un in attendance",
+      "link": "https://www.cnbc.com/2025/09/03/chinas-military-might-on-display-with-putin-and-kim-jong-un-in-attendance.html",
+      "summary": "President Xi Jinping delivered an opening speech at the reviewing stand overlooking Tiananmen Square, before reviewing the troops.",
+      "published": "Wed, 03 Sep 2025 01:36:53 GMT",
+      "content": "President Xi Jinping delivered an opening speech at the reviewing stand overlooking Tiananmen Square, before reviewing the troops.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7cc5c8a45e272b93349d44da453fc020",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CHINA'S MILITARY MIGHT SHINES WITH PUTIN & KIM JONG UN 🚀\n\n- President Xi Jinping gives powerful speech at Tiananmen Square 🎤\n- Troops showcased their strength in a grand display 🪖\n- Putin and Kim Jong Un witness China's military prowess 👀\n\nTAKEAWAY: China's impressive military display, with Putin and Kim Jong Un in attendance, underscores its global influence and strength.",
+      "exported_at": "2025-09-02T21:41:15.611011",
       "continuous_session": true
     }
   ]
