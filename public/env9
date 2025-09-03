@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-03T16:13:16.231944",
-    "total_articles": 199,
-    "new_articles_in_last_fetch": 199,
+    "created_at": "2025-09-03T16:18:22.612888",
+    "total_articles": 201,
+    "new_articles_in_last_fetch": 201,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -2592,6 +2592,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AMERICAN EAGLE SOARS WITH SYDNEY SWEENEY CAMPAIGN 🚀\n\n- Sydney Sweeney campaign hailed as American Eagle's best ever 🌟\n- Campaign drives growth in new customers, sales, and foot traffic 💥\n- Earnings exceed expectations, beating projections ✅\n- Positive impact of the campaign reflected in strong financial results 📈\n\nTAKEAWAY: American Eagle's Sydney Sweeney campaign propels the brand to new heights, exceeding earnings expectations and attracting a surge in customers and sales.",
       "exported_at": "2025-09-03T16:13:16.228901",
+      "continuous_session": true
+    },
+    {
+      "title": "Figma reports 41% jump in revenue in first earnings report since IPO",
+      "link": "https://www.cnbc.com/2025/09/03/figma-fig-q2-earnings-report-2025.html",
+      "summary": "Figma reported better-than-expected revenue for the second quarter in its first earnings report as a public company.",
+      "published": "Wed, 03 Sep 2025 20:10:23 GMT",
+      "content": "Figma reported better-than-expected revenue for the second quarter in its first earnings report as a public company.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "71dec1a86617b9ea7db48188396ce7fd",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FIGMA SOARS WITH 41% REVENUE JUMP IN FIRST POST-IPO EARNINGS 🚀\n\n- Figma impresses with a 41% revenue surge in Q2 💰\n- Exceeds revenue expectations in debut public company report 📈\n- Strong performance in first earnings report post-IPO 🌟\n\nTAKEAWAY: Figma's remarkable 41% revenue increase in its initial public earnings report showcases its solid financial performance and potential for future growth.",
+      "exported_at": "2025-09-03T16:18:22.609431",
+      "continuous_session": true
+    },
+    {
+      "title": "S&amp;P 500, Nasdaq close higher, lifted by Alphabet rally, but economic concerns limit gain: Live updates",
+      "link": "https://www.cnbc.com/2025/09/02/stock-market-today-live-updates.html",
+      "summary": "Wednesday's comeback was led mostly by tech, which is why the less-tech-focused Dow was lower.",
+      "published": "Wed, 03 Sep 2025 20:13:57 GMT",
+      "content": "Wednesday's comeback was led mostly by tech, which is why the less-tech-focused Dow was lower.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1d9bcb4d63c7cd396b5633ee785e2e6c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: S&P 500, NASDAQ RISE WITH ALPHABET BOOST, DESPITE ECONOMIC CONCERNS 🚀\n\n- Tech sector drives market up, boosting S&P 500 and Nasdaq 📈\n- Alphabet's rally contributes to Wednesday's market comeback 🚀\n- Dow lags due to lower tech focus compared to S&P 500 and Nasdaq ⚠️\n\nTAKEAWAY: Despite economic worries, the S&P 500 and Nasdaq soar with Alphabet's rally, while the Dow trails behind with its lower tech exposure.",
+      "exported_at": "2025-09-03T16:18:22.609446",
       "continuous_session": true
     }
   ]
