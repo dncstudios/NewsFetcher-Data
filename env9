@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-03T07:43:51.925058",
-    "total_articles": 140,
-    "new_articles_in_last_fetch": 140,
+    "created_at": "2025-09-03T08:13:59.601288",
+    "total_articles": 141,
+    "new_articles_in_last_fetch": 141,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -1826,6 +1826,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCK FUTURES RISE AS GOOGLE AVOIDS ANTITRUST PENALTY 🚀\n\n- Google's avoidance of harsh antitrust penalty boosts market sentiment 📈\n- Investors capitalize on profits despite major U.S. indexes closing lower 📉\n- Positive outlook as stock futures edge higher post Google news 🔝\n\nTAKEAWAY: Market optimism prevails as Google's avoidance of harsh antitrust penalty leads to a rise in stock futures.",
       "exported_at": "2025-09-03T07:43:51.922616",
+      "continuous_session": true
+    },
+    {
+      "title": "Morgan Stanley upgrades Kraft Heinz after split announcement, says worst is behind stock",
+      "link": "https://www.cnbc.com/2025/09/03/morgan-stanley-upgrades-kraft-heinz-after-split-announcement-says-worst-is-behind-stock.html",
+      "summary": "Morgan Stanley now sees shares of Kraft Heinz popping 11% from here.",
+      "published": "Wed, 03 Sep 2025 12:10:18 GMT",
+      "content": "Morgan Stanley now sees shares of Kraft Heinz popping 11% from here.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "53452c2349fd7867cf6969a4a74c94ae",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MORGAN STANLEY UPGRADES KRAFT HEINZ AFTER SPLIT ANNOUNCEMENT 🚀\n\n- Kraft Heinz shares expected to surge 11% post-upgrade 📈\n- Morgan Stanley believes the stock has passed its worst phase 🌟\n- Positive outlook following Kraft Heinz's split announcement 🎉\n\nTAKEAWAY: Morgan Stanley's upgrade of Kraft Heinz post-split announcement signals a bright future ahead, with projected 11% stock price surge.",
+      "exported_at": "2025-09-03T08:13:59.598792",
       "continuous_session": true
     }
   ]
