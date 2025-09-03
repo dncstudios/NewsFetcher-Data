@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-03T13:26:36.471784",
-    "total_articles": 179,
-    "new_articles_in_last_fetch": 179,
+    "created_at": "2025-09-03T13:36:43.024044",
+    "total_articles": 180,
+    "new_articles_in_last_fetch": 180,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -2332,6 +2332,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ALPHABET'S ANTITRUST WIN BOOSTS APPLE SHARES 🚀\n\n- Apple stock surges over 3% post favorable Alphabet ruling 📈\n- Judge allows Alphabet to pay for Google Search on iPhones ✅\n- Positive news impacts Apple investors and market sentiment 📊\n- Alphabet's ability to preload Search on iPhones affirmed 🔍\n- Speculation rises on potential benefits for Apple's market share 📈\n- Apple's stock price reacts positively to the antitrust decision 💰\n\nTAKEAWAY: Alphabet's recent antitrust ruling in favor of preloading Google Search on iPhones fuels Apple stock surge, creating optimism among investors about potential market advantages.",
       "exported_at": "2025-09-03T13:26:36.467972",
+      "continuous_session": true
+    },
+    {
+      "title": "Florida to end all vaccine mandates, including for schools, first state in the U.S. to do so",
+      "link": "https://www.cnbc.com/2025/09/03/florida-to-end-all-vaccine-mandates-first-state-in-the-us-to-do-so.html",
+      "summary": "The move would make Florida the first U.S. state to withdraw from mandates credited with boosting vaccination rates and preventing infectious disease outbreaks.",
+      "published": "Wed, 03 Sep 2025 17:30:15 GMT",
+      "content": "The move would make Florida the first U.S. state to withdraw from mandates credited with boosting vaccination rates and preventing infectious disease outbreaks.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "af1ab3161faaea6a236b3ef596574d24",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FLORIDA MAKES HISTORY BY ENDING VACCINE MANDATES FOR SCHOOLS 🚀\n\n- Florida becomes first state to abolish vaccine mandates 🥇\n- Decision impacts schools, credited for boosting vaccination rates 💉\n- Move sparks debate on public health and individual freedom 🤔\n\nTAKEAWAY: Florida's groundbreaking decision to end all vaccine mandates, including for schools, ignites discussions on public health strategies and individual rights.",
+      "exported_at": "2025-09-03T13:36:43.021427",
       "continuous_session": true
     }
   ]
