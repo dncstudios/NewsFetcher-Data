@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-03T16:03:06.707096",
-    "total_articles": 195,
-    "new_articles_in_last_fetch": 195,
+    "created_at": "2025-09-03T16:08:13.677992",
+    "total_articles": 197,
+    "new_articles_in_last_fetch": 197,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -2540,6 +2540,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SANTOLI'S MARKET WRAP-UP: TECH WEAKNESS AND CHIP STOCKS LOSING STEAM 🚀\n\n- Tech sector shows weakness on Wednesday 📉\n- Chip stocks running out of steam 🧠\n- Mike Santoli analyzes the day's market action 📊\n\nTAKEAWAY: Tech sector weakens, chip stocks lose momentum, as Mike Santoli provides insights into Wednesday's market performance.",
       "exported_at": "2025-09-03T16:03:06.704255",
+      "continuous_session": true
+    },
+    {
+      "title": "American Eagle says Sydney Sweeney campaign is its &apos;best&apos; to date as it beats earnings expectations",
+      "link": "https://www.cnbc.com/2025/09/03/american-eagle-outfitters-aeo-earnings-q2-2025.html",
+      "summary": "American Eagle said its Sydney Sweeney campaign is its best ever, leading to positive gains in new customers, sales and foot traffic.",
+      "published": "Wed, 03 Sep 2025 20:07:42 GMT",
+      "content": "American Eagle said its Sydney Sweeney campaign is its best ever, leading to positive gains in new customers, sales and foot traffic.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d51ca4b506bd7199bbf39be3b9db6b5d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AMERICAN EAGLE SOARS WITH SYDNEY SWEENEY CAMPAIGN 🚀\n\n- Sydney Sweeney campaign hailed as American Eagle's best ever 🌟\n- Campaign drives growth in new customers, sales, and foot traffic 💥\n- Earnings exceed expectations, beating projections ✅\n- Positive impact of the campaign reflected in strong financial results 📈\n\nTAKEAWAY: American Eagle's Sydney Sweeney campaign propels the brand to new heights, exceeding earnings expectations and attracting a surge in customers and sales.",
+      "exported_at": "2025-09-03T16:08:13.674414",
+      "continuous_session": true
+    },
+    {
+      "title": "68 jobs may qualify for Trump’s $25,000 ‘no tax on tips’ deduction",
+      "link": "https://www.cnbc.com/2025/09/03/treasury-trump-no-tax-on-tips-jobs.html",
+      "summary": "The Treasury has released a preliminary list of 68 jobs eligible for the \"no tax on tips\" deduction enacted via President Donald Trump's \"big beautiful bill.\"",
+      "published": "Wed, 03 Sep 2025 19:39:39 GMT",
+      "content": "The Treasury has released a preliminary list of 68 jobs eligible for the \"no tax on tips\" deduction enacted via President Donald Trump's \"big beautiful bill.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5311fa461ed16c863e92092bdd9bff6a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP'S $25,000 'NO TAX ON TIPS' DEDUCTION ELIGIBLE FOR 68 JOBS 🚀\n\n- Treasury unveils 68 jobs qualifying for tip deduction 💸\n- Deduction part of Trump's \"big beautiful bill\" 📜\n- Aimed at easing tax burdens for eligible workers ✅\n\nTAKEAWAY: Treasury reveals 68 jobs eligible for Trump's generous $25,000 'no tax on tips' deduction, aiming to ease tax burdens for qualified workers.",
+      "exported_at": "2025-09-03T16:08:13.674426",
       "continuous_session": true
     }
   ]
