@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-03T13:01:13.351517",
-    "total_articles": 174,
-    "new_articles_in_last_fetch": 174,
+    "created_at": "2025-09-03T13:11:23.285365",
+    "total_articles": 176,
+    "new_articles_in_last_fetch": 176,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -2267,6 +2267,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NEWSMAX SUES FOX NEWS OVER ANTITRUST CLAIMS ⚠️\n\n- Newsmax accuses Fox News of stifling competition 📉\n- Lawsuit claims Fox News aims to dominate conservative news 🎯\n- Allegations highlight tensions in the news media industry 🚨\n\nTAKEAWAY: Newsmax's lawsuit against Fox News for antitrust claims sheds light on tensions and competition within the conservative news sector.",
       "exported_at": "2025-09-03T13:01:13.348373",
+      "continuous_session": true
+    },
+    {
+      "title": "NBC touts record NFL season ad revenue, sells out of Super Bowl LX spots",
+      "link": "https://www.cnbc.com/2025/09/03/nbc-record-nfl-season-ad-revenue-super-bowl-lx-spots.html",
+      "summary": "NBCUniversal said the upcoming NFL season marks its highest grossing to-date when it comes to overall advertising and partnerships revenue.",
+      "published": "Wed, 03 Sep 2025 17:00:12 GMT",
+      "content": "NBCUniversal said the upcoming NFL season marks its highest grossing to-date when it comes to overall advertising and partnerships revenue.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d98a0539a55fbc984f29d92c7580de0f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NBC BREAKS RECORDS WITH NFL SEASON AD REVENUE 🚀\n\n- NBC's NFL season hits all-time high in ad revenue 💰\n- Super Bowl LX spots sold out, showcasing high demand 🏈\n- NBCUniversal celebrates successful advertising and partnerships 🎉\n\nTAKEAWAY: NBC's record-breaking NFL season ad revenue and sold-out Super Bowl LX spots highlight a successful year in advertising and partnerships for NBCUniversal.",
+      "exported_at": "2025-09-03T13:11:23.282795",
+      "continuous_session": true
+    },
+    {
+      "title": "Cramer warns investors: Don&apos;t be fooled by false market narratives on Fed rate cuts",
+      "link": "https://www.cnbc.com/2025/09/03/cramer-dont-be-fooled-by-false-market-narratives-on-fed-rate-cuts.html",
+      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "published": "Wed, 03 Sep 2025 16:49:28 GMT",
+      "content": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "97304f991ed64218b1eb812bf0d1d6c4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CRAMER'S WARNING: BEWARE FALSE MARKET NARRATIVES ON FED RATE CUTS ⚠️\n\n- Cramer cautions investors against being misled by inaccurate market stories 🚫\n- The Investing Club's \"Morning Meeting\" convenes daily at 10:20 a.m. ET ⏰\n\nTAKEAWAY: Stay vigilant as Cramer alerts investors to avoid falling for deceptive market narratives regarding Fed rate cuts.",
+      "exported_at": "2025-09-03T13:11:23.282807",
       "continuous_session": true
     }
   ]
