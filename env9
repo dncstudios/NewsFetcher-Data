@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-03T17:44:11.426993",
-    "total_articles": 209,
-    "new_articles_in_last_fetch": 209,
+    "created_at": "2025-09-03T19:04:48.177411",
+    "total_articles": 210,
+    "new_articles_in_last_fetch": 210,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -2722,6 +2722,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CONGRESS RACES TO AVOID SHUTDOWN AS PARTISAN STANDOFF DEEPENS ⚠️\n\n- Lawmakers back in Capitol facing looming shutdown threat 🏛️\n- Partisan divisions deepen, complicating resolution 🤝\n- Pressure mounts as government funding deadline approaches ⏰\n- Uncertainty looms over potential shutdown consequences 🤔\n\nTAKEAWAY: Congress is in a race against time to avoid a government shutdown as partisan tensions deepen, creating uncertainty and pressure.",
       "exported_at": "2025-09-03T17:44:11.406152",
+      "continuous_session": true
+    },
+    {
+      "title": "Salesforce CEO calls guidance &apos;appropriately conservative&apos; as stock declines after earnings",
+      "link": "https://www.cnbc.com/2025/09/03/salesforce-ceo-calls-guidance-appropriately-conservative-as-stock-declines-after-earnings.html",
+      "summary": "Salesforce CEO Marc Benioff reviewed his company's quarter in an interview with CNBC's Jim Cramer.",
+      "published": "Wed, 03 Sep 2025 22:53:21 GMT",
+      "content": "Salesforce CEO Marc Benioff reviewed his company's quarter in an interview with CNBC's Jim Cramer.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c12ed9b7cbe2ac7b58d6f2c06c94bcdc",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SALESFORCE CEO DEFENDS GUIDANCE AMID STOCK DECLINE 📉\n\n- Marc Benioff labels guidance as 'appropriately conservative' 📊\n- Stock drops post-earnings despite CEO's reassurance 📉\n- Benioff discusses company's performance with CNBC's Jim Cramer 💬\n\nTAKEAWAY: Despite stock decline, Salesforce CEO stands by guidance, emphasizing its conservative nature to manage expectations effectively.",
+      "exported_at": "2025-09-03T19:04:48.162489",
       "continuous_session": true
     }
   ]
