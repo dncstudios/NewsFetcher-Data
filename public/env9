@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-02T20:56:05.529514",
-    "total_articles": 102,
-    "new_articles_in_last_fetch": 102,
+    "created_at": "2025-09-02T21:26:11.897938",
+    "total_articles": 103,
+    "new_articles_in_last_fetch": 103,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -1332,6 +1332,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FIRED FTC COMMISSIONER REINSTATED BY U.S. APPEALS COURT 🚀\n\n- Court rules FTC commissioners can't be fired without cause ✅\n- President's authority to dismiss commissioners limited ⚠️\n- Decision based on long-standing law 📜\n\nTAKEAWAY: U.S. appeals court reinstates fired FTC commissioner, affirming legal protection against dismissal without cause.",
       "exported_at": "2025-09-02T20:56:05.527559",
+      "continuous_session": true
+    },
+    {
+      "title": "Asia markets track declines on Wall Street as tariff concerns weigh",
+      "link": "https://www.cnbc.com/2025/09/03/asia-stock-markets-today-nikkei-225-asx-200-kospi-hang-seng-csi-300-sensex-nifty-50.html",
+      "summary": "The yield on 30-year Japanese Government Bonds increased by nearly 7 basis point to 3.280%, surpassing its previous high in August.",
+      "published": "Wed, 03 Sep 2025 01:13:08 GMT",
+      "content": "The yield on 30-year Japanese Government Bonds increased by nearly 7 basis point to 3.280%, surpassing its previous high in August.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "39e0f4999b0d12c47dc82957ae35c3b6",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASIA MARKETS FOLLOW WALL STREET'S DECLINE AMID TARIFF WORRIES 🚨\n\n- Asian markets mirror Wall Street's downturn 📉\n- Concerns over tariffs weigh on investor sentiment ⚠️\n- Japanese Government Bonds' yield spikes by 7 basis points 🔺\n- Yield reaches 3.280%, exceeding earlier peak in August 📈\n- Market volatility persists as trade tensions escalate 🌏\n- Investors cautious amidst uncertain economic outlook 🤔\n\nTAKEAWAY: Asia markets echo Wall Street's slide due to tariff concerns, with Japanese Government Bonds seeing a significant yield spike, reflecting ongoing market volatility and investor apprehension.",
+      "exported_at": "2025-09-02T21:26:11.895816",
       "continuous_session": true
     }
   ]
