@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-03T09:54:30.144966",
-    "total_articles": 152,
-    "new_articles_in_last_fetch": 152,
+    "created_at": "2025-09-03T09:59:34.560089",
+    "total_articles": 154,
+    "new_articles_in_last_fetch": 154,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -1982,6 +1982,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ALPHABET STOCK SURGES 7% AFTER GOOGLE'S ANTITRUST WIN 🚀\n\n- Alphabet shares soar 7% in premarket trading 📈\n- Investors optimistic as Google avoids break-up in antitrust case ✅\n- Market views outcome as broadly favorable 🌟\n\nTAKEAWAY: Alphabet's stock skyrockets by 7% following Google's successful evasion of a break-up in the antitrust case, leaving investors optimistic and the market viewing the outcome favorably.",
       "exported_at": "2025-09-03T09:54:30.142468",
+      "continuous_session": true
+    },
+    {
+      "title": "Alphabet stock pops 8% after Google avoids breakup in antitrust case",
+      "link": "https://www.cnbc.com/2025/09/03/alphabet-pops-after-google-avoids-breakup-in-antitrust-case.html",
+      "summary": "Alphabet stock climbed 8% as investors viewed the result of Google's antitrust case as broadly favorable.",
+      "published": "Wed, 03 Sep 2025 13:57:19 GMT",
+      "content": "Alphabet stock climbed 8% as investors viewed the result of Google's antitrust case as broadly favorable.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4465836c9e2ed90eb6289c00d63fa325",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ALPHABET STOCK SOARS 8% AFTER ANTITRUST WIN 🚀\n\n- Alphabet stock surges 8% post Google's antitrust case outcome 📈\n- Investors see Google's result as broadly favorable 🎯\n- Market reacts positively to Google avoiding breakup ⚡️\n\nTAKEAWAY: Alphabet's stock skyrockets 8% following a favorable outcome in Google's antitrust case, boosting investor confidence.",
+      "exported_at": "2025-09-03T09:59:34.557640",
+      "continuous_session": true
+    },
+    {
+      "title": "Macy&apos;s shares jump 20% as retailer tops earnings estimates, raises outlook",
+      "link": "https://www.cnbc.com/2025/09/03/macys-q2-earnings-2025.html",
+      "summary": "Macy's easily beat Wall Street's earnings estimates and raised its guidance as it said revamped stores saw better sales trends.",
+      "published": "Wed, 03 Sep 2025 13:55:02 GMT",
+      "content": "Macy's easily beat Wall Street's earnings estimates and raised its guidance as it said revamped stores saw better sales trends.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4aa2ba4565841ecc0c33685d811650a8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MACY'S SOARS 10% AFTER CRUSHING EARNINGS, BOOSTING OUTLOOK 🚀\n\n- Macy's surpasses earnings forecasts, lifts guidance 📈\n- Revamped stores drive improved sales trends 🏬\n- Wall Street reacts positively with 10% stock surge 📈\n\nTAKEAWAY: Macy's impressive earnings beat and optimistic outlook push its shares up by 10%, showcasing strong momentum in the retail sector.",
+      "exported_at": "2025-09-03T09:59:34.557654",
       "continuous_session": true
     }
   ]
