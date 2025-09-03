@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-03T08:59:19.669058",
-    "total_articles": 146,
-    "new_articles_in_last_fetch": 146,
+    "created_at": "2025-09-03T09:14:04.424209",
+    "total_articles": 147,
+    "new_articles_in_last_fetch": 147,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -1904,6 +1904,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BOEING 737 MAX FAMILIES PUSH TO SCRAP DOJ DEAL ⚠️\n\n- Families of 110 crash victims urge against DOJ agreement ✋\n- Justice Department claims families support pre-trial resolution 💼\n- Disagreement arises over non-prosecution agreement 🤨\n\nTAKEAWAY: Families of Boeing 737 Max crash victims resist DOJ deal, sparking debate over prosecution resolution.",
       "exported_at": "2025-09-03T08:59:19.666365",
+      "continuous_session": true
+    },
+    {
+      "title": "Jim Cramer&apos;s top 10 things to watch in the stock market Wednesday",
+      "link": "https://www.cnbc.com/2025/09/03/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
+      "summary": "Apple and Alphabet are up big on the antitrust remedy decision.",
+      "published": "Wed, 03 Sep 2025 13:04:33 GMT",
+      "content": "Apple and Alphabet are up big on the antitrust remedy decision.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "534f5bc640d536da21b19e14158a645e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JIM CRAMER'S TOP 10 STOCK MARKET FOCUS AREAS TODAY 🚀\n\n- Apple and Alphabet soar post-antitrust remedy decision 📈\n- Market attention shifts to key tech giants 🔍\n- Anticipation rises for market response to the news 📈\n- Investors eyeing potential impact on tech sector 🧐\n\nTAKEAWAY: Apple and Alphabet's significant rise post-antitrust remedy decision puts them in the spotlight, with investors closely monitoring their impact on the market and tech sector.",
+      "exported_at": "2025-09-03T09:14:04.421759",
       "continuous_session": true
     }
   ]
