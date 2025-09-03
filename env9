@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-03T11:30:25.201089",
-    "total_articles": 163,
-    "new_articles_in_last_fetch": 163,
+    "created_at": "2025-09-03T11:55:37.043192",
+    "total_articles": 165,
+    "new_articles_in_last_fetch": 165,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -2124,6 +2124,32 @@
       "hash": "f6a2ccf3f2b787ccfb43d64e8226ac57",
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "exported_at": "2025-09-03T11:30:25.198335",
+      "continuous_session": true
+    },
+    {
+      "title": "Disney to pay $10 million to settle FTC complaint over collection of children&apos;s personal data on YouTube",
+      "link": "https://www.cnbc.com/2025/09/03/disney-ftc-youtube-childrens-data.html",
+      "summary": "Disney to pay $10 million to settle FTC complaint over unlawful collection of children's personal data.",
+      "published": "Wed, 03 Sep 2025 15:53:43 GMT",
+      "content": "Disney to pay $10 million to settle FTC complaint over unlawful collection of children's personal data.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "cf35583c856d3bcbeb1fafcdafe47798",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DISNEY TO PAY $10M FTC FINE FOR YOUTUBE DATA COLLECTION 🚨\n\n- Disney fined $10M for unlawfully collecting kids' data 🕵️‍♂️\n- FTC complaint settled over Disney's YouTube activity 💰\n- Children's privacy breach leads to hefty penalty 💸\n\nTAKEAWAY: Disney's $10 million settlement with the FTC for unlawfully collecting children's personal data on YouTube highlights the importance of safeguarding minors' privacy online.",
+      "exported_at": "2025-09-03T11:55:37.037890",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump appeals ruling that National Guard deployment to L.A. broke the law",
+      "link": "https://www.cnbc.com/2025/09/03/trump-appeals-california-national-guard-deployment.html",
+      "summary": "President Donald Trump has considered sending National Guard troops to Chicago and Boston, after deployments to Los Angeles and Washington, D.C.",
+      "published": "Wed, 03 Sep 2025 15:48:46 GMT",
+      "content": "President Donald Trump has considered sending National Guard troops to Chicago and Boston, after deployments to Los Angeles and Washington, D.C.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8baa2df56282e64b4fc9fee788c6a20d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP CONSIDERS NATIONAL GUARD DEPLOYMENTS TO CHICAGO AND BOSTON 🚀\n\n- Trump appeals ruling on National Guard deployment in L.A. 🛡️\n- Potential troop deployments to Chicago and Boston under consideration 💡\n- Previous deployments in L.A. and D.C. raised legal concerns ⚖️\n\nTAKEAWAY: President Trump's appeal and consideration of National Guard deployments to new cities signal potential legal battles and increased security measures.",
+      "exported_at": "2025-09-03T11:55:37.037901",
       "continuous_session": true
     }
   ]
