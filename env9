@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-03T10:09:42.838133",
-    "total_articles": 156,
-    "new_articles_in_last_fetch": 156,
+    "created_at": "2025-09-03T10:14:45.424603",
+    "total_articles": 157,
+    "new_articles_in_last_fetch": 157,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -2034,6 +2034,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SEN. RAND PAUL SLAMS TRUMP'S INTEL STAKE AS \"SOCIALISM\" ⚠️\n\n- Trump admin acquires 10% stake in Intel 🔍\n- Sen. Rand Paul criticizes move as step towards socialism 📉\n- Controversy sparks debate over government involvement in private sector 💬\n\nTAKEAWAY: Sen. Rand Paul's critique of Trump's Intel stake ignites discussions on government intervention in the private sector.",
       "exported_at": "2025-09-03T10:09:42.835573",
+      "continuous_session": true
+    },
+    {
+      "title": "30-year Treasury yield touches 5% briefly, then retreats on weak jobs data",
+      "link": "https://www.cnbc.com/2025/09/03/us-treasury-yields-little-changed-as-markets-await-jobs-data.html",
+      "summary": "U.S. Treasurys were little changed on Wednesday, but long-dated bonds hovered just below the 5% mark.",
+      "published": "Wed, 03 Sep 2025 14:13:29 GMT",
+      "content": "U.S. Treasurys were little changed on Wednesday, but long-dated bonds hovered just below the 5% mark.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "be7c1b33681003eddca24ce77c19bd1e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 30-YEAR TREASURY YIELD SURPASSES 5% BRIEFLY AMID TARIFF UNCERTAINTY ⚠️\n\n- U.S. Treasurys stabilize, long-dated bonds near 5% milestone\n- Traders grapple with tariff uncertainty and Fed independence threat\n- 30-year Treasury yield briefly exceeds the 5% threshold\n\nTAKEAWAY: The 30-year Treasury yield briefly crossing 5% reflects market unease over tariff uncertainty and concerns about Fed independence.",
+      "exported_at": "2025-09-03T10:14:45.421830",
       "continuous_session": true
     }
   ]
