@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-03T12:20:47.206839",
-    "total_articles": 166,
-    "new_articles_in_last_fetch": 166,
+    "created_at": "2025-09-03T12:35:59.003765",
+    "total_articles": 169,
+    "new_articles_in_last_fetch": 169,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -2163,6 +2163,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP CONSIDERS NATIONAL GUARD DEPLOYMENTS TO CHICAGO AND BOSTON 🚀\n\n- Trump appeals ruling on National Guard deployment in L.A. 🛡️\n- Potential troop deployments to Chicago and Boston under consideration 💡\n- Previous deployments in L.A. and D.C. raised legal concerns ⚖️\n\nTAKEAWAY: President Trump's appeal and consideration of National Guard deployments to new cities signal potential legal battles and increased security measures.",
       "exported_at": "2025-09-03T12:20:47.203772",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves midday: Alphabet, Bruker, Sprinklr, Dollar Tree &amp; more",
+      "link": "https://www.cnbc.com/2025/09/03/stocks-making-the-biggest-moves-midday-googl-brkr-cxm-dltr.html",
+      "summary": "These are the stocks posting the largest moves midday.",
+      "published": "Wed, 03 Sep 2025 16:23:51 GMT",
+      "content": "These are the stocks posting the largest moves midday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "27e3c86d87be94973cfdb1616af7ebd4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS MAKING BIGGEST MIDDAY MOVES 🚀\n\n- Alphabet, Bruker, Sprinklr, Dollar Tree among top movers\n- Market sees significant fluctuations in midday trading ⚠️\n- Investors closely monitoring these stock movements 📈\n\nTAKEAWAY: Alphabet, Bruker, Sprinklr, and Dollar Tree are leading the midday stock market surge, attracting investor attention with their significant movements.",
+      "exported_at": "2025-09-03T12:35:59.000773",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump calls Epstein files a distraction from his success as victims call for their release",
+      "link": "https://www.cnbc.com/2025/09/03/trump-epstein-files-victims-maxwell.html",
+      "summary": "President Donald Trump faces growing calls in Congress to release the Epstein files, which related to his former friend Jeffrey Epstein and Ghislaine Maxwell.",
+      "published": "Wed, 03 Sep 2025 16:25:02 GMT",
+      "content": "President Donald Trump faces growing calls in Congress to release the Epstein files, which related to his former friend Jeffrey Epstein and Ghislaine Maxwell.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3243755d4bf52a9bb8f8d9003fdd4295",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP UNDER PRESSURE TO RELEASE EPSTEIN FILES ⚠️\n\n- Congress demands release of Epstein files linked to Trump 📑\n- Files pertain to Trump's ties with Jeffrey Epstein, Ghislaine Maxwell 🔍\n- Growing pressure on Trump amid calls for transparency 📈\n\nTAKEAWAY: Congress intensifies pressure on Trump to release Epstein files, raising questions about his ties to Epstein and Maxwell.",
+      "exported_at": "2025-09-03T12:35:59.000780",
+      "continuous_session": true
+    },
+    {
+      "title": "This is the jobs number Wall Street wants to see on Friday",
+      "link": "https://www.cnbc.com/2025/09/03/this-is-the-jobs-number-wall-street-wants-to-see-on-friday-.html",
+      "summary": "Investors are fretful heading into the August payrolls report.",
+      "published": "Wed, 03 Sep 2025 16:00:01 GMT",
+      "content": "Investors are fretful heading into the August payrolls report.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "162fbaf5c8d9717a6d7869680b96d033",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: THIS IS THE JOBS NUMBER WALL STREET WANTS TO SEE ON FRIDAY 🚀\n\n- Investors anxious for August payrolls report 📊\n- Wall Street eagerly awaiting crucial jobs data 💼\n- Market sentiment hinges on upcoming employment numbers 📈\n\nTAKEAWAY: The upcoming release of August payrolls data has investors on edge, with Wall Street eagerly anticipating the crucial employment numbers to drive market sentiment.",
+      "exported_at": "2025-09-03T12:35:59.000786",
       "continuous_session": true
     }
   ]
