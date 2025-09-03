@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-03T13:36:43.024044",
-    "total_articles": 180,
-    "new_articles_in_last_fetch": 180,
+    "created_at": "2025-09-03T13:41:47.014311",
+    "total_articles": 181,
+    "new_articles_in_last_fetch": 181,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -2345,6 +2345,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FLORIDA MAKES HISTORY BY ENDING VACCINE MANDATES FOR SCHOOLS 🚀\n\n- Florida becomes first state to abolish vaccine mandates 🥇\n- Decision impacts schools, credited for boosting vaccination rates 💉\n- Move sparks debate on public health and individual freedom 🤔\n\nTAKEAWAY: Florida's groundbreaking decision to end all vaccine mandates, including for schools, ignites discussions on public health strategies and individual rights.",
       "exported_at": "2025-09-03T13:36:43.021427",
+      "continuous_session": true
+    },
+    {
+      "title": "UBS says these solar stocks are winners even as Trump attacks renewables",
+      "link": "https://www.cnbc.com/2025/09/03/ubs-says-these-solar-stocks-are-winners-even-as-trump-attacks-renewables-.html",
+      "summary": "The tech sector wants clean energy to power AI, and solar is quicker and cheaper to build than other electricity sources, according to UBS.",
+      "published": "Wed, 03 Sep 2025 17:31:36 GMT",
+      "content": "The tech sector wants clean energy to power AI, and solar is quicker and cheaper to build than other electricity sources, according to UBS.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3e654a76a98f10d50dff070c6a0207b9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: UBS PICKS SOLAR STOCKS DESPITE TRUMP'S RENEWABLES ATTACK ⚡️\n\n- Solar stocks recommended for tech's clean energy push 🌞\n- Solar energy highlighted as fast and cost-effective by UBS 💡\n- UBS stands by solar amid Trump's renewable energy criticisms 🌿\n\nTAKEAWAY: UBS emphasizes solar stocks as key players in the tech sector's clean energy drive, citing their speed, cost-efficiency, and resilience against Trump's renewable energy scrutiny.",
+      "exported_at": "2025-09-03T13:41:47.011346",
       "continuous_session": true
     }
   ]
