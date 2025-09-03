@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-03T04:58:00.666973",
-    "total_articles": 126,
-    "new_articles_in_last_fetch": 126,
+    "created_at": "2025-09-03T05:13:03.338580",
+    "total_articles": 128,
+    "new_articles_in_last_fetch": 128,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -1644,6 +1644,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: UK SETS NOVEMBER 26 FOR AUTUMN BUDGET ANNOUNCEMENT 🚀\n\n- Autumn Budget date confirmed by UK government 🗓️\n- Chancellor Rachel Reeves faces fiscal pressure ⚠️\n- Expectations high for resolution of fiscal conundrum 💼\n\nTAKEAWAY: The UK's upcoming Autumn Budget announcement on November 26 brings anticipation as Chancellor Rachel Reeves navigates fiscal challenges.",
       "exported_at": "2025-09-03T04:58:00.658051",
+      "continuous_session": true
+    },
+    {
+      "title": "UK has weeks to solve fiscal puzzle as it sets date for Autumn Budget",
+      "link": "https://www.cnbc.com/2025/09/03/uk-to-deliver-budget-on-nov-26.html",
+      "summary": "The U.K. government has named the date of its forthcoming Autumn Budget amid heightened pressure on Chancellor Rachel Reeves to resolve a fiscal conundrum.",
+      "published": "Wed, 03 Sep 2025 09:03:18 GMT",
+      "content": "The U.K. government has named the date of its forthcoming Autumn Budget amid heightened pressure on Chancellor Rachel Reeves to resolve a fiscal conundrum.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "611b74990821554d1beef449557e2358",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: UK SETS NOVEMBER 26 FOR AUTUMN BUDGET ANNOUNCEMENT 🚀\n\n- Autumn Budget date confirmed by UK government 🗓️\n- Chancellor Rachel Reeves faces fiscal pressure ⚠️\n- Expectations high for resolution of fiscal conundrum 💼\n\nTAKEAWAY: The UK's upcoming Autumn Budget announcement on November 26 brings anticipation as Chancellor Rachel Reeves navigates fiscal challenges.",
+      "exported_at": "2025-09-03T05:13:03.324454",
+      "continuous_session": true
+    },
+    {
+      "title": "Asia markets close mixed as tariff concerns weigh",
+      "link": "https://www.cnbc.com/2025/09/03/asia-stock-markets-today-nikkei-225-asx-200-kospi-hang-seng-csi-300-sensex-nifty-50.html",
+      "summary": "China's RatingDog China General Services purchasing managers' index — which captures the country's services activity — hit a 15-month high.",
+      "published": "Wed, 03 Sep 2025 08:41:56 GMT",
+      "content": "China's RatingDog China General Services purchasing managers' index — which captures the country's services activity — hit a 15-month high.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "42878becd3c243023bde15763050d036",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASIA MARKETS FALL AS TARIFF CONCERNS PERSIST 🚨\n\n- China's services PMI hits 15-month high 📈\n- Tariff concerns weigh on Asia markets 📉\n- Uncertainty looms over trade tensions 🌏\n\nTAKEAWAY: Despite China's services PMI hitting a high, tariff concerns continue to weigh on Asia markets, creating uncertainty in trade relations.",
+      "exported_at": "2025-09-03T05:13:03.324511",
       "continuous_session": true
     }
   ]
