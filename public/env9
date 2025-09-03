@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-03T11:55:37.043192",
-    "total_articles": 165,
-    "new_articles_in_last_fetch": 165,
+    "created_at": "2025-09-03T12:20:47.206839",
+    "total_articles": 166,
+    "new_articles_in_last_fetch": 166,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -2150,6 +2150,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP CONSIDERS NATIONAL GUARD DEPLOYMENTS TO CHICAGO AND BOSTON 🚀\n\n- Trump appeals ruling on National Guard deployment in L.A. 🛡️\n- Potential troop deployments to Chicago and Boston under consideration 💡\n- Previous deployments in L.A. and D.C. raised legal concerns ⚖️\n\nTAKEAWAY: President Trump's appeal and consideration of National Guard deployments to new cities signal potential legal battles and increased security measures.",
       "exported_at": "2025-09-03T11:55:37.037901",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump appeals ruling that National Guard deployment to LA broke the law",
+      "link": "https://www.cnbc.com/2025/09/03/trump-appeals-california-national-guard-deployment.html",
+      "summary": "President Donald Trump has considered sending National Guard troops to Chicago and Boston, after deployments to Los Angeles and Washington, D.C.",
+      "published": "Wed, 03 Sep 2025 16:17:58 GMT",
+      "content": "President Donald Trump has considered sending National Guard troops to Chicago and Boston, after deployments to Los Angeles and Washington, D.C.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e329cfb6f2cd39e83ccc800744d07775",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP CONSIDERS NATIONAL GUARD DEPLOYMENTS TO CHICAGO AND BOSTON 🚀\n\n- Trump appeals ruling on National Guard deployment in L.A. 🛡️\n- Potential troop deployments to Chicago and Boston under consideration 💡\n- Previous deployments in L.A. and D.C. raised legal concerns ⚖️\n\nTAKEAWAY: President Trump's appeal and consideration of National Guard deployments to new cities signal potential legal battles and increased security measures.",
+      "exported_at": "2025-09-03T12:20:47.203772",
       "continuous_session": true
     }
   ]
