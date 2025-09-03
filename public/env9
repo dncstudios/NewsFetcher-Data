@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-03T16:43:40.282283",
-    "total_articles": 206,
-    "new_articles_in_last_fetch": 206,
+    "created_at": "2025-09-03T16:58:49.020850",
+    "total_articles": 207,
+    "new_articles_in_last_fetch": 207,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -2683,6 +2683,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JUDGE OVERTURNS $2.2B HARVARD FUNDING FREEZE BY TRUMP 🚀\n\n- Trump admin's $2.2B freeze on Harvard grants voided by judge ⚖️\n- Concerns over antisemitism and other issues led to initial freeze ❌\n- Harvard University funding restored after legal battle victory 💰\n- Ruling brings relief to Ivy League campus 🎓\n- Antisemitism concerns addressed without funding repercussions ✅\n\nTAKEAWAY: Harvard University celebrates as judge reverses Trump administration's $2.2 billion funding freeze, bringing relief and financial stability to the Ivy League campus.",
       "exported_at": "2025-09-03T16:43:40.278346",
+      "continuous_session": true
+    },
+    {
+      "title": "C3 AI reports declining revenue, announces new CEO to replace Siebel",
+      "link": "https://www.cnbc.com/2025/09/03/c3-ai-earnings-ceo-siebel.html",
+      "summary": "Stephen Ehikian is taking over as CEO, succeeding Thomas Siebel, who revealed that he was diagnosed with an autoimmune disease.",
+      "published": "Wed, 03 Sep 2025 20:55:05 GMT",
+      "content": "Stephen Ehikian is taking over as CEO, succeeding Thomas Siebel, who revealed that he was diagnosed with an autoimmune disease.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5a408c118eb6e9d36afd1c1aaa2e4d2f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: C3 AI REVENUE DECLINES, NEW CEO STEPS IN ⚠️\n\n- Revenue drops reported by C3 AI 📉\n- Stephen Ehikian named new CEO, replacing Thomas Siebel 🌟\n- Siebel discloses autoimmune disease diagnosis 🤕\n\nTAKEAWAY: C3 AI sees declining revenue as new CEO Stephen Ehikian steps in, replacing Thomas Siebel, who discloses his autoimmune disease diagnosis.",
+      "exported_at": "2025-09-03T16:58:49.009130",
       "continuous_session": true
     }
   ]
