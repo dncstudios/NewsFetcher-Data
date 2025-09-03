@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-02T21:41:15.613141",
-    "total_articles": 104,
-    "new_articles_in_last_fetch": 104,
+    "created_at": "2025-09-02T22:11:27.695923",
+    "total_articles": 109,
+    "new_articles_in_last_fetch": 109,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -1358,6 +1358,71 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CHINA'S MILITARY MIGHT SHINES WITH PUTIN & KIM JONG UN 🚀\n\n- President Xi Jinping gives powerful speech at Tiananmen Square 🎤\n- Troops showcased their strength in a grand display 🪖\n- Putin and Kim Jong Un witness China's military prowess 👀\n\nTAKEAWAY: China's impressive military display, with Putin and Kim Jong Un in attendance, underscores its global influence and strength.",
       "exported_at": "2025-09-02T21:41:15.611011",
+      "continuous_session": true
+    },
+    {
+      "title": "China&apos;s Xi says the world faces &apos;peace or war&apos; as Trump claims Beijing conspiring against U.S.",
+      "link": "https://www.cnbc.com/2025/09/03/china-military-day-parade-xi-trump-beijing-us.html",
+      "summary": "Russian President Vladimir Putin and North Korea's Kim Jong Un are among the leaders from more than 20 countries attending the \"Victory Day\" military parade in Beijing.",
+      "published": "Wed, 03 Sep 2025 01:55:19 GMT",
+      "content": "Russian President Vladimir Putin and North Korea's Kim Jong Un are among the leaders from more than 20 countries attending the \"Victory Day\" military parade in Beijing.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "80f63449e6afea3d3abf3327df31e1be",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: XI WARNS OF 'PEACE OR WAR' AS TRUMP ACCUSES CHINA 🚨\n\n- Xi Jinping warns world of choice between peace or war 🌍\n- Trump accuses Beijing of conspiring against the U.S. 🇨🇳\n- Leaders from 20+ countries attend Beijing's military parade 🎉\n\nTAKEAWAY: Xi Jinping's warning of 'peace or war' contrasts with Trump's accusations against China, as global leaders gather for Beijing's military parade.",
+      "exported_at": "2025-09-02T22:11:27.693610",
+      "continuous_session": true
+    },
+    {
+      "title": "Stock futures edge higher after Google avoids harsh antitrust penalty: Live updates",
+      "link": "https://www.cnbc.com/2025/09/02/stock-market-today-live-updates.html",
+      "summary": "Investors raked in profits on Tuesday as the three major U.S. indexes closed in the red.",
+      "published": "Tue, 02 Sep 2025 23:04:45 GMT",
+      "content": "Investors raked in profits on Tuesday as the three major U.S. indexes closed in the red.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "781fe2651613c3d5e3cfb7d7ad7fd1f0",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK FUTURES RISE AS GOOGLE AVOIDS ANTITRUST PENALTY 🚀\n\n- Google's avoidance of harsh antitrust penalty boosts market sentiment 📈\n- Investors capitalize on profits despite major U.S. indexes closing lower 📉\n- Positive outlook as stock futures edge higher post Google news 🔝\n\nTAKEAWAY: Market optimism prevails as Google's avoidance of harsh antitrust penalty leads to a rise in stock futures.",
+      "exported_at": "2025-09-02T22:11:27.693618",
+      "continuous_session": true
+    },
+    {
+      "title": "Apple shares rise after judge rules Google can continue preload deals in antitrust case",
+      "link": "https://www.cnbc.com/2025/09/02/apple-shares-rise-after-decision-in-google-antitrust-case-.html",
+      "summary": "Apple shares rose 3% in extended trading Tuesday after a federal judge ruled that Alphabet may continue making payments to preload Google Search on the iPhone.",
+      "published": "Tue, 02 Sep 2025 23:18:18 GMT",
+      "content": "Apple shares rose 3% in extended trading Tuesday after a federal judge ruled that Alphabet may continue making payments to preload Google Search on the iPhone.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fef4b7b6efc97605207fbfdb48d64c3e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: APPLE SHARES SURGE AS JUDGE GREENLIGHTS GOOGLE PRELOAD DEAL 🚀\n\n- Apple stock jumps 3% in after-hours trading 📈\n- Federal judge allows Alphabet to pay for Google Search preload 📱\n- Positive ruling boosts investor confidence in Apple 📈\n- Google can maintain its presence on the iPhone ✅\n- Apple's extended trading shows market optimism 🌟\n- Ruling signals potential impact on tech industry dynamics ⚡️\n\nTAKEAWAY: Apple's stock gets a 3% lift in after-hours trading as a judge permits Google to continue preload deals, sparking investor confidence and market optimism.",
+      "exported_at": "2025-09-02T22:11:27.693622",
+      "continuous_session": true
+    },
+    {
+      "title": "Google&apos;s AI stumbles, ChatGPT&apos;s emergence &apos;changed the course&apos; of antitrust case",
+      "link": "https://www.cnbc.com/2025/09/02/google-ai-stumbles-chatgpt-emergence-changed-course-of-antitrust-case.html",
+      "summary": "Shares of Google rose in extended trading on Tuesday after the company dodged the worst-possible outcome from the antitrust case it lost last year.",
+      "published": "Wed, 03 Sep 2025 00:14:25 GMT",
+      "content": "Shares of Google rose in extended trading on Tuesday after the company dodged the worst-possible outcome from the antitrust case it lost last year.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1ee6523af9cb6e582d9b851ff930adf4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GOOGLE'S AI STUMBLES, CHATGPT'S EMERGENCE SHIFTS ANTITRUST CASE 🚀\n\n- Google shares surge in after-hours trading 📈\n- Antitrust case outcome better than feared 🛡️\n- ChatGPT's role alters the course of the case 🔄\n\nTAKEAWAY: Google's stock soars as it avoids the worst-case scenario in the antitrust case, with ChatGPT's impact reshaping the legal battle.",
+      "exported_at": "2025-09-02T22:11:27.693629",
+      "continuous_session": true
+    },
+    {
+      "title": "Australia&apos;s GDP expands more than expected; fastest pace since September 2023",
+      "link": "https://www.cnbc.com/2025/09/03/australias-gdp-expands-more-than-expected-fastest-pace-since-september-2023.html",
+      "summary": "The country's GDP grew 1.8% year over year, higher than the 1.6% expected by economists polled by Reuters.",
+      "published": "Wed, 03 Sep 2025 01:54:48 GMT",
+      "content": "The country's GDP grew 1.8% year over year, higher than the 1.6% expected by economists polled by Reuters.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b5eb27036e47b9d39bfbd00effc8f60e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AUSTRALIA'S GDP GROWS FASTER THAN EXPECTED 🚀\n\n- Australia's GDP expands by 1.8% YoY 📈\n- Surpasses economists' forecast of 1.6% growth 🎯\n- Fastest pace since September 2023 ⚡️\n\nTAKEAWAY: Australia's economy shows resilience with GDP growth surpassing expectations, marking its fastest pace since September 2023.",
+      "exported_at": "2025-09-02T22:11:27.693632",
       "continuous_session": true
     }
   ]
