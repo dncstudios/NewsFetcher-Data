@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-03T07:13:43.942766",
-    "total_articles": 137,
-    "new_articles_in_last_fetch": 137,
+    "created_at": "2025-09-03T07:28:47.398933",
+    "total_articles": 138,
+    "new_articles_in_last_fetch": 138,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -1787,6 +1787,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: MAINE MASS SHOOTING SURVIVORS SUE U.S. GOVERNMENT ⚠️\n\n- Survivors to file negligence lawsuit against U.S. gov 📜\n- Allegation: Military failed to act on shooter's warning signs ⚠️\n- Army reservist allegedly posed threat in 2023 🔥\n\nTAKEAWAY: Maine mass shooting survivors take legal action against the U.S. government, claiming negligence in responding to warning signs of a potential mass shooter.",
       "exported_at": "2025-09-03T07:13:43.940412",
+      "continuous_session": true
+    },
+    {
+      "title": "Macy&apos;s shares pop 10% as retailer tops earnings estimates, raises outlook",
+      "link": "https://www.cnbc.com/2025/09/03/macys-q2-earnings-2025.html",
+      "summary": "Macy's easily beat Wall Street's earnings estimates and raised its guidance as it said revamped stores saw better sales trends.",
+      "published": "Wed, 03 Sep 2025 11:17:44 GMT",
+      "content": "Macy's easily beat Wall Street's earnings estimates and raised its guidance as it said revamped stores saw better sales trends.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "248035587352ce3618e92ebb5cfe8b7c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MACY'S BEATS EARNINGS ESTIMATES, RAISES FULL-YEAR GUIDANCE 🚀\n\n- Macy's surpasses Wall Street's earnings expectations 💪\n- Revamped stores drive improved sales trends 📈\n- Company raises full-year guidance due to strong performance ✅\n\nTAKEAWAY: Macy's impressive earnings beat and raised guidance signal a strong performance driven by revamped stores and improved sales trends.",
+      "exported_at": "2025-09-03T07:28:47.396424",
       "continuous_session": true
     }
   ]
