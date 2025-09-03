@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-03T14:27:10.856739",
-    "total_articles": 184,
-    "new_articles_in_last_fetch": 184,
+    "created_at": "2025-09-03T14:42:20.475316",
+    "total_articles": 185,
+    "new_articles_in_last_fetch": 185,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -2397,6 +2397,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: HEALTHY RETURNS: NOVO NORDISK UNVEILS FIRST-EVER OBESITY PILL 🚀\n\n- Novo Nordisk introduces groundbreaking obesity pill 💊\n- Martin Holst Lange shares insights on research and development 🧠\n- OpenAI accelerates scientific discovery with new initiative 🚀\n\nTAKEAWAY: Novo Nordisk's debut of the first-ever obesity pill marks a significant advancement in healthcare, while OpenAI's initiative aims to revolutionize scientific progress.",
       "exported_at": "2025-09-03T14:27:10.853556",
+      "continuous_session": true
+    },
+    {
+      "title": "Breaking down the charts on this outperforming medical device maker",
+      "link": "https://www.cnbc.com/2025/09/03/breaking-down-the-charts-on-this-outperforming-medical-device-maker.html",
+      "summary": "Chart analyst Frank Cappelleri goes through the charts that make this stock an attractive play.",
+      "published": "Wed, 03 Sep 2025 18:40:04 GMT",
+      "content": "Chart analyst Frank Cappelleri goes through the charts that make this stock an attractive play.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a826d955aead6b61ead84aadf8c2b06e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BREAKING DOWN CHARTS OF TOP MEDICAL DEVICE MAKER 📈\n\n- Analyst Frank Cappelleri highlights stock's strong performance 🔥\n- Charts reveal attractive investment opportunity 💰\n- Company's stock showing consistent growth over time 📈\n\nTAKEAWAY: Chart analysis by Frank Cappelleri showcases the promising performance and investment potential of this top medical device maker.",
+      "exported_at": "2025-09-03T14:42:20.472318",
       "continuous_session": true
     }
   ]
