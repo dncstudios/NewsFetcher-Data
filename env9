@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-03T13:11:23.285365",
-    "total_articles": 176,
-    "new_articles_in_last_fetch": 176,
+    "created_at": "2025-09-03T13:26:36.471784",
+    "total_articles": 179,
+    "new_articles_in_last_fetch": 179,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -2293,6 +2293,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CRAMER'S WARNING: BEWARE FALSE MARKET NARRATIVES ON FED RATE CUTS ⚠️\n\n- Cramer cautions investors against being misled by inaccurate market stories 🚫\n- The Investing Club's \"Morning Meeting\" convenes daily at 10:20 a.m. ET ⏰\n\nTAKEAWAY: Stay vigilant as Cramer alerts investors to avoid falling for deceptive market narratives regarding Fed rate cuts.",
       "exported_at": "2025-09-03T13:11:23.282807",
+      "continuous_session": true
+    },
+    {
+      "title": "Apple has survived Trump&apos;s tariffs so far. It might raise iPhone prices anyway",
+      "link": "https://www.cnbc.com/2025/09/03/apple-might-raise-iphone-prices-despite-its-handling-of-tariffs-so-far.html",
+      "summary": "As Apple prepares to unveil the iPhone 17, some analysts expect the company to raise prices even after all CEO Tim Cook has done to avoid the worst of tariffs.",
+      "published": "Wed, 03 Sep 2025 17:19:33 GMT",
+      "content": "As Apple prepares to unveil the iPhone 17, some analysts expect the company to raise prices even after all CEO Tim Cook has done to avoid the worst of tariffs.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "63e23c3bcfe18bf2d58eed6e4954d48b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: APPLE MAY HIKE iPHONE PRICES DESPITE SURVIVING TRUMP'S TARIFFS 📈\n\n- Apple likely to increase iPhone prices for iPhone 17 launch 📈\n- CEO Tim Cook's efforts helped Apple avoid major tariff impacts ✅\n- Analysts predict price hikes even after tariff challenges overcome 💰\n- Anticipation builds as Apple gears up for iPhone 17 reveal 🚀\n\nTAKEAWAY: Despite overcoming Trump's tariffs, Apple faces potential iPhone price increases for the iPhone 17 launch, causing anticipation among analysts and consumers.",
+      "exported_at": "2025-09-03T13:26:36.467951",
+      "continuous_session": true
+    },
+    {
+      "title": "Student loan borrowers pausing payments have doubled since 2024, expert calculates",
+      "link": "https://www.cnbc.com/2025/09/03/student-loan-borrowers-forbearances-deferments.html",
+      "summary": "More people are pausing their student loan payments, amid the fallout of the Biden-era SAVE plan and other troubling economic conditions.",
+      "published": "Wed, 03 Sep 2025 17:13:04 GMT",
+      "content": "More people are pausing their student loan payments, amid the fallout of the Biden-era SAVE plan and other troubling economic conditions.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b02806af96b0a713819dc0b82f667c23",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STUDENT LOAN PAYMENT PAUSES DOUBLE IN 2024 🚀\n\n- Student loan borrowers pausing payments surge 📈\n- Biden's SAVE plan impact on loan payment trends 🎯\n- Troubling economic conditions drive payment pauses ⚠️\n\nTAKEAWAY: The doubling of student loan borrowers pausing payments in 2024 reflects the impact of Biden's SAVE plan and challenging economic conditions.",
+      "exported_at": "2025-09-03T13:26:36.467966",
+      "continuous_session": true
+    },
+    {
+      "title": "What Alphabet&apos;s favorable antitrust ruling means for Apple and its investors",
+      "link": "https://www.cnbc.com/2025/09/03/what-alphabets-favorable-antitrust-ruling-means-for-apple-and-its-investors.html",
+      "summary": "Apple shares jumped more than 3% Wednesday after a judge ruled that Alphabet can continue making payments to preload Google Search onto the iPhone.",
+      "published": "Wed, 03 Sep 2025 17:17:51 GMT",
+      "content": "Apple shares jumped more than 3% Wednesday after a judge ruled that Alphabet can continue making payments to preload Google Search onto the iPhone.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "19c21ad1064d7a16503581911f6f1960",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ALPHABET'S ANTITRUST WIN BOOSTS APPLE SHARES 🚀\n\n- Apple stock surges over 3% post favorable Alphabet ruling 📈\n- Judge allows Alphabet to pay for Google Search on iPhones ✅\n- Positive news impacts Apple investors and market sentiment 📊\n- Alphabet's ability to preload Search on iPhones affirmed 🔍\n- Speculation rises on potential benefits for Apple's market share 📈\n- Apple's stock price reacts positively to the antitrust decision 💰\n\nTAKEAWAY: Alphabet's recent antitrust ruling in favor of preloading Google Search on iPhones fuels Apple stock surge, creating optimism among investors about potential market advantages.",
+      "exported_at": "2025-09-03T13:26:36.467972",
       "continuous_session": true
     }
   ]
