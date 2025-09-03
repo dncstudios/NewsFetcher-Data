@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-02T20:25:59.826485",
-    "total_articles": 101,
-    "new_articles_in_last_fetch": 101,
+    "created_at": "2025-09-02T20:56:05.529514",
+    "total_articles": 102,
+    "new_articles_in_last_fetch": 102,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -1319,6 +1319,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CHINA'S MILITARY PARADE SHUTS PUBLIC OUT 🚫\n\n- Massive parade closed to the public, empty offices and shut windows 🏢\n- Xi Jinping invites Putin and Kim Jong Un, showcasing global power 🌏\n- China's display of military might with international guests 🇨🇳🇷🇺🇰🇵\n\nTAKEAWAY: China's exclusive military parade, with invited global leaders Putin and Kim Jong Un, highlights Beijing's demonstration of power and influence on the world stage.",
       "exported_at": "2025-09-02T20:25:59.824620",
+      "continuous_session": true
+    },
+    {
+      "title": "Fired Democratic FTC commissioner reinstated by U.S. appeals court",
+      "link": "https://www.cnbc.com/2025/09/03/fired-democratic-ftc-commissioner-reinstated-by-us-appeals-court.html",
+      "summary": "The court said that FTC commissioners may not be fired by a president without cause, saying that the law on this point has been clear for nearly a century.",
+      "published": "Wed, 03 Sep 2025 00:40:27 GMT",
+      "content": "The court said that FTC commissioners may not be fired by a president without cause, saying that the law on this point has been clear for nearly a century.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "64b5dc6fb63f7f1ec13cdfbfeaef2270",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FIRED FTC COMMISSIONER REINSTATED BY U.S. APPEALS COURT 🚀\n\n- Court rules FTC commissioners can't be fired without cause ✅\n- President's authority to dismiss commissioners limited ⚠️\n- Decision based on long-standing law 📜\n\nTAKEAWAY: U.S. appeals court reinstates fired FTC commissioner, affirming legal protection against dismissal without cause.",
+      "exported_at": "2025-09-02T20:56:05.527559",
       "continuous_session": true
     }
   ]
