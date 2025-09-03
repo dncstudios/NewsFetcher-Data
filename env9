@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-03T14:57:30.605222",
-    "total_articles": 187,
-    "new_articles_in_last_fetch": 187,
+    "created_at": "2025-09-03T15:22:43.381783",
+    "total_articles": 189,
+    "new_articles_in_last_fetch": 189,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -2436,6 +2436,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: POLYMARKET CLEARED FOR U.S. LAUNCH AFTER CFTC APPROVAL 🚀\n\n- Polymarket receives approval for U.S. launch from CFTC ✅\n- CEO Shayne Coplan announces platform's expansion 🌎\n- Online prediction betting site set to enter U.S. market 🔥\n- Polymarket ready to bring its services to American users 🇺🇸\n- CEO Coplan confirms platform's green light for U.S. operations 💡\n\nTAKEAWAY: Polymarket's approval for U.S. launch by the CFTC signals a significant expansion opportunity and sets the stage for its entry into the American market.",
       "exported_at": "2025-09-03T14:57:30.602167",
+      "continuous_session": true
+    },
+    {
+      "title": "OpenAI boosts size of secondary share sale to $10.3 billion",
+      "link": "https://www.cnbc.com/2025/09/03/openai-boosts-size-of-secondary-share-sale-to-10point3-billion.html",
+      "summary": "OpenAI is allowing current and former employees to sell more than $10 billion worth of stock in a secondary share sale.",
+      "published": "Wed, 03 Sep 2025 19:18:50 GMT",
+      "content": "OpenAI is allowing current and former employees to sell more than $10 billion worth of stock in a secondary share sale.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "737b93e6ffcc17b8e587f5e88ecedb58",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: OPENAI DOUBLES SECONDARY SHARE SALE TO $10.3 BILLION 🚀\n\n- Current and former employees sell over $10 billion in stock 💰\n- Secondary share sale size boosted by OpenAI 🔝\n- Significant increase in stock sale value 💸\n- Opportunity for employees to capitalize on stock value 📈\n- OpenAI facilitates substantial liquidity for stakeholders 💼\n- Boosted secondary share sale reflects confidence in company growth 📈\n\nTAKEAWAY: OpenAI's decision to increase the secondary share sale to $10.3 billion provides a lucrative opportunity for employees while showcasing confidence in the company's future prospects.",
+      "exported_at": "2025-09-03T15:22:43.378138",
+      "continuous_session": true
+    },
+    {
+      "title": "Florida to become first state to end all vaccine mandates, including in schools",
+      "link": "https://www.cnbc.com/2025/09/03/florida-to-end-all-vaccine-mandates-first-state-in-the-us-to-do-so.html",
+      "summary": "The move would make Florida the first U.S. state to withdraw from mandates credited with boosting vaccination rates and preventing infectious disease outbreaks.",
+      "published": "Wed, 03 Sep 2025 19:21:57 GMT",
+      "content": "The move would make Florida the first U.S. state to withdraw from mandates credited with boosting vaccination rates and preventing infectious disease outbreaks.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c6a22e5f5f5cc01394c8121694314386",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FLORIDA MAKES HISTORY BY ENDING VACCINE MANDATES FOR SCHOOLS 🚀\n\n- Florida becomes first state to abolish vaccine mandates 🥇\n- Decision impacts schools, credited for boosting vaccination rates 💉\n- Move sparks debate on public health and individual freedom 🤔\n\nTAKEAWAY: Florida's groundbreaking decision to end all vaccine mandates, including for schools, ignites discussions on public health strategies and individual rights.",
+      "exported_at": "2025-09-03T15:22:43.378147",
       "continuous_session": true
     }
   ]
