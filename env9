@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-02T20:10:54.721826",
-    "total_articles": 99,
-    "new_articles_in_last_fetch": 99,
+    "created_at": "2025-09-02T20:25:59.826485",
+    "total_articles": 101,
+    "new_articles_in_last_fetch": 101,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -1293,6 +1293,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SALESFORCE CEO CONFIRMS 4,000 LAYOFFS WITH AI 🚨\n\n- Salesforce CEO Benioff announces 4,000 job cuts 💼\n- Layoffs aimed at optimizing workforce with AI 🤖\n- Marc Benioff discloses details on The Logan Bartlett Show podcast 🎙️\n\nTAKEAWAY: Salesforce CEO Benioff's strategic move to cut 4,000 jobs using AI aims to optimize the company's workforce for greater efficiency.",
       "exported_at": "2025-09-02T20:10:54.719933",
+      "continuous_session": true
+    },
+    {
+      "title": "Asia markets mostly fall, tracking losses on Wall Street",
+      "link": "https://www.cnbc.com/2025/09/03/asia-stock-markets-today-nikkei-225-asx-200-kospi-hang-seng-csi-300-sensex-nifty-50.html",
+      "summary": "Japanese and Australian stocks fell, while South Korea's Kospi index rose marginally in early trade.",
+      "published": "Wed, 03 Sep 2025 00:10:48 GMT",
+      "content": "Japanese and Australian stocks fell, while South Korea's Kospi index rose marginally in early trade.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "80068b53d04d646435da365d1157a2f2",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASIA MARKETS SLIP, FOLLOWING WALL STREET LOSSES 📉\n\n- Japanese and Australian stocks decline 📉\n- South Korea's Kospi index shows slight increase 📈\n\nTAKEAWAY: Asian markets mirror Wall Street losses with Japanese and Australian stocks falling, while South Korea's Kospi index sees a marginal rise.",
+      "exported_at": "2025-09-02T20:25:59.824611",
+      "continuous_session": true
+    },
+    {
+      "title": "Shut windows and empty offices: China&apos;s massive military parade is closed to the public",
+      "link": "https://www.cnbc.com/2025/09/02/china-military-parade-victory-day.html",
+      "summary": "President Xi Jinping has invited Russia's Vladimir Putin and North Korea's Kim Jong Un to attend as part of Beijing's showcase of its global power.",
+      "published": "Tue, 02 Sep 2025 23:57:51 GMT",
+      "content": "President Xi Jinping has invited Russia's Vladimir Putin and North Korea's Kim Jong Un to attend as part of Beijing's showcase of its global power.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a693edebe0b0e5c37899fe558a4f6723",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CHINA'S MILITARY PARADE SHUTS PUBLIC OUT 🚫\n\n- Massive parade closed to the public, empty offices and shut windows 🏢\n- Xi Jinping invites Putin and Kim Jong Un, showcasing global power 🌏\n- China's display of military might with international guests 🇨🇳🇷🇺🇰🇵\n\nTAKEAWAY: China's exclusive military parade, with invited global leaders Putin and Kim Jong Un, highlights Beijing's demonstration of power and influence on the world stage.",
+      "exported_at": "2025-09-02T20:25:59.824620",
       "continuous_session": true
     }
   ]
