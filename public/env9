@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-02T22:41:34.510537",
-    "total_articles": 111,
-    "new_articles_in_last_fetch": 111,
+    "created_at": "2025-09-02T23:26:43.707749",
+    "total_articles": 112,
+    "new_articles_in_last_fetch": 112,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -1449,6 +1449,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: DOW DROPS 250 POINTS ON TARIFF WORRIES AND BOND YIELDS RISE 📉\n\n- Dow closes down approximately 250 points 📉\n- Tariff worries and rising bond yields impact Wall Street 📉\n- Federal appeals court rules most of Trump's global tariffs illegal ⚠️\n\nTAKEAWAY: Wall Street faces a 250-point drop due to tariff concerns and increasing bond yields, intensified by a ruling against Trump's tariffs.",
       "exported_at": "2025-09-02T22:41:34.507982",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump, who questioned his opponents&apos; health, rebuffs rumors about his own",
+      "link": "https://www.cnbc.com/2025/09/03/trump-who-questioned-his-opponents-health-rebuffs-rumors-about-his-own.html",
+      "summary": "Online speculation and conspiracy theories about Trump's health exploded over the holiday weekend after the 79-year-old spent a few days out of the public eye.",
+      "published": "Wed, 03 Sep 2025 03:10:34 GMT",
+      "content": "Online speculation and conspiracy theories about Trump's health exploded over the holiday weekend after the 79-year-old spent a few days out of the public eye.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fce11b34b3881ac4137877e49a3ef445",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP SHUTS DOWN RUMORS ABOUT HIS HEALTH 🚨\n\n- Online rumors swirl about Trump's health after brief absence 🤯\n- Speculation and conspiracy theories flood the internet 🌐\n- Trump, 79, refutes rumors after days away from the public 👴\n- Public scrutiny intensifies over Trump's well-being 🧐\n\nTAKEAWAY: Speculation and conspiracy theories about Trump's health surge online, as the 79-year-old refutes rumors following a brief absence.",
+      "exported_at": "2025-09-02T23:26:43.696924",
       "continuous_session": true
     }
   ]
