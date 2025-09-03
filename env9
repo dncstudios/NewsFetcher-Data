@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-03T08:29:05.117230",
-    "total_articles": 142,
-    "new_articles_in_last_fetch": 142,
+    "created_at": "2025-09-03T08:44:13.532787",
+    "total_articles": 144,
+    "new_articles_in_last_fetch": 144,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -1852,6 +1852,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WEDNESDAY'S TOP WALL STREET ANALYST CALLS 🚀\n\n- Analysts issue significant calls on Apple, Alphabet, Chipotle 📈\n- Western Digital, McDonald's also in focus today 🔍\n- Wall Street buzzing with major analyst recommendations 📊\n\nTAKEAWAY: Today's top analyst calls on major companies like Apple and Alphabet are driving market excitement and focus on Wall Street.",
       "exported_at": "2025-09-03T08:29:05.114698",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: Alphabet, Macy&apos;s, Dollar Tree, Six Flags and more",
+      "link": "https://www.cnbc.com/2025/09/03/stocks-making-biggest-moves-premarket-googl-m-dltr-fun-and-more.html",
+      "summary": "These are some of the stocks posting the largest moves in premarket trading.",
+      "published": "Wed, 03 Sep 2025 12:27:29 GMT",
+      "content": "These are some of the stocks posting the largest moves in premarket trading.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5d1c503edc88395036b052580c98d6fc",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS SURGING PREMARKET: ALPHABET, MACY'S, DOLLAR TREE 🚀\n\n- Alphabet, Macy's, Dollar Tree lead premarket stock movements 🔥\n- Pre-market trading indicates significant market interest ⚡️\n- Investors closely watching premarket shifts for trading cues ✅\n- Early market movements may impact overall trading day 📈\n\nTAKEAWAY: Alphabet, Macy's, and Dollar Tree are among the top movers in premarket trading, signaling potential shifts in the market for the day ahead.",
+      "exported_at": "2025-09-03T08:44:13.530443",
+      "continuous_session": true
+    },
+    {
+      "title": "Why Goldman think it&apos;s time to cut exposure to U.S. large-cap stocks",
+      "link": "https://www.cnbc.com/2025/09/03/why-goldman-think-its-time-to-cut-exposure-to-us-large-cap-stocks.html",
+      "summary": "Frank Holland breaks down what traders are watching ahead of the new session.",
+      "published": "Wed, 03 Sep 2025 12:36:53 GMT",
+      "content": "Frank Holland breaks down what traders are watching ahead of the new session.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "15b5a212c547877674e25028f5706c9b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GOLDMAN'S CALL TO TRIM U.S. LARGE-CAP STOCK EXPOSURE 🚨\n\n- Goldman Sachs advises reducing exposure to U.S. large-cap stocks\n- Traders tune in as Frank Holland analyzes pre-market trends\n- Market awaits insights on reasons behind Goldman's recommendation\n\nTAKEAWAY: Goldman's suggestion to decrease exposure to U.S. large-cap stocks has traders on edge, eagerly anticipating the rationale behind this strategic move.",
+      "exported_at": "2025-09-03T08:44:13.530452",
       "continuous_session": true
     }
   ]
