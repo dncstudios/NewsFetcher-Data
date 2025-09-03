@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-03T15:52:59.637146",
-    "total_articles": 192,
-    "new_articles_in_last_fetch": 192,
+    "created_at": "2025-09-03T15:58:02.137339",
+    "total_articles": 193,
+    "new_articles_in_last_fetch": 193,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -2501,6 +2501,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: GOP SENATORS DELAY LISA COOK REPLACEMENT ⚠️\n\n- Trump aims to remove Fed Board Governor Lisa Cook over mortgage fraud allegations\n- Cook denies involvement in any fraudulent activities\n- GOP senators postpone considering Cook's replacement until court case outcome\n\nTAKEAWAY: GOP senators delay Lisa Cook's replacement until the resolution of the court case, amid allegations of mortgage fraud.",
       "exported_at": "2025-09-03T15:52:59.633391",
+      "continuous_session": true
+    },
+    {
+      "title": "GOP senators not in rush to consider Lisa Cook replacement on Fed until case resolved",
+      "link": "https://www.cnbc.com/2025/09/03/lisa-cook-fed-senate-republicans.html",
+      "summary": "President Donald Trump is seeking to fire Fed Board Governor Lisa Cook, citing allegations of mortgage fraud by her. Cook denies any wrongdoing.",
+      "published": "Wed, 03 Sep 2025 19:57:30 GMT",
+      "content": "President Donald Trump is seeking to fire Fed Board Governor Lisa Cook, citing allegations of mortgage fraud by her. Cook denies any wrongdoing.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "19444d287be3f40c1978a32a778880e4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GOP SENATORS DELAY LISA COOK REPLACEMENT ⚠️\n\n- Trump aims to remove Fed Board Governor Lisa Cook over mortgage fraud allegations\n- Cook denies involvement in any fraudulent activities\n- GOP senators postpone considering Cook's replacement until court case outcome\n\nTAKEAWAY: GOP senators delay Lisa Cook's replacement until the resolution of the court case, amid allegations of mortgage fraud.",
+      "exported_at": "2025-09-03T15:58:02.134043",
       "continuous_session": true
     }
   ]
