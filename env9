@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-03T12:35:59.003765",
-    "total_articles": 169,
-    "new_articles_in_last_fetch": 169,
+    "created_at": "2025-09-03T12:46:06.713821",
+    "total_articles": 173,
+    "new_articles_in_last_fetch": 173,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -2202,6 +2202,58 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: THIS IS THE JOBS NUMBER WALL STREET WANTS TO SEE ON FRIDAY 🚀\n\n- Investors anxious for August payrolls report 📊\n- Wall Street eagerly awaiting crucial jobs data 💼\n- Market sentiment hinges on upcoming employment numbers 📈\n\nTAKEAWAY: The upcoming release of August payrolls data has investors on edge, with Wall Street eagerly anticipating the crucial employment numbers to drive market sentiment.",
       "exported_at": "2025-09-03T12:35:59.000786",
+      "continuous_session": true
+    },
+    {
+      "title": "Fox News sued by conservative outlet Newsmax over antitrust claims",
+      "link": "https://www.cnbc.com/2025/09/03/fox-news-newsmax-antitrust-lawsuit.html",
+      "summary": "Newsmax filed a lawsuit accusing conservative news giant Fox News of suppressing its right-leaning competitors.",
+      "published": "Wed, 03 Sep 2025 16:33:31 GMT",
+      "content": "Newsmax filed a lawsuit accusing conservative news giant Fox News of suppressing its right-leaning competitors.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fd7d87557e0782a9353376d7b6791e48",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NEWSMAX SUES FOX NEWS OVER ANTITRUST CLAIMS ⚠️\n\n- Newsmax accuses Fox News of stifling competition 📉\n- Lawsuit claims Fox News aims to dominate conservative news 🎯\n- Allegations highlight tensions in the news media industry 🚨\n\nTAKEAWAY: Newsmax's lawsuit against Fox News for antitrust claims sheds light on tensions and competition within the conservative news sector.",
+      "exported_at": "2025-09-03T12:46:06.710780",
+      "continuous_session": true
+    },
+    {
+      "title": "S&amp;P 500 and Nasdaq rise, led by Alphabet after antitrust ruling: Live updates",
+      "link": "https://www.cnbc.com/2025/09/02/stock-market-today-live-updates.html",
+      "summary": "Investors raked in profits on Tuesday as the three major U.S. indexes closed in the red.",
+      "published": "Wed, 03 Sep 2025 16:42:35 GMT",
+      "content": "Investors raked in profits on Tuesday as the three major U.S. indexes closed in the red.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "634720ee81a9130a0eeb0e23ad78ec36",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: S&P 500 FUTURES RISE AS GOOGLE AVOIDS ANTITRUST PENALTY 🚀\n\n- S&P 500 futures surge after Google escapes harsh antitrust penalty\n- Investors profit despite major U.S. indexes closing lower on Tuesday\n- Positive market sentiment drives up S&P 500 futures\n- Google's avoidance of penalty boosts investor confidence\n\nTAKEAWAY: Despite major U.S. indexes closing down, the positive news of Google avoiding an antitrust penalty lifts S&P 500 futures, sparking investor optimism and profit opportunities.",
+      "exported_at": "2025-09-03T12:46:06.710791",
+      "continuous_session": true
+    },
+    {
+      "title": "Apple is the big winner in Google antitrust penalty ruling",
+      "link": "https://www.cnbc.com/2025/09/03/apple-is-the-big-winner-in-google-antitrust-penalty-ruling.html",
+      "summary": "The iPhone maker may license generative artificial intelligence products outside of the Google ecosystem.",
+      "published": "Wed, 03 Sep 2025 14:09:56 GMT",
+      "content": "The iPhone maker may license generative artificial intelligence products outside of the Google ecosystem.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "75dc9fa6e08580e80787cbc53b8a97fa",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: APPLE EMERGES AS BIG WINNER IN GOOGLE ANTITRUST RULING 🚀\n\n- Apple could license AI products beyond Google platform 🌐\n- Potential to expand market share and revenue 💰📈\n- Seizing opportunity to capitalize on Google's penalty 🍏\n- Diversifying revenue streams with AI licensing 🔁💡\n- Strengthening position in the tech industry 🏆\n- Impacts on Google's market dominance and competition ⚠️🔍\n\nTAKEAWAY: Apple's strategic move to license AI products post-Google's antitrust penalty opens doors for revenue growth and market expansion, challenging Google's dominance.",
+      "exported_at": "2025-09-03T12:46:06.710794",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves midday: Alphabet, Bruker, Sprinklr, Dollar Tree and more",
+      "link": "https://www.cnbc.com/2025/09/03/stocks-making-the-biggest-moves-midday-googl-brkr-cxm-dltr.html",
+      "summary": "These are the stocks posting the largest moves midday.",
+      "published": "Wed, 03 Sep 2025 16:44:51 GMT",
+      "content": "These are the stocks posting the largest moves midday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2fa99f9857d527a337a9276fa2e7cfbd",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS MAKING BIGGEST MIDDAY MOVES 🚀\n\n- Alphabet, Bruker, Sprinklr, Dollar Tree among top movers\n- Market sees significant fluctuations in midday trading ⚠️\n- Investors closely monitoring these stock movements 📈\n\nTAKEAWAY: Alphabet, Bruker, Sprinklr, and Dollar Tree are leading the midday stock market surge, attracting investor attention with their significant movements.",
+      "exported_at": "2025-09-03T12:46:06.710797",
       "continuous_session": true
     }
   ]
