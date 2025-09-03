@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-03T08:44:13.532787",
-    "total_articles": 144,
-    "new_articles_in_last_fetch": 144,
+    "created_at": "2025-09-03T08:59:19.669058",
+    "total_articles": 146,
+    "new_articles_in_last_fetch": 146,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -1878,6 +1878,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: GOLDMAN'S CALL TO TRIM U.S. LARGE-CAP STOCK EXPOSURE 🚨\n\n- Goldman Sachs advises reducing exposure to U.S. large-cap stocks\n- Traders tune in as Frank Holland analyzes pre-market trends\n- Market awaits insights on reasons behind Goldman's recommendation\n\nTAKEAWAY: Goldman's suggestion to decrease exposure to U.S. large-cap stocks has traders on edge, eagerly anticipating the rationale behind this strategic move.",
       "exported_at": "2025-09-03T08:44:13.530452",
+      "continuous_session": true
+    },
+    {
+      "title": "Translation startup DeepL launches an AI &apos;agent&apos; in challenge to players like OpenAI",
+      "link": "https://www.cnbc.com/2025/09/03/deepl-launches-ai-agent-pitting-it-against-openai-anthropic.html",
+      "summary": "DeepL launched the AI DeepL Agent on Wednesday aimed at enterprises, pitting it against companies like Microsoft and Anthropic.",
+      "published": "Wed, 03 Sep 2025 12:40:12 GMT",
+      "content": "DeepL launched the AI DeepL Agent on Wednesday aimed at enterprises, pitting it against companies like Microsoft and Anthropic.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9e5be56ea1d45c0c615ac979799a5e5d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DEEPL LAUNCHES AI 'AGENT' TO CHALLENGE OPENAI 🚀\n\n- DeepL introduces AI DeepL Agent targeting enterprises\n- The move positions DeepL against rivals like Microsoft\n- DeepL's AI 'agent' competes with Anthropic in the market\n\nTAKEAWAY: DeepL's launch of the AI 'agent' signals a strategic move to compete with industry giants like OpenAI, Microsoft, and Anthropic in the enterprise sector.",
+      "exported_at": "2025-09-03T08:59:19.666355",
+      "continuous_session": true
+    },
+    {
+      "title": "Boeing 737 Max crash victims&apos; families make final plea to scrap DOJ deal",
+      "link": "https://www.cnbc.com/2025/09/03/boeing-737-max-crash-victims-families-make-final-plea-to-scrap-doj-deal.html",
+      "summary": "Justice Department lawyers maintain that the families of 110 crash victims either support a pre-trial resolution or do not oppose the non-prosecution agreement.",
+      "published": "Wed, 03 Sep 2025 12:42:25 GMT",
+      "content": "Justice Department lawyers maintain that the families of 110 crash victims either support a pre-trial resolution or do not oppose the non-prosecution agreement.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "785261b1f6377d8809ea5c75716f93ce",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BOEING 737 MAX FAMILIES PUSH TO SCRAP DOJ DEAL ⚠️\n\n- Families of 110 crash victims urge against DOJ agreement ✋\n- Justice Department claims families support pre-trial resolution 💼\n- Disagreement arises over non-prosecution agreement 🤨\n\nTAKEAWAY: Families of Boeing 737 Max crash victims resist DOJ deal, sparking debate over prosecution resolution.",
+      "exported_at": "2025-09-03T08:59:19.666365",
       "continuous_session": true
     }
   ]
