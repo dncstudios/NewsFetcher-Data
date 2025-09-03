@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-03T06:58:36.052979",
-    "total_articles": 134,
-    "new_articles_in_last_fetch": 134,
+    "created_at": "2025-09-03T07:13:43.942766",
+    "total_articles": 137,
+    "new_articles_in_last_fetch": 137,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -1748,6 +1748,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BANK OF AMERICA RAISES PRICE TARGETS FOR ALPHABET AND APPLE 🚀\n\n- Bank of America boosts price targets post Google's antitrust win 📈\n- Apple and Alphabet see premarket surge 🌅\n- Positive market reaction to Google avoiding breakup 📊\n- Bank of America optimistic about Alphabet and Apple's future 🌟\n\nTAKEAWAY: Bank of America's increased price targets for Alphabet and Apple signal optimism after Google's antitrust victory, driving premarket trading higher.",
       "exported_at": "2025-09-03T06:58:36.050475",
+      "continuous_session": true
+    },
+    {
+      "title": "Macy&apos;s easily beats earnings estimates, raises full-year guidance",
+      "link": "https://www.cnbc.com/2025/09/03/macys-q2-earnings-2025.html",
+      "summary": "Macy's easily beat Wall Street's earnings estimates and raised its guidance as it said revamped stores saw better sales trends.",
+      "published": "Wed, 03 Sep 2025 10:57:45 GMT",
+      "content": "Macy's easily beat Wall Street's earnings estimates and raised its guidance as it said revamped stores saw better sales trends.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "cb61810433717eb7d48a8883d5234fcc",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MACY'S BEATS EARNINGS ESTIMATES, RAISES FULL-YEAR GUIDANCE 🚀\n\n- Macy's surpasses Wall Street's earnings expectations 💪\n- Revamped stores drive improved sales trends 📈\n- Company raises full-year guidance due to strong performance ✅\n\nTAKEAWAY: Macy's impressive earnings beat and raised guidance signal a strong performance driven by revamped stores and improved sales trends.",
+      "exported_at": "2025-09-03T07:13:43.940402",
+      "continuous_session": true
+    },
+    {
+      "title": "Mortgage demand from homebuyers pulls back, after four weeks of gains",
+      "link": "https://www.cnbc.com/2025/09/03/mortgage-demand-from-homebuyers-pulls-back-after-four-weeks-of-gains.html",
+      "summary": "Lower mortgage rates did very little to move mortgage demand out of a rut it's been in for weeks. Potential buyers need much lower rates to make a difference.",
+      "published": "Wed, 03 Sep 2025 11:00:01 GMT",
+      "content": "Lower mortgage rates did very little to move mortgage demand out of a rut it's been in for weeks. Potential buyers need much lower rates to make a difference.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7338183a6472fb468981ce59d3b0f038",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MORTGAGE DEMAND DIPS DESPITE LOWER RATES 📉\n\n- Homebuyers show decreased interest despite lower mortgage rates 🏡\n- Demand remains stagnant for weeks, needs significant rate drop to spur activity 📉\n- Market lacks momentum despite favorable rates 🚫\n\nTAKEAWAY: Lower mortgage rates fail to boost demand as homebuyers remain reluctant, indicating a need for more significant rate reductions to stimulate activity.",
+      "exported_at": "2025-09-03T07:13:43.940409",
+      "continuous_session": true
+    },
+    {
+      "title": "Maine mass shooting survivors to file negligence lawsuit against the U.S. government",
+      "link": "https://www.cnbc.com/2025/09/03/maine-mass-shooting-survivors-to-file-negligence-lawsuit-against-the-us-government.html",
+      "summary": "The complaint will allege the military and others failed to respond to warning signs and a threat in 2023 that Army reservist Robert Card would commit a mass shooting.",
+      "published": "Wed, 03 Sep 2025 11:08:32 GMT",
+      "content": "The complaint will allege the military and others failed to respond to warning signs and a threat in 2023 that Army reservist Robert Card would commit a mass shooting.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e5f95418bfec88c0c0c41f2b6dde3f4f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MAINE MASS SHOOTING SURVIVORS SUE U.S. GOVERNMENT ⚠️\n\n- Survivors to file negligence lawsuit against U.S. gov 📜\n- Allegation: Military failed to act on shooter's warning signs ⚠️\n- Army reservist allegedly posed threat in 2023 🔥\n\nTAKEAWAY: Maine mass shooting survivors take legal action against the U.S. government, claiming negligence in responding to warning signs of a potential mass shooter.",
+      "exported_at": "2025-09-03T07:13:43.940412",
       "continuous_session": true
     }
   ]
