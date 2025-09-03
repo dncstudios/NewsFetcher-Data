@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-02T22:26:30.025095",
-    "total_articles": 110,
-    "new_articles_in_last_fetch": 110,
+    "created_at": "2025-09-02T22:41:34.510537",
+    "total_articles": 111,
+    "new_articles_in_last_fetch": 111,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -1436,6 +1436,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ASIA MARKETS FOLLOW WALL STREET'S DECLINE AMID TARIFF WORRIES 🚨\n\n- Asian markets mirror Wall Street's downturn 📉\n- Concerns over tariffs weigh on investor sentiment ⚠️\n- Japanese Government Bonds' yield spikes by 7 basis points 🔺\n- Yield reaches 3.280%, exceeding earlier peak in August 📈\n- Market volatility persists as trade tensions escalate 🌏\n- Investors cautious amidst uncertain economic outlook 🤔\n\nTAKEAWAY: Asia markets echo Wall Street's slide due to tariff concerns, with Japanese Government Bonds seeing a significant yield spike, reflecting ongoing market volatility and investor apprehension.",
       "exported_at": "2025-09-02T22:26:30.022946",
+      "continuous_session": true
+    },
+    {
+      "title": "Dow closes down about 250 points to kick off September on tariff worries, rising bond yields",
+      "link": "https://www.cnbc.com/2025/09/01/stock-market-today-live-updates.html",
+      "summary": "Wall Street weighed a ruling from a federal appeals court on Friday that determined most of President Donald Trump's global tariffs illegal.",
+      "published": "Tue, 02 Sep 2025 23:41:02 GMT",
+      "content": "Wall Street weighed a ruling from a federal appeals court on Friday that determined most of President Donald Trump's global tariffs illegal.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "276a1f594ddf021f75173ef97f968db0",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DOW DROPS 250 POINTS ON TARIFF WORRIES AND BOND YIELDS RISE 📉\n\n- Dow closes down approximately 250 points 📉\n- Tariff worries and rising bond yields impact Wall Street 📉\n- Federal appeals court rules most of Trump's global tariffs illegal ⚠️\n\nTAKEAWAY: Wall Street faces a 250-point drop due to tariff concerns and increasing bond yields, intensified by a ruling against Trump's tariffs.",
+      "exported_at": "2025-09-02T22:41:34.507982",
       "continuous_session": true
     }
   ]
