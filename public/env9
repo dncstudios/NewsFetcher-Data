@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-03T14:52:25.744602",
-    "total_articles": 186,
-    "new_articles_in_last_fetch": 186,
+    "created_at": "2025-09-03T14:57:30.605222",
+    "total_articles": 187,
+    "new_articles_in_last_fetch": 187,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -2423,6 +2423,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: US ECONOMIC ACTIVITY STABLE, EMPLOYMENT STEADY, FED REPORTS 📊\n\n- US economic activity, employment mostly unchanged recently\n- Prices saw moderate/modest rise, Federal Reserve reveals\n- Overall stability in economic indicators reported\n\nTAKEAWAY: The Federal Reserve's recent report highlights stability in US economic activity and employment, with prices showing a moderate or modest increase.",
       "exported_at": "2025-09-03T14:52:25.741522",
+      "continuous_session": true
+    },
+    {
+      "title": "Polymarket set for U.S. launch after getting green light from CFTC, CEO says",
+      "link": "https://www.cnbc.com/2025/09/03/polymarket-set-for-us-launch-after-getting-green-light-from-cftc-ceo-says.html",
+      "summary": "Online prediction betting site Polymarket has been cleared to launch in the United States, the platform's chief executive, Shayne Coplan, said on Wednesday.",
+      "published": "Wed, 03 Sep 2025 18:55:34 GMT",
+      "content": "Online prediction betting site Polymarket has been cleared to launch in the United States, the platform's chief executive, Shayne Coplan, said on Wednesday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "34deec12c9ee072d8f2f6ce6d9f7a7bc",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: POLYMARKET CLEARED FOR U.S. LAUNCH AFTER CFTC APPROVAL 🚀\n\n- Polymarket receives approval for U.S. launch from CFTC ✅\n- CEO Shayne Coplan announces platform's expansion 🌎\n- Online prediction betting site set to enter U.S. market 🔥\n- Polymarket ready to bring its services to American users 🇺🇸\n- CEO Coplan confirms platform's green light for U.S. operations 💡\n\nTAKEAWAY: Polymarket's approval for U.S. launch by the CFTC signals a significant expansion opportunity and sets the stage for its entry into the American market.",
+      "exported_at": "2025-09-03T14:57:30.602167",
       "continuous_session": true
     }
   ]
