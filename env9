@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-03T08:13:59.601288",
-    "total_articles": 141,
-    "new_articles_in_last_fetch": 141,
+    "created_at": "2025-09-03T08:29:05.117230",
+    "total_articles": 142,
+    "new_articles_in_last_fetch": 142,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -1839,6 +1839,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: MORGAN STANLEY UPGRADES KRAFT HEINZ AFTER SPLIT ANNOUNCEMENT 🚀\n\n- Kraft Heinz shares expected to surge 11% post-upgrade 📈\n- Morgan Stanley believes the stock has passed its worst phase 🌟\n- Positive outlook following Kraft Heinz's split announcement 🎉\n\nTAKEAWAY: Morgan Stanley's upgrade of Kraft Heinz post-split announcement signals a bright future ahead, with projected 11% stock price surge.",
       "exported_at": "2025-09-03T08:13:59.598792",
+      "continuous_session": true
+    },
+    {
+      "title": "Here are Wednesday&apos;s biggest analyst calls: Apple, Alphabet, Chipotle, Western Digital, McDonald&apos;s &amp; more",
+      "link": "https://www.cnbc.com/2025/09/03/stocks-highlighted-in-analyst-calls-include-apple-alphabet-and-nvidia.html",
+      "summary": "Here are the biggest calls on Wall Street on Wednesday.",
+      "published": "Wed, 03 Sep 2025 12:17:02 GMT",
+      "content": "Here are the biggest calls on Wall Street on Wednesday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3b5e01b93acdccfaae032ff174fbce0d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WEDNESDAY'S TOP WALL STREET ANALYST CALLS 🚀\n\n- Analysts issue significant calls on Apple, Alphabet, Chipotle 📈\n- Western Digital, McDonald's also in focus today 🔍\n- Wall Street buzzing with major analyst recommendations 📊\n\nTAKEAWAY: Today's top analyst calls on major companies like Apple and Alphabet are driving market excitement and focus on Wall Street.",
+      "exported_at": "2025-09-03T08:29:05.114698",
       "continuous_session": true
     }
   ]
