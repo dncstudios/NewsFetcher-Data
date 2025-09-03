@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-03T12:46:06.713821",
-    "total_articles": 173,
-    "new_articles_in_last_fetch": 173,
+    "created_at": "2025-09-03T13:01:13.351517",
+    "total_articles": 174,
+    "new_articles_in_last_fetch": 174,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -2254,6 +2254,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCKS MAKING BIGGEST MIDDAY MOVES 🚀\n\n- Alphabet, Bruker, Sprinklr, Dollar Tree among top movers\n- Market sees significant fluctuations in midday trading ⚠️\n- Investors closely monitoring these stock movements 📈\n\nTAKEAWAY: Alphabet, Bruker, Sprinklr, and Dollar Tree are leading the midday stock market surge, attracting investor attention with their significant movements.",
       "exported_at": "2025-09-03T12:46:06.710797",
+      "continuous_session": true
+    },
+    {
+      "title": "Newsmax sues Fox News for allegedly abusing monopoly power",
+      "link": "https://www.cnbc.com/2025/09/03/fox-news-newsmax-antitrust-lawsuit.html",
+      "summary": "Newsmax filed a lawsuit accusing conservative news giant Fox News of suppressing its right-leaning competitors.",
+      "published": "Wed, 03 Sep 2025 16:58:35 GMT",
+      "content": "Newsmax filed a lawsuit accusing conservative news giant Fox News of suppressing its right-leaning competitors.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "29e094291804632a676376316008e0ad",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NEWSMAX SUES FOX NEWS OVER ANTITRUST CLAIMS ⚠️\n\n- Newsmax accuses Fox News of stifling competition 📉\n- Lawsuit claims Fox News aims to dominate conservative news 🎯\n- Allegations highlight tensions in the news media industry 🚨\n\nTAKEAWAY: Newsmax's lawsuit against Fox News for antitrust claims sheds light on tensions and competition within the conservative news sector.",
+      "exported_at": "2025-09-03T13:01:13.348373",
       "continuous_session": true
     }
   ]
