@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-03T02:42:20.225032",
-    "total_articles": 117,
-    "new_articles_in_last_fetch": 117,
+    "created_at": "2025-09-03T03:12:27.274809",
+    "total_articles": 118,
+    "new_articles_in_last_fetch": 118,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -1527,6 +1527,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CNBC DAILY OPEN: ONE PART OF THE MARKET BENEFITS FROM TARIFFS 🚀\n\n- 30-year bond yield nears 5% as investors anticipate tariff revenue ⚡️\n- Market reacts positively to potential boost in government coffers 💰\n- Tariffs may lead to increased revenue for the U.S. government 📈\n- Investors see potential benefits amidst fears of tariff impact 🔍\n\nTAKEAWAY: Despite fears of tariff implications, the market shows optimism as the 30-year bond yield rises, hinting at potential benefits from tariff revenue.",
       "exported_at": "2025-09-03T02:42:20.214382",
+      "continuous_session": true
+    },
+    {
+      "title": "India&apos;s consumption push could ease the impact of Trump&apos;s tariffs, but a weak rupee poses risks",
+      "link": "https://www.cnbc.com/2025/09/03/indias-consumption-push-could-ease-the-impact-of-trumps-tariffs.html",
+      "summary": "India has to grapple with steep U.S. tariffs, but improving domestic consumption is expected to ease their impact, according to analysts.",
+      "published": "Wed, 03 Sep 2025 07:00:08 GMT",
+      "content": "India has to grapple with steep U.S. tariffs, but improving domestic consumption is expected to ease their impact, according to analysts.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c5cf972b25345cfb89afb8d7f233a2ad",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: INDIA'S CONSUMPTION BOOST COUNTERS TRUMP'S TARIFFS, WEAK RUPEE RISKS ⚠️\n\n- India faces high U.S. tariffs, but strong domestic consumption aids 📈\n- Analysts predict consumption will mitigate tariff impact ✅\n- Weak rupee poses risks amidst consumption push ⚠️\n- India's strategy to combat tariffs with internal growth 🌱\n\nTAKEAWAY: India's focus on bolstering domestic consumption serves as a shield against Trump's tariffs, but risks loom due to the weak rupee.",
+      "exported_at": "2025-09-03T03:12:27.268242",
       "continuous_session": true
     }
   ]
