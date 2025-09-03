@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-03T19:09:53.653001",
-    "total_articles": 211,
-    "new_articles_in_last_fetch": 211,
+    "created_at": "2025-09-03T19:45:09.519944",
+    "total_articles": 212,
+    "new_articles_in_last_fetch": 212,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -2748,6 +2748,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: THURSDAY'S STOCK STORIES: MARKET MOVEMENTS AHEAD 📈\n\n- Alphabet's strong performance boosts S&P 500 and Nasdaq 📈\n- Labor market concerns dampen overall market rally ⚠️\n\nTAKEAWAY: Alphabet's robust gains drive market positivity, but labor market worries temper the overall market excitement.",
       "exported_at": "2025-09-03T19:09:53.641350",
+      "continuous_session": true
+    },
+    {
+      "title": "Salesforce&apos;s soft guidance gives the skeptics more fuel. Here&apos;s why we are hanging on",
+      "link": "https://www.cnbc.com/2025/09/03/salesforces-soft-guidance-gives-the-skeptics-more-fuel-heres-why-we-are-hanging-on.html",
+      "summary": "Shares fell more than 5% in extended trading. But the quarter wasn't all that bad.",
+      "published": "Wed, 03 Sep 2025 23:29:04 GMT",
+      "content": "Shares fell more than 5% in extended trading. But the quarter wasn't all that bad.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9d571715d65a6be16dcf08ca5f2651b6",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SALESFORCE'S SOFT GUIDANCE RAISES CONCERNS AMONG INVESTORS ⚠️\n\n- Shares drop over 5% in extended trading 📉\n- Soft guidance triggers skepticism among investors 🤔\n- Despite drop, quarter performance remains positive ✅\n- Investors cautious due to uncertain outlook ⚠️\n- Market reacts to mixed signals from Salesforce 💼\n- Analysts closely monitoring future developments 🧐\n\nTAKEAWAY: Salesforce's soft guidance leads to a drop in shares, fueling investor skepticism, as the market closely watches for future updates.",
+      "exported_at": "2025-09-03T19:45:09.504876",
       "continuous_session": true
     }
   ]
