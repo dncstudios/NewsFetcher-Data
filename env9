@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-02T23:26:43.707749",
-    "total_articles": 112,
-    "new_articles_in_last_fetch": 112,
+    "created_at": "2025-09-03T01:27:04.999997",
+    "total_articles": 115,
+    "new_articles_in_last_fetch": 115,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -1462,6 +1462,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP SHUTS DOWN RUMORS ABOUT HIS HEALTH 🚨\n\n- Online rumors swirl about Trump's health after brief absence 🤯\n- Speculation and conspiracy theories flood the internet 🌐\n- Trump, 79, refutes rumors after days away from the public 👴\n- Public scrutiny intensifies over Trump's well-being 🧐\n\nTAKEAWAY: Speculation and conspiracy theories about Trump's health surge online, as the 79-year-old refutes rumors following a brief absence.",
       "exported_at": "2025-09-02T23:26:43.696924",
+      "continuous_session": true
+    },
+    {
+      "title": "Gold just hit another all-time high and its record-setting run may not be over yet",
+      "link": "https://www.cnbc.com/2025/09/03/gold-price-outlook-as-metal-hits-another-record-high.html",
+      "summary": "Market watchers told CNBC they see more upside ahead for the precious metal.",
+      "published": "Wed, 03 Sep 2025 05:24:03 GMT",
+      "content": "Market watchers told CNBC they see more upside ahead for the precious metal.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "bac61a7865bc96f3ada269baf1425f7f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GOLD HITS ALL-TIME HIGH! 🚀\n\n- Gold reaches new record, potential for further growth ⚡️\n- Market experts foresee continued upward trend 📈\n- Precious metal's impressive run may not be finished 💰\n\nTAKEAWAY: Gold achieves an all-time high, with market watchers predicting more room for growth in its record-setting run.",
+      "exported_at": "2025-09-03T01:27:04.989450",
+      "continuous_session": true
+    },
+    {
+      "title": "European markets set to open in positive territory as traders track bond yields",
+      "link": "https://www.cnbc.com/2025/09/03/european-markets-on-weds-sept-3-stoxx-600-ftse-dax-.html",
+      "summary": "European stocks are expected to open broadly higher on Wednesday, reversing negative sentiment in the previous session.",
+      "published": "Wed, 03 Sep 2025 05:23:32 GMT",
+      "content": "European stocks are expected to open broadly higher on Wednesday, reversing negative sentiment in the previous session.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e6efe3c2aa5536fb75c40d4cca1c3f46",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: EUROPEAN MARKETS OPENING POSITIVE AS BOND YIELDS TRACKED 🚀\n\n- European stocks set to open higher after previous session dip\n- Traders monitoring bond yields for market direction 📈\n- Positive sentiment expected to dominate market open\n\nTAKEAWAY: European markets are poised to open positively as traders closely monitor bond yields for market trends.",
+      "exported_at": "2025-09-03T01:27:04.989487",
+      "continuous_session": true
+    },
+    {
+      "title": "Asia markets mostly fall as tariff concerns weigh",
+      "link": "https://www.cnbc.com/2025/09/03/asia-stock-markets-today-nikkei-225-asx-200-kospi-hang-seng-csi-300-sensex-nifty-50.html",
+      "summary": "China's RatingDog China General Services purchasing managers' index — which captures the country's services activity — hit a 15-month high.",
+      "published": "Wed, 03 Sep 2025 05:13:16 GMT",
+      "content": "China's RatingDog China General Services purchasing managers' index — which captures the country's services activity — hit a 15-month high.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0f5f4d71bd25bbe2db550d62c67eea34",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASIA MARKETS FALL AS TARIFF CONCERNS PERSIST 🚨\n\n- China's services PMI hits 15-month high 📈\n- Tariff concerns weigh on Asia markets 📉\n- Uncertainty looms over trade tensions 🌏\n\nTAKEAWAY: Despite China's services PMI hitting a high, tariff concerns continue to weigh on Asia markets, creating uncertainty in trade relations.",
+      "exported_at": "2025-09-03T01:27:04.989502",
       "continuous_session": true
     }
   ]
