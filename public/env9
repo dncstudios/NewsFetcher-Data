@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-03T09:59:34.560089",
-    "total_articles": 154,
-    "new_articles_in_last_fetch": 154,
+    "created_at": "2025-09-03T10:09:42.838133",
+    "total_articles": 156,
+    "new_articles_in_last_fetch": 156,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -2008,6 +2008,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: MACY'S SOARS 10% AFTER CRUSHING EARNINGS, BOOSTING OUTLOOK 🚀\n\n- Macy's surpasses earnings forecasts, lifts guidance 📈\n- Revamped stores drive improved sales trends 🏬\n- Wall Street reacts positively with 10% stock surge 📈\n\nTAKEAWAY: Macy's impressive earnings beat and optimistic outlook push its shares up by 10%, showcasing strong momentum in the retail sector.",
       "exported_at": "2025-09-03T09:59:34.557654",
+      "continuous_session": true
+    },
+    {
+      "title": "Alphabet stock pops 9% after Google avoids breakup in antitrust case",
+      "link": "https://www.cnbc.com/2025/09/03/alphabet-pops-after-google-avoids-breakup-in-antitrust-case.html",
+      "summary": "Alphabet stock climbed 9% as investors viewed the result of Google's antitrust case as broadly favorable.",
+      "published": "Wed, 03 Sep 2025 14:05:00 GMT",
+      "content": "Alphabet stock climbed 9% as investors viewed the result of Google's antitrust case as broadly favorable.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "bb72511121ab378d73fd70722ecfb273",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ALPHABET STOCK SOARS 9% AFTER GOOGLE WINS ANTITRUST CASE 🚀\n\n- Alphabet stock surges 9% post Google's antitrust case victory 📈\n- Investors optimistic as Google avoids breakup 🎉\n- Market views outcome as broadly favorable 🌟\n\nTAKEAWAY: Alphabet's stock skyrockets by 9% following Google's favorable outcome in the antitrust case, boosting investor confidence.",
+      "exported_at": "2025-09-03T10:09:42.835564",
+      "continuous_session": true
+    },
+    {
+      "title": "Sen. Rand Paul blasts Trump&apos;s stake in Intel as &apos;a step towards socialism&apos;",
+      "link": "https://www.cnbc.com/2025/09/03/sen-rand-paul-calls-trump-stake-in-intel-a-step-towards-socialism.html",
+      "summary": "Sen. Rand Paul criticized the Trump administration's decision to take a 10% stake in Intel.",
+      "published": "Wed, 03 Sep 2025 14:00:10 GMT",
+      "content": "Sen. Rand Paul criticized the Trump administration's decision to take a 10% stake in Intel.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4dbc88e098c2ff02b2dcd18b66da68af",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SEN. RAND PAUL SLAMS TRUMP'S INTEL STAKE AS \"SOCIALISM\" ⚠️\n\n- Trump admin acquires 10% stake in Intel 🔍\n- Sen. Rand Paul criticizes move as step towards socialism 📉\n- Controversy sparks debate over government involvement in private sector 💬\n\nTAKEAWAY: Sen. Rand Paul's critique of Trump's Intel stake ignites discussions on government intervention in the private sector.",
+      "exported_at": "2025-09-03T10:09:42.835573",
       "continuous_session": true
     }
   ]
