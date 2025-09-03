@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-03T05:58:23.399375",
-    "total_articles": 132,
-    "new_articles_in_last_fetch": 132,
+    "created_at": "2025-09-03T06:58:36.052979",
+    "total_articles": 134,
+    "new_articles_in_last_fetch": 134,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -1722,6 +1722,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: 🚀 NORWAY'S SOVEREIGN WEALTH FUND INVESTS $543M IN MANHATTAN OFFICE BUILDING\n\n- Norway's $2T fund acquires 95% ownership in prime property 🏙️\n- $543M investment showcases fund's significant real estate move 💰\n- Manhattan office building purchase marks major milestone 🌟\n\nTAKEAWAY: Norway's sovereign wealth fund's massive investment in a Manhattan office building demonstrates its strategic focus on real estate and highlights its strong financial position.",
       "exported_at": "2025-09-03T05:58:23.397038",
+      "continuous_session": true
+    },
+    {
+      "title": "30-year Treasury yield tops 5% briefly as traders deal with tariff uncertainty, Fed independence threat",
+      "link": "https://www.cnbc.com/2025/09/03/us-treasury-yields-little-changed-as-markets-await-jobs-data.html",
+      "summary": "U.S. Treasurys were little changed on Wednesday, but long-dated bonds hovered just below the 5% mark.",
+      "published": "Wed, 03 Sep 2025 10:54:22 GMT",
+      "content": "U.S. Treasurys were little changed on Wednesday, but long-dated bonds hovered just below the 5% mark.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1af3761e13a0cac25dade7ad42c3e125",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 30-YEAR TREASURY YIELD BREAKS 5% BRIEFLY AMID TARIFF UNCERTAINTY ⚠️\n\n- U.S. Treasurys remain stable despite yield nearing 5% 📈\n- Traders navigate tariff uncertainty and Fed independence concerns ⚠️\n- Long-dated bonds hover close to the 5% threshold 💪\n\nTAKEAWAY: The 30-year Treasury yield briefly surpassing 5% amidst tariff uncertainty and Fed independence threats highlights traders' careful navigation in the current market environment.",
+      "exported_at": "2025-09-03T06:58:36.050465",
+      "continuous_session": true
+    },
+    {
+      "title": "Bank of America raises price targets for Alphabet and Apple after Google avoids antitrust breakup",
+      "link": "https://www.cnbc.com/2025/09/03/bank-of-america-raises-price-targets-for-googl-aapl.html",
+      "summary": "Apple and Alphabet traded higher in the premarket.",
+      "published": "Wed, 03 Sep 2025 10:46:21 GMT",
+      "content": "Apple and Alphabet traded higher in the premarket.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "429eecdcaede3c22c054d71177a4b6e5",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BANK OF AMERICA RAISES PRICE TARGETS FOR ALPHABET AND APPLE 🚀\n\n- Bank of America boosts price targets post Google's antitrust win 📈\n- Apple and Alphabet see premarket surge 🌅\n- Positive market reaction to Google avoiding breakup 📊\n- Bank of America optimistic about Alphabet and Apple's future 🌟\n\nTAKEAWAY: Bank of America's increased price targets for Alphabet and Apple signal optimism after Google's antitrust victory, driving premarket trading higher.",
+      "exported_at": "2025-09-03T06:58:36.050475",
       "continuous_session": true
     }
   ]
