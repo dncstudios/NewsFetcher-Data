@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-03T01:27:04.999997",
-    "total_articles": 115,
-    "new_articles_in_last_fetch": 115,
+    "created_at": "2025-09-03T01:42:09.855551",
+    "total_articles": 116,
+    "new_articles_in_last_fetch": 116,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -1501,6 +1501,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ASIA MARKETS FALL AS TARIFF CONCERNS PERSIST 🚨\n\n- China's services PMI hits 15-month high 📈\n- Tariff concerns weigh on Asia markets 📉\n- Uncertainty looms over trade tensions 🌏\n\nTAKEAWAY: Despite China's services PMI hitting a high, tariff concerns continue to weigh on Asia markets, creating uncertainty in trade relations.",
       "exported_at": "2025-09-03T01:27:04.989502",
+      "continuous_session": true
+    },
+    {
+      "title": "CNBC&apos;s UK Exchange newsletter: Hooked on rebates?",
+      "link": "https://www.cnbc.com/2025/09/03/hooked-on-rebates-cnbc-uk-exchange-newsletter.html",
+      "summary": "Ian King takes a look at the clouds gathering over the pharmaceuticals sector, hitherto one of the U.K.'s most successful industries.",
+      "published": "Wed, 03 Sep 2025 05:30:01 GMT",
+      "content": "Ian King takes a look at the clouds gathering over the pharmaceuticals sector, hitherto one of the U.K.'s most successful industries.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "585cd46ee7279ce70e971410c0ce9b07",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CNBC'S UK EXCHANGE NEWSLETTER: HOOKED ON REBATES? 🚨\n\n- Clouds gather over UK's pharmaceutical sector 🌧️\n- Sector previously a top performer in the UK 📈\n- Ian King examines the industry's challenges 🧐\n\nTAKEAWAY: The once thriving UK pharmaceutical sector faces uncertainties, sparking concerns and scrutiny.",
+      "exported_at": "2025-09-03T01:42:09.843926",
       "continuous_session": true
     }
   ]
