@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-03T03:27:35.689075",
-    "total_articles": 122,
-    "new_articles_in_last_fetch": 122,
+    "created_at": "2025-09-03T03:57:41.850222",
+    "total_articles": 123,
+    "new_articles_in_last_fetch": 123,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -1592,6 +1592,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ASIA MARKETS FALL AS TARIFF CONCERNS PERSIST 🚨\n\n- China's services PMI hits 15-month high 📈\n- Tariff concerns weigh on Asia markets 📉\n- Uncertainty looms over trade tensions 🌏\n\nTAKEAWAY: Despite China's services PMI hitting a high, tariff concerns continue to weigh on Asia markets, creating uncertainty in trade relations.",
       "exported_at": "2025-09-03T03:27:35.686821",
+      "continuous_session": true
+    },
+    {
+      "title": "Watches of Switzerland shares jump 8% as firm shrugs off U.S. tariff impact",
+      "link": "https://www.cnbc.com/2025/09/03/european-markets-on-weds-sept-3-stoxx-600-ftse-dax-.html",
+      "summary": "European stocks opened broadly higher on Wednesday, reversing negative sentiment in the previous session.",
+      "published": "Wed, 03 Sep 2025 07:49:15 GMT",
+      "content": "European stocks opened broadly higher on Wednesday, reversing negative sentiment in the previous session.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b93d8262d1163a04bf7e881ac0b4c317",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: EUROPEAN MARKETS OPEN POSITIVE 🚀\n\n- European stocks open higher, reversing previous negative sentiment\n- Traders monitor bond yields for market direction 📈\n- Positive territory signals potential market momentum 🚀\n\nTAKEAWAY: European markets open on a positive note as traders closely watch bond yields for market direction, signaling potential momentum ahead.",
+      "exported_at": "2025-09-03T03:57:41.848432",
       "continuous_session": true
     }
   ]
