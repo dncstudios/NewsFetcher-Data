@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-03T03:12:27.274809",
-    "total_articles": 118,
-    "new_articles_in_last_fetch": 118,
+    "created_at": "2025-09-03T03:27:35.689075",
+    "total_articles": 122,
+    "new_articles_in_last_fetch": 122,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -1540,6 +1540,58 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: INDIA'S CONSUMPTION BOOST COUNTERS TRUMP'S TARIFFS, WEAK RUPEE RISKS ⚠️\n\n- India faces high U.S. tariffs, but strong domestic consumption aids 📈\n- Analysts predict consumption will mitigate tariff impact ✅\n- Weak rupee poses risks amidst consumption push ⚠️\n- India's strategy to combat tariffs with internal growth 🌱\n\nTAKEAWAY: India's focus on bolstering domestic consumption serves as a shield against Trump's tariffs, but risks loom due to the weak rupee.",
       "exported_at": "2025-09-03T03:12:27.268242",
+      "continuous_session": true
+    },
+    {
+      "title": "Why Japan&apos;s long-term government bond yields have surged to multi-decade highs",
+      "link": "https://www.cnbc.com/2025/09/03/why-japans-long-term-bond-yields-have-surged-to-multi-decade-highs-.html",
+      "summary": "Japan's 30-year bond yield notched a record high to hit 3.286%, up 100 basis points this year, while yield on the 20-year debt is at its highest since 1999 at 2.695%.",
+      "published": "Wed, 03 Sep 2025 07:23:07 GMT",
+      "content": "Japan's 30-year bond yield notched a record high to hit 3.286%, up 100 basis points this year, while yield on the 20-year debt is at its highest since 1999 at 2.695%.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7b95e3c6ec8904195cc245b7d22cfee3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JAPAN'S LONG-TERM BOND YIELDS HIT MULTI-DECADE HIGHS 🚀\n\n- Japan's 30-year bond yield spikes to a record 3.286% 📈\n- Up 100 basis points this year, showing significant growth 💥\n- 20-year bond yield reaches highest level since 1999 at 2.695% 🔝\n- Investors closely monitor the surge in long-term bond rates 🧐\n- Market responds to economic factors driving up yields 📈\n- Japan's bond market experiences historic shifts in rates 🇯🇵\n\nTAKEAWAY: Japan's long-term government bond yields surge to multi-decade highs, reflecting significant growth and economic changes in the market.",
+      "exported_at": "2025-09-03T03:27:35.686805",
+      "continuous_session": true
+    },
+    {
+      "title": "European markets open in positive territory as traders track bond yields",
+      "link": "https://www.cnbc.com/2025/09/03/european-markets-on-weds-sept-3-stoxx-600-ftse-dax-.html",
+      "summary": "European stocks opened broadly higher on Wednesday, reversing negative sentiment in the previous session.",
+      "published": "Wed, 03 Sep 2025 07:14:14 GMT",
+      "content": "European stocks opened broadly higher on Wednesday, reversing negative sentiment in the previous session.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a259dc3394f5a620dcb26a54301dffea",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: EUROPEAN MARKETS OPEN POSITIVE 🚀\n\n- European stocks open higher, reversing previous negative sentiment\n- Traders monitor bond yields for market direction 📈\n- Positive territory signals potential market momentum 🚀\n\nTAKEAWAY: European markets open on a positive note as traders closely watch bond yields for market direction, signaling potential momentum ahead.",
+      "exported_at": "2025-09-03T03:27:35.686813",
+      "continuous_session": true
+    },
+    {
+      "title": "These are the 10 most and least affordable countries in the world in 2025, according to expats",
+      "link": "https://www.cnbc.com/2025/09/03/the-10-most-and-least-affordable-countries-for-expats-in-2025.html",
+      "summary": "Vietnam tops the list as the most affordable country in the world for expats, according to a 2025 study by InterNations.",
+      "published": "Wed, 03 Sep 2025 07:01:58 GMT",
+      "content": "Vietnam tops the list as the most affordable country in the world for expats, according to a 2025 study by InterNations.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2c7d40286eed7fd63c77afcb588324eb",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: THE MOST AND LEAST AFFORDABLE COUNTRIES FOR EXPATS IN 2025 🌏\n\n- Vietnam ranks as the most affordable country for expats 🥇\n- Study conducted by InterNations reveals top 10 rankings 📊\n- Affordable living costs make Vietnam expat-friendly 🏠\n- Top countries offer quality of life within budget 🌟\n- Expats find high living standards in affordable nations 💰\n- Cost of living crucial factor for expats choosing a country 💡\n\nTAKEAWAY: Vietnam stands out as the most affordable country for expats in 2025, providing a high quality of life at a budget-friendly cost.",
+      "exported_at": "2025-09-03T03:27:35.686817",
+      "continuous_session": true
+    },
+    {
+      "title": "Asia markets trade mixed as tariff concerns weigh",
+      "link": "https://www.cnbc.com/2025/09/03/asia-stock-markets-today-nikkei-225-asx-200-kospi-hang-seng-csi-300-sensex-nifty-50.html",
+      "summary": "China's RatingDog China General Services purchasing managers' index — which captures the country's services activity — hit a 15-month high.",
+      "published": "Wed, 03 Sep 2025 07:26:10 GMT",
+      "content": "China's RatingDog China General Services purchasing managers' index — which captures the country's services activity — hit a 15-month high.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c24fd18969654bbec34a7b4039e6671f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASIA MARKETS FALL AS TARIFF CONCERNS PERSIST 🚨\n\n- China's services PMI hits 15-month high 📈\n- Tariff concerns weigh on Asia markets 📉\n- Uncertainty looms over trade tensions 🌏\n\nTAKEAWAY: Despite China's services PMI hitting a high, tariff concerns continue to weigh on Asia markets, creating uncertainty in trade relations.",
+      "exported_at": "2025-09-03T03:27:35.686821",
       "continuous_session": true
     }
   ]
