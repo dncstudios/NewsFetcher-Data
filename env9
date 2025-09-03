@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-03T17:13:57.726113",
-    "total_articles": 208,
-    "new_articles_in_last_fetch": 208,
+    "created_at": "2025-09-03T17:44:11.426993",
+    "total_articles": 209,
+    "new_articles_in_last_fetch": 209,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -2709,6 +2709,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BAN ON CONGRESSIONAL STOCK OWNERSHIP GAINS MOMENTUM 🚀\n\n- Bipartisan lawmakers unite for ban on congressional stock trades ✊\n- Momentum builds for single proposal to restrict stock ownership 📈\n- Proposal gains traction to prevent conflicts of interest in Congress 🚫\n- Focus on banning stock trades among members of Congress ⚖️\n\nTAKEAWAY: Momentum grows as bipartisan lawmakers rally around a proposal to ban congressional stock ownership, aiming to eliminate conflicts of interest.",
       "exported_at": "2025-09-03T17:13:57.703150",
+      "continuous_session": true
+    },
+    {
+      "title": "Congress races to avoid government shutdown as partisan standoff deepens",
+      "link": "https://www.cnbc.com/2025/09/03/congress-trump-partisan-standoff-government-funding-.html",
+      "summary": "Lawmakers returned to Capitol Hill this week with the threat of a government shutdown intensifying. Partisan fault lines are already solidified.",
+      "published": "Wed, 03 Sep 2025 21:40:32 GMT",
+      "content": "Lawmakers returned to Capitol Hill this week with the threat of a government shutdown intensifying. Partisan fault lines are already solidified.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "77834cc214342d45a665b4e0127e6ac9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CONGRESS RACES TO AVOID SHUTDOWN AS PARTISAN STANDOFF DEEPENS ⚠️\n\n- Lawmakers back in Capitol facing looming shutdown threat 🏛️\n- Partisan divisions deepen, complicating resolution 🤝\n- Pressure mounts as government funding deadline approaches ⏰\n- Uncertainty looms over potential shutdown consequences 🤔\n\nTAKEAWAY: Congress is in a race against time to avoid a government shutdown as partisan tensions deepen, creating uncertainty and pressure.",
+      "exported_at": "2025-09-03T17:44:11.406152",
       "continuous_session": true
     }
   ]
