@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-03T03:57:41.850222",
-    "total_articles": 123,
-    "new_articles_in_last_fetch": 123,
+    "created_at": "2025-09-03T04:42:53.635555",
+    "total_articles": 125,
+    "new_articles_in_last_fetch": 125,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -1605,6 +1605,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: EUROPEAN MARKETS OPEN POSITIVE 🚀\n\n- European stocks open higher, reversing previous negative sentiment\n- Traders monitor bond yields for market direction 📈\n- Positive territory signals potential market momentum 🚀\n\nTAKEAWAY: European markets open on a positive note as traders closely watch bond yields for market direction, signaling potential momentum ahead.",
       "exported_at": "2025-09-03T03:57:41.848432",
+      "continuous_session": true
+    },
+    {
+      "title": "Alphabet stock pops 6% in premarket trading after Google avoids break-up in antitrust case",
+      "link": "https://www.cnbc.com/2025/09/03/alphabet-pops-after-google-avoids-breakup-in-antitrust-case.html",
+      "summary": "Alphabet shares rose nearly 6% in premarket trade on Wednesday as investors viewed the result of Google's antitrust case as broadly favorable.",
+      "published": "Wed, 03 Sep 2025 08:29:51 GMT",
+      "content": "Alphabet shares rose nearly 6% in premarket trade on Wednesday as investors viewed the result of Google's antitrust case as broadly favorable.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e81190d900cc29e35908b945c294e02d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ALPHABET STOCK SOARS 6% IN PREMARKET TRADING AFTER ANTITRUST WIN 🚀\n\n- Alphabet shares surge 6% in premarket trade post Google's antitrust case\n- Investors see Google's outcome as largely positive 📈\n- Market reacts favorably to Google avoiding breakup 🎉\n\nTAKEAWAY: Alphabet's stock skyrockets by 6% in premarket trading following a favorable outcome in Google's antitrust case, showcasing investor confidence in the tech giant.",
+      "exported_at": "2025-09-03T04:42:53.633369",
+      "continuous_session": true
+    },
+    {
+      "title": "The U.S. makes it harder for TSMC, SK Hynix and Samsung to produce chips in China",
+      "link": "https://www.cnbc.com/2025/09/03/us-makes-it-harder-for-tsmc-sk-hynix-samsung-to-make-chips-in-china.html",
+      "summary": "TSMC, along with SK Hynix and Samsung Electronics, are losing waivers that allowed them export chipmaking equipment to manufacturing plants in China.",
+      "published": "Wed, 03 Sep 2025 08:35:07 GMT",
+      "content": "TSMC, along with SK Hynix and Samsung Electronics, are losing waivers that allowed them export chipmaking equipment to manufacturing plants in China.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "12e1c8a4c33f3063ae6d180ae7ee1495",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: U.S. STRIKES BLOW TO TSMC, SK HYNIX, SAMSUNG CHIP PRODUCTION 🚨\n\n- TSMC, SK Hynix, Samsung lose waivers for exporting chipmaking equipment to China 🛑\n- Restrictions hinder chip production for leading tech giants 📉\n- Impact on global supply chain and tech industry raises concerns ⚠️\n\nTAKEAWAY: U.S. decision to revoke waivers for chipmaking equipment exports to China disrupts operations for TSMC, SK Hynix, and Samsung, impacting global tech supply chains.",
+      "exported_at": "2025-09-03T04:42:53.633381",
       "continuous_session": true
     }
   ]
