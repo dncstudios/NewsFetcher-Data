@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-03T22:11:25.023581",
-    "total_articles": 219,
-    "new_articles_in_last_fetch": 219,
+    "created_at": "2025-09-03T22:16:28.959890",
+    "total_articles": 220,
+    "new_articles_in_last_fetch": 220,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -2851,6 +2851,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP'S TARIFFS ON THE LINE: SUPREME COURT APPEAL UNDERWAY ⚠️\n\n- Trump appeals to Supreme Court to save tariffs 🛡️\n- Lower court ruling questions his authority over tariffs ❓\n- Fate of most tariffs hangs in the balance ⚖️\n\nTAKEAWAY: President Trump's appeal to the Supreme Court to overturn a lower court ruling regarding his authority over tariffs puts the future of these tariffs at a critical juncture.",
       "exported_at": "2025-09-03T22:11:25.006181",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump asks Supreme Court to quickly hear appeal to save his tariffs",
+      "link": "https://www.cnbc.com/2025/09/03/trump-tariffs-trade-supreme-court.html",
+      "summary": "The fate of most of President Trump's tariffs are at stake in the appeal, which seeks to overturn lower-court rulings finding he usurped Congress' authority.",
+      "published": "Thu, 04 Sep 2025 02:12:33 GMT",
+      "content": "The fate of most of President Trump's tariffs are at stake in the appeal, which seeks to overturn lower-court rulings finding he usurped Congress' authority.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ecd815b3f077bdca7961faf5dbe23b2c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP RALLIES SUPREME COURT TO SAVE TARIFFS 🚀\n\n- President Trump seeks Supreme Court appeal to uphold tariffs ⚖️\n- Lower-court rulings questioned Trump's authority over tariffs 🤨\n- Future of Trump's tariffs hinges on Supreme Court decision 💼\n\nTAKEAWAY: President Trump's urgent appeal to the Supreme Court is crucial in determining the fate of his tariffs, with implications for his authority and Congress's powers.",
+      "exported_at": "2025-09-03T22:16:28.942557",
       "continuous_session": true
     }
   ]
