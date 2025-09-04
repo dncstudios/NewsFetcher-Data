@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-03T19:45:09.519944",
-    "total_articles": 212,
-    "new_articles_in_last_fetch": 212,
+    "created_at": "2025-09-03T20:10:21.898427",
+    "total_articles": 213,
+    "new_articles_in_last_fetch": 213,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -2761,6 +2761,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SALESFORCE'S SOFT GUIDANCE RAISES CONCERNS AMONG INVESTORS ⚠️\n\n- Shares drop over 5% in extended trading 📉\n- Soft guidance triggers skepticism among investors 🤔\n- Despite drop, quarter performance remains positive ✅\n- Investors cautious due to uncertain outlook ⚠️\n- Market reacts to mixed signals from Salesforce 💼\n- Analysts closely monitoring future developments 🧐\n\nTAKEAWAY: Salesforce's soft guidance leads to a drop in shares, fueling investor skepticism, as the market closely watches for future updates.",
       "exported_at": "2025-09-03T19:45:09.504876",
+      "continuous_session": true
+    },
+    {
+      "title": "Asia-Pacific markets track Wall Street gains on tech rally",
+      "link": "https://www.cnbc.com/2025/09/04/asia-pacific-markets-nikkei-225-bonds-treasurys.html",
+      "summary": "Global bond markets will continue to be in focus with long-dated borrowing costs around the world under pressure.",
+      "published": "Thu, 04 Sep 2025 00:09:31 GMT",
+      "content": "Global bond markets will continue to be in focus with long-dated borrowing costs around the world under pressure.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "df3d78c7025743275df4b11c9494046a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASIA-PACIFIC MARKETS RISE ON TECH RALLY 🚀\n\n- Asia-Pacific markets follow Wall Street's tech-driven gains 📈\n- Investors focus on global bond market movements 🌏\n- Long-dated borrowing costs globally under pressure ⚠️\n\nTAKEAWAY: Asia-Pacific markets ride the tech rally wave from Wall Street as investors closely monitor global bond market movements and long-dated borrowing costs.",
+      "exported_at": "2025-09-03T20:10:21.886390",
       "continuous_session": true
     }
   ]
