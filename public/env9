@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-04T00:17:27.626701",
-    "total_articles": 224,
-    "new_articles_in_last_fetch": 224,
+    "created_at": "2025-09-04T00:57:47.449006",
+    "total_articles": 225,
+    "new_articles_in_last_fetch": 225,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -2916,6 +2916,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ASIA-PACIFIC MARKETS RISE ON TECH RALLY 🚀\n\n- Asia-Pacific markets follow Wall Street's tech-driven gains 📈\n- Investors focus on global bond market movements 🌏\n- Long-dated borrowing costs globally under pressure ⚠️\n\nTAKEAWAY: Asia-Pacific markets ride the tech rally wave from Wall Street as investors closely monitor global bond market movements and long-dated borrowing costs.",
       "exported_at": "2025-09-04T00:17:27.609123",
+      "continuous_session": true
+    },
+    {
+      "title": "European stocks set to open higher as traders assess the fate of Trump&apos;s tariffs",
+      "link": "https://www.cnbc.com/2025/09/04/european-markets-on-thurs-septpoint4-stoxx-600-ftse-dax-bond-yields.html",
+      "summary": "European stocks are expected to open slightly higher on Thursday, as global markets weigh up the fate of President Donald Trump's trade tariffs.",
+      "published": "Thu, 04 Sep 2025 04:53:00 GMT",
+      "content": "European stocks are expected to open slightly higher on Thursday, as global markets weigh up the fate of President Donald Trump's trade tariffs.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a32ba5af91cfaae3f3df0add4704d1f7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: EUROPEAN STOCKS SET TO OPEN HIGHER AS TRADERS ASSESS TRUMP'S TARIFFS 🚀\n\n- European stocks poised for a slight increase in opening 📈\n- Market sentiment influenced by Trump's trade tariffs 🌍\n- Traders assessing potential impact on global markets 🧐\n- Uncertainty lingers regarding the fate of the tariffs 🤔\n\nTAKEAWAY: European markets anticipate a positive opening, with a focus on evaluating the implications of President Trump's trade tariffs for global trade dynamics.",
+      "exported_at": "2025-09-04T00:57:47.431309",
       "continuous_session": true
     }
   ]
