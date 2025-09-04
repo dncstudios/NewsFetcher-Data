@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-04T03:08:51.700947",
-    "total_articles": 230,
-    "new_articles_in_last_fetch": 230,
+    "created_at": "2025-09-04T03:29:02.769692",
+    "total_articles": 231,
+    "new_articles_in_last_fetch": 231,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -2994,6 +2994,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NASDAQ DEMANDS CHINESE FIRMS TO PAY $25M PER U.S. IPO 💸\n\n- Nasdaq requires Chinese companies $25M for U.S. IPO 📈\n- Tensions rise between U.S. and China 💥\n- Nasdaq addresses broader financial market challenges 💼\n\nTAKEAWAY: Nasdaq's demand for Chinese firms to pay $25 million per U.S. IPO reflects escalating tensions between the U.S. and China, amid broader financial market challenges.",
       "exported_at": "2025-09-04T03:08:51.686670",
+      "continuous_session": true
+    },
+    {
+      "title": "Investors are dumping bonds globally while gold is soaring. Here&apos;s why",
+      "link": "https://www.cnbc.com/2025/09/04/investors-dump-bonds-gold-record-high.html",
+      "summary": "A global bond rout is underway, but gold prices, which typically suffer when yields rise, have surged to new highs.",
+      "published": "Thu, 04 Sep 2025 07:25:06 GMT",
+      "content": "A global bond rout is underway, but gold prices, which typically suffer when yields rise, have surged to new highs.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fba9d12153dc07fee129c7149a0bf591",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: INVESTORS DUMP BONDS GLOBALLY, GOLD SOARS 🚀\n\n- Global bond market sees a massive sell-off 📉\n- Gold prices surge despite typical yield rise impact 💰\n- Investors pivot from bonds to gold as safe haven 🛡️\n- Bond rout continues while gold hits new highs 📈\n\nTAKEAWAY: Investors globally shift from bonds to gold amidst a significant bond market sell-off, driving gold prices to new highs as a safe haven asset.",
+      "exported_at": "2025-09-04T03:29:02.746698",
       "continuous_session": true
     }
   ]
