@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-04T04:21:25.046803",
-    "total_articles": 235,
-    "new_articles_in_last_fetch": 235,
+    "created_at": "2025-09-04T04:26:28.450584",
+    "total_articles": 236,
+    "new_articles_in_last_fetch": 236,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -3059,6 +3059,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: HUAWEI UNVEILS $2,500 MATE XT FOLDABLE PHONE WITH HARMONYOS 5.1 🚀\n\n- Huawei releases second trifold Mate XT at $2,500 💸\n- Mate XTs to feature HarmonyOS 5.1 📱\n- Company aims to solidify its resurgence in the market 📈\n- HarmonyOS 5.1 promises enhanced user experience 🌟\n- Huawei continues to innovate in the smartphone industry 🚀\n\nTAKEAWAY: Huawei's launch of the $2,500 Mate XT foldable phone with HarmonyOS 5.1 showcases the company's commitment to innovation and market resurgence.",
       "exported_at": "2025-09-04T04:21:25.043256",
+      "continuous_session": true
+    },
+    {
+      "title": "Nasdaq&apos;s listing plans will make it harder for small Chinese companies to go public in the U.S.",
+      "link": "https://www.cnbc.com/2025/09/04/nasdaq-wants-chinese-companies-to-pay-25-million-per-us-ipo.html",
+      "summary": "The move comes as tensions between the U.S. and China simmer, and as the Nasdaq faces broader financial market issues.",
+      "published": "Thu, 04 Sep 2025 08:21:04 GMT",
+      "content": "The move comes as tensions between the U.S. and China simmer, and as the Nasdaq faces broader financial market issues.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9ddb48a0dccb806ad9cf9983dda83c66",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NASDAQ DEMANDS CHINESE FIRMS TO PAY $25M PER U.S. IPO 💸\n\n- Nasdaq requires Chinese companies $25M for U.S. IPO 📈\n- Tensions rise between U.S. and China 💥\n- Nasdaq addresses broader financial market challenges 💼\n\nTAKEAWAY: Nasdaq's demand for Chinese firms to pay $25 million per U.S. IPO reflects escalating tensions between the U.S. and China, amid broader financial market challenges.",
+      "exported_at": "2025-09-04T04:26:28.446890",
       "continuous_session": true
     }
   ]
