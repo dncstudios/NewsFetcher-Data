@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-04T04:15:39.200770",
-    "total_articles": 234,
-    "new_articles_in_last_fetch": 234,
+    "created_at": "2025-09-04T04:21:25.046803",
+    "total_articles": 235,
+    "new_articles_in_last_fetch": 235,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -3046,6 +3046,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: EUROPEAN STOCKS MIXED AS MARKETS ASSESS TRUMP'S TARIFFS 📈\n\n- European stocks open slightly higher on Thursday 📈\n- Global markets evaluate the impact of Trump's trade tariffs 🌍\n- Traders analyze the potential outcomes and implications 🧐\n\nTAKEAWAY: European stocks show a mixed opening as traders carefully assess the implications of President Trump's trade tariffs on global markets.",
       "exported_at": "2025-09-04T04:15:39.197117",
+      "continuous_session": true
+    },
+    {
+      "title": "Huawei launches second trifold smartphone at $2,500 as it looks to cement comeback",
+      "link": "https://www.cnbc.com/2025/09/04/huawei-mate-xts-trifold-launch-specs-price-features.html",
+      "summary": "Huawei's Mate XTs will run HarmonyOS 5.1, the latest version of the company's own operating system.",
+      "published": "Thu, 04 Sep 2025 08:16:54 GMT",
+      "content": "Huawei's Mate XTs will run HarmonyOS 5.1, the latest version of the company's own operating system.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b0ffce53e52500c5ad92b5517a1f771b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: HUAWEI UNVEILS $2,500 MATE XT FOLDABLE PHONE WITH HARMONYOS 5.1 🚀\n\n- Huawei releases second trifold Mate XT at $2,500 💸\n- Mate XTs to feature HarmonyOS 5.1 📱\n- Company aims to solidify its resurgence in the market 📈\n- HarmonyOS 5.1 promises enhanced user experience 🌟\n- Huawei continues to innovate in the smartphone industry 🚀\n\nTAKEAWAY: Huawei's launch of the $2,500 Mate XT foldable phone with HarmonyOS 5.1 showcases the company's commitment to innovation and market resurgence.",
+      "exported_at": "2025-09-04T04:21:25.043256",
       "continuous_session": true
     }
   ]
