@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-03T21:41:10.613918",
-    "total_articles": 218,
-    "new_articles_in_last_fetch": 218,
+    "created_at": "2025-09-03T22:11:25.023581",
+    "total_articles": 219,
+    "new_articles_in_last_fetch": 219,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -2838,6 +2838,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CONOCOPHILLIPS TO CUT WORKFORCE BY 20-25%, SHARES DECLINE 📉\n\n- ConocoPhillips plans to reduce its workforce by 20-25%\n- Company shares fell 4.5% to $94.55 after the announcement\n- Decline outpaced the broader S&P 500 Energy Index drop of 2.6%\n\nTAKEAWAY: ConocoPhillips' decision to slash its workforce impacts its share price, leading to a notable decline in the market.",
       "exported_at": "2025-09-03T21:41:10.596672",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump asks Supreme Court to quickly hear appeal to save his tariffs",
+      "link": "https://www.cnbc.com/2025/09/03/trump-tariffs-trade-supreme-court.html",
+      "summary": "The fate of most of President Trump's tariffs are at stake in the appeal, which seeks to overturn lower-court ruling saying he usurped Congress' authority.",
+      "published": "Thu, 04 Sep 2025 02:08:37 GMT",
+      "content": "The fate of most of President Trump's tariffs are at stake in the appeal, which seeks to overturn lower-court ruling saying he usurped Congress' authority.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "576e9875292f05776de676026bc6aa6c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP'S TARIFFS ON THE LINE: SUPREME COURT APPEAL UNDERWAY ⚠️\n\n- Trump appeals to Supreme Court to save tariffs 🛡️\n- Lower court ruling questions his authority over tariffs ❓\n- Fate of most tariffs hangs in the balance ⚖️\n\nTAKEAWAY: President Trump's appeal to the Supreme Court to overturn a lower court ruling regarding his authority over tariffs puts the future of these tariffs at a critical juncture.",
+      "exported_at": "2025-09-03T22:11:25.006181",
       "continuous_session": true
     }
   ]
