@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-04T00:57:47.449006",
-    "total_articles": 225,
-    "new_articles_in_last_fetch": 225,
+    "created_at": "2025-09-04T01:23:02.206993",
+    "total_articles": 227,
+    "new_articles_in_last_fetch": 227,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -2929,6 +2929,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: EUROPEAN STOCKS SET TO OPEN HIGHER AS TRADERS ASSESS TRUMP'S TARIFFS 🚀\n\n- European stocks poised for a slight increase in opening 📈\n- Market sentiment influenced by Trump's trade tariffs 🌍\n- Traders assessing potential impact on global markets 🧐\n- Uncertainty lingers regarding the fate of the tariffs 🤔\n\nTAKEAWAY: European markets anticipate a positive opening, with a focus on evaluating the implications of President Trump's trade tariffs for global trade dynamics.",
       "exported_at": "2025-09-04T00:57:47.431309",
+      "continuous_session": true
+    },
+    {
+      "title": "Italy used to be the bad boy of Europe. Now, France is taking the baton",
+      "link": "https://www.cnbc.com/2025/09/04/italy-used-to-be-the-bad-boy-of-europe-now-its-france.html",
+      "summary": "The ongoing turmoil in France has led to it being called the \"new Italy,\" with Rome no stranger to political upheaval and economic fraily in the past.",
+      "published": "Thu, 04 Sep 2025 05:18:19 GMT",
+      "content": "The ongoing turmoil in France has led to it being called the \"new Italy,\" with Rome no stranger to political upheaval and economic fraily in the past.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "69e57857d7e2bf7481a7dff350e6a7e7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FRANCE TAKES EUROPE'S BATON FROM ITALY 🚀\n\n- France dubbed the \"new Italy\" amid ongoing turmoil 🇮🇹\n- Italy, known for past political upheaval and economic frailty\n- France now in spotlight for political challenges\n\nTAKEAWAY: France's current turmoil earns it the title of \"new Italy,\" shifting the focus from Rome's historical political and economic struggles.",
+      "exported_at": "2025-09-04T01:23:02.189408",
+      "continuous_session": true
+    },
+    {
+      "title": "Fund manager sees &apos;generational opportunity&apos; in this bond market as yields hit multi-decade highs",
+      "link": "https://www.cnbc.com/2025/09/04/fund-manager-sees-generational-opportunity-in-this-bond-market.html",
+      "summary": "Investors need to look through volatility at the value opportunity on offer across government bonds, according to James Carter, fund manager at W1M.",
+      "published": "Thu, 04 Sep 2025 05:18:21 GMT",
+      "content": "Investors need to look through volatility at the value opportunity on offer across government bonds, according to James Carter, fund manager at W1M.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "652e5b4ab1baa614649320806ca4ac91",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FUND MANAGER SPOTS 'GENERATIONAL OPPORTUNITY' IN BOND MARKET 🚀\n\n- Bond yields at multi-decade highs provide value opportunity 💰\n- James Carter of W1M urges investors to see through volatility 📈\n- Government bonds offer significant potential for gains 🌟\n\nTAKEAWAY: Despite market volatility, James Carter believes government bonds present a rare chance for substantial returns, urging investors to seize the opportunity.",
+      "exported_at": "2025-09-04T01:23:02.189440",
       "continuous_session": true
     }
   ]
