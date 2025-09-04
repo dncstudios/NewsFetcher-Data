@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-04T03:59:18.829111",
-    "total_articles": 233,
-    "new_articles_in_last_fetch": 233,
+    "created_at": "2025-09-04T04:15:39.200770",
+    "total_articles": 234,
+    "new_articles_in_last_fetch": 234,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -3033,6 +3033,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BURBERRY MAKES A COMEBACK TO FTSE 100 🚀\n\n- Burberry re-enters FTSE 100 after a year's absence 🎉\n- Overhaul strategy gains momentum, propelling the return 🔥\n- Upgrade part of quarterly reshuffling in blue-chip index ✅\n- Market reacts positively to Burberry's strategic progress 📈\n\nTAKEAWAY: Burberry's successful overhaul strategy leads to a triumphant return to the prestigious FTSE 100, signaling positive market sentiment and growth potential.",
       "exported_at": "2025-09-04T03:59:18.825468",
+      "continuous_session": true
+    },
+    {
+      "title": "Jet2 shares drop 14% as travel firm dampens profit expectations",
+      "link": "https://www.cnbc.com/2025/09/04/european-markets-on-thurs-septpoint4-stoxx-600-ftse-dax-bond-yields.html",
+      "summary": "European stocks opened slightly higher on Thursday, as global markets weigh up the fate of President Donald Trump's trade tariffs.",
+      "published": "Thu, 04 Sep 2025 08:13:31 GMT",
+      "content": "European stocks opened slightly higher on Thursday, as global markets weigh up the fate of President Donald Trump's trade tariffs.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b3fb7d320ef15b16ee3c6c52169d8f2f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: EUROPEAN STOCKS MIXED AS MARKETS ASSESS TRUMP'S TARIFFS 📈\n\n- European stocks open slightly higher on Thursday 📈\n- Global markets evaluate the impact of Trump's trade tariffs 🌍\n- Traders analyze the potential outcomes and implications 🧐\n\nTAKEAWAY: European stocks show a mixed opening as traders carefully assess the implications of President Trump's trade tariffs on global markets.",
+      "exported_at": "2025-09-04T04:15:39.197117",
       "continuous_session": true
     }
   ]
