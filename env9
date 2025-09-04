@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-03T20:50:40.127790",
-    "total_articles": 214,
-    "new_articles_in_last_fetch": 214,
+    "created_at": "2025-09-03T21:10:53.416933",
+    "total_articles": 215,
+    "new_articles_in_last_fetch": 215,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -2787,6 +2787,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: GOOGLE HIT WITH $425M FINE IN PRIVACY CLASS ACTION ⚠️\n\n- Jury rules against Google for privacy violations 💥\n- Allegations involve breach of privacy assurances 🛡️\n- Fine imposed due to violations in Web & App Activity setting 💰\n\nTAKEAWAY: Google faces a substantial $425 million fine following a jury ruling on privacy breaches, emphasizing the importance of data protection.",
       "exported_at": "2025-09-03T20:50:40.113299",
+      "continuous_session": true
+    },
+    {
+      "title": "How are Gen Zs affording luxury trips? For some, it’s all a facade",
+      "link": "https://www.cnbc.com/2025/09/03/how-are-gen-zs-affording-luxury-trips-for-some-its-all-a-facade.html",
+      "summary": "From debt to deception, Gen Zs use dubious methods to portray travel lifestyles that go beyond their means. Those who know them explain how they do it.",
+      "published": "Wed, 03 Sep 2025 23:53:31 GMT",
+      "content": "From debt to deception, Gen Zs use dubious methods to portray travel lifestyles that go beyond their means. Those who know them explain how they do it.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7dacf15648617754f7be4dcf605b7693",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GEN Z'S LUXURY TRAVEL LIFESTYLES: DEBT OR DECEPTION? ⚠️\n\n- Gen Zs resort to debt and deception for lavish travel ✈️\n- Some portray high-end trips beyond their financial reality 💸\n- Dubious methods used to maintain luxury travel facade 🎭\n- Insights shared by those familiar with their strategies 💡\n- Trend highlights challenges of affording lavish lifestyles 🌟\n\nTAKEAWAY: Gen Z's use of debt and deception to sustain luxury travel lifestyles raises concerns about financial well-being and authenticity in social media portrayals.",
+      "exported_at": "2025-09-03T21:10:53.399230",
       "continuous_session": true
     }
   ]
