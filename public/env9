@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-04T03:29:02.769692",
-    "total_articles": 231,
-    "new_articles_in_last_fetch": 231,
+    "created_at": "2025-09-04T03:49:13.219459",
+    "total_articles": 232,
+    "new_articles_in_last_fetch": 232,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -3007,6 +3007,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: INVESTORS DUMP BONDS GLOBALLY, GOLD SOARS 🚀\n\n- Global bond market sees a massive sell-off 📉\n- Gold prices surge despite typical yield rise impact 💰\n- Investors pivot from bonds to gold as safe haven 🛡️\n- Bond rout continues while gold hits new highs 📈\n\nTAKEAWAY: Investors globally shift from bonds to gold amidst a significant bond market sell-off, driving gold prices to new highs as a safe haven asset.",
       "exported_at": "2025-09-04T03:29:02.746698",
+      "continuous_session": true
+    },
+    {
+      "title": "Nvidia-backed Cohesity eyes 2026 IPO with valuation rivaling $17 billion Rubrik",
+      "link": "https://www.cnbc.com/2025/09/04/nvidia-backed-cohesity-eyes-2026-ipo-with-valuation-rivaling-17-billion-rubrik.html",
+      "summary": "The move would mark an important milestone for the Nvidia-backed company, which shelved IPO plans in 2021 to first execute a merger with its rival Veritas.",
+      "published": "Thu, 04 Sep 2025 07:46:44 GMT",
+      "content": "The move would mark an important milestone for the Nvidia-backed company, which shelved IPO plans in 2021 to first execute a merger with its rival Veritas.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "bdb669e168c8192f2d376899b570c3ef",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: COHESITY SET TO LAUNCH $17 BILLION IPO IN 2026 🚀\n\n- Nvidia-backed Cohesity eyes IPO rivaling $17 billion valuation 💰\n- Company paused 2021 IPO plans for Veritas merger 🔄\n- Milestone IPO expected in 2026 🎯\n- Valuation to compete with Rubrik 💪\n\nTAKEAWAY: Cohesity's upcoming $17 billion IPO in 2026, rivaling Rubrik's valuation, marks a significant milestone after pausing plans for a Veritas merger in 2021.",
+      "exported_at": "2025-09-04T03:49:13.215657",
       "continuous_session": true
     }
   ]
