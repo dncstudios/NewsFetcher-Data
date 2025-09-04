@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-03T21:10:53.416933",
-    "total_articles": 215,
-    "new_articles_in_last_fetch": 215,
+    "created_at": "2025-09-03T21:21:00.161578",
+    "total_articles": 217,
+    "new_articles_in_last_fetch": 217,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -2800,6 +2800,31 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: GEN Z'S LUXURY TRAVEL LIFESTYLES: DEBT OR DECEPTION? ⚠️\n\n- Gen Zs resort to debt and deception for lavish travel ✈️\n- Some portray high-end trips beyond their financial reality 💸\n- Dubious methods used to maintain luxury travel facade 🎭\n- Insights shared by those familiar with their strategies 💡\n- Trend highlights challenges of affording lavish lifestyles 🌟\n\nTAKEAWAY: Gen Z's use of debt and deception to sustain luxury travel lifestyles raises concerns about financial well-being and authenticity in social media portrayals.",
       "exported_at": "2025-09-03T21:10:53.399230",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump asks Supreme Court to take up tariffs appeal",
+      "link": "https://www.cnbc.com/2025/09/03/trump-tariffs-trade-supreme-court.html",
+      "summary": "While the formal appeal was expected, it likely now puts the fate of President Donald Trump's \"reciprocal tariffs\" into the hands of the nation's high court.",
+      "published": "Thu, 04 Sep 2025 01:18:30 GMT",
+      "content": "While the formal appeal was expected, it likely now puts the fate of President Donald Trump's \"reciprocal tariffs\" into the hands of the nation's high court.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ccf749593a1935dae6c0e3de18c9ab88",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP'S TARIFF APPEAL HEADS TO SUPREME COURT 🚀\n\n- Trump appeals to Supreme Court for \"reciprocal tariffs\" fate 🏛️\n- High court now holds power over tariff decision 🤝\n- Formal appeal as anticipated, creating high stakes 🎯\n\nTAKEAWAY: Trump's appeal to the Supreme Court for \"reciprocal tariffs\" puts the fate of the tariffs in the hands of the highest legal authority, intensifying the stakes.",
+      "exported_at": "2025-09-03T21:21:00.144658",
+      "continuous_session": true
+    },
+    {
+      "title": "Stock futures are little changed after Alphabet rally boosts S&amp;P 500, Nasdaq: Live updates",
+      "link": "https://www.cnbc.com/2025/09/03/stock-market-today-live-updates.html",
+      "summary": "Wall Street is coming off a mixed session.",
+      "published": "Wed, 03 Sep 2025 23:22:27 GMT",
+      "content": "Wall Street is coming off a mixed session.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "905d0c16b568e382dc9189b7dfb80163",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "exported_at": "2025-09-03T21:21:00.144694",
       "continuous_session": true
     }
   ]
