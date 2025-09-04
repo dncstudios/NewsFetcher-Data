@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-04T03:49:13.219459",
-    "total_articles": 232,
-    "new_articles_in_last_fetch": 232,
+    "created_at": "2025-09-04T03:59:18.829111",
+    "total_articles": 233,
+    "new_articles_in_last_fetch": 233,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -3020,6 +3020,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: COHESITY SET TO LAUNCH $17 BILLION IPO IN 2026 🚀\n\n- Nvidia-backed Cohesity eyes IPO rivaling $17 billion valuation 💰\n- Company paused 2021 IPO plans for Veritas merger 🔄\n- Milestone IPO expected in 2026 🎯\n- Valuation to compete with Rubrik 💪\n\nTAKEAWAY: Cohesity's upcoming $17 billion IPO in 2026, rivaling Rubrik's valuation, marks a significant milestone after pausing plans for a Veritas merger in 2021.",
       "exported_at": "2025-09-04T03:49:13.215657",
+      "continuous_session": true
+    },
+    {
+      "title": "Burberry to return to FTSE 100 after a year&apos;s absence as overhaul strategy gains pace",
+      "link": "https://www.cnbc.com/2025/09/04/burberry-to-return-to-ftse-100-after-a-years-absence-amid-overhaul.html",
+      "summary": "The upgrade to the blue-chip benchmark comes as part of a quarterly reshuffling.",
+      "published": "Thu, 04 Sep 2025 07:54:55 GMT",
+      "content": "The upgrade to the blue-chip benchmark comes as part of a quarterly reshuffling.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "11eecd269a2ef05110de6233b1911af9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BURBERRY MAKES A COMEBACK TO FTSE 100 🚀\n\n- Burberry re-enters FTSE 100 after a year's absence 🎉\n- Overhaul strategy gains momentum, propelling the return 🔥\n- Upgrade part of quarterly reshuffling in blue-chip index ✅\n- Market reacts positively to Burberry's strategic progress 📈\n\nTAKEAWAY: Burberry's successful overhaul strategy leads to a triumphant return to the prestigious FTSE 100, signaling positive market sentiment and growth potential.",
+      "exported_at": "2025-09-04T03:59:18.825468",
       "continuous_session": true
     }
   ]
