@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-03T22:51:44.774843",
-    "total_articles": 221,
-    "new_articles_in_last_fetch": 221,
+    "created_at": "2025-09-03T23:52:16.249840",
+    "total_articles": 223,
+    "new_articles_in_last_fetch": 223,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -2877,6 +2877,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NIDEC SHARES PLUNGE 22% ON CHINA UNIT ACCOUNTING ISSUES 🚨\n\n- Nidec's shares plummet by 22% due to China unit probe 🔻\n- Accounting issues linked to management raise concerns 📉\n- Biggest single-day drop for Japanese electronics manufacturer 🇯🇵\n\nTAKEAWAY: Nidec's significant share plunge highlights investor concerns over accounting issues in its China unit, impacting the company's performance.",
       "exported_at": "2025-09-03T22:51:44.759995",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump to host tech CEOs over dinner for inaugural event in renovated Rose Garden",
+      "link": "https://www.cnbc.com/2025/09/04/trump-to-host-tech-ceos-over-dinner-for-inaugural-event-in-rose-garden.html",
+      "summary": "U.S. President Trump will host two dozen high-profile tech and business leaders for an inaugural event in the White House’s renovated Rose Garden.",
+      "published": "Thu, 04 Sep 2025 03:48:12 GMT",
+      "content": "U.S. President Trump will host two dozen high-profile tech and business leaders for an inaugural event in the White House’s renovated Rose Garden.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "226beead25b9feefcc89126a4c111a2c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP HOSTS TECH CEOS FOR INAUGURAL DINNER IN RENOVATED ROSE GARDEN 🚀\n\n- President Trump to welcome 24 tech and business leaders 🌟\n- Event held in the White House's updated Rose Garden 🏛️\n- High-profile CEOs expected to attend the exclusive dinner 🍽️\n\nTAKEAWAY: President Trump's dinner with tech CEOs in the renovated Rose Garden showcases a strategic engagement with key industry players.",
+      "exported_at": "2025-09-03T23:52:16.232716",
+      "continuous_session": true
+    },
+    {
+      "title": "China&apos;s BYD cuts 2025 sales target by 16%, sources say, a sign its white-hot growth is cooling",
+      "link": "https://www.cnbc.com/2025/09/04/chinas-byd-cuts-2025-sales-target-by-16percent-sources-say-a-sign-its-white-hot-growth-is-cooling.html",
+      "summary": "BYD has slashed its sales target for this year by as much as 16% to 4.6 million vehicles, two people with knowledge of the matter said.",
+      "published": "Thu, 04 Sep 2025 03:49:55 GMT",
+      "content": "BYD has slashed its sales target for this year by as much as 16% to 4.6 million vehicles, two people with knowledge of the matter said.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7e62d645bb5cb1306c06098096962082",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CHINA'S BYD SLASHES 2025 SALES TARGET BY 16% 📉\n\n- BYD reduces 2025 sales goal to 4.6 million vehicles 🚗\n- Sales target cut hints at cooling growth momentum 🌡️\n- Two sources confirm the significant 16% target drop 💥\n\nTAKEAWAY: BYD's decision to slash its 2025 sales target by 16% to 4.6 million vehicles indicates a potential slowdown in its once white-hot growth trajectory.",
+      "exported_at": "2025-09-03T23:52:16.232748",
       "continuous_session": true
     }
   ]
