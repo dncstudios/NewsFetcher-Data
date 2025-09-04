@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-04T02:28:31.132106",
-    "total_articles": 228,
-    "new_articles_in_last_fetch": 228,
+    "created_at": "2025-09-04T03:08:51.700947",
+    "total_articles": 230,
+    "new_articles_in_last_fetch": 230,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -2968,6 +2968,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FRANCE TAKES EUROPE'S BAD BOY TITLE FROM ITALY 🚀\n\n- France dubbed \"new Italy\" due to political turmoil 🔄\n- Italy known for past economic frailty and political upheaval 💥\n- Shift in perception as France takes on Europe's bad boy role 🇫🇷\n\nTAKEAWAY: France's current turmoil has shifted perceptions, now being likened to Italy's past reputation for political upheaval and economic instability.",
       "exported_at": "2025-09-04T02:28:31.113382",
+      "continuous_session": true
+    },
+    {
+      "title": "European stocks open mixed as traders assess the fate of Trump&apos;s tariffs",
+      "link": "https://www.cnbc.com/2025/09/04/european-markets-on-thurs-septpoint4-stoxx-600-ftse-dax-bond-yields.html",
+      "summary": "European stocks opened slightly higher on Thursday, as global markets weigh up the fate of President Donald Trump's trade tariffs.",
+      "published": "Thu, 04 Sep 2025 07:06:41 GMT",
+      "content": "European stocks opened slightly higher on Thursday, as global markets weigh up the fate of President Donald Trump's trade tariffs.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "470fa88f8fa8808ed458f925a1066b4d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: EUROPEAN STOCKS MIXED AS MARKETS ASSESS TRUMP'S TARIFFS 📈\n\n- European stocks open slightly higher on Thursday 📈\n- Global markets evaluate the impact of Trump's trade tariffs 🌍\n- Traders analyze the potential outcomes and implications 🧐\n\nTAKEAWAY: European stocks show a mixed opening as traders carefully assess the implications of President Trump's trade tariffs on global markets.",
+      "exported_at": "2025-09-04T03:08:51.686635",
+      "continuous_session": true
+    },
+    {
+      "title": "Nasdaq wants Chinese companies to pay $25 million per U.S. IPO",
+      "link": "https://www.cnbc.com/2025/09/04/nasdaq-wants-chinese-companies-to-pay-25-million-per-us-ipo.html",
+      "summary": "The move comes as tensions between the U.S. and China simmer, and as the Nasdaq faces broader financial market issues.",
+      "published": "Thu, 04 Sep 2025 06:59:00 GMT",
+      "content": "The move comes as tensions between the U.S. and China simmer, and as the Nasdaq faces broader financial market issues.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7d4d109051392ab374079d39c8d93ab9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NASDAQ DEMANDS CHINESE FIRMS TO PAY $25M PER U.S. IPO 💸\n\n- Nasdaq requires Chinese companies $25M for U.S. IPO 📈\n- Tensions rise between U.S. and China 💥\n- Nasdaq addresses broader financial market challenges 💼\n\nTAKEAWAY: Nasdaq's demand for Chinese firms to pay $25 million per U.S. IPO reflects escalating tensions between the U.S. and China, amid broader financial market challenges.",
+      "exported_at": "2025-09-04T03:08:51.686670",
       "continuous_session": true
     }
   ]
