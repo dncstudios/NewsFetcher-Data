@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-05T07:53:03.282601",
-    "total_articles": 270,
-    "new_articles_in_last_fetch": 270,
+    "created_at": "2025-09-05T08:23:18.639616",
+    "total_articles": 272,
+    "new_articles_in_last_fetch": 272,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -3514,6 +3514,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TESLA PROPOSES EXPANDED VOTING POWER AND INVESTMENT IN xAI FOR MUSK 🚀\n\n- Tesla suggests new pay plan to grow Musk's voting power 📈\n- Shareholders to vote on investing in Musk's AI firm, xAI 💡\n- Move aims to increase Musk's influence within the company 🌟\n\nTAKEAWAY: Tesla's proposal to boost Musk's voting power and consider investing in xAI showcases the company's commitment to empowering its visionary leader and advancing AI technology.",
       "exported_at": "2025-09-05T07:53:03.278678",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: Broadcom, Lululemon, Tesla and more",
+      "link": "https://www.cnbc.com/2025/09/05/stocks-making-the-biggest-moves-premarket-avgo-lulu-tsla.html",
+      "summary": "These are the stocks posting the largest moves in early trading.",
+      "published": "Fri, 05 Sep 2025 12:15:45 GMT",
+      "content": "These are the stocks posting the largest moves in early trading.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "cb65a83efb24e16f8a31cc4a10b6cc7a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS MAKING BIGGEST PREMARKET MOVES: BROADCOM, LULULEMON, TESLA 🚀\n\n- Early trading sees significant movements in Broadcom, Lululemon, Tesla 📈\n- Investors eyeing premarket activity for potential market trends 🧐\n- Broadcom, Lululemon, Tesla among top performers in early hours 🌟\n\nTAKEAWAY: Keep an eye on Broadcom, Lululemon, and Tesla as they lead premarket movements, indicating potential market trends and opportunities.",
+      "exported_at": "2025-09-05T08:23:18.634575",
+      "continuous_session": true
+    },
+    {
+      "title": "Lululemon shares plunge 20% as it slashes earnings outlook, projects $240 million tariff hit",
+      "link": "https://www.cnbc.com/2025/09/04/lululemon-lulu-q2-2025-earnings.html",
+      "summary": "Lululemon reported second-quarter earnings Thursday, beating quarterly earnings and revenue estimates but issuing a weak 2025 outlook.",
+      "published": "Fri, 05 Sep 2025 12:21:24 GMT",
+      "content": "Lululemon reported second-quarter earnings Thursday, beating quarterly earnings and revenue estimates but issuing a weak 2025 outlook.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "57436fec1f7657dee743bc810f357e81",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: LULULEMON SHARES PLUNGE AS EARNINGS GUIDANCE DISAPPOINTS 🚨\n\n- Lululemon beats Q2 earnings and revenue estimates 💪\n- However, issues weak 2025 outlook 📉\n- Shares drop sharply in response to the guidance miss 📉\n- Investors concerned about future performance 🤔\n- Company faces pressure to meet long-term growth targets 📊\n- Guidance falls well short of analysts' expectations 📉\n\nTAKEAWAY: Despite beating Q2 estimates, Lululemon's disappointing 2025 outlook causes shares to plummet, raising concerns among investors about the company's future performance and growth targets.",
+      "exported_at": "2025-09-05T08:23:18.634587",
       "continuous_session": true
     }
   ]
