@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-05T12:25:58.392035",
-    "total_articles": 306,
-    "new_articles_in_last_fetch": 306,
+    "created_at": "2025-09-05T12:31:01.376302",
+    "total_articles": 307,
+    "new_articles_in_last_fetch": 307,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -3982,6 +3982,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: YIELDSTREET WARNINGS: $89M MARINE LOAN LOSSES 🚨\n\n- Investors advised to brace for losses in $89M marine loans 💸\n- Previous defaults in real estate investments totaled $78M 🏢\n- CNBC reports reveal ongoing financial challenges for Yieldstreet 📉\n\nTAKEAWAY: Yieldstreet investors face more setbacks as marine loan losses add to previous defaults, highlighting ongoing financial struggles for the platform.",
       "exported_at": "2025-09-05T12:25:58.387986",
+      "continuous_session": true
+    },
+    {
+      "title": "S&amp;P 500 falls, giving up earlier gain, as traders balance economic worries with rate cut hopes: Live updates",
+      "link": "https://www.cnbc.com/2025/09/04/stock-market-today-live-updates-.html",
+      "summary": "A fragile rally dissolved in the first hour of trading as rate cut hopes gave way to worries about a slowing economy.",
+      "published": "Fri, 05 Sep 2025 16:29:28 GMT",
+      "content": "A fragile rally dissolved in the first hour of trading as rate cut hopes gave way to worries about a slowing economy.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "cdc752966676e088d5d1d38101d3c1a5",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: S&P 500 STRUGGLES AMID JOB MARKET WORRIES AND RATE CUT HOPES 🚨\n\n- Fragile rally crumbles in first hour of trading 📉\n- Traders balance rate cut hopes with economic slowdown fears ⚖️\n- Market shifts from optimism to concerns about job market 📉⚠️\n\nTAKEAWAY: The S&P 500 faces turbulence as traders struggle to balance hopes for a rate cut with concerns about a slowing economy and job market worries.",
+      "exported_at": "2025-09-05T12:31:01.371545",
       "continuous_session": true
     }
   ]
