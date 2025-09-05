@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-05T15:32:50.268723",
-    "total_articles": 322,
-    "new_articles_in_last_fetch": 322,
+    "created_at": "2025-09-05T16:08:07.451499",
+    "total_articles": 323,
+    "new_articles_in_last_fetch": 323,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -4190,6 +4190,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: MYSTERY DEEPENS AS FORMER FEDERAL RESERVE GOVERNOR KUGLER RESIGNS 🚨\n\n- Real estate records raise questions about Kugler's resignation 🏠\n- Urgency grows around the mysterious circumstances 🕵️‍♂️\n- Speculation increases as details remain undisclosed 🤫\n- Kugler's departure from the Fed shrouded in mystery 🌌\n- Public seeks answers as new questions arise 🔍\n- Uncertainty lingers around Kugler's sudden resignation ❓\n\nTAKEAWAY: The enigmatic resignation of former Federal Reserve Governor Adriana Kugler deepens as real estate records spark new questions, fueling widespread speculation and uncertainty.",
       "exported_at": "2025-09-05T15:32:50.244461",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump threatens trade probe after &apos;discriminatory&apos; EU fines against Google, Apple",
+      "link": "https://www.cnbc.com/2025/09/05/trump-threatens-trade-probe-after-discriminatory-eu-fines-against-google-apple.html",
+      "summary": "Google CEO Sundar Pichai thanked Trump at a White House dinner after a U.S. judge issued a favorable ruling in the landmark antitrust case against Alphabet.",
+      "published": "Fri, 05 Sep 2025 20:06:12 GMT",
+      "content": "Google CEO Sundar Pichai thanked Trump at a White House dinner after a U.S. judge issued a favorable ruling in the landmark antitrust case against Alphabet.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "15dca01911f40dd411076b3b70e243c2",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP THREATENS TRADE PROBE AMID EU FINES AGAINST GOOGLE, APPLE ⚠️\n\n- Trump considers trade probe after EU fines on Google, Apple 💸\n- U.S. judge's ruling in antitrust case favors Alphabet 🏛️\n- Google CEO appreciates Trump during White House dinner 🍽️\n\nTAKEAWAY: Trump's potential trade probe in response to EU fines against Google and Apple, alongside Google CEO's gratitude, shape the tech industry landscape.",
+      "exported_at": "2025-09-05T16:08:07.426096",
       "continuous_session": true
     }
   ]
