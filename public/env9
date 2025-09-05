@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-05T12:15:50.558711",
-    "total_articles": 304,
-    "new_articles_in_last_fetch": 304,
+    "created_at": "2025-09-05T12:25:58.392035",
+    "total_articles": 306,
+    "new_articles_in_last_fetch": 306,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -3956,6 +3956,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AI STOCK CHARTS: JPMORGAN'S INSIGHTS 📈📉\n\n- JPMorgan identifies key technical levels for top AI stocks 📊\n- Some AI stock charts show promising trends 🚀\n- Others display less favorable patterns ⚠️\n\nTAKEAWAY: JPMorgan's analysis highlights both promising and concerning trends in AI stocks, providing valuable insights for investors.",
       "exported_at": "2025-09-05T12:15:50.554213",
+      "continuous_session": true
+    },
+    {
+      "title": "Google hit with $3.45 billion antitrust EU fine amid U.S. trade tensions",
+      "link": "https://www.cnbc.com/2025/09/05/google-slapped-by-eu-with-3point45-billion-antitrust-fine.html",
+      "summary": "The European Commission accused Google of distorting competition in the adtech market by unfairly favoring its own display advertising technology services.",
+      "published": "Fri, 05 Sep 2025 16:20:10 GMT",
+      "content": "The European Commission accused Google of distorting competition in the adtech market by unfairly favoring its own display advertising technology services.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1244076451e10e98d91ff9984cf41b52",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GOOGLE SLAPPED WITH $3.45B EU ANTITRUST FINE AMID US TRADE TENSIONS 🚨\n\n- European Commission fines Google for distorting adtech competition 💸\n- Accusations of unfair advantage in display advertising technology 🖥️\n- Fine imposed due to favoritism towards Google's own services 🚫\n- Antitrust probe escalates amidst US-EU trade tensions 📈\n- Google accused of harming competition by manipulating ad market 🌐\n\nTAKEAWAY: Google faces a hefty $3.45 billion EU fine for distorting adtech competition, raising concerns amid escalating US-EU trade tensions.",
+      "exported_at": "2025-09-05T12:25:58.387973",
+      "continuous_session": true
+    },
+    {
+      "title": "Yieldstreet tells investors in $89 million worth of marine loans to expect losses",
+      "link": "https://www.cnbc.com/2025/09/05/yieldstreet-marine-loan-deals-customer-losses.html",
+      "summary": "The news of this latest loss follows CNBC's report last month on Yieldstreet real estate investments that have resulted in $78 million in defaults.",
+      "published": "Fri, 05 Sep 2025 16:21:20 GMT",
+      "content": "The news of this latest loss follows CNBC's report last month on Yieldstreet real estate investments that have resulted in $78 million in defaults.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "92b8bb933a386caf675bcd8262a60c30",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: YIELDSTREET WARNINGS: $89M MARINE LOAN LOSSES 🚨\n\n- Investors advised to brace for losses in $89M marine loans 💸\n- Previous defaults in real estate investments totaled $78M 🏢\n- CNBC reports reveal ongoing financial challenges for Yieldstreet 📉\n\nTAKEAWAY: Yieldstreet investors face more setbacks as marine loan losses add to previous defaults, highlighting ongoing financial struggles for the platform.",
+      "exported_at": "2025-09-05T12:25:58.387986",
       "continuous_session": true
     }
   ]
