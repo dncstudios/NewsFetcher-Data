@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-05T11:30:28.472230",
-    "total_articles": 301,
-    "new_articles_in_last_fetch": 301,
+    "created_at": "2025-09-05T12:05:44.708630",
+    "total_articles": 303,
+    "new_articles_in_last_fetch": 303,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -3917,6 +3917,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP RAISES SALT DEDUCTION CAP TO $40,000: TAX RELIEF OR DEBT?\n\n- SALT deduction cap now at $40,000 💸\n- Relief for families with soaring property taxes 🏡\n- Potential increase in national debt 💰\n- Balancing act between tax relief and fiscal responsibility 📊\n- Impact on taxpayers' financial burden 📉\n- Uncertainty over long-term effects 🤔\n\nTAKEAWAY: Trump's decision to raise the SALT deduction cap to $40,000 aims to provide tax relief for families facing high property taxes but raises concerns about its impact on the national debt and long-term financial stability.",
       "exported_at": "2025-09-05T11:30:28.467372",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves midday: Broadcom, Quanex Building Products, Lululemon &amp; more",
+      "link": "https://www.cnbc.com/2025/09/05/stocks-making-the-biggest-moves-midday-avgo-nx-lulu.html",
+      "summary": "These are the stocks posting the largest moves midday.",
+      "published": "Fri, 05 Sep 2025 16:00:53 GMT",
+      "content": "These are the stocks posting the largest moves midday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "70e55286043111ca890a8d388357e1b3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS MAKING BIGGEST MIDDAY MOVES: BROADCOM, QUANEX, LULULEMON 🚀\n\n- Broadcom, Quanex Building Products, Lululemon show significant midday movement 📈\n- Market observes notable stock fluctuations during midday trading 📊\n- Investors closely monitor stock performance for potential opportunities 💰\n\nTAKEAWAY: Broadcom, Quanex Building Products, and Lululemon are among the top stocks making significant midday moves, attracting investor attention for potential gains.",
+      "exported_at": "2025-09-05T12:05:44.704534",
+      "continuous_session": true
+    },
+    {
+      "title": "Quarterly demand for industrial space falls for the first time in 15 years",
+      "link": "https://www.cnbc.com/2025/09/05/demand-for-industrial-space-falls-for-the-first-time-in-15-years.html",
+      "summary": "Economic uncertainty brought on by constantly changing tariff policy and persistently high inflation is taking a greater toll on the warehouse sector.",
+      "published": "Fri, 05 Sep 2025 16:01:03 GMT",
+      "content": "Economic uncertainty brought on by constantly changing tariff policy and persistently high inflation is taking a greater toll on the warehouse sector.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "79bcf178f8dddacbc907bd74d7631883",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DEMAND FOR INDUSTRIAL SPACE PLUNGES AFTER 15 YEARS 📉\n\n- Industrial space demand drops due to economic uncertainty\n- Tariff policy changes contribute to the decline 📉\n- Warehouse sector impacted by high inflation rates 🏭\n- First decrease in demand for industrial space in 15 years 📉\n- Economic instability affects the industrial real estate market 🏗️\n- Persistent high inflation adds pressure on warehouse sector 📊\n\nTAKEAWAY: The industrial space sector sees its first demand drop in 15 years as economic uncertainty, tariff policy changes, and high inflation rates impact the market.",
+      "exported_at": "2025-09-05T12:05:44.704546",
       "continuous_session": true
     }
   ]
