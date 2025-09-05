@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-05T12:05:44.708630",
-    "total_articles": 303,
-    "new_articles_in_last_fetch": 303,
+    "created_at": "2025-09-05T12:15:50.558711",
+    "total_articles": 304,
+    "new_articles_in_last_fetch": 304,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -3943,6 +3943,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: DEMAND FOR INDUSTRIAL SPACE PLUNGES AFTER 15 YEARS 📉\n\n- Industrial space demand drops due to economic uncertainty\n- Tariff policy changes contribute to the decline 📉\n- Warehouse sector impacted by high inflation rates 🏭\n- First decrease in demand for industrial space in 15 years 📉\n- Economic instability affects the industrial real estate market 🏗️\n- Persistent high inflation adds pressure on warehouse sector 📊\n\nTAKEAWAY: The industrial space sector sees its first demand drop in 15 years as economic uncertainty, tariff policy changes, and high inflation rates impact the market.",
       "exported_at": "2025-09-05T12:05:44.704546",
+      "continuous_session": true
+    },
+    {
+      "title": "Here are the AI stock charts that look good — and not so good, according to JPMorgan",
+      "link": "https://www.cnbc.com/2025/09/05/here-are-the-ai-stock-charts-that-still-look-good-according-to-jpmorgan.html",
+      "summary": "JPMorgan offers up key technical levels it's watching on the biggest artificial intelligence stocks in the market.",
+      "published": "Fri, 05 Sep 2025 16:08:01 GMT",
+      "content": "JPMorgan offers up key technical levels it's watching on the biggest artificial intelligence stocks in the market.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3571c8907e6cb1ed7c9264296729857c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AI STOCK CHARTS: JPMORGAN'S INSIGHTS 📈📉\n\n- JPMorgan identifies key technical levels for top AI stocks 📊\n- Some AI stock charts show promising trends 🚀\n- Others display less favorable patterns ⚠️\n\nTAKEAWAY: JPMorgan's analysis highlights both promising and concerning trends in AI stocks, providing valuable insights for investors.",
+      "exported_at": "2025-09-05T12:15:50.554213",
       "continuous_session": true
     }
   ]
