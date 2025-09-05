@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-05T07:12:43.985556",
-    "total_articles": 267,
-    "new_articles_in_last_fetch": 267,
+    "created_at": "2025-09-05T07:22:48.337906",
+    "total_articles": 268,
+    "new_articles_in_last_fetch": 268,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -3475,6 +3475,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: S&P 500 FUTURES EDGE UP AHEAD OF JOBS REPORT 📈\n\n- S&P 500 futures show slight increase before nonfarm payrolls 📈\n- Investors anticipate key data from August jobs report 📊\n- Market sentiment optimistic as futures tick higher 🌟\n\nTAKEAWAY: S&P 500 futures edge up in anticipation of crucial August jobs report, fueling investor optimism and market sentiment.",
       "exported_at": "2025-09-05T07:12:43.981345",
+      "continuous_session": true
+    },
+    {
+      "title": "Europe stocks higher ahead of U.S. jobs data; Orsted choppy as shareholders back rights issue",
+      "link": "https://www.cnbc.com/2025/09/05/european-stock-markets-friday-sept-5-us-jobs-report-orsted-update.html",
+      "summary": "European stock markets traded higher on Friday as global investors await all-important U.S. jobs figures.",
+      "published": "Fri, 05 Sep 2025 11:21:00 GMT",
+      "content": "European stock markets traded higher on Friday as global investors await all-important U.S. jobs figures.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5cb7a811c2778431bfaf495668d4d6c9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: EUROPE STOCKS RISE AHEAD OF U.S. JOBS DATA 🚀\n\n- European markets surge anticipating crucial U.S. jobs report 📈\n- Global investors eagerly await the impact of U.S. employment data 🔍\n- Orsted climbs 3% as shareholders support rights issue 📈\n- Market optimism prevails amidst expectations of positive data 🌟\n- U.S. jobs figures crucial for shaping future market trends 📊\n\nTAKEAWAY: European stock markets experience a bullish surge as investors eagerly anticipate the impact of the upcoming U.S. jobs data, with Orsted seeing a 3% increase supported by shareholders.",
+      "exported_at": "2025-09-05T07:22:48.333699",
       "continuous_session": true
     }
   ]
