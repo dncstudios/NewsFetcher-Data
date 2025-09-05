@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-05T05:26:06.226735",
-    "total_articles": 257,
-    "new_articles_in_last_fetch": 257,
+    "created_at": "2025-09-05T05:46:16.335049",
+    "total_articles": 258,
+    "new_articles_in_last_fetch": 258,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -3345,6 +3345,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WE RAISED BROADCOM'S PRICE TARGET AFTER STOCK POP 🚀\n\n- Strong results and outlook boost Broadcom's performance 📈\n- Focus shifts to crucial post-earnings call commentary 🎯\n- Positive sentiment drives up stock price 📈\n- Analysts increase price target post-conference call 📊\n- Market reacts favorably to post-earnings call insights 🚀\n- Investors optimistic about Broadcom's future growth potential ✅\n\nTAKEAWAY: Strong results and positive post-earnings call commentary lead to a stock price surge, prompting analysts to raise Broadcom's price target.",
       "exported_at": "2025-09-05T05:26:06.222633",
+      "continuous_session": true
+    },
+    {
+      "title": "Europe stocks higher ahead of U.S. jobs data; Orsted up 3% as shareholders back rights issue",
+      "link": "https://www.cnbc.com/2025/09/05/european-stock-markets-friday-sept-5-us-jobs-report-orsted-update.html",
+      "summary": "European stock markets traded higher on Friday as global investors await all-important U.S. jobs figures.",
+      "published": "Fri, 05 Sep 2025 09:44:54 GMT",
+      "content": "European stock markets traded higher on Friday as global investors await all-important U.S. jobs figures.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4ab4712e47bd71f9060dced59a43fad0",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: EUROPE STOCKS RISE AHEAD OF U.S. JOBS DATA 🚀\n\n- European markets up before crucial U.S. jobs report 📈\n- Investor focus on upcoming employment figures 🌍\n- Orsted gains 3% with shareholder support for rights issue ✅\n- Global anticipation for U.S. job data release 🌐\n- Market optimism evident in European stock trading 🌟\n\nTAKEAWAY: Europe's stock market rallies in anticipation of key U.S. jobs data, with Orsted's 3% rise supported by shareholder backing for rights issue.",
+      "exported_at": "2025-09-05T05:46:16.330839",
       "continuous_session": true
     }
   ]
