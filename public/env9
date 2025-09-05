@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-05T12:31:01.376302",
-    "total_articles": 307,
-    "new_articles_in_last_fetch": 307,
+    "created_at": "2025-09-05T12:36:07.696698",
+    "total_articles": 309,
+    "new_articles_in_last_fetch": 309,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -3995,6 +3995,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: S&P 500 STRUGGLES AMID JOB MARKET WORRIES AND RATE CUT HOPES 🚨\n\n- Fragile rally crumbles in first hour of trading 📉\n- Traders balance rate cut hopes with economic slowdown fears ⚖️\n- Market shifts from optimism to concerns about job market 📉⚠️\n\nTAKEAWAY: The S&P 500 faces turbulence as traders struggle to balance hopes for a rate cut with concerns about a slowing economy and job market worries.",
       "exported_at": "2025-09-05T12:31:01.371545",
+      "continuous_session": true
+    },
+    {
+      "title": "Hollywood turns to video games to bring fresh IP to the big screen",
+      "link": "https://www.cnbc.com/2025/09/05/video-games-the-next-frontier-of-hollywood-ip-harvesting.html",
+      "summary": "For decades, studios have tried to capitalize on the financial success and cultural relevance of video games, but it's only clicked in the last few years.",
+      "published": "Fri, 05 Sep 2025 16:33:12 GMT",
+      "content": "For decades, studios have tried to capitalize on the financial success and cultural relevance of video games, but it's only clicked in the last few years.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "19315e497643aa817af83716127e1213",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: HOLLYWOOD TAPS INTO VIDEO GAMES FOR NEW BLOCKBUSTERS 🚀\n\n- Studios now successful in adapting video games to films 📽️\n- Trend of using video games for fresh IP gaining momentum 🚀\n- Decades of attempts show recent breakthrough in last few years 💥\n\nTAKEAWAY: Hollywood's recent success in adapting video games into blockbuster films marks a new trend, tapping into fresh intellectual property for the big screen.",
+      "exported_at": "2025-09-05T12:36:07.692469",
+      "continuous_session": true
+    },
+    {
+      "title": "Massive Powerball jackpot means big boost for DraftKings",
+      "link": "https://www.cnbc.com/2025/09/05/powerball-jackpot-draftkings-boost.html",
+      "summary": "Powerball's $1.8 billion jackpot is fueling triple-digit growth in ticket sales on DraftKings' Jackpocket.",
+      "published": "Fri, 05 Sep 2025 16:32:05 GMT",
+      "content": "Powerball's $1.8 billion jackpot is fueling triple-digit growth in ticket sales on DraftKings' Jackpocket.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "cab8ebe0132b5e3a927283587f70e458",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MASSIVE POWERBALL JACKPOT BOOSTS DRAFTKINGS 🚀\n\n- DraftKings sees triple-digit growth in Jackpocket sales 📈\n- Powerball's $1.8 billion jackpot drives ticket sales surge 💰\n- Huge jackpot creates major opportunity for DraftKings 🎯\n\nTAKEAWAY: The unprecedented Powerball jackpot is propelling DraftKings to triple-digit growth in Jackpocket sales, showcasing a lucrative opportunity for the platform.",
+      "exported_at": "2025-09-05T12:36:07.692480",
       "continuous_session": true
     }
   ]
