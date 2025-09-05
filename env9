@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-05T19:19:50.592724",
-    "total_articles": 335,
-    "new_articles_in_last_fetch": 335,
+    "created_at": "2025-09-05T19:55:07.032403",
+    "total_articles": 336,
+    "new_articles_in_last_fetch": 336,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -4359,6 +4359,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SENATE MOVES TO LIMIT STOCK TOKENIZATION IN LATEST CRYPTO BILL DRAFT 🚨\n\n- Senate drafting bill to regulate stock tokenization in crypto 📜\n- Crypto giants Coinbase, Ripple advocate for market structure bill ✊\n- Push for passage amidst growing concerns over stock tokenization ⚠️\n\nTAKEAWAY: The Senate's move to regulate stock tokenization in the latest crypto bill draft is met with advocacy from industry leaders like Coinbase and Ripple, amidst rising concerns in the market.",
       "exported_at": "2025-09-05T19:19:50.569540",
+      "continuous_session": true
+    },
+    {
+      "title": "Apple sued by authors over use of books in AI training",
+      "link": "https://www.cnbc.com/2025/09/05/apple-sued-by-authors-over-use-of-books-in-ai-training.html",
+      "summary": "Technology giant Apple was accused by authors in a lawsuit on Friday of illegally using their copyrighted books to help train its artificial intelligence systems, part of an expanding legal fight over protections for intellectual property in the AI era.",
+      "published": "Fri, 05 Sep 2025 23:47:57 GMT",
+      "content": "Technology giant Apple was accused by authors in a lawsuit on Friday of illegally using their copyrighted books to help train its artificial intelligence systems, part of an expanding legal fight over protections for intellectual property in the AI era.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5a5df6064d49d5d920b049ad8cf4e085",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: APPLE SUED OVER USING BOOKS FOR AI TRAINING ⚠️\n\n- Authors file lawsuit against Apple for alleged copyright infringement 📚\n- Accusations claim Apple used books to train AI systems illegally ⚖️\n- Lawsuit signifies a growing legal battle over intellectual property rights 💼\n\nTAKEAWAY: Authors take legal action against Apple for allegedly using their copyrighted books to train AI, highlighting the evolving challenges in protecting intellectual property in the AI age.",
+      "exported_at": "2025-09-05T19:55:07.007276",
       "continuous_session": true
     }
   ]
