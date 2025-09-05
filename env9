@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-05T18:09:13.900862",
-    "total_articles": 332,
-    "new_articles_in_last_fetch": 332,
+    "created_at": "2025-09-05T18:49:32.282018",
+    "total_articles": 333,
+    "new_articles_in_last_fetch": 333,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -4320,6 +4320,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: APPLOVIN & ROBINHOOD JOIN S&P 500 🚀\n\n- S&P 500 tech-heavy, adds AppLovin & Robinhood 📈\n- Recent entries: Datadog & DoorDash 🚪\n- Tech sector diversifying S&P 500 index 🌐\n\nTAKEAWAY: AppLovin and Robinhood's addition to the S&P 500, alongside other tech companies, signifies a diversification in the index's tech sector.",
       "exported_at": "2025-09-05T18:09:13.875180",
+      "continuous_session": true
+    },
+    {
+      "title": "Bitcoin climbs after dismal jobs report fuels rate cut hopes: CNBC Crypto World",
+      "link": "https://www.cnbc.com/video/2025/09/05/bitcoin-climbs-after-dismal-jobs-report-fuels-rate-cut-hopes-cnbc-crypto-world.html",
+      "summary": "On today's episode of CNBC's Crypto World, bitcoin climbs after it was revealed that payrolls rose less than expected in August. Plus, crypto billionaire Justin Sun says his World Liberty Financial tokens have been \"unreasonably\" frozen. And, Sergey Nazarov, co-founder of Chainlink, reveals what was discussed during a meeting with SEC Chair Paul Atkins.",
+      "published": "Fri, 05 Sep 2025 19:05:22 GMT",
+      "content": "On today's episode of CNBC's Crypto World, bitcoin climbs after it was revealed that payrolls rose less than expected in August. Plus, crypto billionaire Justin Sun says his World Liberty Financial tokens have been \"unreasonably\" frozen. And, Sergey Nazarov, co-founder of Chainlink, reveals what was discussed during a meeting with SEC Chair Paul Atkins.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "100fc49c3aa4efbd6816aa3aaca20adc",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BITCOIN SURGES AS WEAK JOBS REPORT SPARKS RATE CUT HOPES 🚀\n\n- Bitcoin rises on news of lower-than-expected job growth in August \n- Market anticipates potential rate cuts due to dismal payrolls report\n- Crypto billionaire Justin Sun faces token freeze controversy\n- Sergey Nazarov of Chainlink shares insights from SEC Chair meeting\n- Investors eye Bitcoin's potential amid economic uncertainties\n- Speculation rises on impact of potential rate cuts on crypto market\n\nTAKEAWAY: Bitcoin's surge fueled by weak jobs report and rate cut hopes, while controversies and regulatory insights add intrigue to the crypto world.",
+      "exported_at": "2025-09-05T18:49:32.256576",
       "continuous_session": true
     }
   ]
