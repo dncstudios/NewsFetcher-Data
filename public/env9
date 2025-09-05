@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-05T10:44:56.543424",
-    "total_articles": 295,
-    "new_articles_in_last_fetch": 295,
+    "created_at": "2025-09-05T10:50:00.503527",
+    "total_articles": 296,
+    "new_articles_in_last_fetch": 296,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -3839,6 +3839,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: HOW TO SAFEGUARD YOUR 2025 STOCK MARKET GAINS 🛡️\n\n- Stock market gains since April have soared 📈\n- Many investors' portfolios have grown substantially 💰\n- It's crucial to consider defensive strategies now 🛡️\n- Protect your gains as the year comes to a close 📆\n\nTAKEAWAY: Safeguard your record 2025 stock market gains by implementing defensive strategies as the year ends, ensuring your portfolio remains strong.",
       "exported_at": "2025-09-05T10:44:56.539238",
+      "continuous_session": true
+    },
+    {
+      "title": "Massive Powerball jackpot means big boost for DraftKings",
+      "link": "https://www.cnbc.com/2025/09/05/powerball-jackpot-draftkings-boost.html",
+      "summary": "Powerball's $1.7 billion jackpot is fueling triple-digit growth in ticket sales on DraftKings' Jackpocket.",
+      "published": "Fri, 05 Sep 2025 14:44:43 GMT",
+      "content": "Powerball's $1.7 billion jackpot is fueling triple-digit growth in ticket sales on DraftKings' Jackpocket.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "06fa29f4f4c8ad6810234cb1a052e4e7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MASSIVE POWERBALL JACKPOT BOOSTS DRAFTKINGS 🚀\n\n- Powerball's $1.7 billion jackpot spurs triple-digit growth\n- DraftKings' Jackpocket sees soaring ticket sales 📈\n- Huge jackpot fueling excitement and engagement 🎉\n\nTAKEAWAY: The record-breaking Powerball jackpot is driving significant growth for DraftKings, creating excitement and boosting ticket sales on Jackpocket.",
+      "exported_at": "2025-09-05T10:50:00.498666",
       "continuous_session": true
     }
   ]
