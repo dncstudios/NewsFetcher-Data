@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-05T08:38:31.812595",
-    "total_articles": 275,
-    "new_articles_in_last_fetch": 275,
+    "created_at": "2025-09-05T08:43:39.768012",
+    "total_articles": 279,
+    "new_articles_in_last_fetch": 279,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -3579,6 +3579,58 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FRIDAY'S WALL STREET ANALYST CALLS: NVIDIA, TESLA, ORACLE 🚀\n\n- Analysts recommend buying Nvidia stock for its growth potential 📈\n- Tesla receives a bullish outlook from Wall Street experts 🚗\n- Oracle's performance prompts positive recommendations from analysts 💡\n- FedEx stock gains favor with analysts for potential upside 📦\n- Alphabet receives optimistic analyst calls for future growth 🌐\n- Lululemon garners positive recommendations for investor consideration 👟\n\nTAKEAWAY: Wall Street analysts provide bullish recommendations for Nvidia, Tesla, Oracle, FedEx, Alphabet, and Lululemon, highlighting growth potential and positive outlooks.",
       "exported_at": "2025-09-05T08:38:31.808765",
+      "continuous_session": true
+    },
+    {
+      "title": "Demand for industrial space falls for the first time in 15 years",
+      "link": "https://www.cnbc.com/2025/09/05/demand-for-industrial-space-falls-for-the-first-time-in-15-years.html",
+      "summary": "Economic uncertainty brought on by constantly changing tariff policy and persistently high inflation is taking a greater toll on the warehouse sector.",
+      "published": "Fri, 05 Sep 2025 12:30:01 GMT",
+      "content": "Economic uncertainty brought on by constantly changing tariff policy and persistently high inflation is taking a greater toll on the warehouse sector.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f32a2aaedd7e944be53f4c00908bd767",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DEMAND FOR INDUSTRIAL SPACE PLUNGES AFTER 15 YEARS 📉\n\n- Industrial space demand drops due to economic uncertainty\n- Tariff policy changes contribute to the decline 📉\n- Warehouse sector impacted by high inflation rates 🏭\n- First decrease in demand for industrial space in 15 years 📉\n- Economic instability affects the industrial real estate market 🏗️\n- Persistent high inflation adds pressure on warehouse sector 📊\n\nTAKEAWAY: The industrial space sector sees its first demand drop in 15 years as economic uncertainty, tariff policy changes, and high inflation rates impact the market.",
+      "exported_at": "2025-09-05T08:43:39.763300",
+      "continuous_session": true
+    },
+    {
+      "title": "Nobel winner Joseph Stiglitz has a warning for bond investors",
+      "link": "https://www.cnbc.com/2025/09/05/nobel-winner-joseph-stiglitz-has-a-warning-for-bond-investors.html",
+      "summary": "Markets \"haven't fully taken on board\" the fact that tariff revenues will fall in as businesses readjust to the new regime, Stiglitz told CNBC.",
+      "published": "Fri, 05 Sep 2025 12:31:09 GMT",
+      "content": "Markets \"haven't fully taken on board\" the fact that tariff revenues will fall in as businesses readjust to the new regime, Stiglitz told CNBC.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "aa97dcd59c962b709f7ff9bd1fb0864f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NOBEL WINNER STIGLITZ'S WARNING TO BOND INVESTORS ⚠️\n\n- Stiglitz warns bond investors of falling tariff revenues 💸\n- Markets yet to grasp impact as businesses adjust 📉\n- Uncertainty looms over bond market reactions 🤔\n\nTAKEAWAY: Nobel laureate Stiglitz cautions bond investors about potential repercussions from declining tariff revenues as businesses adapt, signaling market uncertainty.",
+      "exported_at": "2025-09-05T08:43:39.763311",
+      "continuous_session": true
+    },
+    {
+      "title": "Yieldstreet tell investors in $89 million worth of marine loans to expect losses",
+      "link": "https://www.cnbc.com/2025/09/05/yieldstreet-marine-loan-deals-customer-losses.html",
+      "summary": "The news of this latest loss follows CNBC's report last month into Yieldstreet real estate investments that have resulted in $78 million in defaults.",
+      "published": "Fri, 05 Sep 2025 12:30:19 GMT",
+      "content": "The news of this latest loss follows CNBC's report last month into Yieldstreet real estate investments that have resulted in $78 million in defaults.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b08055b41f43250b7f2b2a8f04e9095b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: YIELDSTREET INFORMS INVESTORS OF LOSSES IN $89M MARINE LOANS ⚠️\n\n- $89 million in marine loans expected to incur losses\n- Previous defaults in real estate investments amounted to $78 million\n- Yieldstreet facing challenges with investment returns 📉\n\nTAKEAWAY: Yieldstreet's disclosure of losses in marine loans adds to previous defaults in real estate investments, raising concerns about investment returns.",
+      "exported_at": "2025-09-05T08:43:39.763315",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump raised the SALT deduction limit to $40,000 for 2025 — here&apos;s how to maximize it",
+      "link": "https://www.cnbc.com/2025/09/05/trump-salt-deduction-limit-2025.html",
+      "summary": "President Donald Trump's \"big beautiful bill\" raised the SALT deduction limit to $40,000 for 2025. Here's how to maximize the tax break, financial experts say.",
+      "published": "Fri, 05 Sep 2025 11:58:58 GMT",
+      "content": "President Donald Trump's \"big beautiful bill\" raised the SALT deduction limit to $40,000 for 2025. Here's how to maximize the tax break, financial experts say.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "abb00c086acf52221f890009ba4f518f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP RAISES SALT DEDUCTION LIMIT TO $40,000 FOR 2025 🚀\n\n- Trump's bill boosts SALT deduction limit to $40,000 💰\n- Financial experts advise on maximizing tax break 📈\n- Opportunity to optimize deductions for 2025 💡\n\nTAKEAWAY: Trump's increase of the SALT deduction limit to $40,000 for 2025 offers a prime chance for taxpayers to enhance their tax benefits with expert guidance.",
+      "exported_at": "2025-09-05T08:43:39.763321",
       "continuous_session": true
     }
   ]
