@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-05T14:47:24.789641",
-    "total_articles": 320,
-    "new_articles_in_last_fetch": 320,
+    "created_at": "2025-09-05T15:27:44.757521",
+    "total_articles": 321,
+    "new_articles_in_last_fetch": 321,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -4164,6 +4164,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JUDGE DISMISSES NEWSMAX'S ANTITRUST SUIT AGAINST FOX NEWS 🚫\n\n- Newsmax allowed to file an amended complaint ⚖️\n- Judge Aileen Cannon's notable case involving President Trump 🇺🇸\n- Antitrust suit against Fox News dismissed by the judge 📉\n- Newsmax's lawsuit against Fox News facing a setback 🛑\n- Judge's decision to dismiss the antitrust suit 🤔\n\nTAKEAWAY: Newsmax's antitrust suit against Fox News faces a setback as the judge dismisses it but allows for an amended complaint, raising questions about the future of the legal battle.",
       "exported_at": "2025-09-05T14:47:24.764277",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump threatens trade probe after &apos;discriminatory&apos; EU fines against Google, Apple",
+      "link": "https://www.cnbc.com/2025/09/05/trump-threatens-trade-probe-after-discriminatory-eu-fines-against-google-apple.html",
+      "summary": "President Donald Trump threatened to launch a trade investigation to \"nullify\" Europe's fines against Google and other U.S. tech firms.",
+      "published": "Fri, 05 Sep 2025 19:26:42 GMT",
+      "content": "President Donald Trump threatened to launch a trade investigation to \"nullify\" Europe's fines against Google and other U.S. tech firms.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8a16197945278a75dfd4301effc4eda2",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP THREATENS TRADE PROBE OVER EU FINES AGAINST TECH GIANTS 🚨\n\n- Trump considers trade investigation to counter EU fines on US tech firms\n- Europe's fines on Google, Apple prompt Trump's retaliatory stance\n- Potential trade probe aims to nullify EU's penalties\n- Trump criticizes EU for alleged discrimination against American tech companies\n\nTAKEAWAY: President Trump's threat to launch a trade investigation in response to EU fines against US tech giants intensifies tensions between the US and Europe.",
+      "exported_at": "2025-09-05T15:27:44.735100",
       "continuous_session": true
     }
   ]
