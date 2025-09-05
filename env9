@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-05T17:08:41.856991",
-    "total_articles": 328,
-    "new_articles_in_last_fetch": 328,
+    "created_at": "2025-09-05T17:13:46.051058",
+    "total_articles": 329,
+    "new_articles_in_last_fetch": 329,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -4268,6 +4268,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ANTHROPIC SETTLES $1.5B COPYRIGHT LAWSUIT WITH AUTHORS 🚀\n\n- Anthropic to pay $1.5 billion in settlement with authors 💰\n- Authors accused startup of using their books without permission 📚\n- Lawsuit resolved over alleged illegal model training 🤝\n\nTAKEAWAY: Anthropic's $1.5 billion settlement with authors resolves the copyright lawsuit, ensuring legal compliance and mutual agreement.",
       "exported_at": "2025-09-05T17:08:41.830550",
+      "continuous_session": true
+    },
+    {
+      "title": "FTC commissioner questions status of Snap AI chatbot complaint: &apos;People deserve answers&apos;",
+      "link": "https://www.cnbc.com/2025/09/05/ftc-snap-ai-chatbot-rebecca-slaughter.html",
+      "summary": "President Trump attempted to remove Slaughter from her FTC position, but a U.S. appeals court allowed her to maintain her role.",
+      "published": "Fri, 05 Sep 2025 21:03:38 GMT",
+      "content": "President Trump attempted to remove Slaughter from her FTC position, but a U.S. appeals court allowed her to maintain her role.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ff02a94051373eeb10e90581e25519ab",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FTC COMMISSIONER QUESTIONS SNAP AI CHATBOT COMPLAINT STATUS ⚠️\n\n- Snap AI chatbot complaint status under scrutiny by FTC Commissioner\n- President Trump's attempt to remove Commissioner Slaughter unsuccessful\n- U.S. appeals court ruling allows Slaughter to keep her FTC role\n\nTAKEAWAY: FTC Commissioner raises concerns over Snap AI chatbot complaint status, highlighting the need for transparency and accountability.",
+      "exported_at": "2025-09-05T17:13:46.025868",
       "continuous_session": true
     }
   ]
