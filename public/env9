@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-05T07:22:48.337906",
-    "total_articles": 268,
-    "new_articles_in_last_fetch": 268,
+    "created_at": "2025-09-05T07:32:54.766563",
+    "total_articles": 269,
+    "new_articles_in_last_fetch": 269,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -3488,6 +3488,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: EUROPE STOCKS RISE AHEAD OF U.S. JOBS DATA 🚀\n\n- European markets surge anticipating crucial U.S. jobs report 📈\n- Global investors eagerly await the impact of U.S. employment data 🔍\n- Orsted climbs 3% as shareholders support rights issue 📈\n- Market optimism prevails amidst expectations of positive data 🌟\n- U.S. jobs figures crucial for shaping future market trends 📊\n\nTAKEAWAY: European stock markets experience a bullish surge as investors eagerly anticipate the impact of the upcoming U.S. jobs data, with Orsted seeing a 3% increase supported by shareholders.",
       "exported_at": "2025-09-05T07:22:48.333699",
+      "continuous_session": true
+    },
+    {
+      "title": "UBS upgrades ASML, says chipmaker is headed towards &apos;inflection point&apos;",
+      "link": "https://www.cnbc.com/2025/09/05/ubs-upgrades-asml-says-chipmaker-is-headed-towards-inflection-point.html",
+      "summary": "The firm lifted its rating on the Netherlands-based chipmaker to buy from neutral, partly given its renewed optimism on ASML's lithography business.",
+      "published": "Fri, 05 Sep 2025 11:30:43 GMT",
+      "content": "The firm lifted its rating on the Netherlands-based chipmaker to buy from neutral, partly given its renewed optimism on ASML's lithography business.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ca84df69ac15ebf0ffd87da638d982fc",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: UBS UPGRADES ASML, PREDICTS INFLECTION POINT 🚀\n\n- UBS upgrades ASML rating from neutral to buy 📈\n- Optimism on ASML's lithography business drives upgrade 💡\n- ASML positioned for growth towards inflection point 📊\n\nTAKEAWAY: UBS's upgrade of ASML to buy signals a positive outlook, driven by optimism in the company's lithography business, positioning it for growth towards a potential inflection point.",
+      "exported_at": "2025-09-05T07:32:54.762265",
       "continuous_session": true
     }
   ]
