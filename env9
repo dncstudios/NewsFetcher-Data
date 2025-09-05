@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-05T08:28:22.853614",
-    "total_articles": 273,
-    "new_articles_in_last_fetch": 273,
+    "created_at": "2025-09-05T08:38:31.812595",
+    "total_articles": 275,
+    "new_articles_in_last_fetch": 275,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -3553,6 +3553,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: LUTNICK PREDICTS 'BETTER' JOB NUMBERS POST-TRUMP BLS CHIEF FIRING 🚀\n\n- Lutnick foresees more accurate BLS job reports 📊\n- Trump's dismissal of BLS chief expected to enhance data precision ✅\n- Commerce Secretary optimistic about future job number accuracy 🔮\n\nTAKEAWAY: Lutnick's optimistic forecast suggests improved job number accuracy post-Trump's BLS chief firing, signaling potential data precision enhancements.",
       "exported_at": "2025-09-05T08:28:22.849393",
+      "continuous_session": true
+    },
+    {
+      "title": "Payrolls rose 22,000 in August, less than expected in further sign of hiring slowdown",
+      "link": "https://www.cnbc.com/2025/09/05/jobs-report-august-2025.html",
+      "summary": "Nonfarm payrolls were expected to increase by 75,000 in August while the unemployment rate edged up tp 4.3%.",
+      "published": "Fri, 05 Sep 2025 12:34:30 GMT",
+      "content": "Nonfarm payrolls were expected to increase by 75,000 in August while the unemployment rate edged up tp 4.3%.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "34009e43c09321c45c8e8aa39831a9f5",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PAYROLLS RISE 22,000 IN AUGUST, FALLS SHORT OF EXPECTATIONS ⚠️\n\n- Nonfarm payrolls only grew by 22,000 in August 📉\n- Expectations were for a 75,000 increase in payrolls 📊\n- Unemployment rate ticked up to 4.3% 📈\n- Signs indicate a slowdown in hiring momentum ⚠️\n\nTAKEAWAY: August saw a mere 22,000 increase in nonfarm payrolls, falling short of the expected 75,000 increase, signaling a potential hiring slowdown.",
+      "exported_at": "2025-09-05T08:38:31.808754",
+      "continuous_session": true
+    },
+    {
+      "title": "Here are Friday&apos;s biggest analyst calls: Nvidia, Tesla, Broadcom, Oracle, FedEx, Alphabet, Goldman Sachs, Lululemon &amp; more",
+      "link": "https://www.cnbc.com/2025/09/05/stocks-from-analyst-calls-friday-include-oracle-fedex-and-lululemon.html",
+      "summary": "Here are the biggest calls on Wall Street on Friday.",
+      "published": "Fri, 05 Sep 2025 12:28:06 GMT",
+      "content": "Here are the biggest calls on Wall Street on Friday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e2e92e69633e61798725735c4b7508a9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FRIDAY'S WALL STREET ANALYST CALLS: NVIDIA, TESLA, ORACLE 🚀\n\n- Analysts recommend buying Nvidia stock for its growth potential 📈\n- Tesla receives a bullish outlook from Wall Street experts 🚗\n- Oracle's performance prompts positive recommendations from analysts 💡\n- FedEx stock gains favor with analysts for potential upside 📦\n- Alphabet receives optimistic analyst calls for future growth 🌐\n- Lululemon garners positive recommendations for investor consideration 👟\n\nTAKEAWAY: Wall Street analysts provide bullish recommendations for Nvidia, Tesla, Oracle, FedEx, Alphabet, and Lululemon, highlighting growth potential and positive outlooks.",
+      "exported_at": "2025-09-05T08:38:31.808765",
       "continuous_session": true
     }
   ]
