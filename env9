@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-05T06:31:39.466155",
-    "total_articles": 262,
-    "new_articles_in_last_fetch": 262,
+    "created_at": "2025-09-05T06:57:32.636866",
+    "total_articles": 265,
+    "new_articles_in_last_fetch": 265,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -3410,6 +3410,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCK FUTURES FLAT AHEAD OF JOBS REPORT 📉\n\n- Investors await crucial nonfarm payrolls report 📊\n- Stock futures show mixed signals on Friday 🔄\n- Market anticipates impact on trading day ⏳\n\nTAKEAWAY: Investors brace for market movements as stock futures remain stable before the release of the pivotal nonfarm payrolls report.",
       "exported_at": "2025-09-05T06:31:39.462208",
+      "continuous_session": true
+    },
+    {
+      "title": "S&amp;P 500 futures rise slightly ahead of August jobs report: Live updates",
+      "link": "https://www.cnbc.com/2025/09/04/stock-market-today-live-updates-.html",
+      "summary": "Stock futures were mixed Friday as investors prepare for a key nonfarm payrolls report.",
+      "published": "Fri, 05 Sep 2025 10:33:49 GMT",
+      "content": "Stock futures were mixed Friday as investors prepare for a key nonfarm payrolls report.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "199b01478d0c914026f5054f844367ec",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: S&P 500 FUTURES EDGE UP AHEAD OF JOBS REPORT 🚀\n\n- Stock futures show a slight increase before jobs data release 📈\n- Investors gear up for a crucial nonfarm payrolls report 📊\n- Market sentiment mixed, hinting at cautious optimism ✨\n- Anticipation builds as traders await key economic data 🌟\n\nTAKEAWAY: The S&P 500 futures nudge higher in anticipation of the upcoming nonfarm payrolls report, reflecting cautious optimism in the market.",
+      "exported_at": "2025-09-05T06:57:32.632739",
+      "continuous_session": true
+    },
+    {
+      "title": "Tesla proposes new pay plan for Musk that would expand his voting power",
+      "link": "https://www.cnbc.com/2025/09/05/tesla-musk-pay.html",
+      "summary": "Tesla will also ask shareholders to vote on whether the automaker should invest in Musk's artificial intelligence company, xAI.",
+      "published": "Fri, 05 Sep 2025 10:55:58 GMT",
+      "content": "Tesla will also ask shareholders to vote on whether the automaker should invest in Musk's artificial intelligence company, xAI.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "60afc3dd15613dd3ab3fd7d39424ce55",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TESLA PROPOSES EXPANDED VOTING POWER AND INVESTMENT IN xAI FOR MUSK 🚀\n\n- Tesla suggests new pay plan to grow Musk's voting power 📈\n- Shareholders to vote on investing in Musk's AI firm, xAI 💡\n- Move aims to increase Musk's influence within the company 🌟\n\nTAKEAWAY: Tesla's proposal to boost Musk's voting power and consider investing in xAI showcases the company's commitment to empowering its visionary leader and advancing AI technology.",
+      "exported_at": "2025-09-05T06:57:32.632763",
+      "continuous_session": true
+    },
+    {
+      "title": "Broadcom is soaring after an earnings beat. What Wall Street analysts are saying",
+      "link": "https://www.cnbc.com/2025/09/05/what-wall-street-is-saying-about-broadcom-fiscal-third-quarter-results.html",
+      "summary": "Broadcom's fiscal third-quarter report is being well-received by Wall Street analysts, several of whom lifted their price targets on the chipmaker.",
+      "published": "Fri, 05 Sep 2025 10:49:27 GMT",
+      "content": "Broadcom's fiscal third-quarter report is being well-received by Wall Street analysts, several of whom lifted their price targets on the chipmaker.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b1c748a13c112b2aa78ed03994468cbf",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BROADCOM SOARS AFTER EARNINGS BEAT, WALL STREET ANALYSTS BOOST TARGETS 🚀\n\n- Broadcom's Q3 report impresses Wall Street analysts 💪\n- Multiple analysts raise price targets for the chipmaker 📈\n- Positive reception follows Broadcom's strong performance 🎯\n\nTAKEAWAY: Broadcom's stellar earnings performance leads to a surge in stock value, with analysts showing confidence through increased price targets.",
+      "exported_at": "2025-09-05T06:57:32.632772",
       "continuous_session": true
     }
   ]
