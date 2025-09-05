@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-05T07:32:54.766563",
-    "total_articles": 269,
-    "new_articles_in_last_fetch": 269,
+    "created_at": "2025-09-05T07:53:03.282601",
+    "total_articles": 270,
+    "new_articles_in_last_fetch": 270,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -3501,6 +3501,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: UBS UPGRADES ASML, PREDICTS INFLECTION POINT 🚀\n\n- UBS upgrades ASML rating from neutral to buy 📈\n- Optimism on ASML's lithography business drives upgrade 💡\n- ASML positioned for growth towards inflection point 📊\n\nTAKEAWAY: UBS's upgrade of ASML to buy signals a positive outlook, driven by optimism in the company's lithography business, positioning it for growth towards a potential inflection point.",
       "exported_at": "2025-09-05T07:32:54.762265",
+      "continuous_session": true
+    },
+    {
+      "title": "Tesla&apos;s nearly $1 trillion new pay plan for Musk would expand his voting power",
+      "link": "https://www.cnbc.com/2025/09/05/tesla-musk-pay.html",
+      "summary": "Tesla will also ask shareholders to vote on whether the automaker should invest in Musk's artificial intelligence company, xAI.",
+      "published": "Fri, 05 Sep 2025 11:50:09 GMT",
+      "content": "Tesla will also ask shareholders to vote on whether the automaker should invest in Musk's artificial intelligence company, xAI.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b0cac3fda0fcdf58de4459e9ede859f4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TESLA PROPOSES EXPANDED VOTING POWER AND INVESTMENT IN xAI FOR MUSK 🚀\n\n- Tesla suggests new pay plan to grow Musk's voting power 📈\n- Shareholders to vote on investing in Musk's AI firm, xAI 💡\n- Move aims to increase Musk's influence within the company 🌟\n\nTAKEAWAY: Tesla's proposal to boost Musk's voting power and consider investing in xAI showcases the company's commitment to empowering its visionary leader and advancing AI technology.",
+      "exported_at": "2025-09-05T07:53:03.278678",
       "continuous_session": true
     }
   ]
