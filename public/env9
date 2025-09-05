@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-05T11:15:17.686961",
-    "total_articles": 299,
-    "new_articles_in_last_fetch": 299,
+    "created_at": "2025-09-05T11:20:21.942548",
+    "total_articles": 300,
+    "new_articles_in_last_fetch": 300,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -3891,6 +3891,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: POWERBALL JACKPOT SOARS TO $1.7 BILLION 🚀\n\n- Jackpot nears $2 billion after 42 drawings without a winner\n- After-tax payouts vary across U.S. states 🇺🇸\n- Massive anticipation for the record-breaking jackpot 💰\n- Winners face different tax implications based on location\n- Excitement builds as the jackpot continues to climb 🎉\n\nTAKEAWAY: With the Powerball jackpot reaching $1.7 billion, winners across U.S. states can expect varying after-tax payouts, adding to the excitement and anticipation of this record-breaking event.",
       "exported_at": "2025-09-05T11:15:17.682922",
+      "continuous_session": true
+    },
+    {
+      "title": "South Korea says &apos;many&apos; of its nationals were detained in immigration raid on Hyundai facility in Georgia",
+      "link": "https://www.cnbc.com/2025/09/05/south-korea-nationals-detained-hyundai-immigration-raid.html",
+      "summary": "The South Korean government said Friday it had expressed \"regret\" to the U.S. Embassy over the raid at a battery plant under construction at one of the state's largest manufacturing facilities.",
+      "published": "Fri, 05 Sep 2025 15:16:28 GMT",
+      "content": "The South Korean government said Friday it had expressed \"regret\" to the U.S. Embassy over the raid at a battery plant under construction at one of the state's largest manufacturing facilities.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "329904dc345ed999efd12e7b20968e78",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SOUTH KOREAN NATIONALS DETAINED IN IMMIGRATION RAID ON HYUNDAI PLANT 🚨\n\n- South Korea expresses regret to U.S. Embassy over the immigration raid\n- Many South Korean nationals detained in the battery plant raid 🛑\n- Raid occurred at a Hyundai facility in Georgia 🔍\n\nTAKEAWAY: South Korean nationals' detention in the Hyundai facility raid leads to diplomatic tensions as the government expresses regret to the U.S. Embassy.",
+      "exported_at": "2025-09-05T11:20:21.937781",
       "continuous_session": true
     }
   ]
