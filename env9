@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-05T13:21:35.627551",
-    "total_articles": 315,
-    "new_articles_in_last_fetch": 315,
+    "created_at": "2025-09-05T13:41:48.880258",
+    "total_articles": 317,
+    "new_articles_in_last_fetch": 317,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -4099,6 +4099,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JUDGE DISMISSES NEWSMAX'S LAWSUIT AGAINST FOX NEWS 🚨\n\n- Newsmax's antitrust lawsuit against Fox News dismissed by federal judge 📉\n- Dismissal comes only two days after the lawsuit was filed ⏰\n- Newsmax has the option to refile an amended version of the lawsuit 🔄\n\nTAKEAWAY: Newsmax's lawsuit against Fox News faces a setback as it gets dismissed by a federal judge, giving them an opportunity to refile an amended version.",
       "exported_at": "2025-09-05T13:21:35.603467",
+      "continuous_session": true
+    },
+    {
+      "title": "Roblox announces short-video, AI features amid child safety concerns",
+      "link": "https://www.cnbc.com/2025/09/05/roblox-short-video-ai-child-safety-concerns.html",
+      "summary": "Roblox on Friday announced new short-video and AI features that come amid increasing lawmaker scrutiny into how the company protects children on its platform.",
+      "published": "Fri, 05 Sep 2025 17:39:23 GMT",
+      "content": "Roblox on Friday announced new short-video and AI features that come amid increasing lawmaker scrutiny into how the company protects children on its platform.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0a17569e956ea5edb9c2cac6378c6740",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ROBLOX UNVEILS NEW AI FEATURES AMID CHILD SAFETY CONCERNS ⚠️\n\n- Roblox introduces short-video and AI tools 🎥🤖\n- Features released amidst growing scrutiny from lawmakers 🧐\n- Focus on enhancing child safety measures 🛡️\n- Company aims to address concerns over protecting children 👶\n- New tools aim to improve overall platform experience ✨\n\nTAKEAWAY: Amidst rising concerns over child safety, Roblox takes proactive steps by introducing new AI features and short-video tools to enhance protection and experience for young users.",
+      "exported_at": "2025-09-05T13:41:48.855607",
+      "continuous_session": true
+    },
+    {
+      "title": "NFL MVP Josh Allen leaves Nike to sign with New Balance",
+      "link": "https://www.cnbc.com/2025/09/05/nfl-mvp-josh-allen-nike-new-balance.html",
+      "summary": "The deal marks a major win for New Balance, which also represents tennis player Coco Gauff, MLB's Shohei Ohtani and the WNBA's Cameron Brink.",
+      "published": "Fri, 05 Sep 2025 17:39:46 GMT",
+      "content": "The deal marks a major win for New Balance, which also represents tennis player Coco Gauff, MLB's Shohei Ohtani and the WNBA's Cameron Brink.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "efc45e6c8536b01c92d8cb6bab6d931a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NFL MVP JOSH ALLEN JOINS NEW BALANCE 🚀\n\n- Josh Allen ditches Nike for New Balance endorsement deal 💪\n- New Balance gains star athlete with Allen's MVP status 🌟\n- New Balance's roster includes big names like Coco Gauff, Shohei Ohtani 🏆\n- Coco Gauff, Shohei Ohtani, Cameron Brink also part of New Balance team 🏀\n- New Balance secures top athletes to elevate brand reputation 📈\n\nTAKEAWAY: NFL MVP Josh Allen's move to New Balance boosts the brand's profile, aligning with other top athletes like Coco Gauff and Shohei Ohtani. 🔥",
+      "exported_at": "2025-09-05T13:41:48.855643",
       "continuous_session": true
     }
   ]
