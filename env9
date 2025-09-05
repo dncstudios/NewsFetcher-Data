@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-05T10:50:00.503527",
-    "total_articles": 296,
-    "new_articles_in_last_fetch": 296,
+    "created_at": "2025-09-05T11:00:07.430778",
+    "total_articles": 297,
+    "new_articles_in_last_fetch": 297,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -3852,6 +3852,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: MASSIVE POWERBALL JACKPOT BOOSTS DRAFTKINGS 🚀\n\n- Powerball's $1.7 billion jackpot spurs triple-digit growth\n- DraftKings' Jackpocket sees soaring ticket sales 📈\n- Huge jackpot fueling excitement and engagement 🎉\n\nTAKEAWAY: The record-breaking Powerball jackpot is driving significant growth for DraftKings, creating excitement and boosting ticket sales on Jackpocket.",
       "exported_at": "2025-09-05T10:50:00.498666",
+      "continuous_session": true
+    },
+    {
+      "title": "Jim Cramer says this is the stock to buy after the weak August jobs report",
+      "link": "https://www.cnbc.com/2025/09/05/jim-cramer-says-this-is-the-stock-to-buy-after-the-weak-august-jobs-report.html",
+      "summary": "The call came after a weak August jobs report, which sent the 10-year treasury yield sliding to its weakest levels since April 7.",
+      "published": "Fri, 05 Sep 2025 14:58:04 GMT",
+      "content": "The call came after a weak August jobs report, which sent the 10-year treasury yield sliding to its weakest levels since April 7.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "73ca8ca92c80a38717b024318c3143a2",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JIM CRAMER'S TOP STOCK PICK POST-WEAK AUGUST JOBS REPORT 🚀\n\n- Cramer recommends a stock post-weak August jobs report 💡\n- 10-year treasury yield drops to lowest since April 7 📉\n- Market reacts to the disappointing jobs data 📉\n- Stock market volatility increases after the report 📈\n- Cramer's pick aligns with market conditions 💼\n- Investors seek opportunities in the current market 📈\n\nTAKEAWAY: Jim Cramer's stock recommendation post-weak August jobs report aligns with market conditions, offering potential opportunities for investors seeking to navigate market volatility.",
+      "exported_at": "2025-09-05T11:00:07.426381",
       "continuous_session": true
     }
   ]
