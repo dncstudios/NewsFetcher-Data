@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-05T12:36:07.696698",
-    "total_articles": 309,
-    "new_articles_in_last_fetch": 309,
+    "created_at": "2025-09-05T12:41:11.785344",
+    "total_articles": 310,
+    "new_articles_in_last_fetch": 310,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -4021,6 +4021,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: MASSIVE POWERBALL JACKPOT BOOSTS DRAFTKINGS 🚀\n\n- DraftKings sees triple-digit growth in Jackpocket sales 📈\n- Powerball's $1.8 billion jackpot drives ticket sales surge 💰\n- Huge jackpot creates major opportunity for DraftKings 🎯\n\nTAKEAWAY: The unprecedented Powerball jackpot is propelling DraftKings to triple-digit growth in Jackpocket sales, showcasing a lucrative opportunity for the platform.",
       "exported_at": "2025-09-05T12:36:07.692480",
+      "continuous_session": true
+    },
+    {
+      "title": "Powerball jackpot hits $1.8 billion. Here’s the tax bill if you win",
+      "link": "https://www.cnbc.com/2025/09/05/powerball-jackpot-tax-bill.html",
+      "summary": "The Powerball jackpot soared to an estimated $1.8 billion on Friday. Here's what the winner can expect to pay in taxes.",
+      "published": "Fri, 05 Sep 2025 16:38:15 GMT",
+      "content": "The Powerball jackpot soared to an estimated $1.8 billion on Friday. Here's what the winner can expect to pay in taxes.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "875aa8fc205644d28a8549b9f68ede1b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: POWERBALL JACKPOT REACHES $1.8 BILLION 🚀\n\n- Powerball jackpot hits staggering $1.8 billion 💰\n- Winner faces hefty tax bill on the massive prize 💸\n- Taxes on the jackpot will significantly impact the winnings 💰💸\n\nTAKEAWAY: The Powerball jackpot reaching $1.8 billion is thrilling, but the substantial tax bill awaiting the winner will impact the final payout significantly.",
+      "exported_at": "2025-09-05T12:41:11.780938",
       "continuous_session": true
     }
   ]
