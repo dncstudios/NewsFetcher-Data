@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-05T19:04:41.042592",
-    "total_articles": 334,
-    "new_articles_in_last_fetch": 334,
+    "created_at": "2025-09-05T19:19:50.592724",
+    "total_articles": 335,
+    "new_articles_in_last_fetch": 335,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -4346,6 +4346,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CRAMER'S WEEK AHEAD: NEW DATA AND APPLE'S iPHONE 🚀\n\n- CNBC's Jim Cramer previews upcoming week on Wall Street 📈\n- Investors anticipate release of Apple's latest iPhone 📱\n- Focus on new economic data shaping market trends 📊\n\nTAKEAWAY: Stay tuned as Jim Cramer navigates investors through a week filled with new economic data releases and Apple's highly awaited iPhone launch.",
       "exported_at": "2025-09-05T19:04:41.016045",
+      "continuous_session": true
+    },
+    {
+      "title": "Senate seeks to rein in stock tokenization in latest crypto bill draft",
+      "link": "https://www.cnbc.com/2025/09/05/senate-stock-tokenization-crypto-bill.html",
+      "summary": "Crypto companies like Coinbase and Ripple are pushing for the passage of a market structure bill.",
+      "published": "Fri, 05 Sep 2025 23:18:18 GMT",
+      "content": "Crypto companies like Coinbase and Ripple are pushing for the passage of a market structure bill.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "34b19e3a26b62786c50e7d1db88297ef",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SENATE MOVES TO LIMIT STOCK TOKENIZATION IN LATEST CRYPTO BILL DRAFT 🚨\n\n- Senate drafting bill to regulate stock tokenization in crypto 📜\n- Crypto giants Coinbase, Ripple advocate for market structure bill ✊\n- Push for passage amidst growing concerns over stock tokenization ⚠️\n\nTAKEAWAY: The Senate's move to regulate stock tokenization in the latest crypto bill draft is met with advocacy from industry leaders like Coinbase and Ripple, amidst rising concerns in the market.",
+      "exported_at": "2025-09-05T19:19:50.569540",
       "continuous_session": true
     }
   ]
