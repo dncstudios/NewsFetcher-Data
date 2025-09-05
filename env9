@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-05T08:53:46.142031",
-    "total_articles": 280,
-    "new_articles_in_last_fetch": 280,
+    "created_at": "2025-09-05T08:58:50.804265",
+    "total_articles": 281,
+    "new_articles_in_last_fetch": 281,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -3644,6 +3644,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: LUTNICK PREDICTS 'BETTER' JOB NUMBER ACCURACY AFTER TRUMP FIRED BLS CHIEF 🚀\n\n- Trump refuses to confirm credibility of BLS' upcoming jobs data 🤔\n- Lutnick optimistic about improved job number accuracy 🎯\n- Uncertainty lingers after Trump's decision to dismiss BLS chief ⚠️\n\nTAKEAWAY: Despite Trump's refusal to vouch for BLS' job data, Lutnick is hopeful for better accuracy following the chief's dismissal.",
       "exported_at": "2025-09-05T08:53:46.137460",
+      "continuous_session": true
+    },
+    {
+      "title": "Bank of America initiates Paramount Skydance at underperform, says &apos;big picture is cloudy&apos;",
+      "link": "https://www.cnbc.com/2025/09/05/bank-of-america-initiates-paramount-skydance-at-underperform-says-big-picture-is-cloudy.html",
+      "summary": "Analyst Jessica Ehrlich said the stock's risk-reward ratio appears unfavorable in the near term.",
+      "published": "Fri, 05 Sep 2025 12:51:10 GMT",
+      "content": "Analyst Jessica Ehrlich said the stock's risk-reward ratio appears unfavorable in the near term.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4b15bd327151f2b2cfe5afd07a0db491",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BANK OF AMERICA DOWNGRADES PARAMOUNT SKYDANCE, BIG PICTURE UNCERTAIN ⚠️\n\n- Bank of America rates Paramount Skydance as underperform 📉\n- Analyst Jessica Ehrlich sees unfavorable risk-reward ratio 📉\n- Near-term outlook for Paramount Skydance deemed cloudy ☁️\n\nTAKEAWAY: Bank of America's downgrade of Paramount Skydance highlights uncertainties in the stock's performance, cautioning investors about its near-term prospects.",
+      "exported_at": "2025-09-05T08:58:50.800001",
       "continuous_session": true
     }
   ]
