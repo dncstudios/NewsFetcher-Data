@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-05T16:08:07.451499",
-    "total_articles": 323,
-    "new_articles_in_last_fetch": 323,
+    "created_at": "2025-09-05T16:28:20.314235",
+    "total_articles": 325,
+    "new_articles_in_last_fetch": 325,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -4203,6 +4203,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP THREATENS TRADE PROBE AMID EU FINES AGAINST GOOGLE, APPLE ⚠️\n\n- Trump considers trade probe after EU fines on Google, Apple 💸\n- U.S. judge's ruling in antitrust case favors Alphabet 🏛️\n- Google CEO appreciates Trump during White House dinner 🍽️\n\nTAKEAWAY: Trump's potential trade probe in response to EU fines against Google and Apple, alongside Google CEO's gratitude, shape the tech industry landscape.",
       "exported_at": "2025-09-05T16:08:07.426096",
+      "continuous_session": true
+    },
+    {
+      "title": "Google leads monster week for tech, pushing megacaps to combined $21 trillion in market cap",
+      "link": "https://www.cnbc.com/2025/09/05/tech-megacaps-worth-market-cap.html",
+      "summary": "Tech's megacaps got bigger this week, and the eight trillion-dollar companies now make up a combined 36% of the S&amp;P 500.",
+      "published": "Fri, 05 Sep 2025 20:19:21 GMT",
+      "content": "Tech's megacaps got bigger this week, and the eight trillion-dollar companies now make up a combined 36% of the S&amp;P 500.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "adda05ce819fdaeffd404ae59fa2e56c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TECH MEGACAPS HIT $21 TRILLION MARKET CAP 🚀\n\n- Google spearheads tech surge with monster week 📈\n- 8 trillion-dollar companies now 36% of S&P 500 📊\n- Tech giants dominate stock market with massive growth 💪\n\nTAKEAWAY: Google and other tech giants drive market cap to $21 trillion, solidifying their dominance in the stock market.",
+      "exported_at": "2025-09-05T16:28:20.290031",
+      "continuous_session": true
+    },
+    {
+      "title": "New York Mayor Eric Adams to make &apos;important&apos; campaign announcement as Trump nomination floated",
+      "link": "https://www.cnbc.com/2025/09/05/new-york-mayor-eric-adams-to-make-important-campaign-announcement-as-trump-nomination-floated.html",
+      "summary": "President Trump has said he wants two candidates to drop out of the New York mayor's race to clear the way to beat Democratic nominee Zohran Mamdani.",
+      "published": "Fri, 05 Sep 2025 20:21:09 GMT",
+      "content": "President Trump has said he wants two candidates to drop out of the New York mayor's race to clear the way to beat Democratic nominee Zohran Mamdani.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "42728f4422c9c1f3d6b7b17f275c4908",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NEW YORK MAYOR ERIC ADAMS' BIG CAMPAIGN ANNOUNCEMENT 🚀\n\n- Trump aims to clear path to beat Democratic nominee Zohran Mamdani\n- Mayor Adams set to make a significant campaign declaration 🔥\n- Speculation rises as Trump suggests two candidates should withdraw\n\nTAKEAWAY: Mayor Eric Adams prepares for a major campaign move while Trump's influence in the NY mayor's race raises intrigue and speculation.",
+      "exported_at": "2025-09-05T16:28:20.290061",
       "continuous_session": true
     }
   ]
