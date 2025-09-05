@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-05T13:06:24.725874",
-    "total_articles": 313,
-    "new_articles_in_last_fetch": 313,
+    "created_at": "2025-09-05T13:16:31.067302",
+    "total_articles": 314,
+    "new_articles_in_last_fetch": 314,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -4073,6 +4073,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BROADCOM SOARS 15% AFTER SECURING $10B ORDER FROM OPENAI 🚀\n\n- Broadcom's stock surges 15% on $10B order for custom AI chips\n- Analysts speculate the customer is OpenAI\n- Fourth customer adds to Broadcom's impressive revenue stream\n\nTAKEAWAY: Broadcom's stock skyrockets as it secures a massive $10 billion order for custom AI chips, potentially from OpenAI, showcasing its strong position in the market.",
       "exported_at": "2025-09-05T13:06:24.708825",
+      "continuous_session": true
+    },
+    {
+      "title": "Buy this chemical manufacturer poised for a recovery, says Carter Worth",
+      "link": "https://www.cnbc.com/2025/09/05/buy-this-chemical-manufacturer-poised-for-a-recovery-says-carter-worth.html",
+      "summary": "Chart analyst Carter Worth breaks down the improving technical outlook on this stock.",
+      "published": "Fri, 05 Sep 2025 17:04:01 GMT",
+      "content": "Chart analyst Carter Worth breaks down the improving technical outlook on this stock.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "17e2895e6b5ff3aa871ff149a72a207c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CHEMICAL MANUFACTURER PRIMED FOR REBOUND, SAYS CHART ANALYST 💹\n\n- Carter Worth identifies stock with strong technical prospects 🔍\n- Company shows signs of recovery in the market 📈\n- Analyst's assessment points towards positive outlook 💡\n- Stock positioned for potential growth and improvement 🌱\n- Market signals indicate a favorable trajectory ahead 📈\n- Technical analysis highlights stock's positive momentum 🔍\n\nTAKEAWAY: Chart analyst Carter Worth's assessment points towards a promising recovery for this chemical manufacturer, supported by strong technical signals and positive market indicators.",
+      "exported_at": "2025-09-05T13:16:31.049056",
       "continuous_session": true
     }
   ]
