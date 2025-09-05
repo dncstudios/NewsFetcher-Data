@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-05T16:28:20.314235",
-    "total_articles": 325,
-    "new_articles_in_last_fetch": 325,
+    "created_at": "2025-09-05T16:33:24.956135",
+    "total_articles": 326,
+    "new_articles_in_last_fetch": 326,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -4229,6 +4229,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NEW YORK MAYOR ERIC ADAMS' BIG CAMPAIGN ANNOUNCEMENT 🚀\n\n- Trump aims to clear path to beat Democratic nominee Zohran Mamdani\n- Mayor Adams set to make a significant campaign declaration 🔥\n- Speculation rises as Trump suggests two candidates should withdraw\n\nTAKEAWAY: Mayor Eric Adams prepares for a major campaign move while Trump's influence in the NY mayor's race raises intrigue and speculation.",
       "exported_at": "2025-09-05T16:28:20.290061",
+      "continuous_session": true
+    },
+    {
+      "title": "Anthropic agrees to pay $1.5 billion to settle authors&apos; copyright lawsuit",
+      "link": "https://www.cnbc.com/2025/09/05/anthropic-to-pay-1point5-billion-to-settle-authors-copyright-lawsuit-.html",
+      "summary": "Authors had sued Anthropic, claiming the AI startup had illegally used their books to train its models.",
+      "published": "Fri, 05 Sep 2025 20:01:05 GMT",
+      "content": "Authors had sued Anthropic, claiming the AI startup had illegally used their books to train its models.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "538316caf10b2dd09834f057261d282d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ANTHROPIC SETTLES $1.5B COPYRIGHT LAWSUIT WITH AUTHORS 🚀\n\n- Anthropic to pay $1.5 billion to settle authors' copyright lawsuit 💸\n- Authors accused AI startup of using their books without permission 📚\n- Legal battle resolved with hefty settlement amount 💰\n\nTAKEAWAY: Anthropic's $1.5 billion settlement with authors over copyright infringement highlights the importance of respecting intellectual property rights in AI development.",
+      "exported_at": "2025-09-05T16:33:24.930708",
       "continuous_session": true
     }
   ]
