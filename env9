@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-05T10:39:52.256985",
-    "total_articles": 293,
-    "new_articles_in_last_fetch": 293,
+    "created_at": "2025-09-05T10:44:56.543424",
+    "total_articles": 295,
+    "new_articles_in_last_fetch": 295,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -3813,6 +3813,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: YIELDSTREET INFORMS INVESTORS OF LOSSES IN $89M MARINE LOANS ⚠️\n\n- $89 million in marine loans expected to incur losses\n- Previous defaults in real estate investments amounted to $78 million\n- Yieldstreet facing challenges with investment returns 📉\n\nTAKEAWAY: Yieldstreet's disclosure of losses in marine loans adds to previous defaults in real estate investments, raising concerns about investment returns.",
       "exported_at": "2025-09-05T10:39:52.252320",
+      "continuous_session": true
+    },
+    {
+      "title": "Job reports will get more accurate, Lutnick predicts before BLS reveals sluggish August hiring",
+      "link": "https://www.cnbc.com/2025/09/05/trump-bls-jobs-lutnick.html",
+      "summary": "President Donald Trump, asked Thursday night if he could commit to saying that BLS' upcoming jobs data would be credible, declined to do so.",
+      "published": "Fri, 05 Sep 2025 14:44:07 GMT",
+      "content": "President Donald Trump, asked Thursday night if he could commit to saying that BLS' upcoming jobs data would be credible, declined to do so.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "873e4691e5b1d0798d827b49e63c18b5",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: LUTNICK PREDICTS 'BETTER' JOB NUMBER ACCURACY AFTER TRUMP FIRED BLS CHIEF 🚀\n\n- Trump refuses to confirm credibility of BLS' upcoming jobs data 🤔\n- Lutnick optimistic about improved job number accuracy 🎯\n- Uncertainty lingers after Trump's decision to dismiss BLS chief ⚠️\n\nTAKEAWAY: Despite Trump's refusal to vouch for BLS' job data, Lutnick is hopeful for better accuracy following the chief's dismissal.",
+      "exported_at": "2025-09-05T10:44:56.539220",
+      "continuous_session": true
+    },
+    {
+      "title": "How to protect your record 2025 stock market portfolio gains from what could come next",
+      "link": "https://www.cnbc.com/2025/09/05/stock-market-investing-risk-portfolio-trading-changes.html",
+      "summary": "The stock market gains from the April low have ballooned the accounts of many investors, making the final stretch of the year a good time to think defensively.",
+      "published": "Fri, 05 Sep 2025 14:44:19 GMT",
+      "content": "The stock market gains from the April low have ballooned the accounts of many investors, making the final stretch of the year a good time to think defensively.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "11836f93199c0490c238f84983620545",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: HOW TO SAFEGUARD YOUR 2025 STOCK MARKET GAINS 🛡️\n\n- Stock market gains since April have soared 📈\n- Many investors' portfolios have grown substantially 💰\n- It's crucial to consider defensive strategies now 🛡️\n- Protect your gains as the year comes to a close 📆\n\nTAKEAWAY: Safeguard your record 2025 stock market gains by implementing defensive strategies as the year ends, ensuring your portfolio remains strong.",
+      "exported_at": "2025-09-05T10:44:56.539238",
       "continuous_session": true
     }
   ]
