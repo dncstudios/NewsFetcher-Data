@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-05T12:41:11.785344",
-    "total_articles": 310,
-    "new_articles_in_last_fetch": 310,
+    "created_at": "2025-09-05T13:06:24.725874",
+    "total_articles": 313,
+    "new_articles_in_last_fetch": 313,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -4034,6 +4034,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: POWERBALL JACKPOT REACHES $1.8 BILLION 🚀\n\n- Powerball jackpot hits staggering $1.8 billion 💰\n- Winner faces hefty tax bill on the massive prize 💸\n- Taxes on the jackpot will significantly impact the winnings 💰💸\n\nTAKEAWAY: The Powerball jackpot reaching $1.8 billion is thrilling, but the substantial tax bill awaiting the winner will impact the final payout significantly.",
       "exported_at": "2025-09-05T12:41:11.780938",
+      "continuous_session": true
+    },
+    {
+      "title": "Mortgage rates see biggest one-day drop in over a year",
+      "link": "https://www.cnbc.com/2025/09/05/mortgage-rates-drop.html",
+      "summary": "Mortgage rates plunged sharply following the release of a weaker-than-expected August employment report. Rates are now at the lowest level since October.",
+      "published": "Fri, 05 Sep 2025 16:58:39 GMT",
+      "content": "Mortgage rates plunged sharply following the release of a weaker-than-expected August employment report. Rates are now at the lowest level since October.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b2317718819aecd6ea124623b265138f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MORTGAGE RATES PLUMMET IN LARGEST ONE-DAY DROP IN OVER A YEAR 📉\n\n- Sharp decline in rates after disappointing August employment report 📉\n- Rates hit lowest point since October 📉\n- Positive news for potential homebuyers and homeowners looking to refinance ✅\n\nTAKEAWAY: The significant one-day drop in mortgage rates, triggered by a weak August employment report, presents a prime opportunity for homebuyers and refinancers. 🚀",
+      "exported_at": "2025-09-05T13:06:24.708778",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves midday: Broadcom, Quanex Building Products, Lululemon and more",
+      "link": "https://www.cnbc.com/2025/09/05/stocks-making-the-biggest-moves-midday-avgo-nx-lulu.html",
+      "summary": "These are the stocks posting the largest moves midday.",
+      "published": "Fri, 05 Sep 2025 17:04:43 GMT",
+      "content": "These are the stocks posting the largest moves midday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fe091a835c1f862e6ce3554a1ab166c9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS MAKING BIGGEST MIDDAY MOVES: BROADCOM, QUANEX, LULULEMON 🚀\n\n- Broadcom, Quanex Building Products, Lululemon show significant midday movement 📈\n- Market observes notable stock fluctuations during midday trading 📊\n- Investors closely monitor stock performance for potential opportunities 💰\n\nTAKEAWAY: Broadcom, Quanex Building Products, and Lululemon are among the top stocks making significant midday moves, attracting investor attention for potential gains.",
+      "exported_at": "2025-09-05T13:06:24.708811",
+      "continuous_session": true
+    },
+    {
+      "title": "Broadcom stock jumps 11% on new $10 billion customer that analysts say is OpenAI",
+      "link": "https://www.cnbc.com/2025/09/05/broadcom-avgo-stock-openai-earnings.html",
+      "summary": "Broadcom said  on its earnings call that it secured $10 billion in orders for its custom AI chips from a fourth customer.",
+      "published": "Fri, 05 Sep 2025 17:01:50 GMT",
+      "content": "Broadcom said  on its earnings call that it secured $10 billion in orders for its custom AI chips from a fourth customer.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7bd219f38761ac956c2d8081c6c5cf2c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BROADCOM SOARS 15% AFTER SECURING $10B ORDER FROM OPENAI 🚀\n\n- Broadcom's stock surges 15% on $10B order for custom AI chips\n- Analysts speculate the customer is OpenAI\n- Fourth customer adds to Broadcom's impressive revenue stream\n\nTAKEAWAY: Broadcom's stock skyrockets as it secures a massive $10 billion order for custom AI chips, potentially from OpenAI, showcasing its strong position in the market.",
+      "exported_at": "2025-09-05T13:06:24.708825",
       "continuous_session": true
     }
   ]
