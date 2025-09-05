@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-05T08:58:50.804265",
-    "total_articles": 281,
-    "new_articles_in_last_fetch": 281,
+    "created_at": "2025-09-05T09:13:59.965932",
+    "total_articles": 282,
+    "new_articles_in_last_fetch": 282,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -3657,6 +3657,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BANK OF AMERICA DOWNGRADES PARAMOUNT SKYDANCE, BIG PICTURE UNCERTAIN ⚠️\n\n- Bank of America rates Paramount Skydance as underperform 📉\n- Analyst Jessica Ehrlich sees unfavorable risk-reward ratio 📉\n- Near-term outlook for Paramount Skydance deemed cloudy ☁️\n\nTAKEAWAY: Bank of America's downgrade of Paramount Skydance highlights uncertainties in the stock's performance, cautioning investors about its near-term prospects.",
       "exported_at": "2025-09-05T08:58:50.800001",
+      "continuous_session": true
+    },
+    {
+      "title": "Jim Cramer&apos;s top 10 things to watch in the stock market Friday",
+      "link": "https://www.cnbc.com/2025/09/05/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday.html",
+      "summary": "Stock futures rose after a soft August jobs report raised expectations of a September rate cut.",
+      "published": "Fri, 05 Sep 2025 13:08:31 GMT",
+      "content": "Stock futures rose after a soft August jobs report raised expectations of a September rate cut.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fd255648f414ff54fc8717dbefd3e172",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JIM CRAMER'S STOCK MARKET WATCHLIST FOR FRIDAY 🚀\n\n- Stock futures surge post soft August jobs report 📈\n- Expectations rise for September rate cut 📈\n- Market optimism fueled by positive futures trend 🌟\n\nTAKEAWAY: Jim Cramer's top 10 watchlist items indicate a bullish sentiment as stock futures climb post soft August jobs report, hinting at a potential September rate cut.",
+      "exported_at": "2025-09-05T09:13:59.961945",
       "continuous_session": true
     }
   ]
