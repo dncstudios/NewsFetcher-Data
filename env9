@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-05T07:07:39.345320",
-    "total_articles": 266,
-    "new_articles_in_last_fetch": 266,
+    "created_at": "2025-09-05T07:12:43.985556",
+    "total_articles": 267,
+    "new_articles_in_last_fetch": 267,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -3462,6 +3462,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STARBUCKS REVAMPS 1,000 CAFES TO BOOST WELCOMING VIBE 🚀\n\n- 1,000 Starbucks cafes set for renovations by 2026 🏗️\n- Aim to enhance accessibility and welcoming atmosphere ✨\n- Strategic move to attract more customers 🎯\n- Focus on creating inclusive and inviting spaces 🪑\n- Improving customer experience through cafe redesigns 💫\n- Aligning with Starbucks' commitment to community engagement ✅\n\nTAKEAWAY: Starbucks plans to renovate 1,000 cafes by 2026 to create more inclusive and inviting spaces, enhancing the overall customer experience.",
       "exported_at": "2025-09-05T07:07:39.341373",
+      "continuous_session": true
+    },
+    {
+      "title": "S&amp;P 500 futures rise slightly ahead of August jobs report: Live updates",
+      "link": "https://www.cnbc.com/2025/09/04/stock-market-today-live-updates-.html",
+      "summary": "S&amp;P 500 futures ticked higher on Friday as investors prepare for a key nonfarm payrolls report.",
+      "published": "Fri, 05 Sep 2025 11:12:09 GMT",
+      "content": "S&amp;P 500 futures ticked higher on Friday as investors prepare for a key nonfarm payrolls report.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2d5373b5d6597250fbc6a798ec38f371",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: S&P 500 FUTURES EDGE UP AHEAD OF JOBS REPORT 📈\n\n- S&P 500 futures show slight increase before nonfarm payrolls 📈\n- Investors anticipate key data from August jobs report 📊\n- Market sentiment optimistic as futures tick higher 🌟\n\nTAKEAWAY: S&P 500 futures edge up in anticipation of crucial August jobs report, fueling investor optimism and market sentiment.",
+      "exported_at": "2025-09-05T07:12:43.981345",
       "continuous_session": true
     }
   ]
