@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-05T18:49:32.282018",
-    "total_articles": 333,
-    "new_articles_in_last_fetch": 333,
+    "created_at": "2025-09-05T19:04:41.042592",
+    "total_articles": 334,
+    "new_articles_in_last_fetch": 334,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -4333,6 +4333,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BITCOIN SURGES AS WEAK JOBS REPORT SPARKS RATE CUT HOPES 🚀\n\n- Bitcoin rises on news of lower-than-expected job growth in August \n- Market anticipates potential rate cuts due to dismal payrolls report\n- Crypto billionaire Justin Sun faces token freeze controversy\n- Sergey Nazarov of Chainlink shares insights from SEC Chair meeting\n- Investors eye Bitcoin's potential amid economic uncertainties\n- Speculation rises on impact of potential rate cuts on crypto market\n\nTAKEAWAY: Bitcoin's surge fueled by weak jobs report and rate cut hopes, while controversies and regulatory insights add intrigue to the crypto world.",
       "exported_at": "2025-09-05T18:49:32.256576",
+      "continuous_session": true
+    },
+    {
+      "title": "Cramer&apos;s week ahead: New economic data and Apple&apos;s latest iPhone",
+      "link": "https://www.cnbc.com/2025/09/05/cramers-week-ahead-new-economic-data-and-apples-latest-iphone.html",
+      "summary": "CNBC's Jim Cramer on Friday walked investors through next week on Wall Street.",
+      "published": "Fri, 05 Sep 2025 23:01:02 GMT",
+      "content": "CNBC's Jim Cramer on Friday walked investors through next week on Wall Street.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a9d83b1905c60f815ce6f461b9f00442",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CRAMER'S WEEK AHEAD: NEW DATA AND APPLE'S iPHONE 🚀\n\n- CNBC's Jim Cramer previews upcoming week on Wall Street 📈\n- Investors anticipate release of Apple's latest iPhone 📱\n- Focus on new economic data shaping market trends 📊\n\nTAKEAWAY: Stay tuned as Jim Cramer navigates investors through a week filled with new economic data releases and Apple's highly awaited iPhone launch.",
+      "exported_at": "2025-09-05T19:04:41.016045",
       "continuous_session": true
     }
   ]
