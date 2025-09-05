@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-05T11:00:07.430778",
-    "total_articles": 297,
-    "new_articles_in_last_fetch": 297,
+    "created_at": "2025-09-05T11:15:17.686961",
+    "total_articles": 299,
+    "new_articles_in_last_fetch": 299,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -3865,6 +3865,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JIM CRAMER'S TOP STOCK PICK POST-WEAK AUGUST JOBS REPORT 🚀\n\n- Cramer recommends a stock post-weak August jobs report 💡\n- 10-year treasury yield drops to lowest since April 7 📉\n- Market reacts to the disappointing jobs data 📉\n- Stock market volatility increases after the report 📈\n- Cramer's pick aligns with market conditions 💼\n- Investors seek opportunities in the current market 📈\n\nTAKEAWAY: Jim Cramer's stock recommendation post-weak August jobs report aligns with market conditions, offering potential opportunities for investors seeking to navigate market volatility.",
       "exported_at": "2025-09-05T11:00:07.426381",
+      "continuous_session": true
+    },
+    {
+      "title": "&apos;Off a cliff-edge&apos;: Why analysts say the job market has weakened — and what to do about it",
+      "link": "https://www.cnbc.com/2025/09/05/job-seekers-face-worst-game-of-musical-chairs.html",
+      "summary": "The August jobs report showed the labor market has significantly cooled and isn't presenting many opportunities for job seekers.",
+      "published": "Fri, 05 Sep 2025 15:13:54 GMT",
+      "content": "The August jobs report showed the labor market has significantly cooled and isn't presenting many opportunities for job seekers.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "56999230b3b0e60fd7bd654f6d3161b7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JOB MARKET COOLS: ANALYSTS WARN OF WEAKENED OPPORTUNITIES 📉\n\n- August jobs report reveals significant market cooling 🌡️\n- Fewer opportunities available for job seekers 🕵️‍♂️\n- Analysts urge proactive steps to address market weakness 📉\n\nTAKEAWAY: The recent job market cooling signals limited opportunities for job seekers, prompting analysts to recommend proactive measures to navigate the weakened landscape.",
+      "exported_at": "2025-09-05T11:15:17.682913",
+      "continuous_session": true
+    },
+    {
+      "title": "Powerball jackpot nears $2 billion—here&apos;s the after-tax payout in every U.S. state",
+      "link": "https://www.cnbc.com/2025/09/05/powerball-jackpot-close-to-2-billion-what-winners-keep-in-each-state.html",
+      "summary": "The jackpot has soared to $1.7 billion after 42 straight drawings without a winner.",
+      "published": "Fri, 05 Sep 2025 15:09:53 GMT",
+      "content": "The jackpot has soared to $1.7 billion after 42 straight drawings without a winner.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "24729d6f675473caafcde90de51c08af",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: POWERBALL JACKPOT SOARS TO $1.7 BILLION 🚀\n\n- Jackpot nears $2 billion after 42 drawings without a winner\n- After-tax payouts vary across U.S. states 🇺🇸\n- Massive anticipation for the record-breaking jackpot 💰\n- Winners face different tax implications based on location\n- Excitement builds as the jackpot continues to climb 🎉\n\nTAKEAWAY: With the Powerball jackpot reaching $1.7 billion, winners across U.S. states can expect varying after-tax payouts, adding to the excitement and anticipation of this record-breaking event.",
+      "exported_at": "2025-09-05T11:15:17.682922",
       "continuous_session": true
     }
   ]
