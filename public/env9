@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-05T17:13:46.051058",
-    "total_articles": 329,
-    "new_articles_in_last_fetch": 329,
+    "created_at": "2025-09-05T17:18:48.349882",
+    "total_articles": 330,
+    "new_articles_in_last_fetch": 330,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -4281,6 +4281,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FTC COMMISSIONER QUESTIONS SNAP AI CHATBOT COMPLAINT STATUS ⚠️\n\n- Snap AI chatbot complaint status under scrutiny by FTC Commissioner\n- President Trump's attempt to remove Commissioner Slaughter unsuccessful\n- U.S. appeals court ruling allows Slaughter to keep her FTC role\n\nTAKEAWAY: FTC Commissioner raises concerns over Snap AI chatbot complaint status, highlighting the need for transparency and accountability.",
       "exported_at": "2025-09-05T17:13:46.025868",
+      "continuous_session": true
+    },
+    {
+      "title": "New York Mayor Eric Adams refuses to drop out of race after Trump nomination floated",
+      "link": "https://www.cnbc.com/2025/09/05/new-york-mayor-eric-adams-to-make-important-campaign-announcement-as-trump-nomination-floated.html",
+      "summary": "President Trump has said he wants two candidates to drop out of the New York mayor's race to clear the way to beat Democratic nominee Zohran Mamdani.",
+      "published": "Fri, 05 Sep 2025 21:18:03 GMT",
+      "content": "President Trump has said he wants two candidates to drop out of the New York mayor's race to clear the way to beat Democratic nominee Zohran Mamdani.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "97270507f1d01e8aaecbc747f83662b3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NEW YORK MAYOR ERIC ADAMS' BIG CAMPAIGN ANNOUNCEMENT 🚀\n\n- Trump aims to clear path to beat Democratic nominee Zohran Mamdani\n- Mayor Adams set to make a significant campaign declaration 🔥\n- Speculation rises as Trump suggests two candidates should withdraw\n\nTAKEAWAY: Mayor Eric Adams prepares for a major campaign move while Trump's influence in the NY mayor's race raises intrigue and speculation.",
+      "exported_at": "2025-09-05T17:18:48.324442",
       "continuous_session": true
     }
   ]
