@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-05T10:24:39.985721",
-    "total_articles": 289,
-    "new_articles_in_last_fetch": 289,
+    "created_at": "2025-09-05T10:34:49.221510",
+    "total_articles": 292,
+    "new_articles_in_last_fetch": 292,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -3761,6 +3761,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: S&P 500 STRUGGLES AMID JOB MARKET WORRIES AND RATE CUT HOPES 🚨\n\n- Fragile rally crumbles in first hour of trading 📉\n- Traders balance rate cut hopes with economic slowdown fears ⚖️\n- Market shifts from optimism to concerns about job market 📉⚠️\n\nTAKEAWAY: The S&P 500 faces turbulence as traders struggle to balance hopes for a rate cut with concerns about a slowing economy and job market worries.",
       "exported_at": "2025-09-05T10:24:39.981163",
+      "continuous_session": true
+    },
+    {
+      "title": "Buffett&apos;s Berkshire Hathaway, Walmart among the companies with the most to gain from deploying AI",
+      "link": "https://www.cnbc.com/2025/09/05/buffetts-berkshire-hathaway-walmart-among-the-companies-with-the-most-to-gain-from-deploying-ai.html",
+      "summary": "Adam Parker and the Trivector team look at companies with a high employee count and low margins.",
+      "published": "Fri, 05 Sep 2025 14:27:50 GMT",
+      "content": "Adam Parker and the Trivector team look at companies with a high employee count and low margins.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b0e1301bc09be3cf2bae9ab2ebada22d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BERKSHIRE HATHAWAY & WALMART SET TO GAIN BIG FROM AI 🚀\n\n- Berkshire Hathaway and Walmart identified for AI deployment 🤖\n- Focus on high employee count, low margins for AI benefits ✅\n- Adam Parker & Trivector team analyze potential gains 📈\n\nTAKEAWAY: Berkshire Hathaway and Walmart stand out for significant AI benefits due to their high employee count and low margins, as highlighted by Adam Parker and the Trivector team.",
+      "exported_at": "2025-09-05T10:34:49.217418",
+      "continuous_session": true
+    },
+    {
+      "title": "Watchdog reveals new misconduct by jailed former FBI official and Chinese firm",
+      "link": "https://www.cnbc.com/2025/09/05/watchdog-reveals-new-misconduct-by-jailed-former-fbi-official-and-chinese-firm.html",
+      "summary": "Charles McGonigal tipped off a Chinese company that it was under FBI investigation, investigators found. James Biden also made inquiries into the probe but broke no laws.",
+      "published": "Fri, 05 Sep 2025 14:08:33 GMT",
+      "content": "Charles McGonigal tipped off a Chinese company that it was under FBI investigation, investigators found. James Biden also made inquiries into the probe but broke no laws.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "97be30fe444df33126da238f82d35e32",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WATCHDOG UNCOVERS MISCONDUCT INVOLVING FORMER FBI OFFICIAL AND CHINESE FIRM ⚠️\n\n- Charles McGonigal leaked FBI investigation info to Chinese firm 🕵️‍♂️\n- James Biden inquired about the probe, found not breaking laws ✅\n- Serious implications of the misconduct revealed 🚨\n\nTAKEAWAY: The watchdog's discovery of misconduct involving a former FBI official and a Chinese firm raises serious implications and scrutiny.",
+      "exported_at": "2025-09-05T10:34:49.217428",
+      "continuous_session": true
+    },
+    {
+      "title": "A trade that wins if rates keep going lower following the weak jobs figures",
+      "link": "https://www.cnbc.com/2025/09/05/a-trade-that-wins-if-rates-keep-going-lower-following-the-weak-jobs-figures.html",
+      "summary": "Jeff Kilburg lays out a risk reversal options trade on the 'TLT' ETF.",
+      "published": "Fri, 05 Sep 2025 14:11:19 GMT",
+      "content": "Jeff Kilburg lays out a risk reversal options trade on the 'TLT' ETF.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c28e7ec8bcbf85c269d76c644a52abd0",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: A TRADE WINNING ON RATE DROPS 📉\n\n- Jeff Kilburg suggests risk reversal options trade on 'TLT' ETF\n- Trade benefits if rates continue decreasing 📉\n- Strategy based on weak jobs figures impacting rates\n\nTAKEAWAY: Jeff Kilburg proposes a risk reversal options trade on 'TLT' ETF, anticipating gains if rates continue to decline post weak job figures.",
+      "exported_at": "2025-09-05T10:34:49.217431",
       "continuous_session": true
     }
   ]
