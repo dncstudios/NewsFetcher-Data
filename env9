@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-05T08:43:39.768012",
-    "total_articles": 279,
-    "new_articles_in_last_fetch": 279,
+    "created_at": "2025-09-05T08:53:46.142031",
+    "total_articles": 280,
+    "new_articles_in_last_fetch": 280,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -3631,6 +3631,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP RAISES SALT DEDUCTION LIMIT TO $40,000 FOR 2025 🚀\n\n- Trump's bill boosts SALT deduction limit to $40,000 💰\n- Financial experts advise on maximizing tax break 📈\n- Opportunity to optimize deductions for 2025 💡\n\nTAKEAWAY: Trump's increase of the SALT deduction limit to $40,000 for 2025 offers a prime chance for taxpayers to enhance their tax benefits with expert guidance.",
       "exported_at": "2025-09-05T08:43:39.763321",
+      "continuous_session": true
+    },
+    {
+      "title": "Lutnick predicts &apos;better&apos; job number accuracy after Trump fired BLS chief",
+      "link": "https://www.cnbc.com/2025/09/05/trump-bls-jobs-lutnick.html",
+      "summary": "President Donald Trump, asked Thursday night if he could commit to saying that BLS' upcoming jobs data would be credible, declined to do so.",
+      "published": "Fri, 05 Sep 2025 12:52:00 GMT",
+      "content": "President Donald Trump, asked Thursday night if he could commit to saying that BLS' upcoming jobs data would be credible, declined to do so.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6ac0617f02059171963c41d56d466352",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: LUTNICK PREDICTS 'BETTER' JOB NUMBER ACCURACY AFTER TRUMP FIRED BLS CHIEF 🚀\n\n- Trump refuses to confirm credibility of BLS' upcoming jobs data 🤔\n- Lutnick optimistic about improved job number accuracy 🎯\n- Uncertainty lingers after Trump's decision to dismiss BLS chief ⚠️\n\nTAKEAWAY: Despite Trump's refusal to vouch for BLS' job data, Lutnick is hopeful for better accuracy following the chief's dismissal.",
+      "exported_at": "2025-09-05T08:53:46.137460",
       "continuous_session": true
     }
   ]
