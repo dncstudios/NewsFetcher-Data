@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-05T08:23:18.639616",
-    "total_articles": 272,
-    "new_articles_in_last_fetch": 272,
+    "created_at": "2025-09-05T08:28:22.853614",
+    "total_articles": 273,
+    "new_articles_in_last_fetch": 273,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -3540,6 +3540,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: LULULEMON SHARES PLUNGE AS EARNINGS GUIDANCE DISAPPOINTS 🚨\n\n- Lululemon beats Q2 earnings and revenue estimates 💪\n- However, issues weak 2025 outlook 📉\n- Shares drop sharply in response to the guidance miss 📉\n- Investors concerned about future performance 🤔\n- Company faces pressure to meet long-term growth targets 📊\n- Guidance falls well short of analysts' expectations 📉\n\nTAKEAWAY: Despite beating Q2 estimates, Lululemon's disappointing 2025 outlook causes shares to plummet, raising concerns among investors about the company's future performance and growth targets.",
       "exported_at": "2025-09-05T08:23:18.634587",
+      "continuous_session": true
+    },
+    {
+      "title": "Lutnick predicts &apos;better&apos; job number accuracy after Trump fired BLS chief",
+      "link": "https://www.cnbc.com/2025/09/05/trump-bls-jobs-lutnick.html",
+      "summary": "Commerce Secretary Howard Lutnick predicted BLS jobs reports will be more accurate as a result of President Donald Trump former chief Erika McEntarfer.",
+      "published": "Fri, 05 Sep 2025 12:24:26 GMT",
+      "content": "Commerce Secretary Howard Lutnick predicted BLS jobs reports will be more accurate as a result of President Donald Trump former chief Erika McEntarfer.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "15823fa2676c0490b56df6d2481f09a7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: LUTNICK PREDICTS 'BETTER' JOB NUMBERS POST-TRUMP BLS CHIEF FIRING 🚀\n\n- Lutnick foresees more accurate BLS job reports 📊\n- Trump's dismissal of BLS chief expected to enhance data precision ✅\n- Commerce Secretary optimistic about future job number accuracy 🔮\n\nTAKEAWAY: Lutnick's optimistic forecast suggests improved job number accuracy post-Trump's BLS chief firing, signaling potential data precision enhancements.",
+      "exported_at": "2025-09-05T08:28:22.849393",
       "continuous_session": true
     }
   ]
