@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-05T13:16:31.067302",
-    "total_articles": 314,
-    "new_articles_in_last_fetch": 314,
+    "created_at": "2025-09-05T13:21:35.627551",
+    "total_articles": 315,
+    "new_articles_in_last_fetch": 315,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -4086,6 +4086,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CHEMICAL MANUFACTURER PRIMED FOR REBOUND, SAYS CHART ANALYST 💹\n\n- Carter Worth identifies stock with strong technical prospects 🔍\n- Company shows signs of recovery in the market 📈\n- Analyst's assessment points towards positive outlook 💡\n- Stock positioned for potential growth and improvement 🌱\n- Market signals indicate a favorable trajectory ahead 📈\n- Technical analysis highlights stock's positive momentum 🔍\n\nTAKEAWAY: Chart analyst Carter Worth's assessment points towards a promising recovery for this chemical manufacturer, supported by strong technical signals and positive market indicators.",
       "exported_at": "2025-09-05T13:16:31.049056",
+      "continuous_session": true
+    },
+    {
+      "title": "Judge dismisses Newsmax&apos;s lawsuit against Fox News, but says it can refile an amended version",
+      "link": "https://www.cnbc.com/2025/09/05/newsmax-fox-news-lawsuit-dismissed.html",
+      "summary": "A federal judge dismissed Newsmax's antitrust lawsuit against Fox News just two days after it was filed.",
+      "published": "Fri, 05 Sep 2025 17:19:54 GMT",
+      "content": "A federal judge dismissed Newsmax's antitrust lawsuit against Fox News just two days after it was filed.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "72315c2a8528bc3851a35155cea8d201",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JUDGE DISMISSES NEWSMAX'S LAWSUIT AGAINST FOX NEWS 🚨\n\n- Newsmax's antitrust lawsuit against Fox News dismissed by federal judge 📉\n- Dismissal comes only two days after the lawsuit was filed ⏰\n- Newsmax has the option to refile an amended version of the lawsuit 🔄\n\nTAKEAWAY: Newsmax's lawsuit against Fox News faces a setback as it gets dismissed by a federal judge, giving them an opportunity to refile an amended version.",
+      "exported_at": "2025-09-05T13:21:35.603467",
       "continuous_session": true
     }
   ]
