@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-05T05:46:16.335049",
-    "total_articles": 258,
-    "new_articles_in_last_fetch": 258,
+    "created_at": "2025-09-05T06:06:27.576779",
+    "total_articles": 260,
+    "new_articles_in_last_fetch": 260,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -3358,6 +3358,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: EUROPE STOCKS RISE AHEAD OF U.S. JOBS DATA 🚀\n\n- European markets up before crucial U.S. jobs report 📈\n- Investor focus on upcoming employment figures 🌍\n- Orsted gains 3% with shareholder support for rights issue ✅\n- Global anticipation for U.S. job data release 🌐\n- Market optimism evident in European stock trading 🌟\n\nTAKEAWAY: Europe's stock market rallies in anticipation of key U.S. jobs data, with Orsted's 3% rise supported by shareholder backing for rights issue.",
       "exported_at": "2025-09-05T05:46:16.330839",
+      "continuous_session": true
+    },
+    {
+      "title": "Stock futures are little changed ahead of August jobs report: Live updates",
+      "link": "https://www.cnbc.com/2025/09/04/stock-market-today-live-updates-.html",
+      "summary": "Stock futures were mixed Friday as investors prepare for a key nonfarm payrolls report.",
+      "published": "Fri, 05 Sep 2025 10:04:04 GMT",
+      "content": "Stock futures were mixed Friday as investors prepare for a key nonfarm payrolls report.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "33a0c0ae530212aebaa4fe0044c0dc88",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK FUTURES FLAT AHEAD OF JOBS REPORT 📉\n\n- Investors await crucial nonfarm payrolls report 📊\n- Stock futures show mixed signals on Friday 🔄\n- Market anticipates impact on trading day ⏳\n\nTAKEAWAY: Investors brace for market movements as stock futures remain stable before the release of the pivotal nonfarm payrolls report.",
+      "exported_at": "2025-09-05T06:06:27.572238",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump grows pessimistic about the prospect of ending the Russia-Ukraine war",
+      "link": "https://www.cnbc.com/2025/09/05/trump-grows-pessimistic-about-the-prospect-of-ending-the-russia-ukraine-war.html",
+      "summary": "Whirlwind peacemaking efforts last month appear to have stalled, and there's no sign that Putin and Zelenskyy will meet anytime soon.",
+      "published": "Fri, 05 Sep 2025 10:02:13 GMT",
+      "content": "Whirlwind peacemaking efforts last month appear to have stalled, and there's no sign that Putin and Zelenskyy will meet anytime soon.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "974badb5d8d72ea65ea4ea1e231506a9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP DOUBTS ENDING RUSSIA-UKRAINE WAR ⚠️\n\n- Peacemaking efforts stall, no Putin-Zelenskyy meeting soon 🛑\n- Trump grows pessimistic about war resolution 📉\n- Uncertainty surrounds Russia-Ukraine peace talks 🤔\n\nTAKEAWAY: Trump's pessimism grows as Russia-Ukraine war resolution efforts stall, raising uncertainty about future peace talks.",
+      "exported_at": "2025-09-05T06:06:27.572253",
       "continuous_session": true
     }
   ]
