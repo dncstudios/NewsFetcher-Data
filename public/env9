@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-05T13:41:48.880258",
-    "total_articles": 317,
-    "new_articles_in_last_fetch": 317,
+    "created_at": "2025-09-05T14:17:06.205682",
+    "total_articles": 318,
+    "new_articles_in_last_fetch": 318,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -4125,6 +4125,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NFL MVP JOSH ALLEN JOINS NEW BALANCE 🚀\n\n- Josh Allen ditches Nike for New Balance endorsement deal 💪\n- New Balance gains star athlete with Allen's MVP status 🌟\n- New Balance's roster includes big names like Coco Gauff, Shohei Ohtani 🏆\n- Coco Gauff, Shohei Ohtani, Cameron Brink also part of New Balance team 🏀\n- New Balance secures top athletes to elevate brand reputation 📈\n\nTAKEAWAY: NFL MVP Josh Allen's move to New Balance boosts the brand's profile, aligning with other top athletes like Coco Gauff and Shohei Ohtani. 🔥",
       "exported_at": "2025-09-05T13:41:48.855643",
+      "continuous_session": true
+    },
+    {
+      "title": "Kenvue stock drops 10% on report RFK Jr. will link autism to Tylenol use during pregnancy",
+      "link": "https://www.cnbc.com/2025/09/05/rfk-tylenol-autism-kenvue-stock-for-url.html",
+      "summary": "HHS will release the report that could draw that link between the pain medication and autism this month, according to the Wall Street Journal.",
+      "published": "Fri, 05 Sep 2025 18:14:56 GMT",
+      "content": "HHS will release the report that could draw that link between the pain medication and autism this month, according to the Wall Street Journal.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "89b220bb2fbe0d5adb194855df1666ad",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: KENVUE STOCK PLUNGES 10% AMID AUTISM-TYLENOL LINK RUMORS 📉\n\n- Kenvue stock falls 10% on fears of Tylenol-autism connection 💊🧠\n- Report linking Tylenol use during pregnancy to autism surfaces 📰\n- HHS set to unveil report on possible Tylenol-autism link soon 🗓️\n- Wall Street Journal hints at Tylenol-autism connection report 📰\n- Investors react as Kenvue stock takes a hit amidst Tylenol rumors 💥\n- Uncertainty looms as market awaits official Tylenol-autism findings 🤔\n\nTAKEAWAY: Kenvue's stock takes a 10% hit amid speculation of a potential link between Tylenol use during pregnancy and autism, creating uncertainty in the market.",
+      "exported_at": "2025-09-05T14:17:06.180755",
       "continuous_session": true
     }
   ]
