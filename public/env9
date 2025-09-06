@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-06T17:59:55.705579",
-    "total_articles": 357,
-    "new_articles_in_last_fetch": 357,
+    "created_at": "2025-09-06T18:15:03.885877",
+    "total_articles": 358,
+    "new_articles_in_last_fetch": 358,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -4645,6 +4645,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AIR CANADA FLIGHT ATTENDANTS REJECT WAGE AGREEMENT 🚨\n\n- Air Canada flight attendants reject wage deal 💸\n- Mediation expected to resolve bitter dispute ✈️\n- Overwhelming rejection by attendants 🚫\n\nTAKEAWAY: Air Canada flight attendants' rejection of the wage agreement signals a challenging mediation ahead to resolve the bitter dispute.",
       "exported_at": "2025-09-06T17:59:55.677069",
+      "continuous_session": true
+    },
+    {
+      "title": "Aryna Sabalenka beats American Amanda Anisimova to repeat as U.S. Open champion",
+      "link": "https://www.cnbc.com/2025/09/06/aryna-sabalenka-beats-american-amanda-anisimova-to-repeat-as-us-open-champion.html",
+      "summary": "The win marks Sabalenka's fourth Grand Slam title overall and second straight at the U.S. Open.",
+      "published": "Sat, 06 Sep 2025 22:09:04 GMT",
+      "content": "The win marks Sabalenka's fourth Grand Slam title overall and second straight at the U.S. Open.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "845314d5ba71ba254d40f56efb33c426",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ARYNA SABALENKA DEFENDS U.S. OPEN TITLE WITH VICTORY OVER AMANDA ANISIMOVA 🏆\n\n- Sabalenka secures her fourth Grand Slam victory 🎾\n- Back-to-back U.S. Open wins for Sabalenka 🏅\n- Anisimova falls short in the championship match 🚫\n- Sabalenka cements her dominance in the tennis world 🌟\n\nTAKEAWAY: Aryna Sabalenka's back-to-back U.S. Open wins solidify her as a force to be reckoned with in the tennis arena, marking her fourth Grand Slam title overall. 🎾🏆",
+      "exported_at": "2025-09-06T18:15:03.869240",
       "continuous_session": true
     }
   ]
