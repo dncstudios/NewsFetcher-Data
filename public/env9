@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-06T10:06:18.059426",
-    "total_articles": 350,
-    "new_articles_in_last_fetch": 350,
+    "created_at": "2025-09-06T10:11:23.635698",
+    "total_articles": 351,
+    "new_articles_in_last_fetch": 351,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -4554,6 +4554,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WARREN BUFFETT'S RARE CRITICISM OF KRAFT HEINZ RAISES EYEBROWS 🚨\n\n- Buffett's public criticism of Kraft Heinz is highly uncommon 🤯\n- Unusual move for the usually passive investor 🤔\n- Criticism may signal concerns about the company's performance 📉\n- Buffett's actions draw attention from investors and analysts 🧐\n\nTAKEAWAY: Warren Buffett's rare public criticism of Kraft Heinz stands out as an unconventional move, sparking interest and speculation among investors and analysts alike.",
       "exported_at": "2025-09-06T10:06:18.032738",
+      "continuous_session": true
+    },
+    {
+      "title": "18-year-old CEO learned to code at age 7—now he has a $1.4 million-a-month AI app",
+      "link": "https://www.cnbc.com/2025/09/06/cal-ai-how-a-teenage-ceo-built-a-fast-growing-calorie-tracking-app.html",
+      "summary": "Zach Yadegari is the teenage CEO and co-founder of Cal AI, a mobile app that uses AI to tell users how many calories are in a meal based on just a photo.",
+      "published": "Sat, 06 Sep 2025 14:05:02 GMT",
+      "content": "Zach Yadegari is the teenage CEO and co-founder of Cal AI, a mobile app that uses AI to tell users how many calories are in a meal based on just a photo.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "97c68a82fa2da2cf4c5621f85f461cff",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TEEN CEO'S $1.4M/MONTH AI APP IS REVOLUTIONIZING HEALTH 🚀\n\n- Zach Yadegari, 18, founded Cal AI, a $1.4M/month AI app 📱\n- App analyzes meal photos to estimate calorie content 🥗\n- Zach learned to code at 7, now leads a groundbreaking venture 🔥\n- Cal AI simplifies calorie tracking for health-conscious users ✅\n- Monthly revenue hits $1.4 million, showcasing app's success 💰\n- Zach's tech prowess and vision drive Cal AI's rapid growth ⚡️\n\nTAKEAWAY: Zach Yadegari's journey from coding prodigy to leading a $1.4M/month AI app exemplifies entrepreneurship and innovation at its finest.",
+      "exported_at": "2025-09-06T10:11:23.608659",
       "continuous_session": true
     }
   ]
