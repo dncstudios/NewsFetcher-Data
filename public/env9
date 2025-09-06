@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-06T13:12:41.245519",
-    "total_articles": 352,
-    "new_articles_in_last_fetch": 352,
+    "created_at": "2025-09-06T14:43:23.417110",
+    "total_articles": 353,
+    "new_articles_in_last_fetch": 353,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -4580,6 +4580,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: POSTAL TRAFFIC PLUNGES 80% TO U.S. AFTER TARIFF EXEMPTION ENDED 📉\n\n- U.S. postal traffic drops over 80% post-tariff exemption removal 📉\n- Trump administration's move impacts low-cost imports 📦\n- UN postal agency reports significant decline in inbound packages 📉\n- Impact felt after exemption on low-value parcels revoked 🚫\n\nTAKEAWAY: The Trump administration's decision to end the tariff exemption for low-cost imports led to a significant 80% drop in postal traffic into the U.S., impacting inbound packages.",
       "exported_at": "2025-09-06T13:12:41.217613",
+      "continuous_session": true
+    },
+    {
+      "title": "DOJ says names of two associates Epstein wired $100k and $250k to should stay secret",
+      "link": "https://www.cnbc.com/2025/09/06/epstein-doj-says-two-people-he-wired-thousands-to-should-stay-secret.html",
+      "summary": "The Justice Department request came after NBC News asked a federal judge to unseal the names of two people Epstein paid and helped protect from prosecution.",
+      "published": "Sat, 06 Sep 2025 18:41:52 GMT",
+      "content": "The Justice Department request came after NBC News asked a federal judge to unseal the names of two people Epstein paid and helped protect from prosecution.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "df4e13477a84e3a5a364f84c78619d6b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DOJ SEEKS TO KEEP EPSTEIN'S ASSOCIATES' IDENTITIES SECRET ⚠️\n\n- Justice Department fights to withhold names of Epstein's $100k and $250k beneficiaries\n- NBC News requests federal judge to reveal Epstein's protected associates\n- Legal battle ensues over disclosure of individuals aided by Epstein\n\nTAKEAWAY: The Justice Department's effort to keep Epstein's associates' identities hidden raises questions about transparency and accountability in the case.",
+      "exported_at": "2025-09-06T14:43:23.388470",
       "continuous_session": true
     }
   ]
