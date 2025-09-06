@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-06T01:42:37.590682",
-    "total_articles": 341,
-    "new_articles_in_last_fetch": 341,
+    "created_at": "2025-09-06T06:39:38.487839",
+    "total_articles": 342,
+    "new_articles_in_last_fetch": 342,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -4437,6 +4437,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BEHIND THE AI TALENT WAR: TECH GIANTS PAYING MILLIONS TO TOP HIRES 🚀\n\n- Tech giants invest billions in AI model development 💰\n- Talent acquisition crucial in AI arms race 🤖\n- Companies competing fiercely for top AI experts 💥\n- High salaries offered to attract top AI talent 💸\n- Demand for AI specialists continues to rise 📈\n- Intense battle for skilled professionals in AI sector 🔥\n\nTAKEAWAY: Tech giants are fiercely competing and investing heavily in acquiring top AI talent to gain a competitive edge in the rapidly evolving field of artificial intelligence.",
       "exported_at": "2025-09-06T01:42:37.564927",
+      "continuous_session": true
+    },
+    {
+      "title": "Israeli military urges Gaza City residents to leave",
+      "link": "https://www.cnbc.com/2025/09/06/israeli-military-urges-gaza-city-residents-to-leave.html",
+      "summary": "The assault threatens to displace hundreds of thousands of Palestinians sheltering there from nearly two years of fighting.",
+      "published": "Sat, 06 Sep 2025 10:11:19 GMT",
+      "content": "The assault threatens to displace hundreds of thousands of Palestinians sheltering there from nearly two years of fighting.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "59894b609dd5391c5608bd8ca48dd9d5",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ISRAELI MILITARY URGES GAZA CITY RESIDENTS TO LEAVE ⚠️\n\n- Israeli military warns Gaza City residents of impending danger 🚨\n- Assault puts hundreds of thousands of Palestinians at risk 😟\n- Urgent call to evacuate due to escalating conflict 📢\n\nTAKEAWAY: Israeli military's urgent call for Gaza City residents to evacuate highlights the escalating danger and risk faced by Palestinians in the region.",
+      "exported_at": "2025-09-06T06:39:38.463591",
       "continuous_session": true
     }
   ]
