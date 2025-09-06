@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-06T09:10:43.932495",
-    "total_articles": 344,
-    "new_articles_in_last_fetch": 344,
+    "created_at": "2025-09-06T09:15:53.561791",
+    "total_articles": 348,
+    "new_articles_in_last_fetch": 348,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -4476,6 +4476,58 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: GOLDMAN'S TOP STOCK PICKS WITH STRONG EARNINGS POWER 🚀\n\n- Goldman Sachs analysts recommend stocks with 'earnings power' 💪\n- Focus on companies showing strong potential for future profits 📈\n- Emphasize buying stocks with solid earnings growth prospects ✅\n- Analysts believe these stocks have significant growth potential 📊\n\nTAKEAWAY: Goldman Sachs highlights stocks with robust 'earnings power' as strong buy opportunities for investors looking for growth.",
       "exported_at": "2025-09-06T09:10:43.908432",
+      "continuous_session": true
+    },
+    {
+      "title": "Nvidia&apos;s breakdown, dismal jobs report and other ills fail to slow down this bull market by much yet",
+      "link": "https://www.cnbc.com/2025/09/06/nvidias-breakdown-dismal-jobs-report-and-other-ills-fail-to-slow-down-this-bull-market-by-much-yet.html",
+      "summary": "Mike Santoli breaks down Friday's interesting action following the weak jobs report.",
+      "published": "Sat, 06 Sep 2025 13:03:24 GMT",
+      "content": "Mike Santoli breaks down Friday's interesting action following the weak jobs report.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "43449d6a0e82444cd0ec3b18a719d488",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NVIDIA'S SETBACKS AND WEAK JOBS REPORT FAIL TO DAMPEN BULL MARKET 🚀\n\n- Despite Nvidia's breakdown, bull market remains resilient 💪\n- Weak jobs report fails to slow down market momentum 📉\n- Analyst Mike Santoli analyzes Friday's market action 📊\n\nTAKEAWAY: Despite setbacks like Nvidia's and a weak jobs report, the bull market continues with resilience and momentum.",
+      "exported_at": "2025-09-06T09:15:53.535297",
+      "continuous_session": true
+    },
+    {
+      "title": "Elliott&apos;s plan for PepsiCo includes investing in some of its iconic brands, shedding others",
+      "link": "https://www.cnbc.com/2025/09/06/elliotts-plan-for-pepsico-includes-investing-in-some-of-its-iconic-brands-shedding-others.html",
+      "summary": "Elliott Investment Management says PepsiCo neglected its core soda brands and is selling way too many products.",
+      "published": "Sat, 06 Sep 2025 13:00:34 GMT",
+      "content": "Elliott Investment Management says PepsiCo neglected its core soda brands and is selling way too many products.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "994c117279c412636df4bf8cb2c3e04e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ELLIOTT'S PLAN TO REVAMP PEPSICO BRAND PORTFOLIO 🚀\n\n- Elliott Investment Management criticizes PepsiCo's neglect of core soda brands 🥤\n- Proposal includes shedding some products to focus on iconic brands 💪\n- Calls for streamlining to boost profitability and market share 📈\n- PepsiCo urged to prioritize key products for sustainable growth ✅\n- Emphasis on strategic divestitures to optimize brand portfolio 🎯\n- Elliott aims to drive value creation through focused investments ⚡️\n\nTAKEAWAY: Elliott's strategic plan for PepsiCo involves refocusing on core brands, shedding non-essential products, and prioritizing key investments for sustainable growth and increased profitability.",
+      "exported_at": "2025-09-06T09:15:53.535340",
+      "continuous_session": true
+    },
+    {
+      "title": "Alphabet and these two other stocks are overbought with the market near all-time highs",
+      "link": "https://www.cnbc.com/2025/09/06/alphabet-and-these-two-other-stocks-are-overbought-with-the-market-near-all-time-highs.html",
+      "summary": "The S&amp;P 500 closed at a record on Thursday, as traders tied bets on risk assets to hopes for a September interest rate cut from the Federal Reserve.",
+      "published": "Sat, 06 Sep 2025 12:58:38 GMT",
+      "content": "The S&amp;P 500 closed at a record on Thursday, as traders tied bets on risk assets to hopes for a September interest rate cut from the Federal Reserve.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "23ff00d6703fdb24a7358b9ed324b304",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ALPHABET AND 2 OTHER STOCKS OVERBOUGHT AS MARKET HITS ALL-TIME HIGHS 🚀\n\n- Alphabet and 2 other stocks show signs of being overbought 📈\n- S&P 500 hits record high on Thursday 📈\n- Traders bet on risk assets anticipating a September rate cut ⚡️\n\nTAKEAWAY: Alphabet and 2 other stocks are overbought as the market reaches all-time highs, fueled by expectations of a September interest rate cut by the Federal Reserve.",
+      "exported_at": "2025-09-06T09:15:53.535352",
+      "continuous_session": true
+    },
+    {
+      "title": "Self-made millionaire money coach: &apos;I could buy a house in cash today&apos;—why I rent instead",
+      "link": "https://www.cnbc.com/2025/09/06/self-made-millionaire-has-owned-4-homes-but-chooses-to-rent.html",
+      "summary": "Bernadette Joy has heard all of the money advice favoring homeownership. She says renting makes more sense for her — and many of her clients.",
+      "published": "Sat, 06 Sep 2025 13:00:01 GMT",
+      "content": "Bernadette Joy has heard all of the money advice favoring homeownership. She says renting makes more sense for her — and many of her clients.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b890d95bb85b19f5c4018f7365e1f1d7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SELF-MADE MILLIONAIRE MONEY COACH SHARES WHY RENTING MAKES MORE SENSE 💸\n\n- Bernadette Joy defies homeownership norms with renting decision 🏠\n- Challenges traditional money advice in favor of renting over buying 🔄\n- Believes renting aligns better with her financial goals and lifestyle 🌟\n\nTAKEAWAY: Bernadette Joy, a self-made millionaire money coach, challenges conventional wisdom by opting to rent instead of buy, showcasing a unique approach to personal finance.",
+      "exported_at": "2025-09-06T09:15:53.535365",
       "continuous_session": true
     }
   ]
