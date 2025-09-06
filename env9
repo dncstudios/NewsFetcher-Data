@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-06T17:24:39.306337",
-    "total_articles": 356,
-    "new_articles_in_last_fetch": 356,
+    "created_at": "2025-09-06T17:59:55.705579",
+    "total_articles": 357,
+    "new_articles_in_last_fetch": 357,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -4632,6 +4632,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: OPENAI PROJECTS $115 BILLION CASH BURN BY 2029, RAMPING UP AI SPENDING 🚀\n\n- OpenAI increases cash burn projection to $115 billion by 2029 💸\n- Spending surge to enhance ChatGPT chatbot AI capabilities 🤖\n- Focus on investing in cutting-edge AI technology 💡\n\nTAKEAWAY: OpenAI's ambitious AI spending plans signal a commitment to innovation and technology advancement despite significant projected cash burn.",
       "exported_at": "2025-09-06T17:24:39.282848",
+      "continuous_session": true
+    },
+    {
+      "title": "Air Canada flight attendants reject wage agreement",
+      "link": "https://www.cnbc.com/2025/09/06/air-canada-flight-attendants-reject-wage-agreement.html",
+      "summary": "Air Canada flight attendants overwhelmingly rejected a wage agreement on Saturday, with a bitter wage dispute now expected to be worked out through mediation.",
+      "published": "Sat, 06 Sep 2025 21:56:07 GMT",
+      "content": "Air Canada flight attendants overwhelmingly rejected a wage agreement on Saturday, with a bitter wage dispute now expected to be worked out through mediation.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ac3d69161525018463f12b9bdb8e0b9f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AIR CANADA FLIGHT ATTENDANTS REJECT WAGE AGREEMENT 🚨\n\n- Air Canada flight attendants reject wage deal 💸\n- Mediation expected to resolve bitter dispute ✈️\n- Overwhelming rejection by attendants 🚫\n\nTAKEAWAY: Air Canada flight attendants' rejection of the wage agreement signals a challenging mediation ahead to resolve the bitter dispute.",
+      "exported_at": "2025-09-06T17:59:55.677069",
       "continuous_session": true
     }
   ]
