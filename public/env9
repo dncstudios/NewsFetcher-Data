@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-05T19:55:07.032403",
-    "total_articles": 336,
-    "new_articles_in_last_fetch": 336,
+    "created_at": "2025-09-05T20:00:11.894772",
+    "total_articles": 337,
+    "new_articles_in_last_fetch": 337,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -4372,6 +4372,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: APPLE SUED OVER USING BOOKS FOR AI TRAINING ⚠️\n\n- Authors file lawsuit against Apple for alleged copyright infringement 📚\n- Accusations claim Apple used books to train AI systems illegally ⚖️\n- Lawsuit signifies a growing legal battle over intellectual property rights 💼\n\nTAKEAWAY: Authors take legal action against Apple for allegedly using their copyrighted books to train AI, highlighting the evolving challenges in protecting intellectual property in the AI age.",
       "exported_at": "2025-09-05T19:55:07.007276",
+      "continuous_session": true
+    },
+    {
+      "title": "Bill Pulte accused Fed Governor Lisa Cook of fraud. His relatives filed housing claims similar to hers: Reuters",
+      "link": "https://www.cnbc.com/2025/09/05/bill-pulte-accused-fed-governor-lisa-cook-of-fraud-his-relatives-filed-housing-claims-similar-to-hers-reuters.html",
+      "summary": "Close relatives of the federal official who has accused a Federal Reserve governor of improperly claiming primary residence on two properties have declared the same status on two homes in two different states, public records show.",
+      "published": "Fri, 05 Sep 2025 23:58:00 GMT",
+      "content": "Close relatives of the federal official who has accused a Federal Reserve governor of improperly claiming primary residence on two properties have declared the same status on two homes in two different states, public records show.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "32859d72382d63c6cf1a41e8be4a029e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BILL PULTE ACCUSES FED GOVERNOR LISA COOK OF FRAUD 🚨\n\n- Fed Governor Lisa Cook accused of improper primary residence claims 🏡\n- Relatives of Cook filed similar claims on two homes in different states 🏠\n- Public records reveal close relatives' declarations 📋\n- Allegations point towards potential fraud implications 🔍\n- Accusations raise concerns over ethical conduct in housing claims 🏘️\n\nTAKEAWAY: Accusations of fraud by Bill Pulte against Fed Governor Lisa Cook, involving housing claims, highlight potential ethical concerns and implications.",
+      "exported_at": "2025-09-05T20:00:11.869023",
       "continuous_session": true
     }
   ]
