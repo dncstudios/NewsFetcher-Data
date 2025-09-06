@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-06T09:15:53.561791",
-    "total_articles": 348,
-    "new_articles_in_last_fetch": 348,
+    "created_at": "2025-09-06T09:20:57.758824",
+    "total_articles": 349,
+    "new_articles_in_last_fetch": 349,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -4528,6 +4528,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SELF-MADE MILLIONAIRE MONEY COACH SHARES WHY RENTING MAKES MORE SENSE 💸\n\n- Bernadette Joy defies homeownership norms with renting decision 🏠\n- Challenges traditional money advice in favor of renting over buying 🔄\n- Believes renting aligns better with her financial goals and lifestyle 🌟\n\nTAKEAWAY: Bernadette Joy, a self-made millionaire money coach, challenges conventional wisdom by opting to rent instead of buy, showcasing a unique approach to personal finance.",
       "exported_at": "2025-09-06T09:15:53.535365",
+      "continuous_session": true
+    },
+    {
+      "title": "7 traits of highly successful people like Taylor Swift—they don&apos;t &apos;dabble in things that aren&apos;t important&apos; to them: Harvard-trained expert",
+      "link": "https://www.cnbc.com/2025/09/06/7-traits-highly-successful-people-like-taylor-swift-share-theyre-unicorns-says-expert.html",
+      "summary": "Economist and investor Sinéad O'Sullivan explores the traits shared by highly successful people, citing Taylor Swift as a prime example.",
+      "published": "Sat, 06 Sep 2025 13:00:01 GMT",
+      "content": "Economist and investor Sinéad O'Sullivan explores the traits shared by highly successful people, citing Taylor Swift as a prime example.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9240f4ee78854a24f97d3b8ba959ee72",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 7 TRAITS OF HIGHLY SUCCESSFUL PEOPLE LIKE TAYLOR SWIFT REVEALED 🚀\n\n- Economist reveals key traits of successful individuals 💼\n- Taylor Swift exemplifies traits linked to success 🌟\n- Successful people focus on what truly matters to them 🧐\n\nTAKEAWAY: Economist Sinéad O'Sullivan uncovers 7 key traits that highly successful people like Taylor Swift possess, emphasizing the importance of focusing on what truly matters.",
+      "exported_at": "2025-09-06T09:20:57.745402",
       "continuous_session": true
     }
   ]
