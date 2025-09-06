@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-06T07:40:05.550633",
-    "total_articles": 343,
-    "new_articles_in_last_fetch": 343,
+    "created_at": "2025-09-06T09:10:43.932495",
+    "total_articles": 344,
+    "new_articles_in_last_fetch": 344,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -4463,6 +4463,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: GOLD HITS RECORD HIGH 🚀\n\n- Interest surges in physical gold & gold investments 💰\n- Experts advise on investing in gold during rally 📈\n- Precious metal's value attracts investors 🌟\n- Key considerations before investing in gold ✅\n- Market sees increased demand for gold assets 📊\n\nTAKEAWAY: With gold hitting record highs, experts recommend considering gold investments as interest in the precious metal continues to soar.",
       "exported_at": "2025-09-06T07:40:05.524220",
+      "continuous_session": true
+    },
+    {
+      "title": "Goldman says these stocks have &apos;earnings power&apos; so buy them now",
+      "link": "https://www.cnbc.com/2025/09/06/five-stocks-goldman-sachs-says-to-buy-now.html",
+      "summary": "Goldman Sachs analysts say they like stocks that have 'earnings power.'",
+      "published": "Sat, 06 Sep 2025 12:56:35 GMT",
+      "content": "Goldman Sachs analysts say they like stocks that have 'earnings power.'",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a88cbb1de38224c8489f23b10e017026",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GOLDMAN'S TOP STOCK PICKS WITH STRONG EARNINGS POWER 🚀\n\n- Goldman Sachs analysts recommend stocks with 'earnings power' 💪\n- Focus on companies showing strong potential for future profits 📈\n- Emphasize buying stocks with solid earnings growth prospects ✅\n- Analysts believe these stocks have significant growth potential 📊\n\nTAKEAWAY: Goldman Sachs highlights stocks with robust 'earnings power' as strong buy opportunities for investors looking for growth.",
+      "exported_at": "2025-09-06T09:10:43.908432",
       "continuous_session": true
     }
   ]
