@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-05T20:25:24.450878",
-    "total_articles": 338,
-    "new_articles_in_last_fetch": 338,
+    "created_at": "2025-09-05T20:50:35.406141",
+    "total_articles": 339,
+    "new_articles_in_last_fetch": 339,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -4398,6 +4398,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NEW YORK MAYOR ADAMS STANDS STRONG AGAINST TRUMP'S NOMINATION TALK 🚨\n\n- Mayor Adams refuses to drop out despite pressure from Trump 🗽\n- Trump aims to clear path to defeat Democratic nominee Mamdani 🎯\n- Adams blasts Cuomo after Trump's nomination suggestion 💥\n- Intense political dynamics in New York mayoral race 🌟\n\nTAKEAWAY: Mayor Adams' resilience against Trump's pressure and political drama in the New York mayoral race intensify, setting the stage for a heated battle.",
       "exported_at": "2025-09-05T20:25:24.424683",
+      "continuous_session": true
+    },
+    {
+      "title": "New York Mayor Adams refuses to quit race, blasts Cuomo after Trump nomination talk",
+      "link": "https://www.cnbc.com/2025/09/05/new-york-mayor-eric-adams-to-make-important-campaign-announcement-as-trump-nomination-floated.html",
+      "summary": "President Donald Trump wants two candidates to drop out of the New York mayoral race to clear the way to beat Democratic nominee Zohran Mamdani.",
+      "published": "Sat, 06 Sep 2025 00:48:01 GMT",
+      "content": "President Donald Trump wants two candidates to drop out of the New York mayoral race to clear the way to beat Democratic nominee Zohran Mamdani.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f920d41fb47dced21f23d0434191c97c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NEW YORK MAYOR ADAMS STANDS STRONG AGAINST TRUMP'S NOMINATION TALK 🚨\n\n- Mayor Adams refuses to drop out despite pressure from Trump 🗽\n- Trump aims to clear path to defeat Democratic nominee Mamdani 🎯\n- Adams blasts Cuomo after Trump's nomination suggestion 💥\n- Intense political dynamics in New York mayoral race 🌟\n\nTAKEAWAY: Mayor Adams' resilience against Trump's pressure and political drama in the New York mayoral race intensify, setting the stage for a heated battle.",
+      "exported_at": "2025-09-05T20:50:35.379270",
       "continuous_session": true
     }
   ]
