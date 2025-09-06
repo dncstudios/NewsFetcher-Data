@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-06T14:43:23.417110",
-    "total_articles": 353,
-    "new_articles_in_last_fetch": 353,
+    "created_at": "2025-09-06T14:48:28.292481",
+    "total_articles": 354,
+    "new_articles_in_last_fetch": 354,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -4593,6 +4593,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: DOJ SEEKS TO KEEP EPSTEIN'S ASSOCIATES' IDENTITIES SECRET ⚠️\n\n- Justice Department fights to withhold names of Epstein's $100k and $250k beneficiaries\n- NBC News requests federal judge to reveal Epstein's protected associates\n- Legal battle ensues over disclosure of individuals aided by Epstein\n\nTAKEAWAY: The Justice Department's effort to keep Epstein's associates' identities hidden raises questions about transparency and accountability in the case.",
       "exported_at": "2025-09-06T14:43:23.388470",
+      "continuous_session": true
+    },
+    {
+      "title": "5 facts a dermatologist wants you to know about sunscreen: Using it is just as important as brushing your teeth, he says",
+      "link": "https://www.cnbc.com/2025/09/06/5-facts-a-dermatologist-wants-you-know-about-sunscreen.html",
+      "summary": "There are many misconceptions about sunscreen. Here are a few facts that may surprise you from dermatologist Dr. Adam Friedman.",
+      "published": "Sat, 06 Sep 2025 15:00:01 GMT",
+      "content": "There are many misconceptions about sunscreen. Here are a few facts that may surprise you from dermatologist Dr. Adam Friedman.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f10661a9b4ebc0c78db9c884ea647ed3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 5 FACTS ABOUT SUNSCREEN TO PROTECT YOUR SKIN 🌞\n\n- Sunscreen crucial like brushing teeth, says Dr. Adam Friedman\n- SPF 30+ shields against 97% UVB rays, not 100% ☀️\n- Reapply every 2 hours, after swimming or sweating 🏊‍♂️\n- Dark skin still needs protection, not immune to sun damage 🌚\n- Sunscreen prevents skin cancer, premature aging 🦠\n\nTAKEAWAY: Dr. Adam Friedman stresses the importance of sunscreen, debunking myths to protect all skin types from sun damage and aging.",
+      "exported_at": "2025-09-06T14:48:28.265179",
       "continuous_session": true
     }
   ]
