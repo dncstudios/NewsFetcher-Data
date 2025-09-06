@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-06T01:37:32.123006",
-    "total_articles": 340,
-    "new_articles_in_last_fetch": 340,
+    "created_at": "2025-09-06T01:42:37.590682",
+    "total_articles": 341,
+    "new_articles_in_last_fetch": 341,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -4424,6 +4424,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: HOW HIGHER BOND YIELDS IMPACT MORTGAGES & STOCKS 🚨\n\n- Rising government bond yields increase borrowing costs 📈\n- Mortgage rates surge, impacting homebuyers 🏠\n- Corporate borrowing faces pressure with higher costs 💼\n- Stock market volatility due to rising bond yields 📉\n- Investors monitor bond yield movements closely 🧐\n\nTAKEAWAY: Increasing government bond yields create ripple effects on mortgages, corporate borrowing, and stock market volatility, prompting investors to stay vigilant.",
       "exported_at": "2025-09-06T01:37:32.096815",
+      "continuous_session": true
+    },
+    {
+      "title": "Behind the AI talent war: Why tech giants are paying millions to top hires",
+      "link": "https://www.cnbc.com/2025/09/06/ai-talent-war-tech-giants-pay-talent-millions-of-dollars.html",
+      "summary": "It costs billions of dollars to build artificial intelligence models, and tech companies are battling for talent to get ahead in the AI arms race.",
+      "published": "Sat, 06 Sep 2025 05:39:35 GMT",
+      "content": "It costs billions of dollars to build artificial intelligence models, and tech companies are battling for talent to get ahead in the AI arms race.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0fad93867379811d5f1295867f8f13b1",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BEHIND THE AI TALENT WAR: TECH GIANTS PAYING MILLIONS TO TOP HIRES 🚀\n\n- Tech giants invest billions in AI model development 💰\n- Talent acquisition crucial in AI arms race 🤖\n- Companies competing fiercely for top AI experts 💥\n- High salaries offered to attract top AI talent 💸\n- Demand for AI specialists continues to rise 📈\n- Intense battle for skilled professionals in AI sector 🔥\n\nTAKEAWAY: Tech giants are fiercely competing and investing heavily in acquiring top AI talent to gain a competitive edge in the rapidly evolving field of artificial intelligence.",
+      "exported_at": "2025-09-06T01:42:37.564927",
       "continuous_session": true
     }
   ]
