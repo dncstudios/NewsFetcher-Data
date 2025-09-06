@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-06T06:39:38.487839",
-    "total_articles": 342,
-    "new_articles_in_last_fetch": 342,
+    "created_at": "2025-09-06T07:40:05.550633",
+    "total_articles": 343,
+    "new_articles_in_last_fetch": 343,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -4450,6 +4450,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ISRAELI MILITARY URGES GAZA CITY RESIDENTS TO LEAVE ⚠️\n\n- Israeli military warns Gaza City residents of impending danger 🚨\n- Assault puts hundreds of thousands of Palestinians at risk 😟\n- Urgent call to evacuate due to escalating conflict 📢\n\nTAKEAWAY: Israeli military's urgent call for Gaza City residents to evacuate highlights the escalating danger and risk faced by Palestinians in the region.",
       "exported_at": "2025-09-06T06:39:38.463591",
+      "continuous_session": true
+    },
+    {
+      "title": "Gold is on a record run — here&apos;s how to invest, according to experts",
+      "link": "https://www.cnbc.com/2025/09/06/how-to-invest-in-gold-amid-record-run.html",
+      "summary": "Interest in physical gold and gold-related financial investments has soared amid the precious metal's recent rally. Here’s what to know before diving in.",
+      "published": "Sat, 06 Sep 2025 11:00:01 GMT",
+      "content": "Interest in physical gold and gold-related financial investments has soared amid the precious metal's recent rally. Here’s what to know before diving in.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "19a2b50e1f40ac8505a9ec6e35f3ada4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GOLD HITS RECORD HIGH 🚀\n\n- Interest surges in physical gold & gold investments 💰\n- Experts advise on investing in gold during rally 📈\n- Precious metal's value attracts investors 🌟\n- Key considerations before investing in gold ✅\n- Market sees increased demand for gold assets 📊\n\nTAKEAWAY: With gold hitting record highs, experts recommend considering gold investments as interest in the precious metal continues to soar.",
+      "exported_at": "2025-09-06T07:40:05.524220",
       "continuous_session": true
     }
   ]
