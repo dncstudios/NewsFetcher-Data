@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-06T14:48:28.292481",
-    "total_articles": 354,
-    "new_articles_in_last_fetch": 354,
+    "created_at": "2025-09-06T17:24:39.306337",
+    "total_articles": 356,
+    "new_articles_in_last_fetch": 356,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -4606,6 +4606,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: 5 FACTS ABOUT SUNSCREEN TO PROTECT YOUR SKIN 🌞\n\n- Sunscreen crucial like brushing teeth, says Dr. Adam Friedman\n- SPF 30+ shields against 97% UVB rays, not 100% ☀️\n- Reapply every 2 hours, after swimming or sweating 🏊‍♂️\n- Dark skin still needs protection, not immune to sun damage 🌚\n- Sunscreen prevents skin cancer, premature aging 🦠\n\nTAKEAWAY: Dr. Adam Friedman stresses the importance of sunscreen, debunking myths to protect all skin types from sun damage and aging.",
       "exported_at": "2025-09-06T14:48:28.265179",
+      "continuous_session": true
+    },
+    {
+      "title": "Microsoft says Azure cloud computing service disrupted by fiber cuts in the Red Sea",
+      "link": "https://www.cnbc.com/2025/09/06/microsoft-azure-cloud-computing-service-disrupted-red-sea-fiber-cuts.html",
+      "summary": "Microsoft said its Microsoft Azure users may experience increased latency due to multiple undersea fiber cuts in the Red Sea.",
+      "published": "Sat, 06 Sep 2025 21:23:13 GMT",
+      "content": "Microsoft said its Microsoft Azure users may experience increased latency due to multiple undersea fiber cuts in the Red Sea.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "14c9d55df3b7112f1393054536d3e8fc",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MICROSOFT'S AZURE CLOUD SERVICE HIT BY RED SEA FIBER CUTS ⚠️\n\n- Multiple undersea fiber cuts in Red Sea impact Azure users 🌊\n- Microsoft warns of increased latency for Azure customers ⏳\n- Disruption in Azure cloud service due to fiber cuts 🔌\n\nTAKEAWAY: Microsoft Azure users face latency issues as undersea fiber cuts in the Red Sea disrupt the cloud service.",
+      "exported_at": "2025-09-06T17:24:39.282808",
+      "continuous_session": true
+    },
+    {
+      "title": "OpenAI expects business to burn $115 billion through 2029, The Information reports",
+      "link": "https://www.cnbc.com/2025/09/06/openai-business-to-burn-115-billion-through-2029-the-information.html",
+      "summary": "OpenAI raised projected cash burn through 2029 to $115 billion as it ramps up spending to power the AI behind its popular ChatGPT chatbot, The Information reported.",
+      "published": "Sat, 06 Sep 2025 21:19:05 GMT",
+      "content": "OpenAI raised projected cash burn through 2029 to $115 billion as it ramps up spending to power the AI behind its popular ChatGPT chatbot, The Information reported.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1e8b08b487f007c33578594cc5d83c79",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: OPENAI PROJECTS $115 BILLION CASH BURN BY 2029, RAMPING UP AI SPENDING 🚀\n\n- OpenAI increases cash burn projection to $115 billion by 2029 💸\n- Spending surge to enhance ChatGPT chatbot AI capabilities 🤖\n- Focus on investing in cutting-edge AI technology 💡\n\nTAKEAWAY: OpenAI's ambitious AI spending plans signal a commitment to innovation and technology advancement despite significant projected cash burn.",
+      "exported_at": "2025-09-06T17:24:39.282848",
       "continuous_session": true
     }
   ]
