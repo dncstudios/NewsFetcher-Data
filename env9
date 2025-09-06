@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-06T09:20:57.758824",
-    "total_articles": 349,
-    "new_articles_in_last_fetch": 349,
+    "created_at": "2025-09-06T10:06:18.059426",
+    "total_articles": 350,
+    "new_articles_in_last_fetch": 350,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -4541,6 +4541,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: 7 TRAITS OF HIGHLY SUCCESSFUL PEOPLE LIKE TAYLOR SWIFT REVEALED 🚀\n\n- Economist reveals key traits of successful individuals 💼\n- Taylor Swift exemplifies traits linked to success 🌟\n- Successful people focus on what truly matters to them 🧐\n\nTAKEAWAY: Economist Sinéad O'Sullivan uncovers 7 key traits that highly successful people like Taylor Swift possess, emphasizing the importance of focusing on what truly matters.",
       "exported_at": "2025-09-06T09:20:57.745402",
+      "continuous_session": true
+    },
+    {
+      "title": "Warren Buffett&apos;s public Kraft Heinz criticism is extremely unusual for the typically passive owner",
+      "link": "https://www.cnbc.com/2025/09/06/warren-buffetts-public-kraft-heinz-criticism-is-extremely-unusual-for-the-typically-passive-owner.html",
+      "summary": "Alex Crippen on the latest Warren Buffett news for the Warren Buffett Watch newsletter.",
+      "published": "Sat, 06 Sep 2025 13:55:37 GMT",
+      "content": "Alex Crippen on the latest Warren Buffett news for the Warren Buffett Watch newsletter.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e3a64cff7372a0826f41dcc78fbd3695",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WARREN BUFFETT'S RARE CRITICISM OF KRAFT HEINZ RAISES EYEBROWS 🚨\n\n- Buffett's public criticism of Kraft Heinz is highly uncommon 🤯\n- Unusual move for the usually passive investor 🤔\n- Criticism may signal concerns about the company's performance 📉\n- Buffett's actions draw attention from investors and analysts 🧐\n\nTAKEAWAY: Warren Buffett's rare public criticism of Kraft Heinz stands out as an unconventional move, sparking interest and speculation among investors and analysts alike.",
+      "exported_at": "2025-09-06T10:06:18.032738",
       "continuous_session": true
     }
   ]
