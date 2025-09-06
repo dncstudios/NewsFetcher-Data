@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-05T20:00:11.894772",
-    "total_articles": 337,
-    "new_articles_in_last_fetch": 337,
+    "created_at": "2025-09-05T20:25:24.450878",
+    "total_articles": 338,
+    "new_articles_in_last_fetch": 338,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -4385,6 +4385,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BILL PULTE ACCUSES FED GOVERNOR LISA COOK OF FRAUD 🚨\n\n- Fed Governor Lisa Cook accused of improper primary residence claims 🏡\n- Relatives of Cook filed similar claims on two homes in different states 🏠\n- Public records reveal close relatives' declarations 📋\n- Allegations point towards potential fraud implications 🔍\n- Accusations raise concerns over ethical conduct in housing claims 🏘️\n\nTAKEAWAY: Accusations of fraud by Bill Pulte against Fed Governor Lisa Cook, involving housing claims, highlight potential ethical concerns and implications.",
       "exported_at": "2025-09-05T20:00:11.869023",
+      "continuous_session": true
+    },
+    {
+      "title": "New York Mayor Adams refuses to drop out of race, blasts Cuomo after Trump nomination talk",
+      "link": "https://www.cnbc.com/2025/09/05/new-york-mayor-eric-adams-to-make-important-campaign-announcement-as-trump-nomination-floated.html",
+      "summary": "President Donald Trump wants two candidates to drop out of the New York mayoral race to clear the way to beat Democratic nominee Zohran Mamdani.",
+      "published": "Sat, 06 Sep 2025 00:24:07 GMT",
+      "content": "President Donald Trump wants two candidates to drop out of the New York mayoral race to clear the way to beat Democratic nominee Zohran Mamdani.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "765a78048459ebd11415596d589f596e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NEW YORK MAYOR ADAMS STANDS STRONG AGAINST TRUMP'S NOMINATION TALK 🚨\n\n- Mayor Adams refuses to drop out despite pressure from Trump 🗽\n- Trump aims to clear path to defeat Democratic nominee Mamdani 🎯\n- Adams blasts Cuomo after Trump's nomination suggestion 💥\n- Intense political dynamics in New York mayoral race 🌟\n\nTAKEAWAY: Mayor Adams' resilience against Trump's pressure and political drama in the New York mayoral race intensify, setting the stage for a heated battle.",
+      "exported_at": "2025-09-05T20:25:24.424683",
       "continuous_session": true
     }
   ]
