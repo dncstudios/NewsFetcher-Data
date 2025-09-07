@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-07T06:30:15.217846",
-    "total_articles": 366,
-    "new_articles_in_last_fetch": 366,
+    "created_at": "2025-09-07T06:40:21.782025",
+    "total_articles": 367,
+    "new_articles_in_last_fetch": 367,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -4762,6 +4762,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: POWERBALL JACKPOT WINNERS IN MISSOURI & TEXAS SPLIT $1.8B 🎉\n\n- Missouri and Texas players share $1.8 billion jackpot 💰\n- Jackpot claimed after Saturday's Powerball draw 🎉\n- Winners to split the massive prize equally 💸\n\nTAKEAWAY: Powerball players from Missouri and Texas struck it big, sharing the massive $1.8 billion jackpot equally. 🚀",
       "exported_at": "2025-09-07T06:30:15.188566",
+      "continuous_session": true
+    },
+    {
+      "title": "Undersea cables cut in the Red Sea, disrupting internet access in Asia and the Mideast",
+      "link": "https://www.cnbc.com/2025/09/07/red-sea-cables-cut-disrupting-internet-access-in-asia-and-the-mideast.html",
+      "summary": "Undersea cable cuts in the Red Sea disrupted internet access in parts of Asia and the Middle East, experts said Sunday.",
+      "published": "Sun, 07 Sep 2025 10:38:37 GMT",
+      "content": "Undersea cable cuts in the Red Sea disrupted internet access in parts of Asia and the Middle East, experts said Sunday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0d2d6fe097b75d48692d483af0a19d33",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: UNDERSEA CABLES CUT IN RED SEA CAUSING INTERNET DISRUPTION 🚨\n\n- Red Sea undersea cable cuts disrupt Asia and Middle East internet 🌐\n- Experts confirm disruption in internet access due to cable cuts ⚠️\n\nTAKEAWAY: The undersea cable cuts in the Red Sea have caused significant disruptions in internet access across Asia and the Middle East, highlighting the vulnerability of global connectivity.",
+      "exported_at": "2025-09-07T06:40:21.752976",
       "continuous_session": true
     }
   ]
