@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-07T16:35:00.475748",
-    "total_articles": 381,
-    "new_articles_in_last_fetch": 381,
+    "created_at": "2025-09-07T18:05:42.883982",
+    "total_articles": 382,
+    "new_articles_in_last_fetch": 382,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -4957,6 +4957,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SINNER-ALCARAZ U.S. OPEN FINAL DELAYED DUE TO SECURITY MEASURES 🚨\n\n- U.S. Open men's final delayed over 30 mins 🕒\n- Security measures enforced with Trump in Arthur Ashe Stadium 🏟️\n- Spectators express mixed reactions with cheers and boos 🎭\n- Tight security protocols impacted match start ⚠️\n- Delay attributed to President Trump's presence 🇺🇸\n- Final match kick-off delayed due to security concerns 🚷\n\nTAKEAWAY: The Sinner-Alcaraz U.S. Open final faced a significant delay as security measures were tightened with President Trump present, causing mixed reactions from spectators.",
       "exported_at": "2025-09-07T16:35:00.445303",
+      "continuous_session": true
+    },
+    {
+      "title": "Stock futures are little changed as Wall Street awaits key inflation data: Live updates",
+      "link": "https://www.cnbc.com/2025/09/07/stock-market-today-live-updates.html",
+      "summary": "The data will be a key gauge of how resilient the economy really is and whether stocks can continue to trade at record highs.",
+      "published": "Sun, 07 Sep 2025 22:04:22 GMT",
+      "content": "The data will be a key gauge of how resilient the economy really is and whether stocks can continue to trade at record highs.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ace530d43cfda661b0e625aa4a2bf5f0",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK FUTURES STABLE AHEAD OF CRUCIAL INFLATION DATA 📊\n\n- Market awaits pivotal inflation data for economic resilience 📈\n- Investors watch for impact on record-high stock trading 📈\n- Inflation figures to determine market trajectory 📊\n\nTAKEAWAY: Wall Street remains cautiously stable as investors eagerly await crucial inflation data to gauge economic resilience and stock market trajectory.",
+      "exported_at": "2025-09-07T18:05:42.853122",
       "continuous_session": true
     }
   ]
