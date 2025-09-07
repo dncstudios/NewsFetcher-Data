@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-07T11:17:39.982314",
-    "total_articles": 378,
-    "new_articles_in_last_fetch": 378,
+    "created_at": "2025-09-07T15:34:29.602311",
+    "total_articles": 379,
+    "new_articles_in_last_fetch": 379,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -4918,6 +4918,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: OPEC+ AGREES ON OCTOBER OIL OUTPUT BOOST 🚀\n\n- OPEC+ to increase oil production in October 🛢️\n- Saudi Arabia leading the push to regain market share 🇸🇦\n- Decision aims to meet rising global demand 📈\n- Move signifies confidence in market recovery 📈\n- Impact on oil prices and energy market dynamics 📊\n\nTAKEAWAY: OPEC+ decision to boost oil output in October led by Saudi Arabia reflects confidence in market recovery and aims to meet increasing global demand.",
       "exported_at": "2025-09-07T11:17:39.976399",
+      "continuous_session": true
+    },
+    {
+      "title": "Treasury Secretary Bessent warns of massive refunds if the Supreme Court voids Trump tariffs",
+      "link": "https://www.cnbc.com/2025/09/07/trump-trade-supreme-court-refunds-bessent.html",
+      "summary": "Bessent has warned that a delayed ruling \"could result in a scenario in which $750 billion-$1 trillion in tariffs have already been collected.\"",
+      "published": "Sun, 07 Sep 2025 19:32:56 GMT",
+      "content": "Bessent has warned that a delayed ruling \"could result in a scenario in which $750 billion-$1 trillion in tariffs have already been collected.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d9142b0804cfacdc017ee0316ca27efb",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TREASURY SECRETARY WARNS OF $1 TRILLION REFUNDS IF TARIFFS VOIDED ⚠️\n\n- Bessent cautions on potential $750B-$1T refund scenario 💸\n- Supreme Court delay may lead to massive tariff repayments 📉\n- Uncertain outcome could impact collected tariff revenues 💰\n\nTAKEAWAY: Treasury Secretary's warning of potential $1 trillion refunds if tariffs are voided highlights the financial risk and uncertainty looming over the situation.",
+      "exported_at": "2025-09-07T15:34:29.573329",
       "continuous_session": true
     }
   ]
