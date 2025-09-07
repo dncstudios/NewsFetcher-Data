@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-07T08:01:11.307627",
-    "total_articles": 374,
-    "new_articles_in_last_fetch": 374,
+    "created_at": "2025-09-07T09:21:48.620882",
+    "total_articles": 376,
+    "new_articles_in_last_fetch": 376,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -4866,6 +4866,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WHY TJ MAXX KEEPS WINNING AS TARIFFS BOOST DEMAND 🚀\n\n- Tariff-induced higher prices push consumers to seek value 📈\n- TJ Maxx stands out with flexible product range 🎯\n- Off-price retailers, like TJ Maxx, poised for gains 💰\n- Investors favor TJ Maxx for its consistent offerings 💪\n\nTAKEAWAY: TJ Maxx's adaptability and value-focused strategy position them as a top performer amidst tariff-driven demand for affordable options in retail.",
       "exported_at": "2025-09-07T08:01:11.278565",
+      "continuous_session": true
+    },
+    {
+      "title": "Poll: Trump&apos;s job ratings stay negative; Americans express strong support for vaccines",
+      "link": "https://www.cnbc.com/2025/09/07/trump-job-ratings-negative-americans-stronly-support-vaccines-poll.html",
+      "summary": "Trump's overall approval sits at 43%, while 78% said they support the use of vaccines. Inflation and the cost of living are the top economic concerns.",
+      "published": "Sun, 07 Sep 2025 13:19:03 GMT",
+      "content": "Trump's overall approval sits at 43%, while 78% said they support the use of vaccines. Inflation and the cost of living are the top economic concerns.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3b28302f82d268bdd14745248c2c82e8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: POLL: TRUMP'S APPROVAL AT 43%, STRONG VACCINE SUPPORT 🚀\n\n- Trump's approval rating remains at 43% 📉\n- 78% of Americans back vaccine use 💉\n- Inflation and living costs top economic worries 💸\n- Public sentiment towards vaccines is overwhelmingly positive ✅\n- Persistent negative job ratings for Trump 📉\n- Economic concerns center on rising inflation and living expenses ⚠️\n\nTAKEAWAY: Despite Trump's approval stagnation, a strong 78% support for vaccines reflects positive public health sentiment, while economic worries focus on inflation and living costs.",
+      "exported_at": "2025-09-07T09:21:48.615409",
+      "continuous_session": true
+    },
+    {
+      "title": "Pediatrician: The No. 1 way new parents help their kids become healthy and successful—you can &apos;set up the foundation&apos; early",
+      "link": "https://www.cnbc.com/2025/09/07/pediatrician-how-sleep-hygiene-helps-parents-raise-successful-kids.html",
+      "summary": "Teaching newborns healthy sleeping habits can set them up for long-term health and success, says pediatrician and bestselling author Dr. Daniel Golshevsky.",
+      "published": "Sun, 07 Sep 2025 13:05:02 GMT",
+      "content": "Teaching newborns healthy sleeping habits can set them up for long-term health and success, says pediatrician and bestselling author Dr. Daniel Golshevsky.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "de733b3ee98f839a372dc37f61b3d8e3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PEDIATRICIAN REVEALS THE KEY TO RAISING HEALTHY, SUCCESSFUL KIDS 🚀\n\n- Dr. Golshevsky emphasizes teaching newborns healthy sleep habits\n- Early foundation in sleep crucial for long-term health and success\n- New parents can positively impact children's future through sleep education\n- Setting up healthy sleep habits early leads to better overall well-being\n- Dr. Golshevsky's advice focuses on long-term benefits for children\n- Healthy sleeping routines contribute significantly to children's success\n\nTAKEAWAY: By prioritizing and teaching newborns healthy sleep habits early on, parents can set the foundation for their children's long-term health and success.",
+      "exported_at": "2025-09-07T09:21:48.615424",
       "continuous_session": true
     }
   ]
