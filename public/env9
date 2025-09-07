@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-07T06:55:32.214322",
-    "total_articles": 369,
-    "new_articles_in_last_fetch": 369,
+    "created_at": "2025-09-07T07:00:37.221325",
+    "total_articles": 370,
+    "new_articles_in_last_fetch": 370,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -4801,6 +4801,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WALL STREET'S DILEMMA: FED RATE CUT HOPES VS. SLOWING JOBS GROWTH 🚨\n\n- S&amp;P 500, Nasdaq reach record highs before August jobs report dip 📈\n- Market optimism shifts to concern over weakening job growth 📉\n- Fed rate cut expectations clash with disappointing employment data ⚔️\n- Investors face uncertainty amid conflicting market signals 🤷‍♂️\n- Wall Street experiences volatility post-record highs 🎢\n\nTAKEAWAY: Wall Street's optimism for a Fed rate cut conflicts with concerns over slowing jobs growth, leading to market volatility and investor uncertainty.",
       "exported_at": "2025-09-07T06:55:32.185230",
+      "continuous_session": true
+    },
+    {
+      "title": "What to know about putting your student loan payments on pause",
+      "link": "https://www.cnbc.com/2025/09/07/student-loan-deferments-forbearances.html",
+      "summary": "As more student loan borrowers press the pause button on their monthly bills, here's what to know about the benefits and risks of doing so.",
+      "published": "Sun, 07 Sep 2025 11:00:01 GMT",
+      "content": "As more student loan borrowers press the pause button on their monthly bills, here's what to know about the benefits and risks of doing so.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e29ed61c28b45fe52081cd5af731e602",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WHAT TO KNOW ABOUT PAUSING STUDENT LOAN PAYMENTS ⚠️\n\n- Student loan borrowers opt to pause monthly payments 📉\n- Benefits of pausing payments include temporary relief ✅\n- Risks involved in pausing payments should be considered ⚠️\n- Important to weigh pros and cons before deciding 🤔\n\nTAKEAWAY: Understanding the benefits and risks of pausing student loan payments is crucial for borrowers seeking temporary relief.",
+      "exported_at": "2025-09-07T07:00:37.190475",
       "continuous_session": true
     }
   ]
