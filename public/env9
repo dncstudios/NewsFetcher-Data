@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-07T05:24:45.879812",
-    "total_articles": 364,
-    "new_articles_in_last_fetch": 364,
+    "created_at": "2025-09-07T05:29:48.459987",
+    "total_articles": 365,
+    "new_articles_in_last_fetch": 365,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -4736,6 +4736,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JAPAN PM ISHIBA SHIGERU RESIGNS 🚨\n\n- Ishiba resigns after LDP loses majority in lower house election\n- Calls for resignation grow after election setback\n- Uncertainty looms over Japan's political future\n\nTAKEAWAY: Ishiba Shigeru's resignation following LDP's election loss raises uncertainty about Japan's political landscape.",
       "exported_at": "2025-09-07T05:24:45.851081",
+      "continuous_session": true
+    },
+    {
+      "title": "Japan Prime Minister Ishiba Shigeru says he will step down after election setback",
+      "link": "https://www.cnbc.com/2025/09/07/japan-prime-minister-ishiba-shigeru-announces-his-resignation.html",
+      "summary": "Ishiba had faced calls for his resignation after the ruling Liberal Democratic Party failed to secure a majority in the lower house election on Oct. 27.",
+      "published": "Sun, 07 Sep 2025 09:29:35 GMT",
+      "content": "Ishiba had faced calls for his resignation after the ruling Liberal Democratic Party failed to secure a majority in the lower house election on Oct. 27.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fe36e748aee9efb575e155556b35d763",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JAPAN PM ISHIBA SHIGERU RESIGNS 🚨\n\n- Ishiba resigns after LDP loses majority in lower house election\n- Calls for resignation grow after election setback\n- Uncertainty looms over Japan's political future\n\nTAKEAWAY: Ishiba Shigeru's resignation following LDP's election loss raises uncertainty about Japan's political landscape.",
+      "exported_at": "2025-09-07T05:29:48.430702",
       "continuous_session": true
     }
   ]
