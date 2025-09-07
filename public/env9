@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-07T15:34:29.602311",
-    "total_articles": 379,
-    "new_articles_in_last_fetch": 379,
+    "created_at": "2025-09-07T15:59:42.522539",
+    "total_articles": 380,
+    "new_articles_in_last_fetch": 380,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -4931,6 +4931,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TREASURY SECRETARY WARNS OF $1 TRILLION REFUNDS IF TARIFFS VOIDED ⚠️\n\n- Bessent cautions on potential $750B-$1T refund scenario 💸\n- Supreme Court delay may lead to massive tariff repayments 📉\n- Uncertain outcome could impact collected tariff revenues 💰\n\nTAKEAWAY: Treasury Secretary's warning of potential $1 trillion refunds if tariffs are voided highlights the financial risk and uncertainty looming over the situation.",
       "exported_at": "2025-09-07T15:34:29.573329",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump ready for &apos;phase two&apos; of Russia sanctions over Ukraine conflict",
+      "link": "https://www.cnbc.com/2025/09/07/trump-ready-for-phase-two-of-russia-sanctions-over-ukraine-conflict.html",
+      "summary": "U.S. President Donald Trump said on Sunday he is ready to move to a second phase of sanctioning Russia.",
+      "published": "Sun, 07 Sep 2025 19:56:35 GMT",
+      "content": "U.S. President Donald Trump said on Sunday he is ready to move to a second phase of sanctioning Russia.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c25a5b479581a6d8feaceb9465afa70b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP SET FOR 'PHASE TWO' OF RUSSIA SANCTIONS 🚀\n\n- Trump announces readiness for next phase of Russia sanctions 💪\n- Second round of sanctions in response to Ukraine conflict 🇺🇦\n- Move signifies escalating tensions between U.S. and Russia 📈\n- Details on specific sanctions or timeline not disclosed 🤔\n\nTAKEAWAY: Trump's declaration of entering 'phase two' of Russia sanctions in response to the Ukraine conflict hints at escalating tensions between the two nations.",
+      "exported_at": "2025-09-07T15:59:42.494078",
       "continuous_session": true
     }
   ]
