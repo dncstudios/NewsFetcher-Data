@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-07T11:12:35.185617",
-    "total_articles": 377,
-    "new_articles_in_last_fetch": 377,
+    "created_at": "2025-09-07T11:17:39.982314",
+    "total_articles": 378,
+    "new_articles_in_last_fetch": 378,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -4905,6 +4905,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AI REVOLUTIONIZING CAREER PATHS: THE END OF THE LADDER AS WE KNOW IT ⚡️\n\n- AI disrupts traditional career progression paths 🔄\n- Entry-level jobs disappearing due to automation 🤖\n- CEO success stories tied to entry-level roles at risk 📉\n- Workers face uncertainty as AI reshapes job landscape ⚠️\n- Adaptation and upskilling crucial for future job security ✅\n- Traditional career ladders evolving in the age of AI 🚀\n\nTAKEAWAY: AI's impact on entry-level jobs is reshaping career trajectories, emphasizing the need for adaptability and upskilling in a rapidly changing job market.",
       "exported_at": "2025-09-07T11:12:35.180343",
+      "continuous_session": true
+    },
+    {
+      "title": "OPEC+ agrees on a further oil output boost in October to regain market share",
+      "link": "https://www.cnbc.com/2025/09/07/opec-agrees-to-oil-output-increase-in-october.html",
+      "summary": "OPEC+ has agreed to further raise oil production from October as its leader, Saudi Arabia, pushes to regain market share.",
+      "published": "Sun, 07 Sep 2025 15:04:37 GMT",
+      "content": "OPEC+ has agreed to further raise oil production from October as its leader, Saudi Arabia, pushes to regain market share.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "830dbc655d57b3e6712931fee03318b8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: OPEC+ AGREES ON OCTOBER OIL OUTPUT BOOST 🚀\n\n- OPEC+ to increase oil production in October 🛢️\n- Saudi Arabia leading the push to regain market share 🇸🇦\n- Decision aims to meet rising global demand 📈\n- Move signifies confidence in market recovery 📈\n- Impact on oil prices and energy market dynamics 📊\n\nTAKEAWAY: OPEC+ decision to boost oil output in October led by Saudi Arabia reflects confidence in market recovery and aims to meet increasing global demand.",
+      "exported_at": "2025-09-07T11:17:39.976399",
       "continuous_session": true
     }
   ]
