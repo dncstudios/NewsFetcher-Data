@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-07T02:48:40.166343",
-    "total_articles": 362,
-    "new_articles_in_last_fetch": 362,
+    "created_at": "2025-09-07T03:28:57.432646",
+    "total_articles": 363,
+    "new_articles_in_last_fetch": 363,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -4710,6 +4710,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JAPAN PM ISHIBA TO RESIGN AVOIDING PARTY SPLIT 🚨\n\n- PM Ishiba plans resignation to prevent party division 🇯🇵\n- LDP lawmakers set vote on Monday for leadership election 🗳️\n\nTAKEAWAY: Japan's PM Ishiba's resignation aims to prevent party split, as LDP lawmakers gear up for a leadership election.",
       "exported_at": "2025-09-07T02:48:40.144449",
+      "continuous_session": true
+    },
+    {
+      "title": "Japan PM Ishiba will resign to avoid party split, media report",
+      "link": "https://www.cnbc.com/2025/09/07/japan-pm-ishiba-plans-to-resign-to-avoid-party-split-nhk-says.html",
+      "summary": "LDP lawmakers are scheduled to vote on Monday whether to hold an extraordinary leadership election.",
+      "published": "Sun, 07 Sep 2025 07:24:42 GMT",
+      "content": "LDP lawmakers are scheduled to vote on Monday whether to hold an extraordinary leadership election.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ae038410ad336784504a8d4be911de06",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JAPAN PM ISHIBA TO RESIGN AVOIDING PARTY SPLIT 🚨\n\n- PM Ishiba plans resignation to prevent party division 🇯🇵\n- LDP lawmakers set vote on Monday for leadership election 🗳️\n\nTAKEAWAY: Japan's PM Ishiba's resignation aims to prevent party split, as LDP lawmakers gear up for a leadership election.",
+      "exported_at": "2025-09-07T03:28:57.404517",
       "continuous_session": true
     }
   ]
