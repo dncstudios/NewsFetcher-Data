@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-06T18:50:20.126773",
-    "total_articles": 359,
-    "new_articles_in_last_fetch": 359,
+    "created_at": "2025-09-07T02:08:19.968355",
+    "total_articles": 360,
+    "new_articles_in_last_fetch": 360,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -4671,6 +4671,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ARYNA SABALENKA DEFENDS U.S. OPEN TITLE WITH VICTORY OVER AMANDA ANISIMOVA 🏆\n\n- Sabalenka secures her fourth Grand Slam victory 🎾\n- Back-to-back U.S. Open wins for Sabalenka 🏅\n- Anisimova falls short in the championship match 🚫\n- Sabalenka cements her dominance in the tennis world 🌟\n\nTAKEAWAY: Aryna Sabalenka's back-to-back U.S. Open wins solidify her as a force to be reckoned with in the tennis arena, marking her fourth Grand Slam title overall. 🎾🏆",
       "exported_at": "2025-09-06T18:50:20.099993",
+      "continuous_session": true
+    },
+    {
+      "title": "Digital gold could soon shake up London’s precious metal markets",
+      "link": "https://www.cnbc.com/2025/09/07/digital-gold-could-soon-shake-up-londons-precious-metal-markets.html",
+      "summary": "The World Gold Council is looking to digitalize London's $930 billion gold market.",
+      "published": "Sun, 07 Sep 2025 06:03:25 GMT",
+      "content": "The World Gold Council is looking to digitalize London's $930 billion gold market.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b83b81a5c1f7d862e5e937a93a378111",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DIGITAL GOLD SET TO REVOLUTIONIZE LONDON'S PRECIOUS METAL MARKETS 🚀\n\n- World Gold Council aims to digitize London's $930 billion gold market 💻\n- Transformation could bring significant changes to the industry 🔄\n- London market plays a key role in global gold trading 🌍\n- Digitalization could enhance market efficiency and accessibility ✨\n- Potential to attract new investors and increase market transparency 💰\n- Uncertainties exist around the impact of this digital shift ⚠️\n\nTAKEAWAY: The digitalization of London's precious metal markets by the World Gold Council has the potential to revolutionize the industry, bringing efficiency, accessibility, and transparency, but uncertainties remain about its impact.",
+      "exported_at": "2025-09-07T02:08:19.940257",
       "continuous_session": true
     }
   ]
