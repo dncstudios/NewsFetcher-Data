@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-07T18:46:04.386558",
-    "total_articles": 384,
-    "new_articles_in_last_fetch": 384,
+    "created_at": "2025-09-07T19:36:28.612625",
+    "total_articles": 385,
+    "new_articles_in_last_fetch": 385,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -4996,6 +4996,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JIM CRAMER: CAN TRUMP'S WORDS TURN INTO PROFITS? 📈\n\n- Jobs lost in Washington and the field hint at cultural conflicts ⚠️\n- Trump's words may excite, but can they generate profits? 💰\n- The impact of federal decisions on job market trends 📊\n\nTAKEAWAY: Cramer ponders if Trump's rhetoric can translate into financial gains amidst cultural and economic shifts.",
       "exported_at": "2025-09-07T18:46:04.357399",
+      "continuous_session": true
+    },
+    {
+      "title": "Singapore bonds have dramatically defied the global rout in long-term debt. Here&apos;s why",
+      "link": "https://www.cnbc.com/2025/09/05/singapore-bonds-global-rout-in-long-term-debt.html",
+      "summary": "Analysts tell CNBC that Singapore bonds are seen as high-quality and safe haven assets, backed by a prudent fiscal policy.",
+      "published": "Fri, 05 Sep 2025 08:45:51 GMT",
+      "content": "Analysts tell CNBC that Singapore bonds are seen as high-quality and safe haven assets, backed by a prudent fiscal policy.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a911a0f288aa944c76874942d6cc0dfe",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SINGAPORE BONDS DEFY GLOBAL DEBT ROUT WITH STRENGTH 🚀\n\n- Singapore bonds resilient amid global debt turmoil 💪\n- Analysts credit high-quality & safe haven perception 🛡️\n- Backed by robust fiscal policy for stability ✅\n- Singapore bonds stand out in uncertain market conditions 📈\n- Investors turn to Singapore for safe-haven assets 🌟\n- CNBC reports on Singapore's bond market strength 💼\n\nTAKEAWAY: Singapore bonds shine brightly as a safe haven in the storm of global debt turmoil, backed by a robust fiscal policy and high-quality reputation.",
+      "exported_at": "2025-09-07T19:36:28.582181",
       "continuous_session": true
     }
   ]
