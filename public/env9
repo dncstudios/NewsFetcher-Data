@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-07T07:00:37.221325",
-    "total_articles": 370,
-    "new_articles_in_last_fetch": 370,
+    "created_at": "2025-09-07T07:05:42.066778",
+    "total_articles": 371,
+    "new_articles_in_last_fetch": 371,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -4814,6 +4814,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WHAT TO KNOW ABOUT PAUSING STUDENT LOAN PAYMENTS ⚠️\n\n- Student loan borrowers opt to pause monthly payments 📉\n- Benefits of pausing payments include temporary relief ✅\n- Risks involved in pausing payments should be considered ⚠️\n- Important to weigh pros and cons before deciding 🤔\n\nTAKEAWAY: Understanding the benefits and risks of pausing student loan payments is crucial for borrowers seeking temporary relief.",
       "exported_at": "2025-09-07T07:00:37.190475",
+      "continuous_session": true
+    },
+    {
+      "title": "The White House is exploring how to keep Trump&apos;s tariffs if the Supreme Court strikes them down",
+      "link": "https://www.cnbc.com/2025/09/07/trump-tariffs-supreme-court.html",
+      "summary": "President Donald Trump could use at least two other laws to continue his tariff agenda, though neither is as quick as the current authority he is using.",
+      "published": "Sun, 07 Sep 2025 11:03:51 GMT",
+      "content": "President Donald Trump could use at least two other laws to continue his tariff agenda, though neither is as quick as the current authority he is using.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6dee874ee0e2f24b3a138bc0cf4bc7ce",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WHITE HOUSE'S PLAN B TO MAINTAIN TRUMP'S TARIFFS IF STRUCK DOWN ⚠️\n\n- Trump considers alternative laws to uphold tariffs post-Supreme Court decision\n- New laws offer options but lack the speed of current tariff authority ⏳\n- White House strategizes to sustain Trump's tariff agenda efficiently\n\nTAKEAWAY: The White House explores backup plans to uphold Trump's tariffs post-Supreme Court decision, ensuring continuity in tariff policies.",
+      "exported_at": "2025-09-07T07:05:42.049800",
       "continuous_session": true
     }
   ]
