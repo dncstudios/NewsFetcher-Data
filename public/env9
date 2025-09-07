@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-07T02:08:19.968355",
-    "total_articles": 360,
-    "new_articles_in_last_fetch": 360,
+    "created_at": "2025-09-07T02:13:23.636809",
+    "total_articles": 361,
+    "new_articles_in_last_fetch": 361,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -4684,6 +4684,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: DIGITAL GOLD SET TO REVOLUTIONIZE LONDON'S PRECIOUS METAL MARKETS 🚀\n\n- World Gold Council aims to digitize London's $930 billion gold market 💻\n- Transformation could bring significant changes to the industry 🔄\n- London market plays a key role in global gold trading 🌍\n- Digitalization could enhance market efficiency and accessibility ✨\n- Potential to attract new investors and increase market transparency 💰\n- Uncertainties exist around the impact of this digital shift ⚠️\n\nTAKEAWAY: The digitalization of London's precious metal markets by the World Gold Council has the potential to revolutionize the industry, bringing efficiency, accessibility, and transparency, but uncertainties remain about its impact.",
       "exported_at": "2025-09-07T02:08:19.940257",
+      "continuous_session": true
+    },
+    {
+      "title": "Global week ahead: Volatile bonds, a confidence crunch and the ECB meets",
+      "link": "https://www.cnbc.com/2025/09/07/global-week-ahead-volatile-bonds-a-confidence-crunch-and-the-ecb-meets.html",
+      "summary": "Bond market volatility kept CNBC's news desks busy this week — and there could be more to come.",
+      "published": "Sun, 07 Sep 2025 06:07:35 GMT",
+      "content": "Bond market volatility kept CNBC's news desks busy this week — and there could be more to come.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ef936a6285dd91fa0fed0d362483fdb9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GLOBAL WEEK AHEAD: VOLATILE BONDS AND ECB MEETING 🚀\n\n- Bond market volatility spikes, grabbing CNBC's attention 📈\n- Uncertainty looms over upcoming week, potential for more turbulence ⚠️\n- Eyes on ECB meeting impact on market confidence 🔍\n\nTAKEAWAY: Brace for a rollercoaster ride with bond market volatility spiking, uncertainty ahead, and the ECB meeting influencing market sentiment.",
+      "exported_at": "2025-09-07T02:13:23.606817",
       "continuous_session": true
     }
   ]
