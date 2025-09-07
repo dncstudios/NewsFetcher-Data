@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-07T09:21:48.620882",
-    "total_articles": 376,
-    "new_articles_in_last_fetch": 376,
+    "created_at": "2025-09-07T11:12:35.185617",
+    "total_articles": 377,
+    "new_articles_in_last_fetch": 377,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -4892,6 +4892,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: PEDIATRICIAN REVEALS THE KEY TO RAISING HEALTHY, SUCCESSFUL KIDS 🚀\n\n- Dr. Golshevsky emphasizes teaching newborns healthy sleep habits\n- Early foundation in sleep crucial for long-term health and success\n- New parents can positively impact children's future through sleep education\n- Setting up healthy sleep habits early leads to better overall well-being\n- Dr. Golshevsky's advice focuses on long-term benefits for children\n- Healthy sleeping routines contribute significantly to children's success\n\nTAKEAWAY: By prioritizing and teaching newborns healthy sleep habits early on, parents can set the foundation for their children's long-term health and success.",
       "exported_at": "2025-09-07T09:21:48.615424",
+      "continuous_session": true
+    },
+    {
+      "title": "AI is not just ending entry-level jobs. It&apos;s the end of the career ladder as we know it",
+      "link": "https://www.cnbc.com/2025/09/07/ai-entry-level-jobs-hiring-careers.html",
+      "summary": "The most inspiring CEO stories come from workers who rose from entry-level positions at their firms to the top. What happens when AI takes those jobs away?",
+      "published": "Sun, 07 Sep 2025 14:26:01 GMT",
+      "content": "The most inspiring CEO stories come from workers who rose from entry-level positions at their firms to the top. What happens when AI takes those jobs away?",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "103e3b8264a98229a5584ab6b032a0f6",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AI REVOLUTIONIZING CAREER PATHS: THE END OF THE LADDER AS WE KNOW IT ⚡️\n\n- AI disrupts traditional career progression paths 🔄\n- Entry-level jobs disappearing due to automation 🤖\n- CEO success stories tied to entry-level roles at risk 📉\n- Workers face uncertainty as AI reshapes job landscape ⚠️\n- Adaptation and upskilling crucial for future job security ✅\n- Traditional career ladders evolving in the age of AI 🚀\n\nTAKEAWAY: AI's impact on entry-level jobs is reshaping career trajectories, emphasizing the need for adaptability and upskilling in a rapidly changing job market.",
+      "exported_at": "2025-09-07T11:12:35.180343",
       "continuous_session": true
     }
   ]
