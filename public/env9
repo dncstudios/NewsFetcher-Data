@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T06:12:20.744307",
-    "total_articles": 405,
-    "new_articles_in_last_fetch": 405,
+    "created_at": "2025-09-08T06:27:34.603928",
+    "total_articles": 406,
+    "new_articles_in_last_fetch": 406,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5269,6 +5269,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: GUNMEN STRIKE IN JERUSALEM, FIVE LIVES LOST 🚨\n\n- Attackers neutralized by police after fatal shooting spree\n- Tragic incident at Jerusalem bus stop leaves 5 dead\n- No group claims responsibility for the ruthless attack\n\nTAKEAWAY: Gunmen's deadly assault in Jerusalem shocks as authorities work to unravel the motives behind the tragic incident.",
       "exported_at": "2025-09-08T06:12:20.737579",
+      "continuous_session": true
+    },
+    {
+      "title": "Tesla market share in U.S. drops to lowest since 2017 as competition heats up: Reuters",
+      "link": "https://www.cnbc.com/2025/09/08/tesla-market-share-in-us-drops-to-lowest-since-2017.html",
+      "summary": "Tesla's board proposed a $1 trillion pay package for Elon Musk that is pegged to Tesla's value rising to $8.5 trillion over the next decade.",
+      "published": "Mon, 08 Sep 2025 10:23:20 GMT",
+      "content": "Tesla's board proposed a $1 trillion pay package for Elon Musk that is pegged to Tesla's value rising to $8.5 trillion over the next decade.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ae21d940a767d7c976086d072c431156",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TESLA'S U.S. MARKET SHARE HITS LOWEST SINCE 2017 📉\n\n- Tesla's U.S. market share drops amidst increasing competition 📉\n- Board proposes $1 trillion pay package tied to $8.5 trillion value goal 💰\n- Elon Musk's compensation linked to ambitious Tesla value target 💪\n- Competition intensifies, impacting Tesla's market presence 🚨\n- Tesla faces challenges in maintaining market leadership 🛑\n\nTAKEAWAY: Tesla's market share decline in the U.S. reflects growing competition, while Elon Musk's $1 trillion pay package tied to ambitious growth targets highlights the company's determination to succeed.",
+      "exported_at": "2025-09-08T06:27:34.598277",
       "continuous_session": true
     }
   ]
