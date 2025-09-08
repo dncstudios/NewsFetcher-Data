@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T10:37:04.473646",
-    "total_articles": 426,
-    "new_articles_in_last_fetch": 426,
+    "created_at": "2025-09-08T10:42:13.020920",
+    "total_articles": 428,
+    "new_articles_in_last_fetch": 428,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5541,6 +5541,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP SEEKS SUPREME COURT ORDER TO FREEZE BILLIONS IN FOREIGN AID ⚠️\n\n- Trump administration requests emergency action from Supreme Court\n- Billions in foreign aid at stake, awaiting court decision\n- Uncertainty looms over the outcome of the frozen foreign aid\n\nTAKEAWAY: The Trump administration's plea to the Supreme Court for an emergency order to freeze billions in foreign aid creates uncertainty and anticipation over the decision's outcome.",
       "exported_at": "2025-09-08T10:37:04.468244",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump loses bid to overturn $83.3 million judgment in E. Jean Carroll defamation case",
+      "link": "https://www.cnbc.com/2025/09/08/trump-carroll-defamation-appeal.html",
+      "summary": "Carroll has accused Trump of defaming her in statements denying her accusation that he raped her decades earlier in a New York City department store.",
+      "published": "Mon, 08 Sep 2025 14:40:20 GMT",
+      "content": "Carroll has accused Trump of defaming her in statements denying her accusation that he raped her decades earlier in a New York City department store.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f9338265093fd0b5cef59bb85c66890c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP FAILS TO REVERSE $83.3M JUDGMENT IN DEFAMATION CASE ⚠️\n\n- Trump's attempt to overturn $83.3M judgment denied ❌\n- E. Jean Carroll accuses Trump of defamation 💥\n- Allegation stems from Carroll's rape accusation against Trump 🔍\n\nTAKEAWAY: Trump's unsuccessful bid to overturn the $83.3 million judgment in E. Jean Carroll's defamation case highlights the ongoing legal battle surrounding her rape accusation.",
+      "exported_at": "2025-09-08T10:42:13.014691",
+      "continuous_session": true
+    },
+    {
+      "title": "SpaceX buys wireless spectrum from EchoStar in $17 billion deal",
+      "link": "https://www.cnbc.com/2025/09/08/echostar-to-sell-spectrum-licenses-to-spacex-for-17-billion.html",
+      "summary": "The deal comes months after the Federal Communications questioned EchoStar's compliance with buildout extensions and use of mobile-satellite service spectrum.",
+      "published": "Mon, 08 Sep 2025 14:40:35 GMT",
+      "content": "The deal comes months after the Federal Communications questioned EchoStar's compliance with buildout extensions and use of mobile-satellite service spectrum.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "55578ce5710804c54dc82dd019b2e79a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ECHOSTAR SELLS SPECTRUM LICENSES TO SPACEX FOR $17 BILLION 🚀\n\n- EchoStar agrees to sell spectrum licenses to SpaceX for $17 billion 💸\n- Federal Communications scrutinized EchoStar's compliance with buildout extensions 🧐\n- Deal follows questions on EchoStar's use of mobile-satellite service spectrum 📡\n\nTAKEAWAY: EchoStar's $17 billion spectrum license sale to SpaceX signals a strategic move amidst scrutiny over compliance with buildout extensions.",
+      "exported_at": "2025-09-08T10:42:13.014704",
       "continuous_session": true
     }
   ]
