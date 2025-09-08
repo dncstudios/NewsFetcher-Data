@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T03:30:13.605624",
-    "total_articles": 400,
-    "new_articles_in_last_fetch": 400,
+    "created_at": "2025-09-08T03:35:18.427914",
+    "total_articles": 401,
+    "new_articles_in_last_fetch": 401,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5204,6 +5204,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: PRIVATE EQUITY TALENT WARS HEAT UP AS WALL STREET RAIDED 🚀\n\n- Private equity firms aggressively hiring amid deal drought 💼\n- Optimism high for rebound in market activity 📈\n- Talent wars intensify on Wall Street as firms compete 🔥\n\nTAKEAWAY: Despite a deal drought, private equity giants are actively recruiting on Wall Street, fueled by optimism for a market activity rebound and escalating talent wars.",
       "exported_at": "2025-09-08T03:30:13.600627",
+      "continuous_session": true
+    },
+    {
+      "title": "European markets open higher as focus turns on French confidence vote",
+      "link": "https://www.cnbc.com/2025/09/08/european-markets-on-mon-sept-8-stoxx-600-cac-france-confidence-vote.html",
+      "summary": "European stocks have started the new trading week on a positive note.",
+      "published": "Mon, 08 Sep 2025 07:33:32 GMT",
+      "content": "European stocks have started the new trading week on a positive note.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0b3a23e4ee8ca7df01808720138c6571",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: EUROPEAN MARKETS RISE AS FOCUS SHIFTS TO FRENCH CONFIDENCE VOTE 🚀\n\n- European stocks begin trading week positively 📈\n- Investors shift focus to French confidence vote 🇫🇷\n- Market sentiment upbeat at the start of the week 💪\n\nTAKEAWAY: European markets open higher as investors show optimism with a focus on the upcoming French confidence vote, setting a positive tone for the trading week.",
+      "exported_at": "2025-09-08T03:35:18.422528",
       "continuous_session": true
     }
   ]
