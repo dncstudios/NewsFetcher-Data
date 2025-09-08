@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T14:41:27.275684",
-    "total_articles": 454,
-    "new_articles_in_last_fetch": 454,
+    "created_at": "2025-09-08T15:06:52.229875",
+    "total_articles": 455,
+    "new_articles_in_last_fetch": 455,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5905,6 +5905,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NVIDIA'S HUANG TO JOIN TRUMP ON UK STATE VISIT 🚀\n\n- Nvidia's CEO Jensen Huang to accompany Trump to UK 🇬🇧\n- Sky News reports other notable figures attending the visit ✨\n\nTAKEAWAY: Nvidia's CEO, Jensen Huang, joining Trump on the UK state visit adds prestige to the event with other prominent figures attending.",
       "exported_at": "2025-09-08T14:41:27.237627",
+      "continuous_session": true
+    },
+    {
+      "title": "Cognition valued at $10.2 billion two months after Windsurf purchase",
+      "link": "https://www.cnbc.com/2025/09/08/cognition-valued-at-10point2-billion-two-months-after-windsurf-.html",
+      "summary": "Two months after buying AI coding startup Windsurf, Cognition is being valued by investors at over $10 billion.",
+      "published": "Mon, 08 Sep 2025 18:47:26 GMT",
+      "content": "Two months after buying AI coding startup Windsurf, Cognition is being valued by investors at over $10 billion.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fc6144f0672c2dd3d7328c0565f887fe",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: COGNITION VALUED AT $10.2 BILLION AFTER WINDSURF PURCHASE 🚀\n\n- Cognition's value skyrockets to $10.2 billion post Windsurf acquisition 💰\n- Investors show confidence in Cognition's potential 📈\n- Windsurf acquisition proves to be a strategic move for Cognition 🔥\n- Rapid increase in valuation highlights market optimism ⚡️\n- AI coding startup Windsurf acquisition boosts Cognition's worth 💡\n\nTAKEAWAY: Cognition's valuation soaring to $10.2 billion within two months of acquiring Windsurf showcases investor confidence and strategic growth in the AI sector.",
+      "exported_at": "2025-09-08T15:06:52.206273",
       "continuous_session": true
     }
   ]
