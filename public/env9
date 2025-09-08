@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T01:59:26.036784",
-    "total_articles": 396,
-    "new_articles_in_last_fetch": 396,
+    "created_at": "2025-09-08T02:14:35.819379",
+    "total_articles": 397,
+    "new_articles_in_last_fetch": 397,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5152,6 +5152,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: EUROPEAN MARKETS TO OPEN HIGHER AS FOCUS SHIFTS TO FRENCH CONFIDENCE VOTE 🚀\n\n- Positive start expected for European stocks 📈\n- Investors turn attention to French confidence vote 🇫🇷\n- New trading week kicks off with optimism ✨\n\nTAKEAWAY: European markets poised for a strong opening as investors shift focus to the French confidence vote, setting a positive tone for the week ahead.",
       "exported_at": "2025-09-08T01:59:26.005216",
+      "continuous_session": true
+    },
+    {
+      "title": "Klarna&apos;s IPO will test if it&apos;s more than just a one-trick &apos;buy now, pay later&apos; pony",
+      "link": "https://www.cnbc.com/2025/09/08/klarna-ipo-investors-to-scrutinize-digital-bank-pivot.html",
+      "summary": "Klarna has been attempting to convince the market that it's more of a digital retail bank than a simple buy now, pay later firm.",
+      "published": "Mon, 08 Sep 2025 05:19:46 GMT",
+      "content": "Klarna has been attempting to convince the market that it's more of a digital retail bank than a simple buy now, pay later firm.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8bf20b882249604921134240396aa8e9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: KLARNA'S IPO: IS IT MORE THAN A ONE-TRICK 'BUY NOW, PAY LATER' PONY? 🚀\n\n- Klarna aims to show it's a digital retail bank, not just 'buy now, pay later'\n- Market tests Klarna's diversification strategy with upcoming IPO 📈\n- Investors curious about Klarna's potential beyond current model 💡\n\nTAKEAWAY: Klarna's IPO will determine if it can transcend its 'buy now, pay later' image and establish itself as a versatile digital retail banking solution.",
+      "exported_at": "2025-09-08T02:14:35.787537",
       "continuous_session": true
     }
   ]
