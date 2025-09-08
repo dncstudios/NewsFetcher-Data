@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T07:03:31.726481",
-    "total_articles": 411,
-    "new_articles_in_last_fetch": 411,
+    "created_at": "2025-09-08T07:49:09.601322",
+    "total_articles": 412,
+    "new_articles_in_last_fetch": 412,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5347,6 +5347,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AI'S IMPACT ON WORKFORCE: SMALL BUT NOT ZERO ⚠️\n\n- Job market stalls in 2025 due to economic uncertainty 📉\n- Experts clarify AI's role: impact small, not zero 🤖\n- Economic factors major driver of job market slowdown 💼\n\nTAKEAWAY: Despite economic uncertainty driving job market slowdown in 2025, experts emphasize that AI's impact is small but not negligible.",
       "exported_at": "2025-09-08T07:03:31.706695",
+      "continuous_session": true
+    },
+    {
+      "title": "Nvidia gets a price target cut from Citi as competition in AI arena grows",
+      "link": "https://www.cnbc.com/2025/09/08/nvidia-gets-a-price-target-cut-from-citi-as-competition-in-ai-arena-grows.html",
+      "summary": "Analyst Atif Malik kept his buy rating on Nvidia but trimmed his price target by $10.",
+      "published": "Mon, 08 Sep 2025 11:41:15 GMT",
+      "content": "Analyst Atif Malik kept his buy rating on Nvidia but trimmed his price target by $10.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "bf7b89fea5a04e3262d5ed36e8d9ce10",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NVIDIA'S PRICE TARGET CUT BY CITI AMID AI COMPETITION GROWTH ⚠️\n\n- Citi analyst Atif Malik lowers Nvidia price target by $10 💸\n- Malik maintains buy rating despite trimming price target ✅\n- Competition in AI sector intensifies, impacting Nvidia 🤖\n\nTAKEAWAY: Despite Citi's price target cut for Nvidia due to growing competition in the AI arena, the buy rating remains, reflecting a nuanced outlook on the company's performance.",
+      "exported_at": "2025-09-08T07:49:09.595142",
       "continuous_session": true
     }
   ]
