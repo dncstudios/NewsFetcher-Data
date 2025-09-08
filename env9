@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T16:08:12.679867",
-    "total_articles": 461,
-    "new_articles_in_last_fetch": 461,
+    "created_at": "2025-09-08T16:23:28.468601",
+    "total_articles": 462,
+    "new_articles_in_last_fetch": 462,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5996,6 +5996,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ROBINHOOD SOARS 14% WITH S&P 500 INCLUSION 🚀\n\n- Robinhood's shares surge by 14% post S&P 500 addition 📈\n- S&P Global swaps Caesars Entertainment for Robinhood 🔁\n- Market reacts positively to Robinhood's index debut 💥\n\nTAKEAWAY: Robinhood's 14% surge following its S&P 500 inclusion showcases investor enthusiasm and market confidence in the trading platform's future.",
       "exported_at": "2025-09-08T16:08:12.660176",
+      "continuous_session": true
+    },
+    {
+      "title": "Santoli&apos;s market wrap-up: Stocks regain steady, snoozy state with reliance on big caps",
+      "link": "https://www.cnbc.com/2025/09/08/santolis-market-wrap-up-stocks-regain-steady-snoozy-state-with-reliance-on-big-caps.html",
+      "summary": "Mike wraps up Monday's action, noting investors' continued preference for larger big-cap tech stocks.",
+      "published": "Mon, 08 Sep 2025 20:13:14 GMT",
+      "content": "Mike wraps up Monday's action, noting investors' continued preference for larger big-cap tech stocks.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b58873b02c94ce24a40a20c0afa6121f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SANTOLI'S MARKET WRAP-UP: STOCKS RELY ON BIG CAPS 🚀\n\n- Investors favor big-cap tech stocks 📈\n- Monday closes with steady market state 📊\n- Mike highlights continued reliance on larger stocks 💪\n\nTAKEAWAY: Big-cap tech stocks maintain investor favor, leading to a steady market state highlighted by Mike.",
+      "exported_at": "2025-09-08T16:23:28.430956",
       "continuous_session": true
     }
   ]
