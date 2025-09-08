@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T10:57:32.606390",
-    "total_articles": 430,
-    "new_articles_in_last_fetch": 430,
+    "created_at": "2025-09-08T11:02:46.534627",
+    "total_articles": 433,
+    "new_articles_in_last_fetch": 433,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5593,6 +5593,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: XPENG TO LAUNCH MASS-MARKET MONA BRAND GLOBALLY IN 2026 🚀\n\n- Xpeng set to expand Mona brand beyond China 🌏\n- CEO He Xiaopeng confirms plans to CNBC 💬\n- Global launch scheduled for 2026 📆\n\nTAKEAWAY: Xpeng's ambitious move to introduce its mass-market Mona brand worldwide in 2026 showcases its determination to expand and compete on a global scale.",
       "exported_at": "2025-09-08T10:57:32.599859",
+      "continuous_session": true
+    },
+    {
+      "title": "Worker confidence in finding a new job hits record low in New York Fed survey",
+      "link": "https://www.cnbc.com/2025/09/08/worker-confidence-in-finding-a-new-job-hits-record-low-in-new-york-fed-survey.html",
+      "summary": "In the latest sign of trouble for the U.S. labor market, confidence in the ability to move from one job to another has hit a record low.",
+      "published": "Mon, 08 Sep 2025 15:00:07 GMT",
+      "content": "In the latest sign of trouble for the U.S. labor market, confidence in the ability to move from one job to another has hit a record low.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4f03c40d29a20a93c9af1ae3c2b72d49",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WORKER CONFIDENCE HITS RECORD LOW IN NEW YORK FED SURVEY ⚠️\n\n- U.S. labor market shows signs of trouble 📉\n- Worker confidence in changing jobs hits all-time low 📉\n- Challenges arise in transitioning between jobs 🛑\n- Record low confidence in finding new employment 📉\n- New York Fed survey highlights job market difficulties 📉\n- Concerns rise over job mobility in the U.S. labor market ⚠️\n\nTAKEAWAY: Worker confidence in transitioning between jobs hits a record low, signaling challenges in the U.S. labor market and raising concerns over job mobility.",
+      "exported_at": "2025-09-08T11:02:46.528100",
+      "continuous_session": true
+    },
+    {
+      "title": "Robinhood shares soar 14% after getting long sought addition to S&amp;P 500",
+      "link": "https://www.cnbc.com/2025/09/08/robinhood-shares-soar-14percent-after-getting-long-sought-addition-to-sp-500.html",
+      "summary": "S&amp;P Global said Friday that Robinhood will replace Caesars Entertainment in the S&amp;P 500.",
+      "published": "Mon, 08 Sep 2025 14:57:45 GMT",
+      "content": "S&amp;P Global said Friday that Robinhood will replace Caesars Entertainment in the S&amp;P 500.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7e9d808c7e9cbd94e3fb144e8717078b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ROBINHOOD SOARS 14% WITH S&P 500 INCLUSION 🚀\n\n- Robinhood's shares surge by 14% post S&P 500 addition 📈\n- S&P Global swaps Caesars Entertainment for Robinhood 🔁\n- Market reacts positively to Robinhood's index debut 💥\n\nTAKEAWAY: Robinhood's 14% surge following its S&P 500 inclusion showcases investor enthusiasm and market confidence in the trading platform's future.",
+      "exported_at": "2025-09-08T11:02:46.528114",
+      "continuous_session": true
+    },
+    {
+      "title": "StubHub aims to raise up to $9.2 billion in IPO, pricing at $22 to $25 per share",
+      "link": "https://www.cnbc.com/2025/09/08/stubhub-stub-ipo-stock.html",
+      "summary": "The IPO market has bounced back, with debuts from Peter Thiel-backed cryptocurrency exchange Bullish, design software company Figma and crypto firm Circle.",
+      "published": "Mon, 08 Sep 2025 15:02:18 GMT",
+      "content": "The IPO market has bounced back, with debuts from Peter Thiel-backed cryptocurrency exchange Bullish, design software company Figma and crypto firm Circle.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "833725773c8645f92cb7668f434ef442",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STUBHUB SET TO RAISE $9.2B IN IPO AT $22-$25/SHARE 🚀\n\n- StubHub plans IPO to raise up to $9.2 billion 💰\n- Share price set at $22 to $25 📈\n- IPO market resurgence with Bullish, Figma, and Circle debuts 🌟\n- Peter Thiel-backed Bullish enters the IPO game 🦄\n- Design software company Figma makes successful debut 🎨\n- Crypto firm Circle also joins the IPO trend 🪙\n\nTAKEAWAY: StubHub's upcoming IPO, alongside other successful debuts, signals a strong resurgence in the IPO market, with big players like Bullish, Figma, and Circle making significant moves. 🚀",
+      "exported_at": "2025-09-08T11:02:46.528117",
       "continuous_session": true
     }
   ]
