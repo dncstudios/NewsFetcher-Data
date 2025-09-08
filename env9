@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T08:14:34.857905",
-    "total_articles": 414,
-    "new_articles_in_last_fetch": 414,
+    "created_at": "2025-09-08T08:19:40.346501",
+    "total_articles": 415,
+    "new_articles_in_last_fetch": 415,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5385,6 +5385,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SERENA WILLIAMS BACKS WOMEN'S BASKETBALL LEAGUE UNRIVALED 🚀\n\n- Unrivaled's value skyrockets to $340 million 💰\n- Tennis legend Serena Williams joins as investor 🌟\n- Women's basketball league attracts high-profile support 🏀\n- Serena's investment boosts Unrivaled's credibility 📈\n- Unrivaled positioned for significant growth 📈\n- Serena's move highlights the potential of women's sports ⚡️\n\nTAKEAWAY: Serena Williams' investment in Unrivaled not only elevates the league's value but also shines a spotlight on the potential and growth of women's sports.",
       "exported_at": "2025-09-08T08:14:34.851422",
+      "continuous_session": true
+    },
+    {
+      "title": "EchoStar sells spectrum licenses to SpaceX in $17 billion deal to resolve FCC probe",
+      "link": "https://www.cnbc.com/2025/09/08/echostar-to-sell-spectrum-licenses-to-spacex-for-17-billion.html",
+      "summary": "The deal comes months after the Federal Communications questioned EchoStar's compliance with buildout extensions and use of mobile-satellite service spectrum.",
+      "published": "Mon, 08 Sep 2025 12:16:17 GMT",
+      "content": "The deal comes months after the Federal Communications questioned EchoStar's compliance with buildout extensions and use of mobile-satellite service spectrum.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d8c3993eb2cfae57a2d3fcfbf8267064",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ECHOSTAR SELLS SPECTRUM LICENSES TO SPACEX FOR $17 BILLION 🚀\n\n- EchoStar agrees to sell spectrum licenses to SpaceX for $17 billion 💸\n- Federal Communications scrutinized EchoStar's compliance with buildout extensions 🧐\n- Deal follows questions on EchoStar's use of mobile-satellite service spectrum 📡\n\nTAKEAWAY: EchoStar's $17 billion spectrum license sale to SpaceX signals a strategic move amidst scrutiny over compliance with buildout extensions.",
+      "exported_at": "2025-09-08T08:19:40.320808",
       "continuous_session": true
     }
   ]
