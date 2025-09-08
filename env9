@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-07T20:11:45.288247",
-    "total_articles": 387,
-    "new_articles_in_last_fetch": 387,
+    "created_at": "2025-09-07T20:16:50.160710",
+    "total_articles": 388,
+    "new_articles_in_last_fetch": 388,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5035,6 +5035,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ASIA MARKETS MIXED AMID JAPAN PM RESIGNATION 🚀\n\n- Japan PM Shigeru Ishiba to resign, impacting market sentiment 🇯🇵\n- Investors cautious, eyeing China trade data 🇨🇳\n- Uncertainty looms over Japan's political future 🤔\n\nTAKEAWAY: Asia markets face mixed opening as investors evaluate the impact of Japan PM Ishiba's resignation and closely monitor China trade data.",
       "exported_at": "2025-09-07T20:11:45.266090",
+      "continuous_session": true
+    },
+    {
+      "title": "The U.S. is losing travelers. Here are the countries that stand to benefit",
+      "link": "https://www.cnbc.com/2025/09/07/where-are-travelers-going-if-they-arent-going-to-the-us.html",
+      "summary": "The United States stands to lose $30 billion in international tourism dollars this year, monies which are set to flow to neighboring nations and beyond.",
+      "published": "Sun, 07 Sep 2025 23:00:01 GMT",
+      "content": "The United States stands to lose $30 billion in international tourism dollars this year, monies which are set to flow to neighboring nations and beyond.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0073d9f61506365fd54ea6d140f346ef",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: THE U.S. LOSING TRAVELERS: WHO BENEFITS? 💸\n\n- U.S. faces $30 billion loss in international tourism revenue 💸\n- Neighboring countries poised to gain from U.S. decline 🌎\n- Shift in tourism dollars expected to impact U.S. economy 📉\n\nTAKEAWAY: The U.S. losing $30 billion in international tourism revenue may lead to economic shifts benefiting neighboring nations while impacting the U.S. economy negatively.",
+      "exported_at": "2025-09-07T20:16:50.130856",
       "continuous_session": true
     }
   ]
