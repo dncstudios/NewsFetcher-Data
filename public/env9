@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T10:26:47.008884",
-    "total_articles": 424,
-    "new_articles_in_last_fetch": 424,
+    "created_at": "2025-09-08T10:31:55.302657",
+    "total_articles": 425,
+    "new_articles_in_last_fetch": 425,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5515,6 +5515,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: S&P 500 RISES AS INVESTORS EAGERLY AWAIT KEY INFLATION DATA 🚀\n\n- Stock market sees slight uptick on Monday 📈\n- Investors anticipate crucial inflation reports 📊\n- Week packed with data, including key inflation readings 📉\n- Market players closely monitor upcoming economic indicators 🔍\n- Traders focus on potential impact of inflation data on markets 💼\n\nTAKEAWAY: The S&P 500 starts the week with a modest rise as investors eagerly await crucial inflation data, setting the stage for a data-packed week ahead.",
       "exported_at": "2025-09-08T10:26:47.002358",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump loses bid to overturn $83.3 million judgment in E. Jean Carroll defamation case",
+      "link": "https://www.cnbc.com/2025/09/08/trump-carroll-defamation-appeal.html",
+      "summary": "A federal appeals court rejected President Donald Trump's bid to overturn a jury verdict ordering him to pay $83.3 million for defaming writer E. Jean Carroll.",
+      "published": "Mon, 08 Sep 2025 14:27:41 GMT",
+      "content": "A federal appeals court rejected President Donald Trump's bid to overturn a jury verdict ordering him to pay $83.3 million for defaming writer E. Jean Carroll.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "897d770ba55558cbb02f03ccbd15f029",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP'S APPEAL REJECTED IN $83.3M DEFAMATION CASE ⚠️\n\n- Federal appeals court denies Trump's request to overturn $83.3M judgment\n- Verdict upholds jury decision holding Trump liable for defaming E. Jean Carroll\n- Trump ordered to pay $83.3 million in defamation case\n- Case involves writer E. Jean Carroll accusing Trump of defamation\n- Court's decision marks a legal setback for President Trump\n- Trump's attempt to challenge verdict in E. Jean Carroll case fails\n\nTAKEAWAY: President Trump faces a legal setback as federal appeals court rejects his bid to overturn the $83.3 million judgment in the defamation case with writer E. Jean Carroll.",
+      "exported_at": "2025-09-08T10:31:55.296203",
       "continuous_session": true
     }
   ]
