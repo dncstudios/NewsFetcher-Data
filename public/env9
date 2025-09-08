@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T13:55:31.608745",
-    "total_articles": 447,
-    "new_articles_in_last_fetch": 447,
+    "created_at": "2025-09-08T14:05:43.849631",
+    "total_articles": 450,
+    "new_articles_in_last_fetch": 450,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5814,6 +5814,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STUBHUB SET TO RAISE $9.2B IN IPO AT $22-$25/SHARE 🚀\n\n- StubHub plans IPO to raise up to $9.2 billion 💰\n- Share price set at $22 to $25 📈\n- IPO market resurgence with Bullish, Figma, and Circle debuts 🌟\n- Peter Thiel-backed Bullish enters the IPO game 🦄\n- Design software company Figma makes successful debut 🎨\n- Crypto firm Circle also joins the IPO trend 🪙\n\nTAKEAWAY: StubHub's upcoming IPO, alongside other successful debuts, signals a strong resurgence in the IPO market, with big players like Bullish, Figma, and Circle making significant moves. 🚀",
       "exported_at": "2025-09-08T13:55:31.576474",
+      "continuous_session": true
+    },
+    {
+      "title": "Nasdaq hits new record, but S&amp;P 500 is little changed ahead of inflation data this week: Live updates",
+      "link": "https://www.cnbc.com/2025/09/07/stock-market-today-live-updates.html",
+      "summary": "The Nasdaq Composite jumped to a record on Monday as investors gear up for a data-heavy week that includes two closely watched readings on inflation.",
+      "published": "Mon, 08 Sep 2025 18:01:03 GMT",
+      "content": "The Nasdaq Composite jumped to a record on Monday as investors gear up for a data-heavy week that includes two closely watched readings on inflation.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "acedeb6e62767e168149a5d55e1ec22d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NASDAQ HITS NEW RECORD HIGH AHEAD OF INFLATION DATA 🚀\n\n- Nasdaq Composite reaches new all-time high 📈\n- Investors prepare for data-heavy week 📊\n- Market anticipates two key inflation readings 🎯\n\nTAKEAWAY: Nasdaq's surge to a new record high sets a positive tone as investors brace for upcoming inflation data releases, signaling optimism in the market.",
+      "exported_at": "2025-09-08T14:05:43.817979",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves midday: Etsy, EchoStar, Robinhood, Canada Goose and more",
+      "link": "https://www.cnbc.com/2025/09/08/stocks-making-the-biggest-moves-midday-etsy-goos-hood-goos.html",
+      "summary": "These are the stocks posting the largest moves midday.",
+      "published": "Mon, 08 Sep 2025 18:03:54 GMT",
+      "content": "These are the stocks posting the largest moves midday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "bf7188d99dadc470593535a9a51c44df",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS MAKING BIG MOVES MIDDAY: ETSY, ECHOSTAR, ROBINHOOD 🚀\n\n- Etsy, EchoStar, Robinhood, Canada Goose show significant midday shifts 📈\n- Market sees notable movements in key stock prices 📊\n- Investors eyeing Etsy, EchoStar, Robinhood for potential gains 💰\n\nTAKEAWAY: Etsy, EchoStar, and Robinhood are among the top stocks making significant midday moves, attracting investor attention for potential gains.",
+      "exported_at": "2025-09-08T14:05:43.818042",
+      "continuous_session": true
+    },
+    {
+      "title": "Here&apos;s how to get a better mortgage rate as the 30-year fixed nears a 1-year low",
+      "link": "https://www.cnbc.com/2025/09/08/how-to-get-the-best-mortgage-rates-as-30-year-fixed-nears-1-year-low-.html",
+      "summary": "A lot of would-be buyers feel priced out of the housing market. Getting a lower mortgage rate might help move the needle.",
+      "published": "Mon, 08 Sep 2025 17:27:36 GMT",
+      "content": "A lot of would-be buyers feel priced out of the housing market. Getting a lower mortgage rate might help move the needle.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5539568775b900cbb3567afa4829df57",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GETTING A BETTER MORTGAGE RATE AMID 1-YEAR LOW 🚀\n\n- 30-year fixed mortgage rates nearing a 1-year low 📉\n- Lower rates offer hope for buyers feeling priced out 🏡\n- Securing a better rate can make home buying more accessible ✅\n- Lower rates can positively impact housing market activity 🔥\n- Time to consider refinancing for potential savings 💰\n- Lower mortgage rates can boost affordability for buyers 📈\n\nTAKEAWAY: With 30-year fixed mortgage rates at a 1-year low, seizing the opportunity to secure a better rate can make home buying more accessible and positively impact the housing market.",
+      "exported_at": "2025-09-08T14:05:43.818055",
       "continuous_session": true
     }
   ]
