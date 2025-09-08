@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-07T19:46:34.977403",
-    "total_articles": 386,
-    "new_articles_in_last_fetch": 386,
+    "created_at": "2025-09-07T20:11:45.288247",
+    "total_articles": 387,
+    "new_articles_in_last_fetch": 387,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5022,6 +5022,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ASIA MARKETS MIXED AMID JAPAN PM RESIGNATION 🚀\n\n- Japan PM Shigeru Ishiba to resign, impacting market sentiment 🇯🇵\n- Investors cautious, eyeing China trade data 🇨🇳\n- Uncertainty looms over Japan's political future 🤔\n\nTAKEAWAY: Asia markets face mixed opening as investors evaluate the impact of Japan PM Ishiba's resignation and closely monitor China trade data.",
       "exported_at": "2025-09-07T19:46:34.952210",
+      "continuous_session": true
+    },
+    {
+      "title": "Asia markets mostly higher as investors assess Japan PM resignation, eye China trade data",
+      "link": "https://www.cnbc.com/2025/09/08/asia-pacific-markets-nikkei-225-japan-yen-ishiba-resignation.html",
+      "summary": "Japanese Prime Minister Shigeru Ishiba over the weekend announced he will resign.",
+      "published": "Mon, 08 Sep 2025 00:09:28 GMT",
+      "content": "Japanese Prime Minister Shigeru Ishiba over the weekend announced he will resign.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "723f9d417040a81799e2ef7e1f649da4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASIA MARKETS MIXED AMID JAPAN PM RESIGNATION 🚀\n\n- Japan PM Shigeru Ishiba to resign, impacting market sentiment 🇯🇵\n- Investors cautious, eyeing China trade data 🇨🇳\n- Uncertainty looms over Japan's political future 🤔\n\nTAKEAWAY: Asia markets face mixed opening as investors evaluate the impact of Japan PM Ishiba's resignation and closely monitor China trade data.",
+      "exported_at": "2025-09-07T20:11:45.266090",
       "continuous_session": true
     }
   ]
