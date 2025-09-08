@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T11:02:46.534627",
-    "total_articles": 433,
-    "new_articles_in_last_fetch": 433,
+    "created_at": "2025-09-08T11:18:00.622100",
+    "total_articles": 435,
+    "new_articles_in_last_fetch": 435,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5632,6 +5632,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STUBHUB SET TO RAISE $9.2B IN IPO AT $22-$25/SHARE 🚀\n\n- StubHub plans IPO to raise up to $9.2 billion 💰\n- Share price set at $22 to $25 📈\n- IPO market resurgence with Bullish, Figma, and Circle debuts 🌟\n- Peter Thiel-backed Bullish enters the IPO game 🦄\n- Design software company Figma makes successful debut 🎨\n- Crypto firm Circle also joins the IPO trend 🪙\n\nTAKEAWAY: StubHub's upcoming IPO, alongside other successful debuts, signals a strong resurgence in the IPO market, with big players like Bullish, Figma, and Circle making significant moves. 🚀",
       "exported_at": "2025-09-08T11:02:46.528117",
+      "continuous_session": true
+    },
+    {
+      "title": "Nasdaq hits new record, S&amp;P 500 rises ahead of inflation data this week: Live updates",
+      "link": "https://www.cnbc.com/2025/09/07/stock-market-today-live-updates.html",
+      "summary": "The Nasdaq Composite jumped to a record on Monday as investors gear up for a data-heavy week that includes two closely watched readings on inflation.",
+      "published": "Mon, 08 Sep 2025 15:16:24 GMT",
+      "content": "The Nasdaq Composite jumped to a record on Monday as investors gear up for a data-heavy week that includes two closely watched readings on inflation.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "07a743d99240acfc420db6127b9fac13",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NASDAQ HITS NEW RECORD HIGH AHEAD OF INFLATION DATA 🚀\n\n- Nasdaq Composite reaches new all-time high 📈\n- Investors prepare for data-heavy week 📊\n- Market anticipates two key inflation readings 🎯\n\nTAKEAWAY: Nasdaq's surge to a new record high sets a positive tone as investors brace for upcoming inflation data releases, signaling optimism in the market.",
+      "exported_at": "2025-09-08T11:18:00.615450",
+      "continuous_session": true
+    },
+    {
+      "title": "A bearish options trade on this overvalued waste management stock",
+      "link": "https://www.cnbc.com/2025/09/08/a-bearish-options-trade-on-this-overvalued-waste-management-stock.html",
+      "summary": "Options trader Michael Khouw breaks down this put spread.",
+      "published": "Mon, 08 Sep 2025 15:09:10 GMT",
+      "content": "Options trader Michael Khouw breaks down this put spread.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7324b0fe3887f5ecb8f43aa5b20575a9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: A BEARISH OPTIONS TRADE ON OVERVALUED WASTE MANAGEMENT STOCK 📉\n\n- Options trader Michael Khouw analyzes put spread strategy 📊\n- Bearish outlook on waste management stock valuation 🐻\n- Potential profit from downward movement in stock price 💰\n\nTAKEAWAY: Options trader Michael Khouw suggests a bearish options trade on the overvalued waste management stock, anticipating a potential profit from a downward price movement.",
+      "exported_at": "2025-09-08T11:18:00.615467",
       "continuous_session": true
     }
   ]
