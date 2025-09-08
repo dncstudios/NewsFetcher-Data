@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-07T22:47:55.179563",
-    "total_articles": 391,
-    "new_articles_in_last_fetch": 391,
+    "created_at": "2025-09-07T23:23:12.149665",
+    "total_articles": 392,
+    "new_articles_in_last_fetch": 392,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5087,6 +5087,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ALIBABA LEADS $100M INVESTMENT IN CHINESE ROBOT STARTUP 🚀\n\n- Alibaba spearheads $100M investment in humanoid robot startup 🤖\n- X Square Robot secures funds with 8 rounds in under 2 years 💰\n- Capital influx accelerates development in the humanoid sector 📈\n\nTAKEAWAY: Alibaba's $100 million investment in X Square Robot propels the development of humanoid robots, marking a significant acceleration in this sector.",
       "exported_at": "2025-09-07T22:47:55.151101",
+      "continuous_session": true
+    },
+    {
+      "title": "China exports growth in August hits a 6-month low, missing expectations",
+      "link": "https://www.cnbc.com/2025/09/08/china-exports-growth-in-august-drops-missing-expectations-.html",
+      "summary": "China's exports growth missed expectations in August as businesses' front-loading activity lost momentum while imports grew less than expected on weak domestic consumer confidence.",
+      "published": "Mon, 08 Sep 2025 03:18:05 GMT",
+      "content": "China's exports growth missed expectations in August as businesses' front-loading activity lost momentum while imports grew less than expected on weak domestic consumer confidence.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "34bfaa86b41253b8ea48aa4e5af60553",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CHINA EXPORTS GROWTH HITS 6-MONTH LOW, DISAPPOINTING 🚨\n\n- August exports growth falls short of expectations 📉\n- Front-loading slows down, impacting businesses 🛑\n- Imports also lower due to weak domestic consumer confidence 📉\n- China faces challenges amidst global economic uncertainties ⚠️\n\nTAKEAWAY: China's exports growth hitting a 6-month low in August, coupled with lower-than-expected imports, reflects challenges amid global economic uncertainties.",
+      "exported_at": "2025-09-07T23:23:12.120364",
       "continuous_session": true
     }
   ]
