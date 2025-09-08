@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T15:22:13.390512",
-    "total_articles": 457,
-    "new_articles_in_last_fetch": 457,
+    "created_at": "2025-09-08T15:32:25.692268",
+    "total_articles": 458,
+    "new_articles_in_last_fetch": 458,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5944,6 +5944,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP JOINS ROLEX CEO AT U.S. OPEN AMID SWISS WATCH TARIFF THREAT ⚠️\n\n- Trump attends U.S. Open with Rolex CEO amidst 39% Swiss watch tariff\n- President's appearance raises eyebrows amid looming import tax\n- Tariff threatens Swiss watch industry with uncertain future\n\nTAKEAWAY: Trump's public appearance with Rolex CEO at the U.S. Open raises questions about the impact of the upcoming 39% tariff on Swiss watch imports.",
       "exported_at": "2025-09-08T15:22:13.354261",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump&apos;s Epstein letter and drawing from &apos;birthday book&apos; released",
+      "link": "https://www.cnbc.com/2025/09/08/trump-epstein-birthday-book-oversight.html",
+      "summary": "President Donald Trump sued The Wall Street Journal for defamation over its report revealing the existence of the letter to Jeffrey Epstein.",
+      "published": "Mon, 08 Sep 2025 19:28:57 GMT",
+      "content": "President Donald Trump sued The Wall Street Journal for defamation over its report revealing the existence of the letter to Jeffrey Epstein.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b02d9c067a5ea94c686b2484a5d8edf4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP'S DEFAMATION LAWSUIT OVER EPSTEIN LETTER REVEAL 🚨\n\n- Trump sues The Wall Street Journal for defamation 📰\n- Lawsuit in response to report on letter to Jeffrey Epstein 📝\n- Letter from 'birthday book' also disclosed in the report 🎂\n\nTAKEAWAY: President Trump takes legal action against The Wall Street Journal for defamation following the release of his letter to Jeffrey Epstein, stirring controversy.",
+      "exported_at": "2025-09-08T15:32:25.667457",
       "continuous_session": true
     }
   ]
