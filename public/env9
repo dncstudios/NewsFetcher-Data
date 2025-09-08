@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T13:30:05.873062",
-    "total_articles": 445,
-    "new_articles_in_last_fetch": 445,
+    "created_at": "2025-09-08T13:35:13.228380",
+    "total_articles": 446,
+    "new_articles_in_last_fetch": 446,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5788,6 +5788,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCKS MAKING BIG MOVES MIDDAY: ETSY, ECHOSTAR, ROBINHOOD 🚀\n\n- Etsy, EchoStar, Robinhood, Canada Goose show significant midday shifts 📈\n- Market sees notable movements in key stock prices 📊\n- Investors eyeing Etsy, EchoStar, Robinhood for potential gains 💰\n\nTAKEAWAY: Etsy, EchoStar, and Robinhood are among the top stocks making significant midday moves, attracting investor attention for potential gains.",
       "exported_at": "2025-09-08T13:30:05.838028",
+      "continuous_session": true
+    },
+    {
+      "title": "Nvidia and these other stocks saw big insider selling last week",
+      "link": "https://www.cnbc.com/2025/09/08/nvidia-and-these-other-stocks-saw-big-insider-selling-last-week.html",
+      "summary": "Traders track insider selling, since such activity can sometimes reflect deeper issues at a company.",
+      "published": "Mon, 08 Sep 2025 17:01:41 GMT",
+      "content": "Traders track insider selling, since such activity can sometimes reflect deeper issues at a company.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "00083371edd514f58bad74bbd81d70a0",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NVIDIA AND OTHER STOCKS SEE BIG INSIDER SELLING 🚨\n\n- Insider selling spikes, drawing traders' attention 📉\n- Potential deeper issues at companies hinted by activity 💼\n- Market reacts to insider selling with caution 🧐\n\nTAKEAWAY: Nvidia and other stocks experiencing significant insider selling raise concerns among traders, hinting at potential underlying issues within the companies.",
+      "exported_at": "2025-09-08T13:35:13.200412",
       "continuous_session": true
     }
   ]
