@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T08:19:40.346501",
-    "total_articles": 415,
-    "new_articles_in_last_fetch": 415,
+    "created_at": "2025-09-08T08:34:56.927178",
+    "total_articles": 416,
+    "new_articles_in_last_fetch": 416,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5398,6 +5398,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ECHOSTAR SELLS SPECTRUM LICENSES TO SPACEX FOR $17 BILLION 🚀\n\n- EchoStar agrees to sell spectrum licenses to SpaceX for $17 billion 💸\n- Federal Communications scrutinized EchoStar's compliance with buildout extensions 🧐\n- Deal follows questions on EchoStar's use of mobile-satellite service spectrum 📡\n\nTAKEAWAY: EchoStar's $17 billion spectrum license sale to SpaceX signals a strategic move amidst scrutiny over compliance with buildout extensions.",
       "exported_at": "2025-09-08T08:19:40.320808",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: EchoStar, Robinhood, AppLovin, Alibaba and more",
+      "link": "https://www.cnbc.com/2025/09/08/stocks-making-the-biggest-moves-premarket-sats-hood-app-baba.html",
+      "summary": "These are some of the stocks posting the largest moves in premarket trading.",
+      "published": "Mon, 08 Sep 2025 12:25:33 GMT",
+      "content": "These are some of the stocks posting the largest moves in premarket trading.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fe1b2401b92d64c5792c56d12ac97a8e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS WITH MASSIVE PREMARKET MOVES 🚀\n\n- EchoStar, Robinhood, AppLovin, Alibaba surge before market opens 📈\n- Investors eyeing premarket signals for early trading opportunities 🧐\n- Market buzz intensifies as stocks show significant premarket shifts 🔥\n\nTAKEAWAY: Keep a close watch on EchoStar, Robinhood, AppLovin, Alibaba, and other stocks for potential early trading opportunities based on their premarket movements.",
+      "exported_at": "2025-09-08T08:34:56.902216",
       "continuous_session": true
     }
   ]
