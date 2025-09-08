@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T08:34:56.927178",
-    "total_articles": 416,
-    "new_articles_in_last_fetch": 416,
+    "created_at": "2025-09-08T08:55:15.589054",
+    "total_articles": 417,
+    "new_articles_in_last_fetch": 417,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5411,6 +5411,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCKS WITH MASSIVE PREMARKET MOVES 🚀\n\n- EchoStar, Robinhood, AppLovin, Alibaba surge before market opens 📈\n- Investors eyeing premarket signals for early trading opportunities 🧐\n- Market buzz intensifies as stocks show significant premarket shifts 🔥\n\nTAKEAWAY: Keep a close watch on EchoStar, Robinhood, AppLovin, Alibaba, and other stocks for potential early trading opportunities based on their premarket movements.",
       "exported_at": "2025-09-08T08:34:56.902216",
+      "continuous_session": true
+    },
+    {
+      "title": "Bank of America sees &apos;attractive entry point&apos; in Kenvue after Tylenol controversy sparks sell-off",
+      "link": "https://www.cnbc.com/2025/09/08/bank-of-america-sees-attractive-entry-point-in-kenvue-after-tylenol-controversy-sparks-sell-off.html",
+      "summary": "The firm remains bullish on the stock, noting it's trading at a discount to the average of peer names in household and personal care.",
+      "published": "Mon, 08 Sep 2025 12:51:08 GMT",
+      "content": "The firm remains bullish on the stock, noting it's trading at a discount to the average of peer names in household and personal care.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "77045b3bd0c43d4a918b163f9a28ff63",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BANK OF AMERICA SPOTS \"ATTRACTIVE ENTRY POINT\" IN KENVUE 🚀\n\n- Bank of America remains bullish on Kenvue stock 📈\n- Sees it trading at a discount compared to peers 🎯\n- Tylenol controversy sparks sell-off, creating opportunity ⚡️\n\nTAKEAWAY: Bank of America identifies an \"attractive entry point\" in Kenvue stock after a sell-off due to the Tylenol controversy, seeing it as undervalued compared to peers.",
+      "exported_at": "2025-09-08T08:55:15.582295",
       "continuous_session": true
     }
   ]
