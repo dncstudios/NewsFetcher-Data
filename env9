@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T15:06:52.229875",
-    "total_articles": 455,
-    "new_articles_in_last_fetch": 455,
+    "created_at": "2025-09-08T15:17:04.325445",
+    "total_articles": 456,
+    "new_articles_in_last_fetch": 456,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5918,6 +5918,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: COGNITION VALUED AT $10.2 BILLION AFTER WINDSURF PURCHASE 🚀\n\n- Cognition's value skyrockets to $10.2 billion post Windsurf acquisition 💰\n- Investors show confidence in Cognition's potential 📈\n- Windsurf acquisition proves to be a strategic move for Cognition 🔥\n- Rapid increase in valuation highlights market optimism ⚡️\n- AI coding startup Windsurf acquisition boosts Cognition's worth 💡\n\nTAKEAWAY: Cognition's valuation soaring to $10.2 billion within two months of acquiring Windsurf showcases investor confidence and strategic growth in the AI sector.",
       "exported_at": "2025-09-08T15:06:52.206273",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump&apos;s Epstein letter and drawing from &apos;birthday book&apos; released",
+      "link": "https://www.cnbc.com/2025/09/08/trump-epstein-birthday-book-oversight.html",
+      "summary": "Trump's signature in the letter to Epstein is located just below the thighs of a drawing of a woman's torso.",
+      "published": "Mon, 08 Sep 2025 19:15:57 GMT",
+      "content": "Trump's signature in the letter to Epstein is located just below the thighs of a drawing of a woman's torso.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ceb38ed74d0ea52f28488a351fa3b43c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP'S LETTER TO EPSTEIN: WHAT THE SIGNATURE REVEALS? ⚠️\n\n- Trump's signature positioned below thighs of a woman's torso drawing 🖊️\n- Letter released sheds light on Trump's connection with Epstein 🤔\n\nTAKEAWAY: The positioning of Trump's signature in the letter to Epstein, below a woman's torso drawing, raises questions about their relationship and connections.",
+      "exported_at": "2025-09-08T15:17:04.292885",
       "continuous_session": true
     }
   ]
