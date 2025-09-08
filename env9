@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T07:49:09.601322",
-    "total_articles": 412,
-    "new_articles_in_last_fetch": 412,
+    "created_at": "2025-09-08T08:14:34.857905",
+    "total_articles": 414,
+    "new_articles_in_last_fetch": 414,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5360,6 +5360,31 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NVIDIA'S PRICE TARGET CUT BY CITI AMID AI COMPETITION GROWTH ⚠️\n\n- Citi analyst Atif Malik lowers Nvidia price target by $10 💸\n- Malik maintains buy rating despite trimming price target ✅\n- Competition in AI sector intensifies, impacting Nvidia 🤖\n\nTAKEAWAY: Despite Citi's price target cut for Nvidia due to growing competition in the AI arena, the buy rating remains, reflecting a nuanced outlook on the company's performance.",
       "exported_at": "2025-09-08T07:49:09.595142",
+      "continuous_session": true
+    },
+    {
+      "title": "Here are Monday&apos;s biggest analyst calls: Nvidia, Apple, Tesla, Palantir, Oracle, Chewy, Roblox, Alphabet &amp; more",
+      "link": "https://www.cnbc.com/2025/09/08/stocks-from-analyst-calls-monday-like-nvidia.html",
+      "summary": "Here are Monday's biggest calls on Wall Street.",
+      "published": "Mon, 08 Sep 2025 12:11:09 GMT",
+      "content": "Here are Monday's biggest calls on Wall Street.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ae75d1aed5f363dae1df8c1ee90cb463",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "exported_at": "2025-09-08T08:14:34.851404",
+      "continuous_session": true
+    },
+    {
+      "title": "Serena Williams invests in women&apos;s basketball league Unrivaled, now valued at $340 million",
+      "link": "https://www.cnbc.com/2025/09/08/serena-williams-unrivaled-investment-league-value.html",
+      "summary": "Unrivaled is now valued at $340 million as the league gains Serena Williams as its newest investor.",
+      "published": "Mon, 08 Sep 2025 12:00:01 GMT",
+      "content": "Unrivaled is now valued at $340 million as the league gains Serena Williams as its newest investor.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "15cf44c70ecb2b3ae0f271bc6fa0348d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SERENA WILLIAMS BACKS WOMEN'S BASKETBALL LEAGUE UNRIVALED 🚀\n\n- Unrivaled's value skyrockets to $340 million 💰\n- Tennis legend Serena Williams joins as investor 🌟\n- Women's basketball league attracts high-profile support 🏀\n- Serena's investment boosts Unrivaled's credibility 📈\n- Unrivaled positioned for significant growth 📈\n- Serena's move highlights the potential of women's sports ⚡️\n\nTAKEAWAY: Serena Williams' investment in Unrivaled not only elevates the league's value but also shines a spotlight on the potential and growth of women's sports.",
+      "exported_at": "2025-09-08T08:14:34.851422",
       "continuous_session": true
     }
   ]
