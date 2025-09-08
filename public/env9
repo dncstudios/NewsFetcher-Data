@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T16:23:28.468601",
-    "total_articles": 462,
-    "new_articles_in_last_fetch": 462,
+    "created_at": "2025-09-08T16:38:42.150126",
+    "total_articles": 463,
+    "new_articles_in_last_fetch": 463,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -6009,6 +6009,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SANTOLI'S MARKET WRAP-UP: STOCKS RELY ON BIG CAPS 🚀\n\n- Investors favor big-cap tech stocks 📈\n- Monday closes with steady market state 📊\n- Mike highlights continued reliance on larger stocks 💪\n\nTAKEAWAY: Big-cap tech stocks maintain investor favor, leading to a steady market state highlighted by Mike.",
       "exported_at": "2025-09-08T16:23:28.430956",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump Epstein letter and drawing from &apos;birthday book&apos; released",
+      "link": "https://www.cnbc.com/2025/09/08/trump-epstein-birthday-book-oversight.html",
+      "summary": "President Donald Trump sued The Wall Street Journal for defamation over its report revealing the existence of the letter to Jeffrey Epstein.",
+      "published": "Mon, 08 Sep 2025 20:35:11 GMT",
+      "content": "President Donald Trump sued The Wall Street Journal for defamation over its report revealing the existence of the letter to Jeffrey Epstein.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "402afb0b4ed5492db3ecbe0554a2994c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP'S DEFAMATION LAWSUIT OVER EPSTEIN LETTER REVEAL 🚨\n\n- Trump sues The Wall Street Journal for defamation 📰\n- Lawsuit in response to report on letter to Jeffrey Epstein 📝\n- Letter from 'birthday book' also disclosed in the report 🎂\n\nTAKEAWAY: President Trump takes legal action against The Wall Street Journal for defamation following the release of his letter to Jeffrey Epstein, stirring controversy.",
+      "exported_at": "2025-09-08T16:38:42.124195",
       "continuous_session": true
     }
   ]
