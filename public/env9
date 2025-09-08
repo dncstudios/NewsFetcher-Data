@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T09:30:49.794689",
-    "total_articles": 420,
-    "new_articles_in_last_fetch": 420,
+    "created_at": "2025-09-08T09:35:58.539599",
+    "total_articles": 421,
+    "new_articles_in_last_fetch": 421,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5463,6 +5463,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JPMORGAN TRADERS NAIL S&P 500 RALLY, DOUBTS CREEP IN 📉\n\n- JPMorgan predicted S&P 500's all-time high rally accurately 📈\n- Traders start to feel uncertain about market direction 🤔\n- Concerns arise despite initial success in market predictions 💡\n\nTAKEAWAY: JPMorgan traders accurately forecasted the S&P 500 rally, but doubts are emerging about the market's future trajectory, signaling a shift in confidence.",
       "exported_at": "2025-09-08T09:30:49.788467",
+      "continuous_session": true
+    },
+    {
+      "title": "S&amp;P 500 rises to start the week as traders look ahead to key inflation data: Live updates",
+      "link": "https://www.cnbc.com/2025/09/07/stock-market-today-live-updates.html",
+      "summary": "Stocks ticked higher on Monday as investors gear up for a data-heavy week that includes two closely watched readings on inflation.",
+      "published": "Mon, 08 Sep 2025 13:33:56 GMT",
+      "content": "Stocks ticked higher on Monday as investors gear up for a data-heavy week that includes two closely watched readings on inflation.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "21453b04ccb838a366524de4b58af481",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: S&P 500 RISES AS INVESTORS EAGERLY AWAIT KEY INFLATION DATA 🚀\n\n- Stock market sees slight uptick on Monday 📈\n- Investors anticipate crucial inflation reports 📊\n- Week packed with data, including key inflation readings 📉\n- Market players closely monitor upcoming economic indicators 🔍\n- Traders focus on potential impact of inflation data on markets 💼\n\nTAKEAWAY: The S&P 500 starts the week with a modest rise as investors eagerly await crucial inflation data, setting the stage for a data-packed week ahead.",
+      "exported_at": "2025-09-08T09:35:58.533530",
       "continuous_session": true
     }
   ]
