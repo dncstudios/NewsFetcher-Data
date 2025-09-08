@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T06:27:34.603928",
-    "total_articles": 406,
-    "new_articles_in_last_fetch": 406,
+    "created_at": "2025-09-08T06:32:42.353969",
+    "total_articles": 407,
+    "new_articles_in_last_fetch": 407,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5282,6 +5282,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TESLA'S U.S. MARKET SHARE HITS LOWEST SINCE 2017 📉\n\n- Tesla's U.S. market share drops amidst increasing competition 📉\n- Board proposes $1 trillion pay package tied to $8.5 trillion value goal 💰\n- Elon Musk's compensation linked to ambitious Tesla value target 💪\n- Competition intensifies, impacting Tesla's market presence 🚨\n- Tesla faces challenges in maintaining market leadership 🛑\n\nTAKEAWAY: Tesla's market share decline in the U.S. reflects growing competition, while Elon Musk's $1 trillion pay package tied to ambitious growth targets highlights the company's determination to succeed.",
       "exported_at": "2025-09-08T06:27:34.598277",
+      "continuous_session": true
+    },
+    {
+      "title": "U.S. to target more businesses after Hyundai raid, top official says",
+      "link": "https://www.cnbc.com/2025/09/07/us-to-target-more-businesses-after-hyundai-raid-top-official-says.html",
+      "summary": "The Trump administration plans to target more businesses for immigration enforcement, a top White House official said on Sunday.",
+      "published": "Sun, 07 Sep 2025 16:29:41 GMT",
+      "content": "The Trump administration plans to target more businesses for immigration enforcement, a top White House official said on Sunday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1733bee5c208182cab18860e4c607275",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: U.S. TO TARGET MORE BUSINESSES AFTER HYUNDAI RAID 🚨\n\n- Trump admin to focus on more businesses for immigration enforcement\n- White House official confirms plans for heightened scrutiny ⚠️\n- Increased measures expected in response to Hyundai raid\n\nTAKEAWAY: Following the Hyundai raid, the U.S. administration intensifies its focus on businesses for immigration enforcement, signaling stricter measures ahead.",
+      "exported_at": "2025-09-08T06:32:42.347475",
       "continuous_session": true
     }
   ]
