@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T06:32:42.353969",
-    "total_articles": 407,
-    "new_articles_in_last_fetch": 407,
+    "created_at": "2025-09-08T06:58:06.942030",
+    "total_articles": 409,
+    "new_articles_in_last_fetch": 409,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5295,6 +5295,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: U.S. TO TARGET MORE BUSINESSES AFTER HYUNDAI RAID 🚨\n\n- Trump admin to focus on more businesses for immigration enforcement\n- White House official confirms plans for heightened scrutiny ⚠️\n- Increased measures expected in response to Hyundai raid\n\nTAKEAWAY: Following the Hyundai raid, the U.S. administration intensifies its focus on businesses for immigration enforcement, signaling stricter measures ahead.",
       "exported_at": "2025-09-08T06:32:42.347475",
+      "continuous_session": true
+    },
+    {
+      "title": "Dan Ives to become chair of company that will buy Sam Altman-backed Worldcoin for its treasury",
+      "link": "https://www.cnbc.com/2025/09/08/dan-ives-to-become-chair-of-company-that-will-buy-sam-altman-backed-worldcoin-for-its-treasury.html",
+      "summary": "Wedbush Securities' Ives will help lead Eightco Holdings' treasury strategy around Worldcoin, which he says will change the game for identity verification.",
+      "published": "Mon, 08 Sep 2025 10:50:21 GMT",
+      "content": "Wedbush Securities' Ives will help lead Eightco Holdings' treasury strategy around Worldcoin, which he says will change the game for identity verification.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5a587a2df659bbb46612fb7be3c0ab59",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DAN IVES TO LEAD TREASURY STRATEGY FOR WORLD-CHANGING WORLDCOIN 🚀\n\n- Wedbush Securities' Ives to chair Eightco Holdings' treasury strategy\n- Acquisition of Sam Altman-backed Worldcoin in focus\n- Worldcoin set to revolutionize identity verification\n- Ives optimistic about the game-changing potential of Worldcoin\n\nTAKEAWAY: Dan Ives' role in leading Eightco Holdings' treasury strategy for the acquisition of Worldcoin, backed by Sam Altman, signifies a game-changing move in identity verification. 🚀",
+      "exported_at": "2025-09-08T06:58:06.920591",
+      "continuous_session": true
+    },
+    {
+      "title": "Buy this cloud stock that continues to eat up market share, JPMorgan says",
+      "link": "https://www.cnbc.com/2025/09/08/buy-this-cloud-stock-that-continues-to-eat-up-market-share-jpmorgan-says.html",
+      "summary": "Analyst Alexei Gogolev upgraded the stock to overweight from neutral.",
+      "published": "Mon, 08 Sep 2025 10:51:10 GMT",
+      "content": "Analyst Alexei Gogolev upgraded the stock to overweight from neutral.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f681834a1d6a446b4afbfeca1cabb5ec",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BUY THIS CLOUD STOCK WITH MARKET SHARE GROWTH POTENTIAL 🚀\n\n- JPMorgan analyst upgrades stock to overweight 📈\n- Cloud company continues to gain market share 📈\n- Analyst Alexei Gogolev bullish on the stock 🎯\n\nTAKEAWAY: JPMorgan's upgrade to overweight on the cloud stock signals growth potential with increasing market share.",
+      "exported_at": "2025-09-08T06:58:06.920664",
       "continuous_session": true
     }
   ]
