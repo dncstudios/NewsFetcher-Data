@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T10:31:55.302657",
-    "total_articles": 425,
-    "new_articles_in_last_fetch": 425,
+    "created_at": "2025-09-08T10:37:04.473646",
+    "total_articles": 426,
+    "new_articles_in_last_fetch": 426,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5528,6 +5528,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP'S APPEAL REJECTED IN $83.3M DEFAMATION CASE ⚠️\n\n- Federal appeals court denies Trump's request to overturn $83.3M judgment\n- Verdict upholds jury decision holding Trump liable for defaming E. Jean Carroll\n- Trump ordered to pay $83.3 million in defamation case\n- Case involves writer E. Jean Carroll accusing Trump of defamation\n- Court's decision marks a legal setback for President Trump\n- Trump's attempt to challenge verdict in E. Jean Carroll case fails\n\nTAKEAWAY: President Trump faces a legal setback as federal appeals court rejects his bid to overturn the $83.3 million judgment in the defamation case with writer E. Jean Carroll.",
       "exported_at": "2025-09-08T10:31:55.296203",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump asks Supreme Court for emergency order to keep billions of dollars in foreign aid frozen",
+      "link": "https://www.cnbc.com/2025/09/08/trump-asks-supreme-court-to-keep-billions-in-foreign-aid-frozen.html",
+      "summary": "The Trump administration asked the Supreme Court for an emergency order to keep billions of dollars in foreign aid frozen.",
+      "published": "Mon, 08 Sep 2025 14:33:29 GMT",
+      "content": "The Trump administration asked the Supreme Court for an emergency order to keep billions of dollars in foreign aid frozen.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9bc323498b662ab2440ae04876c66742",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP SEEKS SUPREME COURT ORDER TO FREEZE BILLIONS IN FOREIGN AID ⚠️\n\n- Trump administration requests emergency action from Supreme Court\n- Billions in foreign aid at stake, awaiting court decision\n- Uncertainty looms over the outcome of the frozen foreign aid\n\nTAKEAWAY: The Trump administration's plea to the Supreme Court for an emergency order to freeze billions in foreign aid creates uncertainty and anticipation over the decision's outcome.",
+      "exported_at": "2025-09-08T10:37:04.468244",
       "continuous_session": true
     }
   ]
