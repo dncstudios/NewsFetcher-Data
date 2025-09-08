@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T15:17:04.325445",
-    "total_articles": 456,
-    "new_articles_in_last_fetch": 456,
+    "created_at": "2025-09-08T15:22:13.390512",
+    "total_articles": 457,
+    "new_articles_in_last_fetch": 457,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5931,6 +5931,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP'S LETTER TO EPSTEIN: WHAT THE SIGNATURE REVEALS? ⚠️\n\n- Trump's signature positioned below thighs of a woman's torso drawing 🖊️\n- Letter released sheds light on Trump's connection with Epstein 🤔\n\nTAKEAWAY: The positioning of Trump's signature in the letter to Epstein, below a woman's torso drawing, raises questions about their relationship and connections.",
       "exported_at": "2025-09-08T15:17:04.292885",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump appears with Rolex CEO at U.S. Open even as 39% tariff set to pummel Swiss watch imports",
+      "link": "https://www.cnbc.com/2025/09/08/trump-us-open-invitation-rolex-tariff-switzerland.html",
+      "summary": "President Donald Trump reportedly attended the U.S. Open this weekend at the invitation of the watchmaker.",
+      "published": "Mon, 08 Sep 2025 19:17:16 GMT",
+      "content": "President Donald Trump reportedly attended the U.S. Open this weekend at the invitation of the watchmaker.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6b61e39925de26e44fd45081cd1342f6",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP JOINS ROLEX CEO AT U.S. OPEN AMID SWISS WATCH TARIFF THREAT ⚠️\n\n- Trump attends U.S. Open with Rolex CEO amidst 39% Swiss watch tariff\n- President's appearance raises eyebrows amid looming import tax\n- Tariff threatens Swiss watch industry with uncertain future\n\nTAKEAWAY: Trump's public appearance with Rolex CEO at the U.S. Open raises questions about the impact of the upcoming 39% tariff on Swiss watch imports.",
+      "exported_at": "2025-09-08T15:22:13.354261",
       "continuous_session": true
     }
   ]
