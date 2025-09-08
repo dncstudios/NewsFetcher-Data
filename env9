@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T10:52:23.615514",
-    "total_articles": 429,
-    "new_articles_in_last_fetch": 429,
+    "created_at": "2025-09-08T10:57:32.606390",
+    "total_articles": 430,
+    "new_articles_in_last_fetch": 430,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5580,6 +5580,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NASDAQ HITS NEW RECORD HIGH AHEAD OF INFLATION DATA 🚀\n\n- Nasdaq Composite reaches new all-time high 📈\n- Investors prepare for data-heavy week 📊\n- Market anticipates two key inflation readings 🎯\n\nTAKEAWAY: Nasdaq's surge to a new record high sets a positive tone as investors brace for upcoming inflation data releases, signaling optimism in the market.",
       "exported_at": "2025-09-08T10:52:23.609189",
+      "continuous_session": true
+    },
+    {
+      "title": "Chinese EV maker Xpeng eyes global launch of mass-market Mona brand in 2026",
+      "link": "https://www.cnbc.com/2025/09/08/xpeng-plans-global-launch-of-mass-market-mona-brand-in-2026.html",
+      "summary": "Xpeng plans to launch its mass-market Mona brand outside of China, CEO He Xiaopeng told CNBC.",
+      "published": "Mon, 08 Sep 2025 14:47:18 GMT",
+      "content": "Xpeng plans to launch its mass-market Mona brand outside of China, CEO He Xiaopeng told CNBC.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c743a903789774af1a2a92a6314bc665",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: XPENG TO LAUNCH MASS-MARKET MONA BRAND GLOBALLY IN 2026 🚀\n\n- Xpeng set to expand Mona brand beyond China 🌏\n- CEO He Xiaopeng confirms plans to CNBC 💬\n- Global launch scheduled for 2026 📆\n\nTAKEAWAY: Xpeng's ambitious move to introduce its mass-market Mona brand worldwide in 2026 showcases its determination to expand and compete on a global scale.",
+      "exported_at": "2025-09-08T10:57:32.599859",
       "continuous_session": true
     }
   ]
