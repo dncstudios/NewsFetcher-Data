@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T14:05:43.849631",
-    "total_articles": 450,
-    "new_articles_in_last_fetch": 450,
+    "created_at": "2025-09-08T14:26:03.124313",
+    "total_articles": 451,
+    "new_articles_in_last_fetch": 451,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5853,6 +5853,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: GETTING A BETTER MORTGAGE RATE AMID 1-YEAR LOW 🚀\n\n- 30-year fixed mortgage rates nearing a 1-year low 📉\n- Lower rates offer hope for buyers feeling priced out 🏡\n- Securing a better rate can make home buying more accessible ✅\n- Lower rates can positively impact housing market activity 🔥\n- Time to consider refinancing for potential savings 💰\n- Lower mortgage rates can boost affordability for buyers 📈\n\nTAKEAWAY: With 30-year fixed mortgage rates at a 1-year low, seizing the opportunity to secure a better rate can make home buying more accessible and positively impact the housing market.",
       "exported_at": "2025-09-08T14:05:43.818055",
+      "continuous_session": true
+    },
+    {
+      "title": "$1.787 billion Powerball jackpot winning tickets sold in two states — one could pay a bigger tax bill",
+      "link": "https://www.cnbc.com/2025/09/08/powerball-jackpot-winning-tickets.html",
+      "summary": "$1.787 billion Powerball jackpot winning tickets sold in two states. One of them could pay a higher tax bill.",
+      "published": "Mon, 08 Sep 2025 17:42:46 GMT",
+      "content": "$1.787 billion Powerball jackpot winning tickets sold in two states. One of them could pay a higher tax bill.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6abe4032413afe7a7ef06a83a5450129",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: $1.787 BILLION POWERBALL JACKPOT WINNERS REVEALED 🚀\n\n- Two winning tickets sold in different states 🎉\n- One winner faces potentially higher tax bill 💸\n- Massive jackpot split between lucky players 💰\n\nTAKEAWAY: Two fortunate individuals hit the $1.787 billion Powerball jackpot, with one possibly facing a larger tax bill, sharing the massive prize.",
+      "exported_at": "2025-09-08T14:26:03.087141",
       "continuous_session": true
     }
   ]
