@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T11:48:40.241896",
-    "total_articles": 440,
-    "new_articles_in_last_fetch": 440,
+    "created_at": "2025-09-08T12:14:03.219537",
+    "total_articles": 442,
+    "new_articles_in_last_fetch": 442,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5723,6 +5723,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JIM CRAMER'S TOP STOCK PICK FOR BREAKFAST LOVERS 🚀\n\n- Convenience store stock soars 28% YTD 📈\n- Jim Cramer recommends shift from Mag7 to this gem 💎\n\nTAKEAWAY: Ditch the Mag7 and ride the wave of this convenience store stock recommended by Jim Cramer, up over 28% this year.",
       "exported_at": "2025-09-08T11:48:40.235385",
+      "continuous_session": true
+    },
+    {
+      "title": "What to know about the Hyundai-LG plant immigration raid in Georgia",
+      "link": "https://www.cnbc.com/2025/09/08/hyundai-lg-immigration-raid-georgia.html",
+      "summary": "Federal and immigration agents conducted a massive raid on a Hyundai facility in Ellabell, Georgia, last week, arresting 475 people.",
+      "published": "Mon, 08 Sep 2025 16:00:51 GMT",
+      "content": "Federal and immigration agents conducted a massive raid on a Hyundai facility in Ellabell, Georgia, last week, arresting 475 people.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2c1da5c49cc3c712fd8c9b76e7f90761",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WHAT WENT DOWN IN THE HYUNDAI-LG PLANT IMMIGRATION RAID IN GEORGIA ⚠️\n\n- Federal agents raid Hyundai plant in Ellabell, Georgia 🚨\n- 475 people arrested in massive immigration crackdown 🚔\n- Uncovers potential immigration violations at the facility ❌\n- Hyundai cooperating with authorities in the investigation ✅\n\nTAKEAWAY: The massive immigration raid at the Hyundai-LG plant in Georgia raises concerns about potential violations and highlights the importance of cooperation with authorities in such cases.",
+      "exported_at": "2025-09-08T12:14:03.212696",
+      "continuous_session": true
+    },
+    {
+      "title": "Howard Stern is not leaving his SiriusXM radio show, pulls prank with Andy Cohen",
+      "link": "https://www.cnbc.com/2025/09/08/howard-stern-is-not-leaving-his-siriusxm-radio-show-pulls-prank-with-andy-cohen.html",
+      "summary": "\"That was all masterminded by me,\" Stern said on air Monday. \"I said to Andy, would you cut a bit for us? And he immediately said yes.\"",
+      "published": "Mon, 08 Sep 2025 16:07:45 GMT",
+      "content": "\"That was all masterminded by me,\" Stern said on air Monday. \"I said to Andy, would you cut a bit for us? And he immediately said yes.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fd419a51ee46d7c45ed988e9a3ef8023",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: HOWARD STERN STAYS ON SIRIUSXM, PULLS PRANK WITH ANDY COHEN 🚀\n\n- Stern confirms he's not leaving his SiriusXM show 📡\n- Masterminds prank with Andy Cohen on air 🎙️\n- Cohen agrees to cut a bit for Stern's show 🤩\n\nTAKEAWAY: Howard Stern's confirmation of staying on SiriusXM and pulling pranks with Andy Cohen showcases his wit and commitment to entertaining his audience.",
+      "exported_at": "2025-09-08T12:14:03.212707",
       "continuous_session": true
     }
   ]
