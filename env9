@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T12:14:03.219537",
-    "total_articles": 442,
-    "new_articles_in_last_fetch": 442,
+    "created_at": "2025-09-08T12:49:32.496748",
+    "total_articles": 443,
+    "new_articles_in_last_fetch": 443,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5749,6 +5749,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: HOWARD STERN STAYS ON SIRIUSXM, PULLS PRANK WITH ANDY COHEN 🚀\n\n- Stern confirms he's not leaving his SiriusXM show 📡\n- Masterminds prank with Andy Cohen on air 🎙️\n- Cohen agrees to cut a bit for Stern's show 🤩\n\nTAKEAWAY: Howard Stern's confirmation of staying on SiriusXM and pulling pranks with Andy Cohen showcases his wit and commitment to entertaining his audience.",
       "exported_at": "2025-09-08T12:14:03.212707",
+      "continuous_session": true
+    },
+    {
+      "title": "Will the bull market keep going this week? Use this technique for your guidepost",
+      "link": "https://www.cnbc.com/2025/09/08/will-the-bull-market-keep-going-this-week-use-this-technique-for-your-guidepost.html",
+      "summary": "NYSE insider Jay Woods breaks down what the pros are watching this week.",
+      "published": "Mon, 08 Sep 2025 16:44:43 GMT",
+      "content": "NYSE insider Jay Woods breaks down what the pros are watching this week.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c9dceda67ae32f9a555b9070b96a8cc6",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WILL THE BULL MARKET ROAR ON? 🚀\n\n- NYSE insider Jay Woods reveals key indicators for the week 📈\n- Pros closely monitor market signals for bullish momentum 📊\n- Investors seek guidance to navigate volatile markets 🎯\n\nTAKEAWAY: Stay tuned to NYSE insider Jay Woods' breakdown to navigate the bullish market this week with confidence and precision.",
+      "exported_at": "2025-09-08T12:49:32.489967",
       "continuous_session": true
     }
   ]
