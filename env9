@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T10:42:13.020920",
-    "total_articles": 428,
-    "new_articles_in_last_fetch": 428,
+    "created_at": "2025-09-08T10:52:23.615514",
+    "total_articles": 429,
+    "new_articles_in_last_fetch": 429,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5567,6 +5567,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ECHOSTAR SELLS SPECTRUM LICENSES TO SPACEX FOR $17 BILLION 🚀\n\n- EchoStar agrees to sell spectrum licenses to SpaceX for $17 billion 💸\n- Federal Communications scrutinized EchoStar's compliance with buildout extensions 🧐\n- Deal follows questions on EchoStar's use of mobile-satellite service spectrum 📡\n\nTAKEAWAY: EchoStar's $17 billion spectrum license sale to SpaceX signals a strategic move amidst scrutiny over compliance with buildout extensions.",
       "exported_at": "2025-09-08T10:42:13.014704",
+      "continuous_session": true
+    },
+    {
+      "title": "Nasdaq rises to new record, but Dow is little changed ahead of inflation data this week: Live updates",
+      "link": "https://www.cnbc.com/2025/09/07/stock-market-today-live-updates.html",
+      "summary": "The Nasdaq Composite jumped to a record on Monday as investors gear up for a data-heavy week that includes two closely watched readings on inflation.",
+      "published": "Mon, 08 Sep 2025 14:51:59 GMT",
+      "content": "The Nasdaq Composite jumped to a record on Monday as investors gear up for a data-heavy week that includes two closely watched readings on inflation.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "46c7da3f90b0d4d627cb45d2a9a223dd",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NASDAQ HITS NEW RECORD HIGH AHEAD OF INFLATION DATA 🚀\n\n- Nasdaq Composite reaches new all-time high 📈\n- Investors prepare for data-heavy week 📊\n- Market anticipates two key inflation readings 🎯\n\nTAKEAWAY: Nasdaq's surge to a new record high sets a positive tone as investors brace for upcoming inflation data releases, signaling optimism in the market.",
+      "exported_at": "2025-09-08T10:52:23.609189",
       "continuous_session": true
     }
   ]
