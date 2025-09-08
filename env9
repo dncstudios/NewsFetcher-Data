@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T10:16:37.883436",
-    "total_articles": 423,
-    "new_articles_in_last_fetch": 423,
+    "created_at": "2025-09-08T10:26:47.008884",
+    "total_articles": 424,
+    "new_articles_in_last_fetch": 424,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5502,6 +5502,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: GOLDMAN SACHS BETS BIG ON GOLD MINERS 🚀\n\n- Goldman Sachs recommends investing in gold miners 🏅\n- Predicts gold prices to surge by 14% by 2026 📈\n- Strategists believe in the potential of gold market 💰\n\nTAKEAWAY: Goldman Sachs' bullish stance on gold miners and the predicted 14% surge in gold prices by 2026 make it an attractive investment opportunity.",
       "exported_at": "2025-09-08T10:16:37.878065",
+      "continuous_session": true
+    },
+    {
+      "title": "Nasdaq rises to new record, but broader market is little changed ahead of inflation data this week: Live updates",
+      "link": "https://www.cnbc.com/2025/09/07/stock-market-today-live-updates.html",
+      "summary": "Stocks ticked higher on Monday as investors gear up for a data-heavy week that includes two closely watched readings on inflation.",
+      "published": "Mon, 08 Sep 2025 14:25:41 GMT",
+      "content": "Stocks ticked higher on Monday as investors gear up for a data-heavy week that includes two closely watched readings on inflation.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "42ffd7acd420848f025bb15920c1c937",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: S&P 500 RISES AS INVESTORS EAGERLY AWAIT KEY INFLATION DATA 🚀\n\n- Stock market sees slight uptick on Monday 📈\n- Investors anticipate crucial inflation reports 📊\n- Week packed with data, including key inflation readings 📉\n- Market players closely monitor upcoming economic indicators 🔍\n- Traders focus on potential impact of inflation data on markets 💼\n\nTAKEAWAY: The S&P 500 starts the week with a modest rise as investors eagerly await crucial inflation data, setting the stage for a data-packed week ahead.",
+      "exported_at": "2025-09-08T10:26:47.002358",
       "continuous_session": true
     }
   ]
