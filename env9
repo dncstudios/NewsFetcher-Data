@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T17:19:30.389549",
-    "total_articles": 468,
-    "new_articles_in_last_fetch": 468,
+    "created_at": "2025-09-08T17:24:39.719918",
+    "total_articles": 470,
+    "new_articles_in_last_fetch": 470,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -6087,6 +6087,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NASDAQ HITS RECORD HIGH AHEAD OF INFLATION DATA 🚀\n\n- Nasdaq Composite closes at all-time high 📈\n- Investors prepare for data-heavy week 📊\n- Focus on upcoming inflation readings 🔍\n- Market anticipates impact of inflation data 💰\n\nTAKEAWAY: Nasdaq's record-breaking close sets the stage for a data-heavy week with a keen focus on upcoming inflation readings.",
       "exported_at": "2025-09-08T17:19:30.356029",
+      "continuous_session": true
+    },
+    {
+      "title": "Ex-Meta employee files whistleblower suit for alleged security flaws at WhatsApp",
+      "link": "https://www.cnbc.com/2025/09/08/ex-meta-employee-whistleblower-suit-alleged-security-flaws-whatsapp-.html",
+      "summary": "A former Meta employee sued the company over allegations that its WhatsApp service contained cybersecurity failures that could compromise user privacy.",
+      "published": "Mon, 08 Sep 2025 21:14:32 GMT",
+      "content": "A former Meta employee sued the company over allegations that its WhatsApp service contained cybersecurity failures that could compromise user privacy.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "38dd7f7da0cfc4df9bc6184661f0699c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WHISTLEBLOWER SUIT FILED AGAINST META OVER WHATSAPP SECURITY FLAWS ⚠️\n\n- Ex-Meta employee sues over alleged WhatsApp cybersecurity issues\n- Lawsuit claims security flaws could jeopardize user privacy 🛡️\n- Meta faces legal action for alleged failure to address vulnerabilities\n\nTAKEAWAY: A former Meta employee's whistleblower suit highlights potential security risks in WhatsApp, raising concerns about user privacy and Meta's response to cybersecurity issues.",
+      "exported_at": "2025-09-08T17:24:39.682202",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves after hours: Fox, Dell, Mission Produce and more",
+      "link": "https://www.cnbc.com/2025/09/08/stocks-making-the-biggest-moves-after-hours-fox-dell-avo.html",
+      "summary": "These are the stocks posting the largest moves in extended trading.",
+      "published": "Mon, 08 Sep 2025 21:17:31 GMT",
+      "content": "These are the stocks posting the largest moves in extended trading.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "40887e68b711ae3f7a86244a36ddf191",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS SURGING AFTER HOURS: FOX, DELL, MISSION PRODUCE 🚀\n\n- Fox, Dell, Mission Produce witness significant gains 🔥\n- Stocks show promising momentum post-regular trading hours 🌙\n- Extended trading sees notable shifts in stock prices 💹\n\nTAKEAWAY: Fox, Dell, and Mission Produce experience substantial after-hours stock movements, indicating potential market excitement and opportunities.",
+      "exported_at": "2025-09-08T17:24:39.682238",
       "continuous_session": true
     }
   ]
