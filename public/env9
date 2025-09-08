@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-07T20:52:06.367514",
-    "total_articles": 390,
-    "new_articles_in_last_fetch": 390,
+    "created_at": "2025-09-07T22:47:55.179563",
+    "total_articles": 391,
+    "new_articles_in_last_fetch": 391,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5074,6 +5074,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ASIA MARKETS MIXED AMID JAPAN PM RESIGNATION 🚀\n\n- Japan PM Shigeru Ishiba to resign, impacting market sentiment 🇯🇵\n- Investors cautious, eyeing China trade data 🇨🇳\n- Uncertainty looms over Japan's political future 🤔\n\nTAKEAWAY: Asia markets face mixed opening as investors evaluate the impact of Japan PM Ishiba's resignation and closely monitor China trade data.",
       "exported_at": "2025-09-07T20:52:06.337050",
+      "continuous_session": true
+    },
+    {
+      "title": "Alibaba leads $100 million investment in Chinese humanoid robot startup",
+      "link": "https://www.cnbc.com/2025/09/08/alibaba-leads-100-million-investment-in-chinese-humanoid-robot-startup.html",
+      "summary": "Capital is rushing into humanoids — X Square Robot has completed eight fundraising rounds in less than two years since the startup was founded.",
+      "published": "Mon, 08 Sep 2025 02:42:09 GMT",
+      "content": "Capital is rushing into humanoids — X Square Robot has completed eight fundraising rounds in less than two years since the startup was founded.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ff1cac645a6f64a6f36a33a13eadd672",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ALIBABA LEADS $100M INVESTMENT IN CHINESE ROBOT STARTUP 🚀\n\n- Alibaba spearheads $100M investment in humanoid robot startup 🤖\n- X Square Robot secures funds with 8 rounds in under 2 years 💰\n- Capital influx accelerates development in the humanoid sector 📈\n\nTAKEAWAY: Alibaba's $100 million investment in X Square Robot propels the development of humanoid robots, marking a significant acceleration in this sector.",
+      "exported_at": "2025-09-07T22:47:55.151101",
       "continuous_session": true
     }
   ]
