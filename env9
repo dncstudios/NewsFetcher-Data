@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T15:32:25.692268",
-    "total_articles": 458,
-    "new_articles_in_last_fetch": 458,
+    "created_at": "2025-09-08T15:37:35.364110",
+    "total_articles": 459,
+    "new_articles_in_last_fetch": 459,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5957,6 +5957,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP'S DEFAMATION LAWSUIT OVER EPSTEIN LETTER REVEAL 🚨\n\n- Trump sues The Wall Street Journal for defamation 📰\n- Lawsuit in response to report on letter to Jeffrey Epstein 📝\n- Letter from 'birthday book' also disclosed in the report 🎂\n\nTAKEAWAY: President Trump takes legal action against The Wall Street Journal for defamation following the release of his letter to Jeffrey Epstein, stirring controversy.",
       "exported_at": "2025-09-08T15:32:25.667457",
+      "continuous_session": true
+    },
+    {
+      "title": "What Goldman’s deal with T. Rowe Price means for private assets in your 401(k)",
+      "link": "https://www.cnbc.com/2025/09/08/what-goldmans-deal-with-t-rowe-price-means-for-private-assets-in-401ks.html",
+      "summary": "Here is how the landscape is shaping up for alternative assets in 401(k)s",
+      "published": "Mon, 08 Sep 2025 19:31:13 GMT",
+      "content": "Here is how the landscape is shaping up for alternative assets in 401(k)s",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "368e7d43677c1652a5d7d28d99a34b3e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WHAT GOLDMAN'S DEAL WITH T. ROWE PRICE MEANS FOR YOUR 401(K) 🚀\n\n- Goldman Sachs partners with T. Rowe Price for alternative assets 🤝\n- Move signifies shift towards private investments in 401(k)s 💼\n- Investors gain access to previously restricted opportunities ✅\n- Alternative assets offer diversification and potential higher returns 💰\n- Growing trend towards incorporating private assets in retirement plans 📈\n- Increased interest in non-traditional investments for long-term growth 🌱\n\nTAKEAWAY: Goldman Sachs and T. Rowe Price's collaboration paves the way for more diverse investment options in 401(k)s, signaling a shift towards alternative assets for higher potential returns.",
+      "exported_at": "2025-09-08T15:37:35.333633",
       "continuous_session": true
     }
   ]
