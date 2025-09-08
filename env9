@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T11:28:13.408905",
-    "total_articles": 436,
-    "new_articles_in_last_fetch": 436,
+    "created_at": "2025-09-08T11:33:21.006738",
+    "total_articles": 437,
+    "new_articles_in_last_fetch": 437,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5671,6 +5671,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BEST STOCKS ON A TEAR LIKE CARVANA - MAXIMIZE GAINS NOW! 🚀\n\n- 3 Best Stocks soaring since initial mention 📈\n- Josh & Sean analyze key risk management strategies 🔍\n- Capture maximum gains with these high-flying stocks 💰\n\nTAKEAWAY: Explore the surge in Best Stocks akin to Carvana, strategize risk management, and maximize gains with expert analysis from Josh and Sean.",
       "exported_at": "2025-09-08T11:28:13.402329",
+      "continuous_session": true
+    },
+    {
+      "title": "Here&apos;s how  to handle your student loans after losing a job",
+      "link": "https://www.cnbc.com/2025/09/08/how-to-handle-your-student-loans-after-losing-your-job.html",
+      "summary": "Amid a slowing job market and an uptick in unemployment, more student loan borrowers are struggling to pay their bills. Fortunately, they have options.",
+      "published": "Mon, 08 Sep 2025 15:26:18 GMT",
+      "content": "Amid a slowing job market and an uptick in unemployment, more student loan borrowers are struggling to pay their bills. Fortunately, they have options.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d4a3dd92c5dd5b5152881a2ff830f7cc",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: HOW TO MANAGE STUDENT LOANS AFTER JOB LOSS 🚨\n\n- Rising unemployment challenges student loan repayments 📉\n- Borrowers facing difficulties can explore available options ✅\n- Solutions exist to ease the burden of loan payments 💡\n\nTAKEAWAY: In a tough job market, knowing how to navigate student loan repayments after losing a job is crucial for borrowers facing financial difficulties.",
+      "exported_at": "2025-09-08T11:33:21.000174",
       "continuous_session": true
     }
   ]
