@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T17:14:22.109730",
-    "total_articles": 467,
-    "new_articles_in_last_fetch": 467,
+    "created_at": "2025-09-08T17:19:30.389549",
+    "total_articles": 468,
+    "new_articles_in_last_fetch": 468,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -6074,6 +6074,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: LACHLAN MURDOCH TAKES THE REINS AT FOX, WSJ MEDIA EMPIRE 🚀\n\n- Lachlan Murdoch secures control of Murdoch family media empire ✅\n- Rupert Murdoch's son set to lead politically conservative media 📺\n- Deal solidifies Lachlan's position in the media industry 🏛️\n\nTAKEAWAY: Lachlan Murdoch's new deal cements his leadership role in the family media empire, signaling a significant shift in the industry's landscape.",
       "exported_at": "2025-09-08T17:14:22.077304",
+      "continuous_session": true
+    },
+    {
+      "title": "Nasdaq closes at record, S&amp;P 500 ends higher ahead of inflation data this week",
+      "link": "https://www.cnbc.com/2025/09/07/stock-market-today-live-updates.html",
+      "summary": "The Nasdaq Composite closed at a record on Monday as investors gear up for a data-heavy week that includes two closely watched readings on inflation.",
+      "published": "Mon, 08 Sep 2025 21:04:54 GMT",
+      "content": "The Nasdaq Composite closed at a record on Monday as investors gear up for a data-heavy week that includes two closely watched readings on inflation.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e14cf4e9681459c0bd9796b2b8ff2de3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NASDAQ HITS RECORD HIGH AHEAD OF INFLATION DATA 🚀\n\n- Nasdaq Composite closes at all-time high 📈\n- Investors prepare for data-heavy week 📊\n- Focus on upcoming inflation readings 🔍\n- Market anticipates impact of inflation data 💰\n\nTAKEAWAY: Nasdaq's record-breaking close sets the stage for a data-heavy week with a keen focus on upcoming inflation readings.",
+      "exported_at": "2025-09-08T17:19:30.356029",
       "continuous_session": true
     }
   ]
