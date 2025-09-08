@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-07T20:16:50.160710",
-    "total_articles": 388,
-    "new_articles_in_last_fetch": 388,
+    "created_at": "2025-09-07T20:47:03.460273",
+    "total_articles": 389,
+    "new_articles_in_last_fetch": 389,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5048,6 +5048,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: THE U.S. LOSING TRAVELERS: WHO BENEFITS? 💸\n\n- U.S. faces $30 billion loss in international tourism revenue 💸\n- Neighboring countries poised to gain from U.S. decline 🌎\n- Shift in tourism dollars expected to impact U.S. economy 📉\n\nTAKEAWAY: The U.S. losing $30 billion in international tourism revenue may lead to economic shifts benefiting neighboring nations while impacting the U.S. economy negatively.",
       "exported_at": "2025-09-07T20:16:50.130856",
+      "continuous_session": true
+    },
+    {
+      "title": "Japanese stocks jump after Prime Minister Ishiba set to step down",
+      "link": "https://www.cnbc.com/2025/09/08/asia-pacific-markets-nikkei-225-japan-yen-ishiba-resignation.html",
+      "summary": "Japanese Prime Minister Shigeru Ishiba over the weekend announced he will resign.",
+      "published": "Mon, 08 Sep 2025 00:45:30 GMT",
+      "content": "Japanese Prime Minister Shigeru Ishiba over the weekend announced he will resign.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "bf5118b7c23efb862dd2e14ce0e6d559",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASIA MARKETS MIXED AMID JAPAN PM RESIGNATION 🚀\n\n- Japan PM Shigeru Ishiba to resign, impacting market sentiment 🇯🇵\n- Investors cautious, eyeing China trade data 🇨🇳\n- Uncertainty looms over Japan's political future 🤔\n\nTAKEAWAY: Asia markets face mixed opening as investors evaluate the impact of Japan PM Ishiba's resignation and closely monitor China trade data.",
+      "exported_at": "2025-09-07T20:47:03.429966",
       "continuous_session": true
     }
   ]
