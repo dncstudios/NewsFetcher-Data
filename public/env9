@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T09:35:58.539599",
-    "total_articles": 421,
-    "new_articles_in_last_fetch": 421,
+    "created_at": "2025-09-08T09:41:06.764911",
+    "total_articles": 422,
+    "new_articles_in_last_fetch": 422,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5476,6 +5476,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: S&P 500 RISES AS INVESTORS EAGERLY AWAIT KEY INFLATION DATA 🚀\n\n- Stock market sees slight uptick on Monday 📈\n- Investors anticipate crucial inflation reports 📊\n- Week packed with data, including key inflation readings 📉\n- Market players closely monitor upcoming economic indicators 🔍\n- Traders focus on potential impact of inflation data on markets 💼\n\nTAKEAWAY: The S&P 500 starts the week with a modest rise as investors eagerly await crucial inflation data, setting the stage for a data-packed week ahead.",
       "exported_at": "2025-09-08T09:35:58.533530",
+      "continuous_session": true
+    },
+    {
+      "title": "Highly likable people follow one simple rule—it has nothing to do with being &apos;fake nice,&apos; says communication expert",
+      "link": "https://www.cnbc.com/2025/09/08/the-most-likable-people-follow-simple-rule-its-not-about-being-fake-nice.html",
+      "summary": "\"Highly likable people consistently show genuine interest and curiosity in the humans around them,\" says Lorraine K. Lee, author of \"Unforgettable Presence.\"",
+      "published": "Mon, 08 Sep 2025 13:34:01 GMT",
+      "content": "\"Highly likable people consistently show genuine interest and curiosity in the humans around them,\" says Lorraine K. Lee, author of \"Unforgettable Presence.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1292bd7c2c0e275beb440ca675fe7b8b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: THE SECRET TO BEING HIGHLY LIKABLE REVEALED BY EXPERT 🌟\n\n- Genuine interest in others key to likability\n- Author Lorraine K. Lee emphasizes curiosity \n- Being authentic, not 'fake nice,' is crucial\n\nTAKEAWAY: Genuine interest and curiosity in others are the keys to being highly likable, according to communication expert Lorraine K. Lee.",
+      "exported_at": "2025-09-08T09:41:06.758942",
       "continuous_session": true
     }
   ]
