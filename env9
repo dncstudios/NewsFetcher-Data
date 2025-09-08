@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T16:38:42.150126",
-    "total_articles": 463,
-    "new_articles_in_last_fetch": 463,
+    "created_at": "2025-09-08T17:04:07.551640",
+    "total_articles": 465,
+    "new_articles_in_last_fetch": 465,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -6022,6 +6022,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP'S DEFAMATION LAWSUIT OVER EPSTEIN LETTER REVEAL 🚨\n\n- Trump sues The Wall Street Journal for defamation 📰\n- Lawsuit in response to report on letter to Jeffrey Epstein 📝\n- Letter from 'birthday book' also disclosed in the report 🎂\n\nTAKEAWAY: President Trump takes legal action against The Wall Street Journal for defamation following the release of his letter to Jeffrey Epstein, stirring controversy.",
       "exported_at": "2025-09-08T16:38:42.124195",
+      "continuous_session": true
+    },
+    {
+      "title": "Dell CFO Yvonne McGill to leave, PC maker reaffirms forecasts",
+      "link": "https://www.cnbc.com/2025/09/08/dell-cfo-yvonne-mcgill-to-leave-pc-maker-reaffirms-forecasts.html",
+      "summary": "Dell Technologies said on Monday its Chief Financial Officer Yvonne McGill would resign effective Sept. 9.",
+      "published": "Mon, 08 Sep 2025 20:47:28 GMT",
+      "content": "Dell Technologies said on Monday its Chief Financial Officer Yvonne McGill would resign effective Sept. 9.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8bac873732b7351e675b12c6a5ac67ce",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DELL CFO YVONNE MCGILL RESIGNS, COMPANY REAFFIRMS FORECASTS 🚨\n\n- CFO Yvonne McGill to resign from Dell effective Sept. 9\n- Dell Technologies reaffirms its financial forecasts ✅\n- McGill played a key role in Dell's financial strategy\n- Search for new CFO underway at Dell 🕵️‍♂️\n- Dell expresses gratitude for McGill's contributions\n- Dell CEO highlights company's resilient financial position\n\nTAKEAWAY: Dell faces a CFO departure as Yvonne McGill resigns, but remains confident in its financial outlook with reaffirmed forecasts.",
+      "exported_at": "2025-09-08T17:04:07.513353",
+      "continuous_session": true
+    },
+    {
+      "title": "Investor Peter Andersen is disappointed in Apple’s ‘embarrassing absence&apos; in AI ahead of  iPhone event",
+      "link": "https://www.cnbc.com/2025/09/08/investor-peter-andersen-is-disappointed-in-apples-embarrassing-absence-in-ai-ahead-of-iphone-event.html",
+      "summary": "Peter Andersen of Andersen Capital Management joined CNBC's \"Power Lunch\" on Monday to offer his take on a few key market movers.",
+      "published": "Mon, 08 Sep 2025 20:22:49 GMT",
+      "content": "Peter Andersen of Andersen Capital Management joined CNBC's \"Power Lunch\" on Monday to offer his take on a few key market movers.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f08040b1eb5e21ea4f53999764c69ee2",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: INVESTOR PETER ANDERSEN DISAPPOINTED WITH APPLE'S AI LAG 🚨\n\n- Andersen criticizes Apple's 'embarrassing absence' in AI field\n- Investor shares disappointment ahead of iPhone event 📉\n- Andersen expresses concerns on Apple's market position 📉\n\nTAKEAWAY: Investor Peter Andersen voices disappointment over Apple's lag in AI technology, raising concerns about its market competitiveness.",
+      "exported_at": "2025-09-08T17:04:07.513409",
       "continuous_session": true
     }
   ]
