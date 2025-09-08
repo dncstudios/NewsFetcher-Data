@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T14:36:17.453943",
-    "total_articles": 452,
-    "new_articles_in_last_fetch": 452,
+    "created_at": "2025-09-08T14:41:27.275684",
+    "total_articles": 454,
+    "new_articles_in_last_fetch": 454,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5879,6 +5879,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: APPLOVIN SOARS AFTER S&P 500 PICK: IS THIS BREAKOUT REAL? 🚀\n\n- Applovin's stock surges post-S&P 500 selection 📈\n- Katie Stockton's team analyzes the bullish trend 📊\n- Market shows strong interest and support for the tech stock 🚀\n- Breakout momentum indicates potential for sustained growth 🔥\n- Applovin's chart reflects positive sentiment and investor confidence ✅\n- Joining S&P 500 boosts visibility and credibility for the company 🎯\n\nTAKEAWAY: Applovin's impressive surge post-S&P 500 selection shows strong breakout potential, backed by market interest, positive charts, and increased credibility.",
       "exported_at": "2025-09-08T14:36:17.418653",
+      "continuous_session": true
+    },
+    {
+      "title": "Traders see a chance the Fed cuts by a half point",
+      "link": "https://www.cnbc.com/2025/09/08/traders-see-a-chance-the-fed-cuts-by-a-half-point.html",
+      "summary": "Traders are leaving open the option that the Federal Reserve next week could cut its key interest rate by half a percentage point.",
+      "published": "Mon, 08 Sep 2025 18:27:52 GMT",
+      "content": "Traders are leaving open the option that the Federal Reserve next week could cut its key interest rate by half a percentage point.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c4a7d875aebfbcb40d1e6f38475e29e3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRADERS EYE POTENTIAL 0.5% FED RATE CUT 🚀\n\n- Traders speculate on Federal Reserve considering 0.5% rate cut 🔍\n- Possibility of significant interest rate adjustment next week 💹\n- Markets anticipate Federal Reserve's potential bold move 📈\n\nTAKEAWAY: Traders eagerly anticipate the Federal Reserve's potential 0.5% interest rate cut next week, sparking market excitement and speculation.",
+      "exported_at": "2025-09-08T14:41:27.237569",
+      "continuous_session": true
+    },
+    {
+      "title": "Nvidia&apos;s Huang joining Trump on UK state visit next week",
+      "link": "https://www.cnbc.com/2025/09/08/nvidia-huang-trump-uk-state-visit.html",
+      "summary": "OpenAI's Sam Altman, Blackstone CEO Steven Schwartzman, and BlackRock CEO Larry Fink will also be attending, according to Sky News.",
+      "published": "Mon, 08 Sep 2025 18:32:32 GMT",
+      "content": "OpenAI's Sam Altman, Blackstone CEO Steven Schwartzman, and BlackRock CEO Larry Fink will also be attending, according to Sky News.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8bb56b6f482e34f3e5267b63eeedda97",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NVIDIA'S HUANG TO JOIN TRUMP ON UK STATE VISIT 🚀\n\n- Nvidia's CEO Jensen Huang to accompany Trump to UK 🇬🇧\n- Sky News reports other notable figures attending the visit ✨\n\nTAKEAWAY: Nvidia's CEO, Jensen Huang, joining Trump on the UK state visit adds prestige to the event with other prominent figures attending.",
+      "exported_at": "2025-09-08T14:41:27.237627",
       "continuous_session": true
     }
   ]
