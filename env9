@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T11:33:21.006738",
-    "total_articles": 437,
-    "new_articles_in_last_fetch": 437,
+    "created_at": "2025-09-08T11:38:28.114105",
+    "total_articles": 438,
+    "new_articles_in_last_fetch": 438,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5684,6 +5684,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: HOW TO MANAGE STUDENT LOANS AFTER JOB LOSS 🚨\n\n- Rising unemployment challenges student loan repayments 📉\n- Borrowers facing difficulties can explore available options ✅\n- Solutions exist to ease the burden of loan payments 💡\n\nTAKEAWAY: In a tough job market, knowing how to navigate student loan repayments after losing a job is crucial for borrowers facing financial difficulties.",
       "exported_at": "2025-09-08T11:33:21.000174",
+      "continuous_session": true
+    },
+    {
+      "title": "Bank of America sees &apos;attractive entry point&apos; in Kenvue after Tylenol controversy sparks sell-off",
+      "link": "https://www.cnbc.com/2025/09/08/bank-of-america-sees-attractive-entry-point-in-kenvue-after-tylenol-controversy-sparks-sell-off.html",
+      "summary": "The firm remains bullish on the stock, noting it is trading at a discount to the average of peer names in household and personal care.",
+      "published": "Mon, 08 Sep 2025 15:35:29 GMT",
+      "content": "The firm remains bullish on the stock, noting it is trading at a discount to the average of peer names in household and personal care.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f3629730cb993235951fa640c6dc40fd",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BANK OF AMERICA SPOTS \"ATTRACTIVE ENTRY POINT\" IN KENVUE 🚀\n\n- Bank of America optimistic despite Tylenol controversy sell-off\n- Stock trading below peer average in household and personal care sector\n- Firm sees Kenvue as a valuable investment opportunity\n\nTAKEAWAY: Bank of America views Kenvue as a promising investment with potential for growth, despite recent sell-offs due to the Tylenol controversy.",
+      "exported_at": "2025-09-08T11:38:28.107429",
       "continuous_session": true
     }
   ]
