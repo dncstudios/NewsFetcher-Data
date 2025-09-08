@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T02:14:35.819379",
-    "total_articles": 397,
-    "new_articles_in_last_fetch": 397,
+    "created_at": "2025-09-08T02:54:54.073455",
+    "total_articles": 398,
+    "new_articles_in_last_fetch": 398,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5165,6 +5165,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: KLARNA'S IPO: IS IT MORE THAN A ONE-TRICK 'BUY NOW, PAY LATER' PONY? 🚀\n\n- Klarna aims to show it's a digital retail bank, not just 'buy now, pay later'\n- Market tests Klarna's diversification strategy with upcoming IPO 📈\n- Investors curious about Klarna's potential beyond current model 💡\n\nTAKEAWAY: Klarna's IPO will determine if it can transcend its 'buy now, pay later' image and establish itself as a versatile digital retail banking solution.",
       "exported_at": "2025-09-08T02:14:35.787537",
+      "continuous_session": true
+    },
+    {
+      "title": "Japan could get its first woman prime minister as Sanae Takaichi leads the polls. But it&apos;s far from a done deal",
+      "link": "https://www.cnbc.com/2025/09/08/japan-ishiba-resign-sanae-takaichi-koizumi.html",
+      "summary": "The two most prominent names are former economic minister Sanae Takaichi and current farm minister Shinjiro Koizumi.",
+      "published": "Mon, 08 Sep 2025 06:53:15 GMT",
+      "content": "The two most prominent names are former economic minister Sanae Takaichi and current farm minister Shinjiro Koizumi.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "24153bcadbe273efb279de5d509c6710",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JAPAN'S FIRST WOMAN PRIME MINISTER? 🚀\n\n- Sanae Takaichi leads polls for Japan's top position 📊\n- Competing with Shinjiro Koizumi for the prestigious role 🏆\n- Historic moment if Takaichi becomes Japan's first female PM 🌟\n\nTAKEAWAY: Sanae Takaichi's lead in the polls signals a potential historic milestone as Japan may see its first woman prime minister soon. 🇯🇵",
+      "exported_at": "2025-09-08T02:54:54.048868",
       "continuous_session": true
     }
   ]
