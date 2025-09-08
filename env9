@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T14:26:03.124313",
-    "total_articles": 451,
-    "new_articles_in_last_fetch": 451,
+    "created_at": "2025-09-08T14:36:17.453943",
+    "total_articles": 452,
+    "new_articles_in_last_fetch": 452,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5866,6 +5866,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: $1.787 BILLION POWERBALL JACKPOT WINNERS REVEALED 🚀\n\n- Two winning tickets sold in different states 🎉\n- One winner faces potentially higher tax bill 💸\n- Massive jackpot split between lucky players 💰\n\nTAKEAWAY: Two fortunate individuals hit the $1.787 billion Powerball jackpot, with one possibly facing a larger tax bill, sharing the massive prize.",
       "exported_at": "2025-09-08T14:26:03.087141",
+      "continuous_session": true
+    },
+    {
+      "title": "Applovin is soaring. How to tell if the breakout is for real",
+      "link": "https://www.cnbc.com/2025/09/08/applovin-is-soaring-how-to-tell-if-the-breakout-is-for-real.html",
+      "summary": "Katie Stockton and team break down the charts in the tech stock getting a lot of love Monday after getting picked to join the S&amp;P 500.",
+      "published": "Mon, 08 Sep 2025 18:16:16 GMT",
+      "content": "Katie Stockton and team break down the charts in the tech stock getting a lot of love Monday after getting picked to join the S&amp;P 500.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ad3ebe21ac11761b59dbb55b5ea0cc16",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: APPLOVIN SOARS AFTER S&P 500 PICK: IS THIS BREAKOUT REAL? 🚀\n\n- Applovin's stock surges post-S&P 500 selection 📈\n- Katie Stockton's team analyzes the bullish trend 📊\n- Market shows strong interest and support for the tech stock 🚀\n- Breakout momentum indicates potential for sustained growth 🔥\n- Applovin's chart reflects positive sentiment and investor confidence ✅\n- Joining S&P 500 boosts visibility and credibility for the company 🎯\n\nTAKEAWAY: Applovin's impressive surge post-S&P 500 selection shows strong breakout potential, backed by market interest, positive charts, and increased credibility.",
+      "exported_at": "2025-09-08T14:36:17.418653",
       "continuous_session": true
     }
   ]
