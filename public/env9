@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T17:04:07.551640",
-    "total_articles": 465,
-    "new_articles_in_last_fetch": 465,
+    "created_at": "2025-09-08T17:14:22.109730",
+    "total_articles": 467,
+    "new_articles_in_last_fetch": 467,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -6048,6 +6048,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: INVESTOR PETER ANDERSEN DISAPPOINTED WITH APPLE'S AI LAG 🚨\n\n- Andersen criticizes Apple's 'embarrassing absence' in AI field\n- Investor shares disappointment ahead of iPhone event 📉\n- Andersen expresses concerns on Apple's market position 📉\n\nTAKEAWAY: Investor Peter Andersen voices disappointment over Apple's lag in AI technology, raising concerns about its market competitiveness.",
       "exported_at": "2025-09-08T17:04:07.513409",
+      "continuous_session": true
+    },
+    {
+      "title": "Potential Trump tariff refund bill could top $1 trillion as Supreme Court fight looms",
+      "link": "https://www.cnbc.com/2025/09/08/trump-tariff-refund-trade-treasury-bessent-supreme-court.html",
+      "summary": "The Supreme Court has not indicated when it might rule on a request by the Trump administration to rule quickly on whether many new tariffs are legal.",
+      "published": "Mon, 08 Sep 2025 21:10:33 GMT",
+      "content": "The Supreme Court has not indicated when it might rule on a request by the Trump administration to rule quickly on whether many new tariffs are legal.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c8f99f392b831170257a8ed87ffc8e2e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: POTENTIAL $1 TRILLION TARIFF REFUND BILL LOOMS AS SUPREME COURT DECISION AWAITED 🚨\n\n- Trump admin awaits Supreme Court ruling on legality of new tariffs\n- Uncertainty surrounds timing of Supreme Court decision ⌛\n- Bill for potential tariff refunds could exceed $1 trillion 💸\n- Supreme Court's ruling crucial for tariff refund bill implications\n\nTAKEAWAY: The looming Supreme Court decision on the legality of new tariffs could have significant financial implications, potentially leading to a refund bill exceeding $1 trillion.",
+      "exported_at": "2025-09-08T17:14:22.077261",
+      "continuous_session": true
+    },
+    {
+      "title": "Lachlan Murdoch cements control of Fox, WSJ media empire in new family deal",
+      "link": "https://www.cnbc.com/2025/09/08/lachlan-murdoch-cements-control-of-fox-wsj-media-empire-in-new-family-deal.html",
+      "summary": "The Murdoch family reached a deal that will see Rupert Murdoch's politically conservative son Lachlan Murdoch cement control of the family media empire.",
+      "published": "Mon, 08 Sep 2025 21:12:10 GMT",
+      "content": "The Murdoch family reached a deal that will see Rupert Murdoch's politically conservative son Lachlan Murdoch cement control of the family media empire.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6a3d2d8934ce0e704dd211a89149397f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: LACHLAN MURDOCH TAKES THE REINS AT FOX, WSJ MEDIA EMPIRE 🚀\n\n- Lachlan Murdoch secures control of Murdoch family media empire ✅\n- Rupert Murdoch's son set to lead politically conservative media 📺\n- Deal solidifies Lachlan's position in the media industry 🏛️\n\nTAKEAWAY: Lachlan Murdoch's new deal cements his leadership role in the family media empire, signaling a significant shift in the industry's landscape.",
+      "exported_at": "2025-09-08T17:14:22.077304",
       "continuous_session": true
     }
   ]
