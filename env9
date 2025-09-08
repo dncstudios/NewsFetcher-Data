@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T17:44:59.357864",
-    "total_articles": 471,
-    "new_articles_in_last_fetch": 471,
+    "created_at": "2025-09-08T17:55:11.942851",
+    "total_articles": 472,
+    "new_articles_in_last_fetch": 472,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -6126,6 +6126,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NEBIUS STOCK SOARS 60% ON BILLION-DOLLAR AI DEAL WITH MICROSOFT 🚀\n\n- Nebius stock jumps 60% after securing multibillion-dollar AI deal 💰\n- Partnership with Microsoft for AI infrastructure propels Nebius 📈\n- Microsoft signs agreement with Nebius for AI tech services 🤝\n- Nebius shares surge on the announcement of the lucrative deal 📈\n- This milestone agreement brings significant growth to Nebius 🚀\n- Microsoft's deal with Nebius boosts both companies in AI sector 🤖\n\nTAKEAWAY: Nebius experiences a meteoric 60% surge in its stock value following the announcement of the multibillion-dollar AI infrastructure deal with tech giant Microsoft, propelling both companies to new heights in the AI sector.",
       "exported_at": "2025-09-08T17:44:59.335684",
+      "continuous_session": true
+    },
+    {
+      "title": "Cognition valued at $10.2 billion two months after Windsurf purchase",
+      "link": "https://www.cnbc.com/2025/09/08/cognition-valued-at-10point2-billion-two-months-after-windsurf-.html",
+      "summary": "Two months after buying AI coding startup Windsurf, Cognition is being valued by investors at more than $10 billion.",
+      "published": "Mon, 08 Sep 2025 21:50:34 GMT",
+      "content": "Two months after buying AI coding startup Windsurf, Cognition is being valued by investors at more than $10 billion.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "76a9bc67d6852bdf7960c9e29605633e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: COGNITION SOARS TO $10.2 BILLION POST WINDSURF ACQUISITION 🚀\n\n- Acquired Windsurf, a coding startup, two months ago 🔄\n- Investors value Cognition at over $10 billion now 💰\n- Rapid growth and potential driving investor confidence 📈\n- Windsurf acquisition proving to be a lucrative move 🌟\n- Strong market response to Cognition's strategic expansion 📈\n- Impressive valuation reflects investor optimism and trust ✨\n\nTAKEAWAY: Cognition's valuation hitting $10.2 billion post Windsurf acquisition showcases rapid growth, investor confidence, and strategic expansion success.",
+      "exported_at": "2025-09-08T17:55:11.910618",
       "continuous_session": true
     }
   ]
