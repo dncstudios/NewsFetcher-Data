@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T12:49:32.496748",
-    "total_articles": 443,
-    "new_articles_in_last_fetch": 443,
+    "created_at": "2025-09-08T13:30:05.873062",
+    "total_articles": 445,
+    "new_articles_in_last_fetch": 445,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5762,6 +5762,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WILL THE BULL MARKET ROAR ON? 🚀\n\n- NYSE insider Jay Woods reveals key indicators for the week 📈\n- Pros closely monitor market signals for bullish momentum 📊\n- Investors seek guidance to navigate volatile markets 🎯\n\nTAKEAWAY: Stay tuned to NYSE insider Jay Woods' breakdown to navigate the bullish market this week with confidence and precision.",
       "exported_at": "2025-09-08T12:49:32.489967",
+      "continuous_session": true
+    },
+    {
+      "title": "Morgan Stanley believes this new exchange play has nearly 70% upside",
+      "link": "https://www.cnbc.com/2025/09/08/morgan-stanley-believes-this-new-exchange-play-has-nearly-70percent-upside.html",
+      "summary": "Miami International Holdings is about 60% higher than its August IPO price.",
+      "published": "Mon, 08 Sep 2025 17:20:27 GMT",
+      "content": "Miami International Holdings is about 60% higher than its August IPO price.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b57449fd9f999f7ce44ba7497eb8860a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MORGAN STANLEY PREDICTS 70% UPSIDE FOR EXCHANGE PLAY 🚀\n\n- Miami International Holdings surges 60% above August IPO price 💰\n- Morgan Stanley forecasts nearly 70% potential growth 📈\n- Exchange play shows strong momentum and investor interest 🚀\n\nTAKEAWAY: Miami International Holdings' impressive 60% surge since August IPO has caught Morgan Stanley's eye, predicting a potential 70% upside, showcasing strong momentum and investor interest.",
+      "exported_at": "2025-09-08T13:30:05.837978",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves midday: Etsy, EchoStar, Robinhood, Canada Goose &amp; more",
+      "link": "https://www.cnbc.com/2025/09/08/stocks-making-the-biggest-moves-midday-etsy-goos-hood-goos.html",
+      "summary": "These are the stocks posting the largest moves midday.",
+      "published": "Mon, 08 Sep 2025 17:19:37 GMT",
+      "content": "These are the stocks posting the largest moves midday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9598a9eb3c21e0ff46b9280bceeabeaa",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS MAKING BIG MOVES MIDDAY: ETSY, ECHOSTAR, ROBINHOOD 🚀\n\n- Etsy, EchoStar, Robinhood, Canada Goose show significant midday shifts 📈\n- Market sees notable movements in key stock prices 📊\n- Investors eyeing Etsy, EchoStar, Robinhood for potential gains 💰\n\nTAKEAWAY: Etsy, EchoStar, and Robinhood are among the top stocks making significant midday moves, attracting investor attention for potential gains.",
+      "exported_at": "2025-09-08T13:30:05.838028",
       "continuous_session": true
     }
   ]
