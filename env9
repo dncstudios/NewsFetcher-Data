@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T11:18:00.622100",
-    "total_articles": 435,
-    "new_articles_in_last_fetch": 435,
+    "created_at": "2025-09-08T11:28:13.408905",
+    "total_articles": 436,
+    "new_articles_in_last_fetch": 436,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5658,6 +5658,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: A BEARISH OPTIONS TRADE ON OVERVALUED WASTE MANAGEMENT STOCK 📉\n\n- Options trader Michael Khouw analyzes put spread strategy 📊\n- Bearish outlook on waste management stock valuation 🐻\n- Potential profit from downward movement in stock price 💰\n\nTAKEAWAY: Options trader Michael Khouw suggests a bearish options trade on the overvalued waste management stock, anticipating a potential profit from a downward price movement.",
       "exported_at": "2025-09-08T11:18:00.615467",
+      "continuous_session": true
+    },
+    {
+      "title": "These Best Stocks like Carvana have been on a tear — What to do with with them now",
+      "link": "https://www.cnbc.com/2025/09/08/these-best-stocks-like-carvana-have-been-on-a-tear-what-to-do-with-with-them-now.html",
+      "summary": "Josh and Sean go through three Best Stocks that are up big since they were first flagged and review key risk management strategies for the group.",
+      "published": "Mon, 08 Sep 2025 15:21:30 GMT",
+      "content": "Josh and Sean go through three Best Stocks that are up big since they were first flagged and review key risk management strategies for the group.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d5a61f3eea9fdb3e6514e4d51c110313",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BEST STOCKS ON A TEAR LIKE CARVANA - MAXIMIZE GAINS NOW! 🚀\n\n- 3 Best Stocks soaring since initial mention 📈\n- Josh & Sean analyze key risk management strategies 🔍\n- Capture maximum gains with these high-flying stocks 💰\n\nTAKEAWAY: Explore the surge in Best Stocks akin to Carvana, strategize risk management, and maximize gains with expert analysis from Josh and Sean.",
+      "exported_at": "2025-09-08T11:28:13.402329",
       "continuous_session": true
     }
   ]
