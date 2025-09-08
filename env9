@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T03:20:07.802121",
-    "total_articles": 399,
-    "new_articles_in_last_fetch": 399,
+    "created_at": "2025-09-08T03:30:13.605624",
+    "total_articles": 400,
+    "new_articles_in_last_fetch": 400,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5191,6 +5191,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: VOLKSWAGEN'S QUEST FOR EUROPEAN DOMINANCE WITH AFFORDABLE EVs 🚀\n\n- Volkswagen aims to solidify its leadership in the European market 🌍\n- Focus on affordable EVs to capture a larger market share 🔋\n- CEO emphasizes the importance of strengthening their position in Europe 🇪🇺\n- Strategy aligns with the global shift towards electric vehicles ⚡️\n- Intensifying competition in the EV market drives Volkswagen's push 🚗\n- Company's commitment reflects the growing demand for sustainable transportation 🌱\n\nTAKEAWAY: Volkswagen's strategic focus on affordable EVs not only aims to strengthen its dominance in Europe but also aligns with the global trend towards sustainable transportation.",
       "exported_at": "2025-09-08T03:20:07.770460",
+      "continuous_session": true
+    },
+    {
+      "title": "Private equity giants raid Wall Street as fundraising talent wars heat up",
+      "link": "https://www.cnbc.com/2025/09/08/global-private-equity-firms-talent-analyst-jobs-hiring-spree-deal-drought-wall-street.html",
+      "summary": "Private equity firms are ramping up hiring despite a deal drought as they remain optimistic about a rebound in activity.",
+      "published": "Mon, 08 Sep 2025 07:26:47 GMT",
+      "content": "Private equity firms are ramping up hiring despite a deal drought as they remain optimistic about a rebound in activity.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3befde9156ad3b35fbe1b55c3340f6bd",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PRIVATE EQUITY TALENT WARS HEAT UP AS WALL STREET RAIDED 🚀\n\n- Private equity firms aggressively hiring amid deal drought 💼\n- Optimism high for rebound in market activity 📈\n- Talent wars intensify on Wall Street as firms compete 🔥\n\nTAKEAWAY: Despite a deal drought, private equity giants are actively recruiting on Wall Street, fueled by optimism for a market activity rebound and escalating talent wars.",
+      "exported_at": "2025-09-08T03:30:13.600627",
       "continuous_session": true
     }
   ]
