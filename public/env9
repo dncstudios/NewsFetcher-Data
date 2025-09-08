@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T03:35:18.427914",
-    "total_articles": 401,
-    "new_articles_in_last_fetch": 401,
+    "created_at": "2025-09-08T04:30:51.929825",
+    "total_articles": 402,
+    "new_articles_in_last_fetch": 402,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5217,6 +5217,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: EUROPEAN MARKETS RISE AS FOCUS SHIFTS TO FRENCH CONFIDENCE VOTE 🚀\n\n- European stocks begin trading week positively 📈\n- Investors shift focus to French confidence vote 🇫🇷\n- Market sentiment upbeat at the start of the week 💪\n\nTAKEAWAY: European markets open higher as investors show optimism with a focus on the upcoming French confidence vote, setting a positive tone for the trading week.",
       "exported_at": "2025-09-08T03:35:18.422528",
+      "continuous_session": true
+    },
+    {
+      "title": "Betting on the nuclear renaissance: How investors are weighing risk amid surging clean energy demand",
+      "link": "https://www.cnbc.com/2025/09/08/how-investors-are-weighing-risk-amid-surging-demand-for-nuclear-energy.html",
+      "summary": "The level of investment required for large-scale nuclear projects raises questions about fiscal capacity for the sector.",
+      "published": "Mon, 08 Sep 2025 08:28:05 GMT",
+      "content": "The level of investment required for large-scale nuclear projects raises questions about fiscal capacity for the sector.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4d59e242faf85482c7a7ca686b604704",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BETTING ON NUCLEAR RENAISSANCE: INVESTORS WEIGHING RISK AMID CLEAN ENERGY SURGE ⚡️\n\n- Large-scale nuclear projects demand significant investment 💰\n- Fiscal capacity for the sector under scrutiny 🧐\n- Investors balancing risk and clean energy demand ⚖️\n\nTAKEAWAY: Amid the surge in clean energy demand, investors are carefully evaluating the risks and fiscal capacity associated with large-scale nuclear projects.",
+      "exported_at": "2025-09-08T04:30:51.923599",
       "continuous_session": true
     }
   ]
