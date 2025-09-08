@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T17:24:39.719918",
-    "total_articles": 470,
-    "new_articles_in_last_fetch": 470,
+    "created_at": "2025-09-08T17:44:59.357864",
+    "total_articles": 471,
+    "new_articles_in_last_fetch": 471,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -6113,6 +6113,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCKS SURGING AFTER HOURS: FOX, DELL, MISSION PRODUCE 🚀\n\n- Fox, Dell, Mission Produce witness significant gains 🔥\n- Stocks show promising momentum post-regular trading hours 🌙\n- Extended trading sees notable shifts in stock prices 💹\n\nTAKEAWAY: Fox, Dell, and Mission Produce experience substantial after-hours stock movements, indicating potential market excitement and opportunities.",
       "exported_at": "2025-09-08T17:24:39.682238",
+      "continuous_session": true
+    },
+    {
+      "title": "Nebius&apos; stock soars 60% on multibillion-dollar AI infrastructure deal with Microsoft",
+      "link": "https://www.cnbc.com/2025/09/08/nebius-stock-soars-on-ai-infrastructure-deal-with-microsoft-.html",
+      "summary": "Nebius said it signed a multibillion-dollar agreement to provide Microsoft with artificial intelligence infrastructure.",
+      "published": "Mon, 08 Sep 2025 21:43:51 GMT",
+      "content": "Nebius said it signed a multibillion-dollar agreement to provide Microsoft with artificial intelligence infrastructure.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "eaafba21c726aa64b95fb4a545211894",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NEBIUS STOCK SOARS 60% ON BILLION-DOLLAR AI DEAL WITH MICROSOFT 🚀\n\n- Nebius stock jumps 60% after securing multibillion-dollar AI deal 💰\n- Partnership with Microsoft for AI infrastructure propels Nebius 📈\n- Microsoft signs agreement with Nebius for AI tech services 🤝\n- Nebius shares surge on the announcement of the lucrative deal 📈\n- This milestone agreement brings significant growth to Nebius 🚀\n- Microsoft's deal with Nebius boosts both companies in AI sector 🤖\n\nTAKEAWAY: Nebius experiences a meteoric 60% surge in its stock value following the announcement of the multibillion-dollar AI infrastructure deal with tech giant Microsoft, propelling both companies to new heights in the AI sector.",
+      "exported_at": "2025-09-08T17:44:59.335684",
       "continuous_session": true
     }
   ]
