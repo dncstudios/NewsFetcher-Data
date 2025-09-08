@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T15:37:35.364110",
-    "total_articles": 459,
-    "new_articles_in_last_fetch": 459,
+    "created_at": "2025-09-08T15:57:53.736418",
+    "total_articles": 460,
+    "new_articles_in_last_fetch": 460,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5970,6 +5970,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WHAT GOLDMAN'S DEAL WITH T. ROWE PRICE MEANS FOR YOUR 401(K) 🚀\n\n- Goldman Sachs partners with T. Rowe Price for alternative assets 🤝\n- Move signifies shift towards private investments in 401(k)s 💼\n- Investors gain access to previously restricted opportunities ✅\n- Alternative assets offer diversification and potential higher returns 💰\n- Growing trend towards incorporating private assets in retirement plans 📈\n- Increased interest in non-traditional investments for long-term growth 🌱\n\nTAKEAWAY: Goldman Sachs and T. Rowe Price's collaboration paves the way for more diverse investment options in 401(k)s, signaling a shift towards alternative assets for higher potential returns.",
       "exported_at": "2025-09-08T15:37:35.333633",
+      "continuous_session": true
+    },
+    {
+      "title": "New tariff rules bring &apos;maximum chaos&apos; as surprise charges hit consumers",
+      "link": "https://www.cnbc.com/2025/09/08/new-tariff-rules-bring-maximum-chaos-as-surprise-charges-hit-consumers.html",
+      "summary": "The end of the de minimis exemption is wreaking havoc on U.S. consumers, small businesses and major carriers.",
+      "published": "Mon, 08 Sep 2025 19:52:10 GMT",
+      "content": "The end of the de minimis exemption is wreaking havoc on U.S. consumers, small businesses and major carriers.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "86b62eb9d89a6c6d687a74dc1998bc9f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NEW TARIFF RULES BRING 'MAXIMUM CHAOS' AS SURPRISE CHARGES HIT CONSUMERS 🚨\n\n- De minimis exemption end causes havoc for U.S. consumers 🌪️\n- Small businesses and major carriers also impacted 📉\n- Surprise charges create uncertainty in the market ⚠️\n\nTAKEAWAY: The removal of the de minimis exemption leads to chaos as surprise charges affect consumers, small businesses, and major carriers, causing uncertainty in the market.",
+      "exported_at": "2025-09-08T15:57:53.714915",
       "continuous_session": true
     }
   ]
