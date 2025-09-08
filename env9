@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T04:30:51.929825",
-    "total_articles": 402,
-    "new_articles_in_last_fetch": 402,
+    "created_at": "2025-09-08T05:57:05.573477",
+    "total_articles": 403,
+    "new_articles_in_last_fetch": 403,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5230,6 +5230,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BETTING ON NUCLEAR RENAISSANCE: INVESTORS WEIGHING RISK AMID CLEAN ENERGY SURGE ⚡️\n\n- Large-scale nuclear projects demand significant investment 💰\n- Fiscal capacity for the sector under scrutiny 🧐\n- Investors balancing risk and clean energy demand ⚖️\n\nTAKEAWAY: Amid the surge in clean energy demand, investors are carefully evaluating the risks and fiscal capacity associated with large-scale nuclear projects.",
       "exported_at": "2025-09-08T04:30:51.923599",
+      "continuous_session": true
+    },
+    {
+      "title": "&apos;He&apos;s one of us&apos;: How Trump is trying to influence New York&apos;s mayoral race",
+      "link": "https://www.cnbc.com/2025/09/08/hes-one-of-us-how-trump-is-trying-to-influence-new-yorks-mayoral-race.html",
+      "summary": "President Donald Trump and his allies want to consolidate the mayoral field to take down Zohran Mamdani. It’s getting messy.",
+      "published": "Mon, 08 Sep 2025 09:50:14 GMT",
+      "content": "President Donald Trump and his allies want to consolidate the mayoral field to take down Zohran Mamdani. It’s getting messy.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ac64a36cc94ba4278d6a77f1d1d872a9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP'S INTERFERENCE IN NY MAYORAL RACE ⚠️\n\n- Trump aims to unite mayoral candidates against Zohran Mamdani 🎯\n- Political landscape in NY mayoral race intensifies 🔥\n- Allies support Trump's efforts to disrupt Mamdani's campaign 🚨\n\nTAKEAWAY: Trump's active involvement in New York's mayoral race creates a contentious and chaotic political environment.",
+      "exported_at": "2025-09-08T05:57:05.566956",
       "continuous_session": true
     }
   ]
