@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T06:58:06.942030",
-    "total_articles": 409,
-    "new_articles_in_last_fetch": 409,
+    "created_at": "2025-09-08T07:03:31.726481",
+    "total_articles": 411,
+    "new_articles_in_last_fetch": 411,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5321,6 +5321,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BUY THIS CLOUD STOCK WITH MARKET SHARE GROWTH POTENTIAL 🚀\n\n- JPMorgan analyst upgrades stock to overweight 📈\n- Cloud company continues to gain market share 📈\n- Analyst Alexei Gogolev bullish on the stock 🎯\n\nTAKEAWAY: JPMorgan's upgrade to overweight on the cloud stock signals growth potential with increasing market share.",
       "exported_at": "2025-09-08T06:58:06.920664",
+      "continuous_session": true
+    },
+    {
+      "title": "EchoStar to sell spectrum licenses to SpaceX for $17 billion",
+      "link": "https://www.cnbc.com/2025/09/08/echostar-to-sell-spectrum-licenses-to-spacex-for-17-billion.html",
+      "summary": "The deal comes months after the Federal Communications questioned EchoStar's compliance with buildout extensions and use of mobile-satellite service spectrum.",
+      "published": "Mon, 08 Sep 2025 11:00:22 GMT",
+      "content": "The deal comes months after the Federal Communications questioned EchoStar's compliance with buildout extensions and use of mobile-satellite service spectrum.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8000aece5bc13b380dbbaf3b04cf8aa6",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ECHOSTAR SELLS SPECTRUM LICENSES TO SPACEX FOR $17 BILLION 🚀\n\n- EchoStar agrees to sell spectrum licenses to SpaceX for $17 billion 💸\n- Federal Communications scrutinized EchoStar's compliance with buildout extensions 🧐\n- Deal follows questions on EchoStar's use of mobile-satellite service spectrum 📡\n\nTAKEAWAY: EchoStar's $17 billion spectrum license sale to SpaceX signals a strategic move amidst scrutiny over compliance with buildout extensions.",
+      "exported_at": "2025-09-08T07:03:31.706652",
+      "continuous_session": true
+    },
+    {
+      "title": "AI&apos;s impact in the workforce is ‘small,&apos; but it’s not ‘zero,’ labor economist says",
+      "link": "https://www.cnbc.com/2025/09/08/ai-artificial-intelligence-workforce-impact.html",
+      "summary": "It's no secret that the job market has stalled halfway through 2025, but experts say it's driven by economic uncertainty rather than artificial intelligence.",
+      "published": "Mon, 08 Sep 2025 11:00:01 GMT",
+      "content": "It's no secret that the job market has stalled halfway through 2025, but experts say it's driven by economic uncertainty rather than artificial intelligence.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3239f439af7bb4ff7c87d4a9fa02143c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AI'S IMPACT ON WORKFORCE: SMALL BUT NOT ZERO ⚠️\n\n- Job market stalls in 2025 due to economic uncertainty 📉\n- Experts clarify AI's role: impact small, not zero 🤖\n- Economic factors major driver of job market slowdown 💼\n\nTAKEAWAY: Despite economic uncertainty driving job market slowdown in 2025, experts emphasize that AI's impact is small but not negligible.",
+      "exported_at": "2025-09-08T07:03:31.706695",
       "continuous_session": true
     }
   ]
