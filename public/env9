@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T15:57:53.736418",
-    "total_articles": 460,
-    "new_articles_in_last_fetch": 460,
+    "created_at": "2025-09-08T16:08:12.679867",
+    "total_articles": 461,
+    "new_articles_in_last_fetch": 461,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5983,6 +5983,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NEW TARIFF RULES BRING 'MAXIMUM CHAOS' AS SURPRISE CHARGES HIT CONSUMERS 🚨\n\n- De minimis exemption end causes havoc for U.S. consumers 🌪️\n- Small businesses and major carriers also impacted 📉\n- Surprise charges create uncertainty in the market ⚠️\n\nTAKEAWAY: The removal of the de minimis exemption leads to chaos as surprise charges affect consumers, small businesses, and major carriers, causing uncertainty in the market.",
       "exported_at": "2025-09-08T15:57:53.714915",
+      "continuous_session": true
+    },
+    {
+      "title": "Robinhood shares soar 15% after getting long-sought addition to S&amp;P 500",
+      "link": "https://www.cnbc.com/2025/09/08/robinhood-shares-soar-14percent-after-getting-long-sought-addition-to-sp-500.html",
+      "summary": "S&amp;P Global said Friday that Robinhood will replace Caesars Entertainment in the S&amp;P 500.",
+      "published": "Mon, 08 Sep 2025 20:04:29 GMT",
+      "content": "S&amp;P Global said Friday that Robinhood will replace Caesars Entertainment in the S&amp;P 500.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ac78143cccb41b1cb42e6729932b727f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ROBINHOOD SOARS 14% WITH S&P 500 INCLUSION 🚀\n\n- Robinhood's shares surge by 14% post S&P 500 addition 📈\n- S&P Global swaps Caesars Entertainment for Robinhood 🔁\n- Market reacts positively to Robinhood's index debut 💥\n\nTAKEAWAY: Robinhood's 14% surge following its S&P 500 inclusion showcases investor enthusiasm and market confidence in the trading platform's future.",
+      "exported_at": "2025-09-08T16:08:12.660176",
       "continuous_session": true
     }
   ]
