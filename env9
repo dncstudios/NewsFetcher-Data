@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-07T23:58:30.427576",
-    "total_articles": 394,
-    "new_articles_in_last_fetch": 394,
+    "created_at": "2025-09-08T01:59:26.036784",
+    "total_articles": 396,
+    "new_articles_in_last_fetch": 396,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5126,6 +5126,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CHINA'S EXPORTS GROWTH HITS 6-MONTH LOW, DISAPPOINTING 🚨\n\n- August exports growth falls below expectations 📉\n- Businesses' front-loading slows down, impacting momentum ⚠️\n- Import growth also lower than anticipated 📉\n- China's trade sector faces challenges amidst global uncertainties ⚠️\n- Slowdown in export growth raises concerns about economic recovery 📉\n- August records a 6-month low in export performance 📉\n\nTAKEAWAY: China's export growth falling below expectations in August, coupled with slower import growth, signals challenges for the trade sector and raises concerns about economic recovery.",
       "exported_at": "2025-09-07T23:58:30.396520",
+      "continuous_session": true
+    },
+    {
+      "title": "China&apos;s shipments to U.S. plunge 33% in August as overall exports growth hits a 6-month low",
+      "link": "https://www.cnbc.com/2025/09/08/china-exports-growth-in-august-drops-missing-expectations-.html",
+      "summary": "China's exports growth missed expectations in August as businesses' front-loading activity lost momentum while imports also grew less than expected.",
+      "published": "Mon, 08 Sep 2025 05:57:37 GMT",
+      "content": "China's exports growth missed expectations in August as businesses' front-loading activity lost momentum while imports also grew less than expected.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b3163b878ef177715bf0bca073afec57",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CHINA'S EXPORTS GROWTH HITS 6-MONTH LOW, DISAPPOINTING 🚨\n\n- August exports growth falls below expectations 📉\n- Businesses' front-loading slows down, impacting momentum ⚠️\n- Import growth also lower than anticipated 📉\n- China's trade sector faces challenges amidst global uncertainties ⚠️\n- Slowdown in export growth raises concerns about economic recovery 📉\n- August records a 6-month low in export performance 📉\n\nTAKEAWAY: China's export growth falling below expectations in August, coupled with slower import growth, signals challenges for the trade sector and raises concerns about economic recovery.",
+      "exported_at": "2025-09-08T01:59:26.005154",
+      "continuous_session": true
+    },
+    {
+      "title": "European markets set to open higher as focus turns on French confidence vote",
+      "link": "https://www.cnbc.com/2025/09/08/european-markets-on-mon-sept-8-stoxx-600-cac-france-confidence-vote.html",
+      "summary": "European stocks are expected to start the new trading week on a positive note.",
+      "published": "Mon, 08 Sep 2025 05:53:38 GMT",
+      "content": "European stocks are expected to start the new trading week on a positive note.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2e474cebba25b08199d1899021f120df",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: EUROPEAN MARKETS TO OPEN HIGHER AS FOCUS SHIFTS TO FRENCH CONFIDENCE VOTE 🚀\n\n- Positive start expected for European stocks 📈\n- Investors turn attention to French confidence vote 🇫🇷\n- New trading week kicks off with optimism ✨\n\nTAKEAWAY: European markets poised for a strong opening as investors shift focus to the French confidence vote, setting a positive tone for the week ahead.",
+      "exported_at": "2025-09-08T01:59:26.005216",
       "continuous_session": true
     }
   ]
