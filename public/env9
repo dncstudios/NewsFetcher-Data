@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T02:54:54.073455",
-    "total_articles": 398,
-    "new_articles_in_last_fetch": 398,
+    "created_at": "2025-09-08T03:20:07.802121",
+    "total_articles": 399,
+    "new_articles_in_last_fetch": 399,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5178,6 +5178,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JAPAN'S FIRST WOMAN PRIME MINISTER? 🚀\n\n- Sanae Takaichi leads polls for Japan's top position 📊\n- Competing with Shinjiro Koizumi for the prestigious role 🏆\n- Historic moment if Takaichi becomes Japan's first female PM 🌟\n\nTAKEAWAY: Sanae Takaichi's lead in the polls signals a potential historic milestone as Japan may see its first woman prime minister soon. 🇯🇵",
       "exported_at": "2025-09-08T02:54:54.048868",
+      "continuous_session": true
+    },
+    {
+      "title": "Volkswagen targets dominance in Europe with affordable EV push",
+      "link": "https://www.cnbc.com/2025/09/08/volkswagen-targets-dominance-in-europe-with-affordable-ev-push.html",
+      "summary": "The chief executive of Volkswagen says the German auto giant is pushing to strengthen its European market dominance.",
+      "published": "Mon, 08 Sep 2025 07:14:40 GMT",
+      "content": "The chief executive of Volkswagen says the German auto giant is pushing to strengthen its European market dominance.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a2469cefd50ee55aa20526bc2c97134a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: VOLKSWAGEN'S QUEST FOR EUROPEAN DOMINANCE WITH AFFORDABLE EVs 🚀\n\n- Volkswagen aims to solidify its leadership in the European market 🌍\n- Focus on affordable EVs to capture a larger market share 🔋\n- CEO emphasizes the importance of strengthening their position in Europe 🇪🇺\n- Strategy aligns with the global shift towards electric vehicles ⚡️\n- Intensifying competition in the EV market drives Volkswagen's push 🚗\n- Company's commitment reflects the growing demand for sustainable transportation 🌱\n\nTAKEAWAY: Volkswagen's strategic focus on affordable EVs not only aims to strengthen its dominance in Europe but also aligns with the global trend towards sustainable transportation.",
+      "exported_at": "2025-09-08T03:20:07.770460",
       "continuous_session": true
     }
   ]
