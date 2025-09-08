@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T08:55:15.589054",
-    "total_articles": 417,
-    "new_articles_in_last_fetch": 417,
+    "created_at": "2025-09-08T09:25:39.255959",
+    "total_articles": 418,
+    "new_articles_in_last_fetch": 418,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -5424,6 +5424,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BANK OF AMERICA SPOTS \"ATTRACTIVE ENTRY POINT\" IN KENVUE 🚀\n\n- Bank of America remains bullish on Kenvue stock 📈\n- Sees it trading at a discount compared to peers 🎯\n- Tylenol controversy sparks sell-off, creating opportunity ⚡️\n\nTAKEAWAY: Bank of America identifies an \"attractive entry point\" in Kenvue stock after a sell-off due to the Tylenol controversy, seeing it as undervalued compared to peers.",
       "exported_at": "2025-09-08T08:55:15.582295",
+      "continuous_session": true
+    },
+    {
+      "title": "AI&apos;s impact on the workforce is ‘small,&apos; but it’s not ‘zero,’ labor economist says",
+      "link": "https://www.cnbc.com/2025/09/08/ai-artificial-intelligence-workforce-impact.html",
+      "summary": "It's no secret that the job market has stalled halfway through 2025, but experts say it's driven by economic uncertainty rather than artificial intelligence.",
+      "published": "Mon, 08 Sep 2025 13:24:20 GMT",
+      "content": "It's no secret that the job market has stalled halfway through 2025, but experts say it's driven by economic uncertainty rather than artificial intelligence.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b7f655db80da4bbe6dc3073ccefb2ba2",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AI'S IMPACT ON WORKFORCE: SMALL BUT NOT ZERO ⚠️\n\n- Job market stalls in 2025 due to economic uncertainty 📉\n- Experts clarify AI's role: impact small, not zero 🤖\n- Economic factors major driver of job market slowdown 💼\n\nTAKEAWAY: Despite economic uncertainty driving job market slowdown in 2025, experts emphasize that AI's impact is small but not negligible.",
+      "exported_at": "2025-09-08T09:25:39.249106",
       "continuous_session": true
     }
   ]
