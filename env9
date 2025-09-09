@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T05:55:17.459163",
-    "total_articles": 497,
-    "new_articles_in_last_fetch": 497,
+    "created_at": "2025-09-09T06:15:36.462173",
+    "total_articles": 498,
+    "new_articles_in_last_fetch": 498,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -6464,6 +6464,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BRIAN NICCOL'S STARBUCKS TRANSFORMATION ON TRACK, INVESTORS ANTICIPATE MORE 🚀\n\n- Niccol's strategy revives customer interest 🌟\n- Investors seek quicker outcomes ⏱️\n- Additional changes in the pipeline 🔮\n\nTAKEAWAY: Brian Niccol's Starbucks revamp is gaining traction, but investors eagerly await faster progress and upcoming transformations.",
       "exported_at": "2025-09-09T05:55:17.431780",
+      "continuous_session": true
+    },
+    {
+      "title": "Stock futures tick higher as Nasdaq tries to build on record: Live updates",
+      "link": "https://www.cnbc.com/2025/09/08/stock-market-today-live-updates.html",
+      "summary": "U.S. stock futures rose slightly Tuesday after the Nasdaq Composite hit a new record.",
+      "published": "Tue, 09 Sep 2025 10:13:13 GMT",
+      "content": "U.S. stock futures rose slightly Tuesday after the Nasdaq Composite hit a new record.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "80a3ceae59ca8505f0c2d57c6b20cdd9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK FUTURES RISE AS NASDAQ EYES RECORD 🚀\n\n- U.S. stock futures edge up following Nasdaq's record high 📈\n- Nasdaq Composite sets new record, boosting market sentiment 🌟\n- Positive momentum in stock futures on Tuesday 💪\n\nTAKEAWAY: Stock futures show optimism as Nasdaq's record high sets a positive tone for the market, indicating a potential upward trend.",
+      "exported_at": "2025-09-09T06:15:36.422086",
       "continuous_session": true
     }
   ]
