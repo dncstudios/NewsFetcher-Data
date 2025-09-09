@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T09:23:48.765332",
-    "total_articles": 518,
-    "new_articles_in_last_fetch": 518,
+    "created_at": "2025-09-09T09:29:00.924893",
+    "total_articles": 522,
+    "new_articles_in_last_fetch": 522,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -6736,6 +6736,58 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: HARVARD EXPERT: HOW PROCRASTINATION CAN PAY OFF 🚀\n\n- Harvard expert: Procrastination can be beneficial 💡\n- Arthur Brooks explains how to use procrastination effectively ✅\n- Correct approach to procrastination can lead to success 💪\n\nTAKEAWAY: Harvard happiness expert reveals how procrastination, if done right, can actually be a key to success and happiness.",
       "exported_at": "2025-09-09T09:23:48.723515",
+      "continuous_session": true
+    },
+    {
+      "title": "Potential Trump tariff refund bill could top $1 trillion as Supreme Court fight looms",
+      "link": "https://www.cnbc.com/2025/09/08/trump-tariff-refund-trade-treasury-bessent-supreme-court.html",
+      "summary": "The Supreme Court has not indicated when it might rule on a request by the Trump administration to decide quickly on whether many new tariffs are legal.",
+      "published": "Tue, 09 Sep 2025 13:26:47 GMT",
+      "content": "The Supreme Court has not indicated when it might rule on a request by the Trump administration to decide quickly on whether many new tariffs are legal.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7344d0fe998fdb01785e76fad062a555",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: POTENTIAL $1 TRILLION TARIFF REFUND BILL LOOMS AS SUPREME COURT DELAYS ⚠️\n\n- Trump administration awaits Supreme Court ruling on tariff legality 🏛️\n- Uncertainty surrounds timing of Supreme Court decision ⌛\n- Potential for refund bill exceeding $1 trillion grows 📈\n\nTAKEAWAY: The looming Supreme Court decision on the legality of new tariffs adds uncertainty to the potential $1 trillion refund bill, creating a high-stakes situation for the Trump administration.",
+      "exported_at": "2025-09-09T09:29:00.890058",
+      "continuous_session": true
+    },
+    {
+      "title": "Will there be a &apos;September surge&apos; in hiring this year? Experts weigh in",
+      "link": "https://www.cnbc.com/2025/09/09/will-there-be-a-september-surge-in-hiring-this-year-experts-weigh-in.html",
+      "summary": "Here's how job seekers can take advantage of the job market's \"September surge,\" according to career experts.",
+      "published": "Tue, 09 Sep 2025 13:22:02 GMT",
+      "content": "Here's how job seekers can take advantage of the job market's \"September surge,\" according to career experts.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1da264a43b5a33c5dd346ebea33e3980",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WILL THERE BE A 'SEPTEMBER SURGE' IN HIRING THIS YEAR? EXPERTS WEIGH IN 📈\n\n- Career experts predict a potential increase in hiring this September 📈\n- Job seekers advised to leverage the upcoming job market surge 💼\n- September seen as a favorable time for job hunting 📅\n- Experts highlight strategies for maximizing opportunities 🎯\n- Uncertainty remains about the extent of the hiring surge ⚠️\n\nTAKEAWAY: As experts anticipate a potential surge in hiring this September, job seekers are advised to prepare and seize the opportunities that may arise in the job market.",
+      "exported_at": "2025-09-09T09:29:00.890109",
+      "continuous_session": true
+    },
+    {
+      "title": "Three bearish things Goldman is worried about",
+      "link": "https://www.cnbc.com/2025/09/09/three-bearish-things-goldman-is-worried-about.html",
+      "summary": "The Nasdaq Composite hit a fresh record Monday, and the S&amp;P 500 is less than 1% from its all-time high. That doesn't mean investors should let their guard down.",
+      "published": "Tue, 09 Sep 2025 13:23:37 GMT",
+      "content": "The Nasdaq Composite hit a fresh record Monday, and the S&amp;P 500 is less than 1% from its all-time high. That doesn't mean investors should let their guard down.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "703969a0c7ff8a871e9728c0a744f244",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: THREE BEARISH WARNINGS FROM GOLDMAN SACHS 🚨\n\n- Nasdaq hits new high, S&P 500 near all-time peak 📈\n- Goldman warns investors to stay cautious 🐻\n- Market highs don't guarantee smooth sailing ahead ✋\n\nTAKEAWAY: Despite record highs, Goldman Sachs issues caution to investors, signaling potential risks ahead in the market.",
+      "exported_at": "2025-09-09T09:29:00.890115",
+      "continuous_session": true
+    },
+    {
+      "title": "UnitedHealth expects majority of its members in top-rated Medicare plans in 2026",
+      "link": "https://www.cnbc.com/2025/09/09/unitedhealth-unh-medicare-plan-membership.html",
+      "summary": "UnitedHealth expects most of its members to be enrolled in top-rated Medicare insurance plans next year, in line with its expectations.",
+      "published": "Tue, 09 Sep 2025 13:25:55 GMT",
+      "content": "UnitedHealth expects most of its members to be enrolled in top-rated Medicare insurance plans next year, in line with its expectations.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c31d7c7ba3351dc50cbb7dc48621a981",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: UNITEDHEALTH PREDICTS MAJORITY IN TOP-RATED MEDICARE PLANS IN 2026 🚀\n\n- UnitedHealth foresees majority in top-rated Medicare plans by 2026 ✅\n- Members expected to align with company's projections 🎯\n- Focus on quality ratings for Medicare insurance plans ⚡️\n\nTAKEAWAY: UnitedHealth's optimistic outlook sees a majority of members enrolled in top-rated Medicare plans in 2026, aligning with the company's quality-focused strategy.",
+      "exported_at": "2025-09-09T09:29:00.890124",
       "continuous_session": true
     }
   ]
