@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T16:06:34.188600",
-    "total_articles": 573,
-    "new_articles_in_last_fetch": 573,
+    "created_at": "2025-09-09T16:11:42.183221",
+    "total_articles": 574,
+    "new_articles_in_last_fetch": 574,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -7451,6 +7451,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NEBIUS SHARES SURGE 49% IN PREMARKET ON MICROSOFT AI DEAL 🚀\n\n- Nebius shares skyrocket by 49% in premarket trading 📈\n- Microsoft partnership highlights high demand for AI infrastructure 💪\n- Deal emphasizes the need for robust technology to train AI models 🤖\n- Market responds positively to Nebius-Microsoft pact 📈\n- Strong signal of continued growth in AI industry 🚀\n- Investors bullish on Nebius' potential in AI market 🔥\n\nTAKEAWAY: Nebius experiences a remarkable 49% surge in premarket trading following its partnership with Microsoft, showcasing the robust demand for AI infrastructure.",
       "exported_at": "2025-09-09T16:06:34.145318",
+      "continuous_session": true
+    },
+    {
+      "title": "Google Cloud chief details how search giants is making billions monetizing its AI products",
+      "link": "https://www.cnbc.com/2025/09/09/google-cloud-chief-details-how-tech-company-is-monetizing-ai.html",
+      "summary": "\"We've made billions using AI already,\" Google Cloud chief Thomas Kurian said on Tuesday.",
+      "published": "Tue, 09 Sep 2025 19:58:32 GMT",
+      "content": "\"We've made billions using AI already,\" Google Cloud chief Thomas Kurian said on Tuesday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8db4614c271b9e39f6ddf5e020c38b12",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GOOGLE CLOUD CHIEF REVEALS BILLIONS MADE MONETIZING AI 🚀\n\n- Google Cloud chief Thomas Kurian highlights AI's profitability 💰\n- Company has already made billions from AI products 📈\n- Emphasis on successful monetization of AI technology 💸\n\nTAKEAWAY: Google Cloud's success in monetizing AI products showcases the immense profitability potential in leveraging advanced technologies for revenue generation.",
+      "exported_at": "2025-09-09T16:11:42.132484",
       "continuous_session": true
     }
   ]
