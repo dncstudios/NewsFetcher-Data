@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T17:07:42.092566",
-    "total_articles": 580,
-    "new_articles_in_last_fetch": 580,
+    "created_at": "2025-09-09T17:38:05.718316",
+    "total_articles": 581,
+    "new_articles_in_last_fetch": 581,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -7542,6 +7542,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ORACLE SOARS 21% ON GROWTH PROJECTIONS DESPITE EARNINGS MISS 🚀\n\n- Oracle's stock surges 21% on promising growth projections 📈\n- Total remaining performance obligations spike by 359% from last year 💥\n- Strong indication of significant growth opportunities ahead 🔥\n- Earnings miss estimates but overshadowed by growth potential 📉\n- Market reacts positively to Oracle's future prospects 🚀\n\nTAKEAWAY: Despite missing earnings estimates, Oracle's 21% surge fueled by a 359% increase in total remaining performance obligations showcases promising growth ahead.",
       "exported_at": "2025-09-09T17:07:42.054263",
+      "continuous_session": true
+    },
+    {
+      "title": "OpenAI CFO says companies who are not embracing AI fast enough will &apos;get left behind&apos;",
+      "link": "https://www.cnbc.com/2025/09/09/openai-ai-companies-cfo-friar.html",
+      "summary": "People need to adopt artificial intelligence if they want their businesses to keep an edge, said OpenAI's finance chief",
+      "published": "Tue, 09 Sep 2025 21:25:00 GMT",
+      "content": "People need to adopt artificial intelligence if they want their businesses to keep an edge, said OpenAI's finance chief",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "89d0d3a703a33d2e5d310cbfee6376e3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: OPENAI CFO WARNS: COMPANIES MUST EMBRACE AI TO STAY AHEAD 🚀\n\n- OpenAI CFO emphasizes AI adoption for competitive edge 💪\n- Companies failing to embrace AI risk falling behind 📉\n- AI integration crucial for business success 🌐\n- Innovation in AI key to future business growth 📈\n- AI adoption accelerates business efficiency and productivity 🚀\n- OpenAI CFO urges companies to prioritize AI implementation ✅\n\nTAKEAWAY: OpenAI's CFO stresses the importance of AI adoption for companies to stay competitive and avoid being left behind in the fast-paced business landscape.",
+      "exported_at": "2025-09-09T17:38:05.681278",
       "continuous_session": true
     }
   ]
