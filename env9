@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T16:01:28.221780",
-    "total_articles": 571,
-    "new_articles_in_last_fetch": 571,
+    "created_at": "2025-09-09T16:06:34.188600",
+    "total_articles": 573,
+    "new_articles_in_last_fetch": 573,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -7425,6 +7425,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: HYUNDAI IMMIGRATION RAID SENDS SHOCKWAVES THROUGH BUSINESSES ⚠️\n\n- Hyundai plant raided, sparking concerns in other companies 🚨\n- Businesses may reassess their workforce strategies 🔄\n- Impact of the raid felt across industries 🌐\n\nTAKEAWAY: The recent immigration raid at Hyundai's plant is causing ripple effects, prompting businesses to review their workforce practices.",
       "exported_at": "2025-09-09T16:01:28.174747",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks close at record highs despite job worries, looming inflation reports: Live updates",
+      "link": "https://www.cnbc.com/2025/09/08/stock-market-today-live-updates.html",
+      "summary": "The S&amp;P 500 rose on Tuesday as investors tried to look past concerns about the state of the U.S. economy.",
+      "published": "Tue, 09 Sep 2025 20:03:12 GMT",
+      "content": "The S&amp;P 500 rose on Tuesday as investors tried to look past concerns about the state of the U.S. economy.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b083000b5f68117f8c59bbc81fdf6431",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS RISE DESPITE ECONOMIC WORRIES 🚀\n\n- S&P 500 climbs despite U.S. economy concerns\n- Investors remain optimistic amid job worries\n- Markets hold gains despite looming inflation reports\n\nTAKEAWAY: Despite job worries and looming inflation reports, the S&P 500 rises as investors maintain optimism in the market.",
+      "exported_at": "2025-09-09T16:06:34.145248",
+      "continuous_session": true
+    },
+    {
+      "title": "Nebius stock soars nearly 50% on Microsoft AI deal",
+      "link": "https://www.cnbc.com/2025/09/09/nebius-nbis-soars-after-ai-infrastructure-deal-with-microsoft-msft.html",
+      "summary": "The pact between Nebius and Microsoft suggests demand for the powerful infrastructure needed to train and run AI models remains strong.",
+      "published": "Tue, 09 Sep 2025 20:02:19 GMT",
+      "content": "The pact between Nebius and Microsoft suggests demand for the powerful infrastructure needed to train and run AI models remains strong.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e61920d445202593589cf2f429855c71",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NEBIUS SHARES SURGE 49% IN PREMARKET ON MICROSOFT AI DEAL 🚀\n\n- Nebius shares skyrocket by 49% in premarket trading 📈\n- Microsoft partnership highlights high demand for AI infrastructure 💪\n- Deal emphasizes the need for robust technology to train AI models 🤖\n- Market responds positively to Nebius-Microsoft pact 📈\n- Strong signal of continued growth in AI industry 🚀\n- Investors bullish on Nebius' potential in AI market 🔥\n\nTAKEAWAY: Nebius experiences a remarkable 49% surge in premarket trading following its partnership with Microsoft, showcasing the robust demand for AI infrastructure.",
+      "exported_at": "2025-09-09T16:06:34.145318",
       "continuous_session": true
     }
   ]
