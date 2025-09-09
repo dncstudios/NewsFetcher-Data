@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T20:12:06.608275",
-    "total_articles": 476,
-    "new_articles_in_last_fetch": 476,
+    "created_at": "2025-09-08T20:27:19.384269",
+    "total_articles": 477,
+    "new_articles_in_last_fetch": 477,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -6191,6 +6191,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JAPAN STOCKS HIT RECORD HIGH AS ASIA FOLLOWS WALL STREET 🚀\n\n- Japan stocks soar to all-time high 📈\n- Asia-Pacific markets mostly up 🌏\n- Investors track Wall Street's positive momentum 📊\n- Market sentiment optimistic 🌟\n- Positive trading day across Asia 📈\n- Strong performance reflects global market trends 🌐\n\nTAKEAWAY: Japan's record-breaking stock market performance and Asia's positive trading day follow Wall Street's lead, indicating an optimistic sentiment and global market trends.",
       "exported_at": "2025-09-08T20:12:06.572270",
+      "continuous_session": true
+    },
+    {
+      "title": "Japan&apos;s Nikkei crosses 44,000 to hit fresh highs, extending rally after Ishiba&apos;s resignation announcement",
+      "link": "https://www.cnbc.com/2025/09/09/asia-markets-nikkei-225-kospi-nifty-50.html",
+      "summary": "Asia-Pacific markets traded mostly higher Tuesday, tracking gains on Wall Street.",
+      "published": "Tue, 09 Sep 2025 00:24:21 GMT",
+      "content": "Asia-Pacific markets traded mostly higher Tuesday, tracking gains on Wall Street.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "af2f4ac6e0b4357abe3d348b0475292d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JAPAN STOCKS HIT RECORD HIGH AS ASIA FOLLOWS WALL STREET 🚀\n\n- Japan stocks soar to all-time high 📈\n- Asia-Pacific markets mostly up 🌏\n- Investors track Wall Street's positive momentum 📊\n- Market sentiment optimistic 🌟\n- Positive trading day across Asia 📈\n- Strong performance reflects global market trends 🌐\n\nTAKEAWAY: Japan's record-breaking stock market performance and Asia's positive trading day follow Wall Street's lead, indicating an optimistic sentiment and global market trends.",
+      "exported_at": "2025-09-08T20:27:19.344804",
       "continuous_session": true
     }
   ]
