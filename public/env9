@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T19:34:47.945625",
-    "total_articles": 586,
-    "new_articles_in_last_fetch": 586,
+    "created_at": "2025-09-09T19:55:06.936701",
+    "total_articles": 587,
+    "new_articles_in_last_fetch": 587,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -7620,6 +7620,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AGGRESSIVE BUYBACKS BOOSTING COMPANIES' EDGE, JIM CRAMER SAYS 🚀\n\n- Jim Cramer highlights success of generous share repurchasing 🌟\n- Companies leveraging buybacks gain competitive advantage 💪\n- Share repurchases positively impacting firms' performance 📈\n- Investors benefit from companies prioritizing buybacks 💰\n- Trend of aggressive buybacks proving effective strategy 🚀\n\nTAKEAWAY: Jim Cramer's endorsement of aggressive buybacks signals a winning strategy for companies, enhancing performance and investor returns.",
       "exported_at": "2025-09-09T19:34:47.902160",
+      "continuous_session": true
+    },
+    {
+      "title": "Gemini lifts IPO price range, targets $3 billion valuation amid crypto boom",
+      "link": "https://www.cnbc.com/2025/09/09/gemini-lifts-ipo-price-range-targets-3-billion-valuation-amid-crypto-boom.html",
+      "summary": "Winklevoss twins-backed Gemini raised the proposed price range for its U.S. initial public offering on Tuesday and is now targeting a valuation of up to $3.08 billion in its listing, reflecting investor interest in crypto ventures.",
+      "published": "Tue, 09 Sep 2025 23:53:49 GMT",
+      "content": "Winklevoss twins-backed Gemini raised the proposed price range for its U.S. initial public offering on Tuesday and is now targeting a valuation of up to $3.08 billion in its listing, reflecting investor interest in crypto ventures.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "84d5d3f026e0c925124a635c25c4e472",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GEMINI BOOSTS IPO PRICE RANGE, EYES $3 BILLION VALUATION 🚀\n\n- Winklevoss-backed Gemini raises IPO target to $3.08 billion 💰\n- Increased price range showcases investor appetite for crypto 📈\n- Valuation surge reflects growing interest in crypto ventures 💎\n- Gemini's move aligns with the ongoing crypto market boom 🚀\n- IPO adjustment highlights the company's confidence and potential 💪\n\nTAKEAWAY: Gemini's upward revision of its IPO price range to target a $3 billion valuation demonstrates strong investor interest in crypto ventures amid the ongoing market boom.",
+      "exported_at": "2025-09-09T19:55:06.898128",
       "continuous_session": true
     }
   ]
