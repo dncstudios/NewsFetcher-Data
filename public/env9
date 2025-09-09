@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T15:41:08.347710",
-    "total_articles": 569,
-    "new_articles_in_last_fetch": 569,
+    "created_at": "2025-09-09T16:01:28.221780",
+    "total_articles": 571,
+    "new_articles_in_last_fetch": 571,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -7399,6 +7399,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: IMPORTANT INFLATION REPORTS THIS WEEK SHOW PRICES RISING 📈\n\n- Bureau of Labor Statistics to release producer price index Wednesday\n- Followed by consumer price index release the next day\n- Reports expected to show prices continuing to rise\n- Investors closely watching inflation data for market impact 📊\n- Inflation key factor in Federal Reserve's monetary policy decisions ✅\n- High inflation rates could lead to interest rate adjustments ⚠️\n\nTAKEAWAY: Investors eagerly await this week's inflation reports, expecting prices to continue rising, potentially impacting market trends and Federal Reserve's policy decisions.",
       "exported_at": "2025-09-09T15:41:08.308968",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks close higher, holding on to gains despite job worries, looming inflation reports: Live updates",
+      "link": "https://www.cnbc.com/2025/09/08/stock-market-today-live-updates.html",
+      "summary": "The S&amp;P 500 rose on Tuesday as investors tried to look past concerns about the state of the U.S. economy.",
+      "published": "Tue, 09 Sep 2025 20:00:35 GMT",
+      "content": "The S&amp;P 500 rose on Tuesday as investors tried to look past concerns about the state of the U.S. economy.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "25e581fd825bc0da5dd103753c3b4f63",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS RISE DESPITE ECONOMIC WORRIES 🚀\n\n- S&P 500 climbs despite U.S. economy concerns\n- Investors remain optimistic amid job worries\n- Markets hold gains despite looming inflation reports\n\nTAKEAWAY: Despite job worries and looming inflation reports, the S&P 500 rises as investors maintain optimism in the market.",
+      "exported_at": "2025-09-09T16:01:28.174687",
+      "continuous_session": true
+    },
+    {
+      "title": "Hyundai immigration raid could leave other businesses reassessing their workforces",
+      "link": "https://www.cnbc.com/2025/09/09/hyundai-immigration-raid-business-effect.html",
+      "summary": "The immigration raid on a Hyundai plant last week could leave other companies scrambling to make changes.",
+      "published": "Tue, 09 Sep 2025 19:56:28 GMT",
+      "content": "The immigration raid on a Hyundai plant last week could leave other companies scrambling to make changes.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "be9971c163ce35431524038910219b2e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: HYUNDAI IMMIGRATION RAID SENDS SHOCKWAVES THROUGH BUSINESSES ⚠️\n\n- Hyundai plant raided, sparking concerns in other companies 🚨\n- Businesses may reassess their workforce strategies 🔄\n- Impact of the raid felt across industries 🌐\n\nTAKEAWAY: The recent immigration raid at Hyundai's plant is causing ripple effects, prompting businesses to review their workforce practices.",
+      "exported_at": "2025-09-09T16:01:28.174747",
       "continuous_session": true
     }
   ]
