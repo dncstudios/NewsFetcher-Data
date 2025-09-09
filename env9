@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T19:24:34.683425",
-    "total_articles": 584,
-    "new_articles_in_last_fetch": 584,
+    "created_at": "2025-09-09T19:34:47.945625",
+    "total_articles": 586,
+    "new_articles_in_last_fetch": 586,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -7594,6 +7594,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WEDNESDAY'S STOCK MARKET OUTLOOK: WILL THE BULL RUN CONTINUE? 📈\n\n- Labor market data revisions raise economic concerns ⚠️\n- Despite worries, stocks surge to new record highs 🚀\n- All three major indexes close at fresh records on Tuesday 🎉\n\nTAKEAWAY: Despite concerns over economic data revisions, the stock market shows resilience with a bullish run to new record highs, fueling optimism for continued growth.",
       "exported_at": "2025-09-09T19:24:34.650688",
+      "continuous_session": true
+    },
+    {
+      "title": "Rate cuts could prompt investors to step out of cash into bonds, says Bone Fide Wealth&apos;s Doug Boneparth",
+      "link": "https://www.cnbc.com/2025/09/09/fed-rate-cuts-could-prompt-investors-to-step-into-bonds-says-doug-boneparth.html",
+      "summary": "The Fed's easing action could trigger investors to dump cash and allocate more capital to fixed-income assets, says Doug Boneparth at Bone Fide Wealth.",
+      "published": "Tue, 09 Sep 2025 22:28:01 GMT",
+      "content": "The Fed's easing action could trigger investors to dump cash and allocate more capital to fixed-income assets, says Doug Boneparth at Bone Fide Wealth.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "83649992aa1a83ad69719349be5c2de8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: RATE CUTS SPUR INVESTORS TO SHIFT TO BONDS, SAYS BONE FIDE WEALTH'S DOUG BONEPARTH 🚀\n\n- Fed's rate cuts may push investors to move from cash to bonds\n- Doug Boneparth of Bone Fide Wealth predicts surge in fixed-income allocation\n- Easing action by the Fed could drive capital towards bonds\n\nTAKEAWAY: The potential rate cuts by the Fed are likely to prompt investors to transition from cash to bonds, as predicted by Doug Boneparth of Bone Fide Wealth.",
+      "exported_at": "2025-09-09T19:34:47.902090",
+      "continuous_session": true
+    },
+    {
+      "title": "Aggressive buybacks are giving some companies an edge, Jim Cramer says",
+      "link": "https://www.cnbc.com/2025/09/09/aggressive-buybacks-are-giving-some-companies-an-edge-jim-cramer-says.html",
+      "summary": "CNBC's Jim Cramer told investors on Tuesday why he thinks generous share repurchasing is working in some companies' favor.",
+      "published": "Tue, 09 Sep 2025 22:56:03 GMT",
+      "content": "CNBC's Jim Cramer told investors on Tuesday why he thinks generous share repurchasing is working in some companies' favor.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ca1197e52935601f27d8be3d8ccfd87a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AGGRESSIVE BUYBACKS BOOSTING COMPANIES' EDGE, JIM CRAMER SAYS 🚀\n\n- Jim Cramer highlights success of generous share repurchasing 🌟\n- Companies leveraging buybacks gain competitive advantage 💪\n- Share repurchases positively impacting firms' performance 📈\n- Investors benefit from companies prioritizing buybacks 💰\n- Trend of aggressive buybacks proving effective strategy 🚀\n\nTAKEAWAY: Jim Cramer's endorsement of aggressive buybacks signals a winning strategy for companies, enhancing performance and investor returns.",
+      "exported_at": "2025-09-09T19:34:47.902160",
       "continuous_session": true
     }
   ]
