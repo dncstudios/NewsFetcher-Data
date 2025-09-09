@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T22:59:26.839273",
-    "total_articles": 481,
-    "new_articles_in_last_fetch": 481,
+    "created_at": "2025-09-09T00:40:40.243244",
+    "total_articles": 482,
+    "new_articles_in_last_fetch": 482,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -6256,6 +6256,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BOEING SOARS IN TRUMP TRADE DEALS 🛫\n\n- Trump's tariffs trigger countries to order Boeing planes ✈️\n- Trade partners announce substantial deals post-tariffs 🌍\n- Boeing's prominence in trade deals raises eyebrows 🤨\n\nTAKEAWAY: Boeing's significant presence in trade deals following Trump's tariffs sparks curiosity and speculation about the underlying motives.",
       "exported_at": "2025-09-08T22:59:26.802075",
+      "continuous_session": true
+    },
+    {
+      "title": "India urges BRICS partners to address trade deficits as China calls on bloc members to unite",
+      "link": "https://www.cnbc.com/2025/09/09/india-china-brics-brazil-trade-trump-deficit.html",
+      "summary": "China has racked up a $77.7 billion trade surplus with India this year as of August, 16% higher compared to the level a year earlier.",
+      "published": "Tue, 09 Sep 2025 04:33:50 GMT",
+      "content": "China has racked up a $77.7 billion trade surplus with India this year as of August, 16% higher compared to the level a year earlier.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "22d7afb8876d75b2559925ce894cdd4e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: INDIA PUSHES BRICS FOR TRADE DEFICIT ACTION AS CHINA'S SURPLUS SOARS 🚀\n\n- China's trade surplus with India hits $77.7 billion in 2021 📈\n- Surplus surges by 16% compared to the previous year 🚀\n- India urges BRICS partners to tackle trade imbalances ✅\n- China calls for unity among BRICS members 🌍\n- Focus on addressing economic disparities within the bloc 🌐\n- Growing concerns over widening trade gaps in BRICS nations ⚠️\n\nTAKEAWAY: India calls for action on trade deficits within BRICS as China's surplus with India reaches $77.7 billion, highlighting the urgency to address economic imbalances.",
+      "exported_at": "2025-09-09T00:40:40.203254",
       "continuous_session": true
     }
   ]
