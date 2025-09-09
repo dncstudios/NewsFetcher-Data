@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T03:07:38.167048",
-    "total_articles": 488,
-    "new_articles_in_last_fetch": 488,
+    "created_at": "2025-09-09T04:03:24.380816",
+    "total_articles": 489,
+    "new_articles_in_last_fetch": 489,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -6347,6 +6347,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: EUROPEAN MARKETS DIP AMID FRANCE'S POLITICAL UNCERTAINTY 📉\n\n- European stocks set to open flat or lower on Tuesday 📉\n- Investors concerned about political turmoil in France 🇫🇷\n- Market mood darkens as uncertainty looms over the region ⚠️\n\nTAKEAWAY: European markets face a gloomy outlook as political uncertainty in France weighs heavily on investor sentiment, leading to a flat to lower opening for stocks.",
       "exported_at": "2025-09-09T03:07:38.125829",
+      "continuous_session": true
+    },
+    {
+      "title": "Anglo American shares surge 8% on &apos;merger of equals&apos; with Canada&apos;s Teck Resources",
+      "link": "https://www.cnbc.com/2025/09/09/european-markets-on-septpoint9-stoxx-600-ftse-dax-france-gov-collapse.html",
+      "summary": "European stocks inched higher on Tuesday, with investors in the region focusing on further political turmoil in France after the ousting of Prime Minister Francois Bayrou on Monday.",
+      "published": "Tue, 09 Sep 2025 07:58:52 GMT",
+      "content": "European stocks inched higher on Tuesday, with investors in the region focusing on further political turmoil in France after the ousting of Prime Minister Francois Bayrou on Monday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0c68df535b82557fe5833e9408539773",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ANGLO AMERICAN SHARES SOAR 8% ON TECK RESOURCES MERGER 🚀\n\n- Anglo American shares jump 8% post 'merger of equals' with Teck Resources\n- European stocks rise amid French political turmoil after PM's ousting\n- Investor attention shifts to France's political instability 📈\n- Merger creates buzz in the mining industry 🌍\n- Teck Resources and Anglo American deal leads to stock surge 🔥\n- Market reacts positively to the news of the merger\n\nTAKEAWAY: Anglo American experiences an 8% surge in shares following the exciting 'merger of equals' with Teck Resources, sparking investor interest and market positivity amidst European political turbulence.",
+      "exported_at": "2025-09-09T04:03:24.343409",
       "continuous_session": true
     }
   ]
