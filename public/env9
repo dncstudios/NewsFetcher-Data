@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T04:13:36.927002",
-    "total_articles": 490,
-    "new_articles_in_last_fetch": 490,
+    "created_at": "2025-09-09T04:23:47.851016",
+    "total_articles": 491,
+    "new_articles_in_last_fetch": 491,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -6373,6 +6373,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FRANCE'S POLITICAL CRISIS DEEPENS AS ANOTHER PM IS AXED: WHAT'S NEXT? ⚠️\n\n- France faces uncertainty after another prime minister is ousted 🇫🇷\n- Questions arise about the stability of the government 🤔\n- Investors cautious as political turmoil escalates ⚠️\n- Future policies and reforms now in question ❓\n- Concerns over impact on economy and markets 📉\n- Public awaits clarity on the government's next steps 🧐\n\nTAKEAWAY: France's political crisis deepens with the ousting of another prime minister, raising concerns about stability, policies, and economic impact, leaving investors and the public on edge.",
       "exported_at": "2025-09-09T04:13:36.880882",
+      "continuous_session": true
+    },
+    {
+      "title": "Anglo American shares surge 8% on &apos;merger of equals&apos; with Canada&apos;s Teck Resources",
+      "link": "https://www.cnbc.com/2025/09/09/european-markets-on-septpoint9-stoxx-600-ftse-dax-france-gov-collapse.html",
+      "summary": "European stocks inched higher on Tuesday, helped by mining giant Anglo American's share price surge after it unveiled a merger with Canada's Teck Resources.",
+      "published": "Tue, 09 Sep 2025 08:22:20 GMT",
+      "content": "European stocks inched higher on Tuesday, helped by mining giant Anglo American's share price surge after it unveiled a merger with Canada's Teck Resources.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a15e6a9a43ef943aba051db46deae871",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ANGLO AMERICAN SOARS 8% ON MERGER WITH TECK RESOURCES 🚀\n\n- Anglo American's shares surge 8% post announcement 📈\n- Mining giant reveals \"merger of equals\" with Teck Resources 💼\n- European stocks see slight increase fueled by this news 📈\n\nTAKEAWAY: Anglo American's significant share price surge following the merger announcement with Teck Resources boosts market sentiment and investor confidence.",
+      "exported_at": "2025-09-09T04:23:47.810036",
       "continuous_session": true
     }
   ]
