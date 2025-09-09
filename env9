@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T14:44:57.065111",
-    "total_articles": 559,
-    "new_articles_in_last_fetch": 559,
+    "created_at": "2025-09-09T14:50:05.009476",
+    "total_articles": 561,
+    "new_articles_in_last_fetch": 561,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -7269,6 +7269,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: APPLE EVENT LIVE UPDATES: IPHONE 17 PRICING REVEALED 🚀\n\n- iPhone 17 prices: $799 for standard, $1,099 for Pro, $1,199 for Pro Max 💰\n- Tim Cook presents new iPhone line, Apple Watches, AirPods Pro, and iOS 26 release date 📱⌚\n- Apple continues to innovate with latest product releases 🚀\n- Consumers eagerly anticipate the latest tech updates and features 🎯\n- Competitive pricing strategy set by Apple for new iPhone models 💪\n- Tech enthusiasts worldwide buzzing with excitement over Apple's latest announcements 🌍\n\nTAKEAWAY: Apple's latest event unveils the iPhone 17 lineup with competitive pricing, leaving consumers eager for the latest tech innovations and features. 📱🔥",
       "exported_at": "2025-09-09T14:44:57.018901",
+      "continuous_session": true
+    },
+    {
+      "title": "Reddit is sniffing out a breakout to all-time highs, according to the charts",
+      "link": "https://www.cnbc.com/2025/09/09/reddit-is-sniffing-out-a-breakout-to-all-time-highs-according-to-the-charts.html",
+      "summary": "Chart analyst Todd Gordon breaks down the social media company's technical backdrop.",
+      "published": "Tue, 09 Sep 2025 18:41:16 GMT",
+      "content": "Chart analyst Todd Gordon breaks down the social media company's technical backdrop.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "246d2a948711178e6116c2121a07f5c7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: REDDIT SOARS TOWARD ALL-TIME HIGHS ACCORDING TO CHARTS 🚀\n\n- Chart analyst Todd Gordon predicts Reddit's breakout 📈\n- Company's technical analysis points to significant growth 📊\n- Reddit's stock heading towards all-time highs 🚀\n- Positive momentum indicated by the charts 🔥\n- Todd Gordon's analysis highlights Reddit's upward trajectory ✅\n\nTAKEAWAY: Reddit's stock is poised for a significant breakout towards all-time highs, supported by positive momentum and strong technical analysis.",
+      "exported_at": "2025-09-09T14:50:04.961171",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves midday: UnitedHealth, Kingsoft Cloud, Brighthouse Financial and more",
+      "link": "https://www.cnbc.com/2025/09/09/stocks-making-the-biggest-moves-midday-unh-kc-bhf.html",
+      "summary": "These are the stocks posting the largest moves midday.",
+      "published": "Tue, 09 Sep 2025 17:55:48 GMT",
+      "content": "These are the stocks posting the largest moves midday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c39e34c9d12f74f5ab15397e89d499fa",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS MAKING BIG MOVES MIDDAY: UNITEDHEALTH, KINGSOFT CLOUD, BRIGHTHOUSE FINANCIAL 🚀\n\n- UnitedHealth, Kingsoft Cloud, Brighthouse Financial show significant midday movements\n- Investors closely monitoring these stock fluctuations for potential opportunities 📈\n- Market dynamics shifting rapidly for these companies\n\nTAKEAWAY: UnitedHealth, Kingsoft Cloud, and Brighthouse Financial are experiencing notable midday stock movements, attracting investors seeking potential opportunities amidst rapidly changing market conditions.",
+      "exported_at": "2025-09-09T14:50:04.961252",
       "continuous_session": true
     }
   ]
