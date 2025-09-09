@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T11:36:16.411727",
-    "total_articles": 534,
-    "new_articles_in_last_fetch": 534,
+    "created_at": "2025-09-09T12:01:39.860345",
+    "total_articles": 535,
+    "new_articles_in_last_fetch": 535,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -6944,6 +6944,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FORD RECALLS 1.9 MILLION VEHICLES DUE TO FAULTY REAR-VIEW CAMERAS ⚠️\n\n- Ford recalls 1.9 million vehicles globally 🚗\n- Issue: faulty rear-view cameras 📷\n- Continuation of a series of callbacks for the same problem 🔁\n- Safety concern prompts the recall 🚨\n- Recall impacts vehicles worldwide 🌍\n- No other details disclosed \n\nTAKEAWAY: Ford's global recall of 1.9 million vehicles due to faulty rear-view cameras highlights the company's commitment to safety but raises concerns over the recurring issue.",
       "exported_at": "2025-09-09T11:36:16.365766",
+      "continuous_session": true
+    },
+    {
+      "title": "Boeing steps up jet deliveries, surpassing 2024 total by August",
+      "link": "https://www.cnbc.com/2025/09/09/boeing-steps-up-jet-deliveries-surpassing-2024-total-by-august.html",
+      "summary": "Boeing said that it delivered 57 jets in August, up from 48 in July. It was the highest number of deliveries in August since 2018.",
+      "published": "Tue, 09 Sep 2025 15:55:43 GMT",
+      "content": "Boeing said that it delivered 57 jets in August, up from 48 in July. It was the highest number of deliveries in August since 2018.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "cb7a5d2a8298271db839b19fe9024d27",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BOEING SURPASSES 2024 JET DELIVERIES TOTAL BY AUGUST 🚀\n\n- Boeing delivers 57 jets in August, up from 48 in July 📈\n- August records highest deliveries since 2018 📊\n- Surpasses total deliveries expected for 2024 by August ⚡️\n\nTAKEAWAY: Boeing accelerates jet deliveries, exceeding expectations and achieving remarkable growth by August, setting a strong pace for the industry.",
+      "exported_at": "2025-09-09T12:01:39.812859",
       "continuous_session": true
     }
   ]
