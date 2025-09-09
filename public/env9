@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T11:10:49.680713",
-    "total_articles": 531,
-    "new_articles_in_last_fetch": 531,
+    "created_at": "2025-09-09T11:20:59.562976",
+    "total_articles": 532,
+    "new_articles_in_last_fetch": 532,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -6905,6 +6905,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: UNITEDHEALTH LEADS WITH 78% HIGH-RATED MEDICARE PLANS 🚀\n\n- 78% of UnitedHealth members to enroll in top Medicare plans\n- Strong alignment with company's projections and goals ✅\n- Focus on quality insurance for majority of members 🎯\n- Demonstrates commitment to high-rated healthcare services 📊\n- Positive outlook for member satisfaction and retention 🚀\n- UnitedHealth's proactive approach to Medicare excellence ⚡️\n\nTAKEAWAY: UnitedHealth's impressive 78% enrollment in top-rated Medicare plans showcases its dedication to providing quality healthcare services and ensuring member satisfaction.",
       "exported_at": "2025-09-09T11:10:49.646376",
+      "continuous_session": true
+    },
+    {
+      "title": "Apple event live updates: New iPhone 17 release expected today",
+      "link": "https://www.cnbc.com/2025/09/09/live-updates-apple-event-iphone17-airpods-ios26.html",
+      "summary": "Apple CEO Tim Cook and his team are set to unveil the iPhone 17 line of devices, Apple Watches, new AirPods Pro, and the release date for iOS 26.",
+      "published": "Tue, 09 Sep 2025 15:18:45 GMT",
+      "content": "Apple CEO Tim Cook and his team are set to unveil the iPhone 17 line of devices, Apple Watches, new AirPods Pro, and the release date for iOS 26.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "67492d63da91178de887bdc43db8d1c5",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: APPLE UNVEILS IPHONE 17 SERIES: LATEST UPDATES 🚀\n\n- Tim Cook to reveal iPhone 17 line, new AirPods Pro\n- Apple Watches also expected to be introduced\n- iOS 26 release date announcement anticipated\n\nTAKEAWAY: Apple's upcoming event promises excitement with the introduction of the highly anticipated iPhone 17 series, new AirPods Pro, and Apple Watches, along with the announcement of iOS 26 release date.",
+      "exported_at": "2025-09-09T11:20:59.520371",
       "continuous_session": true
     }
   ]
