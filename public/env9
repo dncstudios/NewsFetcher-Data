@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T13:53:57.119940",
-    "total_articles": 553,
-    "new_articles_in_last_fetch": 553,
+    "created_at": "2025-09-09T14:04:09.774131",
+    "total_articles": 554,
+    "new_articles_in_last_fetch": 554,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -7191,6 +7191,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FINANCIAL STOCKS READY TO SHINE WITH FED RATE CUT 🚀\n\n- Fed's rate cut expected to benefit banks & financial services 🏦\n- Market strategist Lauren Goodwin predicts a friendlier environment 🌟\n- Yield curve set to steepen, boosting financial sector 📈\n\nTAKEAWAY: Anticipate a positive outlook for financial stocks as the Fed's rate cut creates a favorable environment for banks and services firms, with the yield curve on the rise.",
       "exported_at": "2025-09-09T13:53:57.084529",
+      "continuous_session": true
+    },
+    {
+      "title": "Microsoft says employees will be expected in office three days a week",
+      "link": "https://www.cnbc.com/2025/09/09/microsoft-says-employees-will-be-expected-in-office-three-days-a-week.html",
+      "summary": "Microsoft previously had a remote-work policy that allowed most employees to work from home more frequently without manager approval.",
+      "published": "Tue, 09 Sep 2025 17:59:16 GMT",
+      "content": "Microsoft previously had a remote-work policy that allowed most employees to work from home more frequently without manager approval.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f00ccd69ebfff25a047dd096a009f80d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MICROSOFT MANDATES EMPLOYEES TO WORK IN OFFICE 3 DAYS A WEEK ⚡️\n\n- Microsoft shifts from remote-work flexibility to 3 days in office\n- Previous policy allowed working from home without manager approval\n- Emphasizes importance of in-person collaboration and teamwork ✅\n- Aims to maintain hybrid work model for optimal productivity 🎯\n- Employees to have 42% of their workweek in the office 🏢\n- Microsoft's move contrasts with tech companies embracing remote work 🌐\n\nTAKEAWAY: Microsoft's new policy requiring employees to be in the office 3 days a week reflects a shift towards prioritizing in-person collaboration while maintaining a hybrid work model for productivity.",
+      "exported_at": "2025-09-09T14:04:09.750226",
       "continuous_session": true
     }
   ]
