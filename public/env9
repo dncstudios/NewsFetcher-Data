@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T06:41:00.446147",
-    "total_articles": 500,
-    "new_articles_in_last_fetch": 500,
+    "created_at": "2025-09-09T06:51:12.332951",
+    "total_articles": 501,
+    "new_articles_in_last_fetch": 501,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -6503,6 +6503,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ANGLO AMERICAN SOARS 8% ON MERGER WITH TECK RESOURCES 🚀\n\n- Anglo American's shares surge 8% post announcement 📈\n- Mining giant reveals \"merger of equals\" with Teck Resources 💼\n- European stocks see slight increase fueled by this news 📈\n\nTAKEAWAY: Anglo American's significant share price surge following the merger announcement with Teck Resources boosts market sentiment and investor confidence.",
       "exported_at": "2025-09-09T06:41:00.403615",
+      "continuous_session": true
+    },
+    {
+      "title": "Chinese auto giant GAC targets 17-fold boost to European sales by 2027",
+      "link": "https://www.cnbc.com/2025/09/09/chinese-auto-giant-gac-targets-17-fold-boost-to-european-sales-by-2027.html",
+      "summary": "GAC showed off its Aion V and Aion UT fully electric cars at the IAA Mobility show in Munich, Germany.",
+      "published": "Tue, 09 Sep 2025 10:45:02 GMT",
+      "content": "GAC showed off its Aion V and Aion UT fully electric cars at the IAA Mobility show in Munich, Germany.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5d9a6596cc19086ecb0e3fbf213e712d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CHINESE AUTO GIANT GAC PLANS 17-FOLD SALES BOOST IN EUROPE BY 2027 🚀\n\n- GAC aims for a 17-fold increase in European sales by 2027 🌍\n- Showcased Aion V and Aion UT electric cars at IAA Mobility show 🚗\n- Ambitious expansion strategy to capture European market 🎯\n- GAC targeting significant growth in electric vehicle sales ⚡️\n- Pushing boundaries to establish stronghold in Europe 🌟\n\nTAKEAWAY: GAC's ambitious plan to increase European sales by 17 times by 2027, along with showcasing their electric cars at the IAA Mobility show, demonstrates their strong commitment to penetrate the European market effectively.",
+      "exported_at": "2025-09-09T06:51:12.294939",
       "continuous_session": true
     }
   ]
