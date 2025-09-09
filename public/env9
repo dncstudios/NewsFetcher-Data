@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T10:40:18.711526",
-    "total_articles": 529,
-    "new_articles_in_last_fetch": 529,
+    "created_at": "2025-09-09T10:55:33.747734",
+    "total_articles": 530,
+    "new_articles_in_last_fetch": 530,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -6879,6 +6879,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FEWER AMERICANS SEE RETIREMENT AS A MIRACLE, BUT INFLATION CONCERNS REMAIN 📈\n\n- Only 21% believe secure retirement requires a miracle 🙌\n- Sharp decrease from 41% in 2021 with similar views 🔻\n- Survey conducted by Natixis Investment Managers 📊\n\nTAKEAWAY: Americans' confidence in achieving a secure retirement without a miracle is increasing, yet inflation worries continue to linger.",
       "exported_at": "2025-09-09T10:40:18.673386",
+      "continuous_session": true
+    },
+    {
+      "title": "Shares of this under-the-radar weight-loss drug play could double, says Leerink Partners",
+      "link": "https://www.cnbc.com/2025/09/09/shares-of-this-under-the-radar-weight-loss-drug-play-could-double-says-leerink-partners.html",
+      "summary": "The investment firm initiated coverage of the biopharma stock at a outperform rating.",
+      "published": "Tue, 09 Sep 2025 14:47:54 GMT",
+      "content": "The investment firm initiated coverage of the biopharma stock at a outperform rating.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d3a859dd4ab19c4e669d67a054e4255b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: UNDER-THE-RADAR WEIGHT-LOSS DRUG STOCK SET TO DOUBLE, SAYS LEERINK PARTNERS 🚀\n\n- Leerink Partners predicts biopharma stock to double 📈\n- Investment firm initiates coverage with outperform rating ✅\n- Potential for significant growth in weight-loss drug market 💪\n- Biopharma stock gains attention for promising future ⚡️\n\nTAKEAWAY: Leerink Partners' optimistic outlook on the under-the-radar weight-loss drug stock hints at a potential doubling in value, signaling significant growth opportunities.",
+      "exported_at": "2025-09-09T10:55:33.704607",
       "continuous_session": true
     }
   ]
