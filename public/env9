@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T08:32:55.096604",
-    "total_articles": 513,
-    "new_articles_in_last_fetch": 513,
+    "created_at": "2025-09-09T08:48:12.646993",
+    "total_articles": 515,
+    "new_articles_in_last_fetch": 515,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -6671,6 +6671,32 @@
       "hash": "a3b0fd1ee565baa4fe9e78f32556bc2a",
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "exported_at": "2025-09-09T08:32:55.054272",
+      "continuous_session": true
+    },
+    {
+      "title": "&apos;A colossal train wreck&apos;: U.S. energy chief slams odds of net zero by 2050",
+      "link": "https://www.cnbc.com/2025/09/09/us-energy-chief-chris-wright-says-net-zero-by-2050-is-unrealistic.html",
+      "summary": "Net zero by 2050 is \"a monstrous human impoverishment program and of course there is no way it is going to happen,\" U.S. Energy Secretary Chris Wright said.",
+      "published": "Tue, 09 Sep 2025 12:42:12 GMT",
+      "content": "Net zero by 2050 is \"a monstrous human impoverishment program and of course there is no way it is going to happen,\" U.S. Energy Secretary Chris Wright said.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5e2eefb44a38231735880ff5023c4154",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 'A COLOSSAL TRAIN WRECK': US ENERGY CHIEF SLAMS ODDS OF NET ZERO BY 2050 🚨\n\n- US Energy Sec. calls net zero by 2050 \"monstrous human impoverishment program\" 🚨\n- Chris Wright doubts success, claims it won't happen 🤔\n- Stern criticism against achieving net zero by 2050 📉\n\nTAKEAWAY: US Energy Secretary's strong opposition to achieving net zero by 2050 raises doubts about the feasibility of such ambitious targets.",
+      "exported_at": "2025-09-09T08:48:12.611891",
+      "continuous_session": true
+    },
+    {
+      "title": "How to trade an improving outlook for bank stocks going forward",
+      "link": "https://www.cnbc.com/2025/09/09/how-to-trade-an-improving-outlook-for-bank-stocks-going-forward.html",
+      "summary": "Frank Holland breaks down what traders are watching ahead of the new session.",
+      "published": "Tue, 09 Sep 2025 12:34:01 GMT",
+      "content": "Frank Holland breaks down what traders are watching ahead of the new session.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f3fe832d46f46dadcec6e95e8b4a2137",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: HOW TO TRADE AN IMPROVING OUTLOOK FOR BANK STOCKS GOING FORWARD 📈\n\n- Traders focus on bank stocks with a positive outlook 💼\n- Analysts anticipate potential gains in the new session 📈\n- Frank Holland provides insights for traders 🧐\n- Market participants eye opportunities in bank stocks 💰\n- Optimism surrounds the future of bank stocks 🌟\n\nTAKEAWAY: Traders are gearing up to capitalize on the improving outlook for bank stocks, with analysts and market participants anticipating potential gains in the new session.",
+      "exported_at": "2025-09-09T08:48:12.611953",
       "continuous_session": true
     }
   ]
