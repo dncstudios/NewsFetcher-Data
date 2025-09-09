@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T06:51:12.332951",
-    "total_articles": 501,
-    "new_articles_in_last_fetch": 501,
+    "created_at": "2025-09-09T07:01:27.891485",
+    "total_articles": 503,
+    "new_articles_in_last_fetch": 503,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -6516,6 +6516,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CHINESE AUTO GIANT GAC PLANS 17-FOLD SALES BOOST IN EUROPE BY 2027 🚀\n\n- GAC aims for a 17-fold increase in European sales by 2027 🌍\n- Showcased Aion V and Aion UT electric cars at IAA Mobility show 🚗\n- Ambitious expansion strategy to capture European market 🎯\n- GAC targeting significant growth in electric vehicle sales ⚡️\n- Pushing boundaries to establish stronghold in Europe 🌟\n\nTAKEAWAY: GAC's ambitious plan to increase European sales by 17 times by 2027, along with showcasing their electric cars at the IAA Mobility show, demonstrates their strong commitment to penetrate the European market effectively.",
       "exported_at": "2025-09-09T06:51:12.294939",
+      "continuous_session": true
+    },
+    {
+      "title": "Barclays raises Oracle price target ahead of quarterly results",
+      "link": "https://www.cnbc.com/2025/09/09/barclays-raises-oracle-price-target-ahead-of-quarterly-results.html",
+      "summary": "Analyst Raimo Lenschow thinks this report \"will be very different versus other years.\"",
+      "published": "Tue, 09 Sep 2025 10:59:29 GMT",
+      "content": "Analyst Raimo Lenschow thinks this report \"will be very different versus other years.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fea168391b8a7fcefd73cf557d3af3fa",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BARCLAYS RAISES ORACLE PRICE TARGET AHEAD OF QUARTERLY RESULTS 🚀\n\n- Barclays increases Oracle price target before earnings report 📈\n- Analyst Raimo Lenschow expects a unique report this year 💡\n- Anticipation high for Oracle's upcoming quarterly results 🎯\n- Lenschow predicts Oracle's performance to stand out ⚡️\n- Market responds positively to Barclays' price target raise 📊\n\nTAKEAWAY: Barclays' optimistic price target raise for Oracle hints at a potentially exceptional quarterly report, fueling market excitement.",
+      "exported_at": "2025-09-09T07:01:27.849322",
+      "continuous_session": true
+    },
+    {
+      "title": "China’s Unitree plans $7 billion IPO valuation, Reuters reports, as humanoid robot race heats up",
+      "link": "https://www.cnbc.com/2025/09/09/chinas-unitree-plans-7-billion-ipo-valuation-as-humanoid-robot-race-heats-up.html",
+      "summary": "Unitree's listing plans could make it one of the earliest companies specializing in humanoid robots to go public.",
+      "published": "Tue, 09 Sep 2025 10:59:40 GMT",
+      "content": "Unitree's listing plans could make it one of the earliest companies specializing in humanoid robots to go public.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5b606d80555c4d91980af02359b6934a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CHINA'S UNITREE EYES $7 BILLION IPO VALUATION 🚀\n\n- Unitree's IPO could value the company at $7 billion 💰\n- Specializing in humanoid robots, Unitree leads in the IPO race 🤖\n- One of the first in its niche to go public 🎯\n\nTAKEAWAY: Unitree's potential $7 billion IPO valuation marks a significant milestone in the competitive humanoid robot industry, positioning them as a pioneering player in the market.",
+      "exported_at": "2025-09-09T07:01:27.849382",
       "continuous_session": true
     }
   ]
