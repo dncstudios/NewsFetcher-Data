@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T12:27:10.088394",
-    "total_articles": 540,
-    "new_articles_in_last_fetch": 540,
+    "created_at": "2025-09-09T12:32:19.144258",
+    "total_articles": 541,
+    "new_articles_in_last_fetch": 541,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -7022,6 +7022,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: THIS STOCK'S SOARS AFTER EARNINGS - OPTIONS STRATEGY REVEALED! 🚀\n\n- Stock surges post-earnings, attracting investor interest 📈\n- Options trader Nishant Pant suggests a bull call spread 🐂📈\n- Strategy aims to capitalize on further stock price gains 💰📈\n  \nTAKEAWAY: Post-earnings surge in this stock presents an opportunity for investors to consider a bull call spread strategy for potential further gains.",
       "exported_at": "2025-09-09T12:27:10.044810",
+      "continuous_session": true
+    },
+    {
+      "title": "Europe and the U.S. talk Russia sanctions as attacks ramp up",
+      "link": "https://www.cnbc.com/2025/09/09/europe-and-the-us-talk-russia-sanctions-as-attacks-ramp-up.html",
+      "summary": "\"It is clear that energy dependency on Russia will be targeted more vehemently,\" an EU official told CNBC.",
+      "published": "Tue, 09 Sep 2025 16:22:29 GMT",
+      "content": "\"It is clear that energy dependency on Russia will be targeted more vehemently,\" an EU official told CNBC.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d9cdfe79653cc9b0841342c2a0f807f1",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: EUROPE & US EYE RUSSIA SANCTIONS AMID ESCALATING ATTACKS 🚨\n\n- EU & US discuss sanctioning Russia over escalating attacks 🔥\n- Energy dependency on Russia to be targeted aggressively ⚡️\n- Talks intensify as tensions rise between Russia and the West 🌍\n\nTAKEAWAY: Europe and the U.S. are ramping up discussions on imposing sanctions on Russia amidst escalating attacks, focusing on reducing energy dependency.",
+      "exported_at": "2025-09-09T12:32:19.112776",
       "continuous_session": true
     }
   ]
