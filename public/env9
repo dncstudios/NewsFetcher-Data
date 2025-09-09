@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T13:23:14.387562",
-    "total_articles": 546,
-    "new_articles_in_last_fetch": 546,
+    "created_at": "2025-09-09T13:33:28.842944",
+    "total_articles": 547,
+    "new_articles_in_last_fetch": 547,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -7100,6 +7100,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CYBERSECURITY STOCK SHOWS PROMISING PRICE ACTION AHEAD OF EARNINGS 🚀\n\n- Stock displaying positive price movement pre-earnings 📈\n- Mentioned in Jay Woods' recent weekly outlook update 🌟\n- Anticipation building for earnings report after market close 🔥\n\nTAKEAWAY: Investors are optimistic as a cybersecurity stock demonstrates strong price performance leading up to its earnings report, mentioned in Jay Woods' recent update.",
       "exported_at": "2025-09-09T13:23:14.353462",
+      "continuous_session": true
+    },
+    {
+      "title": "Apple event live updates: iPhone 17 launch kicks off with AirPods Pro 3 and Apple Watch Series 11 reveal",
+      "link": "https://www.cnbc.com/2025/09/09/live-updates-apple-event-iphone17-airpods-ios26.html",
+      "summary": "Apple CEO Tim Cook and his team are set to unveil the iPhone 17 line of devices, Apple Watches, new AirPods Pro, and the release date for iOS 26.",
+      "published": "Tue, 09 Sep 2025 17:31:23 GMT",
+      "content": "Apple CEO Tim Cook and his team are set to unveil the iPhone 17 line of devices, Apple Watches, new AirPods Pro, and the release date for iOS 26.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "507dd3a5221fc61d3bf8a9f2b51a9c47",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: APPLE UNVEILS IPHONE 17 SERIES: LATEST UPDATES 🚀\n\n- Tim Cook to reveal iPhone 17 line, new AirPods Pro\n- Apple Watches also expected to be introduced\n- iOS 26 release date announcement anticipated\n\nTAKEAWAY: Apple's upcoming event promises excitement with the introduction of the highly anticipated iPhone 17 series, new AirPods Pro, and Apple Watches, along with the announcement of iOS 26 release date.",
+      "exported_at": "2025-09-09T13:33:28.799701",
       "continuous_session": true
     }
   ]
