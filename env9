@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T08:48:12.646993",
-    "total_articles": 515,
-    "new_articles_in_last_fetch": 515,
+    "created_at": "2025-09-09T09:13:36.465715",
+    "total_articles": 517,
+    "new_articles_in_last_fetch": 517,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -6697,6 +6697,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: HOW TO TRADE AN IMPROVING OUTLOOK FOR BANK STOCKS GOING FORWARD 📈\n\n- Traders focus on bank stocks with a positive outlook 💼\n- Analysts anticipate potential gains in the new session 📈\n- Frank Holland provides insights for traders 🧐\n- Market participants eye opportunities in bank stocks 💰\n- Optimism surrounds the future of bank stocks 🌟\n\nTAKEAWAY: Traders are gearing up to capitalize on the improving outlook for bank stocks, with analysts and market participants anticipating potential gains in the new session.",
       "exported_at": "2025-09-09T08:48:12.611953",
+      "continuous_session": true
+    },
+    {
+      "title": "Shake Shack launches French onion soup items as it leans into premium promotions",
+      "link": "https://www.cnbc.com/2025/09/09/shake-shack-launches-french-onion-soup-burger.html",
+      "summary": "Shake Shack is following up its Dubai Chocolate Pistachio Shake with its French Onion Soup Burger.",
+      "published": "Tue, 09 Sep 2025 13:00:01 GMT",
+      "content": "Shake Shack is following up its Dubai Chocolate Pistachio Shake with its French Onion Soup Burger.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a63999521d55df65489e2d7709f07f4a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SHAKE SHACK LAUNCHES FRENCH ONION SOUP BURGER 🚀\n\n- Shake Shack introduces French Onion Soup Burger after Dubai success 🍔\n- Leaning into premium promotions with new mouthwatering offerings 💎\n- Innovation in menu reflects brand's commitment to culinary creativity 🍽️\n\nTAKEAWAY: Shake Shack's launch of the French Onion Soup Burger showcases its dedication to culinary innovation and premium offerings, following the success of the Dubai Chocolate Pistachio Shake.",
+      "exported_at": "2025-09-09T09:13:36.426997",
+      "continuous_session": true
+    },
+    {
+      "title": "Stablecoin issuer Figure Technologies set to upsize IPO as demand for crypto-related stocks soars, Reuters source says",
+      "link": "https://www.cnbc.com/2025/09/09/stablecoin-issuer-figure-technologies-set-to-upsize-ipo-reuters.html",
+      "summary": "Stablecoin issuer Figure Technologies is increasing the size of its initial public offering, a person familiar with direct knowledge of the matter told Reuters.",
+      "published": "Tue, 09 Sep 2025 12:55:01 GMT",
+      "content": "Stablecoin issuer Figure Technologies is increasing the size of its initial public offering, a person familiar with direct knowledge of the matter told Reuters.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0c8535cca893e29d432f4e8e594d2979",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FIGURE TECHNOLOGIES UPSIZING IPO AMID CRYPTO STOCK DEMAND 🚀\n\n- Stablecoin issuer Figure Technologies boosts IPO size 📈\n- Demand surges for crypto-related stocks 🚀\n- Insider reveals upsizing move to Reuters 🕵️‍♂️\n- Company capitalizing on high interest in crypto sector 💰\n- Increased IPO size reflects strong market appetite 📈\n- Figure Technologies aligning with booming crypto trend 📈\n\nTAKEAWAY: Figure Technologies seizing the opportunity to expand IPO amid soaring demand for crypto-related stocks, reflecting the strong market appetite in the sector.",
+      "exported_at": "2025-09-09T09:13:36.427070",
       "continuous_session": true
     }
   ]
