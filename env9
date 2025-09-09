@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T04:33:57.115435",
-    "total_articles": 492,
-    "new_articles_in_last_fetch": 492,
+    "created_at": "2025-09-09T05:09:28.535956",
+    "total_articles": 493,
+    "new_articles_in_last_fetch": 493,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -6399,6 +6399,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCK FUTURES STABLE AFTER NASDAQ RECORD 📈\n\n- Nasdaq achieves new record high 🚀\n- Key chip stocks drive Wall Street's winning streak 🔥\n- Market futures show minimal fluctuations ✅\n\nTAKEAWAY: Following Nasdaq's record-breaking performance and chip stocks' advance, stock futures remain stable, indicating a positive market sentiment.",
       "exported_at": "2025-09-09T04:33:57.078275",
+      "continuous_session": true
+    },
+    {
+      "title": "Nebius shares soar 49% in premarket trading on multi-billion AI infrastructure deal with Microsoft",
+      "link": "https://www.cnbc.com/2025/09/09/nebius-nbis-soars-after-ai-infrastructure-deal-with-microsoft-msft.html",
+      "summary": "Nebius shares are soaring after the company announced a multi-year deal with Microsoft to provide cloud computing power for AI workloads.",
+      "published": "Tue, 09 Sep 2025 09:09:17 GMT",
+      "content": "Nebius shares are soaring after the company announced a multi-year deal with Microsoft to provide cloud computing power for AI workloads.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5a94cb57662a0dc06fe3db4c64ec48ba",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NEBIUS SHARES SURGE 49% PRE-MARKET ON MULTI-BILLION AI DEAL WITH MICROSOFT 🚀\n\n- Nebius shares skyrocket 49% in pre-market trading 🚀\n- Company secures multi-year deal with Microsoft for AI infrastructure 🤝\n- Deal involves providing cloud computing power for AI workloads 💻\n- Microsoft collaboration fuels investor confidence 📈\n- Pre-market trading reflects market enthusiasm and anticipation 🌟\n\nTAKEAWAY: Nebius experiences a remarkable 49% surge in pre-market trading following the announcement of a lucrative multi-billion AI infrastructure deal with tech giant Microsoft, sparking investor confidence and market anticipation.",
+      "exported_at": "2025-09-09T05:09:28.498215",
       "continuous_session": true
     }
   ]
