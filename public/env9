@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T09:54:25.191392",
-    "total_articles": 524,
-    "new_articles_in_last_fetch": 524,
+    "created_at": "2025-09-09T10:09:41.277634",
+    "total_articles": 525,
+    "new_articles_in_last_fetch": 525,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -6814,6 +6814,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NEBIUS SHARES SURGE 49% IN PREMARKET ON MICROSOFT AI DEAL 🚀\n\n- Nebius shares skyrocket by 49% in premarket trading 📈\n- Microsoft partnership highlights high demand for AI infrastructure 💪\n- Deal emphasizes the need for robust technology to train AI models 🤖\n- Market responds positively to Nebius-Microsoft pact 📈\n- Strong signal of continued growth in AI industry 🚀\n- Investors bullish on Nebius' potential in AI market 🔥\n\nTAKEAWAY: Nebius experiences a remarkable 49% surge in premarket trading following its partnership with Microsoft, showcasing the robust demand for AI infrastructure.",
       "exported_at": "2025-09-09T09:54:25.147842",
+      "continuous_session": true
+    },
+    {
+      "title": "CEO: I’ve interviewed over 500 candidates—these 3 subtle habits scream ‘red flag’ in job interviews",
+      "link": "https://www.cnbc.com/2025/09/09/ceo-ive-interviewed-over-500-candidates-these-subtle-habits-scream-red-flag.html",
+      "summary": "\"Many bad hires look great on paper,\" says Eli Rubel, CEO of Profit Labs. \"There are three subtle behaviors that almost always predict trouble.\"",
+      "published": "Tue, 09 Sep 2025 14:07:01 GMT",
+      "content": "\"Many bad hires look great on paper,\" says Eli Rubel, CEO of Profit Labs. \"There are three subtle behaviors that almost always predict trouble.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "13f62b59fccdce1ca2e3f50285e81781",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CEO REVEALS 3 SUBTLE RED FLAGS IN JOB INTERVIEWS 🚨\n\n- CEO Eli Rubel warns of 3 subtle red flags in job interviews\n- Bad hires often have impressive resumes but show troubling behaviors\n- Identifying these subtle habits can help avoid hiring mistakes\n\nTAKEAWAY: CEO Eli Rubel highlights 3 subtle red flags in job interviews that can predict trouble, aiding in making smarter hiring decisions.",
+      "exported_at": "2025-09-09T10:09:41.234412",
       "continuous_session": true
     }
   ]
