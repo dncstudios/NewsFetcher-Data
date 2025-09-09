@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T10:55:33.747734",
-    "total_articles": 530,
-    "new_articles_in_last_fetch": 530,
+    "created_at": "2025-09-09T11:10:49.680713",
+    "total_articles": 531,
+    "new_articles_in_last_fetch": 531,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -6892,6 +6892,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: UNDER-THE-RADAR WEIGHT-LOSS DRUG STOCK SET TO DOUBLE, SAYS LEERINK PARTNERS 🚀\n\n- Leerink Partners predicts biopharma stock to double 📈\n- Investment firm initiates coverage with outperform rating ✅\n- Potential for significant growth in weight-loss drug market 💪\n- Biopharma stock gains attention for promising future ⚡️\n\nTAKEAWAY: Leerink Partners' optimistic outlook on the under-the-radar weight-loss drug stock hints at a potential doubling in value, signaling significant growth opportunities.",
       "exported_at": "2025-09-09T10:55:33.704607",
+      "continuous_session": true
+    },
+    {
+      "title": "UnitedHealth sees 78% of members in high-rated Medicare plans",
+      "link": "https://www.cnbc.com/2025/09/09/unitedhealth-unh-medicare-plan-membership.html",
+      "summary": "UnitedHealth expects about 78% of its members to be enrolled in top-rated Medicare insurance plans next year, in line with its expectations.",
+      "published": "Tue, 09 Sep 2025 14:59:14 GMT",
+      "content": "UnitedHealth expects about 78% of its members to be enrolled in top-rated Medicare insurance plans next year, in line with its expectations.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b012e89f5c1149ebb74ede451f8ed690",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: UNITEDHEALTH LEADS WITH 78% HIGH-RATED MEDICARE PLANS 🚀\n\n- 78% of UnitedHealth members to enroll in top Medicare plans\n- Strong alignment with company's projections and goals ✅\n- Focus on quality insurance for majority of members 🎯\n- Demonstrates commitment to high-rated healthcare services 📊\n- Positive outlook for member satisfaction and retention 🚀\n- UnitedHealth's proactive approach to Medicare excellence ⚡️\n\nTAKEAWAY: UnitedHealth's impressive 78% enrollment in top-rated Medicare plans showcases its dedication to providing quality healthcare services and ensuring member satisfaction.",
+      "exported_at": "2025-09-09T11:10:49.646376",
       "continuous_session": true
     }
   ]
