@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T10:35:10.184990",
-    "total_articles": 528,
-    "new_articles_in_last_fetch": 528,
+    "created_at": "2025-09-09T10:40:18.711526",
+    "total_articles": 529,
+    "new_articles_in_last_fetch": 529,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -6866,6 +6866,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WHAT WALL STREET EXPECTS FROM APPLE'S iPHONE EVENT 🚀\n\n- Investors anticipate Apple's iPhone launch to boost sales 📈\n- Renewed investor enthusiasm sought for Apple stock 🍏\n- Market eager to see if event can uplift Apple's performance 💪\n\nTAKEAWAY: Apple's upcoming iPhone event has Wall Street hopeful for increased sales and a potential boost to investor sentiment.",
       "exported_at": "2025-09-09T10:35:10.140908",
+      "continuous_session": true
+    },
+    {
+      "title": "Fewer people think retirement will &apos;take a miracle,&apos; report finds. But inflation worries persist",
+      "link": "https://www.cnbc.com/2025/09/09/retirement-will-take-a-miracle.html",
+      "summary": "Just 21% Americans surveyed by Natixis Investment Managers said it will \"take a miracle\" to have a secure retirement, down from 41% who said the same in 2021.",
+      "published": "Tue, 09 Sep 2025 14:33:37 GMT",
+      "content": "Just 21% Americans surveyed by Natixis Investment Managers said it will \"take a miracle\" to have a secure retirement, down from 41% who said the same in 2021.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "82a9612eeb0670ddf2859ed0eb2f119f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FEWER AMERICANS SEE RETIREMENT AS A MIRACLE, BUT INFLATION CONCERNS REMAIN 📈\n\n- Only 21% believe secure retirement requires a miracle 🙌\n- Sharp decrease from 41% in 2021 with similar views 🔻\n- Survey conducted by Natixis Investment Managers 📊\n\nTAKEAWAY: Americans' confidence in achieving a secure retirement without a miracle is increasing, yet inflation worries continue to linger.",
+      "exported_at": "2025-09-09T10:40:18.673386",
       "continuous_session": true
     }
   ]
