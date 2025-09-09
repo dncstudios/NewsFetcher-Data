@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T00:40:40.243244",
-    "total_articles": 482,
-    "new_articles_in_last_fetch": 482,
+    "created_at": "2025-09-09T01:16:09.625868",
+    "total_articles": 483,
+    "new_articles_in_last_fetch": 483,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -6269,6 +6269,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: INDIA PUSHES BRICS FOR TRADE DEFICIT ACTION AS CHINA'S SURPLUS SOARS 🚀\n\n- China's trade surplus with India hits $77.7 billion in 2021 📈\n- Surplus surges by 16% compared to the previous year 🚀\n- India urges BRICS partners to tackle trade imbalances ✅\n- China calls for unity among BRICS members 🌍\n- Focus on addressing economic disparities within the bloc 🌐\n- Growing concerns over widening trade gaps in BRICS nations ⚠️\n\nTAKEAWAY: India calls for action on trade deficits within BRICS as China's surplus with India reaches $77.7 billion, highlighting the urgency to address economic imbalances.",
       "exported_at": "2025-09-09T00:40:40.203254",
+      "continuous_session": true
+    },
+    {
+      "title": "Legacy car brands launch a product blitz to take the fight to China",
+      "link": "https://www.cnbc.com/2025/09/09/iaa-auto-show-vw-bmw-and-renault-take-the-fight-to-chinese-rivals.html",
+      "summary": "Europe's embattled car brands unveil a flurry of new models at the IAA Mobility conference, seeking to counter robust competition from China.",
+      "published": "Tue, 09 Sep 2025 05:09:05 GMT",
+      "content": "Europe's embattled car brands unveil a flurry of new models at the IAA Mobility conference, seeking to counter robust competition from China.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f61bc502e58017fcc7efe2c6d418edc9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: LEGACY CAR BRANDS UNLEASH PRODUCT BLITZ TO CHALLENGE CHINA 🚀\n\n- Europe's car giants reveal multiple new models at IAA Mobility\n- Aim to compete fiercely against strong Chinese car market\n- Strategy focuses on countering China's dominant position\n\nTAKEAWAY: European car brands gear up with a wave of new models at IAA Mobility to tackle China's aggressive competition head-on.",
+      "exported_at": "2025-09-09T01:16:09.588908",
       "continuous_session": true
     }
   ]
