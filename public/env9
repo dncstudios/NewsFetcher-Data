@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T22:49:15.102965",
-    "total_articles": 480,
-    "new_articles_in_last_fetch": 480,
+    "created_at": "2025-09-08T22:59:26.839273",
+    "total_articles": 481,
+    "new_articles_in_last_fetch": 481,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -6243,6 +6243,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP TRADE DEALS BOOST BOEING ORDERS 🚀\n\n- Trade partners ordering substantial Boeing jets post-deals 🛫\n- Boeing's prominence in post-trade deal announcements 🌏\n- Clear pattern of countries favoring Boeing after US trade pacts 📈\n\nTAKEAWAY: Boeing's increased orders post-Trump trade deals hint at strategic business moves, influencing global trade dynamics.",
       "exported_at": "2025-09-08T22:49:15.064392",
+      "continuous_session": true
+    },
+    {
+      "title": "Performative or pragmatic? Why Boeing planes feature so much in Trump trade deals",
+      "link": "https://www.cnbc.com/2025/09/09/performative-or-pragmatic-why-boeing-planes-feature-so-much-in-trump-trade-deals.html",
+      "summary": "Since Trump announced tariffs in April, a pattern has emerged: Countries that strike trade deals with the U.S. often announce large orders for Boeing jets.",
+      "published": "Tue, 09 Sep 2025 02:54:56 GMT",
+      "content": "Since Trump announced tariffs in April, a pattern has emerged: Countries that strike trade deals with the U.S. often announce large orders for Boeing jets.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "08dd42368c742baca26c13db2e376a26",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BOEING SOARS IN TRUMP TRADE DEALS 🛫\n\n- Trump's tariffs trigger countries to order Boeing planes ✈️\n- Trade partners announce substantial deals post-tariffs 🌍\n- Boeing's prominence in trade deals raises eyebrows 🤨\n\nTAKEAWAY: Boeing's significant presence in trade deals following Trump's tariffs sparks curiosity and speculation about the underlying motives.",
+      "exported_at": "2025-09-08T22:59:26.802075",
       "continuous_session": true
     }
   ]
