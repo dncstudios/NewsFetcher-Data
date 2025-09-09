@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T10:09:41.277634",
-    "total_articles": 525,
-    "new_articles_in_last_fetch": 525,
+    "created_at": "2025-09-09T10:24:58.923841",
+    "total_articles": 527,
+    "new_articles_in_last_fetch": 527,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -6827,6 +6827,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CEO REVEALS 3 SUBTLE RED FLAGS IN JOB INTERVIEWS 🚨\n\n- CEO Eli Rubel warns of 3 subtle red flags in job interviews\n- Bad hires often have impressive resumes but show troubling behaviors\n- Identifying these subtle habits can help avoid hiring mistakes\n\nTAKEAWAY: CEO Eli Rubel highlights 3 subtle red flags in job interviews that can predict trouble, aiding in making smarter hiring decisions.",
       "exported_at": "2025-09-09T10:09:41.234412",
+      "continuous_session": true
+    },
+    {
+      "title": "Job growth revised down by 911,000 through March, signaling economy on shakier footing than realized",
+      "link": "https://www.cnbc.com/2025/09/09/jobs-report-revisions-september-2025-.html",
+      "summary": "The total revision was on the high end of Wall Street expectations, which ranged from a low around 600,000 to as many as a million.",
+      "published": "Tue, 09 Sep 2025 14:24:21 GMT",
+      "content": "The total revision was on the high end of Wall Street expectations, which ranged from a low around 600,000 to as many as a million.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "742ac9f345fadfc763e0947f98ab35f8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JOB GROWTH REVISED DOWN BY 911,000, SHAKING ECONOMY CONFIDENCE ⚠️\n\n- March job growth revised down by 911,000, exceeding Wall Street's expectations\n- Wall Street expected revisions between 600,000 to a million jobs\n- The economy's strength appears shakier than initially thought\n\nTAKEAWAY: A significant downward revision of 911,000 jobs in March suggests the economy may be on a more unstable footing than previously believed.",
+      "exported_at": "2025-09-09T10:24:58.879400",
+      "continuous_session": true
+    },
+    {
+      "title": "Israel targets top Hamas officials in Qatar strike",
+      "link": "https://www.cnbc.com/2025/09/09/israel-hamas-qatar-doha-attack.html",
+      "summary": "The U.S. Embassy in Doha issued a shelter-in-place order at its facilities in response to reports of the Israeli strike on Hamas leaders in the capital city.",
+      "published": "Tue, 09 Sep 2025 14:19:02 GMT",
+      "content": "The U.S. Embassy in Doha issued a shelter-in-place order at its facilities in response to reports of the Israeli strike on Hamas leaders in the capital city.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5e7f17f7af117d24440d2d52178d7c29",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ISRAEL STRIKES HAMAS OFFICIALS IN QATAR 🚨\n\n- Israeli strike targets top Hamas officials in Qatar 🎯\n- U.S. Embassy in Doha issues shelter-in-place order ⚠️\n- Reports confirm attack on Hamas leaders in capital city 📰\n\nTAKEAWAY: Israel's targeted strike on Hamas officials in Qatar sparks security concerns as the U.S. Embassy issues precautionary measures.",
+      "exported_at": "2025-09-09T10:24:58.879483",
       "continuous_session": true
     }
   ]
