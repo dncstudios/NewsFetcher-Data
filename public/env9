@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T16:37:11.253023",
-    "total_articles": 577,
-    "new_articles_in_last_fetch": 577,
+    "created_at": "2025-09-09T16:42:19.731004",
+    "total_articles": 578,
+    "new_articles_in_last_fetch": 578,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -7503,6 +7503,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ORACLE SOARS 21% ON GROWTH PROJECTIONS DESPITE EARNINGS MISS 🚀\n\n- Oracle's stock surges 21% on promising growth projections 📈\n- Total remaining performance obligations spike by 359% from last year 💥\n- Strong indication of significant growth opportunities ahead 🔥\n- Earnings miss estimates but overshadowed by growth potential 📉\n- Market reacts positively to Oracle's future prospects 🚀\n\nTAKEAWAY: Despite missing earnings estimates, Oracle's 21% surge fueled by a 359% increase in total remaining performance obligations showcases promising growth ahead.",
       "exported_at": "2025-09-09T16:37:11.202058",
+      "continuous_session": true
+    },
+    {
+      "title": "Supreme Court will hear Trump tariffs case on fast track",
+      "link": "https://www.cnbc.com/2025/09/09/trump-tariffs-trade-supreme-court-.html",
+      "summary": "A federal appeals court recently ruled that many of President Donald Trump's wide-ranging tariffs in imports from most countries are illegal.",
+      "published": "Tue, 09 Sep 2025 20:41:43 GMT",
+      "content": "A federal appeals court recently ruled that many of President Donald Trump's wide-ranging tariffs in imports from most countries are illegal.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ccdc9cacd50d6597b88dc94b3b992e56",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SUPREME COURT FAST-TRACKS TRUMP TARIFFS CASE 🚀\n\n- Federal court deems Trump's tariffs on most imports illegal 🚨\n- Supreme Court to hear case on fast track 📆\n- Tariffs impact global trade dynamics ⚖️\n- Decision could have significant economic repercussions 💰\n- Trump's trade policies face legal scrutiny ⚖️\n- Uncertainty looms over future of tariffs 🤔\n\nTAKEAWAY: Supreme Court expedites the case on Trump's tariffs, potentially reshaping global trade dynamics and adding uncertainty to economic forecasts.",
+      "exported_at": "2025-09-09T16:42:19.691184",
       "continuous_session": true
     }
   ]
