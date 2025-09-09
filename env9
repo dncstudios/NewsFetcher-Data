@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T18:49:03.079948",
-    "total_articles": 583,
-    "new_articles_in_last_fetch": 583,
+    "created_at": "2025-09-09T19:24:34.683425",
+    "total_articles": 584,
+    "new_articles_in_last_fetch": 584,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -7581,6 +7581,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP CRACKS DOWN ON PHARMA ADS 🚀\n\n- Trump signs memo to enhance transparency in drug ads 💊\n- Focus on accuracy and detailed product risk information 📋\n- Administration aims to regulate direct-to-consumer pharma ads 🚨\n- Move to increase awareness and understanding of drug risks 🧐\n\nTAKEAWAY: Trump's administration takes a bold step to bring transparency and accuracy to direct-to-consumer pharmaceutical ads by prioritizing detailed product risk information.",
       "exported_at": "2025-09-09T18:49:03.033390",
+      "continuous_session": true
+    },
+    {
+      "title": "Wednesday&apos;s big stock stories: What’s likely to move the market in the next trading session",
+      "link": "https://www.cnbc.com/2025/09/09/wednesdays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html",
+      "summary": "Labor market data revisions stoked concerns about the economy, but stocks charged ahead, with all three major indexes closing at fresh records on Tuesday.",
+      "published": "Tue, 09 Sep 2025 23:07:45 GMT",
+      "content": "Labor market data revisions stoked concerns about the economy, but stocks charged ahead, with all three major indexes closing at fresh records on Tuesday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c62d89996bdb980d4eef4131ff7def43",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WEDNESDAY'S STOCK MARKET OUTLOOK: WILL THE BULL RUN CONTINUE? 📈\n\n- Labor market data revisions raise economic concerns ⚠️\n- Despite worries, stocks surge to new record highs 🚀\n- All three major indexes close at fresh records on Tuesday 🎉\n\nTAKEAWAY: Despite concerns over economic data revisions, the stock market shows resilience with a bullish run to new record highs, fueling optimism for continued growth.",
+      "exported_at": "2025-09-09T19:24:34.650688",
       "continuous_session": true
     }
   ]
