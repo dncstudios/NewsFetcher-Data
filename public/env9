@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T15:36:00.240666",
-    "total_articles": 568,
-    "new_articles_in_last_fetch": 568,
+    "created_at": "2025-09-09T15:41:08.347710",
+    "total_articles": 569,
+    "new_articles_in_last_fetch": 569,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -7386,6 +7386,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: S&P 500 RESILIENT AMID JOB WORRIES AND INFLATION FEARS 🚀\n\n- S&P 500 edges up despite U.S. economy concerns\n- Investors maintain optimism amidst job worries\n- Market shows resilience ahead of inflation reports\n\nTAKEAWAY: The S&P 500 remains strong, defying job worries and inflation fears, showcasing investor optimism and market resilience.",
       "exported_at": "2025-09-09T15:36:00.196681",
+      "continuous_session": true
+    },
+    {
+      "title": "Important inflation reports this week expected to show prices still on the rise",
+      "link": "https://www.cnbc.com/2025/09/09/inflation-reports-this-week-expected-to-show-prices-still-on-the-rise.html",
+      "summary": "The Bureau of Labor Statistics will release the producer price index on Wednesday, followed by the consumer price index the next day.",
+      "published": "Tue, 09 Sep 2025 19:34:16 GMT",
+      "content": "The Bureau of Labor Statistics will release the producer price index on Wednesday, followed by the consumer price index the next day.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "80d1bc1a5ff2dd6fa83b9e9d1462de90",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: IMPORTANT INFLATION REPORTS THIS WEEK SHOW PRICES RISING 📈\n\n- Bureau of Labor Statistics to release producer price index Wednesday\n- Followed by consumer price index release the next day\n- Reports expected to show prices continuing to rise\n- Investors closely watching inflation data for market impact 📊\n- Inflation key factor in Federal Reserve's monetary policy decisions ✅\n- High inflation rates could lead to interest rate adjustments ⚠️\n\nTAKEAWAY: Investors eagerly await this week's inflation reports, expecting prices to continue rising, potentially impacting market trends and Federal Reserve's policy decisions.",
+      "exported_at": "2025-09-09T15:41:08.308968",
       "continuous_session": true
     }
   ]
