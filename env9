@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T04:23:47.851016",
-    "total_articles": 491,
-    "new_articles_in_last_fetch": 491,
+    "created_at": "2025-09-09T04:33:57.115435",
+    "total_articles": 492,
+    "new_articles_in_last_fetch": 492,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -6386,6 +6386,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ANGLO AMERICAN SOARS 8% ON MERGER WITH TECK RESOURCES 🚀\n\n- Anglo American's shares surge 8% post announcement 📈\n- Mining giant reveals \"merger of equals\" with Teck Resources 💼\n- European stocks see slight increase fueled by this news 📈\n\nTAKEAWAY: Anglo American's significant share price surge following the merger announcement with Teck Resources boosts market sentiment and investor confidence.",
       "exported_at": "2025-09-09T04:23:47.810036",
+      "continuous_session": true
+    },
+    {
+      "title": "Stock futures inch higher after Nasdaq hits new record: Live updates",
+      "link": "https://www.cnbc.com/2025/09/08/stock-market-today-live-updates.html",
+      "summary": "Wall Street is coming off a winning session, thanks to an advance in key chip stocks.",
+      "published": "Tue, 09 Sep 2025 08:29:50 GMT",
+      "content": "Wall Street is coming off a winning session, thanks to an advance in key chip stocks.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "eaf28504339fd0285995dd5ab8e6f6fc",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK FUTURES STABLE AFTER NASDAQ RECORD 📈\n\n- Nasdaq achieves new record high 🚀\n- Key chip stocks drive Wall Street's winning streak 🔥\n- Market futures show minimal fluctuations ✅\n\nTAKEAWAY: Following Nasdaq's record-breaking performance and chip stocks' advance, stock futures remain stable, indicating a positive market sentiment.",
+      "exported_at": "2025-09-09T04:33:57.078275",
       "continuous_session": true
     }
   ]
