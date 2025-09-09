@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T12:32:19.144258",
-    "total_articles": 541,
-    "new_articles_in_last_fetch": 541,
+    "created_at": "2025-09-09T12:42:31.234069",
+    "total_articles": 542,
+    "new_articles_in_last_fetch": 542,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -7035,6 +7035,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: EUROPE & US EYE RUSSIA SANCTIONS AMID ESCALATING ATTACKS 🚨\n\n- EU & US discuss sanctioning Russia over escalating attacks 🔥\n- Energy dependency on Russia to be targeted aggressively ⚡️\n- Talks intensify as tensions rise between Russia and the West 🌍\n\nTAKEAWAY: Europe and the U.S. are ramping up discussions on imposing sanctions on Russia amidst escalating attacks, focusing on reducing energy dependency.",
       "exported_at": "2025-09-09T12:32:19.112776",
+      "continuous_session": true
+    },
+    {
+      "title": "Fund aims to let investors tail Bill Ackman&apos;s trades following success of Warren Buffett copycat ETF",
+      "link": "https://www.cnbc.com/2025/09/09/bill-ackman-focused-etf-launches.html",
+      "summary": "The VistaShares Target 15 ACKtivist Distribution ETF (ACKY) launched Tuesday.",
+      "published": "Tue, 09 Sep 2025 16:33:44 GMT",
+      "content": "The VistaShares Target 15 ACKtivist Distribution ETF (ACKY) launched Tuesday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b848d8d55800350714ffa083fb8ce043",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FUND LAUNCHES TO MIRROR BILL ACKMAN'S TRADES 🚀\n\n- VistaShares Target 15 ACKtivist Distribution ETF (ACKY) now available\n- Investors can follow Bill Ackman's successful trading strategies\n- Fund aims to replicate Ackman's investment moves\n- ACKY launched on Tuesday to track Ackman's performance\n- Offers opportunity to invest in Ackman's trading expertise\n\nTAKEAWAY: The launch of ACKY ETF provides investors with the chance to mirror Bill Ackman's successful trading strategies, potentially unlocking new investment opportunities.",
+      "exported_at": "2025-09-09T12:42:31.185501",
       "continuous_session": true
     }
   ]
