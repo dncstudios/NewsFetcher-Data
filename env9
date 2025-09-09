@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T14:39:51.775324",
-    "total_articles": 558,
-    "new_articles_in_last_fetch": 558,
+    "created_at": "2025-09-09T14:44:57.065111",
+    "total_articles": 559,
+    "new_articles_in_last_fetch": 559,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -7256,6 +7256,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WHITE HOUSE CRITICIZES ISRAELI STRIKE ON HAMAS IN QATAR ⚠️\n\n- White House condemns Israeli strike inside Qatar 🇶🇦\n- Action deemed unhelpful to Israel and US interests ❌\n- Criticism raises tensions in the region 🌍\n\nTAKEAWAY: The White House's criticism of Israel's strike on Hamas in Qatar heightens tensions and questions the alignment of actions with shared goals.",
       "exported_at": "2025-09-09T14:39:51.725085",
+      "continuous_session": true
+    },
+    {
+      "title": "Everything Apple just announced: iPhone 17 Air, AirPods Pro 3, Apple Watch Series 11 and more",
+      "link": "https://www.cnbc.com/2025/09/09/live-updates-apple-event-iphone17-airpods-ios26.html",
+      "summary": "Apple CEO Tim Cook and his team unveiled the iPhone 17 line of devices, Apple Watches, new AirPods Pro and the release date for iOS 26.",
+      "published": "Tue, 09 Sep 2025 18:42:29 GMT",
+      "content": "Apple CEO Tim Cook and his team unveiled the iPhone 17 line of devices, Apple Watches, new AirPods Pro and the release date for iOS 26.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "718e68c5b6694fd170dae8537026fab6",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: APPLE EVENT LIVE UPDATES: IPHONE 17 PRICING REVEALED 🚀\n\n- iPhone 17 prices: $799 for standard, $1,099 for Pro, $1,199 for Pro Max 💰\n- Tim Cook presents new iPhone line, Apple Watches, AirPods Pro, and iOS 26 release date 📱⌚\n- Apple continues to innovate with latest product releases 🚀\n- Consumers eagerly anticipate the latest tech updates and features 🎯\n- Competitive pricing strategy set by Apple for new iPhone models 💪\n- Tech enthusiasts worldwide buzzing with excitement over Apple's latest announcements 🌍\n\nTAKEAWAY: Apple's latest event unveils the iPhone 17 lineup with competitive pricing, leaving consumers eager for the latest tech innovations and features. 📱🔥",
+      "exported_at": "2025-09-09T14:44:57.018901",
       "continuous_session": true
     }
   ]
