@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T20:01:55.069002",
-    "total_articles": 475,
-    "new_articles_in_last_fetch": 475,
+    "created_at": "2025-09-08T20:12:06.608275",
+    "total_articles": 476,
+    "new_articles_in_last_fetch": 476,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -6178,6 +6178,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ASIA MARKETS POISED FOR GAINS, FOLLOWING WALL STREET 🚀\n\n- Asia-Pacific markets expected to trade mostly higher 📈\n- Positive sentiment mirrors gains on Wall Street 🌟\n- Investors likely to react to market trends 📈\n\nTAKEAWAY: Asia markets are anticipated to rise, aligning with the positive momentum seen on Wall Street, as investors monitor market movements closely.",
       "exported_at": "2025-09-08T20:01:55.030173",
+      "continuous_session": true
+    },
+    {
+      "title": "Japan stocks jump to record high as Asia markets track Wall Street gains",
+      "link": "https://www.cnbc.com/2025/09/09/asia-markets-nikkei-225-kospi-nifty-50.html",
+      "summary": "Asia-Pacific markets traded mostly higher Tuesday, tracking gains on Wall Street.",
+      "published": "Tue, 09 Sep 2025 00:08:36 GMT",
+      "content": "Asia-Pacific markets traded mostly higher Tuesday, tracking gains on Wall Street.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3b46b7fefc8244b43d1c8644cea62829",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JAPAN STOCKS HIT RECORD HIGH AS ASIA FOLLOWS WALL STREET 🚀\n\n- Japan stocks soar to all-time high 📈\n- Asia-Pacific markets mostly up 🌏\n- Investors track Wall Street's positive momentum 📊\n- Market sentiment optimistic 🌟\n- Positive trading day across Asia 📈\n- Strong performance reflects global market trends 🌐\n\nTAKEAWAY: Japan's record-breaking stock market performance and Asia's positive trading day follow Wall Street's lead, indicating an optimistic sentiment and global market trends.",
+      "exported_at": "2025-09-08T20:12:06.572270",
       "continuous_session": true
     }
   ]
