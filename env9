@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T08:12:29.751085",
-    "total_articles": 509,
-    "new_articles_in_last_fetch": 509,
+    "created_at": "2025-09-09T08:22:40.248480",
+    "total_articles": 510,
+    "new_articles_in_last_fetch": 510,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -6620,6 +6620,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AI TECH TALENT BOOSTS REAL ESTATE MARKETS 🚀\n\n- Tech talent influx drives residential real estate growth 📈\n- CBRE reports significant impact on apartment rents 🏠\n- All top AI tech markets see rent increases 📊\n\nTAKEAWAY: The rise of AI tech talent is fueling growth in residential real estate markets, with rents increasing across all major AI hubs.",
       "exported_at": "2025-09-09T08:12:29.709432",
+      "continuous_session": true
+    },
+    {
+      "title": "Abu Dhabi launches low-cost AI reasoning model in challenge to OpenAI, DeepSeek",
+      "link": "https://www.cnbc.com/2025/09/09/abu-dhabi-launches-ai-reasoning-model-to-rival-openai-deepseek.html",
+      "summary": "The UAE has sought to position itself as a global leader in AI in a bid to diversify its economy beyond crude oil dependency.",
+      "published": "Tue, 09 Sep 2025 12:00:01 GMT",
+      "content": "The UAE has sought to position itself as a global leader in AI in a bid to diversify its economy beyond crude oil dependency.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "46e44122a9d1ead80d74382dba9a72dc",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ABU DHABI LAUNCHES LOW-COST AI MODEL TO CHALLENGE OPENAI, DEEPSEEK 🚀\n\n- UAE aims to lead in AI to reduce reliance on oil 🛢️\n- Abu Dhabi introduces affordable AI reasoning model 💰\n- Competing with industry giants OpenAI and DeepSeek 💪\n- Diversifying economy through technological innovation 🌐\n- Low-cost AI to drive UAE's global competitiveness 🌍\n\nTAKEAWAY: Abu Dhabi's move to launch a cost-effective AI model signifies its ambition to challenge industry leaders and reduce reliance on oil, driving economic diversification.",
+      "exported_at": "2025-09-09T08:22:40.209791",
       "continuous_session": true
     }
   ]
