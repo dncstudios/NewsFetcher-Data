@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T20:27:19.384269",
-    "total_articles": 477,
-    "new_articles_in_last_fetch": 477,
+    "created_at": "2025-09-08T20:37:30.683970",
+    "total_articles": 478,
+    "new_articles_in_last_fetch": 478,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -6204,6 +6204,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JAPAN STOCKS HIT RECORD HIGH AS ASIA FOLLOWS WALL STREET 🚀\n\n- Japan stocks soar to all-time high 📈\n- Asia-Pacific markets mostly up 🌏\n- Investors track Wall Street's positive momentum 📊\n- Market sentiment optimistic 🌟\n- Positive trading day across Asia 📈\n- Strong performance reflects global market trends 🌐\n\nTAKEAWAY: Japan's record-breaking stock market performance and Asia's positive trading day follow Wall Street's lead, indicating an optimistic sentiment and global market trends.",
       "exported_at": "2025-09-08T20:27:19.344804",
+      "continuous_session": true
+    },
+    {
+      "title": "Judge skewers $1.5 billion Anthropic settlement with authors in pirated books case over AI training",
+      "link": "https://www.cnbc.com/2025/09/08/judge-skewers-1point5-billion-anthropic-settlement-with-authors-in-pirated-books-case-over-ai-training.html",
+      "summary": "A federal judge on Monday skewered a $1.5 billion settlement between artificial intelligence company Anthropic and authors who allege nearly half million books had been illegally pirated to train chatbots, raising the specter that the case could still end up going to trial.",
+      "published": "Tue, 09 Sep 2025 00:36:00 GMT",
+      "content": "A federal judge on Monday skewered a $1.5 billion settlement between artificial intelligence company Anthropic and authors who allege nearly half million books had been illegally pirated to train chatbots, raising the specter that the case could still end up going to trial.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "36e9c0322cdaf05d6e739e81ff59c96a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JUDGE CRITICIZES $1.5B ANTHROPIC SETTLEMENT IN AI PIRACY CASE ⚠️\n\n- $1.5B settlement between Anthropic and authors criticized by judge\n- Authors claim half million books pirated for AI training 📚\n- Potential trial looming despite the hefty settlement amount 💰\n\nTAKEAWAY: A federal judge's criticism of the $1.5 billion settlement between Anthropic and authors in the AI piracy case raises the possibility of the case going to trial.",
+      "exported_at": "2025-09-08T20:37:30.659187",
       "continuous_session": true
     }
   ]
