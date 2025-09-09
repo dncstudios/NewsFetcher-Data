@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T16:42:19.731004",
-    "total_articles": 578,
-    "new_articles_in_last_fetch": 578,
+    "created_at": "2025-09-09T17:07:42.092566",
+    "total_articles": 580,
+    "new_articles_in_last_fetch": 580,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -7516,6 +7516,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SUPREME COURT FAST-TRACKS TRUMP TARIFFS CASE 🚀\n\n- Federal court deems Trump's tariffs on most imports illegal 🚨\n- Supreme Court to hear case on fast track 📆\n- Tariffs impact global trade dynamics ⚖️\n- Decision could have significant economic repercussions 💰\n- Trump's trade policies face legal scrutiny ⚖️\n- Uncertainty looms over future of tariffs 🤔\n\nTAKEAWAY: Supreme Court expedites the case on Trump's tariffs, potentially reshaping global trade dynamics and adding uncertainty to economic forecasts.",
       "exported_at": "2025-09-09T16:42:19.691184",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves after hours: Oracle, GameStop, Synopsys and more",
+      "link": "https://www.cnbc.com/2025/09/09/stocks-making-the-biggest-moves-after-hours-orcl-gme-snps.html",
+      "summary": "See which stocks are posting big moves after the bell.",
+      "published": "Tue, 09 Sep 2025 21:02:09 GMT",
+      "content": "See which stocks are posting big moves after the bell.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4c0520baf32ae6f068cbd0854c1ae373",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS SURGE AFTER HOURS: ORACLE, GAMESTOP, SYNOPSYS 🚀\n\n- Oracle, GameStop, Synopsys show significant post-market movement 📈\n- Market watchers analyze reasons behind the after-hours surge 🧐\n- Investors await further developments for potential trading opportunities 💰\n\nTAKEAWAY: Oracle, GameStop, and Synopsys exhibit notable after-hours performance, attracting investor attention for potential trading opportunities.",
+      "exported_at": "2025-09-09T17:07:42.054198",
+      "continuous_session": true
+    },
+    {
+      "title": "Oracle pops 27% on cloud growth projections even as earnings miss estimates",
+      "link": "https://www.cnbc.com/2025/09/09/oracle-orcl-q1-earnings-report-2026.html",
+      "summary": "Oracle said total remaining performance obligations jumped 359% from a year earlier, indicating big growth prospects.",
+      "published": "Tue, 09 Sep 2025 21:06:03 GMT",
+      "content": "Oracle said total remaining performance obligations jumped 359% from a year earlier, indicating big growth prospects.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4b66fab11ce2dcdc1e84279ca58442ea",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ORACLE SOARS 21% ON GROWTH PROJECTIONS DESPITE EARNINGS MISS 🚀\n\n- Oracle's stock surges 21% on promising growth projections 📈\n- Total remaining performance obligations spike by 359% from last year 💥\n- Strong indication of significant growth opportunities ahead 🔥\n- Earnings miss estimates but overshadowed by growth potential 📉\n- Market reacts positively to Oracle's future prospects 🚀\n\nTAKEAWAY: Despite missing earnings estimates, Oracle's 21% surge fueled by a 359% increase in total remaining performance obligations showcases promising growth ahead.",
+      "exported_at": "2025-09-09T17:07:42.054263",
       "continuous_session": true
     }
   ]
