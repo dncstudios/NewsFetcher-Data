@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T12:06:48.675714",
-    "total_articles": 536,
-    "new_articles_in_last_fetch": 536,
+    "created_at": "2025-09-09T12:17:01.422656",
+    "total_articles": 539,
+    "new_articles_in_last_fetch": 539,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -6970,6 +6970,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCKS PRIMED FOR A SIGNIFICANT SHIFT AS CPI SURPRISES 🚀\n\n- CPI data exceeding expectations impacts Fed meeting decisions 📈\n- JPMorgan predicts Fed may hold rates in October and December ⚖️\n- Market anticipates a potential pause in Fed's interest rate moves 📉\n\nTAKEAWAY: The unexpected CPI surge is poised to influence Federal Reserve decisions, potentially leading to a shift in market dynamics.",
       "exported_at": "2025-09-09T12:06:48.630932",
+      "continuous_session": true
+    },
+    {
+      "title": "Doing business in China? Factor in deflation",
+      "link": "https://www.cnbc.com/2025/09/09/china-business-economy-deflation.html",
+      "summary": "Chinese consumers have been hunting for value as prices are falling across the country's economy.",
+      "published": "Tue, 09 Sep 2025 16:11:37 GMT",
+      "content": "Chinese consumers have been hunting for value as prices are falling across the country's economy.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0341f4e482d327c94c872661bcc7ada7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FACTOR IN CHINA'S DEFLATION FOR BUSINESS SUCCESS 📉\n\n- Prices dropping in China's economy, impacting consumer behavior 📉\n- Chinese consumers seeking value due to deflation trend 💰\n- Businesses need to adjust strategies to cater to deflationary market 📊\n\nTAKEAWAY: In China, business success hinges on understanding and adapting to the deflationary trend, as consumers prioritize value in a price-dropping economy.",
+      "exported_at": "2025-09-09T12:17:01.383298",
+      "continuous_session": true
+    },
+    {
+      "title": "Microsoft says employees will be expected in office three days a week",
+      "link": "https://www.cnbc.com/2025/09/09/microsoft-says-employees-will-be-expected-in-office-three-days-a-week.html",
+      "summary": "Microsoft previously had a remote work policy that allowed most employees to work from home more frequently without manager approval.",
+      "published": "Tue, 09 Sep 2025 16:10:11 GMT",
+      "content": "Microsoft previously had a remote work policy that allowed most employees to work from home more frequently without manager approval.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "872fd07bf2b95cb9d12f7f2a0e3d3327",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MICROSOFT MANDATES EMPLOYEES TO OFFICE 3 DAYS A WEEK ⚠️\n\n- New policy requires staff in office 3 days weekly 🏢\n- Remote work now limited after flexible policy 🌐\n- Microsoft shifts focus back to in-person collaboration 🤝\n\nTAKEAWAY: Microsoft's new mandate for employees to be in the office 3 days a week marks a shift from their previous remote work flexibility policy, emphasizing in-person collaboration.",
+      "exported_at": "2025-09-09T12:17:01.383360",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves midday: UnitedHealth, Kingsoft Cloud, Brighthouse Financial &amp; more",
+      "link": "https://www.cnbc.com/2025/09/09/stocks-making-the-biggest-moves-midday-unh-kc-bhf.html",
+      "summary": "These are the stocks posting the largest moves midday.",
+      "published": "Tue, 09 Sep 2025 16:14:15 GMT",
+      "content": "These are the stocks posting the largest moves midday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8f505c7b67488b55da9f7ea3eadf800d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS MAKING BIG MOVES MIDDAY: ETSY, ECHOSTAR, ROBINHOOD 🚀\n\n- Etsy, EchoStar, Robinhood, Canada Goose show significant midday shifts 📈\n- Market sees notable movements in key stock prices 📊\n- Investors eyeing Etsy, EchoStar, Robinhood for potential gains 💰\n\nTAKEAWAY: Etsy, EchoStar, and Robinhood are among the top stocks making significant midday moves, attracting investor attention for potential gains.",
+      "exported_at": "2025-09-09T12:17:01.383430",
       "continuous_session": true
     }
   ]
