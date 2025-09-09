@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T12:01:39.860345",
-    "total_articles": 535,
-    "new_articles_in_last_fetch": 535,
+    "created_at": "2025-09-09T12:06:48.675714",
+    "total_articles": 536,
+    "new_articles_in_last_fetch": 536,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -6957,6 +6957,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BOEING SURPASSES 2024 JET DELIVERIES TOTAL BY AUGUST 🚀\n\n- Boeing delivers 57 jets in August, up from 48 in July 📈\n- August records highest deliveries since 2018 📊\n- Surpasses total deliveries expected for 2024 by August ⚡️\n\nTAKEAWAY: Boeing accelerates jet deliveries, exceeding expectations and achieving remarkable growth by August, setting a strong pace for the industry.",
       "exported_at": "2025-09-09T12:01:39.812859",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks set to make a big move after CPI hits — How JPMorgan sees it playing out",
+      "link": "https://www.cnbc.com/2025/09/09/stocks-set-to-make-a-big-move-after-cpi-hits-how-jpmorgan-sees-it-playing-out.html",
+      "summary": "A hotter-than-expected outcome could keep the Federal Reserve on the sidelines for October and December meetings, the firm said.",
+      "published": "Tue, 09 Sep 2025 16:02:28 GMT",
+      "content": "A hotter-than-expected outcome could keep the Federal Reserve on the sidelines for October and December meetings, the firm said.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7f70c334619c89585c4ae66be1e7a443",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS PRIMED FOR A SIGNIFICANT SHIFT AS CPI SURPRISES 🚀\n\n- CPI data exceeding expectations impacts Fed meeting decisions 📈\n- JPMorgan predicts Fed may hold rates in October and December ⚖️\n- Market anticipates a potential pause in Fed's interest rate moves 📉\n\nTAKEAWAY: The unexpected CPI surge is poised to influence Federal Reserve decisions, potentially leading to a shift in market dynamics.",
+      "exported_at": "2025-09-09T12:06:48.630932",
       "continuous_session": true
     }
   ]
