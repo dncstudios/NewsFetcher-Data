@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T12:42:31.234069",
-    "total_articles": 542,
-    "new_articles_in_last_fetch": 542,
+    "created_at": "2025-09-09T13:02:46.687832",
+    "total_articles": 543,
+    "new_articles_in_last_fetch": 543,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -7048,6 +7048,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FUND LAUNCHES TO MIRROR BILL ACKMAN'S TRADES 🚀\n\n- VistaShares Target 15 ACKtivist Distribution ETF (ACKY) now available\n- Investors can follow Bill Ackman's successful trading strategies\n- Fund aims to replicate Ackman's investment moves\n- ACKY launched on Tuesday to track Ackman's performance\n- Offers opportunity to invest in Ackman's trading expertise\n\nTAKEAWAY: The launch of ACKY ETF provides investors with the chance to mirror Bill Ackman's successful trading strategies, potentially unlocking new investment opportunities.",
       "exported_at": "2025-09-09T12:42:31.185501",
+      "continuous_session": true
+    },
+    {
+      "title": "Apple event live updates: iPhone 17 launch kicks off",
+      "link": "https://www.cnbc.com/2025/09/09/live-updates-apple-event-iphone17-airpods-ios26.html",
+      "summary": "Apple CEO Tim Cook and his team are set to unveil the iPhone 17 line of devices, Apple Watches, new AirPods Pro, and the release date for iOS 26.",
+      "published": "Tue, 09 Sep 2025 17:01:38 GMT",
+      "content": "Apple CEO Tim Cook and his team are set to unveil the iPhone 17 line of devices, Apple Watches, new AirPods Pro, and the release date for iOS 26.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0840e483ede048feb530e8ffb84ce848",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: APPLE UNVEILS IPHONE 17 SERIES: LATEST UPDATES 🚀\n\n- Tim Cook to reveal iPhone 17 line, new AirPods Pro\n- Apple Watches also expected to be introduced\n- iOS 26 release date announcement anticipated\n\nTAKEAWAY: Apple's upcoming event promises excitement with the introduction of the highly anticipated iPhone 17 series, new AirPods Pro, and Apple Watches, along with the announcement of iOS 26 release date.",
+      "exported_at": "2025-09-09T13:02:46.648190",
       "continuous_session": true
     }
   ]
