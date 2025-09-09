@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T14:19:23.174780",
-    "total_articles": 555,
-    "new_articles_in_last_fetch": 555,
+    "created_at": "2025-09-09T14:24:32.132993",
+    "total_articles": 556,
+    "new_articles_in_last_fetch": 556,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -7217,6 +7217,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: APPLE UNVEILS IPHONE 17 SERIES: LATEST UPDATES 🚀\n\n- Tim Cook to reveal iPhone 17 line, new AirPods Pro\n- Apple Watches also expected to be introduced\n- iOS 26 release date announcement anticipated\n\nTAKEAWAY: Apple's upcoming event promises excitement with the introduction of the highly anticipated iPhone 17 series, new AirPods Pro, and Apple Watches, along with the announcement of iOS 26 release date.",
       "exported_at": "2025-09-09T14:19:23.129092",
+      "continuous_session": true
+    },
+    {
+      "title": "U.S. economy is worse than thought with 1.2 million fewer jobs — what that means for the Fed",
+      "link": "https://www.cnbc.com/2025/09/09/us-economy-is-worse-than-thought-with-1point2-million-fewer-jobs-what-that-means-for-the-fed.html",
+      "summary": "Pressure is on for the Fed to start lowering  rates, with markets expecting a cut at each of the three remaining meetings this year.",
+      "published": "Tue, 09 Sep 2025 17:56:25 GMT",
+      "content": "Pressure is on for the Fed to start lowering  rates, with markets expecting a cut at each of the three remaining meetings this year.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "781cb20f9eb47abd1e42544966d026f2",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: U.S. ECONOMY SHOCKS WITH 1.2M FEWER JOBS — FED FACES PRESSURE ⚠️\n\n- U.S. economy reveals 1.2 million job deficit 📉\n- Fed urged to lower rates, expected cuts at upcoming meetings 🔻\n- Markets anticipate rate cuts for the rest of the year 📉\n\nTAKEAWAY: The unexpected 1.2 million job loss in the U.S. economy puts pressure on the Fed to initiate rate cuts as markets brace for impact.",
+      "exported_at": "2025-09-09T14:24:32.085588",
       "continuous_session": true
     }
   ]
