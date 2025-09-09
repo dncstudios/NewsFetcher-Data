@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T04:03:24.380816",
-    "total_articles": 489,
-    "new_articles_in_last_fetch": 489,
+    "created_at": "2025-09-09T04:13:36.927002",
+    "total_articles": 490,
+    "new_articles_in_last_fetch": 490,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -6360,6 +6360,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ANGLO AMERICAN SHARES SOAR 8% ON TECK RESOURCES MERGER 🚀\n\n- Anglo American shares jump 8% post 'merger of equals' with Teck Resources\n- European stocks rise amid French political turmoil after PM's ousting\n- Investor attention shifts to France's political instability 📈\n- Merger creates buzz in the mining industry 🌍\n- Teck Resources and Anglo American deal leads to stock surge 🔥\n- Market reacts positively to the news of the merger\n\nTAKEAWAY: Anglo American experiences an 8% surge in shares following the exciting 'merger of equals' with Teck Resources, sparking investor interest and market positivity amidst European political turbulence.",
       "exported_at": "2025-09-09T04:03:24.343409",
+      "continuous_session": true
+    },
+    {
+      "title": "France&apos;s political crisis deepens as another PM is axed: Here&apos;s what happens next",
+      "link": "https://www.cnbc.com/2025/09/09/what-happens-next-in-france-after-another-pm-is-ousted.html",
+      "summary": "CNBC takes a look at what could happen next in France after the ousting of yet another prime minister.",
+      "published": "Tue, 09 Sep 2025 08:09:05 GMT",
+      "content": "CNBC takes a look at what could happen next in France after the ousting of yet another prime minister.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "771fd9c293003e14c30f402c1deebdf2",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FRANCE'S POLITICAL CRISIS DEEPENS AS ANOTHER PM IS AXED: WHAT'S NEXT? ⚠️\n\n- France faces uncertainty after another prime minister is ousted 🇫🇷\n- Questions arise about the stability of the government 🤔\n- Investors cautious as political turmoil escalates ⚠️\n- Future policies and reforms now in question ❓\n- Concerns over impact on economy and markets 📉\n- Public awaits clarity on the government's next steps 🧐\n\nTAKEAWAY: France's political crisis deepens with the ousting of another prime minister, raising concerns about stability, policies, and economic impact, leaving investors and the public on edge.",
+      "exported_at": "2025-09-09T04:13:36.880882",
       "continuous_session": true
     }
   ]
