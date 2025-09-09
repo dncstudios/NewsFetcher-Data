@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T13:43:43.326775",
-    "total_articles": 550,
-    "new_articles_in_last_fetch": 550,
+    "created_at": "2025-09-09T13:53:57.119940",
+    "total_articles": 553,
+    "new_articles_in_last_fetch": 553,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -7152,6 +7152,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: APPLE UNVEILS IPHONE 17 SERIES: LATEST UPDATES 🚀\n\n- Tim Cook to reveal iPhone 17 line, new AirPods Pro\n- Apple Watches also expected to be introduced\n- iOS 26 release date announcement anticipated\n\nTAKEAWAY: Apple's upcoming event promises excitement with the introduction of the highly anticipated iPhone 17 series, new AirPods Pro, and Apple Watches, along with the announcement of iOS 26 release date.",
       "exported_at": "2025-09-09T13:43:43.280612",
+      "continuous_session": true
+    },
+    {
+      "title": "Apple event live updates: Details of iPhone 17 Air, AirPods Pro 3 and Watch 11",
+      "link": "https://www.cnbc.com/2025/09/09/live-updates-apple-event-iphone17-airpods-ios26.html",
+      "summary": "Apple CEO Tim Cook and his team are set to unveil the iPhone 17 line of devices, Apple Watches, new AirPods Pro, and the release date for iOS 26.",
+      "published": "Tue, 09 Sep 2025 17:53:02 GMT",
+      "content": "Apple CEO Tim Cook and his team are set to unveil the iPhone 17 line of devices, Apple Watches, new AirPods Pro, and the release date for iOS 26.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "cef9e6ef2e745ba04883908369d1a04d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: APPLE UNVEILS IPHONE 17 SERIES: LATEST UPDATES 🚀\n\n- Tim Cook to reveal iPhone 17 line, new AirPods Pro\n- Apple Watches also expected to be introduced\n- iOS 26 release date announcement anticipated\n\nTAKEAWAY: Apple's upcoming event promises excitement with the introduction of the highly anticipated iPhone 17 series, new AirPods Pro, and Apple Watches, along with the announcement of iOS 26 release date.",
+      "exported_at": "2025-09-09T13:53:57.084433",
+      "continuous_session": true
+    },
+    {
+      "title": "Cracker Barrel suspends restaurant remodels after logo controversy",
+      "link": "https://www.cnbc.com/2025/09/09/cracker-barrel-restaurant-remodels-logo-controversy.html",
+      "summary": "Cracker Barrel's \"Old Country Store\" look is here to stay, the company announced, in the latest walkback of its rebranding initiative.",
+      "published": "Tue, 09 Sep 2025 17:49:47 GMT",
+      "content": "Cracker Barrel's \"Old Country Store\" look is here to stay, the company announced, in the latest walkback of its rebranding initiative.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "66b345d5e08bb3747c55aba09c947596",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CRACKER BARREL HALTS REMODELS AFTER LOGO BACKLASH 🚨\n\n- Company decides to maintain \"Old Country Store\" look 🏡\n- Rebranding initiative paused due to recent controversy 🛑\n- Strategic shift in response to public feedback 🔄\n\nTAKEAWAY: Cracker Barrel's decision to suspend restaurant remodels and stick with its traditional \"Old Country Store\" look reflects a strategic pivot in response to recent logo backlash.",
+      "exported_at": "2025-09-09T13:53:57.084492",
+      "continuous_session": true
+    },
+    {
+      "title": "Financial stocks are set to shine with the Fed cutting rates, market strategist Lauren Goodwin says",
+      "link": "https://www.cnbc.com/2025/09/09/financial-stocks-are-set-to-shine-with-the-fed-cutting-rates-market-strategist-lauren-goodwin-says.html",
+      "summary": "With the Fed expected to cut rates, Goodwin says it could be a friendlier environment for banks and financial services firms as the yield curve steepens.",
+      "published": "Tue, 09 Sep 2025 17:29:07 GMT",
+      "content": "With the Fed expected to cut rates, Goodwin says it could be a friendlier environment for banks and financial services firms as the yield curve steepens.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "be2c71c46788817b997dcc3261ee0b55",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FINANCIAL STOCKS READY TO SHINE WITH FED RATE CUT 🚀\n\n- Fed's rate cut expected to benefit banks & financial services 🏦\n- Market strategist Lauren Goodwin predicts a friendlier environment 🌟\n- Yield curve set to steepen, boosting financial sector 📈\n\nTAKEAWAY: Anticipate a positive outlook for financial stocks as the Fed's rate cut creates a favorable environment for banks and services firms, with the yield curve on the rise.",
+      "exported_at": "2025-09-09T13:53:57.084529",
       "continuous_session": true
     }
   ]
