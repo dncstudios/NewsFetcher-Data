@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T17:38:05.718316",
-    "total_articles": 581,
-    "new_articles_in_last_fetch": 581,
+    "created_at": "2025-09-09T18:03:26.715539",
+    "total_articles": 582,
+    "new_articles_in_last_fetch": 582,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -7555,6 +7555,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: OPENAI CFO WARNS: COMPANIES MUST EMBRACE AI TO STAY AHEAD 🚀\n\n- OpenAI CFO emphasizes AI adoption for competitive edge 💪\n- Companies failing to embrace AI risk falling behind 📉\n- AI integration crucial for business success 🌐\n- Innovation in AI key to future business growth 📈\n- AI adoption accelerates business efficiency and productivity 🚀\n- OpenAI CFO urges companies to prioritize AI implementation ✅\n\nTAKEAWAY: OpenAI's CFO stresses the importance of AI adoption for companies to stay competitive and avoid being left behind in the fast-paced business landscape.",
       "exported_at": "2025-09-09T17:38:05.681278",
+      "continuous_session": true
+    },
+    {
+      "title": "Congress will do &apos;what&apos;s right&apos; if Trump&apos;s tariffs are tossed by Supreme Court, House tax committee chair says",
+      "link": "https://www.cnbc.com/2025/09/09/trump-tariffs-supreme-court-congress-smith.html",
+      "summary": "The future of President Donald Trump's tariffs is uncertain after the Supreme Court agreed to consider their legality on an expedited basis Tuesday.",
+      "published": "Tue, 09 Sep 2025 21:49:28 GMT",
+      "content": "The future of President Donald Trump's tariffs is uncertain after the Supreme Court agreed to consider their legality on an expedited basis Tuesday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2cf60672c64ee0101db8259a6b27462b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CONGRESS READY TO ACT IF TRUMP'S TARIFFS STRUCK DOWN BY SUPREME COURT ⚠️\n\n- Supreme Court to expedite review of Trump's tariffs 🏛️\n- Uncertainty looms over legality of tariffs 🤔\n- House tax committee chair promises to act accordingly ✅\n\nTAKEAWAY: Congress stands prepared to take action following the Supreme Court's expedited review of President Trump's tariffs, ensuring a proactive response to the uncertain future.",
+      "exported_at": "2025-09-09T18:03:26.684985",
       "continuous_session": true
     }
   ]
