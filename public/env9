@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T02:32:11.667814",
-    "total_articles": 487,
-    "new_articles_in_last_fetch": 487,
+    "created_at": "2025-09-09T03:07:38.167048",
+    "total_articles": 488,
+    "new_articles_in_last_fetch": 488,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -6334,6 +6334,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ASIA-PACIFIC MARKETS MIXED AFTER WALL STREET TECH RALLY 📈\n\n- Japan's Nikkei 225 drops 0.26% after hitting record high 📉\n- Markets in Asia-Pacific show mixed trading trends 🌏\n- Wall Street's tech rally impacts Asian market sentiments 📈\n\nTAKEAWAY: Asia-Pacific markets experience mixed trading patterns following Wall Street's tech-driven gains, with Japan's Nikkei 225 seeing a slight decline after reaching a record high.",
       "exported_at": "2025-09-09T02:32:11.633659",
+      "continuous_session": true
+    },
+    {
+      "title": "&apos;Merger of equals&apos;: Anglo American and Canada&apos;s Teck Resources combine as copper behemoth Anglo Teck",
+      "link": "https://www.cnbc.com/2025/09/09/european-markets-on-septpoint9-stoxx-600-ftse-dax-france-gov-collapse.html",
+      "summary": "European stocks are expected to open flat to lower on Tuesday, with investors in the region focusing on further political turmoil in France.",
+      "published": "Tue, 09 Sep 2025 07:02:45 GMT",
+      "content": "European stocks are expected to open flat to lower on Tuesday, with investors in the region focusing on further political turmoil in France.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3782e4b1a3c2d07fac2e59e0bf5f38fb",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: EUROPEAN MARKETS DIP AMID FRANCE'S POLITICAL UNCERTAINTY 📉\n\n- European stocks set to open flat or lower on Tuesday 📉\n- Investors concerned about political turmoil in France 🇫🇷\n- Market mood darkens as uncertainty looms over the region ⚠️\n\nTAKEAWAY: European markets face a gloomy outlook as political uncertainty in France weighs heavily on investor sentiment, leading to a flat to lower opening for stocks.",
+      "exported_at": "2025-09-09T03:07:38.125829",
       "continuous_session": true
     }
   ]
