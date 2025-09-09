@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T08:22:40.248480",
-    "total_articles": 510,
-    "new_articles_in_last_fetch": 510,
+    "created_at": "2025-09-09T08:27:46.421726",
+    "total_articles": 511,
+    "new_articles_in_last_fetch": 511,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -6633,6 +6633,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ABU DHABI LAUNCHES LOW-COST AI MODEL TO CHALLENGE OPENAI, DEEPSEEK 🚀\n\n- UAE aims to lead in AI to reduce reliance on oil 🛢️\n- Abu Dhabi introduces affordable AI reasoning model 💰\n- Competing with industry giants OpenAI and DeepSeek 💪\n- Diversifying economy through technological innovation 🌐\n- Low-cost AI to drive UAE's global competitiveness 🌍\n\nTAKEAWAY: Abu Dhabi's move to launch a cost-effective AI model signifies its ambition to challenge industry leaders and reduce reliance on oil, driving economic diversification.",
       "exported_at": "2025-09-09T08:22:40.209791",
+      "continuous_session": true
+    },
+    {
+      "title": "Nebius shares soar 55% in premarket on Microsoft AI deal",
+      "link": "https://www.cnbc.com/2025/09/09/nebius-nbis-soars-after-ai-infrastructure-deal-with-microsoft-msft.html",
+      "summary": "The pact between Nebius and Microsoft suggests demand for the powerful infrastructure needed to train and run AI models remains strong.",
+      "published": "Tue, 09 Sep 2025 12:23:55 GMT",
+      "content": "The pact between Nebius and Microsoft suggests demand for the powerful infrastructure needed to train and run AI models remains strong.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1e8c4c941b24945803b5af05624f68ae",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NEBIUS SHARES SURGE 49% IN PREMARKET ON MICROSOFT AI DEAL 🚀\n\n- Nebius shares skyrocket by 49% in premarket trading 📈\n- Microsoft partnership highlights high demand for AI infrastructure 💪\n- Deal emphasizes the need for robust technology to train AI models 🤖\n- Market responds positively to Nebius-Microsoft pact 📈\n- Strong signal of continued growth in AI industry 🚀\n- Investors bullish on Nebius' potential in AI market 🔥\n\nTAKEAWAY: Nebius experiences a remarkable 49% surge in premarket trading following its partnership with Microsoft, showcasing the robust demand for AI infrastructure.",
+      "exported_at": "2025-09-09T08:27:46.388365",
       "continuous_session": true
     }
   ]
