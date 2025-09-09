@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T15:25:42.656250",
-    "total_articles": 565,
-    "new_articles_in_last_fetch": 565,
+    "created_at": "2025-09-09T15:30:52.977701",
+    "total_articles": 567,
+    "new_articles_in_last_fetch": 567,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -7347,6 +7347,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NUCLEAR STOCK: ONE-STOP SHOP FOR POWER RESURGENCE, SAYS CLSA 🚀\n\n- Cameco highlighted as ideal for nuclear power resurgence 🌟\n- CSLA recommends Cameco for investors seeking nuclear exposure 💡\n- Positioning Cameco as a strategic play in the nuclear industry 🔝\n\nTAKEAWAY: CSLA's endorsement positions Cameco as a top choice for investors looking to capitalize on the nuclear power resurgence.",
       "exported_at": "2025-09-09T15:25:42.605328",
+      "continuous_session": true
+    },
+    {
+      "title": "This nuclear stock is a one-stop shop to play the nuclear power resurgence, CLSA says",
+      "link": "https://www.cnbc.com/2025/09/09/cameco-ccj-nuclear-power-renaissance-reactor-uranium.html",
+      "summary": "Cameco is a one-stop shop for investors to play the nuclear power resurgence, according to CLSA.",
+      "published": "Tue, 09 Sep 2025 19:27:33 GMT",
+      "content": "Cameco is a one-stop shop for investors to play the nuclear power resurgence, according to CLSA.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ad909b99c619383b0308de0fbe067d1c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NUCLEAR STOCK PICKED AS ONE-STOP SHOP BY CLSA 🚀\n\n- Cameco recommended by CLSA for nuclear power resurgence 🌍\n- Investors can tap into nuclear power growth with Cameco 📈\n- CLSA sees Cameco as a strategic play for nuclear energy 🎯\n\nTAKEAWAY: CLSA highlights Cameco as a prime choice for investors looking to capitalize on the resurgence of nuclear power.",
+      "exported_at": "2025-09-09T15:30:52.941740",
+      "continuous_session": true
+    },
+    {
+      "title": "Ferrari evokes spirit of 1980s with new 849 Testarossa hybrid",
+      "link": "https://www.cnbc.com/2025/09/09/ferrari-evokes-spirit-of-1980s-with-new-849-testarossa-hybrid.html",
+      "summary": "Ferrari completed a refresh of its hybrid range with the new 849 Testarossa sportscar, a tribute to the famous original Testarossa model of the 1980s.",
+      "published": "Tue, 09 Sep 2025 19:24:25 GMT",
+      "content": "Ferrari completed a refresh of its hybrid range with the new 849 Testarossa sportscar, a tribute to the famous original Testarossa model of the 1980s.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9c860e976490764a7636ecab96970842",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FERRARI UNLEASHES 849 TESTAROSSA HYBRID, REVIVING 1980S SPIRIT 🚀\n\n- Ferrari launches new 849 Testarossa, honoring iconic 1980s model 🏎️\n- Hybrid car completes Ferrari's refreshed hybrid lineup ✅\n- 849 Testarossa pays homage to the classic Testarossa of the past 🔙\n- Reviving the spirit of the 1980s with cutting-edge hybrid technology ⚡️\n- Ferrari's tribute combines nostalgia with futuristic innovation 🌟\n\nTAKEAWAY: Ferrari's release of the 849 Testarossa hybrid not only honors the iconic 1980s model but also signifies a leap into the future of hybrid technology, blending nostalgia with innovation seamlessly.",
+      "exported_at": "2025-09-09T15:30:52.941778",
       "continuous_session": true
     }
   ]
