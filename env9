@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T13:33:28.842944",
-    "total_articles": 547,
-    "new_articles_in_last_fetch": 547,
+    "created_at": "2025-09-09T13:38:37.165890",
+    "total_articles": 549,
+    "new_articles_in_last_fetch": 549,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -7113,6 +7113,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: APPLE UNVEILS IPHONE 17 SERIES: LATEST UPDATES 🚀\n\n- Tim Cook to reveal iPhone 17 line, new AirPods Pro\n- Apple Watches also expected to be introduced\n- iOS 26 release date announcement anticipated\n\nTAKEAWAY: Apple's upcoming event promises excitement with the introduction of the highly anticipated iPhone 17 series, new AirPods Pro, and Apple Watches, along with the announcement of iOS 26 release date.",
       "exported_at": "2025-09-09T13:33:28.799701",
+      "continuous_session": true
+    },
+    {
+      "title": "Apple event live updates: Apple Announces iPhone 17",
+      "link": "https://www.cnbc.com/2025/09/09/live-updates-apple-event-iphone17-airpods-ios26.html",
+      "summary": "Apple CEO Tim Cook and his team are set to unveil the iPhone 17 line of devices, Apple Watches, new AirPods Pro, and the release date for iOS 26.",
+      "published": "Tue, 09 Sep 2025 17:38:07 GMT",
+      "content": "Apple CEO Tim Cook and his team are set to unveil the iPhone 17 line of devices, Apple Watches, new AirPods Pro, and the release date for iOS 26.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e8774552426dec3ccb4858c793d6aa00",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: APPLE UNVEILS IPHONE 17 SERIES: LATEST UPDATES 🚀\n\n- Tim Cook to reveal iPhone 17 line, new AirPods Pro\n- Apple Watches also expected to be introduced\n- iOS 26 release date announcement anticipated\n\nTAKEAWAY: Apple's upcoming event promises excitement with the introduction of the highly anticipated iPhone 17 series, new AirPods Pro, and Apple Watches, along with the announcement of iOS 26 release date.",
+      "exported_at": "2025-09-09T13:38:37.122734",
+      "continuous_session": true
+    },
+    {
+      "title": "Social Security is drying up faster under Trump&apos;s new budget bill—but it won&apos;t go away entirely, money experts say",
+      "link": "https://www.cnbc.com/2025/09/09/how-to-prepare-for-social-security-drying-up-faster-under-trump-budget-bill.html",
+      "summary": "Financial pros say you should plan for a reduction in Social Security benefits, even if it never ends up happening.",
+      "published": "Tue, 09 Sep 2025 17:25:05 GMT",
+      "content": "Financial pros say you should plan for a reduction in Social Security benefits, even if it never ends up happening.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8d17803dc8803877979054cc228dc4f1",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SOCIAL SECURITY DRYING UP UNDER TRUMP'S BUDGET—BUT EXPERTS REASSURE ⚠️\n\n- Trump's budget bill may lead to reduced Social Security benefits 💸\n- Financial experts advise preparing for benefit cuts, despite uncertainties 📉\n- Social Security not expected to disappear entirely, but changes likely 🔄\n\nTAKEAWAY: While Trump's budget bill may impact Social Security, experts urge preparation for potential benefit reductions, emphasizing the need to plan ahead for financial security.",
+      "exported_at": "2025-09-09T13:38:37.122848",
       "continuous_session": true
     }
   ]
