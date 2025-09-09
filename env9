@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T14:50:05.009476",
-    "total_articles": 561,
-    "new_articles_in_last_fetch": 561,
+    "created_at": "2025-09-09T14:55:12.150667",
+    "total_articles": 562,
+    "new_articles_in_last_fetch": 562,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -7295,6 +7295,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCKS MAKING BIG MOVES MIDDAY: UNITEDHEALTH, KINGSOFT CLOUD, BRIGHTHOUSE FINANCIAL 🚀\n\n- UnitedHealth, Kingsoft Cloud, Brighthouse Financial show significant midday movements\n- Investors closely monitoring these stock fluctuations for potential opportunities 📈\n- Market dynamics shifting rapidly for these companies\n\nTAKEAWAY: UnitedHealth, Kingsoft Cloud, and Brighthouse Financial are experiencing notable midday stock movements, attracting investors seeking potential opportunities amidst rapidly changing market conditions.",
       "exported_at": "2025-09-09T14:50:04.961252",
+      "continuous_session": true
+    },
+    {
+      "title": "White House criticizes Israeli strike on Hamas in Qatar",
+      "link": "https://www.cnbc.com/2025/09/09/israel-hamas-qatar-doha-attack.html",
+      "summary": "\"Unilaterally bombing inside Qatar ... does not advance Israel or America's goals,\" White House press secretary Karoline Leavitt said at a press briefing.",
+      "published": "Tue, 09 Sep 2025 18:52:50 GMT",
+      "content": "\"Unilaterally bombing inside Qatar ... does not advance Israel or America's goals,\" White House press secretary Karoline Leavitt said at a press briefing.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7778c517123cd38e548d98e8cc4cf748",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WHITE HOUSE CRITICIZES ISRAELI STRIKE ON HAMAS IN QATAR ⚠️\n\n- White House condemns Israel's unilateral strike in Qatar 🇶🇦\n- Press secretary emphasizes action doesn't align with shared goals 🤨\n- Critique raises concerns over Israel-America coordination 🤔\n\nTAKEAWAY: The White House's criticism of Israel's strike on Hamas in Qatar signals a discord in strategic alignment, sparking concerns over collaborative efforts.",
+      "exported_at": "2025-09-09T14:55:12.101972",
       "continuous_session": true
     }
   ]
