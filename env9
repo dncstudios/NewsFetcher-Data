@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T15:30:52.977701",
-    "total_articles": 567,
-    "new_articles_in_last_fetch": 567,
+    "created_at": "2025-09-09T15:36:00.240666",
+    "total_articles": 568,
+    "new_articles_in_last_fetch": 568,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -7373,6 +7373,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FERRARI UNLEASHES 849 TESTAROSSA HYBRID, REVIVING 1980S SPIRIT 🚀\n\n- Ferrari launches new 849 Testarossa, honoring iconic 1980s model 🏎️\n- Hybrid car completes Ferrari's refreshed hybrid lineup ✅\n- 849 Testarossa pays homage to the classic Testarossa of the past 🔙\n- Reviving the spirit of the 1980s with cutting-edge hybrid technology ⚡️\n- Ferrari's tribute combines nostalgia with futuristic innovation 🌟\n\nTAKEAWAY: Ferrari's release of the 849 Testarossa hybrid not only honors the iconic 1980s model but also signifies a leap into the future of hybrid technology, blending nostalgia with innovation seamlessly.",
       "exported_at": "2025-09-09T15:30:52.941778",
+      "continuous_session": true
+    },
+    {
+      "title": "S&amp;P 500 fights higher despite job worries, looming inflation reports: Live updates",
+      "link": "https://www.cnbc.com/2025/09/08/stock-market-today-live-updates.html",
+      "summary": "The S&amp;P 500 rose slightly on Tuesday as investors tried to look past concerns about the state of the U.S. economy.",
+      "published": "Tue, 09 Sep 2025 19:34:53 GMT",
+      "content": "The S&amp;P 500 rose slightly on Tuesday as investors tried to look past concerns about the state of the U.S. economy.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5783820415679b4c123e70114a46e7cf",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: S&P 500 RESILIENT AMID JOB WORRIES AND INFLATION FEARS 🚀\n\n- S&P 500 edges up despite U.S. economy concerns\n- Investors maintain optimism amidst job worries\n- Market shows resilience ahead of inflation reports\n\nTAKEAWAY: The S&P 500 remains strong, defying job worries and inflation fears, showcasing investor optimism and market resilience.",
+      "exported_at": "2025-09-09T15:36:00.196681",
       "continuous_session": true
     }
   ]
