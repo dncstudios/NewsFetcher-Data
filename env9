@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T06:35:54.318981",
-    "total_articles": 499,
-    "new_articles_in_last_fetch": 499,
+    "created_at": "2025-09-09T06:41:00.446147",
+    "total_articles": 500,
+    "new_articles_in_last_fetch": 500,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -6490,6 +6490,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CARLYLE PARTNERS WITH RED BULL F1 TEAM FOR BRAND BOOST 🚀\n\n- Carlyle's brand to shine on Red Bull Racing RB21, driver kits 🏎️\n- Collaboration extends to pit wall, garage for maximum exposure 🏁\n- Private markets aiming to enhance brand awareness through F1 🌟\n\nTAKEAWAY: Carlyle's strategic partnership with Red Bull Racing in the F1 world is set to elevate brand visibility and engagement in the private markets.",
       "exported_at": "2025-09-09T06:35:54.282024",
+      "continuous_session": true
+    },
+    {
+      "title": "Anglo American shares surge 9% on &apos;merger of equals&apos; with Canada&apos;s Teck Resources",
+      "link": "https://www.cnbc.com/2025/09/09/european-markets-on-septpoint9-stoxx-600-ftse-dax-france-gov-collapse.html",
+      "summary": "European stocks inched higher on Tuesday, helped by mining giant Anglo American's share price surge after it unveiled a merger with Canada's Teck Resources.",
+      "published": "Tue, 09 Sep 2025 10:35:44 GMT",
+      "content": "European stocks inched higher on Tuesday, helped by mining giant Anglo American's share price surge after it unveiled a merger with Canada's Teck Resources.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "108adf24cc5da3db4bed62ad5d943696",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ANGLO AMERICAN SOARS 8% ON MERGER WITH TECK RESOURCES 🚀\n\n- Anglo American's shares surge 8% post announcement 📈\n- Mining giant reveals \"merger of equals\" with Teck Resources 💼\n- European stocks see slight increase fueled by this news 📈\n\nTAKEAWAY: Anglo American's significant share price surge following the merger announcement with Teck Resources boosts market sentiment and investor confidence.",
+      "exported_at": "2025-09-09T06:41:00.403615",
       "continuous_session": true
     }
   ]
