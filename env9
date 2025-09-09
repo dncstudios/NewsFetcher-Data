@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T15:20:33.366933",
-    "total_articles": 563,
-    "new_articles_in_last_fetch": 563,
+    "created_at": "2025-09-09T15:25:42.656250",
+    "total_articles": 565,
+    "new_articles_in_last_fetch": 565,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -7321,6 +7321,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NASDAQ INVESTS $50 MILLION IN GEMINI CRYPTO EXCHANGE 🚀\n\n- Nasdaq invests $50 million in Gemini ahead of its IPO 🤝\n- Strategic partnership enhances Gemini's market position 📈\n- Cameron and Tyler Winklevoss founded Gemini 🚀\n- Nasdaq's investment boosts confidence in Gemini 💪\n- Gemini set to go public this week 🔥\n- Collaboration signals growing interest in crypto exchanges ✅\n\nTAKEAWAY: Nasdaq's $50 million investment in Gemini strengthens the crypto exchange's position and signals increasing confidence in the crypto market.",
       "exported_at": "2025-09-09T15:20:33.324422",
+      "continuous_session": true
+    },
+    {
+      "title": "Cracker Barrel suspends restaurant remodels after logo controversy",
+      "link": "https://www.cnbc.com/2025/09/09/cracker-barrel-restaurant-remodels-logo-controversy.html",
+      "summary": "Cracker Barrel's \"Old Country Store\" look is here to stay, the company announced, in the latest walk back of its rebranding initiative.",
+      "published": "Tue, 09 Sep 2025 19:23:09 GMT",
+      "content": "Cracker Barrel's \"Old Country Store\" look is here to stay, the company announced, in the latest walk back of its rebranding initiative.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "00f1061f3531ae774949aed36d05d692",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CRACKER BARREL HALTS REMODELS AMID LOGO BACKLASH ⚠️\n\n- Cracker Barrel suspends restaurant makeovers post logo uproar 🚫\n- Company reverts to traditional \"Old Country Store\" appearance ✅\n- Walks back rebranding efforts due to public backlash ⚠️\n- Decision made to maintain beloved look and feel 🏞️\n\nTAKEAWAY: Cracker Barrel hits the brakes on remodels following logo controversy, embracing its classic \"Old Country Store\" aesthetic.",
+      "exported_at": "2025-09-09T15:25:42.605265",
+      "continuous_session": true
+    },
+    {
+      "title": "This nuclear stock is a one-stop shop to play the nuclear power resurgence, CLSA says",
+      "link": "https://www.cnbc.com/2025/09/09/cameco-ccj-nuclear-power-renaissance-reactor-uranium.html",
+      "summary": "Cameco is a one-stop shop for investors to play the nuclear power resurgance, according to CSLA.",
+      "published": "Tue, 09 Sep 2025 19:19:05 GMT",
+      "content": "Cameco is a one-stop shop for investors to play the nuclear power resurgance, according to CSLA.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ec4c4103f800fc669604f661af29681a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NUCLEAR STOCK: ONE-STOP SHOP FOR POWER RESURGENCE, SAYS CLSA 🚀\n\n- Cameco highlighted as ideal for nuclear power resurgence 🌟\n- CSLA recommends Cameco for investors seeking nuclear exposure 💡\n- Positioning Cameco as a strategic play in the nuclear industry 🔝\n\nTAKEAWAY: CSLA's endorsement positions Cameco as a top choice for investors looking to capitalize on the nuclear power resurgence.",
+      "exported_at": "2025-09-09T15:25:42.605328",
       "continuous_session": true
     }
   ]
