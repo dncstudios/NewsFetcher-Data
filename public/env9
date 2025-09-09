@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T14:04:09.774131",
-    "total_articles": 554,
-    "new_articles_in_last_fetch": 554,
+    "created_at": "2025-09-09T14:19:23.174780",
+    "total_articles": 555,
+    "new_articles_in_last_fetch": 555,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -7204,6 +7204,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: MICROSOFT MANDATES EMPLOYEES TO WORK IN OFFICE 3 DAYS A WEEK ⚡️\n\n- Microsoft shifts from remote-work flexibility to 3 days in office\n- Previous policy allowed working from home without manager approval\n- Emphasizes importance of in-person collaboration and teamwork ✅\n- Aims to maintain hybrid work model for optimal productivity 🎯\n- Employees to have 42% of their workweek in the office 🏢\n- Microsoft's move contrasts with tech companies embracing remote work 🌐\n\nTAKEAWAY: Microsoft's new policy requiring employees to be in the office 3 days a week reflects a shift towards prioritizing in-person collaboration while maintaining a hybrid work model for productivity.",
       "exported_at": "2025-09-09T14:04:09.750226",
+      "continuous_session": true
+    },
+    {
+      "title": "Apple event live updates: iPhone 17 starts at $799, Pro $1,099, Pro Max $1,199",
+      "link": "https://www.cnbc.com/2025/09/09/live-updates-apple-event-iphone17-airpods-ios26.html",
+      "summary": "Apple CEO Tim Cook and his team are set to unveil the iPhone 17 line of devices, Apple Watches, new AirPods Pro, and the release date for iOS 26.",
+      "published": "Tue, 09 Sep 2025 18:18:21 GMT",
+      "content": "Apple CEO Tim Cook and his team are set to unveil the iPhone 17 line of devices, Apple Watches, new AirPods Pro, and the release date for iOS 26.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "17e7fc4b167d12031d5c797b53a8e3de",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: APPLE UNVEILS IPHONE 17 SERIES: LATEST UPDATES 🚀\n\n- Tim Cook to reveal iPhone 17 line, new AirPods Pro\n- Apple Watches also expected to be introduced\n- iOS 26 release date announcement anticipated\n\nTAKEAWAY: Apple's upcoming event promises excitement with the introduction of the highly anticipated iPhone 17 series, new AirPods Pro, and Apple Watches, along with the announcement of iOS 26 release date.",
+      "exported_at": "2025-09-09T14:19:23.129092",
       "continuous_session": true
     }
   ]
