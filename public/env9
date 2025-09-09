@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T18:03:26.715539",
-    "total_articles": 582,
-    "new_articles_in_last_fetch": 582,
+    "created_at": "2025-09-09T18:49:03.079948",
+    "total_articles": 583,
+    "new_articles_in_last_fetch": 583,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -7568,6 +7568,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CONGRESS READY TO ACT IF TRUMP'S TARIFFS STRUCK DOWN BY SUPREME COURT ⚠️\n\n- Supreme Court to expedite review of Trump's tariffs 🏛️\n- Uncertainty looms over legality of tariffs 🤔\n- House tax committee chair promises to act accordingly ✅\n\nTAKEAWAY: Congress stands prepared to take action following the Supreme Court's expedited review of President Trump's tariffs, ensuring a proactive response to the uncertain future.",
       "exported_at": "2025-09-09T18:03:26.684985",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump signs memo to crack down on direct-to-consumer pharma ads",
+      "link": "https://www.cnbc.com/2025/09/09/trump-signs-memo-to-crack-down-on-direct-to-consumer-pharma-ads.html",
+      "summary": "The Trump administration plans to ensure transparency and accuracy in drug ads, including by increasing the amount of information related to any product risks.",
+      "published": "Tue, 09 Sep 2025 22:45:32 GMT",
+      "content": "The Trump administration plans to ensure transparency and accuracy in drug ads, including by increasing the amount of information related to any product risks.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c80b58510191a6ee932ec593850b692e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP CRACKS DOWN ON PHARMA ADS 🚀\n\n- Trump signs memo to enhance transparency in drug ads 💊\n- Focus on accuracy and detailed product risk information 📋\n- Administration aims to regulate direct-to-consumer pharma ads 🚨\n- Move to increase awareness and understanding of drug risks 🧐\n\nTAKEAWAY: Trump's administration takes a bold step to bring transparency and accuracy to direct-to-consumer pharmaceutical ads by prioritizing detailed product risk information.",
+      "exported_at": "2025-09-09T18:49:03.033390",
       "continuous_session": true
     }
   ]
