@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T01:51:40.840697",
-    "total_articles": 486,
-    "new_articles_in_last_fetch": 486,
+    "created_at": "2025-09-09T02:32:11.667814",
+    "total_articles": 487,
+    "new_articles_in_last_fetch": 487,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -6321,6 +6321,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: EUROPEAN MARKETS DIP AMID FRANCE'S POLITICAL UNCERTAINTY 📉\n\n- European stocks set to open flat or lower on Tuesday 📉\n- Investors concerned about political turmoil in France 🇫🇷\n- Market mood darkens as uncertainty looms over the region ⚠️\n\nTAKEAWAY: European markets face a gloomy outlook as political uncertainty in France weighs heavily on investor sentiment, leading to a flat to lower opening for stocks.",
       "exported_at": "2025-09-09T01:51:40.798503",
+      "continuous_session": true
+    },
+    {
+      "title": "Asia-Pacific markets trade mixed after Wall Street gains on tech rally",
+      "link": "https://www.cnbc.com/2025/09/09/asia-markets-nikkei-225-kospi-nifty-50.html",
+      "summary": "Japan's benchmark Nikkei 225 reversed course to lose 0.26% after hitting a record high earlier in the day.",
+      "published": "Tue, 09 Sep 2025 06:29:45 GMT",
+      "content": "Japan's benchmark Nikkei 225 reversed course to lose 0.26% after hitting a record high earlier in the day.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2364ed68c4ba4306066a79d36be8ee9a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASIA-PACIFIC MARKETS MIXED AFTER WALL STREET TECH RALLY 📈\n\n- Japan's Nikkei 225 drops 0.26% after hitting record high 📉\n- Markets in Asia-Pacific show mixed trading trends 🌏\n- Wall Street's tech rally impacts Asian market sentiments 📈\n\nTAKEAWAY: Asia-Pacific markets experience mixed trading patterns following Wall Street's tech-driven gains, with Japan's Nikkei 225 seeing a slight decline after reaching a record high.",
+      "exported_at": "2025-09-09T02:32:11.633659",
       "continuous_session": true
     }
   ]
