@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T10:24:58.923841",
-    "total_articles": 527,
-    "new_articles_in_last_fetch": 527,
+    "created_at": "2025-09-09T10:35:10.184990",
+    "total_articles": 528,
+    "new_articles_in_last_fetch": 528,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -6853,6 +6853,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ISRAEL STRIKES HAMAS OFFICIALS IN QATAR 🚨\n\n- Israeli strike targets top Hamas officials in Qatar 🎯\n- U.S. Embassy in Doha issues shelter-in-place order ⚠️\n- Reports confirm attack on Hamas leaders in capital city 📰\n\nTAKEAWAY: Israel's targeted strike on Hamas officials in Qatar sparks security concerns as the U.S. Embassy issues precautionary measures.",
       "exported_at": "2025-09-09T10:24:58.879483",
+      "continuous_session": true
+    },
+    {
+      "title": "What Wall Street is expecting from Apple&apos;s iPhone event",
+      "link": "https://www.cnbc.com/2025/09/09/what-wall-street-is-expecting-from-apples-iphone-event-.html",
+      "summary": "Wall Street is looking to see if Apple's iPhone launch on Tuesday could spark sales and renew investor enthusiasm on the beaten-down stock.",
+      "published": "Tue, 09 Sep 2025 14:17:13 GMT",
+      "content": "Wall Street is looking to see if Apple's iPhone launch on Tuesday could spark sales and renew investor enthusiasm on the beaten-down stock.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c9d33780da01a3ba00e59af33b91f4bd",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WHAT WALL STREET EXPECTS FROM APPLE'S iPHONE EVENT 🚀\n\n- Investors anticipate Apple's iPhone launch to boost sales 📈\n- Renewed investor enthusiasm sought for Apple stock 🍏\n- Market eager to see if event can uplift Apple's performance 💪\n\nTAKEAWAY: Apple's upcoming iPhone event has Wall Street hopeful for increased sales and a potential boost to investor sentiment.",
+      "exported_at": "2025-09-09T10:35:10.140908",
       "continuous_session": true
     }
   ]
