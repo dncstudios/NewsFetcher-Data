@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T05:09:28.535956",
-    "total_articles": 493,
-    "new_articles_in_last_fetch": 493,
+    "created_at": "2025-09-09T05:29:47.568844",
+    "total_articles": 494,
+    "new_articles_in_last_fetch": 494,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -6412,6 +6412,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NEBIUS SHARES SURGE 49% PRE-MARKET ON MULTI-BILLION AI DEAL WITH MICROSOFT 🚀\n\n- Nebius shares skyrocket 49% in pre-market trading 🚀\n- Company secures multi-year deal with Microsoft for AI infrastructure 🤝\n- Deal involves providing cloud computing power for AI workloads 💻\n- Microsoft collaboration fuels investor confidence 📈\n- Pre-market trading reflects market enthusiasm and anticipation 🌟\n\nTAKEAWAY: Nebius experiences a remarkable 49% surge in pre-market trading following the announcement of a lucrative multi-billion AI infrastructure deal with tech giant Microsoft, sparking investor confidence and market anticipation.",
       "exported_at": "2025-09-09T05:09:28.498215",
+      "continuous_session": true
+    },
+    {
+      "title": "Chinese EV maker Xpeng eyes global launch of mass-market Mona series in 2026",
+      "link": "https://www.cnbc.com/2025/09/08/xpeng-plans-global-launch-of-mass-market-mona-brand-in-2026.html",
+      "summary": "Xpeng plans to launch its mass-market Mona series outside of China, CEO He Xiaopeng told CNBC.",
+      "published": "Tue, 09 Sep 2025 07:50:15 GMT",
+      "content": "Xpeng plans to launch its mass-market Mona series outside of China, CEO He Xiaopeng told CNBC.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8f710ade532371a18dca27a822844a15",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: XPENG'S MONA SERIES TO GO GLOBAL IN 2026 🌏\n\n- Xpeng to launch mass-market Mona series worldwide 🌍\n- CEO He Xiaopeng confirms global expansion plans 🚀\n- Mona series set for international markets in 2026 🌐\n\nTAKEAWAY: Xpeng's ambitious move to launch the Mona series globally in 2026 marks a significant step in its expansion strategy, led by CEO He Xiaopeng.",
+      "exported_at": "2025-09-09T05:29:47.528448",
       "continuous_session": true
     }
   ]
