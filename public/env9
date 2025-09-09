@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T05:29:47.568844",
-    "total_articles": 494,
-    "new_articles_in_last_fetch": 494,
+    "created_at": "2025-09-09T05:40:00.717298",
+    "total_articles": 495,
+    "new_articles_in_last_fetch": 495,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -6425,6 +6425,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: XPENG'S MONA SERIES TO GO GLOBAL IN 2026 🌏\n\n- Xpeng to launch mass-market Mona series worldwide 🌍\n- CEO He Xiaopeng confirms global expansion plans 🚀\n- Mona series set for international markets in 2026 🌐\n\nTAKEAWAY: Xpeng's ambitious move to launch the Mona series globally in 2026 marks a significant step in its expansion strategy, led by CEO He Xiaopeng.",
       "exported_at": "2025-09-09T05:29:47.528448",
+      "continuous_session": true
+    },
+    {
+      "title": "Nebius shares soar 49% in premarket on Microsoft AI deal",
+      "link": "https://www.cnbc.com/2025/09/09/nebius-nbis-soars-after-ai-infrastructure-deal-with-microsoft-msft.html",
+      "summary": "The pact between Nebius and Microsoft suggests demand for the powerful infrastructure needed to train and run AI models remains strong.",
+      "published": "Tue, 09 Sep 2025 09:38:54 GMT",
+      "content": "The pact between Nebius and Microsoft suggests demand for the powerful infrastructure needed to train and run AI models remains strong.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f058f0f3249767dd5b71463e266ac228",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NEBIUS SHARES SURGE 49% IN PREMARKET ON MICROSOFT AI DEAL 🚀\n\n- Nebius shares skyrocket by 49% in premarket trading 📈\n- Microsoft partnership highlights high demand for AI infrastructure 💪\n- Deal emphasizes the need for robust technology to train AI models 🤖\n- Market responds positively to Nebius-Microsoft pact 📈\n- Strong signal of continued growth in AI industry 🚀\n- Investors bullish on Nebius' potential in AI market 🔥\n\nTAKEAWAY: Nebius experiences a remarkable 49% surge in premarket trading following its partnership with Microsoft, showcasing the robust demand for AI infrastructure.",
+      "exported_at": "2025-09-09T05:40:00.685436",
       "continuous_session": true
     }
   ]
