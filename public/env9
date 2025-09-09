@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T06:15:36.462173",
-    "total_articles": 498,
-    "new_articles_in_last_fetch": 498,
+    "created_at": "2025-09-09T06:35:54.318981",
+    "total_articles": 499,
+    "new_articles_in_last_fetch": 499,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -6477,6 +6477,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCK FUTURES RISE AS NASDAQ EYES RECORD 🚀\n\n- U.S. stock futures edge up following Nasdaq's record high 📈\n- Nasdaq Composite sets new record, boosting market sentiment 🌟\n- Positive momentum in stock futures on Tuesday 💪\n\nTAKEAWAY: Stock futures show optimism as Nasdaq's record high sets a positive tone for the market, indicating a potential upward trend.",
       "exported_at": "2025-09-09T06:15:36.422086",
+      "continuous_session": true
+    },
+    {
+      "title": "Carlyle to partner with Red Bull F1 team as private markets look to build brand awareness",
+      "link": "https://www.cnbc.com/2025/09/09/carlyle-red-bull-f1-pe.html",
+      "summary": "The agreement will plaster Carlyle's branding on Oracle Red Bull Racing RB21 challenger, drivers' team kits, the pit wall and the garage.",
+      "published": "Tue, 09 Sep 2025 10:30:01 GMT",
+      "content": "The agreement will plaster Carlyle's branding on Oracle Red Bull Racing RB21 challenger, drivers' team kits, the pit wall and the garage.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e359a462bd46f7c940f03bd79b273cb6",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CARLYLE PARTNERS WITH RED BULL F1 TEAM FOR BRAND BOOST 🚀\n\n- Carlyle's brand to shine on Red Bull Racing RB21, driver kits 🏎️\n- Collaboration extends to pit wall, garage for maximum exposure 🏁\n- Private markets aiming to enhance brand awareness through F1 🌟\n\nTAKEAWAY: Carlyle's strategic partnership with Red Bull Racing in the F1 world is set to elevate brand visibility and engagement in the private markets.",
+      "exported_at": "2025-09-09T06:35:54.282024",
       "continuous_session": true
     }
   ]
