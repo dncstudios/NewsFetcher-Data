@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T22:44:07.147166",
-    "total_articles": 479,
-    "new_articles_in_last_fetch": 479,
+    "created_at": "2025-09-08T22:49:15.102965",
+    "total_articles": 480,
+    "new_articles_in_last_fetch": 480,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -6230,6 +6230,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BOEING'S PROMINENCE IN TRUMP TRADE DEALS: PRAGMATIC MOVE? 🚀\n\n- Boeing planes favored in Trump's trade deals for political ease ✈️\n- High value and long delivery times make aircraft appealing 🌟\n- Strategic choice due to less sensitivity in political negotiations 💼\n\nTAKEAWAY: Boeing's frequent inclusion in Trump's trade deals is a strategic move, leveraging the high value, long delivery times, and political advantages of aircraft in negotiations.",
       "exported_at": "2025-09-08T22:44:07.109343",
+      "continuous_session": true
+    },
+    {
+      "title": "Performative or pragmatic? Why Boeing planes feature so much in Trump trade deals",
+      "link": "https://www.cnbc.com/2025/09/09/performative-or-pragmatic-why-boeing-planes-feature-so-much-in-trump-trade-deals.html",
+      "summary": "Since April, a pattern has emerged: Countries that strike trade deals with the U.S. often announce large orders for Boeing jets.",
+      "published": "Tue, 09 Sep 2025 02:45:51 GMT",
+      "content": "Since April, a pattern has emerged: Countries that strike trade deals with the U.S. often announce large orders for Boeing jets.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "64e84df7aad697b2a3c8ee3ed4602d10",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP TRADE DEALS BOOST BOEING ORDERS 🚀\n\n- Trade partners ordering substantial Boeing jets post-deals 🛫\n- Boeing's prominence in post-trade deal announcements 🌏\n- Clear pattern of countries favoring Boeing after US trade pacts 📈\n\nTAKEAWAY: Boeing's increased orders post-Trump trade deals hint at strategic business moves, influencing global trade dynamics.",
+      "exported_at": "2025-09-08T22:49:15.064392",
       "continuous_session": true
     }
   ]
