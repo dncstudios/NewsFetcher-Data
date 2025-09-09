@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-08T20:37:30.683970",
-    "total_articles": 478,
-    "new_articles_in_last_fetch": 478,
+    "created_at": "2025-09-08T22:44:07.147166",
+    "total_articles": 479,
+    "new_articles_in_last_fetch": 479,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -6217,6 +6217,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JUDGE CRITICIZES $1.5B ANTHROPIC SETTLEMENT IN AI PIRACY CASE ⚠️\n\n- $1.5B settlement between Anthropic and authors criticized by judge\n- Authors claim half million books pirated for AI training 📚\n- Potential trial looming despite the hefty settlement amount 💰\n\nTAKEAWAY: A federal judge's criticism of the $1.5 billion settlement between Anthropic and authors in the AI piracy case raises the possibility of the case going to trial.",
       "exported_at": "2025-09-08T20:37:30.659187",
+      "continuous_session": true
+    },
+    {
+      "title": "Performative or pragmatic? Why Boeing planes feature so much in Trump trade deals",
+      "link": "https://www.cnbc.com/2025/09/09/performative-or-pragmatic-why-boeing-planes-feature-so-much-in-trump-trade-deals.html",
+      "summary": "Politically less sensitive, a high-value product, and a long delivery times makes aircraft an attractive option.",
+      "published": "Tue, 09 Sep 2025 02:42:28 GMT",
+      "content": "Politically less sensitive, a high-value product, and a long delivery times makes aircraft an attractive option.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8b6b21695fed3c97e2364e9a5d123e86",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BOEING'S PROMINENCE IN TRUMP TRADE DEALS: PRAGMATIC MOVE? 🚀\n\n- Boeing planes favored in Trump's trade deals for political ease ✈️\n- High value and long delivery times make aircraft appealing 🌟\n- Strategic choice due to less sensitivity in political negotiations 💼\n\nTAKEAWAY: Boeing's frequent inclusion in Trump's trade deals is a strategic move, leveraging the high value, long delivery times, and political advantages of aircraft in negotiations.",
+      "exported_at": "2025-09-08T22:44:07.109343",
       "continuous_session": true
     }
   ]
