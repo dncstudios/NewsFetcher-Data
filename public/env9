@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T09:13:36.465715",
-    "total_articles": 517,
-    "new_articles_in_last_fetch": 517,
+    "created_at": "2025-09-09T09:23:48.765332",
+    "total_articles": 518,
+    "new_articles_in_last_fetch": 518,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -6723,6 +6723,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FIGURE TECHNOLOGIES UPSIZING IPO AMID CRYPTO STOCK DEMAND 🚀\n\n- Stablecoin issuer Figure Technologies boosts IPO size 📈\n- Demand surges for crypto-related stocks 🚀\n- Insider reveals upsizing move to Reuters 🕵️‍♂️\n- Company capitalizing on high interest in crypto sector 💰\n- Increased IPO size reflects strong market appetite 📈\n- Figure Technologies aligning with booming crypto trend 📈\n\nTAKEAWAY: Figure Technologies seizing the opportunity to expand IPO amid soaring demand for crypto-related stocks, reflecting the strong market appetite in the sector.",
       "exported_at": "2025-09-09T09:13:36.427070",
+      "continuous_session": true
+    },
+    {
+      "title": "Harvard happiness expert: &apos;Procrastination gets a bad rap,&apos; but when done right it can pay off—here&apos;s how",
+      "link": "https://www.cnbc.com/2025/09/09/arthur-c-brooks-how-to-make-procrastination-work-fornot-againstyou.html",
+      "summary": "Procrastination can be used to your benefit with the correct approach. Here's how happiness expert Arthur Brooks suggests using it the right way.",
+      "published": "Tue, 09 Sep 2025 13:00:01 GMT",
+      "content": "Procrastination can be used to your benefit with the correct approach. Here's how happiness expert Arthur Brooks suggests using it the right way.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ae22ec9435b2178f6cada69169b1f061",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: HARVARD EXPERT: HOW PROCRASTINATION CAN PAY OFF 🚀\n\n- Harvard expert: Procrastination can be beneficial 💡\n- Arthur Brooks explains how to use procrastination effectively ✅\n- Correct approach to procrastination can lead to success 💪\n\nTAKEAWAY: Harvard happiness expert reveals how procrastination, if done right, can actually be a key to success and happiness.",
+      "exported_at": "2025-09-09T09:23:48.723515",
       "continuous_session": true
     }
   ]
