@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T01:35:26.052877",
-    "total_articles": 616,
-    "new_articles_in_last_fetch": 616,
+    "created_at": "2025-09-10T01:45:38.002236",
+    "total_articles": 617,
+    "new_articles_in_last_fetch": 617,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -8009,6 +8009,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: EUROPE'S BAN ON GASOLINE CARS BY 2035 SPARKS DEBATE 🔥\n\n- Europe's ban on new petrol cars from 2035 causes buzz at IAA Mobility show 🚗\n- Automotive industry debates implications of the upcoming ban ⚡️\n- Ban on gasoline cars and vans triggers discussions on future of transportation 🌍\n\nTAKEAWAY: Europe's plan to ban new petrol cars by 2035 generates intense debate and speculation within the automotive industry, hinting at a major shift in transportation trends.",
       "exported_at": "2025-09-10T01:35:26.006619",
+      "continuous_session": true
+    },
+    {
+      "title": "Wegovy-maker Novo Nordisk to cut around 9,000 jobs",
+      "link": "https://www.cnbc.com/2025/09/10/wegovy-maker-novo-nordisk-to-cut-around-9000-jobs.html",
+      "summary": "Novo Nordisk, which produces Wegovy and Ozempic, said roughly 9,000 roles would be cut, with 5,000 of these reductions expected in Denmark.",
+      "published": "Wed, 10 Sep 2025 05:41:57 GMT",
+      "content": "Novo Nordisk, which produces Wegovy and Ozempic, said roughly 9,000 roles would be cut, with 5,000 of these reductions expected in Denmark.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "87c31bdb10be99c7cd0e3ce9f5d0ff3c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NOVO NORDISK TO SLASH 9,000 JOBS 🚨\n\n- Novo Nordisk to cut 9,000 jobs, 5,000 in Denmark 🇩🇰\n- Job cuts affect roles at Wegovy and Ozempic producer\n- Reductions aimed at streamlining operations and cost-cutting\n\nTAKEAWAY: Novo Nordisk's decision to reduce 9,000 jobs, with a significant impact in Denmark, aims to streamline operations and enhance cost efficiency.",
+      "exported_at": "2025-09-10T01:45:37.958765",
       "continuous_session": true
     }
   ]
