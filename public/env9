@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T06:45:24.282003",
-    "total_articles": 632,
-    "new_articles_in_last_fetch": 632,
+    "created_at": "2025-09-10T07:00:41.015465",
+    "total_articles": 633,
+    "new_articles_in_last_fetch": 633,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -8217,6 +8217,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: INDITEX SOARS 7% ON STRONG SALES GROWTH 🚀\n\n- Inditex leads Stoxx 600 index with 7% surge 📈\n- Investors pleased with \"meaningful acceleration\" in sales 💰\n- Regional stocks see broad uptrend on Wednesday 📈\n\nTAKEAWAY: Inditex's impressive 7% surge reflects investor confidence in the company's significant sales growth acceleration, driving positive momentum in regional stocks.",
       "exported_at": "2025-09-10T06:45:24.227671",
+      "continuous_session": true
+    },
+    {
+      "title": "Novo Nordisk shares jump 4% after pharma giant announces mass layoffs",
+      "link": "https://www.cnbc.com/2025/09/10/european-markets-on-weds-sept-10-stoxx-600-dax-ftse-cac.html",
+      "summary": "Novo Nordisk moved up the pan-European Stoxx 600 index on Wednesday, as regional stocks moved broadly higher.",
+      "published": "Wed, 10 Sep 2025 10:59:20 GMT",
+      "content": "Novo Nordisk moved up the pan-European Stoxx 600 index on Wednesday, as regional stocks moved broadly higher.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "dde246af23b91c73656cf7db9ca2836d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NOVO NORDISK SOARS 4% ON MASS LAYOFFS ANNOUNCEMENT 🚀\n\n- Novo Nordisk shares surge 4% post announcement 📈\n- Pharma giant's move propels Stoxx 600 index 📈\n- Regional stocks see broad uptrend on Wednesday 🌍\n\nTAKEAWAY: Novo Nordisk's stock skyrockets by 4% following the announcement of mass layoffs, boosting the pan-European Stoxx 600 index amid a general uptrend in regional stocks.",
+      "exported_at": "2025-09-10T07:00:40.968155",
       "continuous_session": true
     }
   ]
