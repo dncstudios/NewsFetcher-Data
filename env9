@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T20:35:51.574407",
-    "total_articles": 592,
-    "new_articles_in_last_fetch": 592,
+    "created_at": "2025-09-09T20:41:01.201249",
+    "total_articles": 594,
+    "new_articles_in_last_fetch": 594,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -7698,6 +7698,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: KLARNA IPO PRICED AT $40, SURPASSING EXPECTATIONS 🚀\n\n- Klarna's IPO priced at $40 per share, valuing the company at $15 billion 💰\n- Share price exceeds online lender's anticipated range 📈\n- Strong investor interest reflected in the higher pricing 💪\n\nTAKEAWAY: Klarna's IPO pricing at $40 per share surpasses expectations, showcasing strong investor confidence in the online lender's potential growth.",
       "exported_at": "2025-09-09T20:35:51.523009",
+      "continuous_session": true
+    },
+    {
+      "title": "Princeton researcher Tsurkov released from militia captivity in Iraq",
+      "link": "https://www.cnbc.com/2025/09/09/princeton-researcher-tsurkov-released-from-militia-captivity-in-iraq.html",
+      "summary": "An Israeli-Russian graduate student from Princeton University in New Jersey who was kidnapped by a Shiite militia in Iraq in 2023 has been released from captivity and is now in U.S. custody, President Donald Trump and the student's family said on Tuesday.",
+      "published": "Wed, 10 Sep 2025 00:28:25 GMT",
+      "content": "An Israeli-Russian graduate student from Princeton University in New Jersey who was kidnapped by a Shiite militia in Iraq in 2023 has been released from captivity and is now in U.S. custody, President Donald Trump and the student's family said on Tuesday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e141b8ff740b54cca2155d0fc0c07b1b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PRINCETON RESEARCHER TSURKOV FREED FROM IRAQ MILITIA CAPTIVITY 🚀\n\n- Israeli-Russian student from Princeton University released from Shiite militia in Iraq 🇮🇱🇷🇺\n- Student now safe in U.S. custody, confirms President Donald Trump 🇺🇸\n- Incident occurred in 2023, causing global concern 🌍\n- Family expresses relief and gratitude for safe return 🙏\n- Tsurkov's release marks end of tense period in U.S.-Iraq relations 🕊️\n\nTAKEAWAY: The freedom of Princeton researcher Tsurkov from militia captivity in Iraq brings relief and marks a positive turn in U.S.-Iraq relations.",
+      "exported_at": "2025-09-09T20:41:01.154978",
+      "continuous_session": true
+    },
+    {
+      "title": "Uranium market heats up on nuclear revival hopes",
+      "link": "https://www.cnbc.com/2025/09/10/uranium-market-heats-up-on-nuclear-revival-hopes.html",
+      "summary": "Uranium supplies are recovering, but accelerated permitting, mining innovations and new explorations must take place to meet surging nuclear energy demand.",
+      "published": "Tue, 09 Sep 2025 22:48:25 GMT",
+      "content": "Uranium supplies are recovering, but accelerated permitting, mining innovations and new explorations must take place to meet surging nuclear energy demand.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "443a366c6c45c4915b1bd25962cfeb07",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: URANIUM MARKET HEATS UP ON NUCLEAR REVIVAL HOPES 🚀\n\n- Uranium supplies rebounding, sparking market interest 🔥\n- Demand for nuclear energy surges, driving market growth 📈\n- Need for faster permitting and mining advancements identified ✅\n- Exploration efforts crucial to meet rising demand ⚒️\n- Market optimism fueled by hopes for nuclear industry revival 🚀\n\nTAKEAWAY: The uranium market gains momentum as supplies recover, highlighting the need for rapid permitting, mining innovations, and exploration to meet the growing demand for nuclear energy.",
+      "exported_at": "2025-09-09T20:41:01.155061",
       "continuous_session": true
     }
   ]
