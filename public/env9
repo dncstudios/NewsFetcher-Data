@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T21:36:58.403123",
-    "total_articles": 599,
-    "new_articles_in_last_fetch": 599,
+    "created_at": "2025-09-09T22:02:19.555772",
+    "total_articles": 600,
+    "new_articles_in_last_fetch": 600,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -7789,6 +7789,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: RECORD US BUSINESSES SHIFT INVESTMENTS FROM CHINA TO SOUTHEAST ASIA 🚀\n\n- U.S. companies increasingly divert investments away from China 📈\n- Southeast Asia emerges as top choice for redirected funds 💰\n- Indian subcontinent follows Southeast Asia in investment popularity 🌏\n\nTAKEAWAY: U.S. businesses are breaking records by shifting investments from China to Southeast Asia, showcasing a strategic move towards new growth opportunities in the region.",
       "exported_at": "2025-09-09T21:36:58.358202",
+      "continuous_session": true
+    },
+    {
+      "title": "Judge blocks Trump from firing Fed Board Governor Lisa Cook",
+      "link": "https://www.cnbc.com/2025/09/09/fed-lisa-cook-trump-powell-judge-jia-cobb-pulte.html",
+      "summary": "The Supreme Court is likely to have the final say on whether President Donald Trump had legal cause to remove Lisa Cook from the Federal Reserve Board.",
+      "published": "Wed, 10 Sep 2025 01:59:46 GMT",
+      "content": "The Supreme Court is likely to have the final say on whether President Donald Trump had legal cause to remove Lisa Cook from the Federal Reserve Board.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "549bdc8844261e2166df126a6ff6cf37",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JUDGE BLOCKS TRUMP FROM FIRING FED BOARD GOVERNOR LISA COOK ⚠️\n\n- Trump's attempt to remove Lisa Cook from Fed Board halted ⛔\n- Legal battle likely to escalate to Supreme Court 🏛️\n- Uncertainty looms over Cook's position at the Federal Reserve ⚠️\n\nTAKEAWAY: The legal battle between Trump and the decision to remove Lisa Cook from the Federal Reserve Board adds uncertainty to her position, awaiting a final verdict from the Supreme Court.",
+      "exported_at": "2025-09-09T22:02:19.503784",
       "continuous_session": true
     }
   ]
