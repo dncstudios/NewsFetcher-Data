@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T16:11:48.352823",
-    "total_articles": 699,
-    "new_articles_in_last_fetch": 699,
+    "created_at": "2025-09-10T16:16:54.432426",
+    "total_articles": 700,
+    "new_articles_in_last_fetch": 700,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -9087,6 +9087,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: KLARNA MAKES DEBUT ON NYSE AT $52/SHARE 🚀\n\n- Klarna IPO priced above range at $40/share 💰\n- Valued at about $15 billion 📈\n- Opens on NYSE at $52/share 📈\n- Strong investor interest evident 💪\n- Successful IPO showcases market confidence ✅\n- Klarna's debut signals market optimism 🌟\n\nTAKEAWAY: Klarna's strong IPO pricing and impressive debut on the NYSE highlight investor confidence and market optimism in the company's future growth.",
       "exported_at": "2025-09-10T16:11:48.312378",
+      "continuous_session": true
+    },
+    {
+      "title": "Oracle stock gains 36% to post best day since 1992, adding $244 billion in value",
+      "link": "https://www.cnbc.com/2025/09/10/oracle-stock-cloud-backlog-ai.html",
+      "summary": "The cloud giant is on pace for its best day since 1992, and is now quickly approaching the $1 trillion market cap benchmark",
+      "published": "Wed, 10 Sep 2025 20:14:17 GMT",
+      "content": "The cloud giant is on pace for its best day since 1992, and is now quickly approaching the $1 trillion market cap benchmark",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "765f83a52d441861c79b07760afc1df4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ORACLE STOCK SOARS 40%, ON TRACK FOR BEST DAY SINCE 1992 🚀\n\n- Oracle's stock on pace for best performance since 1992 💪\n- Approaching the impressive $1 trillion market cap milestone 📈\n- Cloud giant's value surges, attracting investor interest 🔥\n\nTAKEAWAY: Oracle's remarkable 40% stock surge puts it on course for its best day in decades and nears the coveted $1 trillion market cap milestone, sparking investor excitement and interest.",
+      "exported_at": "2025-09-10T16:16:54.372704",
       "continuous_session": true
     }
   ]
