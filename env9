@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T08:01:55.899231",
-    "total_articles": 637,
-    "new_articles_in_last_fetch": 637,
+    "created_at": "2025-09-10T08:22:16.477492",
+    "total_articles": 638,
+    "new_articles_in_last_fetch": 638,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -8282,6 +8282,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: UBER TO LAUNCH BLADE HELICOPTER RIDES WITH JOBY PARTNERSHIP 🚀\n\n- Uber plans to introduce helicopter rides in partnership with Joby ✈️\n- Blade helicopter service set to take off in the near future 🚁\n- Joby partnership expands Uber's aerial transportation offerings 🌍\n\nTAKEAWAY: Uber's collaboration with Joby to launch Blade helicopter rides signals an exciting expansion in their aerial transportation services, promising a futuristic travel experience for customers.",
       "exported_at": "2025-09-10T08:01:55.855411",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: Oracle, GameStop, Novo Nordisk, Synopsys and more",
+      "link": "https://www.cnbc.com/2025/09/10/stocks-making-the-biggest-moves-premarket-orcl-gme-nvo.html",
+      "summary": "These are the stocks posting the largest moves in early trading.",
+      "published": "Wed, 10 Sep 2025 12:10:13 GMT",
+      "content": "These are the stocks posting the largest moves in early trading.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1097f14687f431ccb63902fd297b2afe",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS MAKING BIGGEST PREMARKET MOVES: ORACLE, GAMESTOP, NOVO NORDISK ⚡️\n\n- Oracle, GameStop, Novo Nordisk experience significant premarket shifts 📈\n- Early trading sees Synopsys and other companies making major moves 📊\n- Market enthusiasts watch closely for potential trends and opportunities 🧐\n\nTAKEAWAY: Keep an eye on Oracle, GameStop, Novo Nordisk, Synopsys, and other companies as they make significant premarket moves, paving the way for potential trading opportunities.",
+      "exported_at": "2025-09-10T08:22:16.428313",
       "continuous_session": true
     }
   ]
