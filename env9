@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T09:59:14.359976",
-    "total_articles": 653,
-    "new_articles_in_last_fetch": 653,
+    "created_at": "2025-09-10T10:04:36.023684",
+    "total_articles": 654,
+    "new_articles_in_last_fetch": 654,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -8490,6 +8490,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: UBER PARTNERS WITH FINTECH FIRM PIPE TO BOOST SMALL BUSINESSES 🚀\n\n- Uber collaborates with fintech firm Pipe for small business capital 💰\n- Embedded technology in Uber Eats Manager facilitates access to funds 📲\n- Partnership aims to empower small businesses through easy capital access ✅\n\nTAKEAWAY: Uber's collaboration with Pipe through embedded technology in Uber Eats Manager is set to revolutionize small business access to capital, empowering entrepreneurs for growth.",
       "exported_at": "2025-09-10T09:59:14.307645",
+      "continuous_session": true
+    },
+    {
+      "title": "5 takeaways from the producer price inflation report with another key reading on tap",
+      "link": "https://www.cnbc.com/2025/09/10/ppi-inflation-report-takeaways.html",
+      "summary": "The producer price index, a gauge of costs at the wholesale level in the U.S. economy, posted an unexpected 0.1% decline in August.",
+      "published": "Wed, 10 Sep 2025 13:57:39 GMT",
+      "content": "The producer price index, a gauge of costs at the wholesale level in the U.S. economy, posted an unexpected 0.1% decline in August.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2fd8c362a4a1796989d78a251c657de2",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 5 TAKEAWAYS FROM UNEXPECTED DROP IN US PRODUCER PRICE INDEX 📉\n\n- US producer price index unexpectedly falls by 0.1% in August\n- Gauge of wholesale costs in the US economy dips unexpectedly\n- Market awaits another key reading on producer prices\n- Unexpected decline raises concerns about inflation trends\n- PPI report indicates potential impact on consumer prices\n\nTAKEAWAY: The unexpected drop in the US Producer Price Index raises concerns about inflation trends and potential impact on consumer prices, as the market awaits further key readings.",
+      "exported_at": "2025-09-10T10:04:35.970899",
       "continuous_session": true
     }
   ]
