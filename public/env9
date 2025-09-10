@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T15:46:11.360804",
-    "total_articles": 692,
-    "new_articles_in_last_fetch": 692,
+    "created_at": "2025-09-10T15:51:21.980075",
+    "total_articles": 695,
+    "new_articles_in_last_fetch": 695,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -8996,6 +8996,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CASH YIELDS SET TO PLUMMET AS FED CUTS RATES 📉\n\n- Wall Street warns investors to shift out of excess cash quickly ⏳\n- Anticipated Federal Reserve rate cuts signal lower cash returns 💰\n- Urgency emphasized to find alternative investment opportunities 🌟\n\nTAKEAWAY: With Federal Reserve rate cuts expected, investors are advised to swiftly move out of excess cash to explore more lucrative investment options.",
       "exported_at": "2025-09-10T15:46:11.314275",
+      "continuous_session": true
+    },
+    {
+      "title": "Klarna surges 30% in NYSE debut after pricing IPO above range",
+      "link": "https://www.cnbc.com/2025/09/10/klarna-klar-stock-soars-after-us-ipo.html",
+      "summary": "Klarna priced its IPO at $40 on Tuesday in an offering that valued the company at about $15 billion.",
+      "published": "Wed, 10 Sep 2025 19:50:58 GMT",
+      "content": "Klarna priced its IPO at $40 on Tuesday in an offering that valued the company at about $15 billion.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d4e0f588bee765266cc145ad014ac99b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: KLARNA MAKES DEBUT ON NYSE AT $52/SHARE 🚀\n\n- Klarna IPO priced above range at $40/share 💰\n- Valued at about $15 billion 📈\n- Opens on NYSE at $52/share 📈\n- Strong investor interest evident 💪\n- Successful IPO showcases market confidence ✅\n- Klarna's debut signals market optimism 🌟\n\nTAKEAWAY: Klarna's strong IPO pricing and impressive debut on the NYSE highlight investor confidence and market optimism in the company's future growth.",
+      "exported_at": "2025-09-10T15:51:21.930740",
+      "continuous_session": true
+    },
+    {
+      "title": "Oracle CEO, one of the world’s richest self-made women, just got $412 million richer in 6 hours",
+      "link": "https://www.cnbc.com/2025/09/10/oracle-ceo-safra-catz-made-nearly-half-billion-dollars-less-than-day.html",
+      "summary": "Safra Catz, Oracle's sole CEO since 2019, saw her estimated net worth climb to $3.4 billion as markets reacted to the software giant's quarterly earnings report.",
+      "published": "Wed, 10 Sep 2025 19:20:25 GMT",
+      "content": "Safra Catz, Oracle's sole CEO since 2019, saw her estimated net worth climb to $3.4 billion as markets reacted to the software giant's quarterly earnings report.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c27d1e0d918d98b0bf856df82bb889e3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ORACLE CEO CATZ'S WEALTH SOARS $412M IN 6 HRS 🚀\n\n- Safra Catz, Oracle's CEO since 2019, gains $412M 💰\n- Catz's net worth now estimated at $3.4B 📈\n- Surge linked to Oracle's strong quarterly earnings 💪\n\nTAKEAWAY: Oracle CEO Safra Catz's wealth skyrockets by $412 million in just 6 hours, hitting an estimated net worth of $3.4 billion due to the company's robust quarterly earnings.",
+      "exported_at": "2025-09-10T15:51:21.930874",
+      "continuous_session": true
+    },
+    {
+      "title": "Air India CEO says carrier embracing &apos;new normal&apos; of safety focus after deadly crash",
+      "link": "https://www.cnbc.com/2025/09/10/air-india-ceo-deadly-crash.html",
+      "summary": "The crash occurred just as Air India was in the middle of modernizing its fleets with new seats and amenities as it seeks to compete with larger airlines.",
+      "published": "Wed, 10 Sep 2025 19:07:27 GMT",
+      "content": "The crash occurred just as Air India was in the middle of modernizing its fleets with new seats and amenities as it seeks to compete with larger airlines.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8d3ac7b3b1ee42db6073879b44e901a0",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AIR INDIA EMBRACES SAFETY FOCUS AFTER DEADLY CRASH 🚀\n\n- Air India CEO emphasizes safety in the wake of recent crash ✈️🔒\n- Carrier upgrading fleets with new seats and amenities 🛫💺\n- Focus on modernization to compete with larger airlines 💪🌟\n\nTAKEAWAY: Air India shifts focus to safety and modernization post-crash to enhance competitiveness in the airline industry.",
+      "exported_at": "2025-09-10T15:51:21.930890",
       "continuous_session": true
     }
   ]
