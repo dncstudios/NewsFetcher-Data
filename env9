@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T03:42:26.444978",
-    "total_articles": 625,
-    "new_articles_in_last_fetch": 625,
+    "created_at": "2025-09-10T03:47:34.945586",
+    "total_articles": 626,
+    "new_articles_in_last_fetch": 626,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -8126,6 +8126,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: INDITEX SOARS 7% ON STRONG SALES GROWTH 🚀\n\n- Inditex leads Stoxx 600 index with 7% surge 📈\n- Investors pleased with \"meaningful acceleration\" in sales 💰\n- Regional stocks see broad uptrend on Wednesday 📈\n\nTAKEAWAY: Inditex's impressive 7% surge reflects investor confidence in the company's significant sales growth acceleration, driving positive momentum in regional stocks.",
       "exported_at": "2025-09-10T03:42:26.401497",
+      "continuous_session": true
+    },
+    {
+      "title": "Poland shoots down Russian drones as Ukraine warns Putin is ‘testing the West’",
+      "link": "https://www.cnbc.com/2025/09/10/poland-shoots-down-russian-drones-ukraine-says-putin-testing-the-west.html",
+      "summary": "The incident marks the first time the NATO member has directly engaged Russian assets in its airspace since Russia’s full-scale invasion of Ukraine.",
+      "published": "Wed, 10 Sep 2025 07:46:44 GMT",
+      "content": "The incident marks the first time the NATO member has directly engaged Russian assets in its airspace since Russia’s full-scale invasion of Ukraine.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1418b443218e85d3ded888fa29ebd1da",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: POLAND ENGAGES IN DRONE BATTLE WITH RUSSIA AMID UKRAINE WARNINGS 🚨\n\n- Poland shoots down Russian drones in airspace clash 🛸🚫\n- First direct engagement with Russian assets after Ukraine invasion 🇺🇦\n- Tensions rise as NATO member takes action against Russia 📈🔥\n\nTAKEAWAY: Poland's interception of Russian drones amid Ukraine's warning of Putin's testing signifies escalating tensions and NATO's assertive stance.",
+      "exported_at": "2025-09-10T03:47:34.893116",
       "continuous_session": true
     }
   ]
