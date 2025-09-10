@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T17:12:58.745200",
-    "total_articles": 708,
-    "new_articles_in_last_fetch": 708,
+    "created_at": "2025-09-10T17:23:10.784321",
+    "total_articles": 709,
+    "new_articles_in_last_fetch": 709,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -9204,6 +9204,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CONSERVATIVE ACTIVIST CHARLIE KIRK SHOT IN UTAH VALLEY UNIVERSITY 🚨\n\n- President Trump calls for prayers after Charlie Kirk's shooting 🙏\n- Incident occurs at Utah Valley University 🏫\n- Details of the shooting not disclosed yet 🕵️‍♂️\n\nTAKEAWAY: Conservative activist Charlie Kirk's shooting at Utah Valley University prompts prayers from President Trump, with details still undisclosed.",
       "exported_at": "2025-09-10T17:12:58.690416",
+      "continuous_session": true
+    },
+    {
+      "title": "Watch CNBC&apos;s full interview with Goldman Sachs&apos; CEO David Solomon",
+      "link": "https://www.cnbc.com/video/2025/09/10/watch-cnbcs-full-interview-with-goldman-sachs-ceo-david-solomon.html",
+      "summary": "Goldman Sachs Chairman and CEO David Solomon joins 'Closing Bell Overtime' to talk the state of AI, the state of the U.S. economy, and more.",
+      "published": "Wed, 10 Sep 2025 21:12:58 GMT",
+      "content": "Goldman Sachs Chairman and CEO David Solomon joins 'Closing Bell Overtime' to talk the state of AI, the state of the U.S. economy, and more.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5de3441c1d6e6eaa2b344f2f754c3bbe",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GOLDMAN SACHS CEO SOLOMON DISCUSSES AI AND ECONOMY 🚀\n\n- CEO Solomon shares insights on AI and U.S. economy 💡\n- Interview covers the current state of Artificial Intelligence 🤖\n- Discussion on the economic landscape of the United States 🏛️\n\nTAKEAWAY: Dive into the world of AI and the U.S. economy with Goldman Sachs CEO David Solomon's illuminating interview on CNBC's 'Closing Bell Overtime.'",
+      "exported_at": "2025-09-10T17:23:10.741573",
       "continuous_session": true
     }
   ]
