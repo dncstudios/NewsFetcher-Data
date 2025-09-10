@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T16:16:54.432426",
-    "total_articles": 700,
-    "new_articles_in_last_fetch": 700,
+    "created_at": "2025-09-10T16:32:08.429708",
+    "total_articles": 702,
+    "new_articles_in_last_fetch": 702,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -9100,6 +9100,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ORACLE STOCK SOARS 40%, ON TRACK FOR BEST DAY SINCE 1992 🚀\n\n- Oracle's stock on pace for best performance since 1992 💪\n- Approaching the impressive $1 trillion market cap milestone 📈\n- Cloud giant's value surges, attracting investor interest 🔥\n\nTAKEAWAY: Oracle's remarkable 40% stock surge puts it on course for its best day in decades and nears the coveted $1 trillion market cap milestone, sparking investor excitement and interest.",
       "exported_at": "2025-09-10T16:16:54.372704",
+      "continuous_session": true
+    },
+    {
+      "title": "S&amp;P 500 closes at record for second day on inflation data, Oracle stock surge",
+      "link": "https://www.cnbc.com/2025/09/09/stock-market-today-live-updates.html",
+      "summary": "The major averages closed at new record highs on Tuesday.",
+      "published": "Wed, 10 Sep 2025 20:29:53 GMT",
+      "content": "The major averages closed at new record highs on Tuesday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "18cbf1d3e428d106ae59754329778f7b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: S&P 500 FUTURES EDGE UP AHEAD OF INFLATION DATA 🚀\n\n- S&P 500 futures show slight increase before inflation data release\n- Oracle's AI trade sparks interest in the market\n- Major averages hit new record highs recently\n\nTAKEAWAY: S&P 500 futures show a promising start before the inflation data, fueled by Oracle's AI trade, while major averages reach new record highs.",
+      "exported_at": "2025-09-10T16:32:08.375880",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump ally Charlie Kirk shot at Utah Valley University, suspect still at large",
+      "link": "https://www.cnbc.com/2025/09/10/charlie-kirk-uvu-shooting-utah.html",
+      "summary": "\"We must all pray for Charlie Kirk, who has been shot,\" President Donald Trump wrote in a social media post. \"GOD BLESS HIM!\"",
+      "published": "Wed, 10 Sep 2025 20:31:29 GMT",
+      "content": "\"We must all pray for Charlie Kirk, who has been shot,\" President Donald Trump wrote in a social media post. \"GOD BLESS HIM!\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1bfa1c363abf11a967734da21345f0bf",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP ALLY CHARLIE KIRK SHOT AT UTAH COLLEGE EVENT 🚨\n\n- President Trump requests prayers for Charlie Kirk 🙏\n- Shocking incident at a Utah college event 🔫\n- Trump sends blessings to Kirk for his recovery ✨\n\nTAKEAWAY: President Trump's call for prayers and blessings for Charlie Kirk after the shocking shooting incident at a Utah college event.",
+      "exported_at": "2025-09-10T16:32:08.375938",
       "continuous_session": true
     }
   ]
