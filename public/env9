@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T11:21:08.596326",
-    "total_articles": 666,
-    "new_articles_in_last_fetch": 666,
+    "created_at": "2025-09-10T11:56:41.032031",
+    "total_articles": 667,
+    "new_articles_in_last_fetch": 667,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -8658,6 +8658,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CASEY'S GENERAL STORES: AMERICA'S PIZZA EMPIRE 🍕🚀\n\n- Casey's General Stores grows to be one of the largest pizza chains in the U.S.\n- Dominance achieved through a focus on small-town markets 🏘️\n- Strategy involves offering convenience and quality pizza 🍕✅\n- Success attributed to understanding and meeting customer needs 🎯\n- Expansion driven by a unique market positioning approach 🌐\n- Casey's growth showcases the power of strategic planning 💡\n\nTAKEAWAY: Casey's General Stores' rise to become a leading pizza chain in America highlights the importance of strategic planning, customer-centric focus, and market positioning in achieving business success.",
       "exported_at": "2025-09-10T11:21:08.542771",
+      "continuous_session": true
+    },
+    {
+      "title": "As Chinese imports drop, peak season freight trade bound for U.S. slows to a crawl",
+      "link": "https://www.cnbc.com/2025/09/10/china-exports-imports-trade-war-freight-shipping.html",
+      "summary": "Chinese exports to the U.S. have flatlined during a period of the year when the trade would normally be peaking ahead of holiday season.",
+      "published": "Wed, 10 Sep 2025 15:55:45 GMT",
+      "content": "Chinese exports to the U.S. have flatlined during a period of the year when the trade would normally be peaking ahead of holiday season.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d445c309f00f014459afce69694d3daa",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PEAK SEASON FREIGHT TRADE TO U.S. STALLS AS CHINESE IMPORTS PLUMMET 🚨\n\n- Chinese exports to U.S. stagnant during crucial pre-holiday period 🎁\n- Peak season trade typically surges, but now slowed to a crawl 🐢\n- Significant drop in Chinese imports impacting global supply chains 🌍\n- Uncertainty looms as trade between China and U.S. remains stagnant ⚠️\n\nTAKEAWAY: The slowdown in Chinese imports to the U.S. during the peak season is causing a ripple effect across global supply chains, raising concerns and uncertainties in trade markets.",
+      "exported_at": "2025-09-10T11:56:40.999898",
       "continuous_session": true
     }
   ]
