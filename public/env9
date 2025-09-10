@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T21:16:40.919217",
-    "total_articles": 598,
-    "new_articles_in_last_fetch": 598,
+    "created_at": "2025-09-09T21:36:58.403123",
+    "total_articles": 599,
+    "new_articles_in_last_fetch": 599,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -7776,6 +7776,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SOUTH KOREAN WORKERS DETAINED IN U.S. SET TO DEPART WEDNESDAY 🚀\n\n- Detained South Korean workers leaving U.S. after immigration raid ✈️\n- Departure scheduled for 1430 local time on Wednesday 🕒\n- Workers detained in Georgia to depart from the U.S. 🇺🇸\n- Yonhap reports on the upcoming departure of the workers 📰\n\nTAKEAWAY: South Korean workers detained in the U.S. following an immigration raid are set to depart on Wednesday, according to Yonhap reports.",
       "exported_at": "2025-09-09T21:16:40.872273",
+      "continuous_session": true
+    },
+    {
+      "title": "Record share of U.S. businesses divert China investments. Top choice: Southeast Asia",
+      "link": "https://www.cnbc.com/2025/09/10/record-share-of-us-businesses-divert-china-investments-amcham-shanghai-.html",
+      "summary": "Southeast Asia remained the most popular destination for redirected investments, followed by the Indian subcontinent.",
+      "published": "Wed, 10 Sep 2025 01:32:39 GMT",
+      "content": "Southeast Asia remained the most popular destination for redirected investments, followed by the Indian subcontinent.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b5ec01371760f37f4aacf5fbb9497492",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: RECORD US BUSINESSES SHIFT INVESTMENTS FROM CHINA TO SOUTHEAST ASIA 🚀\n\n- U.S. companies increasingly divert investments away from China 📈\n- Southeast Asia emerges as top choice for redirected funds 💰\n- Indian subcontinent follows Southeast Asia in investment popularity 🌏\n\nTAKEAWAY: U.S. businesses are breaking records by shifting investments from China to Southeast Asia, showcasing a strategic move towards new growth opportunities in the region.",
+      "exported_at": "2025-09-09T21:36:58.358202",
       "continuous_session": true
     }
   ]
