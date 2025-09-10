@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T16:37:16.760804",
-    "total_articles": 703,
-    "new_articles_in_last_fetch": 703,
+    "created_at": "2025-09-10T16:42:24.872575",
+    "total_articles": 704,
+    "new_articles_in_last_fetch": 704,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -9139,6 +9139,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: S&P 500 HITS RECORD HIGH ON INFLATION DATA 🚀\n\n- S&P 500 closes at record high for second consecutive day 📈\n- Unexpected decline in wholesale prices boosts investor confidence 📉\n- Hopes rise for Federal Reserve rate cut next week ✅\n- Oracle stock surges amidst positive market sentiment 🚀\n\nTAKEAWAY: The S&P 500 reaches a new record high fueled by optimism from unexpected inflation data and potential Federal Reserve rate cuts, with Oracle's stock also soaring.",
       "exported_at": "2025-09-10T16:37:16.708489",
+      "continuous_session": true
+    },
+    {
+      "title": "Secret Service missed gun during search at Trump&apos;s golf club while president was there in August",
+      "link": "https://www.cnbc.com/2025/09/10/trump-golf-gun-secret-service.html",
+      "summary": "The incident occurred about a year after two assassination attempts on Trump, including one while he was playing at his golf club in West Palm Beach, Florida, in August",
+      "published": "Wed, 10 Sep 2025 20:32:58 GMT",
+      "content": "The incident occurred about a year after two assassination attempts on Trump, including one while he was playing at his golf club in West Palm Beach, Florida, in August",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1f4c410bc4a65c45a4c74c61c711bceb",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SECRET SERVICE FAILS TO DETECT GUN AT TRUMP'S GOLF CLUB DURING VISIT 🚨\n\n- Gun unnoticed during search at Trump's golf club 🤯\n- Incident follows two assassination attempts on Trump 🎯\n- Occurred while President was at the club in August 🔍\n\nTAKEAWAY: The Secret Service's failure to detect a gun at Trump's golf club raises concerns about security breaches during high-profile visits.",
+      "exported_at": "2025-09-10T16:42:24.817536",
       "continuous_session": true
     }
   ]
