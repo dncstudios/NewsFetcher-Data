@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T14:14:28.855993",
-    "total_articles": 683,
-    "new_articles_in_last_fetch": 683,
+    "created_at": "2025-09-10T15:00:07.142830",
+    "total_articles": 684,
+    "new_articles_in_last_fetch": 684,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -8879,6 +8879,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: U.S. COURT UPHOLDS VERIZON'S $46.9 MILLION FINE ⚠️\n\n- Verizon fined $46.9 million for unauthorized location data sharing 📍💸\n- Federal appeals court confirms the penalty against the wireless carrier 🏛️\n- Customers' location info accessed without proper consent 📱🛑\n\nTAKEAWAY: Verizon faces the consequences as a federal court upholds a hefty $46.9 million fine for unlawfully sharing customers' location data.",
       "exported_at": "2025-09-10T14:14:28.804109",
+      "continuous_session": true
+    },
+    {
+      "title": "Oracle stock booms 35%, on pace for best day since 1992",
+      "link": "https://www.cnbc.com/2025/09/10/oracle-stock-cloud-backlog-ai.html",
+      "summary": "The cloud giant is on pace for its best day since 1992, and is now quickly approaching the $1 trillion market cap benchmark",
+      "published": "Wed, 10 Sep 2025 18:58:46 GMT",
+      "content": "The cloud giant is on pace for its best day since 1992, and is now quickly approaching the $1 trillion market cap benchmark",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d5ccdccceeb0532d0441f64a17cbd85a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ORACLE STOCK SOARS 40%, ON TRACK FOR BEST DAY SINCE 1992 🚀\n\n- Oracle's stock on pace for best performance since 1992 💪\n- Approaching the impressive $1 trillion market cap milestone 📈\n- Cloud giant's value surges, attracting investor interest 🔥\n\nTAKEAWAY: Oracle's remarkable 40% stock surge puts it on course for its best day in decades and nears the coveted $1 trillion market cap milestone, sparking investor excitement and interest.",
+      "exported_at": "2025-09-10T15:00:07.090530",
       "continuous_session": true
     }
   ]
