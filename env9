@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T22:22:45.010364",
-    "total_articles": 603,
-    "new_articles_in_last_fetch": 603,
+    "created_at": "2025-09-09T22:27:52.371992",
+    "total_articles": 605,
+    "new_articles_in_last_fetch": 605,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -7841,6 +7841,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CHINA'S CONSUMER PRICES PLUNGE IN AUGUST 📉\n\n- Consumer prices in China drop more than forecasted 📉\n- Factory-gate prices still in deflation territory 🛠️\n- Calls increase for Beijing to boost stimulus measures 📈\n\nTAKEAWAY: China faces challenges as consumer prices dip and factory-gate prices remain in deflation, prompting calls for increased stimulus measures to spur economic growth.",
       "exported_at": "2025-09-09T22:22:44.957856",
+      "continuous_session": true
+    },
+    {
+      "title": "Judge blocks Trump from firing Fed Governor Lisa Cook while her lawsuit plays out",
+      "link": "https://www.cnbc.com/2025/09/09/fed-lisa-cook-trump-powell-judge-jia-cobb-pulte.html",
+      "summary": "The Supreme Court is likely to have the final say on whether President Donald Trump had legal cause to remove Lisa Cook from the Federal Reserve.",
+      "published": "Wed, 10 Sep 2025 02:23:10 GMT",
+      "content": "The Supreme Court is likely to have the final say on whether President Donald Trump had legal cause to remove Lisa Cook from the Federal Reserve.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0651379da9c6afc23e825c660f83c981",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JUDGE HALTS TRUMP'S MOVE TO FIRE FED GOVERNOR LISA COOK ⚠️\n\n- Judge's ruling prevents Trump from dismissing Lisa Cook 🛑\n- Supreme Court to decide if Trump had legal grounds 🏛️\n- Lisa Cook's position at the Federal Reserve remains protected ✅\n\nTAKEAWAY: Legal battle ensues as judge blocks Trump's attempt to remove Lisa Cook from the Federal Reserve, with the Supreme Court set to make the final decision.",
+      "exported_at": "2025-09-09T22:27:52.347398",
+      "continuous_session": true
+    },
+    {
+      "title": "Poland closes key airports following Russian strikes on western Ukraine, U.S. aviation body says",
+      "link": "https://www.cnbc.com/2025/09/10/poland-closes-key-airports-following-russian-strikes-on-western-ukraine-us-aviation-body-says.html",
+      "summary": "Poland closed four airports including its main Chopin Airport in Warsaw on Wednesday, according to the U.S. Federal Aviation Administration.",
+      "published": "Wed, 10 Sep 2025 02:19:53 GMT",
+      "content": "Poland closed four airports including its main Chopin Airport in Warsaw on Wednesday, according to the U.S. Federal Aviation Administration.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5ce442e1a959d4a9aafbcf6de94346b1",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: POLAND SHUTS KEY AIRPORTS AFTER RUSSIAN STRIKES 🚨\n\n- Poland closes 4 airports, including Chopin Airport in Warsaw ✈️\n- U.S. Federal Aviation Administration confirms closure 🇺🇸\n- Move comes after Russian attacks on western Ukraine 🇷🇺🇺🇦\n\nTAKEAWAY: Poland's closure of key airports in response to Russian strikes on western Ukraine highlights the escalating tensions in the region.",
+      "exported_at": "2025-09-09T22:27:52.347428",
       "continuous_session": true
     }
   ]
