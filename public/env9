@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T08:37:37.145412",
-    "total_articles": 642,
-    "new_articles_in_last_fetch": 642,
+    "created_at": "2025-09-10T08:47:51.892748",
+    "total_articles": 644,
+    "new_articles_in_last_fetch": 644,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -8347,6 +8347,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: 'INCREASED CONFIDENCE IN GROWTH' FOR APPLE'S IPHONE 17 LINEUP 🚀\n\n- Analysts foresee Apple as a stronger growth story 📈\n- Optimism despite minor iPhone price increases 📱\n- Market expected more significant price hikes \n- Apple's iPhone 17 lineup release sparks confidence \n- Analysts applaud Apple's growth potential \n\nTAKEAWAY: Analysts express increased confidence in Apple's growth trajectory with the release of the iPhone 17 lineup, despite minor price adjustments.",
       "exported_at": "2025-09-10T08:37:37.092251",
+      "continuous_session": true
+    },
+    {
+      "title": "ESPN inks deal with EverPass Media to bring ESPN+ to bars, restaurants",
+      "link": "https://www.cnbc.com/2025/09/10/espn-everpass-media-streaming-bars-restaurants-.html",
+      "summary": "EverPass Media, the joint venture backed by RedBird, the NFL and TKO, reached a deal to stream ESPN+ content to commercial businesses like bars and restaurants.",
+      "published": "Wed, 10 Sep 2025 12:30:01 GMT",
+      "content": "EverPass Media, the joint venture backed by RedBird, the NFL and TKO, reached a deal to stream ESPN+ content to commercial businesses like bars and restaurants.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "aa84a00fab4f44bb02f19af315c2daf6",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ESPN+ COMING TO BARS & RESTAURANTS WITH EVERPASS MEDIA DEAL 🚀\n\n- EverPass Media partners with RedBird, NFL, and TKO for ESPN+ streaming 🤝\n- Commercial businesses to access ESPN+ content in bars and restaurants 🍻🏪\n- Deal expands ESPN+ reach beyond individual subscriptions ✨\n- RedBird, NFL, and TKO backing ensures strong support for the venture 💪\n- Joint venture aims to enhance entertainment options for patrons 📺🍔\n- ESPN+ content to attract sports fans to commercial establishments 🏈🍻\n\nTAKEAWAY: EverPass Media's deal with ESPN opens up new opportunities for bars and restaurants to offer premium sports content, enhancing the customer experience and increasing foot traffic.",
+      "exported_at": "2025-09-10T08:47:51.838740",
+      "continuous_session": true
+    },
+    {
+      "title": "Meta, TikTok win challenge against EU tech fees, forcing regulators to recalculate",
+      "link": "https://www.cnbc.com/2025/09/10/meta-tiktok-win-challenge-against-eu-tech-fees.html",
+      "summary": "Meta Platforms and TikTok won a legal challenge to the way EU regulators calculated a supervisory fee imposed on them under landmark tech rules.",
+      "published": "Wed, 10 Sep 2025 12:22:08 GMT",
+      "content": "Meta Platforms and TikTok won a legal challenge to the way EU regulators calculated a supervisory fee imposed on them under landmark tech rules.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4c10e72d9179c6e03a903c6aa3f185e0",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: META & TIKTOK TRIUMPH: EU REGULATORS RECALCULATING FEES 🚀\n\n- Meta and TikTok succeed in legal challenge against EU regulators 🏆\n- EU forced to reassess supervisory fee calculation under tech rules ✅\n- Landmark victory shifts regulatory landscape for tech giants 🌐\n\nTAKEAWAY: Meta and TikTok's legal win against EU regulators forces a recalculation of fees, marking a significant shift in the tech industry's regulatory environment.",
+      "exported_at": "2025-09-10T08:47:51.838818",
       "continuous_session": true
     }
   ]
