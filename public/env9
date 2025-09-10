@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T13:43:49.379014",
-    "total_articles": 679,
-    "new_articles_in_last_fetch": 679,
+    "created_at": "2025-09-10T13:48:59.702570",
+    "total_articles": 681,
+    "new_articles_in_last_fetch": 681,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -8827,6 +8827,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: VOLATILE TESLA PRIMED FOR ANOTHER BREAKOUT 🚀\n\n- Tesla's stock known to surge with buy-side momentum ⚡️\n- Anticipation of demand resurgence fuels breakout speculation 🔥\n- Charts suggest Tesla on the verge of another significant move 📈\n\nTAKEAWAY: Tesla's volatile nature and historical patterns indicate a potential breakout as buy-side momentum and demand anticipation rise, making it a stock to watch closely.",
       "exported_at": "2025-09-10T13:43:49.334369",
+      "continuous_session": true
+    },
+    {
+      "title": "Broadcom is a big Oracle derivative play as investors get keen on next phase of AI",
+      "link": "https://www.cnbc.com/2025/09/10/broadcom-is-a-big-oracle-derivative-play-as-investors-get-keen-on-next-phase-of-ai.html",
+      "summary": "Oracle's knockout forecasts reassured investors about longer-term returns tied to the \"inference\" phase, which could directly benefit one specialized chipmaker.",
+      "published": "Wed, 10 Sep 2025 17:40:37 GMT",
+      "content": "Oracle's knockout forecasts reassured investors about longer-term returns tied to the \"inference\" phase, which could directly benefit one specialized chipmaker.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1c002bb87289d34881f9005a790bbced",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BROADCOM: THE DERIVATIVE PLAY ON ORACLE'S AI PHASE 🚀\n\n- Oracle's strong forecasts boost investor confidence 📈\n- Focus on \"inference\" phase sparks interest in chipmaker 🧠\n- Broadcom positioned to benefit from AI growth 🌱\n\nTAKEAWAY: Broadcom emerges as a strategic investment choice as Oracle's AI phase gains momentum, promising long-term returns for investors.",
+      "exported_at": "2025-09-10T13:48:59.662753",
+      "continuous_session": true
+    },
+    {
+      "title": "James Moloney named director of SEC&apos;s corporation finance division",
+      "link": "https://www.cnbc.com/2025/09/10/james-moloney-named-director-of-secs-corporation-finance-division.html",
+      "summary": "James Moloney has been tapped to lead the U.S. Securities and Exchange Commission's corporation finance division.",
+      "published": "Wed, 10 Sep 2025 17:43:09 GMT",
+      "content": "James Moloney has been tapped to lead the U.S. Securities and Exchange Commission's corporation finance division.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "bb2842c36adb4ed0dae691449482c82f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JAMES MOLONEY LEADS SEC’S CORPORATION FINANCE DIVISION 🚀\n\n- James Moloney appointed to head SEC's corporation finance division\n- Moloney to oversee regulatory matters in capital markets\n- Moloney brings extensive experience to his new role\n- SEC aims to enhance oversight of public companies\n\nTAKEAWAY: James Moloney's appointment as head of SEC's corporation finance division signals a focus on strengthening regulatory oversight in capital markets.",
+      "exported_at": "2025-09-10T13:48:59.662830",
       "continuous_session": true
     }
   ]
