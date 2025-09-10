@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T22:17:37.465669",
-    "total_articles": 602,
-    "new_articles_in_last_fetch": 602,
+    "created_at": "2025-09-09T22:22:45.010364",
+    "total_articles": 603,
+    "new_articles_in_last_fetch": 603,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -7828,6 +7828,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JUDGE HALTS TRUMP'S MOVE TO FIRE FED GOVERNOR LISA COOK ⚠️\n\n- Judge's ruling prevents Trump from dismissing Lisa Cook 🛑\n- Supreme Court to decide if Trump had legal grounds 🏛️\n- Lisa Cook's position at the Federal Reserve remains protected ✅\n\nTAKEAWAY: Legal battle ensues as judge blocks Trump's attempt to remove Lisa Cook from the Federal Reserve, with the Supreme Court set to make the final decision.",
       "exported_at": "2025-09-09T22:17:37.414727",
+      "continuous_session": true
+    },
+    {
+      "title": "China&apos;s consumer prices fall more than expected in August as deflation woes persist",
+      "link": "https://www.cnbc.com/2025/09/10/china-cpi-august-deflation-.html",
+      "summary": "China's consumer prices fell more than expected in August while deflation in factory-gate prices persisted, as calls mounted for Beijing to ramp up stimulus measures.",
+      "published": "Wed, 10 Sep 2025 02:20:23 GMT",
+      "content": "China's consumer prices fell more than expected in August while deflation in factory-gate prices persisted, as calls mounted for Beijing to ramp up stimulus measures.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f880b69ca599f3725b2317f3f412b8b0",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CHINA'S CONSUMER PRICES PLUNGE IN AUGUST 📉\n\n- Consumer prices in China drop more than forecasted 📉\n- Factory-gate prices still in deflation territory 🛠️\n- Calls increase for Beijing to boost stimulus measures 📈\n\nTAKEAWAY: China faces challenges as consumer prices dip and factory-gate prices remain in deflation, prompting calls for increased stimulus measures to spur economic growth.",
+      "exported_at": "2025-09-09T22:22:44.957856",
       "continuous_session": true
     }
   ]
