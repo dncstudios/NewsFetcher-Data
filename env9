@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T12:57:57.331974",
-    "total_articles": 676,
-    "new_articles_in_last_fetch": 676,
+    "created_at": "2025-09-10T13:08:10.012197",
+    "total_articles": 677,
+    "new_articles_in_last_fetch": 677,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -8788,6 +8788,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCKS MAKING BIG MOVES MIDDAY: UNITEDHEALTH, KINGSOFT CLOUD, BRIGHTHOUSE FINANCIAL 🚀\n\n- UnitedHealth, Kingsoft Cloud, Brighthouse Financial show significant midday movements\n- Investors closely monitoring these stock fluctuations for potential opportunities 📈\n- Market dynamics shifting rapidly for these companies\n\nTAKEAWAY: UnitedHealth, Kingsoft Cloud, and Brighthouse Financial are experiencing notable midday stock movements, attracting investors seeking potential opportunities amidst rapidly changing market conditions.",
       "exported_at": "2025-09-10T12:57:57.276900",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump appeals order blocking him from firing Fed Governor Lisa Cook",
+      "link": "https://www.cnbc.com/2025/09/10/trump-appeals-fed-lisa-cook.html",
+      "summary": "The Supreme Court is expected to make the final decision on the question of whether President Trump has legal cause to remove Cook from the Federal Reserve.",
+      "published": "Wed, 10 Sep 2025 16:46:57 GMT",
+      "content": "The Supreme Court is expected to make the final decision on the question of whether President Trump has legal cause to remove Cook from the Federal Reserve.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0cdb9452c079fec5b54a20b5591b99f4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP FIGHTS TO FIRE FED GOVERNOR LISA COOK ⚠️\n\n- Trump challenges order preventing him from removing Cook 🏛️\n- Supreme Court set to decide if Trump has legal grounds 🏢\n- Battle intensifies over Cook's position at the Federal Reserve 🔥\n\nTAKEAWAY: Trump's legal battle to remove Fed Governor Lisa Cook escalates as the Supreme Court's decision looms large, raising uncertainty in financial markets.",
+      "exported_at": "2025-09-10T13:08:09.955546",
       "continuous_session": true
     }
   ]
