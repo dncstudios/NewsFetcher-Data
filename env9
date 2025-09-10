@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T20:00:14.850967",
-    "total_articles": 588,
-    "new_articles_in_last_fetch": 588,
+    "created_at": "2025-09-09T20:15:29.455751",
+    "total_articles": 589,
+    "new_articles_in_last_fetch": 589,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -7646,6 +7646,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: APPLE RAISES IPHONE PRO PRICE IN U.S. FOR FIRST TIME SINCE 2017 📈\n\n- iPhone 17 Pro now starts at $1,099 in the U.S. 📈\n- Price increase of $100 compared to last year's iPhone 16 Pro 💰\n- First price hike for iPhone Pro since 2017 🚀\n\nTAKEAWAY: Apple breaks the trend by raising the starting price of the iPhone Pro in the U.S. for the first time in four years, signaling a shift in pricing strategy.",
       "exported_at": "2025-09-09T20:00:14.815294",
+      "continuous_session": true
+    },
+    {
+      "title": "Asia markets set to open mostly higher ahead of key China inflation data",
+      "link": "https://www.cnbc.com/2025/09/10/asia-markets-china-inflation-data-south-korea-unemployment.html",
+      "summary": "Investors are awaiting for key August inflation data from China, which is expected to be released later in the day.",
+      "published": "Tue, 09 Sep 2025 23:58:45 GMT",
+      "content": "Investors are awaiting for key August inflation data from China, which is expected to be released later in the day.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e762f3f3329118e3f351703a2ae7ecda",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASIA MARKETS BRACE FOR GROWTH AHEAD OF CHINA INFLATION DATA 🚀\n\n- Investors eagerly await August inflation data from China 📊\n- Market sentiment positive, expecting mostly higher openings 🌟\n- China's inflation figures crucial for market direction 📈\n- Anticipation builds as investors eye key economic indicators 🔍\n\nTAKEAWAY: Asia markets poised for growth as investors eagerly anticipate China's crucial August inflation data, setting a positive tone for the day.",
+      "exported_at": "2025-09-09T20:15:29.420737",
       "continuous_session": true
     }
   ]
