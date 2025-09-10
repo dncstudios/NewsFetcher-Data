@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T09:49:00.445665",
-    "total_articles": 651,
-    "new_articles_in_last_fetch": 651,
+    "created_at": "2025-09-10T09:59:14.359976",
+    "total_articles": 653,
+    "new_articles_in_last_fetch": 653,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -8464,6 +8464,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP'S FED NOMINEE STEPHEN MIRAN FACES SENATE BANKING COMMITTEE VOTE 🚀\n\n- Miran nominated by Trump to replace former Fed governor Kugler\n- Senate Banking Committee set to vote on Miran's nomination\n- Kugler's resignation left a vacant seat in the Federal Reserve 🏦\n- Miran faces scrutiny and evaluation from the committee\n- Trump's choice of Miran raises interest in the financial sector\n- Market watches closely for the outcome of the Senate vote\n\nTAKEAWAY: Stephen Miran's nomination for the Federal Reserve board by Trump sparks interest and anticipation in the financial sector as the Senate Banking Committee prepares to vote on his appointment.",
       "exported_at": "2025-09-10T09:49:00.392092",
+      "continuous_session": true
+    },
+    {
+      "title": "Oracle stock booms 40%, on pace for best day since 1992",
+      "link": "https://www.cnbc.com/2025/09/10/oracle-stock-cloud-backlog-ai.html",
+      "summary": "The cloud giant is on pace for its best day since 1999, and is now quickly approaching the $1 trillion market cap benchmark",
+      "published": "Wed, 10 Sep 2025 13:50:24 GMT",
+      "content": "The cloud giant is on pace for its best day since 1999, and is now quickly approaching the $1 trillion market cap benchmark",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e4a303f6496803501016a9bfdc534cc1",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ORACLE STOCK SOARS 40%, ON TRACK FOR BEST DAY SINCE 1992 🚀\n\n- Oracle's stock surges 40%, set for best day since 1992\n- Company on track for its strongest performance since 1999\n- Approaching the $1 trillion market cap milestone rapidly\n\nTAKEAWAY: Oracle's remarkable 40% stock surge positions it for the best day since 1992, edging closer to the coveted $1 trillion market cap mark.",
+      "exported_at": "2025-09-10T09:59:14.307577",
+      "continuous_session": true
+    },
+    {
+      "title": "Uber partners with fintech firm Pipe to offer capital to small businesses",
+      "link": "https://www.cnbc.com/2025/09/10/uber-eats-pipe-loans-restaurants.html",
+      "summary": "Uber is partnering with fintech firm Pipe to incorporate embedded technology in the Uber Eats Manager for small businesses to access capital.",
+      "published": "Wed, 10 Sep 2025 13:55:07 GMT",
+      "content": "Uber is partnering with fintech firm Pipe to incorporate embedded technology in the Uber Eats Manager for small businesses to access capital.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7e608f78e4c3766f2662124b0b8467a9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: UBER PARTNERS WITH FINTECH FIRM PIPE TO BOOST SMALL BUSINESSES 🚀\n\n- Uber collaborates with fintech firm Pipe for small business capital 💰\n- Embedded technology in Uber Eats Manager facilitates access to funds 📲\n- Partnership aims to empower small businesses through easy capital access ✅\n\nTAKEAWAY: Uber's collaboration with Pipe through embedded technology in Uber Eats Manager is set to revolutionize small business access to capital, empowering entrepreneurs for growth.",
+      "exported_at": "2025-09-10T09:59:14.307645",
       "continuous_session": true
     }
   ]
