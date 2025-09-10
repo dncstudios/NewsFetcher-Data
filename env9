@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T17:23:10.784321",
-    "total_articles": 709,
-    "new_articles_in_last_fetch": 709,
+    "created_at": "2025-09-10T17:48:35.974066",
+    "total_articles": 711,
+    "new_articles_in_last_fetch": 711,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -9217,6 +9217,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: GOLDMAN SACHS CEO SOLOMON DISCUSSES AI AND ECONOMY 🚀\n\n- CEO Solomon shares insights on AI and U.S. economy 💡\n- Interview covers the current state of Artificial Intelligence 🤖\n- Discussion on the economic landscape of the United States 🏛️\n\nTAKEAWAY: Dive into the world of AI and the U.S. economy with Goldman Sachs CEO David Solomon's illuminating interview on CNBC's 'Closing Bell Overtime.'",
       "exported_at": "2025-09-10T17:23:10.741573",
+      "continuous_session": true
+    },
+    {
+      "title": "Santoli&apos;s Wednesday market wrap-up: Oracle, Nvidia accounted for 100% of S&amp;P 500 gain",
+      "link": "https://www.cnbc.com/2025/09/10/santolis-wednesday-market-wrap-up-oracle-wasnt-enough-to-lift-all-boats.html",
+      "summary": "Oracle and Nvidia accounted for all of the S&amp;P 500's quarter-percent gain. Overall NYSE breadth was locked at 50/50 up/down.",
+      "published": "Wed, 10 Sep 2025 20:27:08 GMT",
+      "content": "Oracle and Nvidia accounted for all of the S&amp;P 500's quarter-percent gain. Overall NYSE breadth was locked at 50/50 up/down.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ee6057b534e8966a6d83409f575bdc3f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SANTOLI'S MARKET WRAP-UP: ORACLE, NVIDIA DRIVE S&P 500 GAINS 🚀\n\n- Oracle, Nvidia solely responsible for S&P 500's quarter-percent rise\n- NYSE breadth evenly split at 50/50 between up and down\n- Tech giants dominate market performance single-handedly\n\nTAKEAWAY: Oracle and Nvidia's outstanding performance propelled the S&P 500 up, showcasing their significant influence on the market's movements.",
+      "exported_at": "2025-09-10T17:48:35.913418",
+      "continuous_session": true
+    },
+    {
+      "title": "Stellar deal: The Chase Sapphire Reserve&apos;s new 125000-point welcome bonus",
+      "link": "https://www.cnbc.com/select/chase-sapphire-reserve-welcome-bonus/",
+      "summary": "The Chase Sapphire Reserve's new welcome bonus can unlock luxury travel to almost anywhere.",
+      "published": "Thu, 04 Sep 2025 20:01:01 GMT",
+      "content": "The Chase Sapphire Reserve's new welcome bonus can unlock luxury travel to almost anywhere.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0d86093bc37c384ff8c6f342075687a7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STELLAR DEAL: CHASE SAPPHIRE RESERVE'S 125,000-POINT BONUS 🌟\n\n- Chase Sapphire Reserve offers 125,000-point welcome bonus ✨\n- Bonus opens doors to luxury travel worldwide 🌍\n- Points can be a game-changer for travel enthusiasts ✈️\n\nTAKEAWAY: The Chase Sapphire Reserve's new 125,000-point welcome bonus is a game-changer for luxury travel enthusiasts, unlocking possibilities globally.",
+      "exported_at": "2025-09-10T17:48:35.913589",
       "continuous_session": true
     }
   ]
