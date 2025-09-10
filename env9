@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T19:09:52.815111",
-    "total_articles": 715,
-    "new_articles_in_last_fetch": 715,
+    "created_at": "2025-09-10T19:15:03.746200",
+    "total_articles": 717,
+    "new_articles_in_last_fetch": 717,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -9295,6 +9295,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: EMERGENCE OF 'ANTI-WESTERN ALLIANCE' SPARKS NEW AXIS OF POWER ⚠️\n\n- China, Russia, North Korea alliance strengthens 🌏\n- Analysts label ties as \"worrisome\" 🤔\n- Beijing's long-term strategy evident 📈\n\nTAKEAWAY: The rise of an 'anti-Western alliance' among China, Russia, and North Korea is concerning analysts, signaling a shift in global power dynamics led by Beijing's strategic moves.",
       "exported_at": "2025-09-10T19:09:52.763352",
+      "continuous_session": true
+    },
+    {
+      "title": "CNBC&apos;s The China Connection newsletter: A rival AI strategy",
+      "link": "https://www.cnbc.com/2025/09/10/cnbcs-the-china-connection-newsletter-a-rival-ai-strategy.html",
+      "summary": "China is opening the firehose on artificial intelligence as the tech rivalry with the U.S. intensifies.",
+      "published": "Wed, 10 Sep 2025 11:16:41 GMT",
+      "content": "China is opening the firehose on artificial intelligence as the tech rivalry with the U.S. intensifies.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3fc813da6b60464b6539a9813697dfe0",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CNBC'S THE CHINA CONNECTION: A RIVAL AI STRATEGY 🚀\n\n- China accelerates AI efforts amidst escalating tech rivalry 🇨🇳\n- Intense competition with the U.S. in the AI sector 🔥\n- China's aggressive AI push raises global tech stakes 🌍\n- Signifies China's determination to dominate AI landscape 🎯\n- U.S.-China tech rivalry reaches new heights ⚡️\n- Implications of China's AI strategy on global tech dynamics ⚠️\n\nTAKEAWAY: China's aggressive AI strategy signals a significant escalation in the tech rivalry with the U.S., reshaping the global tech landscape.",
+      "exported_at": "2025-09-10T19:15:03.703028",
+      "continuous_session": true
+    },
+    {
+      "title": "Jim Cramer reflects on 30 years of &apos;Squawk Box&apos;",
+      "link": "https://www.cnbc.com/2025/09/10/jim-cramer-reflects-on-30-years-of-squawk-box.html",
+      "summary": "As CNBC's \"Squawk Box\" celebrates its 30th anniversary, Jim Cramer reminisced about the mood on Wall Street back then.",
+      "published": "Wed, 10 Sep 2025 23:12:46 GMT",
+      "content": "As CNBC's \"Squawk Box\" celebrates its 30th anniversary, Jim Cramer reminisced about the mood on Wall Street back then.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8d92bf81be8d7ca210480ef9724d485e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JIM CRAMER'S REFLECTIONS ON 30 YEARS OF 'SQUAWK BOX' 🎉\n\n- Jim Cramer looks back on Wall Street's mood 30 years ago 📈\n- CNBC's \"Squawk Box\" marks its 30th anniversary milestone 🎉\n- Cramer reminisces about the show's impact on financial discussions 💬\n\nTAKEAWAY: Jim Cramer's nostalgic reflections on 30 years of \"Squawk Box\" highlight the show's lasting influence on financial conversations.",
+      "exported_at": "2025-09-10T19:15:03.703086",
       "continuous_session": true
     }
   ]
