@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T20:15:29.455751",
-    "total_articles": 589,
-    "new_articles_in_last_fetch": 589,
+    "created_at": "2025-09-09T20:20:35.518242",
+    "total_articles": 590,
+    "new_articles_in_last_fetch": 590,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -7659,6 +7659,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ASIA MARKETS BRACE FOR GROWTH AHEAD OF CHINA INFLATION DATA 🚀\n\n- Investors eagerly await August inflation data from China 📊\n- Market sentiment positive, expecting mostly higher openings 🌟\n- China's inflation figures crucial for market direction 📈\n- Anticipation builds as investors eye key economic indicators 🔍\n\nTAKEAWAY: Asia markets poised for growth as investors eagerly anticipate China's crucial August inflation data, setting a positive tone for the day.",
       "exported_at": "2025-09-09T20:15:29.420737",
+      "continuous_session": true
+    },
+    {
+      "title": "Asia markets open mostly higher ahead of key China inflation data",
+      "link": "https://www.cnbc.com/2025/09/10/asia-markets-china-inflation-data-south-korea-unemployment.html",
+      "summary": "Investors are awaiting for key August inflation data from China, which is expected to be released later in the day.",
+      "published": "Wed, 10 Sep 2025 00:19:58 GMT",
+      "content": "Investors are awaiting for key August inflation data from China, which is expected to be released later in the day.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "317b43ea7a806ee63a2579b009f02573",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASIA MARKETS BRACE FOR GROWTH AHEAD OF CHINA INFLATION DATA 🚀\n\n- Investors eagerly await August inflation data from China 📊\n- Market sentiment positive, expecting mostly higher openings 🌟\n- China's inflation figures crucial for market direction 📈\n- Anticipation builds as investors eye key economic indicators 🔍\n\nTAKEAWAY: Asia markets poised for growth as investors eagerly anticipate China's crucial August inflation data, setting a positive tone for the day.",
+      "exported_at": "2025-09-09T20:20:35.467515",
       "continuous_session": true
     }
   ]
