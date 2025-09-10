@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T14:04:15.233352",
-    "total_articles": 682,
-    "new_articles_in_last_fetch": 682,
+    "created_at": "2025-09-10T14:14:28.855993",
+    "total_articles": 683,
+    "new_articles_in_last_fetch": 683,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -8866,6 +8866,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FORMER FBI OFFICIALS SUE, CLAIMING KASH PATEL FIRED THEM ⚠️\n\n- Lawsuit filed against Patel & AG Bondi by ex-FBI Director & officials\n- Allegations of wrongful termination to please Trump 🚨\n- Former officials Driscoll, Jensen, & Evans seek justice in court 💼\n\nTAKEAWAY: Former FBI officials take legal action against Patel & AG Bondi, alleging wrongful termination to appease Trump, seeking justice.",
       "exported_at": "2025-09-10T14:04:15.189540",
+      "continuous_session": true
+    },
+    {
+      "title": "U.S. court upholds Verizon $46.9 million fine over location data",
+      "link": "https://www.cnbc.com/2025/09/10/us-court-upholds-verizon-46point9-million-fine-over-location-data.html",
+      "summary": "A federal appeals court upheld a $46.9 million fine against wireless carrier Verizon for illegally sharing access to customers' location information.",
+      "published": "Wed, 10 Sep 2025 18:12:34 GMT",
+      "content": "A federal appeals court upheld a $46.9 million fine against wireless carrier Verizon for illegally sharing access to customers' location information.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ee0029845607ff4e7f53f15784dc1128",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: U.S. COURT UPHOLDS VERIZON'S $46.9 MILLION FINE ⚠️\n\n- Verizon fined $46.9 million for unauthorized location data sharing 📍💸\n- Federal appeals court confirms the penalty against the wireless carrier 🏛️\n- Customers' location info accessed without proper consent 📱🛑\n\nTAKEAWAY: Verizon faces the consequences as a federal court upholds a hefty $46.9 million fine for unlawfully sharing customers' location data.",
+      "exported_at": "2025-09-10T14:14:28.804109",
       "continuous_session": true
     }
   ]
