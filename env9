@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T19:15:03.746200",
-    "total_articles": 717,
-    "new_articles_in_last_fetch": 717,
+    "created_at": "2025-09-10T19:20:13.633387",
+    "total_articles": 718,
+    "new_articles_in_last_fetch": 718,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -9321,6 +9321,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JIM CRAMER'S REFLECTIONS ON 30 YEARS OF 'SQUAWK BOX' 🎉\n\n- Jim Cramer looks back on Wall Street's mood 30 years ago 📈\n- CNBC's \"Squawk Box\" marks its 30th anniversary milestone 🎉\n- Cramer reminisces about the show's impact on financial discussions 💬\n\nTAKEAWAY: Jim Cramer's nostalgic reflections on 30 years of \"Squawk Box\" highlight the show's lasting influence on financial conversations.",
       "exported_at": "2025-09-10T19:15:03.703086",
+      "continuous_session": true
+    },
+    {
+      "title": "Thursday&apos;s big stock stories: What’s likely to move the market in the next trading session",
+      "link": "https://www.cnbc.com/2025/09/10/thursdays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html",
+      "summary": "The S&amp;P 500 set fresh records on Wednesday after a gauge of wholesale prices inched lower, strengthening hopes for a Federal Reserve rate cut next week.",
+      "published": "Wed, 10 Sep 2025 23:16:19 GMT",
+      "content": "The S&amp;P 500 set fresh records on Wednesday after a gauge of wholesale prices inched lower, strengthening hopes for a Federal Reserve rate cut next week.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "598f872a8d909dd38c402859b51e042d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: THURSDAY'S BIG STOCK STORIES: WHAT'S NEXT FOR THE MARKET? 🚀\n\n- S&P 500 hit new records post wholesale price dip 📈\n- Market anticipates Federal Reserve rate cut 📉\n- Investor optimism grows for upcoming trading session 💪\n\nTAKEAWAY: The S&P 500's record-breaking performance post wholesale price drop fuels expectations for a Federal Reserve rate cut, driving investor optimism for the next trading session.",
+      "exported_at": "2025-09-10T19:20:13.576324",
       "continuous_session": true
     }
   ]
