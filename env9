@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T02:11:07.141529",
-    "total_articles": 621,
-    "new_articles_in_last_fetch": 621,
+    "created_at": "2025-09-10T03:06:48.762120",
+    "total_articles": 622,
+    "new_articles_in_last_fetch": 622,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -8074,6 +8074,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ASIA MARKETS RISE ON CHINA INFLATION DATA 🚀\n\n- China's August CPI drops 0.4% YoY, below 0.2% forecast 📉\n- Investors analyze impact on Asian markets 🌏\n- Market sentiment remains positive amidst data assessment 📈\n\nTAKEAWAY: Despite China's CPI missing expectations, Asian markets show resilience and optimism in the face of economic data analysis.",
       "exported_at": "2025-09-10T02:11:07.098341",
+      "continuous_session": true
+    },
+    {
+      "title": "European stocks open higher as markets assess inflation, trade news",
+      "link": "https://www.cnbc.com/2025/09/10/european-markets-on-weds-sept-10-stoxx-600-dax-ftse-cac.html",
+      "summary": "European stocks opened higher on Wednesday as investors assessed the latest trade news and inflation data.",
+      "published": "Wed, 10 Sep 2025 07:05:30 GMT",
+      "content": "European stocks opened higher on Wednesday as investors assessed the latest trade news and inflation data.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e847419e839578e09ae50127656e3c9b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: EUROPEAN STOCKS RISE AMID INFLATION, TRADE NEWS 🚀\n\n- European stocks open higher on Wednesday 📈\n- Investors analyze trade news and inflation data 📊\n- Market sentiment positive at the opening bell ✅\n\nTAKEAWAY: European stocks surge as investors evaluate trade updates and inflation figures, setting a positive tone for market sentiment.",
+      "exported_at": "2025-09-10T03:06:48.701582",
       "continuous_session": true
     }
   ]
