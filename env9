@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T05:39:17.929834",
-    "total_articles": 629,
-    "new_articles_in_last_fetch": 629,
+    "created_at": "2025-09-10T05:54:36.339809",
+    "total_articles": 630,
+    "new_articles_in_last_fetch": 630,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -8178,6 +8178,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NEW BENCHMARK ALERT: MORNINGSTAR UNVEILS MODERN MARKET 100 🚀\n\n- Morningstar introduces Modern Market 100 index 📈\n- Combines public and private equity exposure 💼\n- First framework to track this unique asset combination 🌟\n- Investors seek public and private assets in portfolios 📊\n- Modern Market 100 offers a comprehensive tracking solution 🔍\n- Marks a significant development in investment benchmarking 🎯\n\nTAKEAWAY: Morningstar's Modern Market 100 index revolutionizes tracking for investors seeking a blend of public and private equity exposure, marking a milestone in benchmarking.",
       "exported_at": "2025-09-10T05:39:17.883658",
+      "continuous_session": true
+    },
+    {
+      "title": "S&amp;P 500 futures up slightly ahead of inflation data, Oracle forecast looks to spark AI trade: Live updates",
+      "link": "https://www.cnbc.com/2025/09/09/stock-market-today-live-updates.html",
+      "summary": "The major averages closed at new record highs on Tuesday.",
+      "published": "Wed, 10 Sep 2025 00:24:03 GMT",
+      "content": "The major averages closed at new record highs on Tuesday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "50f7efa0f577cd806017f9a0f02df933",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: S&P 500 FUTURES EDGE UP AHEAD OF INFLATION DATA 🚀\n\n- S&P 500 futures show slight increase before inflation data release\n- Oracle's AI trade sparks interest in the market\n- Major averages hit new record highs recently\n\nTAKEAWAY: S&P 500 futures show a promising start before the inflation data, fueled by Oracle's AI trade, while major averages reach new record highs.",
+      "exported_at": "2025-09-10T05:54:36.280096",
       "continuous_session": true
     }
   ]
