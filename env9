@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T17:48:35.974066",
-    "total_articles": 711,
-    "new_articles_in_last_fetch": 711,
+    "created_at": "2025-09-10T18:19:04.755500",
+    "total_articles": 712,
+    "new_articles_in_last_fetch": 712,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -9243,6 +9243,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STELLAR DEAL: CHASE SAPPHIRE RESERVE'S 125,000-POINT BONUS 🌟\n\n- Chase Sapphire Reserve offers 125,000-point welcome bonus ✨\n- Bonus opens doors to luxury travel worldwide 🌍\n- Points can be a game-changer for travel enthusiasts ✈️\n\nTAKEAWAY: The Chase Sapphire Reserve's new 125,000-point welcome bonus is a game-changer for luxury travel enthusiasts, unlocking possibilities globally.",
       "exported_at": "2025-09-10T17:48:35.913589",
+      "continuous_session": true
+    },
+    {
+      "title": "Stock futures are little changed ahead of closely watched inflation data: Live updates",
+      "link": "https://www.cnbc.com/2025/09/10/stock-market-today-live-updates.html",
+      "summary": "The S&amp;P 500 is coming off another record close.",
+      "published": "Wed, 10 Sep 2025 22:12:48 GMT",
+      "content": "The S&amp;P 500 is coming off another record close.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "efa823bfebc7f415c9c87d3ef53920e7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK FUTURES STABLE AHEAD OF INFLATION DATA 📊\n\n- S&P 500 recently hit a new record high 🚀\n- Market anticipates closely watched inflation figures 📈\n- Investors cautious as they await crucial data release 💼\n- Stock futures showing minimal movement ⚖️\n- Traders eyeing potential impact on market trends 👀\n\nTAKEAWAY: Investors maintain a watchful stance as stock futures remain stable before the release of crucial inflation data, following the S&P 500's recent record high.",
+      "exported_at": "2025-09-10T18:19:04.704935",
       "continuous_session": true
     }
   ]
