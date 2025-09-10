@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T12:37:29.367841",
-    "total_articles": 672,
-    "new_articles_in_last_fetch": 672,
+    "created_at": "2025-09-10T12:42:37.796545",
+    "total_articles": 673,
+    "new_articles_in_last_fetch": 673,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -8736,6 +8736,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JOSH BROWN'S STRATEGY FOR STOCKS IN A RATE-CUTTING ENVIRONMENT 📈\n\n- CEO of Ritholtz Wealth Management reveals Best Stocks picks 🔍\n- Brown discusses AI trade playbook at Future Proof Festival 📊\n- Shares insights on selecting stocks during rate cuts 📉\n\nTAKEAWAY: Josh Brown's expert strategy unveils top stock picks and AI trade insights, emphasizing the importance of selecting stocks during rate cuts.",
       "exported_at": "2025-09-10T12:37:29.313561",
+      "continuous_session": true
+    },
+    {
+      "title": "U.S. appeals court reinstates Copyright Office director fired by Trump",
+      "link": "https://www.cnbc.com/2025/09/10/us-appeals-court-reinstates-copyright-office-director-fired-by-trump.html",
+      "summary": "A Washington-based federal appeals court blocked President Donald Trump from firing U.S. Copyright Office Director Shira Perlmutter.",
+      "published": "Wed, 10 Sep 2025 16:24:45 GMT",
+      "content": "A Washington-based federal appeals court blocked President Donald Trump from firing U.S. Copyright Office Director Shira Perlmutter.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a15600dcb9f545dedeba8bc35751f788",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: U.S. APPEALS COURT BLOCKS TRUMP FROM FIRING COPYRIGHT OFFICE DIRECTOR 🚨\n\n- Court reinstates U.S. Copyright Office Director Shira Perlmutter 🔥\n- Trump's attempt to fire Perlmutter blocked by federal appeals court ⚠️\n- Legal battle over Perlmutter's position ends in her favor ✅\n\nTAKEAWAY: U.S. appeals court decision overturning Trump's firing of Copyright Office Director Shira Perlmutter marks a legal victory for her and prevents her removal.",
+      "exported_at": "2025-09-10T12:42:37.741399",
       "continuous_session": true
     }
   ]
