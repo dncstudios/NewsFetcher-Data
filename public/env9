@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T15:41:01.154303",
-    "total_articles": 690,
-    "new_articles_in_last_fetch": 690,
+    "created_at": "2025-09-10T15:46:11.360804",
+    "total_articles": 692,
+    "new_articles_in_last_fetch": 692,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -8970,6 +8970,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: 🚀 NVIDIA PRICE TARGET RAISED; ORACLE'S BIG NEW CUSTOMER REPORTS!\n\n- Investing Club raises Nvidia price target 📈\n- Homestretch provides actionable afternoon updates 🕒\n- Oracle gains big new customer 🌟\n\nTAKEAWAY: Investing Club boosts Nvidia price target while Oracle secures significant new customer, setting the stage for market movements.",
       "exported_at": "2025-09-10T15:41:01.095690",
+      "continuous_session": true
+    },
+    {
+      "title": "Former Milwaukee Bucks owner Marc Lasry says he doesn&apos;t believe L.A. Clippers owner Steve Ballmer circumvented salary cap",
+      "link": "https://www.cnbc.com/2025/09/10/marc-lasry-discusses-steve-ballmer-kawhi-leonard-payment.html",
+      "summary": "Former Milwaukee Bucks owner Marc Lasry told CNBC he doesn't believe L.A. Clippers owner Steve Ballmer would knowingly break NBA rules around the salary cap.",
+      "published": "Wed, 10 Sep 2025 18:33:55 GMT",
+      "content": "Former Milwaukee Bucks owner Marc Lasry told CNBC he doesn't believe L.A. Clippers owner Steve Ballmer would knowingly break NBA rules around the salary cap.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "cbf5faf89e605afccfcc8a0c0ee0bcfe",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FORMER BUCKS OWNER DEFENDS BALLMER ON SALARY CAP VIOLATION ⚠️\n\n- Marc Lasry trusts Steve Ballmer wouldn't breach NBA salary cap 🏀\n- Lasry states Ballmer wouldn't knowingly break league rules 💬\n- No evidence provided to support circumvention claims 🧐\n\nTAKEAWAY: Former Bucks owner Marc Lasry supports Steve Ballmer, asserting that Ballmer would not intentionally violate NBA salary cap regulations.",
+      "exported_at": "2025-09-10T15:46:11.313853",
+      "continuous_session": true
+    },
+    {
+      "title": "Cash yields set to fall as Fed cuts rates. Where to put your money to work instead",
+      "link": "https://www.cnbc.com/2025/09/10/cash-yields-set-to-fall-as-fed-cuts-rates-where-to-put-your-money-to-work-instead.html",
+      "summary": "Investors should not waste any time moving out of excess cash ahead of the anticipated Federal Reserve rate cuts, many on Wall Street are warning.",
+      "published": "Wed, 10 Sep 2025 19:39:58 GMT",
+      "content": "Investors should not waste any time moving out of excess cash ahead of the anticipated Federal Reserve rate cuts, many on Wall Street are warning.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e0ba8e3d5f71d0cddd7fa5759d428fb7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CASH YIELDS SET TO PLUMMET AS FED CUTS RATES 📉\n\n- Wall Street warns investors to shift out of excess cash quickly ⏳\n- Anticipated Federal Reserve rate cuts signal lower cash returns 💰\n- Urgency emphasized to find alternative investment opportunities 🌟\n\nTAKEAWAY: With Federal Reserve rate cuts expected, investors are advised to swiftly move out of excess cash to explore more lucrative investment options.",
+      "exported_at": "2025-09-10T15:46:11.314275",
       "continuous_session": true
     }
   ]
