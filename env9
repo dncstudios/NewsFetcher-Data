@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T07:00:41.015465",
-    "total_articles": 633,
-    "new_articles_in_last_fetch": 633,
+    "created_at": "2025-09-10T07:05:52.349481",
+    "total_articles": 635,
+    "new_articles_in_last_fetch": 635,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -8230,6 +8230,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NOVO NORDISK SOARS 4% ON MASS LAYOFFS ANNOUNCEMENT 🚀\n\n- Novo Nordisk shares surge 4% post announcement 📈\n- Pharma giant's move propels Stoxx 600 index 📈\n- Regional stocks see broad uptrend on Wednesday 🌍\n\nTAKEAWAY: Novo Nordisk's stock skyrockets by 4% following the announcement of mass layoffs, boosting the pan-European Stoxx 600 index amid a general uptrend in regional stocks.",
       "exported_at": "2025-09-10T07:00:40.968155",
+      "continuous_session": true
+    },
+    {
+      "title": "Mortgage demand jumps to the highest level in three years, as interest rates drop sharply",
+      "link": "https://www.cnbc.com/2025/09/10/mortgage-demand-jumps-to-the-highest-level-in-three-years.html",
+      "summary": "A sharp drop in mortgage rates to the lowest level since last year caused a spike in mortgage demand.",
+      "published": "Wed, 10 Sep 2025 11:00:01 GMT",
+      "content": "A sharp drop in mortgage rates to the lowest level since last year caused a spike in mortgage demand.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4c739d42994351c420dcc51df0c96283",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MORTGAGE DEMAND SOARS TO 3-YEAR HIGH AS RATES PLUMMET 🚀\n\n- Mortgage demand spikes with rates at lowest point in a year\n- Highest level of demand recorded in the past three years 📈\n- Sharp drop in rates triggers surge in mortgage applications 💥\n- Interest rates hit their lowest point in a year\n- Demand for mortgages reaches peak levels 🚀\n- Lowest mortgage rates in a year drive significant demand 📊\n\nTAKEAWAY: Mortgage demand skyrockets to a three-year high fueled by a sharp drop in interest rates, creating a surge in applications. 🏡",
+      "exported_at": "2025-09-10T07:05:52.294498",
+      "continuous_session": true
+    },
+    {
+      "title": "ACA cliff may mean &apos;huge premium shock&apos; for 22 million people in 2026, expert says",
+      "link": "https://www.cnbc.com/2025/09/10/aca-enhanced-subsidies-expire-obamacare-premiums-rise.html",
+      "summary": "Enhanced subsidies that have reduced Affordable Care Act insurance premiums since 2021 are set to expire next year unless Congress intervenes.",
+      "published": "Wed, 10 Sep 2025 11:00:01 GMT",
+      "content": "Enhanced subsidies that have reduced Affordable Care Act insurance premiums since 2021 are set to expire next year unless Congress intervenes.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3c37cbef3145cce47d9249ecc314b222",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ACA CLIFF LOOMS: 22M FACE POTENTIAL PREMIUM SHOCK IN 2026 ⚠️\n\n- Enhanced ACA subsidies to end in 2022 if Congress doesn't act 🕰️\n- 22 million people at risk of significant premium increase 💸\n- Uncertainty surrounds future of Affordable Care Act insurance costs 🤔\n\nTAKEAWAY: Potential expiration of enhanced ACA subsidies in 2022 could lead to a substantial premium increase for 22 million individuals, highlighting the importance of Congressional intervention.",
+      "exported_at": "2025-09-10T07:05:52.294580",
       "continuous_session": true
     }
   ]
