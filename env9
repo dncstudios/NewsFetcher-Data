@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T21:06:28.553497",
-    "total_articles": 597,
-    "new_articles_in_last_fetch": 597,
+    "created_at": "2025-09-09T21:16:40.919217",
+    "total_articles": 598,
+    "new_articles_in_last_fetch": 598,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -7763,6 +7763,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP URGES EU TO IMPOSE 100% TARIFFS ON INDIA & CHINA TO PRESSURE PUTIN 🚀\n\n- Trump requests EU to impose tariffs on China and India 🌍\n- Tariffs up to 100% over countries' Russia oil purchases 🛢️\n- Aim is to squeeze Putin by targeting oil revenue 🎯\n\nTAKEAWAY: Trump's push for 100% tariffs on India and China through the EU aims to apply pressure on Putin by targeting oil revenue.",
       "exported_at": "2025-09-09T21:06:28.519249",
+      "continuous_session": true
+    },
+    {
+      "title": "Detained South Korean workers to depart U.S. on Wednesday, Yonhap reports",
+      "link": "https://www.cnbc.com/2025/09/10/detained-south-korean-workers-to-depart-us-on-wednesday-yonhap-reports.html",
+      "summary": "South Korean workers detained in an immigration raid last week in the U.S. state of Georgia will depart from the U.S. around 1430 local time on Wednesday.",
+      "published": "Wed, 10 Sep 2025 01:15:09 GMT",
+      "content": "South Korean workers detained in an immigration raid last week in the U.S. state of Georgia will depart from the U.S. around 1430 local time on Wednesday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fde9d1d8f92191572282a25d616a5fa7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SOUTH KOREAN WORKERS DETAINED IN U.S. SET TO DEPART WEDNESDAY 🚀\n\n- Detained South Korean workers leaving U.S. after immigration raid ✈️\n- Departure scheduled for 1430 local time on Wednesday 🕒\n- Workers detained in Georgia to depart from the U.S. 🇺🇸\n- Yonhap reports on the upcoming departure of the workers 📰\n\nTAKEAWAY: South Korean workers detained in the U.S. following an immigration raid are set to depart on Wednesday, according to Yonhap reports.",
+      "exported_at": "2025-09-09T21:16:40.872273",
       "continuous_session": true
     }
   ]
