@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T03:37:20.921246",
-    "total_articles": 624,
-    "new_articles_in_last_fetch": 624,
+    "created_at": "2025-09-10T03:42:26.444978",
+    "total_articles": 625,
+    "new_articles_in_last_fetch": 625,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -8113,6 +8113,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: INDITEX SOARS 7% ON STRONG SALES GROWTH 🚀\n\n- Inditex leads Stoxx 600 index with 7% surge 📈\n- Investors pleased with \"meaningful acceleration\" in sales 💰\n- Regional stocks see broad uptrend on Wednesday 📈\n\nTAKEAWAY: Inditex's impressive 7% surge reflects investor confidence in the company's significant sales growth acceleration, driving positive momentum in regional stocks.",
       "exported_at": "2025-09-10T03:37:20.882817",
+      "continuous_session": true
+    },
+    {
+      "title": "Zara owner Inditex surges 7% as investors reassured by sales hike",
+      "link": "https://www.cnbc.com/2025/09/10/european-markets-on-weds-sept-10-stoxx-600-dax-ftse-cac.html",
+      "summary": "Intidex topped the pan-European Stoxx 600 index on Wednesday, as regional stocks moved broadly higher.",
+      "published": "Wed, 10 Sep 2025 07:39:12 GMT",
+      "content": "Intidex topped the pan-European Stoxx 600 index on Wednesday, as regional stocks moved broadly higher.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6988e5cec1ce583b2b4a2ef8793dd774",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: INDITEX SOARS 7% ON STRONG SALES GROWTH 🚀\n\n- Inditex leads Stoxx 600 index with 7% surge 📈\n- Investors pleased with \"meaningful acceleration\" in sales 💰\n- Regional stocks see broad uptrend on Wednesday 📈\n\nTAKEAWAY: Inditex's impressive 7% surge reflects investor confidence in the company's significant sales growth acceleration, driving positive momentum in regional stocks.",
+      "exported_at": "2025-09-10T03:42:26.401497",
       "continuous_session": true
     }
   ]
