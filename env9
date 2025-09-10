@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T07:31:17.079302",
-    "total_articles": 636,
-    "new_articles_in_last_fetch": 636,
+    "created_at": "2025-09-10T08:01:55.899231",
+    "total_articles": 637,
+    "new_articles_in_last_fetch": 637,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -8269,6 +8269,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: EUROPEAN SHARES SURGE AHEAD OF U.S. INFLATION DATA 🚀\n\n- Zara owner Inditex soars 6% on Stoxx 600 index 📈\n- European stocks show strong upward momentum 🚀\n- Market anticipates key U.S. inflation data release 🇺🇸\n- Inditex leads regional stocks with significant jump ✅\n- Pan-European Stoxx 600 index sees broad increase 🔥\n- Investors eyeing market movements with optimism 📈\n\nTAKEAWAY: European shares surge as Inditex leads the way with a 6% jump on the Stoxx 600 index, reflecting positive market sentiment ahead of key U.S. inflation data.",
       "exported_at": "2025-09-10T07:31:17.023531",
+      "continuous_session": true
+    },
+    {
+      "title": "Uber will launch Blade helicopter rides next year through expanded Joby partnership",
+      "link": "https://www.cnbc.com/2025/09/10/uber-to-add-blade-helicopter-rides-through-expanded-joby-partnership-.html",
+      "summary": "Uber said it will bring helicopter rides as soon as next year through its partnership with Joby",
+      "published": "Wed, 10 Sep 2025 12:00:01 GMT",
+      "content": "Uber said it will bring helicopter rides as soon as next year through its partnership with Joby",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "488d626fc6bde15dd6355170b5b777db",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: UBER TO LAUNCH BLADE HELICOPTER RIDES WITH JOBY PARTNERSHIP 🚀\n\n- Uber plans to introduce helicopter rides in partnership with Joby ✈️\n- Blade helicopter service set to take off in the near future 🚁\n- Joby partnership expands Uber's aerial transportation offerings 🌍\n\nTAKEAWAY: Uber's collaboration with Joby to launch Blade helicopter rides signals an exciting expansion in their aerial transportation services, promising a futuristic travel experience for customers.",
+      "exported_at": "2025-09-10T08:01:55.855411",
       "continuous_session": true
     }
   ]
