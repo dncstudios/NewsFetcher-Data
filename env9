@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T13:08:10.012197",
-    "total_articles": 677,
-    "new_articles_in_last_fetch": 677,
+    "created_at": "2025-09-10T13:13:19.833981",
+    "total_articles": 678,
+    "new_articles_in_last_fetch": 678,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -8801,6 +8801,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP FIGHTS TO FIRE FED GOVERNOR LISA COOK ⚠️\n\n- Trump challenges order preventing him from removing Cook 🏛️\n- Supreme Court set to decide if Trump has legal grounds 🏢\n- Battle intensifies over Cook's position at the Federal Reserve 🔥\n\nTAKEAWAY: Trump's legal battle to remove Fed Governor Lisa Cook escalates as the Supreme Court's decision looms large, raising uncertainty in financial markets.",
       "exported_at": "2025-09-10T13:08:09.955546",
+      "continuous_session": true
+    },
+    {
+      "title": "Klarna opens at $52 per share in NYSE debut after pricing IPO above range",
+      "link": "https://www.cnbc.com/2025/09/10/klarna-klar-stock-soars-after-us-ipo.html",
+      "summary": "Klarna priced its IPO at $40 on Tuesday in an offering that valued the company at about $15 billion.",
+      "published": "Wed, 10 Sep 2025 17:09:49 GMT",
+      "content": "Klarna priced its IPO at $40 on Tuesday in an offering that valued the company at about $15 billion.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ebdb97af2ac8112aea9f8c6d3387219f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: KLARNA MAKES DEBUT ON NYSE AT $52/SHARE 🚀\n\n- Klarna IPO priced above range at $40/share 💰\n- Valued at about $15 billion 📈\n- Opens on NYSE at $52/share 📈\n- Strong investor interest evident 💪\n- Successful IPO showcases market confidence ✅\n- Klarna's debut signals market optimism 🌟\n\nTAKEAWAY: Klarna's strong IPO pricing and impressive debut on the NYSE highlight investor confidence and market optimism in the company's future growth.",
+      "exported_at": "2025-09-10T13:13:19.785284",
       "continuous_session": true
     }
   ]
