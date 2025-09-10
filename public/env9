@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T20:56:16.210372",
-    "total_articles": 596,
-    "new_articles_in_last_fetch": 596,
+    "created_at": "2025-09-09T21:06:28.553497",
+    "total_articles": 597,
+    "new_articles_in_last_fetch": 597,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -7750,6 +7750,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ORACLE'S AI-POWERED GROWTH SHOCKS ANALYSTS 🚀\n\n- Oracle's revenue projections stun analysts 🤯\n- Anticipated growth rate from AI implementation is staggering 💥\n- Earnings report hints at an imminent explosion in company's success 💰\n\nTAKEAWAY: Oracle's groundbreaking revenue projections, fueled by AI advancements, have left analysts astounded and eager for the company's imminent exponential growth.",
       "exported_at": "2025-09-09T20:56:16.167454",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump presses European Union to impose 100% tariffs on India and China to squeeze Putin",
+      "link": "https://www.cnbc.com/2025/09/10/trump-presses-european-union-to-impose-100percent-tariffs-on-india-and-china-to-squeeze-putin.html",
+      "summary": "U.S. President Donald Trump has asked the European Union to hit China and India with tariffs of up to 100% over the countries' Russia oil purchases.",
+      "published": "Wed, 10 Sep 2025 01:01:05 GMT",
+      "content": "U.S. President Donald Trump has asked the European Union to hit China and India with tariffs of up to 100% over the countries' Russia oil purchases.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9f2028513f8d1c2f62be07739d9c13a9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP URGES EU TO IMPOSE 100% TARIFFS ON INDIA & CHINA TO PRESSURE PUTIN 🚀\n\n- Trump requests EU to impose tariffs on China and India 🌍\n- Tariffs up to 100% over countries' Russia oil purchases 🛢️\n- Aim is to squeeze Putin by targeting oil revenue 🎯\n\nTAKEAWAY: Trump's push for 100% tariffs on India and China through the EU aims to apply pressure on Putin by targeting oil revenue.",
+      "exported_at": "2025-09-09T21:06:28.519249",
       "continuous_session": true
     }
   ]
