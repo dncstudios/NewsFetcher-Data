@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T10:20:02.550985",
-    "total_articles": 659,
-    "new_articles_in_last_fetch": 659,
+    "created_at": "2025-09-10T10:30:14.740132",
+    "total_articles": 660,
+    "new_articles_in_last_fetch": 660,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -8568,6 +8568,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WELLS FARGO, DEUTSCHE BANK, BARCLAYS BOOST S&P 500 TARGETS 🚀\n\n- Year-end S&P 500 targets raised to 6,450–7,000 📈\n- AI trade and minimal tariff impact drive optimism 💡\n- Wells Fargo, Deutsche Bank, Barclays lead the bullish outlook 📈\n- Market sentiment shifts towards positive trajectory 🌟\n- Emphasis on AI's role in boosting market performance 🤖\n- Minimal tariff impact contributes to market resilience ✅\n\nTAKEAWAY: Wells Fargo, Deutsche Bank, and Barclays elevate S&P 500 targets, citing AI trade benefits and minimal tariff impact, fueling market optimism and positive sentiment.",
       "exported_at": "2025-09-10T10:20:02.504508",
+      "continuous_session": true
+    },
+    {
+      "title": "Potbelly acquired by convenience-store operator RaceTrac for $566 million",
+      "link": "https://www.cnbc.com/2025/09/10/potbelly-acquired-racetrac-566-million.html",
+      "summary": "Potbelly announced it is being acquired by convenience-store operator RaceTrac in a $566 million deal.",
+      "published": "Wed, 10 Sep 2025 14:17:21 GMT",
+      "content": "Potbelly announced it is being acquired by convenience-store operator RaceTrac in a $566 million deal.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3dad0887ebd9fbc1de9e50492b39ee9c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: POTBELLY ACQUIRED BY RACETRAC FOR $566 MILLION 🚀\n\n- RaceTrac seals deal to acquire Potbelly in $566 million agreement 💰\n- Acquisition marks strategic move into food industry for RaceTrac 🍔\n- Potbelly gains new growth opportunities under RaceTrac's ownership 🌱\n- RaceTrac aims to leverage Potbelly's brand strength for expansion 🚀\n- $566 million deal signals confidence in Potbelly's potential 📈\n- Acquisition boosts RaceTrac's presence in the competitive food sector 🥪\n\nTAKEAWAY: RaceTrac's acquisition of Potbelly for $566 million signals a strategic move into the food industry, offering growth opportunities and brand leverage for both companies.",
+      "exported_at": "2025-09-10T10:30:14.699659",
       "continuous_session": true
     }
   ]
