@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T10:04:36.023684",
-    "total_articles": 654,
-    "new_articles_in_last_fetch": 654,
+    "created_at": "2025-09-10T10:09:42.308142",
+    "total_articles": 655,
+    "new_articles_in_last_fetch": 655,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -8503,6 +8503,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: 5 TAKEAWAYS FROM UNEXPECTED DROP IN US PRODUCER PRICE INDEX 📉\n\n- US producer price index unexpectedly falls by 0.1% in August\n- Gauge of wholesale costs in the US economy dips unexpectedly\n- Market awaits another key reading on producer prices\n- Unexpected decline raises concerns about inflation trends\n- PPI report indicates potential impact on consumer prices\n\nTAKEAWAY: The unexpected drop in the US Producer Price Index raises concerns about inflation trends and potential impact on consumer prices, as the market awaits further key readings.",
       "exported_at": "2025-09-10T10:04:35.970899",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump Fed nominee Stephen Miran advanced by Senate Banking committee, tees up final vote",
+      "link": "https://www.cnbc.com/2025/09/10/trump-fed-stephen-miran-senate-banking-lisa-cook.html",
+      "summary": "Stephen Miran was nominated by President Donald Trump to fill the seat left open by former Fed governor Adriana Kugler's surprise resignation.",
+      "published": "Wed, 10 Sep 2025 14:08:42 GMT",
+      "content": "Stephen Miran was nominated by President Donald Trump to fill the seat left open by former Fed governor Adriana Kugler's surprise resignation.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "04ec3d2bfc1ce31516b02026a0bc16be",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP'S FED NOMINEE STEPHEN MIRAN FACES SENATE BANKING COMMITTEE VOTE 🚀\n\n- Miran nominated by Trump to replace former Fed governor Kugler\n- Senate Banking Committee set to vote on Miran's nomination\n- Kugler's resignation left a vacant seat in the Federal Reserve 🏦\n- Miran faces scrutiny and evaluation from the committee\n- Trump's choice of Miran raises interest in the financial sector\n- Market watches closely for the outcome of the Senate vote\n\nTAKEAWAY: Stephen Miran's nomination for the Federal Reserve board by Trump sparks interest and anticipation in the financial sector as the Senate Banking Committee prepares to vote on his appointment.",
+      "exported_at": "2025-09-10T10:09:42.259502",
       "continuous_session": true
     }
   ]
