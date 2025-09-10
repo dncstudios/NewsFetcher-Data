@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T13:48:59.702570",
-    "total_articles": 681,
-    "new_articles_in_last_fetch": 681,
+    "created_at": "2025-09-10T14:04:15.233352",
+    "total_articles": 682,
+    "new_articles_in_last_fetch": 682,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -8853,6 +8853,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JAMES MOLONEY LEADS SEC’S CORPORATION FINANCE DIVISION 🚀\n\n- James Moloney appointed to head SEC's corporation finance division\n- Moloney to oversee regulatory matters in capital markets\n- Moloney brings extensive experience to his new role\n- SEC aims to enhance oversight of public companies\n\nTAKEAWAY: James Moloney's appointment as head of SEC's corporation finance division signals a focus on strengthening regulatory oversight in capital markets.",
       "exported_at": "2025-09-10T13:48:59.662830",
+      "continuous_session": true
+    },
+    {
+      "title": "Former top FBI officials sue, say Kash Patel fired them to stay in Trump&apos;s good graces",
+      "link": "https://www.cnbc.com/2025/09/10/former-top-fbi-officials-sue-say-kash-patel-fired-them-to-stay-in-trumps-good-graces.html",
+      "summary": "The suit, which names Patel and Attorney General Pam Bondi, was filed by former acting FBI Director Brian Driscoll as well as Steven Jensen and Spencer Evans.",
+      "published": "Wed, 10 Sep 2025 17:55:33 GMT",
+      "content": "The suit, which names Patel and Attorney General Pam Bondi, was filed by former acting FBI Director Brian Driscoll as well as Steven Jensen and Spencer Evans.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "56076d71a661a70e188d2594d460cef4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FORMER FBI OFFICIALS SUE, CLAIMING KASH PATEL FIRED THEM ⚠️\n\n- Lawsuit filed against Patel & AG Bondi by ex-FBI Director & officials\n- Allegations of wrongful termination to please Trump 🚨\n- Former officials Driscoll, Jensen, & Evans seek justice in court 💼\n\nTAKEAWAY: Former FBI officials take legal action against Patel & AG Bondi, alleging wrongful termination to appease Trump, seeking justice.",
+      "exported_at": "2025-09-10T14:04:15.189540",
       "continuous_session": true
     }
   ]
