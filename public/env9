@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T19:20:13.633387",
-    "total_articles": 718,
-    "new_articles_in_last_fetch": 718,
+    "created_at": "2025-09-10T19:30:27.463641",
+    "total_articles": 719,
+    "new_articles_in_last_fetch": 719,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -9334,6 +9334,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: THURSDAY'S BIG STOCK STORIES: WHAT'S NEXT FOR THE MARKET? 🚀\n\n- S&P 500 hit new records post wholesale price dip 📈\n- Market anticipates Federal Reserve rate cut 📉\n- Investor optimism grows for upcoming trading session 💪\n\nTAKEAWAY: The S&P 500's record-breaking performance post wholesale price drop fuels expectations for a Federal Reserve rate cut, driving investor optimism for the next trading session.",
       "exported_at": "2025-09-10T19:20:13.576324",
+      "continuous_session": true
+    },
+    {
+      "title": "Here&apos;s why Jim Cramer thinks red-hot IPO Klarna is still a buy at these levels",
+      "link": "https://www.cnbc.com/2025/09/10/heres-why-jim-cramer-thinks-ipo-klarna-is-still-a-buy-at-these-levels.html",
+      "summary": "CNBC's Jim Cramer explained why he thinks newly-minted IPO Klarna is a buy even after shares climbed during its first trading session.",
+      "published": "Wed, 10 Sep 2025 23:25:06 GMT",
+      "content": "CNBC's Jim Cramer explained why he thinks newly-minted IPO Klarna is a buy even after shares climbed during its first trading session.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c04f2e39ece335e0aa532ab07f572d91",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JIM CRAMER BULLISH ON KLARNA IPO DESPITE RED-HOT DEBUT 🔥\n\n- Cramer recommends buying Klarna post-IPO surge 🚀\n- Klarna's strong debut doesn't deter Cramer's bullish stance ✅\n- CNBC's Cramer sees potential for further growth ⚡️\n- Klarna's IPO performance doesn't dampen Cramer's enthusiasm 🎯\n- Cramer remains positive on Klarna's long-term prospects 📈\n\nTAKEAWAY: Jim Cramer maintains a bullish outlook on Klarna, viewing its recent IPO surge as a sign of further growth potential.",
+      "exported_at": "2025-09-10T19:30:27.412482",
       "continuous_session": true
     }
   ]
