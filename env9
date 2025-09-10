@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T06:25:06.260768",
-    "total_articles": 631,
-    "new_articles_in_last_fetch": 631,
+    "created_at": "2025-09-10T06:45:24.282003",
+    "total_articles": 632,
+    "new_articles_in_last_fetch": 632,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -8204,6 +8204,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: S&P 500 FUTURES EDGE UP AHEAD OF INFLATION DATA 🚀\n\n- S&P 500 futures show slight increase before inflation data release\n- Oracle's AI trade sparks interest in the market\n- Major averages hit new record highs recently\n\nTAKEAWAY: S&P 500 futures show a promising start before the inflation data, fueled by Oracle's AI trade, while major averages reach new record highs.",
       "exported_at": "2025-09-10T06:25:06.206935",
+      "continuous_session": true
+    },
+    {
+      "title": "Zara owner Inditex surges 6% as investors reassured by sales hike",
+      "link": "https://www.cnbc.com/2025/09/10/european-markets-on-weds-sept-10-stoxx-600-dax-ftse-cac.html",
+      "summary": "Intidex topped the pan-European Stoxx 600 index on Wednesday, as regional stocks moved broadly higher.",
+      "published": "Wed, 10 Sep 2025 10:41:38 GMT",
+      "content": "Intidex topped the pan-European Stoxx 600 index on Wednesday, as regional stocks moved broadly higher.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3154642fca2a53391409f0199074eaee",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: INDITEX SOARS 7% ON STRONG SALES GROWTH 🚀\n\n- Inditex leads Stoxx 600 index with 7% surge 📈\n- Investors pleased with \"meaningful acceleration\" in sales 💰\n- Regional stocks see broad uptrend on Wednesday 📈\n\nTAKEAWAY: Inditex's impressive 7% surge reflects investor confidence in the company's significant sales growth acceleration, driving positive momentum in regional stocks.",
+      "exported_at": "2025-09-10T06:45:24.227671",
       "continuous_session": true
     }
   ]
