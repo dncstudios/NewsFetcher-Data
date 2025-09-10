@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T12:52:51.890919",
-    "total_articles": 675,
-    "new_articles_in_last_fetch": 675,
+    "created_at": "2025-09-10T12:57:57.331974",
+    "total_articles": 676,
+    "new_articles_in_last_fetch": 676,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -8775,6 +8775,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: HEALTHY RETURNS: NEW FDA RULES SHAKE UP GLP-1s & APPLE WATCH 🚀\n\n- FDA tightens rules on compounded GLP-1s impacting Novo Nordisk, Eli Lilly 🏥🔒\n- Novo Nordisk and Eli Lilly face challenges despite FDA crackdown 📉💊\n- Apple integrates new health features in the latest Apple Watch ⌚🩺\n- Apple Watch adds health tools enhancing user experience 🍏💡\n- Health tech advancements create opportunities for Apple's wearable segment 📈💪\n- FDA's move disrupts the GLP-1 market, reshaping industry dynamics 🔄⚙️\n\nTAKEAWAY: FDA's new rules impact GLP-1 market players, while Apple's health-focused innovations in the Apple Watch strengthen its position in the wearable tech space. 🌟",
       "exported_at": "2025-09-10T12:52:51.838649",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves midday: Oracle, Chewy, Broadcom, GameStop &amp; more",
+      "link": "https://www.cnbc.com/2025/09/10/stocks-making-the-biggest-moves-midday-orcl-chwy-avgo-gme.html",
+      "summary": "These are the stocks posting the largest moves midday.",
+      "published": "Wed, 10 Sep 2025 16:48:20 GMT",
+      "content": "These are the stocks posting the largest moves midday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "580044a0a072e793ebb14fe4155476c8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS MAKING BIG MOVES MIDDAY: UNITEDHEALTH, KINGSOFT CLOUD, BRIGHTHOUSE FINANCIAL 🚀\n\n- UnitedHealth, Kingsoft Cloud, Brighthouse Financial show significant midday movements\n- Investors closely monitoring these stock fluctuations for potential opportunities 📈\n- Market dynamics shifting rapidly for these companies\n\nTAKEAWAY: UnitedHealth, Kingsoft Cloud, and Brighthouse Financial are experiencing notable midday stock movements, attracting investors seeking potential opportunities amidst rapidly changing market conditions.",
+      "exported_at": "2025-09-10T12:57:57.276900",
       "continuous_session": true
     }
   ]
