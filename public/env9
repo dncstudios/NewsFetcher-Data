@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T15:20:34.374212",
-    "total_articles": 688,
-    "new_articles_in_last_fetch": 688,
+    "created_at": "2025-09-10T15:35:52.533631",
+    "total_articles": 689,
+    "new_articles_in_last_fetch": 689,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -8944,6 +8944,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP ALLY CHARLIE KIRK SHOT AT UTAH COLLEGE EVENT 🚨\n\n- President Trump requests prayers for Charlie Kirk 🙏\n- Shocking incident at a Utah college event 🔫\n- Trump sends blessings to Kirk for his recovery ✨\n\nTAKEAWAY: President Trump's call for prayers and blessings for Charlie Kirk after the shocking shooting incident at a Utah college event.",
       "exported_at": "2025-09-10T15:20:34.319827",
+      "continuous_session": true
+    },
+    {
+      "title": "Jim Cramer: Oracle turning regular investors into millionaires is why I do what I do",
+      "link": "https://www.cnbc.com/2025/09/10/jim-cramer-oracle-turning-regular-investors-into-millionaires-is-why-i-do-what-i-do.html",
+      "summary": "\"If you owned Oracle, you have a different life today,\" CNBC Jim Cramer said Wednesday morning as the stock surged 40% on stagging AI projections.",
+      "published": "Wed, 10 Sep 2025 18:42:03 GMT",
+      "content": "\"If you owned Oracle, you have a different life today,\" CNBC Jim Cramer said Wednesday morning as the stock surged 40% on stagging AI projections.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "edfad2290e1c99d618f7d00eeec66537",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JIM CRAMER: ORACLE'S 40% SURGE TURNS INVESTORS INTO MILLIONAIRES 🚀\n\n- Oracle stock soars 40% on staggering AI projections 💰\n- Jim Cramer highlights Oracle's transformative impact on investors' lives 💼\n- Investors who owned Oracle experience significant wealth growth 💸\n\nTAKEAWAY: Oracle's impressive 40% surge due to AI projections showcases the potential to turn regular investors into millionaires, a prime example of why Jim Cramer is passionate about what he does.",
+      "exported_at": "2025-09-10T15:35:52.479949",
       "continuous_session": true
     }
   ]
