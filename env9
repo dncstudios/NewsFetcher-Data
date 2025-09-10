@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T05:34:07.019041",
-    "total_articles": 628,
-    "new_articles_in_last_fetch": 628,
+    "created_at": "2025-09-10T05:39:17.929834",
+    "total_articles": 629,
+    "new_articles_in_last_fetch": 629,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -8165,6 +8165,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SEN. CRUZ PROPOSES BILL TO EASE REGULATORY BURDEN ON AI COMPANIES 🚀\n\n- Sen. Ted Cruz introduces bill to reduce regulations for AI firms 🤖\n- Proposal aims to fast-track approval process for AI software 🏎️\n- AI companies can collaborate with federal agencies for regulation modifications ✅\n- Cruz's bill focuses on reducing regulatory obstacles for AI innovation 🎯\n\nTAKEAWAY: Sen. Ted Cruz's bill proposes to streamline regulations, enabling AI companies to accelerate innovation and collaboration with federal agencies.",
       "exported_at": "2025-09-10T05:34:06.966997",
+      "continuous_session": true
+    },
+    {
+      "title": "More investors want public and private assets in their portfolio. Now there&apos;s a benchmark to track this combo",
+      "link": "https://www.cnbc.com/2025/09/10/morningstar-pitchbook-index-tracks-exposure-to-public-and-private-assets.html",
+      "summary": "Morningstar announced the Modern Market 100, the first framework to combine public and private equity exposure in one index.",
+      "published": "Wed, 10 Sep 2025 09:33:09 GMT",
+      "content": "Morningstar announced the Modern Market 100, the first framework to combine public and private equity exposure in one index.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f94b0b2c3c96fcc1ce9cc95d5c5ae8f5",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NEW BENCHMARK ALERT: MORNINGSTAR UNVEILS MODERN MARKET 100 🚀\n\n- Morningstar introduces Modern Market 100 index 📈\n- Combines public and private equity exposure 💼\n- First framework to track this unique asset combination 🌟\n- Investors seek public and private assets in portfolios 📊\n- Modern Market 100 offers a comprehensive tracking solution 🔍\n- Marks a significant development in investment benchmarking 🎯\n\nTAKEAWAY: Morningstar's Modern Market 100 index revolutionizes tracking for investors seeking a blend of public and private equity exposure, marking a milestone in benchmarking.",
+      "exported_at": "2025-09-10T05:39:17.883658",
       "continuous_session": true
     }
   ]
