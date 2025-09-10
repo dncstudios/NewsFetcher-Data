@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T01:50:46.498901",
-    "total_articles": 619,
-    "new_articles_in_last_fetch": 619,
+    "created_at": "2025-09-10T02:00:58.475112",
+    "total_articles": 620,
+    "new_articles_in_last_fetch": 620,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -8048,6 +8048,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: EUROPE'S GASOLINE CAR BAN MAKES WAVES AT IAA MOBILITY SHOW 🚀\n\n- Europe plans to ban new diesel/gasoline cars from 2035 🚗🔋\n- Ban announcement creates buzz at IAA Mobility auto show 🌟\n- Shift towards electric vehicles gaining momentum ⚡️\n- Automakers showcasing sustainable mobility solutions 🌿\n- Climate goals drive push for cleaner transportation 🌍\n- Industry adapting to meet evolving regulations 📈\n\nTAKEAWAY: Europe's bold move to ban new gasoline cars by 2035 is sparking innovation and reshaping the auto industry towards sustainability at the IAA Mobility auto show.",
       "exported_at": "2025-09-10T01:50:46.454607",
+      "continuous_session": true
+    },
+    {
+      "title": "Qualcomm unveils driverless tech with BMW, sees &apos;domino effect&apos; of customers",
+      "link": "https://www.cnbc.com/2025/09/10/qualcomm-bmw-launch-driverless-tech-ceo-says-other-carmakers-next.html",
+      "summary": "Qualcomm and BMW jointly developed an automated driving system that will debut on the BMW iX3.",
+      "published": "Wed, 10 Sep 2025 05:55:00 GMT",
+      "content": "Qualcomm and BMW jointly developed an automated driving system that will debut on the BMW iX3.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3f8f5a7bb2af59696e7d29df78039b00",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: QUALCOMM & BMW REVOLUTIONIZE DRIVERLESS TECH 🚀\n\n- Qualcomm, BMW collaborate on driverless system for BMW iX3 🚗\n- Partnership expected to attract more customers 🎯\n- Innovation likely to create a ripple effect in the industry 🌊\n- BMW iX3 to showcase cutting-edge automated driving technology 🌟\n\nTAKEAWAY: Qualcomm and BMW's driverless technology collaboration sets a new standard in innovation, paving the way for a transformative impact in the automotive industry.",
+      "exported_at": "2025-09-10T02:00:58.424947",
       "continuous_session": true
     }
   ]
