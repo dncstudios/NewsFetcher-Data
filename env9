@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T01:45:38.002236",
-    "total_articles": 617,
-    "new_articles_in_last_fetch": 617,
+    "created_at": "2025-09-10T01:50:46.498901",
+    "total_articles": 619,
+    "new_articles_in_last_fetch": 619,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -8022,6 +8022,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NOVO NORDISK TO SLASH 9,000 JOBS 🚨\n\n- Novo Nordisk to cut 9,000 jobs, 5,000 in Denmark 🇩🇰\n- Job cuts affect roles at Wegovy and Ozempic producer\n- Reductions aimed at streamlining operations and cost-cutting\n\nTAKEAWAY: Novo Nordisk's decision to reduce 9,000 jobs, with a significant impact in Denmark, aims to streamline operations and enhance cost efficiency.",
       "exported_at": "2025-09-10T01:45:37.958765",
+      "continuous_session": true
+    },
+    {
+      "title": "European stocks set to open higher as markets assess inflation, trade news",
+      "link": "https://www.cnbc.com/2025/09/10/european-markets-on-weds-sept-10-stoxx-600-dax-ftse-cac.html",
+      "summary": "European stocks are expected to open higher on Wednesday as investors assess the latest trade news and inflation data.",
+      "published": "Wed, 10 Sep 2025 05:45:45 GMT",
+      "content": "European stocks are expected to open higher on Wednesday as investors assess the latest trade news and inflation data.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "231c01dcede1fcbf9e135ab98545b793",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: EUROPEAN STOCKS RISE AHEAD OF INFLATION, TRADE NEWS 🚀\n\n- Markets anticipate higher opening for European stocks 📈\n- Investors analyze trade updates and inflation figures 📊\n- Positive sentiment drives optimism in the market 🌟\n\nTAKEAWAY: European stocks are poised for a strong opening as investors evaluate trade news and inflation data, fueling positive market sentiment.",
+      "exported_at": "2025-09-10T01:50:46.454539",
+      "continuous_session": true
+    },
+    {
+      "title": "Europe&apos;s hotly contested ban on new gasoline cars is back in the spotlight",
+      "link": "https://www.cnbc.com/2025/09/10/ice-2035-ban-auto-giants-lock-horns-over-eu-carbon-regulation-at-iaa.html",
+      "summary": "Europe's ban on the sale of new diesel and gasoline cars and vans from 2035 has been a hot topic at the IAA Mobility auto show in Munich this week.",
+      "published": "Wed, 10 Sep 2025 05:46:20 GMT",
+      "content": "Europe's ban on the sale of new diesel and gasoline cars and vans from 2035 has been a hot topic at the IAA Mobility auto show in Munich this week.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a5ae0d2550689f8d1a00396854add6b9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: EUROPE'S GASOLINE CAR BAN MAKES WAVES AT IAA MOBILITY SHOW 🚀\n\n- Europe plans to ban new diesel/gasoline cars from 2035 🚗🔋\n- Ban announcement creates buzz at IAA Mobility auto show 🌟\n- Shift towards electric vehicles gaining momentum ⚡️\n- Automakers showcasing sustainable mobility solutions 🌿\n- Climate goals drive push for cleaner transportation 🌍\n- Industry adapting to meet evolving regulations 📈\n\nTAKEAWAY: Europe's bold move to ban new gasoline cars by 2035 is sparking innovation and reshaping the auto industry towards sustainability at the IAA Mobility auto show.",
+      "exported_at": "2025-09-10T01:50:46.454607",
       "continuous_session": true
     }
   ]
