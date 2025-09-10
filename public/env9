@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T02:00:58.475112",
-    "total_articles": 620,
-    "new_articles_in_last_fetch": 620,
+    "created_at": "2025-09-10T02:11:07.141529",
+    "total_articles": 621,
+    "new_articles_in_last_fetch": 621,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -8061,6 +8061,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: QUALCOMM & BMW REVOLUTIONIZE DRIVERLESS TECH 🚀\n\n- Qualcomm, BMW collaborate on driverless system for BMW iX3 🚗\n- Partnership expected to attract more customers 🎯\n- Innovation likely to create a ripple effect in the industry 🌊\n- BMW iX3 to showcase cutting-edge automated driving technology 🌟\n\nTAKEAWAY: Qualcomm and BMW's driverless technology collaboration sets a new standard in innovation, paving the way for a transformative impact in the automotive industry.",
       "exported_at": "2025-09-10T02:00:58.424947",
+      "continuous_session": true
+    },
+    {
+      "title": "Asia markets track Wall Street gains as Fed rate-cut hopes rise — South Korea&apos;s Kospi hits record high",
+      "link": "https://www.cnbc.com/2025/09/10/asia-markets-china-inflation-data-south-korea-unemployment.html",
+      "summary": "China's August consumer price index fell 0.4% year over year, missing expectations of a 0.2% drop by economists polled by Reuters.",
+      "published": "Wed, 10 Sep 2025 06:08:24 GMT",
+      "content": "China's August consumer price index fell 0.4% year over year, missing expectations of a 0.2% drop by economists polled by Reuters.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e1732486d01b3b84475879a5090d09b0",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASIA MARKETS RISE ON CHINA INFLATION DATA 🚀\n\n- China's August CPI drops 0.4% YoY, below 0.2% forecast 📉\n- Investors analyze impact on Asian markets 🌏\n- Market sentiment remains positive amidst data assessment 📈\n\nTAKEAWAY: Despite China's CPI missing expectations, Asian markets show resilience and optimism in the face of economic data analysis.",
+      "exported_at": "2025-09-10T02:11:07.098341",
       "continuous_session": true
     }
   ]
