@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T12:01:51.918360",
-    "total_articles": 670,
-    "new_articles_in_last_fetch": 670,
+    "created_at": "2025-09-10T12:06:59.564394",
+    "total_articles": 671,
+    "new_articles_in_last_fetch": 671,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -8710,6 +8710,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WELLS FARGO CEO BACKS TRUMP'S RIGHT TO DISCUSS FED 🚀\n\n- CEO supports Fed independence, Trump's discussions on rates ✅\n- Charlie Scharf emphasizes president's entitlement to talk about interest rates 🎯\n\nTAKEAWAY: Wells Fargo CEO affirms Fed's independence while endorsing Trump's freedom to engage in interest rate discussions.",
       "exported_at": "2025-09-10T12:01:51.861771",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump administration to warn families about student debt risks amid record-high defaults",
+      "link": "https://www.cnbc.com/2025/09/10/trump-student-loan-risks.html",
+      "summary": "The Education Department may soon start sharing information with students on \"the benefits and risks\" of borrowing for a college education.",
+      "published": "Wed, 10 Sep 2025 15:56:09 GMT",
+      "content": "The Education Department may soon start sharing information with students on \"the benefits and risks\" of borrowing for a college education.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1f0a65a4b6ff3914f009ade0a32777f8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP ADMINISTRATION TO ALERT FAMILIES ON STUDENT DEBT RISKS ⚠️\n\n- Education Department to educate students on borrowing pros and cons 📚\n- Aim to raise awareness on risks amidst record-high default rates 📉\n- Initiative focuses on informing families about college loan dangers 💸\n\nTAKEAWAY: Trump administration's move to warn families about student debt risks aims to empower students with crucial information to make informed financial decisions for their education.",
+      "exported_at": "2025-09-10T12:06:59.508627",
       "continuous_session": true
     }
   ]
