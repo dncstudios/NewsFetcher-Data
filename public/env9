@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T15:35:52.533631",
-    "total_articles": 689,
-    "new_articles_in_last_fetch": 689,
+    "created_at": "2025-09-10T15:41:01.154303",
+    "total_articles": 690,
+    "new_articles_in_last_fetch": 690,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -8957,6 +8957,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JIM CRAMER: ORACLE'S 40% SURGE TURNS INVESTORS INTO MILLIONAIRES 🚀\n\n- Oracle stock soars 40% on staggering AI projections 💰\n- Jim Cramer highlights Oracle's transformative impact on investors' lives 💼\n- Investors who owned Oracle experience significant wealth growth 💸\n\nTAKEAWAY: Oracle's impressive 40% surge due to AI projections showcases the potential to turn regular investors into millionaires, a prime example of why Jim Cramer is passionate about what he does.",
       "exported_at": "2025-09-10T15:35:52.479949",
+      "continuous_session": true
+    },
+    {
+      "title": "We&apos;re raising our Nvidia price target — plus, reports on Oracle&apos;s big new customer",
+      "link": "https://www.cnbc.com/2025/09/10/were-raising-our-nvidia-price-target-plus-reports-on-oracles-big-new-customer.html",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "published": "Wed, 10 Sep 2025 18:31:38 GMT",
+      "content": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "27866b11abe592291fa458c67da97a42",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 🚀 NVIDIA PRICE TARGET RAISED; ORACLE'S BIG NEW CUSTOMER REPORTS!\n\n- Investing Club raises Nvidia price target 📈\n- Homestretch provides actionable afternoon updates 🕒\n- Oracle gains big new customer 🌟\n\nTAKEAWAY: Investing Club boosts Nvidia price target while Oracle secures significant new customer, setting the stage for market movements.",
+      "exported_at": "2025-09-10T15:41:01.095690",
       "continuous_session": true
     }
   ]
