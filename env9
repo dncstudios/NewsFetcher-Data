@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T11:56:41.032031",
-    "total_articles": 667,
-    "new_articles_in_last_fetch": 667,
+    "created_at": "2025-09-10T12:01:51.918360",
+    "total_articles": 670,
+    "new_articles_in_last_fetch": 670,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -8671,6 +8671,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: PEAK SEASON FREIGHT TRADE TO U.S. STALLS AS CHINESE IMPORTS PLUMMET 🚨\n\n- Chinese exports to U.S. stagnant during crucial pre-holiday period 🎁\n- Peak season trade typically surges, but now slowed to a crawl 🐢\n- Significant drop in Chinese imports impacting global supply chains 🌍\n- Uncertainty looms as trade between China and U.S. remains stagnant ⚠️\n\nTAKEAWAY: The slowdown in Chinese imports to the U.S. during the peak season is causing a ripple effect across global supply chains, raising concerns and uncertainties in trade markets.",
       "exported_at": "2025-09-10T11:56:40.999898",
+      "continuous_session": true
+    },
+    {
+      "title": "Oracle stock booms 40%, on pace for best day since 1992",
+      "link": "https://www.cnbc.com/2025/09/10/oracle-stock-cloud-backlog-ai.html",
+      "summary": "The cloud giant is on pace for its best day since 1992, and is now quickly approaching the $1 trillion market cap benchmark",
+      "published": "Wed, 10 Sep 2025 16:01:18 GMT",
+      "content": "The cloud giant is on pace for its best day since 1992, and is now quickly approaching the $1 trillion market cap benchmark",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1233087ce7c6c30746b4d6b686e795cf",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ORACLE STOCK SOARS 40%, ON TRACK FOR BEST DAY SINCE 1992 🚀\n\n- Oracle's stock on pace for best performance since 1992 💪\n- Approaching the impressive $1 trillion market cap milestone 📈\n- Cloud giant's value surges, attracting investor interest 🔥\n\nTAKEAWAY: Oracle's remarkable 40% stock surge puts it on course for its best day in decades and nears the coveted $1 trillion market cap milestone, sparking investor excitement and interest.",
+      "exported_at": "2025-09-10T12:01:51.861662",
+      "continuous_session": true
+    },
+    {
+      "title": "Labor Department watchdog opens probe of BLS jobs, inflation data collection",
+      "link": "https://www.cnbc.com/2025/09/10/trump-bls-jobs-data-labor.html",
+      "summary": "President Donald Trump recently fired BLS Commissioner Erika McEntarfer in response to a weak monthly jobs report.",
+      "published": "Wed, 10 Sep 2025 16:00:56 GMT",
+      "content": "President Donald Trump recently fired BLS Commissioner Erika McEntarfer in response to a weak monthly jobs report.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c0b85f5d76e08f95ffdd6e3ad8b1d667",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: LABOR DEPT. WATCHDOG PROBES BLS DATA COLLECTION ⚠️\n\n- Trump dismisses BLS Commissioner after poor jobs report 📉\n- Internal probe initiated on BLS data collection methods 🔍\n- Uncertainty shrouds BLS data accuracy post-commissioner dismissal ❓\n- President's action triggers scrutiny on job market data 🕵️‍♂️\n\nTAKEAWAY: President Trump's dismissal of BLS Commissioner amid a weak jobs report has led to an internal investigation on BLS data collection methods, raising concerns about data accuracy.",
+      "exported_at": "2025-09-10T12:01:51.861755",
+      "continuous_session": true
+    },
+    {
+      "title": "Wells Fargo CEO says Trump is entitled to be vocal about the Fed",
+      "link": "https://www.cnbc.com/2025/09/10/wells-fargo-ceo-says-trump-is-entitled-to-be-vocal-about-the-fed.html",
+      "summary": "Wells Fargo CEO Charlie Scharf said he \"absolutely\" supports the Federal Reserve's independence, but that the president is free to discuss interest rates.",
+      "published": "Wed, 10 Sep 2025 16:00:30 GMT",
+      "content": "Wells Fargo CEO Charlie Scharf said he \"absolutely\" supports the Federal Reserve's independence, but that the president is free to discuss interest rates.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c90fed5d4f36148e412f38b6ebb928db",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WELLS FARGO CEO BACKS TRUMP'S RIGHT TO DISCUSS FED 🚀\n\n- CEO supports Fed independence, Trump's discussions on rates ✅\n- Charlie Scharf emphasizes president's entitlement to talk about interest rates 🎯\n\nTAKEAWAY: Wells Fargo CEO affirms Fed's independence while endorsing Trump's freedom to engage in interest rate discussions.",
+      "exported_at": "2025-09-10T12:01:51.861771",
       "continuous_session": true
     }
   ]
