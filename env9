@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T12:06:59.564394",
-    "total_articles": 671,
-    "new_articles_in_last_fetch": 671,
+    "created_at": "2025-09-10T12:37:29.367841",
+    "total_articles": 672,
+    "new_articles_in_last_fetch": 672,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -8723,6 +8723,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP ADMINISTRATION TO ALERT FAMILIES ON STUDENT DEBT RISKS ⚠️\n\n- Education Department to educate students on borrowing pros and cons 📚\n- Aim to raise awareness on risks amidst record-high default rates 📉\n- Initiative focuses on informing families about college loan dangers 💸\n\nTAKEAWAY: Trump administration's move to warn families about student debt risks aims to empower students with crucial information to make informed financial decisions for their education.",
       "exported_at": "2025-09-10T12:06:59.508627",
+      "continuous_session": true
+    },
+    {
+      "title": "Josh Brown breaks down which stocks work best in a rate-cutting environment",
+      "link": "https://www.cnbc.com/video/2025/09/10/josh-brown-breaks-down-which-stocks-work-best-in-a-rate-cutting-environment.html",
+      "summary": "Josh Brown, CEO of Ritholtz Wealth Management, sits down with CNBC's Scott Wapner at the Future Proof Festival to discuss how he picks for his Best Stocks series for CNBC Pro. He also shares his playbook for the AI trade, and he takes questions from Pro subscribers.",
+      "published": "Wed, 10 Sep 2025 16:34:38 GMT",
+      "content": "Josh Brown, CEO of Ritholtz Wealth Management, sits down with CNBC's Scott Wapner at the Future Proof Festival to discuss how he picks for his Best Stocks series for CNBC Pro. He also shares his playbook for the AI trade, and he takes questions from Pro subscribers.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4f87cf08d062485c2c2179e3da855e5c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JOSH BROWN'S STRATEGY FOR STOCKS IN A RATE-CUTTING ENVIRONMENT 📈\n\n- CEO of Ritholtz Wealth Management reveals Best Stocks picks 🔍\n- Brown discusses AI trade playbook at Future Proof Festival 📊\n- Shares insights on selecting stocks during rate cuts 📉\n\nTAKEAWAY: Josh Brown's expert strategy unveils top stock picks and AI trade insights, emphasizing the importance of selecting stocks during rate cuts.",
+      "exported_at": "2025-09-10T12:37:29.313561",
       "continuous_session": true
     }
   ]
