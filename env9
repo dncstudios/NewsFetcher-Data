@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T19:55:06.936701",
-    "total_articles": 587,
-    "new_articles_in_last_fetch": 587,
+    "created_at": "2025-09-09T20:00:14.850967",
+    "total_articles": 588,
+    "new_articles_in_last_fetch": 588,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -7633,6 +7633,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: GEMINI BOOSTS IPO PRICE RANGE, EYES $3 BILLION VALUATION 🚀\n\n- Winklevoss-backed Gemini raises IPO target to $3.08 billion 💰\n- Increased price range showcases investor appetite for crypto 📈\n- Valuation surge reflects growing interest in crypto ventures 💎\n- Gemini's move aligns with the ongoing crypto market boom 🚀\n- IPO adjustment highlights the company's confidence and potential 💪\n\nTAKEAWAY: Gemini's upward revision of its IPO price range to target a $3 billion valuation demonstrates strong investor interest in crypto ventures amid the ongoing market boom.",
       "exported_at": "2025-09-09T19:55:06.898128",
+      "continuous_session": true
+    },
+    {
+      "title": "Apple raises iPhone Pro starting price in U.S. for first time since 2017",
+      "link": "https://www.cnbc.com/2025/09/09/apple-iphone-price-pro-max-us.html",
+      "summary": "Apple's iPhone 17 Pro starts at $1,099. That's $100 more than last year's iPhone 16 Pro.",
+      "published": "Tue, 09 Sep 2025 20:15:42 GMT",
+      "content": "Apple's iPhone 17 Pro starts at $1,099. That's $100 more than last year's iPhone 16 Pro.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6e1461707347f6276780559f3ddb593a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: APPLE RAISES IPHONE PRO PRICE IN U.S. FOR FIRST TIME SINCE 2017 📈\n\n- iPhone 17 Pro now starts at $1,099 in the U.S. 📈\n- Price increase of $100 compared to last year's iPhone 16 Pro 💰\n- First price hike for iPhone Pro since 2017 🚀\n\nTAKEAWAY: Apple breaks the trend by raising the starting price of the iPhone Pro in the U.S. for the first time in four years, signaling a shift in pricing strategy.",
+      "exported_at": "2025-09-09T20:00:14.815294",
       "continuous_session": true
     }
   ]
