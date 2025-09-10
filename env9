@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T08:47:51.892748",
-    "total_articles": 644,
-    "new_articles_in_last_fetch": 644,
+    "created_at": "2025-09-10T09:08:14.802375",
+    "total_articles": 647,
+    "new_articles_in_last_fetch": 647,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -8373,6 +8373,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: META & TIKTOK TRIUMPH: EU REGULATORS RECALCULATING FEES 🚀\n\n- Meta and TikTok succeed in legal challenge against EU regulators 🏆\n- EU forced to reassess supervisory fee calculation under tech rules ✅\n- Landmark victory shifts regulatory landscape for tech giants 🌐\n\nTAKEAWAY: Meta and TikTok's legal win against EU regulators forces a recalculation of fees, marking a significant shift in the tech industry's regulatory environment.",
       "exported_at": "2025-09-10T08:47:51.838818",
+      "continuous_session": true
+    },
+    {
+      "title": "Uber partners with fintech firm Pipe to offer loans to small businesses",
+      "link": "https://www.cnbc.com/2025/09/10/uber-eats-pipe-loans-restaurants.html",
+      "summary": "Uber is partnering with fintech firm Pipe to incorporate embedded technology in the Uber Eats Manager for small businesses to access loans.",
+      "published": "Wed, 10 Sep 2025 13:00:01 GMT",
+      "content": "Uber is partnering with fintech firm Pipe to incorporate embedded technology in the Uber Eats Manager for small businesses to access loans.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d85cf75d8120fbd7b3adb8dd260be53b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: UBER 🚀 PARTNERS WITH FINTECH PIPE FOR SMALL BUSINESS LOANS\n\n- Uber collaborates with fintech Pipe for small biz loans 🤝\n- Embedded tech in Uber Eats Manager enables loan access 💻\n- Aim to support small businesses with financial solutions ✅\n\nTAKEAWAY: Uber's partnership with fintech firm Pipe to provide small business loans through embedded technology showcases a commitment to supporting entrepreneurs with innovative financial solutions.",
+      "exported_at": "2025-09-10T09:08:14.746031",
+      "continuous_session": true
+    },
+    {
+      "title": "Amazon&apos;s Zoox jumps into U.S. robotaxi race with Las Vegas launch",
+      "link": "https://www.cnbc.com/2025/09/10/amazons-zoox-jumps-into-us-robotaxi-race-with-las-vegas-launch-.html",
+      "summary": "Amazon's Zoox robotaxi unit is offering free rides in Las Vegas from a few locations, with plans to expand in the city.",
+      "published": "Wed, 10 Sep 2025 13:00:01 GMT",
+      "content": "Amazon's Zoox robotaxi unit is offering free rides in Las Vegas from a few locations, with plans to expand in the city.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "87b443f5a79b7fbdeca299b2e8b754d5",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AMAZON'S ZOOX LAUNCHES FREE ROBOTAXI RIDES IN LAS VEGAS 🚀\n\n- Zoox enters U.S. robotaxi competition in Las Vegas 🚗\n- Free rides offered from select spots, aiming for city-wide expansion 🌆\n- Amazon's Zoox unit intensifies presence in the autonomous vehicle market 🤖\n\nTAKEAWAY: Amazon's Zoox makes a grand entrance into the U.S. robotaxi race by providing complimentary rides in Las Vegas, hinting at a significant future expansion in the city.",
+      "exported_at": "2025-09-10T09:08:14.746072",
+      "continuous_session": true
+    },
+    {
+      "title": "There&apos;s still time for ‘super catch-up’ 401(k) contributions for 2025 — here’s who benefits",
+      "link": "https://www.cnbc.com/2025/09/10/super-catch-up-401k-contributions-2025.html",
+      "summary": "For 2025, certain older workers can make \"super catch-up\" 401(k) contributions. Here is who benefits from the higher limits.",
+      "published": "Wed, 10 Sep 2025 12:52:53 GMT",
+      "content": "For 2025, certain older workers can make \"super catch-up\" 401(k) contributions. Here is who benefits from the higher limits.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ec5ff55d987c654a1ae694b93cf373fb",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: THERE'S STILL TIME FOR 'SUPER CATCH-UP' 401(K) CONTRIBUTIONS FOR 2025 ⏳\n\n- Older workers can make extra 401(k) contributions in 2025 💪\n- Increased limits offer benefits to specific age groups 📈\n- Opportunity for those wanting to boost retirement savings 🌟\n\nTAKEAWAY: Enhanced 401(k) contribution limits in 2025 provide a valuable opportunity for older workers looking to supercharge their retirement savings.",
+      "exported_at": "2025-09-10T09:08:14.746078",
       "continuous_session": true
     }
   ]
