@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T03:06:48.762120",
-    "total_articles": 622,
-    "new_articles_in_last_fetch": 622,
+    "created_at": "2025-09-10T03:27:08.130661",
+    "total_articles": 623,
+    "new_articles_in_last_fetch": 623,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -8087,6 +8087,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: EUROPEAN STOCKS RISE AMID INFLATION, TRADE NEWS 🚀\n\n- European stocks open higher on Wednesday 📈\n- Investors analyze trade news and inflation data 📊\n- Market sentiment positive at the opening bell ✅\n\nTAKEAWAY: European stocks surge as investors evaluate trade updates and inflation figures, setting a positive tone for market sentiment.",
       "exported_at": "2025-09-10T03:06:48.701582",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump and Modi strike conciliatory tone, voice optimism on U.S.-India trade talks",
+      "link": "https://www.cnbc.com/2025/09/10/trump-and-modi-strike-conciliatory-tone-voice-optimism-on-us-india-trade-talks.html",
+      "summary": "The turnaround also came as reports emerged that Trump had asked the European Union to impose 100% tariffs on India and China over their Russian oil purchases.",
+      "published": "Wed, 10 Sep 2025 07:21:54 GMT",
+      "content": "The turnaround also came as reports emerged that Trump had asked the European Union to impose 100% tariffs on India and China over their Russian oil purchases.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6652ca3ba832e3833f106ab0cf53bc73",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP & MODI OPTIMISTIC ON U.S.-INDIA TRADE TALKS 🚀\n\n- Trump & Modi show positivity in U.S.-India trade discussions 💬\n- Reports: Trump seeks 100% tariffs on India & China for Russian oil buys 🛢️\n- Conciliatory tone in talks marks a significant turnaround 🔁\n- European Union requested to impose hefty tariffs on India & China 🇪🇺\n- Optimism surrounds Trump and Modi's trade relationship 🌐\n\nTAKEAWAY: Trump and Modi's optimistic stance in U.S.-India trade talks signals a positive turnaround, despite reports of proposed tariffs on Russian oil purchases.",
+      "exported_at": "2025-09-10T03:27:08.084695",
       "continuous_session": true
     }
   ]
