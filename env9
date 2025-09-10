@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T15:05:13.441151",
-    "total_articles": 685,
-    "new_articles_in_last_fetch": 685,
+    "created_at": "2025-09-10T15:10:22.322285",
+    "total_articles": 686,
+    "new_articles_in_last_fetch": 686,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -8905,6 +8905,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: S&P 500 FUTURES EDGE UP AHEAD OF INFLATION DATA 🚀\n\n- S&P 500 futures show slight increase before inflation data release\n- Oracle's AI trade sparks interest in the market\n- Major averages hit new record highs recently\n\nTAKEAWAY: S&P 500 futures show a promising start before the inflation data, fueled by Oracle's AI trade, while major averages reach new record highs.",
       "exported_at": "2025-09-10T15:05:13.390038",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump ally Charlie Kirk reported shot at Utah college event",
+      "link": "https://www.cnbc.com/2025/09/10/charlie-kirk-uvu-shooting-utah.html",
+      "summary": "\"We must all pray for Charlie Kirk, who has been shot,\" President Donald Trump wrote in a social media post. \"GOD BLESS HIM!\"",
+      "published": "Wed, 10 Sep 2025 19:09:08 GMT",
+      "content": "\"We must all pray for Charlie Kirk, who has been shot,\" President Donald Trump wrote in a social media post. \"GOD BLESS HIM!\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "58c1c6a96251934f5980e89585d742de",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP ALLY CHARLIE KIRK SHOT AT UTAH COLLEGE EVENT 🚨\n\n- President Trump requests prayers for Charlie Kirk 🙏\n- Shocking incident at a Utah college event 🔫\n- Trump sends blessings to Kirk for his recovery ✨\n\nTAKEAWAY: President Trump's call for prayers and blessings for Charlie Kirk after the shocking shooting incident at a Utah college event.",
+      "exported_at": "2025-09-10T15:10:22.269421",
       "continuous_session": true
     }
   ]
