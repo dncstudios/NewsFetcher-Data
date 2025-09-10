@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T23:03:23.031193",
-    "total_articles": 607,
-    "new_articles_in_last_fetch": 607,
+    "created_at": "2025-09-09T23:58:59.118480",
+    "total_articles": 608,
+    "new_articles_in_last_fetch": 608,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -7893,6 +7893,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP URGES EU TO IMPOSE 100% TARIFFS ON INDIA & CHINA TO PRESSURE PUTIN 🚀\n\n- Trump requests EU to impose tariffs on China and India 🌍\n- Tariffs up to 100% over countries' Russia oil purchases 🛢️\n- Aim is to squeeze Putin by targeting oil revenue 🎯\n\nTAKEAWAY: Trump's push for 100% tariffs on India and China through the EU aims to apply pressure on Putin by targeting oil revenue.",
       "exported_at": "2025-09-09T23:03:22.979746",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump blocked from firing Fed Governor Lisa Cook as lawsuit plays out",
+      "link": "https://www.cnbc.com/2025/09/09/fed-lisa-cook-trump-powell-judge-jia-cobb-pulte.html",
+      "summary": "The Supreme Court is likely to have the final say on whether President Donald Trump has legal cause to remove Lisa Cook from the Federal Reserve.",
+      "published": "Wed, 10 Sep 2025 03:58:11 GMT",
+      "content": "The Supreme Court is likely to have the final say on whether President Donald Trump has legal cause to remove Lisa Cook from the Federal Reserve.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1cce784c58cf5d1bd6618e2b83c8843a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JUDGE HALTS TRUMP'S MOVE TO FIRE FED GOVERNOR LISA COOK ⚠️\n\n- Trump's attempt to remove Lisa Cook from the Federal Reserve blocked by judge\n- Lawsuit determines if Trump has legal grounds to dismiss Cook\n- Supreme Court expected to make final decision on the case\n\nTAKEAWAY: Legal battle ensues as judge prevents Trump from firing Fed Governor Lisa Cook, with Supreme Court set to have the final say.",
+      "exported_at": "2025-09-09T23:58:59.080361",
       "continuous_session": true
     }
   ]
