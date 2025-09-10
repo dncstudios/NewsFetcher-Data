@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T20:51:10.177723",
-    "total_articles": 595,
-    "new_articles_in_last_fetch": 595,
+    "created_at": "2025-09-09T20:56:16.210372",
+    "total_articles": 596,
+    "new_articles_in_last_fetch": 596,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -7737,6 +7737,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CHINA'S UNITREE EYES $7 BILLION IPO VALUATION 🚀\n\n- Unitree's IPO could value the company at $7 billion 💰\n- Specializing in humanoid robots, Unitree leads in the IPO race 🤖\n- One of the first in its niche to go public 🎯\n\nTAKEAWAY: Unitree's potential $7 billion IPO valuation marks a significant milestone in the competitive humanoid robot industry, positioning them as a pioneering player in the market.",
       "exported_at": "2025-09-09T20:51:10.131030",
+      "continuous_session": true
+    },
+    {
+      "title": "&apos;We&apos;re all kind of in shock.&apos; Oracle&apos;s revenue projections leave analysts slack-jawed",
+      "link": "https://www.cnbc.com/2025/09/09/were-all-kind-of-in-shock-oracle-projections-analysts-slackjawed.html",
+      "summary": "Oracle's earnings report included numbers that suggest the company's growth rate due to artificial intelligence is about to pop.",
+      "published": "Wed, 10 Sep 2025 00:51:37 GMT",
+      "content": "Oracle's earnings report included numbers that suggest the company's growth rate due to artificial intelligence is about to pop.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8d9b7197104e9d3a40546fde7cd6029f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ORACLE'S AI-POWERED GROWTH SHOCKS ANALYSTS 🚀\n\n- Oracle's revenue projections stun analysts 🤯\n- Anticipated growth rate from AI implementation is staggering 💥\n- Earnings report hints at an imminent explosion in company's success 💰\n\nTAKEAWAY: Oracle's groundbreaking revenue projections, fueled by AI advancements, have left analysts astounded and eager for the company's imminent exponential growth.",
+      "exported_at": "2025-09-09T20:56:16.167454",
       "continuous_session": true
     }
   ]
