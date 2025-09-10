@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T01:20:03.122244",
-    "total_articles": 612,
-    "new_articles_in_last_fetch": 612,
+    "created_at": "2025-09-10T01:25:11.871120",
+    "total_articles": 613,
+    "new_articles_in_last_fetch": 613,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -7957,6 +7957,19 @@
       "hash": "2d2ddef5c702e742cacd627bda0a012e",
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "exported_at": "2025-09-10T01:20:03.080089",
+      "continuous_session": true
+    },
+    {
+      "title": "Wegovy-maker Novo Nordisk to cut around 9,000 jobs",
+      "link": "https://www.cnbc.com/2025/09/10/wegovy-maker-novo-nordisk-to-cut-around-9000-jobs.html",
+      "summary": "Novo Nordisk, which produces Wegovy and Ozempic, said 9,000 roles would be cut.",
+      "published": "Wed, 10 Sep 2025 05:21:56 GMT",
+      "content": "Novo Nordisk, which produces Wegovy and Ozempic, said 9,000 roles would be cut.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "17b4b1ac47b005bf1d35d4867fa36c40",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NOVO NORDISK SLASHES 9,000 JOBS 🚨\n\n- Novo Nordisk, maker of Wegovy and Ozempic, to cut 9,000 roles\n- Workforce reduction announced for the pharmaceutical giant 💊\n- Impact on company's operations and future strategies not disclosed\n\nTAKEAWAY: Novo Nordisk's decision to cut 9,000 jobs raises questions about its operational adjustments and strategic plans moving forward.",
+      "exported_at": "2025-09-10T01:25:11.821548",
       "continuous_session": true
     }
   ]
