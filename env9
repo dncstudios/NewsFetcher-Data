@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T04:17:58.237341",
-    "total_articles": 627,
-    "new_articles_in_last_fetch": 627,
+    "created_at": "2025-09-10T05:34:07.019041",
+    "total_articles": 628,
+    "new_articles_in_last_fetch": 628,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -8152,6 +8152,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: URANIUM MARKET HEATS UP ON NUCLEAR REVIVAL HOPES 🚀\n\n- Uranium supplies rebounding, sparking market interest 🔥\n- Demand for nuclear energy surges, driving market growth 📈\n- Need for faster permitting and mining advancements identified ✅\n- Exploration efforts crucial to meet rising demand ⚒️\n- Market optimism fueled by hopes for nuclear industry revival 🚀\n\nTAKEAWAY: The uranium market gains momentum as supplies recover, highlighting the need for rapid permitting, mining innovations, and exploration to meet the growing demand for nuclear energy.",
       "exported_at": "2025-09-10T04:17:58.195696",
+      "continuous_session": true
+    },
+    {
+      "title": "Sen. Cruz introduces bill to reduce regulatory burden facing AI companies",
+      "link": "https://www.cnbc.com/2025/09/10/sen-cruz-introduces-ai-sandboxing-bill-to-reduce-regulatory-burdens.html",
+      "summary": "A proposal from Sen. Ted Cruz would allow AI companies to work with federal agencies to modify or waive regulations and speed up approval for AI software.",
+      "published": "Wed, 10 Sep 2025 09:00:01 GMT",
+      "content": "A proposal from Sen. Ted Cruz would allow AI companies to work with federal agencies to modify or waive regulations and speed up approval for AI software.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2e4a973b85a8dba5a0b260c0784fcf02",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SEN. CRUZ PROPOSES BILL TO EASE REGULATORY BURDEN ON AI COMPANIES 🚀\n\n- Sen. Ted Cruz introduces bill to reduce regulations for AI firms 🤖\n- Proposal aims to fast-track approval process for AI software 🏎️\n- AI companies can collaborate with federal agencies for regulation modifications ✅\n- Cruz's bill focuses on reducing regulatory obstacles for AI innovation 🎯\n\nTAKEAWAY: Sen. Ted Cruz's bill proposes to streamline regulations, enabling AI companies to accelerate innovation and collaboration with federal agencies.",
+      "exported_at": "2025-09-10T05:34:06.966997",
       "continuous_session": true
     }
   ]
