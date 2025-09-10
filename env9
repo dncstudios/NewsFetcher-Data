@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-09T20:20:35.518242",
-    "total_articles": 590,
-    "new_articles_in_last_fetch": 590,
+    "created_at": "2025-09-09T20:35:51.574407",
+    "total_articles": 592,
+    "new_articles_in_last_fetch": 592,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -7672,6 +7672,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ASIA MARKETS BRACE FOR GROWTH AHEAD OF CHINA INFLATION DATA 🚀\n\n- Investors eagerly await August inflation data from China 📊\n- Market sentiment positive, expecting mostly higher openings 🌟\n- China's inflation figures crucial for market direction 📈\n- Anticipation builds as investors eye key economic indicators 🔍\n\nTAKEAWAY: Asia markets poised for growth as investors eagerly anticipate China's crucial August inflation data, setting a positive tone for the day.",
       "exported_at": "2025-09-09T20:20:35.467515",
+      "continuous_session": true
+    },
+    {
+      "title": "&apos;We&apos;re all kind of in shock.&apos; Oracle&apos;s revenue projections leave analysts slackjawed",
+      "link": "https://www.cnbc.com/2025/09/09/were-all-kind-of-in-shock-oracle-projections-analysts-slackjawed.html",
+      "summary": "Oracle's earnings report included numbers that suggest the company's growth rate due to artificial intelligence is about to pop.",
+      "published": "Wed, 10 Sep 2025 00:30:15 GMT",
+      "content": "Oracle's earnings report included numbers that suggest the company's growth rate due to artificial intelligence is about to pop.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a8a719910e58fc4d3da62c6f85ce609f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ORACLE'S AI-POWERED GROWTH SHOCKS ANALYSTS 🚀\n\n- Oracle's revenue projections stun analysts 🤯\n- Anticipated growth rate from AI implementation is staggering 💥\n- Earnings report hints at an imminent explosion in company's success 💰\n\nTAKEAWAY: Oracle's groundbreaking revenue projections, fueled by AI advancements, have left analysts astounded and eager for the company's imminent exponential growth.",
+      "exported_at": "2025-09-09T20:35:51.522929",
+      "continuous_session": true
+    },
+    {
+      "title": "Klarna prices IPO at $40, above online lender&apos;s expected range",
+      "link": "https://www.cnbc.com/2025/09/09/klarna-prices-ipo-at-40-above-online-lenders-expected-range-.html",
+      "summary": "Klarna priced its IPO at $40 a share, an offering that values the company at about $15 billion.",
+      "published": "Wed, 10 Sep 2025 00:28:14 GMT",
+      "content": "Klarna priced its IPO at $40 a share, an offering that values the company at about $15 billion.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f23f28b07661f618d9f81464a4f73a45",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: KLARNA IPO PRICED AT $40, SURPASSING EXPECTATIONS 🚀\n\n- Klarna's IPO priced at $40 per share, valuing the company at $15 billion 💰\n- Share price exceeds online lender's anticipated range 📈\n- Strong investor interest reflected in the higher pricing 💪\n\nTAKEAWAY: Klarna's IPO pricing at $40 per share surpasses expectations, showcasing strong investor confidence in the online lender's potential growth.",
+      "exported_at": "2025-09-09T20:35:51.523009",
       "continuous_session": true
     }
   ]
