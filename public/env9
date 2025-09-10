@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T10:30:14.740132",
-    "total_articles": 660,
-    "new_articles_in_last_fetch": 660,
+    "created_at": "2025-09-10T10:35:20.633360",
+    "total_articles": 662,
+    "new_articles_in_last_fetch": 662,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -8581,6 +8581,31 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: POTBELLY ACQUIRED BY RACETRAC FOR $566 MILLION 🚀\n\n- RaceTrac seals deal to acquire Potbelly in $566 million agreement 💰\n- Acquisition marks strategic move into food industry for RaceTrac 🍔\n- Potbelly gains new growth opportunities under RaceTrac's ownership 🌱\n- RaceTrac aims to leverage Potbelly's brand strength for expansion 🚀\n- $566 million deal signals confidence in Potbelly's potential 📈\n- Acquisition boosts RaceTrac's presence in the competitive food sector 🥪\n\nTAKEAWAY: RaceTrac's acquisition of Potbelly for $566 million signals a strategic move into the food industry, offering growth opportunities and brand leverage for both companies.",
       "exported_at": "2025-09-10T10:30:14.699659",
+      "continuous_session": true
+    },
+    {
+      "title": "S&amp;P 500 jumps to new record on encouraging inflation reading, Oracle stock surge: Live updates",
+      "link": "https://www.cnbc.com/2025/09/09/stock-market-today-live-updates.html",
+      "summary": "The major averages closed at new record highs on Tuesday.",
+      "published": "Wed, 10 Sep 2025 14:34:44 GMT",
+      "content": "The major averages closed at new record highs on Tuesday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "281b727841f63220e76d4a72edd3fa9a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: S&P 500 FUTURES EDGE UP AHEAD OF INFLATION DATA 🚀\n\n- S&P 500 futures show slight increase before inflation data release\n- Oracle's AI trade sparks interest in the market\n- Major averages hit new record highs recently\n\nTAKEAWAY: S&P 500 futures show a promising start before the inflation data, fueled by Oracle's AI trade, while major averages reach new record highs.",
+      "exported_at": "2025-09-10T10:35:20.578963",
+      "continuous_session": true
+    },
+    {
+      "title": "IPO index hits 3-year high with Klarna latest offering set to boom. Why is market so hot and can it continue?",
+      "link": "https://www.cnbc.com/2025/09/10/ipo-index-hits-3-year-high-with-klarna-latest-offering-set-to-boom.html",
+      "summary": "Klarna is just the latest IPO to hit the market.",
+      "published": "Wed, 10 Sep 2025 14:30:26 GMT",
+      "content": "Klarna is just the latest IPO to hit the market.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e78358328472bc86bb205852725b8707",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "exported_at": "2025-09-10T10:35:20.579033",
       "continuous_session": true
     }
   ]
