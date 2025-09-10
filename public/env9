@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T03:47:34.945586",
-    "total_articles": 626,
-    "new_articles_in_last_fetch": 626,
+    "created_at": "2025-09-10T04:17:58.237341",
+    "total_articles": 627,
+    "new_articles_in_last_fetch": 627,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -8139,6 +8139,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: POLAND ENGAGES IN DRONE BATTLE WITH RUSSIA AMID UKRAINE WARNINGS 🚨\n\n- Poland shoots down Russian drones in airspace clash 🛸🚫\n- First direct engagement with Russian assets after Ukraine invasion 🇺🇦\n- Tensions rise as NATO member takes action against Russia 📈🔥\n\nTAKEAWAY: Poland's interception of Russian drones amid Ukraine's warning of Putin's testing signifies escalating tensions and NATO's assertive stance.",
       "exported_at": "2025-09-10T03:47:34.893116",
+      "continuous_session": true
+    },
+    {
+      "title": "The uranium boom is back as demand for nuclear surges",
+      "link": "https://www.cnbc.com/2025/09/10/uranium-market-heats-up-on-nuclear-revival-hopes.html",
+      "summary": "Uranium supplies are recovering, but accelerated permitting, mining innovations and new explorations must take place to meet surging nuclear energy demand.",
+      "published": "Wed, 10 Sep 2025 08:13:10 GMT",
+      "content": "Uranium supplies are recovering, but accelerated permitting, mining innovations and new explorations must take place to meet surging nuclear energy demand.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "94c7110351590f6a38986be2abb748bd",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: URANIUM MARKET HEATS UP ON NUCLEAR REVIVAL HOPES 🚀\n\n- Uranium supplies rebounding, sparking market interest 🔥\n- Demand for nuclear energy surges, driving market growth 📈\n- Need for faster permitting and mining advancements identified ✅\n- Exploration efforts crucial to meet rising demand ⚒️\n- Market optimism fueled by hopes for nuclear industry revival 🚀\n\nTAKEAWAY: The uranium market gains momentum as supplies recover, highlighting the need for rapid permitting, mining innovations, and exploration to meet the growing demand for nuclear energy.",
+      "exported_at": "2025-09-10T04:17:58.195696",
       "continuous_session": true
     }
   ]
