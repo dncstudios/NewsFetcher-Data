@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T15:51:21.980075",
-    "total_articles": 695,
-    "new_articles_in_last_fetch": 695,
+    "created_at": "2025-09-10T15:56:29.724539",
+    "total_articles": 696,
+    "new_articles_in_last_fetch": 696,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -9035,6 +9035,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AIR INDIA EMBRACES SAFETY FOCUS AFTER DEADLY CRASH 🚀\n\n- Air India CEO emphasizes safety in the wake of recent crash ✈️🔒\n- Carrier upgrading fleets with new seats and amenities 🛫💺\n- Focus on modernization to compete with larger airlines 💪🌟\n\nTAKEAWAY: Air India shifts focus to safety and modernization post-crash to enhance competitiveness in the airline industry.",
       "exported_at": "2025-09-10T15:51:21.930890",
+      "continuous_session": true
+    },
+    {
+      "title": "Boeing reaches tentative labor deal with striking defense workers",
+      "link": "https://www.cnbc.com/2025/09/10/iam-union-boeing-agreement-strike.html",
+      "summary": "The IAM Union said Wednesday that it reached a tentative five-year agreement with Boeing for better wages.",
+      "published": "Wed, 10 Sep 2025 19:49:08 GMT",
+      "content": "The IAM Union said Wednesday that it reached a tentative five-year agreement with Boeing for better wages.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f31c7549d0e1a89496af7e29727eb8e3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BOEING REACHES TENTATIVE LABOR DEAL WITH STRIKING WORKERS 🚀\n\n- IAM Union and Boeing agree on a five-year tentative deal 💼\n- Deal aims to provide better wages for defense workers 💰\n- Agreement reached after workers went on strike 🛠️\n- This deal could potentially end the strike ✅\n- Terms of the agreement not disclosed 📉\n- Union members to vote on the proposed deal soon 🗳️\n\nTAKEAWAY: Boeing's tentative labor deal with IAM Union signals progress towards resolving the strike and potentially improving wages for defense workers.",
+      "exported_at": "2025-09-10T15:56:29.681396",
       "continuous_session": true
     }
   ]
