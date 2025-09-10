@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T13:13:19.833981",
-    "total_articles": 678,
-    "new_articles_in_last_fetch": 678,
+    "created_at": "2025-09-10T13:43:49.379014",
+    "total_articles": 679,
+    "new_articles_in_last_fetch": 679,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -8814,6 +8814,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: KLARNA MAKES DEBUT ON NYSE AT $52/SHARE 🚀\n\n- Klarna IPO priced above range at $40/share 💰\n- Valued at about $15 billion 📈\n- Opens on NYSE at $52/share 📈\n- Strong investor interest evident 💪\n- Successful IPO showcases market confidence ✅\n- Klarna's debut signals market optimism 🌟\n\nTAKEAWAY: Klarna's strong IPO pricing and impressive debut on the NYSE highlight investor confidence and market optimism in the company's future growth.",
       "exported_at": "2025-09-10T13:13:19.785284",
+      "continuous_session": true
+    },
+    {
+      "title": "Volatile megacap Tesla is on the verge of another breakout, according to the charts",
+      "link": "https://www.cnbc.com/2025/09/10/tsla-is-on-the-verge-of-another-breakout-according-to-the-chart.html",
+      "summary": "The stock has a tendency to capitalize on buy-side momentum when demand finally finds its way back — and that could be happening again soon.",
+      "published": "Wed, 10 Sep 2025 17:36:24 GMT",
+      "content": "The stock has a tendency to capitalize on buy-side momentum when demand finally finds its way back — and that could be happening again soon.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "672cd7646e102ccf2d19f6810d10b4a9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: VOLATILE TESLA PRIMED FOR ANOTHER BREAKOUT 🚀\n\n- Tesla's stock known to surge with buy-side momentum ⚡️\n- Anticipation of demand resurgence fuels breakout speculation 🔥\n- Charts suggest Tesla on the verge of another significant move 📈\n\nTAKEAWAY: Tesla's volatile nature and historical patterns indicate a potential breakout as buy-side momentum and demand anticipation rise, making it a stock to watch closely.",
+      "exported_at": "2025-09-10T13:43:49.334369",
       "continuous_session": true
     }
   ]
