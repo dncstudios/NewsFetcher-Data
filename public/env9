@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T01:25:11.871120",
-    "total_articles": 613,
-    "new_articles_in_last_fetch": 613,
+    "created_at": "2025-09-10T01:35:26.052877",
+    "total_articles": 616,
+    "new_articles_in_last_fetch": 616,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -7970,6 +7970,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NOVO NORDISK SLASHES 9,000 JOBS 🚨\n\n- Novo Nordisk, maker of Wegovy and Ozempic, to cut 9,000 roles\n- Workforce reduction announced for the pharmaceutical giant 💊\n- Impact on company's operations and future strategies not disclosed\n\nTAKEAWAY: Novo Nordisk's decision to cut 9,000 jobs raises questions about its operational adjustments and strategic plans moving forward.",
       "exported_at": "2025-09-10T01:25:11.821548",
+      "continuous_session": true
+    },
+    {
+      "title": "Retail investors&apos; growing access to private markets in Europe could be a double-edged sword",
+      "link": "https://www.cnbc.com/2025/09/10/retail-investors-access-to-private-markets-could-be-double-edged.html",
+      "summary": "Private equity and credit offer new opportunities for long-term returns, but are also risky and lack the same transparency as public markets.",
+      "published": "Wed, 10 Sep 2025 05:29:23 GMT",
+      "content": "Private equity and credit offer new opportunities for long-term returns, but are also risky and lack the same transparency as public markets.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f38c1e9cca6b9a84f3f3855762d33117",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: RETAIL INVESTORS' PRIVATE MARKET ACCESS IN EUROPE: DOUBLE-EDGED SWORD ⚠️\n\n- Retail investors gain access to private equity & credit markets 📈\n- Opportunities for long-term returns but higher risks involved ⚠️\n- Private markets lack transparency of public markets 🕵️‍♂️\n\nTAKEAWAY: Retail investors entering Europe's private markets face opportunities for high returns but must navigate higher risks and lower transparency compared to public markets.",
+      "exported_at": "2025-09-10T01:35:26.006533",
+      "continuous_session": true
+    },
+    {
+      "title": "CNBC&apos;s UK Exchange newsletter: Holiday stocks still come with baggage",
+      "link": "https://www.cnbc.com/2025/09/10/holiday-stocks-still-come-with-baggage-cnbcs-uk-exchange-newsletter.html",
+      "summary": "After something of a renaissance for the package holiday sector, Jet2's profit warning serves to remind investors of its unpredictability.",
+      "published": "Wed, 10 Sep 2025 05:30:01 GMT",
+      "content": "After something of a renaissance for the package holiday sector, Jet2's profit warning serves to remind investors of its unpredictability.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "cd11f2213ffd47dd14ef1c666b26e679",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CNBC'S UK EXCHANGE NEWSLETTER: HOLIDAY STOCKS STILL COME WITH BAGGAGE 🚨\n\n- Jet2's profit warning highlights unpredictability in holiday sector ✈️\n- Package holiday sector sees a renaissance 🌴\n- Investors reminded of risks despite recent sector growth 📉\n- Uncertainty looms over holiday stocks 🤔\n\nTAKEAWAY: Despite a resurgence in the package holiday sector, Jet2's profit warning emphasizes the unpredictability and risks that come with investing in holiday stocks.",
+      "exported_at": "2025-09-10T01:35:26.006607",
+      "continuous_session": true
+    },
+    {
+      "title": "Europe&apos;s hotly contested ban on new gasoline cars is back in the spotlight",
+      "link": "https://www.cnbc.com/2025/09/10/ice-2035-ban-auto-giants-lock-horns-over-eu-carbon-regulation-at-iaa.html",
+      "summary": "Europe's ban on the sale of new petrol and gasoline cars and vans from 2035 has been a hot topic at the IAA Mobility auto show in Munich this week.",
+      "published": "Wed, 10 Sep 2025 05:31:25 GMT",
+      "content": "Europe's ban on the sale of new petrol and gasoline cars and vans from 2035 has been a hot topic at the IAA Mobility auto show in Munich this week.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "36cbdfa9a829457565f6ab254ae4d8b1",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: EUROPE'S BAN ON GASOLINE CARS BY 2035 SPARKS DEBATE 🔥\n\n- Europe's ban on new petrol cars from 2035 causes buzz at IAA Mobility show 🚗\n- Automotive industry debates implications of the upcoming ban ⚡️\n- Ban on gasoline cars and vans triggers discussions on future of transportation 🌍\n\nTAKEAWAY: Europe's plan to ban new petrol cars by 2035 generates intense debate and speculation within the automotive industry, hinting at a major shift in transportation trends.",
+      "exported_at": "2025-09-10T01:35:26.006619",
       "continuous_session": true
     }
   ]
