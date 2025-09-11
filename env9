@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T10:43:31.443699",
-    "total_articles": 782,
-    "new_articles_in_last_fetch": 782,
+    "created_at": "2025-09-11T11:14:00.437945",
+    "total_articles": 783,
+    "new_articles_in_last_fetch": 783,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -10166,6 +10166,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: OPENDOOR STOCK SOARS 60% AFTER NEW CEO APPOINTMENT 🚀\n\n- Opendoor's stock jumps by 60% post new CEO announcement\n- Former CEO Carrie Wheeler resigns amid investor pressure campaign\n- Investors react positively to the leadership change\n- Company aims for growth and stability under new leadership\n- Market confidence boosts Opendoor's stock performance\n- New CEO appointment signals a fresh start for the company\n\nTAKEAWAY: Opendoor's stock surges as investors show optimism with the new CEO appointment, signaling a positive outlook for the company's future.",
       "exported_at": "2025-09-11T10:43:31.433855",
+      "continuous_session": true
+    },
+    {
+      "title": "A risk reversal options trade to ride out gold&apos;s run to all-time highs",
+      "link": "https://www.cnbc.com/2025/09/11/a-risk-reversal-options-trade-to-ride-out-golds-run-to-all-time-highs.html",
+      "summary": "Gold remains a compelling investment amid prevailing economic uncertainty, with its price hitting record highs above $3,600 per ounce.",
+      "published": "Thu, 11 Sep 2025 15:03:10 GMT",
+      "content": "Gold remains a compelling investment amid prevailing economic uncertainty, with its price hitting record highs above $3,600 per ounce.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "cf0d5f5363c94e00802e622487ebf56e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: RIDE GOLD'S ALL-TIME HIGH WITH RISK REVERSAL OPTIONS TRADE 🚀\n\n- Gold surges past $3,600/ounce, a new record high 📈\n- Economic uncertainty makes gold a compelling investment 💰\n- Consider risk reversal options trade to maximize gains 📊\n- Strategy allows benefiting from gold's upward momentum 📈\n- Investors seeking to ride out gold's bullish run ⚡️\n- Gold's performance signals strong market interest 📊\n\nTAKEAWAY: Amid economic uncertainty, consider risk reversal options trade to capitalize on gold's record-breaking surge and maximize gains. 🚀",
+      "exported_at": "2025-09-11T11:14:00.372718",
       "continuous_session": true
     }
   ]
