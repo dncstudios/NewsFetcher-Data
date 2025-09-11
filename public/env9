@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T00:20:25.807441",
-    "total_articles": 731,
-    "new_articles_in_last_fetch": 731,
+    "created_at": "2025-09-11T00:45:45.233313",
+    "total_articles": 732,
+    "new_articles_in_last_fetch": 732,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -9503,6 +9503,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCK BENCHMARKS HIT RECORD HIGHS AS 'ANIMAL SPIRITS' SOAR 🚀\n\n- Record highs driven by easing inflation pressures 📈\n- Investor sentiment boosted by resilient corporate earnings 💪\n- Expectations for U.S. rate cuts add to the positive outlook ✅\n\nTAKEAWAY: Stock benchmarks are reaching new heights fueled by optimistic investor sentiment, driven by easing inflation, strong earnings, and potential rate cuts.",
       "exported_at": "2025-09-11T00:20:25.748293",
+      "continuous_session": true
+    },
+    {
+      "title": "Japan&apos;s Nikkei 225 hits a new high as SoftBank surges over 10%",
+      "link": "https://www.cnbc.com/2025/09/11/asia-markets-today-updates-nikkei-225-hang-seng-asx-csi-300-nifty-50.html",
+      "summary": "U.S. equity futures were little changed in early Asian hours, as Wall Street awaited a key consumer inflation gauge for August due out Thursday stateside.",
+      "published": "Thu, 11 Sep 2025 04:41:22 GMT",
+      "content": "U.S. equity futures were little changed in early Asian hours, as Wall Street awaited a key consumer inflation gauge for August due out Thursday stateside.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f3c04aa21e8afde93b568670852f6783",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASIA MARKETS AWAIT INFLATION DATA AFTER WALL STREET GAINS 🚀\n\n- U.S. equity futures stable, eyes on key inflation data 📈\n- Wall Street anticipates August consumer inflation report 📅\n- Asia markets set for mixed opening after positive Wall Street session 🌏\n\nTAKEAWAY: Asia markets poised for a mixed open following Wall Street gains, with focus on upcoming U.S. inflation data.",
+      "exported_at": "2025-09-11T00:45:45.179016",
       "continuous_session": true
     }
   ]
