@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T10:07:37.169763",
-    "total_articles": 772,
-    "new_articles_in_last_fetch": 772,
+    "created_at": "2025-09-11T10:12:45.982992",
+    "total_articles": 773,
+    "new_articles_in_last_fetch": 773,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -10036,6 +10036,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CNBC SPORT: YOUTUBE'S NFL GAME SIGNALS LEAGUE'S FUTURE 🏈\n\n- YouTube's 1st NFL game hints at league's evolving strategy\n- Broadcast TV maintains NFL dominance for now\n- NCAA's Charlie Baker discusses gambling and private equity\n\nTAKEAWAY: YouTube's debut NFL game provides insights into the league's future strategies, while broadcast TV remains the dominant platform for NFL content.",
       "exported_at": "2025-09-11T10:07:37.109322",
+      "continuous_session": true
+    },
+    {
+      "title": "Opendoor stock soars 50% after company names new CEO",
+      "link": "https://www.cnbc.com/2025/09/11/opendoor-stock-ceo-nejatian-keith-rabois.html",
+      "summary": "Former CEO Carrie Wheeler resigned last month following a pressure campaign from investors",
+      "published": "Thu, 11 Sep 2025 14:07:31 GMT",
+      "content": "Former CEO Carrie Wheeler resigned last month following a pressure campaign from investors",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "056bdf58f67801e21585f39f3cf69818",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: OPENDOOR STOCK SOARS 50% AFTER NEW CEO APPOINTMENT 🚀\n\n- Opendoor appoints new CEO, stock jumps 50% 📈\n- Former CEO resigned due to investor pressure campaign ⚠️\n- Market reacts positively to leadership change 🔥\n\nTAKEAWAY: Opendoor's stock surges 50% after announcing a new CEO, indicating investor confidence in the leadership transition.",
+      "exported_at": "2025-09-11T10:12:45.914727",
       "continuous_session": true
     }
   ]
