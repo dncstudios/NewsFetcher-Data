@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T15:56:39.232213",
-    "total_articles": 824,
-    "new_articles_in_last_fetch": 824,
+    "created_at": "2025-09-11T16:01:49.778900",
+    "total_articles": 825,
+    "new_articles_in_last_fetch": 825,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -10712,6 +10712,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BLOCKCHAIN LENDER FIGURE MAKES A SPLASH ON NASDAQ 🚀\n\n- Major cryptocurrencies surge amid expectations of Fed rate cut 🔥\n- Investors optimistic about inflation gauge not affecting rates ✅\n- Figure, a blockchain lending firm, debuts on the Nasdaq 🚀\n- Kyle Samani reveals $1.5 billion deal for Solana treasury company 💰\n- Crypto IPO momentum continues to drive market excitement 🌟\n\nTAKEAWAY: The public debut of blockchain lender Figure on the Nasdaq, alongside the surge in major cryptocurrencies, signals a bullish trend in the crypto market with growing investor optimism and excitement.",
       "exported_at": "2025-09-11T15:56:39.164994",
+      "continuous_session": true
+    },
+    {
+      "title": "Oracle shares retreat 6% after sharpest rally in more than 30 years",
+      "link": "https://www.cnbc.com/2025/09/11/oracle-shares-slide-7percent-openai.html",
+      "summary": "One analyst fretted that much of Oracle's planned business expansion comes from a single client: OpenAI.",
+      "published": "Thu, 11 Sep 2025 20:00:43 GMT",
+      "content": "One analyst fretted that much of Oracle's planned business expansion comes from a single client: OpenAI.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c9fe4df746a7a0613b8d741694a3d1b7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ORACLE SHARES DIP 7% AFTER RECORD RALLY 📉\n\n- Oracle stock falls 7% after biggest surge in 30+ years 📉\n- Concerns rise over heavy reliance on OpenAI for expansion 🤔\n- Analyst worried about Oracle's singular client impacting growth 💼\n- Market reacts to Oracle's sharp decline post-rally 📉\n- OpenAI's influence on Oracle's business expansion raises alarms ⚠️\n\nTAKEAWAY: Oracle's stock takes a hit with a 7% dip following its historic surge, fueled by concerns over over-reliance on OpenAI for growth.",
+      "exported_at": "2025-09-11T16:01:49.768306",
       "continuous_session": true
     }
   ]
