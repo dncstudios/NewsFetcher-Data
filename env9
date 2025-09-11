@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T08:40:40.616125",
-    "total_articles": 759,
-    "new_articles_in_last_fetch": 759,
+    "created_at": "2025-09-11T08:45:47.769521",
+    "total_articles": 760,
+    "new_articles_in_last_fetch": 760,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -9867,6 +9867,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: THURSDAY'S HOTTEST ANALYST CALLS: NVIDIA, APPLE, TESLA, AMAZON 🚀\n\n- Wall Street's top analyst research calls revealed ⚡️\n- Expert insights on Nvidia, Apple, Tesla, Amazon, Micron 📈\n- Celsius, FedEx, UPS also under the analyst spotlight 🔍\n\nTAKEAWAY: Dive into the latest analyst calls on top companies like Nvidia, Apple, Tesla, and more for valuable market insights and recommendations.",
       "exported_at": "2025-09-11T08:40:40.606654",
+      "continuous_session": true
+    },
+    {
+      "title": "European Central Bank leaves rates unchanged as tariff fallout lingers",
+      "link": "https://www.cnbc.com/2025/09/11/european-central-bank-interest-rate-decision-september-2025.html",
+      "summary": "The ECB is grappling with global economic uncertainty, despite inflation in the euro zone hovering around the central bank's 2% target in recent months.",
+      "published": "Thu, 11 Sep 2025 12:41:52 GMT",
+      "content": "The ECB is grappling with global economic uncertainty, despite inflation in the euro zone hovering around the central bank's 2% target in recent months.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f2391ecafbd4d6bc11fa694c1a0eb49a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: EUROPEAN CENTRAL BANK HOLDS RATES AMID GLOBAL UNCERTAINTY ⚠️\n\n- ECB keeps rates steady amidst lingering tariff fallout 📉\n- Euro zone inflation near the central bank's 2% target 📊\n- Global economic uncertainty poses challenges for the ECB 🌍\n\nTAKEAWAY: The European Central Bank's decision to maintain rates reflects concerns over global economic uncertainty, despite euro zone inflation meeting targets.",
+      "exported_at": "2025-09-11T08:45:47.759958",
       "continuous_session": true
     }
   ]
