@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T13:57:29.942721",
-    "total_articles": 803,
-    "new_articles_in_last_fetch": 803,
+    "created_at": "2025-09-11T14:07:51.079318",
+    "total_articles": 805,
+    "new_articles_in_last_fetch": 805,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -10439,6 +10439,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WARNER BROS. DISCOVERY SOARS 25% ON PARAMOUNT SKYDANCE TAKEOVER REPORT 🚀\n\n- WBD stock jumps 25% following Paramount Skydance takeover bid news 📈\n- Paramount Skydance plans to make a bid for all of Warner Bros. Discovery 🎯\n- Wall Street Journal breaks news on potential takeover 📰\n- Merger of Paramount Skydance fueling market excitement 🚀\n- Investors react positively to the takeover speculation 📈\n- Warner Bros. Discovery's stock price surges on the report 📈\n\nTAKEAWAY: Warner Bros. Discovery experiences a significant 25% surge in stock price after reports of a potential takeover bid by Paramount Skydance, creating excitement among investors.",
       "exported_at": "2025-09-11T13:57:29.877482",
+      "continuous_session": true
+    },
+    {
+      "title": "Dow jumps 600 points to record as August inflation increase likely won&apos;t derail Fed rate cut: Live updates",
+      "link": "https://www.cnbc.com/2025/09/10/stock-market-today-live-updates.html",
+      "summary": "Stocks rose on Thursday as traders anticipated that the Federal Reserve will still lower its benchmark interest rate next week.",
+      "published": "Thu, 11 Sep 2025 18:04:33 GMT",
+      "content": "Stocks rose on Thursday as traders anticipated that the Federal Reserve will still lower its benchmark interest rate next week.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "392379536c2871c243b90b3f41183c05",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DOW SURGES 400 POINTS TO RECORD HIGH AMID FED RATE CUT EXPECTATIONS 🚀\n\n- Stock market soars with Dow up 400 points 📈\n- Traders expect Fed to cut interest rate despite August inflation rise ⚖️\n- Market anticipates Fed's move to boost economy 📈\n- Record high reached amidst optimism 🌟\n- Investors bullish on potential rate cut 🐃\n- Market confidence reflected in stock rally 📊\n\nTAKEAWAY: The Dow's remarkable surge to a record high signals investor optimism as they anticipate the Federal Reserve's decision to cut interest rates despite a rise in August inflation.",
+      "exported_at": "2025-09-11T14:07:51.069682",
+      "continuous_session": true
+    },
+    {
+      "title": "Most of Elon Musk’s fortune now comes from his private companies",
+      "link": "https://www.cnbc.com/2025/09/11/elon-musk-fortune-private-companies.html",
+      "summary": "Together, Musk's stake in xAI and SpaceX are now worth nearly twice as much as his Tesla shares.",
+      "published": "Thu, 11 Sep 2025 18:02:53 GMT",
+      "content": "Together, Musk's stake in xAI and SpaceX are now worth nearly twice as much as his Tesla shares.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8888180d0d4b20a1dc1ca4a0d04c811d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ELON MUSK'S FORTUNE SOARS WITH PRIVATE COMPANIES 🚀\n\n- Musk's wealth driven by xAI and SpaceX stakes 🛰️\n- Private companies value almost double his Tesla shares 💰\n- Diversification in private ventures boosts Musk's fortune 📈\n\nTAKEAWAY: Elon Musk's wealth surges as his stakes in private companies like xAI and SpaceX outperform his Tesla shares, showcasing the power of diversification in his portfolio.",
+      "exported_at": "2025-09-11T14:07:51.069690",
       "continuous_session": true
     }
   ]
