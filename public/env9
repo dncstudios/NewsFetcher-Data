@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T05:17:03.103847",
-    "total_articles": 740,
-    "new_articles_in_last_fetch": 740,
+    "created_at": "2025-09-11T05:32:25.783920",
+    "total_articles": 743,
+    "new_articles_in_last_fetch": 743,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -9620,6 +9620,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WHO IS CHARLIE KIRK? 🚀\n\n- Google searches surge for \"Who is Charlie Kirk\" 📈\n- News of conservative activist's shooting sparks interest 🔥\n- Public curiosity rises about Trump ally's background 🧐\n\nTAKEAWAY: The shooting incident involving conservative activist Charlie Kirk leads to a significant increase in searches about his background and connection to Trump.",
       "exported_at": "2025-09-11T05:17:03.093375",
+      "continuous_session": true
+    },
+    {
+      "title": "Treasury released early list for ‘no tax on tips’ deduction — but some jobs won’t qualify, experts say",
+      "link": "https://www.cnbc.com/2025/09/10/no-tax-on-tips-deduction-who-qualifies.html",
+      "summary": "The Treasury released an early list of 68 occupations that could be eligible for the \"no tax on tips\" deduction. But some jobs won't qualify, experts say.",
+      "published": "Wed, 10 Sep 2025 18:33:38 GMT",
+      "content": "The Treasury released an early list of 68 occupations that could be eligible for the \"no tax on tips\" deduction. But some jobs won't qualify, experts say.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "33405d42008c267b592df3f54b29ca9b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TREASURY UNVEILS LIST FOR 'NO TAX ON TIPS' DEDUCTION 🚀\n\n- Treasury reveals 68 eligible occupations for tip tax deduction 💸\n- Some jobs likely excluded from the tax benefit 🚫\n- Experts caution on potential disqualifying occupations 🧐\n\nTAKEAWAY: The Treasury's release of eligible occupations for the 'no tax on tips' deduction sparks interest, but concerns arise about exclusions.",
+      "exported_at": "2025-09-11T05:32:25.773537",
+      "continuous_session": true
+    },
+    {
+      "title": "Chipotle to expand to Asia through joint venture",
+      "link": "https://www.cnbc.com/2025/09/10/chipotle-to-expand-to-asia-through-joint-venture-with-spc-group.html",
+      "summary": "Chipotle is planning to open its first locations in South Korea and Singapore next year.",
+      "published": "Wed, 10 Sep 2025 20:20:57 GMT",
+      "content": "Chipotle is planning to open its first locations in South Korea and Singapore next year.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "92f5810c2234d92d6115ca0e39de35f7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CHIPOTLE EXPANDS TO ASIA THROUGH JOINT VENTURE 🚀\n\n- Chipotle ventures into South Korea and Singapore markets 🌏\n- First locations in Asia set to open next year 📅\n- Expansion strategy involves joint venture partnership 💼\n\nTAKEAWAY: Chipotle's bold move into South Korea and Singapore markets through a joint venture showcases its strategic global expansion plans. 🚀",
+      "exported_at": "2025-09-11T05:32:25.773555",
+      "continuous_session": true
+    },
+    {
+      "title": "A major headwind for Texas Roadhouse may be easing. Here&apos;s what the charts have to say",
+      "link": "https://www.cnbc.com/2025/09/10/a-major-headwind-for-texas-roadhouse-may-be-easing-heres-what-the-charts-have-to-say.html",
+      "summary": "Live cattle futures have started to decline, fueling hopes for a relief in beef prices.",
+      "published": "Wed, 10 Sep 2025 20:19:23 GMT",
+      "content": "Live cattle futures have started to decline, fueling hopes for a relief in beef prices.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "58b77d5392639b8dec4372ac53825aad",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TEXAS ROADHOUSE MAY SEE RELIEF AS LIVE CATTLE FUTURES DECLINE 🚀\n\n- Live cattle futures dropping may lower beef prices 🥩\n- Potential positive impact on Texas Roadhouse's costs 💰\n- Charts suggest easing of a major headwind for the company 📉\n- Relief in beef prices could improve profitability 📈\n- Positive outlook driven by declining cattle futures 🌟\n\nTAKEAWAY: Texas Roadhouse could benefit as live cattle futures decline, potentially easing a significant cost pressure and boosting profitability.",
+      "exported_at": "2025-09-11T05:32:25.773558",
       "continuous_session": true
     }
   ]
