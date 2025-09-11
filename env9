@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T18:30:16.924716",
-    "total_articles": 839,
-    "new_articles_in_last_fetch": 839,
+    "created_at": "2025-09-11T18:45:33.788147",
+    "total_articles": 840,
+    "new_articles_in_last_fetch": 840,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -10907,6 +10907,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: UNITED CEO PREDICTS SPIRIT AIRLINES WILL FOLD 'BECAUSE I'M GOOD AT MATH' 🚨\n\n- United CEO Kirby anticipates Spirit Airlines closure 🛑\n- Discount airline model deemed unsustainable by Kirby 📉\n- Kirby's confidence in math-based prediction 💪\n\nTAKEAWAY: United CEO Kirby's sharp mathematical analysis leads him to forecast the downfall of Spirit Airlines due to the unsustainable nature of the discount airline model.",
       "exported_at": "2025-09-11T18:30:16.914100",
+      "continuous_session": true
+    },
+    {
+      "title": "Boeing falling behind on certifying its 777X, CEO says",
+      "link": "https://www.cnbc.com/2025/09/11/boeing-falling-behind-certifying-777x.html",
+      "summary": "The company expects to deliver the first 777X jet in 2026, six years later than anticipated when the program was launched in 2013.",
+      "published": "Thu, 11 Sep 2025 22:27:08 GMT",
+      "content": "The company expects to deliver the first 777X jet in 2026, six years later than anticipated when the program was launched in 2013.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a2fa401f73d8a764aee77ab5310c7948",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BOEING DELAYS CERTIFICATION OF 777X JET ⚠️\n\n- Boeing's 777X certification delayed until 2026 🛫\n- Initial delivery postponed by 6 years from original plan ✈️\n- Challenges faced in certifying the new aircraft 🛠️\n- CEO acknowledges setbacks in the certification process 🤝\n- Anticipated launch schedule pushed back significantly 📉\n- Boeing reassesses timeline for 777X program 🔄\n\nTAKEAWAY: Boeing faces delays in certifying its 777X jet, pushing the delivery timeline to 2026 and highlighting challenges in the certification process.",
+      "exported_at": "2025-09-11T18:45:33.718208",
       "continuous_session": true
     }
   ]
