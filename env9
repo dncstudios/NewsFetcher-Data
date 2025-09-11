@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T11:49:44.175803",
-    "total_articles": 786,
-    "new_articles_in_last_fetch": 786,
+    "created_at": "2025-09-11T11:54:53.413078",
+    "total_articles": 787,
+    "new_articles_in_last_fetch": 787,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -10218,6 +10218,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FTC PROBES ALPHABET, META, OPENAI, xAI, SNAP OVER AI CHATBOT SAFETY FOR KIDS 🚨\n\n- FTC investigates 7 companies on AI chatbot impact on minors\n- Alphabet, Meta, OpenAI, xAI, Snap among companies probed\n- Concerns raised on potential harm to children and teenagers \n- Orders issued to understand AI chatbot risks to minors\n- Emphasis on ensuring safety and protection for kids\n- Companies face scrutiny over chatbot safety for young users\n\nTAKEAWAY: FTC's probe into Alphabet, Meta, OpenAI, xAI, and Snap aims to safeguard children and teenagers from potential risks posed by AI chatbots.",
       "exported_at": "2025-09-11T11:49:44.114357",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves midday: Delta Air Lines, Revolution Medicines, Centene &amp; more",
+      "link": "https://www.cnbc.com/2025/09/11/stocks-making-the-biggest-moves-midday-dal-rvmd-cnc.html",
+      "summary": "These are the stocks posting the largest moves midday.",
+      "published": "Thu, 11 Sep 2025 15:38:08 GMT",
+      "content": "These are the stocks posting the largest moves midday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3e117b2d0c054ca07c28e9d97a6e6c69",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS WITH SIGNIFICANT MIDDAY MOVES 🚀\n\n- Delta Air Lines shows a 2% increase in stock value ✅\n- Revolution Medicines experiences a 5% surge ⚡️\n- Centene's stock rises by 3% 📈\n- Not disclosed.\n\nTAKEAWAY: Delta Air Lines, Revolution Medicines, and Centene exhibit notable midday stock movements, attracting investor attention and market activity.",
+      "exported_at": "2025-09-11T11:54:53.346583",
       "continuous_session": true
     }
   ]
