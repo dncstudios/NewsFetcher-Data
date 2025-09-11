@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T07:54:39.536793",
-    "total_articles": 752,
-    "new_articles_in_last_fetch": 752,
+    "created_at": "2025-09-11T08:04:50.736110",
+    "total_articles": 753,
+    "new_articles_in_last_fetch": 753,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -9776,6 +9776,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BANK OF AMERICA DOWNGRADES UPS AND FEDEX AFTER TRUMP'S TRADE MOVE ⚠️\n\n- Bank of America lowers UPS and FedEx ratings 📉\n- Trump's removal of de minimis exemption affects low-value packages 📦\n- Change took effect on Friday 🗓️\n\nTAKEAWAY: Bank of America's downgrade on UPS and FedEx follows Trump's removal of the de minimis exemption, impacting low-value packages and trade duties.",
       "exported_at": "2025-09-11T07:54:39.525944",
+      "continuous_session": true
+    },
+    {
+      "title": "Merck&apos;s pneumococcal shot shows promise in children and teens in study",
+      "link": "https://www.cnbc.com/2025/09/11/mercks-pneumococcal-shot-shows-promise-in-children-and-teens-in-study.html",
+      "summary": "Merck's pneumococcal vaccine showed strong immune responses in children and teens at higher risk of serious illness in a late-stage study, the drugmaker said.",
+      "published": "Thu, 11 Sep 2025 12:01:33 GMT",
+      "content": "Merck's pneumococcal vaccine showed strong immune responses in children and teens at higher risk of serious illness in a late-stage study, the drugmaker said.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5860a668af66aa33864599dc6b4bd778",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MERCK'S PNEUMOCOCCAL VACCINE SUCCESSFULLY BOOSTS IMMUNE RESPONSES IN CHILDREN AND TEENS 🚀\n\n- Merck's vaccine enhances immune responses in high-risk children and teens 💉\n- Late-stage study reveals promising results for the pneumococcal shot 📈\n- Vaccine targets serious illness prevention in vulnerable age groups 🛡️\n\nTAKEAWAY: Merck's pneumococcal vaccine demonstrates strong potential in protecting vulnerable children and teens against serious illnesses, marking a significant advancement in healthcare.",
+      "exported_at": "2025-09-11T08:04:50.724082",
       "continuous_session": true
     }
   ]
