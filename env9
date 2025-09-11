@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T14:49:38.723305",
-    "total_articles": 816,
-    "new_articles_in_last_fetch": 816,
+    "created_at": "2025-09-11T14:54:52.408625",
+    "total_articles": 817,
+    "new_articles_in_last_fetch": 817,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -10608,6 +10608,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: HEALTH CARE INFLATION SOARS, EMPLOYERS FACE LARGEST HEALTH SPENDING HIKE IN 15 YEARS 🚀\n\n- Health care inflation surges, driving up costs ⚡️\n- Employers anticipate biggest health spending jump since 2006 💸\n- 2026 to witness significant rise in employer health expenditure 💼\n\nTAKEAWAY: Health care inflation spikes, leading to the largest increase in employer health spending in 15 years, impacting costs significantly.",
       "exported_at": "2025-09-11T14:49:38.657230",
+      "continuous_session": true
+    },
+    {
+      "title": "House Dems seek probe of housing chief&apos;s allegations against Fed&apos;s Lisa Cook",
+      "link": "https://www.cnbc.com/2025/09/11/house-dems-seek-probe-of-housing-chiefs-allegations-against-feds-lisa-cook.html",
+      "summary": "FHFA Director Bill Pulte accused Cook of mortgage fraud, which led to a Justice Department investigation.",
+      "published": "Thu, 11 Sep 2025 18:41:44 GMT",
+      "content": "FHFA Director Bill Pulte accused Cook of mortgage fraud, which led to a Justice Department investigation.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "aad8a94b37ae42266999178221de8afb",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: HOUSE DEMS CALL FOR PROBE INTO ALLEGATIONS AGAINST FED'S LISA COOK ⚠️\n\n- FHFA Director accuses Cook of mortgage fraud 🏠\n- Allegations trigger Justice Department investigation ⚠️🔍\n- House Democrats demand thorough probe into claims 🏛️\n- Cook faces scrutiny over accusations made by Pulte 🧐\n- Allegations raise concerns over Cook's integrity 🚨\n- Pulte's accusations spark controversy in housing sector 🏘️\n- Justice Department's involvement adds weight to allegations ⚖️\n\nTAKEAWAY: Allegations of mortgage fraud against Fed's Lisa Cook by FHFA Director Bill Pulte prompt House Democrats to seek a thorough investigation, raising concerns over Cook's integrity.",
+      "exported_at": "2025-09-11T14:54:52.339421",
       "continuous_session": true
     }
   ]
