@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T08:35:31.907413",
-    "total_articles": 758,
-    "new_articles_in_last_fetch": 758,
+    "created_at": "2025-09-11T08:40:40.616125",
+    "total_articles": 759,
+    "new_articles_in_last_fetch": 759,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -9854,6 +9854,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCKS SURGE IN PREMARKET: KLARNA, ORACLE, OPENDOOR 🚀\n\n- Klarna, Oracle, Opendoor soar in premarket trading 📈\n- Investors eyeing Oxford Industries among top movers ⚡️\n- Market anticipates significant shifts in stock prices 📊\n\nTAKEAWAY: Klarna, Oracle, Opendoor, and Oxford Industries lead premarket surges, signaling potential market shifts and investor interest.",
       "exported_at": "2025-09-11T08:35:31.898245",
+      "continuous_session": true
+    },
+    {
+      "title": "Here are Thursday&apos;s biggest analyst calls: Nvidia, Apple, Tesla, Amazon, Micron, Celsius, FedEx, UPS &amp; more",
+      "link": "https://www.cnbc.com/2025/09/11/top-stocks-to-watch-from-analysts-include-nvidia-fedex-ups-amazon.html",
+      "summary": "Here are the biggest analyst research calls on Wall Street on Thursday.",
+      "published": "Thu, 11 Sep 2025 12:22:08 GMT",
+      "content": "Here are the biggest analyst research calls on Wall Street on Thursday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b389d47559792d188f790030266ef9d6",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: THURSDAY'S HOTTEST ANALYST CALLS: NVIDIA, APPLE, TESLA, AMAZON 🚀\n\n- Wall Street's top analyst research calls revealed ⚡️\n- Expert insights on Nvidia, Apple, Tesla, Amazon, Micron 📈\n- Celsius, FedEx, UPS also under the analyst spotlight 🔍\n\nTAKEAWAY: Dive into the latest analyst calls on top companies like Nvidia, Apple, Tesla, and more for valuable market insights and recommendations.",
+      "exported_at": "2025-09-11T08:40:40.606654",
       "continuous_session": true
     }
   ]
