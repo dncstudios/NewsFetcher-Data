@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T11:24:14.128234",
-    "total_articles": 784,
-    "new_articles_in_last_fetch": 784,
+    "created_at": "2025-09-11T11:34:26.945467",
+    "total_articles": 785,
+    "new_articles_in_last_fetch": 785,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -10192,6 +10192,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WELLS FARGO IDENTIFIES NETFLIX AS TOP BUYER FOR WARNER BROS DISCOVERY 🚀\n\n- Warner Bros Discovery deemed an 'attractive' takeover target 💼\n- Wells Fargo sees Netflix as the prime buyer for streaming & studios 🎥\n- Potential surprising buyer could lead to industry shake-up 🔄\n\nTAKEAWAY: Wells Fargo's prediction of Netflix as a potential buyer for Warner Bros Discovery's assets hints at a major shift in the entertainment industry.",
       "exported_at": "2025-09-11T11:24:14.063712",
+      "continuous_session": true
+    },
+    {
+      "title": "Warner Bros. Discovery is an ‘attractive’ takeover candidate that could have a surprising buyer, says Wells Fargo",
+      "link": "https://www.cnbc.com/2025/09/11/warner-brothers-discovery-could-see-a-surprising-buyer-says-wells-fargo.html",
+      "summary": "Wells Fargo views Netflix as the \"most compelling buyer\" of Warner Bros. Discovery's streaming and studios segment.",
+      "published": "Thu, 11 Sep 2025 15:31:56 GMT",
+      "content": "Wells Fargo views Netflix as the \"most compelling buyer\" of Warner Bros. Discovery's streaming and studios segment.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d7b4636bc309f4f08ff33d4452706c68",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WELLS FARGO: NETFLIX EYED AS TOP BUYER FOR WARNER BROS. DISCOVERY 🚀\n\n- Wells Fargo tags Netflix as top choice for Warner Bros. Discovery acquisition 🎯\n- Sees Warner Bros. Discovery as appealing target for acquisition 🎯\n- Potential for surprising buyer in Warner Bros. Discovery takeover 🚀\n\nTAKEAWAY: Wells Fargo identifies Netflix as the prime contender to acquire Warner Bros. Discovery, highlighting the attractiveness of the deal.",
+      "exported_at": "2025-09-11T11:34:26.936308",
       "continuous_session": true
     }
   ]
