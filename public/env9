@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T07:08:48.813948",
-    "total_articles": 747,
-    "new_articles_in_last_fetch": 747,
+    "created_at": "2025-09-11T07:13:54.715793",
+    "total_articles": 748,
+    "new_articles_in_last_fetch": 748,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -9711,6 +9711,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCK FUTURES STABLE AHEAD OF INFLATION DATA 📈\n\n- S&P 500 recently achieved record high close 🌟\n- Market anticipates closely watched inflation figures 📊\n- Investors cautious with futures showing little change 🧐\n- Uncertainty looms over market reaction post-data release ⚠️\n\nTAKEAWAY: Stock futures remain stable as investors await crucial inflation data, while recent S&P 500 record highs add to market optimism.",
       "exported_at": "2025-09-11T07:08:48.804850",
+      "continuous_session": true
+    },
+    {
+      "title": "Who was Charlie Kirk, Trump ally and conservative activist?",
+      "link": "https://www.cnbc.com/2025/09/11/who-was-trump-ally-and-conservative-influencer-charlie-kirk.html",
+      "summary": "Google trends showed a spike in searches of the phrase, \"Who is Charlie Kirk\" as news spread of the conservative activist's shooting on Wednesday.",
+      "published": "Thu, 11 Sep 2025 11:12:30 GMT",
+      "content": "Google trends showed a spike in searches of the phrase, \"Who is Charlie Kirk\" as news spread of the conservative activist's shooting on Wednesday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "92ccedcad72d614dc86454d7e8a1a45d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WHO IS CHARLIE KIRK? 🚀\n\n- Google searches surge for \"Who is Charlie Kirk\" 📈\n- News of conservative activist's shooting sparks interest 🔥\n- Public curiosity rises about Trump ally's background 🧐\n\nTAKEAWAY: The shooting incident involving conservative activist Charlie Kirk leads to a significant increase in searches about his background and connection to Trump.",
+      "exported_at": "2025-09-11T07:13:54.705278",
       "continuous_session": true
     }
   ]
