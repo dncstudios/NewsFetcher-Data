@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T12:05:07.691074",
-    "total_articles": 789,
-    "new_articles_in_last_fetch": 789,
+    "created_at": "2025-09-11T12:10:14.406755",
+    "total_articles": 790,
+    "new_articles_in_last_fetch": 790,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -10257,6 +10257,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CRAMER'S BULLISH OUTLOOK ON HOME DEPOT AND AMAZON 🚀\n\n- Cramer predicts significant growth potential for Home Depot 📈\n- Amazon shines with promising opportunities according to Cramer ✨\n- Insight shared during the Investing Club's \"Morning Meeting\" ⏰\n\nTAKEAWAY: Cramer's positive outlook on Home Depot and Amazon highlights exciting growth prospects discussed at the Investing Club's \"Morning Meeting.\"",
       "exported_at": "2025-09-11T12:05:07.634259",
+      "continuous_session": true
+    },
+    {
+      "title": "Charlie Kirk shooting: FBI shares photo of person of interest",
+      "link": "https://www.cnbc.com/2025/09/11/charlie-kirk-shooter-manhunt-trump.html",
+      "summary": "Kirk, a close ally of President Donald Trump, was killed by a gunman during a political event at Utah Valley University in Orem.",
+      "published": "Thu, 11 Sep 2025 16:07:40 GMT",
+      "content": "Kirk, a close ally of President Donald Trump, was killed by a gunman during a political event at Utah Valley University in Orem.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9506c3873778c6e9abd6a7efca34e7a5",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MANHUNT CONTINUES FOR CHARLIE KIRK SHOOTER AS FBI AND UTAH POLICE PROVIDE UPDATE 🚨\n\n- Charlie Kirk, Trump ally, tragically killed by gunman at Utah event\n- FBI and Utah police intensify efforts in the manhunt\n- Public awaits crucial update on investigation\n\nTAKEAWAY: The search for the shooter who killed Charlie Kirk at a political event remains intense as FBI and Utah police provide updates to the public.",
+      "exported_at": "2025-09-11T12:10:14.343375",
       "continuous_session": true
     }
   ]
