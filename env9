@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T14:13:04.927258",
-    "total_articles": 806,
-    "new_articles_in_last_fetch": 806,
+    "created_at": "2025-09-11T14:18:21.480237",
+    "total_articles": 809,
+    "new_articles_in_last_fetch": 809,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -10478,6 +10478,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FORMER SENATOR'S WIFE SENTENCED TO 4.5 YEARS IN PRISON 🚨\n\n- Bob Menendez's wife receives 4.5-year prison term for bribery 💼\n- Emotional courtroom scene as wife expresses disappointment in husband 💔\n- Judge hands down sentence following bribery scandal 🏛️\n\nTAKEAWAY: Former Senator Bob Menendez's wife receives a 4.5-year prison sentence for bribery, highlighting the consequences of unethical behavior.",
       "exported_at": "2025-09-11T14:13:04.916627",
+      "continuous_session": true
+    },
+    {
+      "title": "Warner Bros. Discovery stock is up 30% after report Paramount Skydance is preparing a takeover bid",
+      "link": "https://www.cnbc.com/2025/09/11/warner-bros-discovery-paramount-skydance-bid.html",
+      "summary": "The Wall Street Journal reported the recently merged Paramount Skydance was preparing a takeover bid for the entirety of WBD.",
+      "published": "Thu, 11 Sep 2025 18:12:51 GMT",
+      "content": "The Wall Street Journal reported the recently merged Paramount Skydance was preparing a takeover bid for the entirety of WBD.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "eab1dede6cf2fcd496d53c3cbd1c8dfb",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WARNER BROS. DISCOVERY SOARS 25% ON PARAMOUNT SKYDANCE TAKEOVER REPORT 🚀\n\n- WBD stock jumps 25% following Paramount Skydance takeover bid news 📈\n- Paramount Skydance plans to make a bid for all of Warner Bros. Discovery 🎯\n- Wall Street Journal breaks news on potential takeover 📰\n- Merger of Paramount Skydance fueling market excitement 🚀\n- Investors react positively to the takeover speculation 📈\n- Warner Bros. Discovery's stock price surges on the report 📈\n\nTAKEAWAY: Warner Bros. Discovery experiences a significant 25% surge in stock price after reports of a potential takeover bid by Paramount Skydance, creating excitement among investors.",
+      "exported_at": "2025-09-11T14:18:21.469530",
+      "continuous_session": true
+    },
+    {
+      "title": "Charlie Kirk shooting: FBI shares person of interest photos, offers $100,000 reward",
+      "link": "https://www.cnbc.com/2025/09/11/charlie-kirk-shooter-manhunt-trump.html",
+      "summary": "Kirk, a close ally of President Donald Trump, was killed by a gunman during a political event at Utah Valley University in Orem.",
+      "published": "Thu, 11 Sep 2025 18:15:29 GMT",
+      "content": "Kirk, a close ally of President Donald Trump, was killed by a gunman during a political event at Utah Valley University in Orem.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e877d693eeeaf047b51d3ee55cc2a78d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MANHUNT CONTINUES FOR CHARLIE KIRK SHOOTER AS FBI AND UTAH POLICE PROVIDE UPDATE 🚨\n\n- Charlie Kirk, Trump ally, tragically killed by gunman at Utah event\n- FBI and Utah police intensify efforts in the manhunt\n- Public awaits crucial update on investigation\n\nTAKEAWAY: The search for the shooter who killed Charlie Kirk at a political event remains intense as FBI and Utah police provide updates to the public.",
+      "exported_at": "2025-09-11T14:18:21.469539",
+      "continuous_session": true
+    },
+    {
+      "title": "Novo Nordisk tells staff to return to office full-time amid CEO&apos;s revival effort",
+      "link": "https://www.cnbc.com/2025/09/11/novo-nordisk-tells-staff-to-return-to-office-full-time.html",
+      "summary": "Drugmaker Novo Nordisk said it had told staff to return to the office as its new CEO tries to accelerate decision-making and improve its commercial execution.",
+      "published": "Thu, 11 Sep 2025 18:09:06 GMT",
+      "content": "Drugmaker Novo Nordisk said it had told staff to return to the office as its new CEO tries to accelerate decision-making and improve its commercial execution.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d8f757d97457a1ef818b2a0083b162fd",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NOVO NORDISK PUSHES FULL-TIME OFFICE RETURN FOR FASTER DECISIONS ⚡️\n\n- Novo Nordisk mandates full-time office return for staff 🏢\n- New CEO aims to speed up decision-making and boost commercial performance 📈\n- Emphasis on enhancing operational efficiency and teamwork 🤝\n\nTAKEAWAY: Novo Nordisk's CEO pushes for full-time office return to drive quicker decisions and enhance commercial outcomes, focusing on operational efficiency and collaboration.",
+      "exported_at": "2025-09-11T14:18:21.469545",
       "continuous_session": true
     }
   ]
