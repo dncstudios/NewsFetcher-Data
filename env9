@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T11:34:26.945467",
-    "total_articles": 785,
-    "new_articles_in_last_fetch": 785,
+    "created_at": "2025-09-11T11:49:44.175803",
+    "total_articles": 786,
+    "new_articles_in_last_fetch": 786,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -10205,6 +10205,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WELLS FARGO: NETFLIX EYED AS TOP BUYER FOR WARNER BROS. DISCOVERY 🚀\n\n- Wells Fargo tags Netflix as top choice for Warner Bros. Discovery acquisition 🎯\n- Sees Warner Bros. Discovery as appealing target for acquisition 🎯\n- Potential for surprising buyer in Warner Bros. Discovery takeover 🚀\n\nTAKEAWAY: Wells Fargo identifies Netflix as the prime contender to acquire Warner Bros. Discovery, highlighting the attractiveness of the deal.",
       "exported_at": "2025-09-11T11:34:26.936308",
+      "continuous_session": true
+    },
+    {
+      "title": "Alphabet, Meta, OpenAI, xAI and Snap face FTC probe over AI chatbot safety for kids",
+      "link": "https://www.cnbc.com/2025/09/11/alphabet-meta-openai-x-ai-chatbot-ftc.html",
+      "summary": "The Federal Trade Commission is issuing orders to seven companies to understand how their AI chatbots potentially negatively affect kids and teenagers.",
+      "published": "Thu, 11 Sep 2025 15:46:34 GMT",
+      "content": "The Federal Trade Commission is issuing orders to seven companies to understand how their AI chatbots potentially negatively affect kids and teenagers.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fb5b2ffe567daa9b3462c83e628462fb",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FTC PROBES ALPHABET, META, OPENAI, xAI, SNAP OVER AI CHATBOT SAFETY FOR KIDS 🚨\n\n- FTC investigates 7 companies on AI chatbot impact on minors\n- Alphabet, Meta, OpenAI, xAI, Snap among companies probed\n- Concerns raised on potential harm to children and teenagers \n- Orders issued to understand AI chatbot risks to minors\n- Emphasis on ensuring safety and protection for kids\n- Companies face scrutiny over chatbot safety for young users\n\nTAKEAWAY: FTC's probe into Alphabet, Meta, OpenAI, xAI, and Snap aims to safeguard children and teenagers from potential risks posed by AI chatbots.",
+      "exported_at": "2025-09-11T11:49:44.114357",
       "continuous_session": true
     }
   ]
