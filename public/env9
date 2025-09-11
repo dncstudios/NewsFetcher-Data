@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T12:35:43.316419",
-    "total_articles": 793,
-    "new_articles_in_last_fetch": 793,
+    "created_at": "2025-09-11T12:56:04.681651",
+    "total_articles": 795,
+    "new_articles_in_last_fetch": 795,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -10309,6 +10309,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BUYING STOCK AHEAD OF LOWER RATES 🚀\n\n- Adding industrial stock poised to benefit from rate drop 📈\n- Anticipating economic boost from lower rates 📊\n- Strategy aims to capitalize on upcoming market shift 💰\n\nTAKEAWAY: Investing in an industrial stock ahead of lower rates can potentially yield gains as the economy picks up steam.",
       "exported_at": "2025-09-11T12:35:43.252216",
+      "continuous_session": true
+    },
+    {
+      "title": "Charlie Kirk shooting: FBI shares person-of-interest photos, offers $100,000 reward",
+      "link": "https://www.cnbc.com/2025/09/11/charlie-kirk-shooter-manhunt-trump.html",
+      "summary": "Kirk, a close ally of President Donald Trump, was killed by a gunman during a political event at Utah Valley University in Orem.",
+      "published": "Thu, 11 Sep 2025 16:54:49 GMT",
+      "content": "Kirk, a close ally of President Donald Trump, was killed by a gunman during a political event at Utah Valley University in Orem.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "cfc91cfb8805057e5022412d090145e8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MANHUNT CONTINUES FOR CHARLIE KIRK SHOOTER AS FBI AND UTAH POLICE PROVIDE UPDATE 🚨\n\n- Charlie Kirk, Trump ally, tragically killed by gunman at Utah event\n- FBI and Utah police intensify efforts in the manhunt\n- Public awaits crucial update on investigation\n\nTAKEAWAY: The search for the shooter who killed Charlie Kirk at a political event remains intense as FBI and Utah police provide updates to the public.",
+      "exported_at": "2025-09-11T12:56:04.632733",
+      "continuous_session": true
+    },
+    {
+      "title": "These stocks may get the biggest boost if the Fed drives rates lower",
+      "link": "https://www.cnbc.com/2025/09/11/these-stocks-may-get-the-biggest-boost-if-the-fed-drives-rates-lower.html",
+      "summary": "Stocks with a higher proportion of floating rate debt could benefit from lower, short-term interest rates.",
+      "published": "Thu, 11 Sep 2025 16:48:15 GMT",
+      "content": "Stocks with a higher proportion of floating rate debt could benefit from lower, short-term interest rates.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7822306281cb6f9cda05bd50d05f0fbc",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS PRIMED FOR BIG BOOST AS FED CUTS RATES 🚀\n\n- Companies with more floating rate debt may see gains 💰\n- Lower short-term rates could drive stock prices up 📈\n- Potential for increased profitability in these stocks ✅\n\nTAKEAWAY: Stocks with higher floating rate debt are positioned to benefit the most if the Fed decides to lower interest rates, potentially leading to increased profitability and stock price growth.",
+      "exported_at": "2025-09-11T12:56:04.632783",
       "continuous_session": true
     }
   ]
