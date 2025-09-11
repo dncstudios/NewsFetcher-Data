@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T07:13:54.715793",
-    "total_articles": 748,
-    "new_articles_in_last_fetch": 748,
+    "created_at": "2025-09-11T07:29:13.142502",
+    "total_articles": 750,
+    "new_articles_in_last_fetch": 750,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -9724,6 +9724,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WHO IS CHARLIE KIRK? 🚀\n\n- Google searches surge for \"Who is Charlie Kirk\" 📈\n- News of conservative activist's shooting sparks interest 🔥\n- Public curiosity rises about Trump ally's background 🧐\n\nTAKEAWAY: The shooting incident involving conservative activist Charlie Kirk leads to a significant increase in searches about his background and connection to Trump.",
       "exported_at": "2025-09-11T07:13:54.705278",
+      "continuous_session": true
+    },
+    {
+      "title": "UK sacks U.S. Ambassador Peter Mandelson over Epstein links",
+      "link": "https://www.cnbc.com/2025/09/11/uk-sacks-mandelson-as-us-ambassador-over-epstein-links.html",
+      "summary": "Mandelson's apparent close friendship with Epstein was revealed in documents released by U.S. lawmakers this week.",
+      "published": "Thu, 11 Sep 2025 11:24:54 GMT",
+      "content": "Mandelson's apparent close friendship with Epstein was revealed in documents released by U.S. lawmakers this week.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5a30821face199e7ea6b66984d34e200",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: UK AMBASSADOR PETER MANDELSON DISMISSED OVER EPSTEIN LINKS ⚠️\n\n- UK dismisses Ambassador Mandelson due to Epstein friendship 🇬🇧\n- Documents by U.S. lawmakers disclose Mandelson's ties 📄\n- Epstein scandal leads to Mandelson's removal 🚫\n\nTAKEAWAY: UK's decision to dismiss Ambassador Mandelson due to his link with Epstein, as revealed in U.S. documents, highlights the impact of the scandal on diplomatic relations.",
+      "exported_at": "2025-09-11T07:29:13.132007",
+      "continuous_session": true
+    },
+    {
+      "title": "D.A. Davidson downgrades Apple after iPhone maker unveils ‘uninspired’ products",
+      "link": "https://www.cnbc.com/2025/09/11/da-davidson-downgrades-apple-after-iphone-maker-unveils-uninspired-products.html",
+      "summary": "D.A. Davidson maintained its $250 price target on Apple, implying a 10% upside from the iPhone maker's Wednesday close.",
+      "published": "Thu, 11 Sep 2025 11:23:28 GMT",
+      "content": "D.A. Davidson maintained its $250 price target on Apple, implying a 10% upside from the iPhone maker's Wednesday close.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "cf1f8bb01b71be93333fe2aff99899d4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: D.A. DAVIDSON DOWNGRADES APPLE AFTER UNVEILING 'UNINSPIRED' PRODUCTS ⚠️\n\n- D.A. Davidson downgrades Apple post 'uninspired' product reveal\n- Maintains $250 price target, suggesting 10% upside from close\n\nTAKEAWAY: D.A. Davidson's downgrade of Apple following lackluster product launch indicates caution, despite a potential 10% price growth.",
+      "exported_at": "2025-09-11T07:29:13.132022",
       "continuous_session": true
     }
   ]
