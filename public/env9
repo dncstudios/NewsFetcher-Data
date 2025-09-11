@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T02:37:31.963595",
-    "total_articles": 736,
-    "new_articles_in_last_fetch": 736,
+    "created_at": "2025-09-11T02:47:41.230170",
+    "total_articles": 737,
+    "new_articles_in_last_fetch": 737,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -9568,6 +9568,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP'S 100% TARIFF REQUEST RAISES EUROPE'S EYEBROWS 🚨\n\n- White House wants Europe to impose 100% tariffs on India, China 🌍\n- Europe unlikely to comply with the request 🚫\n- Tensions rise as trade pressure mounts ⚠️\n\nTAKEAWAY: Europe's reluctance to follow White House's tariff request on India and China signals escalating trade tensions.",
       "exported_at": "2025-09-11T02:37:31.919960",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump’s pressure on Europe to slap 100% tariffs on India and China raises eyebrows",
+      "link": "https://www.cnbc.com/2025/09/11/trump-asking-eu-to-slap-100percent-tariffs-on-india-and-china-raises-eyebrows.html",
+      "summary": "Europe is unlikely to acquiesce to the White House's request to slap high tariffs on its Asian counterparts.",
+      "published": "Thu, 11 Sep 2025 06:45:14 GMT",
+      "content": "Europe is unlikely to acquiesce to the White House's request to slap high tariffs on its Asian counterparts.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "990d3aa77bad6ee343ad23c6209c1c5c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP'S 100% TARIFF REQUEST RAISES EUROPE'S EYEBROWS 🚨\n\n- White House wants Europe to impose 100% tariffs on India, China 🌍\n- Europe unlikely to comply with the request 🚫\n- Tensions rise as trade pressure mounts ⚠️\n\nTAKEAWAY: Europe's reluctance to follow White House's tariff request on India and China signals escalating trade tensions.",
+      "exported_at": "2025-09-11T02:47:41.185392",
       "continuous_session": true
     }
   ]
