@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T18:45:33.788147",
-    "total_articles": 840,
-    "new_articles_in_last_fetch": 840,
+    "created_at": "2025-09-11T18:50:45.658656",
+    "total_articles": 842,
+    "new_articles_in_last_fetch": 842,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -10920,6 +10920,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BOEING DELAYS CERTIFICATION OF 777X JET ⚠️\n\n- Boeing's 777X certification delayed until 2026 🛫\n- Initial delivery postponed by 6 years from original plan ✈️\n- Challenges faced in certifying the new aircraft 🛠️\n- CEO acknowledges setbacks in the certification process 🤝\n- Anticipated launch schedule pushed back significantly 📉\n- Boeing reassesses timeline for 777X program 🔄\n\nTAKEAWAY: Boeing faces delays in certifying its 777X jet, pushing the delivery timeline to 2026 and highlighting challenges in the certification process.",
       "exported_at": "2025-09-11T18:45:33.718208",
+      "continuous_session": true
+    },
+    {
+      "title": "Friday&apos;s big stock stories: What’s likely to move the market in the next trading session",
+      "link": "https://www.cnbc.com/2025/09/11/fridays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html",
+      "summary": "All three major averages closed at record highs on Thursday, with the Dow finishing above 46,000 for the first time ever.",
+      "published": "Thu, 11 Sep 2025 22:35:12 GMT",
+      "content": "All three major averages closed at record highs on Thursday, with the Dow finishing above 46,000 for the first time ever.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c1d354a0ad436befd2c72c487d144dd6",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FRIDAY'S POTENTIAL MARKET MOVERS 🚀\n\n- Dow breaks 46,000 mark, all major indexes hit record highs 📈\n- Market poised for potential momentum into next trading session 🚀\n- Positive sentiment drives bullish momentum ✅\n- Investors eyeing continued market strength ⚡️\n\nTAKEAWAY: Thursday's record-breaking performance sets the stage for potential market momentum and continued bullish sentiment into the next trading session.",
+      "exported_at": "2025-09-11T18:50:45.588314",
+      "continuous_session": true
+    },
+    {
+      "title": "After a record day for the indexes, Jim Cramer argues against market &apos;cynics&apos;",
+      "link": "https://www.cnbc.com/2025/09/11/jim-cramer-argues-against-market-cynics-after-records.html",
+      "summary": "As the indexes soar to new heights, CNBC's Jim Cramer explained why he's still bullish.",
+      "published": "Thu, 11 Sep 2025 22:24:37 GMT",
+      "content": "As the indexes soar to new heights, CNBC's Jim Cramer explained why he's still bullish.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e8581c72a50b6311de1cff09234ad5fb",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JIM CRAMER'S BULLISH STANCE DEFIES MARKET 'CYNICS' 🚀\n\n- Indexes reach record highs, fueling market optimism 🌟\n- Jim Cramer defends bullish outlook amidst market skepticism 💪\n- CNBC host remains confident in market growth 📈\n- Cramer's positive stance challenges doubters 🤨\n- Record-breaking day for indexes underpins Cramer's optimism 📈\n\nTAKEAWAY: Jim Cramer's unwavering bullish stance defies market skeptics as indexes hit record highs, fueling optimism and confidence in market growth.",
+      "exported_at": "2025-09-11T18:50:45.588396",
       "continuous_session": true
     }
   ]
