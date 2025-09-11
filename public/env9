@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T10:33:17.349455",
-    "total_articles": 780,
-    "new_articles_in_last_fetch": 780,
+    "created_at": "2025-09-11T10:38:23.021672",
+    "total_articles": 781,
+    "new_articles_in_last_fetch": 781,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -10140,6 +10140,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SOCIAL SECURITY COST-OF-LIVING ADJUSTMENT EXPECTED TO RISE IN 2026 🚀\n\n- Average retirement benefit may increase by $54 in 2026 💰\n- New estimates project a slight rise in annual inflation adjustment\n- Potential positive impact on retirees' income in the coming year\n\nTAKEAWAY: Social Security beneficiaries can anticipate a modest increase in their retirement benefits in 2026, providing a potential boost to their income.",
       "exported_at": "2025-09-11T10:33:17.292342",
+      "continuous_session": true
+    },
+    {
+      "title": "10-year Treasury yield falls to 4% as traders weigh more inflation data; jobless claims rise to highest since 2021",
+      "link": "https://www.cnbc.com/2025/09/11/treasury-yields-inflation-data.html",
+      "summary": "Traders assessed a raft of economic signals Thursday morning.",
+      "published": "Thu, 11 Sep 2025 14:37:36 GMT",
+      "content": "Traders assessed a raft of economic signals Thursday morning.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "430832b3e81f1dce161fad55c9f2cd55",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 10-YEAR TREASURY YIELD DIPS TO 4% THEN REBOUNDS AS TRADERS EVALUATE INFLATION DATA 📉🔄\n\n- 10-year Treasury yield drops to 4% before bouncing back\n- Traders analyze inflation data impacting market sentiment\n- Market reacts to a variety of economic signals\n- Fluctuations in Treasury yield reflect investor uncertainty\n- Inflation concerns influence market movements\n- Thursday morning sees dynamic shifts in financial markets\n\nTAKEAWAY: Fluctuations in the 10-year Treasury yield highlight the market's sensitivity to inflation data, leading to dynamic trading sessions.",
+      "exported_at": "2025-09-11T10:38:23.011181",
       "continuous_session": true
     }
   ]
