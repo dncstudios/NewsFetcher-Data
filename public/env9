@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T18:20:07.228101",
-    "total_articles": 838,
-    "new_articles_in_last_fetch": 838,
+    "created_at": "2025-09-11T18:30:16.924716",
+    "total_articles": 839,
+    "new_articles_in_last_fetch": 839,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -10894,6 +10894,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: UNITED CEO PREDICTS SPIRIT AIRLINES WILL FOLD 'BECAUSE I'M GOOD AT MATH' 🚨\n\n- United CEO Kirby anticipates Spirit Airlines closure 🛑\n- Discount airline model deemed unsustainable by Kirby 📉\n- Kirby's confidence in math-based prediction 💪\n\nTAKEAWAY: United CEO Kirby's sharp mathematical analysis leads him to forecast the downfall of Spirit Airlines due to the unsustainable nature of the discount airline model.",
       "exported_at": "2025-09-11T18:20:07.158397",
+      "continuous_session": true
+    },
+    {
+      "title": "United CEO says he expects struggling Spirit Airlines to go out of business",
+      "link": "https://www.cnbc.com/2025/09/11/united-ceo-predicts-struggling-spirit-airlines-will-go-out-of-business.html",
+      "summary": "United CEO Scott Kirby said that the discount airline model is over.",
+      "published": "Thu, 11 Sep 2025 22:25:46 GMT",
+      "content": "United CEO Scott Kirby said that the discount airline model is over.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b37d68e88b28a01b6f9cf1d71aa0aac0",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: UNITED CEO PREDICTS SPIRIT AIRLINES WILL FOLD 'BECAUSE I'M GOOD AT MATH' 🚨\n\n- United CEO Kirby anticipates Spirit Airlines closure 🛑\n- Discount airline model deemed unsustainable by Kirby 📉\n- Kirby's confidence in math-based prediction 💪\n\nTAKEAWAY: United CEO Kirby's sharp mathematical analysis leads him to forecast the downfall of Spirit Airlines due to the unsustainable nature of the discount airline model.",
+      "exported_at": "2025-09-11T18:30:16.914100",
       "continuous_session": true
     }
   ]
