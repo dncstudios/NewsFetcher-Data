@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T10:38:23.021672",
-    "total_articles": 781,
-    "new_articles_in_last_fetch": 781,
+    "created_at": "2025-09-11T10:43:31.443699",
+    "total_articles": 782,
+    "new_articles_in_last_fetch": 782,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -10153,6 +10153,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: 10-YEAR TREASURY YIELD DIPS TO 4% THEN REBOUNDS AS TRADERS EVALUATE INFLATION DATA 📉🔄\n\n- 10-year Treasury yield drops to 4% before bouncing back\n- Traders analyze inflation data impacting market sentiment\n- Market reacts to a variety of economic signals\n- Fluctuations in Treasury yield reflect investor uncertainty\n- Inflation concerns influence market movements\n- Thursday morning sees dynamic shifts in financial markets\n\nTAKEAWAY: Fluctuations in the 10-year Treasury yield highlight the market's sensitivity to inflation data, leading to dynamic trading sessions.",
       "exported_at": "2025-09-11T10:38:23.011181",
+      "continuous_session": true
+    },
+    {
+      "title": "Opendoor stock soars 60% after company names new CEO",
+      "link": "https://www.cnbc.com/2025/09/11/opendoor-stock-ceo-nejatian-keith-rabois.html",
+      "summary": "Former CEO Carrie Wheeler resigned last month following a pressure campaign from investors.",
+      "published": "Thu, 11 Sep 2025 14:42:46 GMT",
+      "content": "Former CEO Carrie Wheeler resigned last month following a pressure campaign from investors.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "904188bd58a723955cab3948dbdc5777",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: OPENDOOR STOCK SOARS 60% AFTER NEW CEO APPOINTMENT 🚀\n\n- Opendoor's stock jumps by 60% post new CEO announcement\n- Former CEO Carrie Wheeler resigns amid investor pressure campaign\n- Investors react positively to the leadership change\n- Company aims for growth and stability under new leadership\n- Market confidence boosts Opendoor's stock performance\n- New CEO appointment signals a fresh start for the company\n\nTAKEAWAY: Opendoor's stock surges as investors show optimism with the new CEO appointment, signaling a positive outlook for the company's future.",
+      "exported_at": "2025-09-11T10:43:31.433855",
       "continuous_session": true
     }
   ]
