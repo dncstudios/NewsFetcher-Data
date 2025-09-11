@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T16:22:40.061401",
-    "total_articles": 829,
-    "new_articles_in_last_fetch": 829,
+    "created_at": "2025-09-11T16:27:48.189193",
+    "total_articles": 830,
+    "new_articles_in_last_fetch": 830,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -10777,6 +10777,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ADOBE STOCK SOARS ON EARNINGS AND REVENUE BEAT 🚀\n\n- Adobe stock rebounds after underperforming market 📈\n- Earnings and revenue exceed expectations 💰\n- Investors react positively to strong performance 🎉\n- Adobe's stock gains momentum after a challenging year 🚀\n- Company's resilience showcased through earnings beat 💪\n- Market responds favorably to Adobe's turnaround 📈\n\nTAKEAWAY: Despite a challenging year, Adobe's stock gains momentum as it rebounds with impressive earnings and revenue beat, showcasing resilience and positive investor sentiment.",
       "exported_at": "2025-09-11T16:22:39.993904",
+      "continuous_session": true
+    },
+    {
+      "title": "Dow closes up 600 points, setting record, as August inflation increase likely won&apos;t derail Fed rate cut",
+      "link": "https://www.cnbc.com/2025/09/10/stock-market-today-live-updates.html",
+      "summary": "Stocks rose on Thursday as traders anticipated that the Federal Reserve will still lower its benchmark interest rate next week.",
+      "published": "Thu, 11 Sep 2025 20:22:42 GMT",
+      "content": "Stocks rose on Thursday as traders anticipated that the Federal Reserve will still lower its benchmark interest rate next week.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ec4ec4752a79ba428cafe9f9672e50cd",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DOW SURGES 400 POINTS TO RECORD HIGH AMID FED RATE CUT EXPECTATIONS 🚀\n\n- Stock market soars with Dow up 400 points 📈\n- Traders expect Fed to cut interest rate despite August inflation rise ⚖️\n- Market anticipates Fed's move to boost economy 📈\n- Record high reached amidst optimism 🌟\n- Investors bullish on potential rate cut 🐃\n- Market confidence reflected in stock rally 📊\n\nTAKEAWAY: The Dow's remarkable surge to a record high signals investor optimism as they anticipate the Federal Reserve's decision to cut interest rates despite a rise in August inflation.",
+      "exported_at": "2025-09-11T16:27:48.119484",
       "continuous_session": true
     }
   ]
