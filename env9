@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T14:23:36.629592",
-    "total_articles": 810,
-    "new_articles_in_last_fetch": 810,
+    "created_at": "2025-09-11T14:28:48.513780",
+    "total_articles": 811,
+    "new_articles_in_last_fetch": 811,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -10530,6 +10530,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: PLANE DEPARTS WITH DETAINED HYUNDAI, LG WORKERS FOR SOUTH KOREA 🚀\n\n- Hyundai-LG workers detained in Georgia immigration raid ✈️\n- Departure of workers from U.S. to South Korea confirmed 🇺🇸🔜🇰🇷\n- Immigration raid incident resolved with workers' departure ✅\n- Workers en route to South Korea after detention in U.S. ⏩🌏\n- Incident marks end of immigration issue for Hyundai, LG employees 🏁\n- Workers' departure signifies resolution of immigration raid 🛫\n\nTAKEAWAY: Hyundai-LG workers detained in an immigration raid in Georgia have departed for South Korea, resolving the incident and marking the end of the immigration issue.",
       "exported_at": "2025-09-11T14:23:36.620324",
+      "continuous_session": true
+    },
+    {
+      "title": "Paramount Skydance is preparing a bid for Warner Bros. Discovery, sources say",
+      "link": "https://www.cnbc.com/2025/09/11/warner-bros-discovery-paramount-skydance-bid.html",
+      "summary": "The Wall Street Journal reported the recently merged Paramount Skydance was preparing a takeover bid for the entirety of WBD.",
+      "published": "Thu, 11 Sep 2025 18:25:51 GMT",
+      "content": "The Wall Street Journal reported the recently merged Paramount Skydance was preparing a takeover bid for the entirety of WBD.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fbf3488cefac94fb9c5059303ea240ac",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WARNER BROS. DISCOVERY SOARS 25% ON PARAMOUNT SKYDANCE TAKEOVER REPORT 🚀\n\n- WBD stock jumps 25% following Paramount Skydance takeover bid news 📈\n- Paramount Skydance plans to make a bid for all of Warner Bros. Discovery 🎯\n- Wall Street Journal breaks news on potential takeover 📰\n- Merger of Paramount Skydance fueling market excitement 🚀\n- Investors react positively to the takeover speculation 📈\n- Warner Bros. Discovery's stock price surges on the report 📈\n\nTAKEAWAY: Warner Bros. Discovery experiences a significant 25% surge in stock price after reports of a potential takeover bid by Paramount Skydance, creating excitement among investors.",
+      "exported_at": "2025-09-11T14:28:48.504136",
       "continuous_session": true
     }
   ]
