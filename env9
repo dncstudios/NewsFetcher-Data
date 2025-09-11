@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T16:27:48.189193",
-    "total_articles": 830,
-    "new_articles_in_last_fetch": 830,
+    "created_at": "2025-09-11T16:48:25.057567",
+    "total_articles": 831,
+    "new_articles_in_last_fetch": 831,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -10790,6 +10790,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: DOW SURGES 400 POINTS TO RECORD HIGH AMID FED RATE CUT EXPECTATIONS 🚀\n\n- Stock market soars with Dow up 400 points 📈\n- Traders expect Fed to cut interest rate despite August inflation rise ⚖️\n- Market anticipates Fed's move to boost economy 📈\n- Record high reached amidst optimism 🌟\n- Investors bullish on potential rate cut 🐃\n- Market confidence reflected in stock rally 📊\n\nTAKEAWAY: The Dow's remarkable surge to a record high signals investor optimism as they anticipate the Federal Reserve's decision to cut interest rates despite a rise in August inflation.",
       "exported_at": "2025-09-11T16:27:48.119484",
+      "continuous_session": true
+    },
+    {
+      "title": "Here&apos;s what Paramount Skydance would be buying in a deal for Warner Bros. Discovery",
+      "link": "https://www.cnbc.com/2025/09/11/paramount-skydance-warner-bros-discovery-bid-content.html",
+      "summary": "Paramount Skydance CEO and Chairman David Ellison could buy Warner Bros. Discovery and add major TV and film franchises as well as sports rights to his empire.",
+      "published": "Thu, 11 Sep 2025 20:44:49 GMT",
+      "content": "Paramount Skydance CEO and Chairman David Ellison could buy Warner Bros. Discovery and add major TV and film franchises as well as sports rights to his empire.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2f8b87fdb5baa9ca80bbf20784d5e1f8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PARAMOUNT SKYDANCE EYES WARNER BROS. DISCOVERY DEAL 🚀\n\n- Paramount Skydance's David Ellison eyeing Warner Bros. Discovery acquisition 💼\n- Potential deal to bring major TV, film franchises, and sports rights to Paramount 📺🎥\n- Ellison aiming to expand his entertainment empire through the acquisition 🌟\n\nTAKEAWAY: Paramount Skydance's potential acquisition of Warner Bros. Discovery could lead to a significant expansion of its entertainment portfolio, including major franchises and sports rights.",
+      "exported_at": "2025-09-11T16:48:24.990035",
       "continuous_session": true
     }
   ]
