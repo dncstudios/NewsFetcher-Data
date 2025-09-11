@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T15:35:54.655014",
-    "total_articles": 820,
-    "new_articles_in_last_fetch": 820,
+    "created_at": "2025-09-11T15:41:05.650009",
+    "total_articles": 822,
+    "new_articles_in_last_fetch": 822,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -10660,6 +10660,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: KODAK'S VINTAGE-INSPIRED TOY CAMERAS FLY OFF SHELVES 🚀\n\n- Kodak releases 7 toy cameras reminiscent of 1980s film cameras 📷\n- Cameras sold in mystery blind boxes, sparking excitement 🔥\n- Strong sales reported for Kodak's nostalgic toy cameras 💰\n\nTAKEAWAY: Kodak's vintage-style toy cameras, inspired by 1980s film cameras and sold in blind boxes, are flying off the shelves, signaling strong sales and nostalgic appeal.",
       "exported_at": "2025-09-11T15:35:54.645754",
+      "continuous_session": true
+    },
+    {
+      "title": "Opendoor stock soars 80% after company names new CEO",
+      "link": "https://www.cnbc.com/2025/09/11/opendoor-stock-ceo-nejatian-keith-rabois.html",
+      "summary": "Former CEO Carrie Wheeler resigned last month following a pressure campaign from investors.",
+      "published": "Thu, 11 Sep 2025 19:37:32 GMT",
+      "content": "Former CEO Carrie Wheeler resigned last month following a pressure campaign from investors.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4d3c5dcc9ae075b73a8c1958a1340670",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: OPENDOOR STOCK SOARS 60% AFTER NEW CEO APPOINTMENT 🚀\n\n- Opendoor's stock jumps by 60% post new CEO announcement\n- Former CEO Carrie Wheeler resigns amid investor pressure campaign\n- Investors react positively to the leadership change\n- Company aims for growth and stability under new leadership\n- Market confidence boosts Opendoor's stock performance\n- New CEO appointment signals a fresh start for the company\n\nTAKEAWAY: Opendoor's stock surges as investors show optimism with the new CEO appointment, signaling a positive outlook for the company's future.",
+      "exported_at": "2025-09-11T15:41:05.579246",
+      "continuous_session": true
+    },
+    {
+      "title": "Brazil&apos;s Bolsonaro guilty of coup charges, court majority decides in landmark trial",
+      "link": "https://www.cnbc.com/2025/09/11/brazils-bolsonaro-guilty-coup-charges.html",
+      "summary": "Former Brazilian president Jair Bolsonaro was convicted by a Supreme Court majority of plotting a coup to remain in power after losing the 2022 election.",
+      "published": "Thu, 11 Sep 2025 19:38:47 GMT",
+      "content": "Former Brazilian president Jair Bolsonaro was convicted by a Supreme Court majority of plotting a coup to remain in power after losing the 2022 election.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "cb37750d816cb45a3202b69815d02d69",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BRAZIL'S BOLSONARO CONVICTED OF COUP PLOT 🚨\n\n- Bolsonaro found guilty by Supreme Court majority ⚖️\n- Accused of plotting coup post-2022 election loss 🇧🇷\n- Landmark trial outcome shakes Brazilian politics 🌎\n\nTAKEAWAY: Bolsonaro's conviction for planning a coup post-2022 election loss by a Supreme Court majority sends shockwaves through Brazilian politics.",
+      "exported_at": "2025-09-11T15:41:05.579337",
       "continuous_session": true
     }
   ]
