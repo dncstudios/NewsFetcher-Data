@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T16:07:00.642755",
-    "total_articles": 827,
-    "new_articles_in_last_fetch": 827,
+    "created_at": "2025-09-11T16:22:40.061401",
+    "total_articles": 829,
+    "new_articles_in_last_fetch": 829,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -10751,6 +10751,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: OPENDOOR STOCK SOARS 60% AFTER NEW CEO APPOINTMENT 🚀\n\n- Opendoor's stock jumps by 60% post new CEO announcement\n- Former CEO Carrie Wheeler resigns amid investor pressure campaign\n- Investors react positively to the leadership change\n- Company aims for growth and stability under new leadership\n- Market confidence boosts Opendoor's stock performance\n- New CEO appointment signals a fresh start for the company\n\nTAKEAWAY: Opendoor's stock surges as investors show optimism with the new CEO appointment, signaling a positive outlook for the company's future.",
       "exported_at": "2025-09-11T16:07:00.576663",
+      "continuous_session": true
+    },
+    {
+      "title": "Santoli&apos;s Thursday&apos;s market wrap-up: August CPI numbers released whatever tension the market was holding",
+      "link": "https://www.cnbc.com/2025/09/11/santolis-thursdays-market-wrap-up-cpi-numbers-released-market-tension.html",
+      "summary": "In-line pricing data was paired with what appeared to be another sign of labor-market softening.",
+      "published": "Thu, 11 Sep 2025 20:21:24 GMT",
+      "content": "In-line pricing data was paired with what appeared to be another sign of labor-market softening.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a5d92b29240b81fb10431595dd05ac6d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SANTOLI'S MARKET WRAP-UP: AUGUST CPI DATA EASES MARKET TENSION 🚀\n\n- August CPI numbers released, calming market nerves 📊\n- Pricing data aligned with signs of softening labor market 💼\n- Market tension alleviated by the released data 🌟\n\nTAKEAWAY: The August CPI data release provided a calming effect on the market, aligning with signs of a softening labor market and easing overall tension.",
+      "exported_at": "2025-09-11T16:22:39.993850",
+      "continuous_session": true
+    },
+    {
+      "title": "Adobe&apos;s stock gains on earnings, revenue beat",
+      "link": "https://www.cnbc.com/2025/09/11/adobe-adbe-q3-2025-earnings-report.html",
+      "summary": "Adobe shares have dropped this year, badly underperforming the broader market.",
+      "published": "Thu, 11 Sep 2025 20:22:12 GMT",
+      "content": "Adobe shares have dropped this year, badly underperforming the broader market.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0031f9c22367702fafeef809d4899b69",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ADOBE STOCK SOARS ON EARNINGS AND REVENUE BEAT 🚀\n\n- Adobe stock rebounds after underperforming market 📈\n- Earnings and revenue exceed expectations 💰\n- Investors react positively to strong performance 🎉\n- Adobe's stock gains momentum after a challenging year 🚀\n- Company's resilience showcased through earnings beat 💪\n- Market responds favorably to Adobe's turnaround 📈\n\nTAKEAWAY: Despite a challenging year, Adobe's stock gains momentum as it rebounds with impressive earnings and revenue beat, showcasing resilience and positive investor sentiment.",
+      "exported_at": "2025-09-11T16:22:39.993904",
       "continuous_session": true
     }
   ]
