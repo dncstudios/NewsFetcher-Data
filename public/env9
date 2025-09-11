@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T10:22:58.527543",
-    "total_articles": 774,
-    "new_articles_in_last_fetch": 774,
+    "created_at": "2025-09-11T10:28:05.000386",
+    "total_articles": 775,
+    "new_articles_in_last_fetch": 775,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -10062,6 +10062,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AUGUST 2025 INFLATION BREAKDOWN: ANALYSIS IN ONE CHART 📊\n\n- Consumer Price Index spikes by 2.9% annually 💥\n- Tariffs driving up prices for clothing 📈\n- Economists identify tariffs as key factor impacting inflation\n\nTAKEAWAY: In August 2025, the Consumer Price Index surged by 2.9% annually, attributed to rising prices in clothing due to tariffs, as economists analyze the inflation breakdown.",
       "exported_at": "2025-09-11T10:22:58.447519",
+      "continuous_session": true
+    },
+    {
+      "title": "10-year Treasury yield falls to 4% as traders assess inflation data",
+      "link": "https://www.cnbc.com/2025/09/11/treasury-yields-inflation-data.html",
+      "summary": "Traders assessed a raft of economic signals Thursday morning.",
+      "published": "Thu, 11 Sep 2025 14:26:21 GMT",
+      "content": "Traders assessed a raft of economic signals Thursday morning.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "dbb9a14e73421c7bf3e31564c0733720",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 10-YEAR TREASURY YIELD DIPS TO 4% THEN REBOUNDS AS TRADERS EVALUATE INFLATION DATA 📉🔄\n\n- 10-year Treasury yield drops to 4% before bouncing back\n- Traders analyze inflation data impacting market sentiment\n- Market reacts to a variety of economic signals\n- Fluctuations in Treasury yield reflect investor uncertainty\n- Inflation concerns influence market movements\n- Thursday morning sees dynamic shifts in financial markets\n\nTAKEAWAY: Fluctuations in the 10-year Treasury yield highlight the market's sensitivity to inflation data, leading to dynamic trading sessions.",
+      "exported_at": "2025-09-11T10:28:04.936276",
       "continuous_session": true
     }
   ]
