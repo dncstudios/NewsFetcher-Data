@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T09:57:21.155238",
-    "total_articles": 770,
-    "new_articles_in_last_fetch": 770,
+    "created_at": "2025-09-11T10:07:37.169763",
+    "total_articles": 772,
+    "new_articles_in_last_fetch": 772,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -10010,6 +10010,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP PREDICTS HEALING AFTER CHARLIE KIRK'S ASSASSINATION 🚀\n\n- Trump remains optimistic about country's recovery post Kirk's death 💪\n- Encourages unity and healing in the face of tragedy 🤝\n- Kirk's assassination sparks conversations on political tensions ⚠️\n- Trump's message aims to calm and reassure the nation 🌟\n\nTAKEAWAY: Trump's message of hope and healing post-Charlie Kirk's assassination seeks to unite a nation grappling with political tensions.",
       "exported_at": "2025-09-11T09:57:21.091922",
+      "continuous_session": true
+    },
+    {
+      "title": "Dow jumps 400 points to record as August inflation increase likely won&apos;t derail Fed rate cut: Live updates",
+      "link": "https://www.cnbc.com/2025/09/10/stock-market-today-live-updates.html",
+      "summary": "Stocks rose on Thursday as traders anticipated that the Federal Reserve will still lower its benchmark interest rate next week.",
+      "published": "Thu, 11 Sep 2025 14:05:56 GMT",
+      "content": "Stocks rose on Thursday as traders anticipated that the Federal Reserve will still lower its benchmark interest rate next week.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "486f679f6323237c6933bfd0a82dd407",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DOW SURGES 400 POINTS TO RECORD HIGH AMID FED RATE CUT EXPECTATIONS 🚀\n\n- Stock market soars with Dow up 400 points 📈\n- Traders expect Fed to cut interest rate despite August inflation rise ⚖️\n- Market anticipates Fed's move to boost economy 📈\n- Record high reached amidst optimism 🌟\n- Investors bullish on potential rate cut 🐃\n- Market confidence reflected in stock rally 📊\n\nTAKEAWAY: The Dow's remarkable surge to a record high signals investor optimism as they anticipate the Federal Reserve's decision to cut interest rates despite a rise in August inflation.",
+      "exported_at": "2025-09-11T10:07:37.109234",
+      "continuous_session": true
+    },
+    {
+      "title": "CNBC Sport: What YouTube&apos;s first NFL game says about the league&apos;s future",
+      "link": "https://www.cnbc.com/2025/09/11/cnbc-sport-youtube-nfl-game-ncaas-charlie-baker.html",
+      "summary": "YouTube isn't coming for broadcast's NFL dominance yet, and the NCAA's Charlie Baker talks gambling and private equity.",
+      "published": "Thu, 11 Sep 2025 14:00:01 GMT",
+      "content": "YouTube isn't coming for broadcast's NFL dominance yet, and the NCAA's Charlie Baker talks gambling and private equity.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b97835deb7660e55d7bafefde8625564",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CNBC SPORT: YOUTUBE'S NFL GAME SIGNALS LEAGUE'S FUTURE 🏈\n\n- YouTube's 1st NFL game hints at league's evolving strategy\n- Broadcast TV maintains NFL dominance for now\n- NCAA's Charlie Baker discusses gambling and private equity\n\nTAKEAWAY: YouTube's debut NFL game provides insights into the league's future strategies, while broadcast TV remains the dominant platform for NFL content.",
+      "exported_at": "2025-09-11T10:07:37.109322",
       "continuous_session": true
     }
   ]
