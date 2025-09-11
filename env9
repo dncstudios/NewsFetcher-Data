@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T14:18:21.480237",
-    "total_articles": 809,
-    "new_articles_in_last_fetch": 809,
+    "created_at": "2025-09-11T14:23:36.629592",
+    "total_articles": 810,
+    "new_articles_in_last_fetch": 810,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -10517,6 +10517,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NOVO NORDISK PUSHES FULL-TIME OFFICE RETURN FOR FASTER DECISIONS ⚡️\n\n- Novo Nordisk mandates full-time office return for staff 🏢\n- New CEO aims to speed up decision-making and boost commercial performance 📈\n- Emphasis on enhancing operational efficiency and teamwork 🤝\n\nTAKEAWAY: Novo Nordisk's CEO pushes for full-time office return to drive quicker decisions and enhance commercial outcomes, focusing on operational efficiency and collaboration.",
       "exported_at": "2025-09-11T14:18:21.469545",
+      "continuous_session": true
+    },
+    {
+      "title": "Plane carrying Hyundai, LG workers detained in immigration raid departs for South Korea",
+      "link": "https://www.cnbc.com/2025/09/11/trump-hyundai-lg-south-korea-workers.html",
+      "summary": "The plane carrying workers detained in an immigration raid of a Georgia Hyundai-LG plant last week left the U.S., bound for South Korea.",
+      "published": "Thu, 11 Sep 2025 18:18:12 GMT",
+      "content": "The plane carrying workers detained in an immigration raid of a Georgia Hyundai-LG plant last week left the U.S., bound for South Korea.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1708b5b1c5f838bc818e13ad6671e3a3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PLANE DEPARTS WITH DETAINED HYUNDAI, LG WORKERS FOR SOUTH KOREA 🚀\n\n- Hyundai-LG workers detained in Georgia immigration raid ✈️\n- Departure of workers from U.S. to South Korea confirmed 🇺🇸🔜🇰🇷\n- Immigration raid incident resolved with workers' departure ✅\n- Workers en route to South Korea after detention in U.S. ⏩🌏\n- Incident marks end of immigration issue for Hyundai, LG employees 🏁\n- Workers' departure signifies resolution of immigration raid 🛫\n\nTAKEAWAY: Hyundai-LG workers detained in an immigration raid in Georgia have departed for South Korea, resolving the incident and marking the end of the immigration issue.",
+      "exported_at": "2025-09-11T14:23:36.620324",
       "continuous_session": true
     }
   ]
