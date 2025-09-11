@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T20:00:56.390517",
-    "total_articles": 720,
-    "new_articles_in_last_fetch": 720,
+    "created_at": "2025-09-10T20:11:09.525550",
+    "total_articles": 721,
+    "new_articles_in_last_fetch": 721,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -9360,6 +9360,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ASIA MARKETS AWAIT INFLATION DATA AFTER WALL STREET GAINS 🚀\n\n- U.S. equity futures stable, eyes on key inflation data 📈\n- Wall Street anticipates August consumer inflation report 📅\n- Asia markets set for mixed opening after positive Wall Street session 🌏\n\nTAKEAWAY: Asia markets poised for a mixed open following Wall Street gains, with focus on upcoming U.S. inflation data.",
       "exported_at": "2025-09-10T20:00:56.336004",
+      "continuous_session": true
+    },
+    {
+      "title": "Hawaiian Airlines CEO Joe Sprague to retire, Diana Birkett Rakow to step in",
+      "link": "https://www.cnbc.com/2025/09/11/hawaiian-airlines-ceo-joe-sprague-to-retire-diana-birkett-rakow-to-step-in.html",
+      "summary": "Birkett Rakow joined Alaska Airlines, a subsidiary of the group, eight years ago.",
+      "published": "Thu, 11 Sep 2025 00:08:32 GMT",
+      "content": "Birkett Rakow joined Alaska Airlines, a subsidiary of the group, eight years ago.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "47e9956c3e4f32aec7ff8cd9882fc414",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: HAWAIIAN AIRLINES CEO RETIRES; DIANA BIRKETT RAKOW TO TAKE OVER 🚀\n\n- Hawaiian Airlines CEO Joe Sprague retiring; Diana Birkett Rakow to lead 🌺\n- Birkett Rakow's 8-year tenure at Alaska Airlines prepares her for new role ✈️\n- Smooth transition expected with her experience within the group 🔄\n\nTAKEAWAY: Hawaiian Airlines prepares for a leadership shift as Diana Birkett Rakow steps in after Joe Sprague's retirement, backed by her experience at Alaska Airlines.",
+      "exported_at": "2025-09-10T20:11:09.466512",
       "continuous_session": true
     }
   ]
