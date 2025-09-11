@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T20:26:23.238899",
-    "total_articles": 723,
-    "new_articles_in_last_fetch": 723,
+    "created_at": "2025-09-10T20:46:41.308488",
+    "total_articles": 724,
+    "new_articles_in_last_fetch": 724,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -9399,6 +9399,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ASIA MARKETS AWAIT INFLATION DATA AFTER WALL STREET GAINS 🚀\n\n- U.S. equity futures stable, eyes on key inflation data 📈\n- Wall Street anticipates August consumer inflation report 📅\n- Asia markets set for mixed opening after positive Wall Street session 🌏\n\nTAKEAWAY: Asia markets poised for a mixed open following Wall Street gains, with focus on upcoming U.S. inflation data.",
       "exported_at": "2025-09-10T20:26:23.196464",
+      "continuous_session": true
+    },
+    {
+      "title": "Initial suspect in Charlie Kirk killing released from custody after interrogation, FBI Director Patel says",
+      "link": "https://www.cnbc.com/2025/09/10/charlie-kirk-uvu-shooting-utah.html",
+      "summary": "\"We must all pray for Charlie Kirk, who has been shot,\" President Donald Trump wrote in a social media post.",
+      "published": "Thu, 11 Sep 2025 00:43:05 GMT",
+      "content": "\"We must all pray for Charlie Kirk, who has been shot,\" President Donald Trump wrote in a social media post.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1a0641b1821062630872a963b9f6324f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CONSERVATIVE ACTIVIST CHARLIE KIRK SHOT IN UTAH VALLEY UNIVERSITY 🚨\n\n- President Trump calls for prayers after Charlie Kirk's shooting 🙏\n- Incident occurs at Utah Valley University 🏫\n- Details of the shooting not disclosed yet 🕵️‍♂️\n\nTAKEAWAY: Conservative activist Charlie Kirk's shooting at Utah Valley University prompts prayers from President Trump, with details still undisclosed.",
+      "exported_at": "2025-09-10T20:46:41.252222",
       "continuous_session": true
     }
   ]
