@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T13:16:34.897624",
-    "total_articles": 798,
-    "new_articles_in_last_fetch": 798,
+    "created_at": "2025-09-11T13:52:19.660580",
+    "total_articles": 802,
+    "new_articles_in_last_fetch": 802,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -10374,6 +10374,58 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: LOOK FOR HIDDEN GEMS IN HEALTHCARE & BANKING AS FED CONSIDERS RATE CUTS 🚀\n\n- Tim Seymour advises seeking undervalued stocks in healthcare & banking sectors 💎\n- Focus on areas poised to benefit from potential Federal Reserve rate cuts 📈\n- Consider Amplify CWP International Enhanced Dividend Income ETF for diversified exposure ✅\n\nTAKEAWAY: With the potential for Fed rate cuts, exploring overlooked opportunities in healthcare and banking, guided by experts like Tim Seymour, could lead to profitable investments.",
       "exported_at": "2025-09-11T13:16:34.888348",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump&apos;s tariffs are slowly finding their way into consumer prices",
+      "link": "https://www.cnbc.com/2025/09/11/trumps-tariffs-are-slowly-finding-their-way-into-consumer-prices.html",
+      "summary": "A key Bureau of Labor Statistics inflation report showed price increases for a variety of tariff-sensitive items.",
+      "published": "Thu, 11 Sep 2025 17:36:21 GMT",
+      "content": "A key Bureau of Labor Statistics inflation report showed price increases for a variety of tariff-sensitive items.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9ce465ad4374d7d616130e9dae181ca4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP'S TARIFFS IMPACT CONSUMER PRICES 📈\n\n- Inflation report reveals price hikes on tariff-sensitive goods 📈\n- Consumers feeling the effects of Trump's tariffs on products 🛒\n- Bureau of Labor Statistics data highlights rising prices 📊\n\nTAKEAWAY: Trump's tariffs are gradually seeping into consumer prices, as seen in the recent inflation report, impacting everyday purchases.",
+      "exported_at": "2025-09-11T13:52:19.650113",
+      "continuous_session": true
+    },
+    {
+      "title": "Four meme stocks with high social activity and hedge funds shorts, according to JPMorgan",
+      "link": "https://www.cnbc.com/2025/09/11/four-meme-stocks-with-high-social-activity-and-hedge-funds-shorts-according-to-jpmorgan.html",
+      "summary": "\"We are flagging a few stocks that are heavily mentioned on Social Media and have high Retail buying as well as high Hedge fund Shorting,\" JPMorgan said.",
+      "published": "Thu, 11 Sep 2025 17:36:07 GMT",
+      "content": "\"We are flagging a few stocks that are heavily mentioned on Social Media and have high Retail buying as well as high Hedge fund Shorting,\" JPMorgan said.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4b1382b61795d7d6b69a8d2f42c4efca",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FOUR MEME STOCKS WITH HIGH SOCIAL ACTIVITY IDENTIFIED BY JPMORGAN 🚀\n\n- JPMorgan highlights stocks popular on social media and shorted by hedge funds 📈\n- These stocks show significant retail interest and hedge fund bearish bets 📊\n- Combination of high social activity and hedge fund shorts raises interest ⚡️\n- Investors intrigued by stocks with polarizing sentiment 🤔\n- JPMorgan's analysis points out stocks with unique market dynamics 🎯\n\nTAKEAWAY: JPMorgan identifies meme stocks attracting attention due to high social activity and hedge funds short positions, creating an intriguing market dynamic for investors to watch.",
+      "exported_at": "2025-09-11T13:52:19.650122",
+      "continuous_session": true
+    },
+    {
+      "title": "Opendoor stock soars 65% after company names new CEO",
+      "link": "https://www.cnbc.com/2025/09/11/opendoor-stock-ceo-nejatian-keith-rabois.html",
+      "summary": "Former CEO Carrie Wheeler resigned last month following a pressure campaign from investors.",
+      "published": "Thu, 11 Sep 2025 17:51:29 GMT",
+      "content": "Former CEO Carrie Wheeler resigned last month following a pressure campaign from investors.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "66f1331db6732f9f35b553e2735e85e8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: OPENDOOR STOCK SOARS 60% AFTER NEW CEO APPOINTMENT 🚀\n\n- Opendoor's stock jumps by 60% post new CEO announcement\n- Former CEO Carrie Wheeler resigns amid investor pressure campaign\n- Investors react positively to the leadership change\n- Company aims for growth and stability under new leadership\n- Market confidence boosts Opendoor's stock performance\n- New CEO appointment signals a fresh start for the company\n\nTAKEAWAY: Opendoor's stock surges as investors show optimism with the new CEO appointment, signaling a positive outlook for the company's future.",
+      "exported_at": "2025-09-11T13:52:19.650125",
+      "continuous_session": true
+    },
+    {
+      "title": "Look for unloved stocks in areas such as health care and banking before Fed cuts rates",
+      "link": "https://www.cnbc.com/2025/09/11/look-for-unloved-stocks-in-areas-like-healthcare-and-banking-before-fed-cuts-rates.html",
+      "summary": "Investor Tim Seymour is looking for pockets of unloved stocks to scoop up before the Fed decision.",
+      "published": "Thu, 11 Sep 2025 17:47:37 GMT",
+      "content": "Investor Tim Seymour is looking for pockets of unloved stocks to scoop up before the Fed decision.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9e7747fb431c0a2510db1ac27b01d16c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: LOOK FOR HIDDEN GEMS IN HEALTHCARE & BANKING BEFORE FED RATE CUTS 🚀\n\n- Investor Tim Seymour seeks undervalued stocks pre-Fed decision\n- Focus on unloved sectors like healthcare and banking 🏥💰\n- Strategy: find opportunities before market catches on 📈\n- Potential gains in overlooked stocks post-Fed cut 💸\n- Seymour scouts for hidden gems amidst uncertainty 🕵️‍♂️\n- Seeking value in sectors set to benefit from rate cuts ✨\n\nTAKEAWAY: Tim Seymour advises investors to hunt for undervalued stocks in healthcare and banking sectors before the Fed cuts rates, aiming for potential gains in overlooked gems.",
+      "exported_at": "2025-09-11T13:52:19.650129",
       "continuous_session": true
     }
   ]
