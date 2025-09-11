@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T14:28:48.513780",
-    "total_articles": 811,
-    "new_articles_in_last_fetch": 811,
+    "created_at": "2025-09-11T14:44:21.373395",
+    "total_articles": 813,
+    "new_articles_in_last_fetch": 813,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -10543,6 +10543,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WARNER BROS. DISCOVERY SOARS 25% ON PARAMOUNT SKYDANCE TAKEOVER REPORT 🚀\n\n- WBD stock jumps 25% following Paramount Skydance takeover bid news 📈\n- Paramount Skydance plans to make a bid for all of Warner Bros. Discovery 🎯\n- Wall Street Journal breaks news on potential takeover 📰\n- Merger of Paramount Skydance fueling market excitement 🚀\n- Investors react positively to the takeover speculation 📈\n- Warner Bros. Discovery's stock price surges on the report 📈\n\nTAKEAWAY: Warner Bros. Discovery experiences a significant 25% surge in stock price after reports of a potential takeover bid by Paramount Skydance, creating excitement among investors.",
       "exported_at": "2025-09-11T14:28:48.504136",
+      "continuous_session": true
+    },
+    {
+      "title": "U.S. will split profits with Tokyo from Japan-funded projects until $550 billion is recouped: Lutnick",
+      "link": "https://www.cnbc.com/2025/09/11/japan-us-tariff-550-billion-investment-trump-lutnick.html",
+      "summary": "Lutnick said the U.S. will initially split profits equally on projects funded through Japan's $550 billion investment.",
+      "published": "Thu, 11 Sep 2025 18:40:40 GMT",
+      "content": "Lutnick said the U.S. will initially split profits equally on projects funded through Japan's $550 billion investment.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4a4c3b7334117d7b939181e24728e400",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: U.S. TO SHARE PROFITS WITH TOKYO FROM JAPAN-FUNDED PROJECTS 🚀\n\n- Profits to be split equally on projects funded by Japan's $550B\n- Agreement until U.S. recoups full $550 billion investment\n- Partnership between U.S. and Tokyo strengthens 🤝\n\nTAKEAWAY: U.S. and Tokyo's profit-sharing deal on Japan-funded projects marks a strong partnership aiming to recoup the full $550 billion investment.",
+      "exported_at": "2025-09-11T14:44:21.314202",
+      "continuous_session": true
+    },
+    {
+      "title": "Eli Lilly loses appeal of $183.7 million Medicaid fraud award",
+      "link": "https://www.cnbc.com/2025/09/11/eli-lilly-loses-appeal-of-183point7-million-medicaid-fraud-award.html",
+      "summary": "A federal appeals court rejected Eli Lilly's appeal of an $183.7 million judgment won by a lawyer who accused the drugmaker of defrauding Medicaid.",
+      "published": "Thu, 11 Sep 2025 18:24:33 GMT",
+      "content": "A federal appeals court rejected Eli Lilly's appeal of an $183.7 million judgment won by a lawyer who accused the drugmaker of defrauding Medicaid.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3019c1cf04206519453e7b1d5c57c293",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ELI LILLY LOSES $183.7 MILLION MEDICAID FRAUD APPEAL ⚠️\n\n- Federal appeals court rejects Eli Lilly's appeal\n- Lawyer accuses drugmaker of defrauding Medicaid\n- $183.7 million judgment upheld against Eli Lilly\n\nTAKEAWAY: Eli Lilly's failed appeal of the $183.7 million Medicaid fraud judgment emphasizes the consequences of unethical practices in the pharmaceutical industry.",
+      "exported_at": "2025-09-11T14:44:21.314568",
       "continuous_session": true
     }
   ]
