@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T01:16:18.953157",
-    "total_articles": 734,
-    "new_articles_in_last_fetch": 734,
+    "created_at": "2025-09-11T01:41:43.032646",
+    "total_articles": 735,
+    "new_articles_in_last_fetch": 735,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -9542,6 +9542,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: LUXURY BRANDS BANK ON $160 LIPSTICKS & $1,400 ACCESSORIES TO REVIVE INDUSTRY SLUMP 🚀\n\n- Luxury brands diversify with high-priced items 💰\n- Strategy aims to attract new clientele 🌟\n- Industry faces challenges like U.S. tariffs & cost pressures ⚠️\n- $160 lipsticks & $1,400 accessories key in combating slowdown 🎯\n\nTAKEAWAY: Luxury brands are combating industry slowdown by banking on expensive items like $160 lipsticks and $1,400 accessories to attract new customers and revive the sector.",
       "exported_at": "2025-09-11T01:16:18.896697",
+      "continuous_session": true
+    },
+    {
+      "title": "European markets set to open in mixed territory; traders await ECB update",
+      "link": "https://www.cnbc.com/2025/09/11/european-markets-on-thurs-septpoint11-stoxx-600-ftse-dax-ecb-update.html",
+      "summary": "European stocks are expected to open in mixed territory Thursday as investors await the latest rate decision and update from the European Central Bank.",
+      "published": "Thu, 11 Sep 2025 05:10:13 GMT",
+      "content": "European stocks are expected to open in mixed territory Thursday as investors await the latest rate decision and update from the European Central Bank.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "131215079bc51b757221b54dcb40c374",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: EUROPEAN MARKETS OPEN MIXED AHEAD OF ECB UPDATE 🚀\n\n- European stocks set to open in mixed territory 📉📈\n- Investors eagerly await European Central Bank rate decision 🏦💼\n- Market sentiment uncertain amidst anticipation ⚠️📉\n- Traders seek guidance from ECB update 📊🔍\n- Volatility expected as market reacts to ECB decisions 💥📈\n- Investors cautious as they analyze the central bank's update 🧐\n\nTAKEAWAY: European markets are poised for a mixed opening as traders eagerly anticipate the European Central Bank's update, leading to uncertain market sentiment and potential volatility.",
+      "exported_at": "2025-09-11T01:41:42.974261",
       "continuous_session": true
     }
   ]
