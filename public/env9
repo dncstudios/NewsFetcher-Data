@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T01:11:08.969607",
-    "total_articles": 733,
-    "new_articles_in_last_fetch": 733,
+    "created_at": "2025-09-11T01:16:18.953157",
+    "total_articles": 734,
+    "new_articles_in_last_fetch": 734,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -9529,6 +9529,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FRANCE'S ECONOMY FACES CREDIT RATING UNCERTAINTY 🚨\n\n- \"Big Three\" ratings agencies to update creditworthiness verdicts 📈\n- Updates coincide with intense political and economic uncertainty 🌍\n- France's economy at risk due to external creditworthiness assessment 📉\n\nTAKEAWAY: France's economy faces heightened risk as \"Big Three\" ratings agencies evaluate its creditworthiness amidst significant political and economic uncertainty.",
       "exported_at": "2025-09-11T01:11:08.916984",
+      "continuous_session": true
+    },
+    {
+      "title": "Luxury brands bet on $160 lipsticks and $1,400 accessories to combat industry slump",
+      "link": "https://www.cnbc.com/2025/09/11/luxury-brands-diversify-with-160-lipsticks-1400-accessories-amid-slump.html",
+      "summary": "The diversification to attract new customers comes as the luxury sector grapples with an industry-wide slowdown, U.S. tariffs, and wider cost pressures.",
+      "published": "Thu, 11 Sep 2025 05:12:05 GMT",
+      "content": "The diversification to attract new customers comes as the luxury sector grapples with an industry-wide slowdown, U.S. tariffs, and wider cost pressures.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "93ed09ca425f0ebed20694e5aa109035",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: LUXURY BRANDS BANK ON $160 LIPSTICKS & $1,400 ACCESSORIES TO REVIVE INDUSTRY SLUMP 🚀\n\n- Luxury brands diversify with high-priced items 💰\n- Strategy aims to attract new clientele 🌟\n- Industry faces challenges like U.S. tariffs & cost pressures ⚠️\n- $160 lipsticks & $1,400 accessories key in combating slowdown 🎯\n\nTAKEAWAY: Luxury brands are combating industry slowdown by banking on expensive items like $160 lipsticks and $1,400 accessories to attract new customers and revive the sector.",
+      "exported_at": "2025-09-11T01:16:18.896697",
       "continuous_session": true
     }
   ]
