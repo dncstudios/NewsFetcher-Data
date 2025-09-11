@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T12:56:04.681651",
-    "total_articles": 795,
-    "new_articles_in_last_fetch": 795,
+    "created_at": "2025-09-11T13:01:15.882822",
+    "total_articles": 797,
+    "new_articles_in_last_fetch": 797,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -10335,6 +10335,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCKS PRIMED FOR BIG BOOST AS FED CUTS RATES 🚀\n\n- Companies with more floating rate debt may see gains 💰\n- Lower short-term rates could drive stock prices up 📈\n- Potential for increased profitability in these stocks ✅\n\nTAKEAWAY: Stocks with higher floating rate debt are positioned to benefit the most if the Fed decides to lower interest rates, potentially leading to increased profitability and stock price growth.",
       "exported_at": "2025-09-11T12:56:04.632783",
+      "continuous_session": true
+    },
+    {
+      "title": "Plane carrying Hyundai, LG workers detained in immigration raid departs for South Korea",
+      "link": "https://www.cnbc.com/2025/09/11/trump-hyundai-lg-south-korea-workers.html",
+      "summary": "The plane carrying workers detained in an immigration raid of a Georgia Hyundai-LG plant last week left the United States, bound for South Korea.",
+      "published": "Thu, 11 Sep 2025 16:58:24 GMT",
+      "content": "The plane carrying workers detained in an immigration raid of a Georgia Hyundai-LG plant last week left the United States, bound for South Korea.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fcff8c964507fef0c64cd7cadc86c896",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: IMMIGRATION RAID DETAINED WORKERS BOARD PLANE TO SOUTH KOREA 🚀\n\n- Workers detained in Georgia Hyundai-LG plant raid depart US 🛫\n- Bound for South Korea after immigration-related ordeal ✈️\n- Immigration raid incident resolved with workers on flight 🌏\n\nTAKEAWAY: Workers detained in the immigration raid at the Hyundai-LG plant in Georgia have boarded a plane bound for South Korea, resolving the immigration-related ordeal.",
+      "exported_at": "2025-09-11T13:01:15.819705",
+      "continuous_session": true
+    },
+    {
+      "title": "Hyundai battery plant faces at least 2-3 month delay following raid, CEO says",
+      "link": "https://www.cnbc.com/2025/09/11/hyundai-battery-plant-faces-at-least-2-3-month-delay-following-raid-ceo-says.html",
+      "summary": "A battery plant co-owned by Hyundai Motor is facing a minimum delay of two to three months following an immigration raid last week, CEO Jose Munoz said.",
+      "published": "Thu, 11 Sep 2025 16:58:39 GMT",
+      "content": "A battery plant co-owned by Hyundai Motor is facing a minimum delay of two to three months following an immigration raid last week, CEO Jose Munoz said.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c65d2c8c6b6d47b9be145e6f9d348941",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: HYUNDAI BATTERY PLANT DELAYED 2-3 MONTHS AFTER IMMIGRATION RAID ⚠️\n\n- Co-owned Hyundai battery plant faces 2-3 month delay ⏳\n- Immigration raid causes setback in plant operations 🛑\n- CEO Jose Munoz confirms minimum delay due to the raid ✅\n\nTAKEAWAY: Hyundai's battery plant hit with a 2-3 month delay post-immigration raid, impacting operations and timelines significantly.",
+      "exported_at": "2025-09-11T13:01:15.819761",
       "continuous_session": true
     }
   ]
