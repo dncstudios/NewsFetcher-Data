@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T05:32:25.783920",
-    "total_articles": 743,
-    "new_articles_in_last_fetch": 743,
+    "created_at": "2025-09-11T06:23:08.038713",
+    "total_articles": 744,
+    "new_articles_in_last_fetch": 744,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -9659,6 +9659,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TEXAS ROADHOUSE MAY SEE RELIEF AS LIVE CATTLE FUTURES DECLINE 🚀\n\n- Live cattle futures dropping may lower beef prices 🥩\n- Potential positive impact on Texas Roadhouse's costs 💰\n- Charts suggest easing of a major headwind for the company 📉\n- Relief in beef prices could improve profitability 📈\n- Positive outlook driven by declining cattle futures 🌟\n\nTAKEAWAY: Texas Roadhouse could benefit as live cattle futures decline, potentially easing a significant cost pressure and boosting profitability.",
       "exported_at": "2025-09-11T05:32:25.773558",
+      "continuous_session": true
+    },
+    {
+      "title": "UK sacks Mandelson as U.S. ambassador over Epstein links",
+      "link": "https://www.cnbc.com/2025/09/11/uk-sacks-mandelson-as-us-ambassador-over-epstein-links.html",
+      "summary": "\"Additional information\" in emails written by Peter Mandelson to Jeffrey Epstein led the U.K. prime minister to request his withdrawal as ambassador to the U.S.",
+      "published": "Thu, 11 Sep 2025 10:19:15 GMT",
+      "content": "\"Additional information\" in emails written by Peter Mandelson to Jeffrey Epstein led the U.K. prime minister to request his withdrawal as ambassador to the U.S.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "08978cd1f38872b3f2df92c288b0e27d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: UK SACKS MANDELSON AS U.S. AMBASSADOR OVER EPSTEIN LINKS 🚨\n\n- UK Prime Minister requests Mandelson's withdrawal as U.S. ambassador\n- \"Additional information\" in emails to Epstein prompts decision\n- Epstein links force UK to take action against Mandelson\n\nTAKEAWAY: UK Prime Minister's decision to sack Mandelson as U.S. ambassador due to Epstein links showcases zero tolerance for inappropriate associations.",
+      "exported_at": "2025-09-11T06:23:08.028323",
       "continuous_session": true
     }
   ]
