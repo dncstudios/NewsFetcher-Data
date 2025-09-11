@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T13:52:19.660580",
-    "total_articles": 802,
-    "new_articles_in_last_fetch": 802,
+    "created_at": "2025-09-11T13:57:29.942721",
+    "total_articles": 803,
+    "new_articles_in_last_fetch": 803,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -10426,6 +10426,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: LOOK FOR HIDDEN GEMS IN HEALTHCARE & BANKING BEFORE FED RATE CUTS 🚀\n\n- Investor Tim Seymour seeks undervalued stocks pre-Fed decision\n- Focus on unloved sectors like healthcare and banking 🏥💰\n- Strategy: find opportunities before market catches on 📈\n- Potential gains in overlooked stocks post-Fed cut 💸\n- Seymour scouts for hidden gems amidst uncertainty 🕵️‍♂️\n- Seeking value in sectors set to benefit from rate cuts ✨\n\nTAKEAWAY: Tim Seymour advises investors to hunt for undervalued stocks in healthcare and banking sectors before the Fed cuts rates, aiming for potential gains in overlooked gems.",
       "exported_at": "2025-09-11T13:52:19.650129",
+      "continuous_session": true
+    },
+    {
+      "title": "Warner Bros. Discovery stock is up 25% after report Paramount Skydance is preparing a takeover bid",
+      "link": "https://www.cnbc.com/2025/09/11/warner-bros-discovery-paramount-skydance-bid.html",
+      "summary": "The Wall Street Journal reported the recently merged Paramount Skydance was preparing a takeover bid for the entirety of WBD.",
+      "published": "Thu, 11 Sep 2025 17:57:13 GMT",
+      "content": "The Wall Street Journal reported the recently merged Paramount Skydance was preparing a takeover bid for the entirety of WBD.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "685b804e8ddc3204b31a23832ac56f78",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WARNER BROS. DISCOVERY SOARS 25% ON PARAMOUNT SKYDANCE TAKEOVER REPORT 🚀\n\n- WBD stock jumps 25% following Paramount Skydance takeover bid news 📈\n- Paramount Skydance plans to make a bid for all of Warner Bros. Discovery 🎯\n- Wall Street Journal breaks news on potential takeover 📰\n- Merger of Paramount Skydance fueling market excitement 🚀\n- Investors react positively to the takeover speculation 📈\n- Warner Bros. Discovery's stock price surges on the report 📈\n\nTAKEAWAY: Warner Bros. Discovery experiences a significant 25% surge in stock price after reports of a potential takeover bid by Paramount Skydance, creating excitement among investors.",
+      "exported_at": "2025-09-11T13:57:29.877482",
       "continuous_session": true
     }
   ]
