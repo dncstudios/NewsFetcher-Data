@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T14:07:51.079318",
-    "total_articles": 805,
-    "new_articles_in_last_fetch": 805,
+    "created_at": "2025-09-11T14:13:04.927258",
+    "total_articles": 806,
+    "new_articles_in_last_fetch": 806,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -10465,6 +10465,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ELON MUSK'S FORTUNE SOARS WITH PRIVATE COMPANIES 🚀\n\n- Musk's wealth driven by xAI and SpaceX stakes 🛰️\n- Private companies value almost double his Tesla shares 💰\n- Diversification in private ventures boosts Musk's fortune 📈\n\nTAKEAWAY: Elon Musk's wealth surges as his stakes in private companies like xAI and SpaceX outperform his Tesla shares, showcasing the power of diversification in his portfolio.",
       "exported_at": "2025-09-11T14:07:51.069690",
+      "continuous_session": true
+    },
+    {
+      "title": "Former Sen. Bob Menendez&apos;s wife gets 4.5 years in prison for bribery",
+      "link": "https://www.cnbc.com/2025/09/11/former-sen-bob-menendezs-wife-gets-4point5-years-in-prison-for-bribery.html",
+      "summary": "Former U.S. Sen. Bob Menendez's sobbing wife told a judge that her husband was \"not the man I thought he was\" before she was sentenced to 4.5 years in prison.",
+      "published": "Thu, 11 Sep 2025 17:57:50 GMT",
+      "content": "Former U.S. Sen. Bob Menendez's sobbing wife told a judge that her husband was \"not the man I thought he was\" before she was sentenced to 4.5 years in prison.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "51f54a206779d77333286c6e3eb705ee",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FORMER SENATOR'S WIFE SENTENCED TO 4.5 YEARS IN PRISON 🚨\n\n- Bob Menendez's wife receives 4.5-year prison term for bribery 💼\n- Emotional courtroom scene as wife expresses disappointment in husband 💔\n- Judge hands down sentence following bribery scandal 🏛️\n\nTAKEAWAY: Former Senator Bob Menendez's wife receives a 4.5-year prison sentence for bribery, highlighting the consequences of unethical behavior.",
+      "exported_at": "2025-09-11T14:13:04.916627",
       "continuous_session": true
     }
   ]
