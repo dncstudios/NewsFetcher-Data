@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T17:24:09.721568",
-    "total_articles": 835,
-    "new_articles_in_last_fetch": 835,
+    "created_at": "2025-09-11T17:34:23.568474",
+    "total_articles": 836,
+    "new_articles_in_last_fetch": 836,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -10855,6 +10855,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: MICROSOFT CEO NADELLA VOWS TO REBUILD EMPLOYEE TRUST 🚀\n\n- Nadella acknowledges need to improve relations post-layoffs 💬\n- Emphasizes commitment to regaining employees' trust ✅\n- Microsoft CEO aims to address concerns and rebuild morale 💪\n- Nadella's focus on employee trust and engagement highlighted 🎯\n\nTAKEAWAY: Microsoft's CEO Nadella's pledge to rebuild trust with employees post-layoffs signals a strong commitment to improving morale and relationships within the company.",
       "exported_at": "2025-09-11T17:24:09.652006",
+      "continuous_session": true
+    },
+    {
+      "title": "OpenAI says nonprofit parent will own equity stake in company of over $100 billion",
+      "link": "https://www.cnbc.com/2025/09/11/openai-says-nonprofit-parent-to-own-stake-in-company-over-100-billion.html",
+      "summary": "OpenAI said that its nonprofit parent will continue to oversee the company and have a very large stake in its future.",
+      "published": "Thu, 11 Sep 2025 21:30:31 GMT",
+      "content": "OpenAI said that its nonprofit parent will continue to oversee the company and have a very large stake in its future.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ba001a776e09adaf8e96e3f18722e432",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: OPENAI'S NONPROFIT PARENT TO HOLD $100B+ EQUITY STAKE 🚀\n\n- Nonprofit parent retains oversight with significant equity stake 💪\n- Future value of the company expected to exceed $100 billion 💰\n- OpenAI's unique structure promises long-term sustainability ✅\n\nTAKEAWAY: OpenAI's nonprofit parent's substantial equity stake in the company, projected to exceed $100 billion, ensures long-term sustainability and oversight.",
+      "exported_at": "2025-09-11T17:34:23.499452",
       "continuous_session": true
     }
   ]
