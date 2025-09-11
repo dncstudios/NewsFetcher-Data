@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T00:45:45.233313",
-    "total_articles": 732,
-    "new_articles_in_last_fetch": 732,
+    "created_at": "2025-09-11T01:11:08.969607",
+    "total_articles": 733,
+    "new_articles_in_last_fetch": 733,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -9516,6 +9516,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ASIA MARKETS AWAIT INFLATION DATA AFTER WALL STREET GAINS 🚀\n\n- U.S. equity futures stable, eyes on key inflation data 📈\n- Wall Street anticipates August consumer inflation report 📅\n- Asia markets set for mixed opening after positive Wall Street session 🌏\n\nTAKEAWAY: Asia markets poised for a mixed open following Wall Street gains, with focus on upcoming U.S. inflation data.",
       "exported_at": "2025-09-11T00:45:45.179016",
+      "continuous_session": true
+    },
+    {
+      "title": "France’s economy faces a key risk beyond its political turmoil",
+      "link": "https://www.cnbc.com/2025/09/11/frances-economy-faces-a-key-risk-beyond-its-political-turmoil.html",
+      "summary": "The \"Big Three\" ratings agencies will update their verdicts on the country's creditworthiness starting Friday, amid huge political and economic uncertainty.",
+      "published": "Thu, 11 Sep 2025 05:05:49 GMT",
+      "content": "The \"Big Three\" ratings agencies will update their verdicts on the country's creditworthiness starting Friday, amid huge political and economic uncertainty.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2852fd65992bf63b9fadef7df35e0258",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FRANCE'S ECONOMY FACES CREDIT RATING UNCERTAINTY 🚨\n\n- \"Big Three\" ratings agencies to update creditworthiness verdicts 📈\n- Updates coincide with intense political and economic uncertainty 🌍\n- France's economy at risk due to external creditworthiness assessment 📉\n\nTAKEAWAY: France's economy faces heightened risk as \"Big Three\" ratings agencies evaluate its creditworthiness amidst significant political and economic uncertainty.",
+      "exported_at": "2025-09-11T01:11:08.916984",
       "continuous_session": true
     }
   ]
