@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T09:16:26.126126",
-    "total_articles": 763,
-    "new_articles_in_last_fetch": 763,
+    "created_at": "2025-09-11T09:21:31.648093",
+    "total_articles": 764,
+    "new_articles_in_last_fetch": 764,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -9919,6 +9919,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JIM CRAMER'S TOP 10 STOCK MARKET WATCHLIST FOR THURSDAY 🚀\n\n- Weekly jobless claims surge, impacting market sentiment 📈\n- Core consumer inflation rate meets expectations ✅\n- Investors focus on job market and inflation trends 🎯\n\nTAKEAWAY: Keep a close eye on the market as weekly jobless claims rise and core consumer inflation remains steady, shaping investor decisions.",
       "exported_at": "2025-09-11T09:16:26.116427",
+      "continuous_session": true
+    },
+    {
+      "title": "Inside Wealth: Family offices double down on stocks and dial back on private equity",
+      "link": "https://www.cnbc.com/2025/09/11/family-office-investing-portfolio-allocation-goldman-sachs-survey.html",
+      "summary": "A new Goldman Sachs survey found that investment firms of the uber-rich are making opportunistic bets.",
+      "published": "Thu, 11 Sep 2025 13:20:06 GMT",
+      "content": "A new Goldman Sachs survey found that investment firms of the uber-rich are making opportunistic bets.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8667540b539eab0dff51b5077edd7c7d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FAMILY OFFICES OPTIMISTIC ON STOCKS, CAUTIOUS ON PRIVATE EQUITY 📈\n\n- Wealthy family offices increase stock investments 📈\n- Private equity exposure reduced as per Goldman Sachs survey ✂️\n- Trend towards opportunistic bets in the investment landscape 💼\n\nTAKEAWAY: Family offices are shifting towards stocks and reducing private equity exposure, showing confidence in opportunistic investments.",
+      "exported_at": "2025-09-11T09:21:31.638289",
       "continuous_session": true
     }
   ]
