@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T06:23:08.038713",
-    "total_articles": 744,
-    "new_articles_in_last_fetch": 744,
+    "created_at": "2025-09-11T06:28:13.691157",
+    "total_articles": 745,
+    "new_articles_in_last_fetch": 745,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -9672,6 +9672,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: UK SACKS MANDELSON AS U.S. AMBASSADOR OVER EPSTEIN LINKS 🚨\n\n- UK Prime Minister requests Mandelson's withdrawal as U.S. ambassador\n- \"Additional information\" in emails to Epstein prompts decision\n- Epstein links force UK to take action against Mandelson\n\nTAKEAWAY: UK Prime Minister's decision to sack Mandelson as U.S. ambassador due to Epstein links showcases zero tolerance for inappropriate associations.",
       "exported_at": "2025-09-11T06:23:08.028323",
+      "continuous_session": true
+    },
+    {
+      "title": "UK sacks U.S. Ambassador Peter Mandelson over Epstein links",
+      "link": "https://www.cnbc.com/2025/09/11/uk-sacks-mandelson-as-us-ambassador-over-epstein-links.html",
+      "summary": "\"Additional information\" in emails written by Peter Mandelson to Jeffrey Epstein led the U.K. prime minister to request his withdrawal as ambassador to the U.S.",
+      "published": "Thu, 11 Sep 2025 10:26:37 GMT",
+      "content": "\"Additional information\" in emails written by Peter Mandelson to Jeffrey Epstein led the U.K. prime minister to request his withdrawal as ambassador to the U.S.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "00fceca1ccaafc46a50eb05c2c0f38cc",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: UK SACKS MANDELSON AS U.S. AMBASSADOR OVER EPSTEIN LINKS 🚨\n\n- UK Prime Minister requests Mandelson's withdrawal as U.S. ambassador\n- \"Additional information\" in emails to Epstein prompts decision\n- Epstein links force UK to take action against Mandelson\n\nTAKEAWAY: UK Prime Minister's decision to sack Mandelson as U.S. ambassador due to Epstein links showcases zero tolerance for inappropriate associations.",
+      "exported_at": "2025-09-11T06:28:13.680813",
       "continuous_session": true
     }
   ]
