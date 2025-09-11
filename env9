@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T08:10:00.313531",
-    "total_articles": 754,
-    "new_articles_in_last_fetch": 754,
+    "created_at": "2025-09-11T08:20:15.031081",
+    "total_articles": 756,
+    "new_articles_in_last_fetch": 756,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -9802,6 +9802,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FAMILY OFFICES OPTIMISTIC ON STOCKS, CAUTIOUS ON PRIVATE EQUITY 📈\n\n- Wealthy family offices increase stock investments 📈\n- Private equity exposure reduced as per Goldman Sachs survey ✂️\n- Trend towards opportunistic bets in the investment landscape 💼\n\nTAKEAWAY: Family offices are shifting towards stocks and reducing private equity exposure, showing confidence in opportunistic investments.",
       "exported_at": "2025-09-11T08:10:00.304313",
+      "continuous_session": true
+    },
+    {
+      "title": "European Central Bank leaves rates unchanged as tariff fallout lingers",
+      "link": "https://www.cnbc.com/2025/09/11/european-central-bank-interest-rate-decision-september-2025.html",
+      "summary": "The ECB was widely expected to hold its key deposit facility rate steady.",
+      "published": "Thu, 11 Sep 2025 12:16:25 GMT",
+      "content": "The ECB was widely expected to hold its key deposit facility rate steady.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "879b6e84defc18c1300524e97276024e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: EUROPEAN CENTRAL BANK MAINTAINS RATES AMID TARIFF IMPACT 🚀\n\n- ECB keeps key deposit facility rate unchanged as predicted ✅\n- Decision made amidst lingering tariff repercussions ⚠️\n- Market stability maintained with steady rates 📊\n\nTAKEAWAY: The European Central Bank's decision to keep rates unchanged aligns with expectations, ensuring stability in the face of lingering tariff effects.",
+      "exported_at": "2025-09-11T08:20:15.021551",
+      "continuous_session": true
+    },
+    {
+      "title": "‘Here we go’: Trump responds to Russia’s drone incursion on a NATO ally. But what comes next?",
+      "link": "https://www.cnbc.com/2025/09/11/nato-what-comes-next-as-trump-responds-to-russias-drone-incursion.html",
+      "summary": "Western officials have called for tougher sanctions against Moscow in response to Russia's drone incursion into Poland.",
+      "published": "Thu, 11 Sep 2025 12:12:38 GMT",
+      "content": "Western officials have called for tougher sanctions against Moscow in response to Russia's drone incursion into Poland.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "71f756edbdd64bc42690e834b9fbebb6",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP RESPONDS TO RUSSIA'S DRONE INCURSION ON NATO ALLY 🚨\n\n- Western officials demand stricter sanctions on Moscow 💥\n- Russia's drone breach in Poland sparks global concern 🌍\n- Calls for decisive action against Russia intensify 📢\n\nTAKEAWAY: Global pressure mounts as Western officials urge for stronger sanctions following Russia's drone incursion in Poland, sparking heightened tensions.",
+      "exported_at": "2025-09-11T08:20:15.021569",
       "continuous_session": true
     }
   ]
