@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T08:20:15.031081",
-    "total_articles": 756,
-    "new_articles_in_last_fetch": 756,
+    "created_at": "2025-09-11T08:35:31.907413",
+    "total_articles": 758,
+    "new_articles_in_last_fetch": 758,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -9828,6 +9828,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP RESPONDS TO RUSSIA'S DRONE INCURSION ON NATO ALLY 🚨\n\n- Western officials demand stricter sanctions on Moscow 💥\n- Russia's drone breach in Poland sparks global concern 🌍\n- Calls for decisive action against Russia intensify 📢\n\nTAKEAWAY: Global pressure mounts as Western officials urge for stronger sanctions following Russia's drone incursion in Poland, sparking heightened tensions.",
       "exported_at": "2025-09-11T08:20:15.021569",
+      "continuous_session": true
+    },
+    {
+      "title": "Consumer prices rose at annual rate of 2.9% in August, as weekly jobless claims jump",
+      "link": "https://www.cnbc.com/2025/09/11/consumer-prices-rose-at-annual-rate-of-2point9percent-in-august-as-weekly-jobless-claims-jump.html",
+      "summary": "The consumer price index was expected to increase 0.3% in August, according to the Dow Jones consensus estimate.",
+      "published": "Thu, 11 Sep 2025 12:33:28 GMT",
+      "content": "The consumer price index was expected to increase 0.3% in August, according to the Dow Jones consensus estimate.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9c05ee12275ee79d5ce0e041e0e4d401",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CONSUMER PRICES UP 2.9% ANNUALLY, JOBLESS CLAIMS SPIKE ⚡️\n\n- Consumer prices surge 2.9% annually in August 📈\n- Weekly jobless claims see a significant increase 📈\n- Consumer price index surpasses expectations 🎯\n- Dow Jones consensus estimate missed with a 0.3% increase 📊\n\nTAKEAWAY: Consumer prices skyrocket by 2.9% annually in August, exceeding expectations, while weekly jobless claims spike, indicating potential economic challenges ahead.",
+      "exported_at": "2025-09-11T08:35:31.898229",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest premarket moves: Klarna, Oracle, Opendoor, Oxford and more",
+      "link": "https://www.cnbc.com/2025/09/11/stocks-making-the-biggest-premarket-moves-.html",
+      "summary": "These are the stocks posting the largest moves in the premarket.",
+      "published": "Thu, 11 Sep 2025 12:23:41 GMT",
+      "content": "These are the stocks posting the largest moves in the premarket.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6563a2e61cb3438f7db9a5f2be714596",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS SURGE IN PREMARKET: KLARNA, ORACLE, OPENDOOR 🚀\n\n- Klarna, Oracle, Opendoor soar in premarket trading 📈\n- Investors eyeing Oxford Industries among top movers ⚡️\n- Market anticipates significant shifts in stock prices 📊\n\nTAKEAWAY: Klarna, Oracle, Opendoor, and Oxford Industries lead premarket surges, signaling potential market shifts and investor interest.",
+      "exported_at": "2025-09-11T08:35:31.898245",
       "continuous_session": true
     }
   ]
