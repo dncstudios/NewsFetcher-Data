@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T07:49:31.405614",
-    "total_articles": 751,
-    "new_articles_in_last_fetch": 751,
+    "created_at": "2025-09-11T07:54:39.536793",
+    "total_articles": 752,
+    "new_articles_in_last_fetch": 752,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -9763,6 +9763,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NVIDIA UPGRADED BY D.A. DAVIDSON AS HEART OF AI TRADE 🚀\n\n- D.A. Davidson predicts 18% upside for Nvidia 📈\n- Chipmaker termed as the core of AI trade by Davidson 💻\n- Positive outlook on Nvidia's future growth potential 🌱\n\nTAKEAWAY: D.A. Davidson's upgrade positions Nvidia as a key player in the AI trade with a promising 18% upside potential, highlighting its role as a growth driver in the industry.",
       "exported_at": "2025-09-11T07:49:31.395156",
+      "continuous_session": true
+    },
+    {
+      "title": "Bank of America downgrades UPS and FedEx on Trump ending de minimis shipping exemption",
+      "link": "https://www.cnbc.com/2025/09/11/bank-of-america-downgrades-ups-and-fedex-on-trump-ending-de-minimis-shipping-exemption.html",
+      "summary": "Trump's removal of the de minimis exemption, which allowed low-value packages to arrive to the U.S. without trade duties, went into effect on Friday.",
+      "published": "Thu, 11 Sep 2025 11:50:16 GMT",
+      "content": "Trump's removal of the de minimis exemption, which allowed low-value packages to arrive to the U.S. without trade duties, went into effect on Friday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "091912b8296097ce991405ccfa5ce9b7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BANK OF AMERICA DOWNGRADES UPS AND FEDEX AFTER TRUMP'S TRADE MOVE ⚠️\n\n- Bank of America lowers UPS and FedEx ratings 📉\n- Trump's removal of de minimis exemption affects low-value packages 📦\n- Change took effect on Friday 🗓️\n\nTAKEAWAY: Bank of America's downgrade on UPS and FedEx follows Trump's removal of the de minimis exemption, impacting low-value packages and trade duties.",
+      "exported_at": "2025-09-11T07:54:39.525944",
       "continuous_session": true
     }
   ]
