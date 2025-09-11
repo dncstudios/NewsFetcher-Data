@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T13:01:15.882822",
-    "total_articles": 797,
-    "new_articles_in_last_fetch": 797,
+    "created_at": "2025-09-11T13:16:34.897624",
+    "total_articles": 798,
+    "new_articles_in_last_fetch": 798,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -10361,6 +10361,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: HYUNDAI BATTERY PLANT DELAYED 2-3 MONTHS AFTER IMMIGRATION RAID ⚠️\n\n- Co-owned Hyundai battery plant faces 2-3 month delay ⏳\n- Immigration raid causes setback in plant operations 🛑\n- CEO Jose Munoz confirms minimum delay due to the raid ✅\n\nTAKEAWAY: Hyundai's battery plant hit with a 2-3 month delay post-immigration raid, impacting operations and timelines significantly.",
       "exported_at": "2025-09-11T13:01:15.819761",
+      "continuous_session": true
+    },
+    {
+      "title": "Look for unloved stocks in areas like healthcare and banking before Fed cuts rates",
+      "link": "https://www.cnbc.com/2025/09/11/look-for-unloved-stocks-in-areas-like-healthcare-and-banking-before-fed-cuts-rates.html",
+      "summary": "Tim Seymour chief investment officer of Seymour Asset Management and manager of the Amplify CWP International Enhanced Dividend Income ETF.",
+      "published": "Thu, 11 Sep 2025 17:10:10 GMT",
+      "content": "Tim Seymour chief investment officer of Seymour Asset Management and manager of the Amplify CWP International Enhanced Dividend Income ETF.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3fefdb62f2188103a8e9831cac73125e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: LOOK FOR HIDDEN GEMS IN HEALTHCARE & BANKING AS FED CONSIDERS RATE CUTS 🚀\n\n- Tim Seymour advises seeking undervalued stocks in healthcare & banking sectors 💎\n- Focus on areas poised to benefit from potential Federal Reserve rate cuts 📈\n- Consider Amplify CWP International Enhanced Dividend Income ETF for diversified exposure ✅\n\nTAKEAWAY: With the potential for Fed rate cuts, exploring overlooked opportunities in healthcare and banking, guided by experts like Tim Seymour, could lead to profitable investments.",
+      "exported_at": "2025-09-11T13:16:34.888348",
       "continuous_session": true
     }
   ]
