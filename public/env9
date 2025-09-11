@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T09:52:11.910103",
-    "total_articles": 769,
-    "new_articles_in_last_fetch": 769,
+    "created_at": "2025-09-11T09:57:21.155238",
+    "total_articles": 770,
+    "new_articles_in_last_fetch": 770,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -9997,6 +9997,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: OFFSHORE WIND INDUSTRY FACES UNCERTAINTY UNDER TRUMP ADMINISTRATION ⚠️\n\n- Interior Secretary asserts no future for offshore wind under Trump 🌬️\n- Clear stance signals potential shutdown of industry 🚫\n- Uncertainty looms over offshore wind's prospects in the U.S. 🤔\n\nTAKEAWAY: The offshore wind industry in the U.S. faces uncertainty with the Trump administration's stance, potentially signaling a shutdown and impacting future prospects.",
       "exported_at": "2025-09-11T09:52:11.868680",
+      "continuous_session": true
+    },
+    {
+      "title": "‘The country will heal’ after Charlie Kirk’s assassination, Trump tells CNBC",
+      "link": "https://www.cnbc.com/2025/09/11/trump-charlie-kirk-shooting.html",
+      "summary": "President Donald Trump told CNBC's Joe Kernen that he believes \"the country will heal\" in the wake of conservative activist Charlie Kirk's assassination.",
+      "published": "Thu, 11 Sep 2025 13:49:51 GMT",
+      "content": "President Donald Trump told CNBC's Joe Kernen that he believes \"the country will heal\" in the wake of conservative activist Charlie Kirk's assassination.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3a48990529493621a1b850a5e9840332",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP PREDICTS HEALING AFTER CHARLIE KIRK'S ASSASSINATION 🚀\n\n- Trump remains optimistic about country's recovery post Kirk's death 💪\n- Encourages unity and healing in the face of tragedy 🤝\n- Kirk's assassination sparks conversations on political tensions ⚠️\n- Trump's message aims to calm and reassure the nation 🌟\n\nTAKEAWAY: Trump's message of hope and healing post-Charlie Kirk's assassination seeks to unite a nation grappling with political tensions.",
+      "exported_at": "2025-09-11T09:57:21.091922",
       "continuous_session": true
     }
   ]
