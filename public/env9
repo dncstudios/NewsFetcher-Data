@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T19:30:27.463641",
-    "total_articles": 719,
-    "new_articles_in_last_fetch": 719,
+    "created_at": "2025-09-10T20:00:56.390517",
+    "total_articles": 720,
+    "new_articles_in_last_fetch": 720,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -9347,6 +9347,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JIM CRAMER BULLISH ON KLARNA IPO DESPITE RED-HOT DEBUT 🔥\n\n- Cramer recommends buying Klarna post-IPO surge 🚀\n- Klarna's strong debut doesn't deter Cramer's bullish stance ✅\n- CNBC's Cramer sees potential for further growth ⚡️\n- Klarna's IPO performance doesn't dampen Cramer's enthusiasm 🎯\n- Cramer remains positive on Klarna's long-term prospects 📈\n\nTAKEAWAY: Jim Cramer maintains a bullish outlook on Klarna, viewing its recent IPO surge as a sign of further growth potential.",
       "exported_at": "2025-09-10T19:30:27.412482",
+      "continuous_session": true
+    },
+    {
+      "title": "Asia markets set to open mixed after Wall Street gains on positive inflation data",
+      "link": "https://www.cnbc.com/2025/09/11/asia-markets-today-updates-nikkei-225-hang-seng-asx-csi-300-nifty-50.html",
+      "summary": "U.S. equity futures were little changed in early Asian hours, as Wall Street awaited a key consumer inflation gauge for August due out Thursday stateside.",
+      "published": "Wed, 10 Sep 2025 23:57:21 GMT",
+      "content": "U.S. equity futures were little changed in early Asian hours, as Wall Street awaited a key consumer inflation gauge for August due out Thursday stateside.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4f29534f6c736fe1b272d34b347efccd",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASIA MARKETS AWAIT INFLATION DATA AFTER WALL STREET GAINS 🚀\n\n- U.S. equity futures stable, eyes on key inflation data 📈\n- Wall Street anticipates August consumer inflation report 📅\n- Asia markets set for mixed opening after positive Wall Street session 🌏\n\nTAKEAWAY: Asia markets poised for a mixed open following Wall Street gains, with focus on upcoming U.S. inflation data.",
+      "exported_at": "2025-09-10T20:00:56.336004",
       "continuous_session": true
     }
   ]
