@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T16:01:49.778900",
-    "total_articles": 825,
-    "new_articles_in_last_fetch": 825,
+    "created_at": "2025-09-11T16:07:00.642755",
+    "total_articles": 827,
+    "new_articles_in_last_fetch": 827,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -10725,6 +10725,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ORACLE SHARES DIP 7% AFTER RECORD RALLY 📉\n\n- Oracle stock falls 7% after biggest surge in 30+ years 📉\n- Concerns rise over heavy reliance on OpenAI for expansion 🤔\n- Analyst worried about Oracle's singular client impacting growth 💼\n- Market reacts to Oracle's sharp decline post-rally 📉\n- OpenAI's influence on Oracle's business expansion raises alarms ⚠️\n\nTAKEAWAY: Oracle's stock takes a hit with a 7% dip following its historic surge, fueled by concerns over over-reliance on OpenAI for growth.",
       "exported_at": "2025-09-11T16:01:49.768306",
+      "continuous_session": true
+    },
+    {
+      "title": "Dow closes up 600 points, setting record, as August inflation increase likely won&apos;t derail Fed rate cut: Live updates",
+      "link": "https://www.cnbc.com/2025/09/10/stock-market-today-live-updates.html",
+      "summary": "Stocks rose on Thursday as traders anticipated that the Federal Reserve will still lower its benchmark interest rate next week.",
+      "published": "Thu, 11 Sep 2025 20:05:59 GMT",
+      "content": "Stocks rose on Thursday as traders anticipated that the Federal Reserve will still lower its benchmark interest rate next week.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e41116fccfe27e05996a8d45e9848198",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DOW SURGES 400 POINTS TO RECORD HIGH AMID FED RATE CUT EXPECTATIONS 🚀\n\n- Stock market soars with Dow up 400 points 📈\n- Traders expect Fed to cut interest rate despite August inflation rise ⚖️\n- Market anticipates Fed's move to boost economy 📈\n- Record high reached amidst optimism 🌟\n- Investors bullish on potential rate cut 🐃\n- Market confidence reflected in stock rally 📊\n\nTAKEAWAY: The Dow's remarkable surge to a record high signals investor optimism as they anticipate the Federal Reserve's decision to cut interest rates despite a rise in August inflation.",
+      "exported_at": "2025-09-11T16:07:00.576632",
+      "continuous_session": true
+    },
+    {
+      "title": "Opendoor stock closes 78% higher after company names new CEO",
+      "link": "https://www.cnbc.com/2025/09/11/opendoor-stock-ceo-nejatian-keith-rabois.html",
+      "summary": "Former CEO Carrie Wheeler resigned last month following a pressure campaign from investors.",
+      "published": "Thu, 11 Sep 2025 20:04:04 GMT",
+      "content": "Former CEO Carrie Wheeler resigned last month following a pressure campaign from investors.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7efb9e512ba1b9147365c6178be0034a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: OPENDOOR STOCK SOARS 60% AFTER NEW CEO APPOINTMENT 🚀\n\n- Opendoor's stock jumps by 60% post new CEO announcement\n- Former CEO Carrie Wheeler resigns amid investor pressure campaign\n- Investors react positively to the leadership change\n- Company aims for growth and stability under new leadership\n- Market confidence boosts Opendoor's stock performance\n- New CEO appointment signals a fresh start for the company\n\nTAKEAWAY: Opendoor's stock surges as investors show optimism with the new CEO appointment, signaling a positive outlook for the company's future.",
+      "exported_at": "2025-09-11T16:07:00.576663",
       "continuous_session": true
     }
   ]
