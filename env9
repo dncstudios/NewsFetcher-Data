@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T11:54:53.413078",
-    "total_articles": 787,
-    "new_articles_in_last_fetch": 787,
+    "created_at": "2025-09-11T12:05:07.691074",
+    "total_articles": 789,
+    "new_articles_in_last_fetch": 789,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -10231,6 +10231,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCKS WITH SIGNIFICANT MIDDAY MOVES 🚀\n\n- Delta Air Lines shows a 2% increase in stock value ✅\n- Revolution Medicines experiences a 5% surge ⚡️\n- Centene's stock rises by 3% 📈\n- Not disclosed.\n\nTAKEAWAY: Delta Air Lines, Revolution Medicines, and Centene exhibit notable midday stock movements, attracting investor attention and market activity.",
       "exported_at": "2025-09-11T11:54:53.346583",
+      "continuous_session": true
+    },
+    {
+      "title": "Two stocks forming bullish chart patterns are also set to get a boost from thawing housing market",
+      "link": "https://www.cnbc.com/2025/09/11/josh-brown-best-stocks-two-stocks-forming-bullish-chart-patterns-housing.html",
+      "summary": "Josh describes why a cup-and-handle chart pattern can be so powerful. He's seeing it form in this key housing name.",
+      "published": "Thu, 11 Sep 2025 15:49:51 GMT",
+      "content": "Josh describes why a cup-and-handle chart pattern can be so powerful. He's seeing it form in this key housing name.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "05b4d4c25c229005f58ff162da3bb4ae",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TWO STOCKS FORMING BULLISH CHART PATTERNS 🚀\n\n- Cup-and-handle pattern spotted in housing market 🏠\n- Josh predicts powerful growth in key housing stock 💹\n- Bullish signals point to potential stock boost 📈\n\nTAKEAWAY: Bullish chart patterns in two stocks hint at a potential boost from the recovering housing market, signaling growth opportunities for investors.",
+      "exported_at": "2025-09-11T12:05:07.634197",
+      "continuous_session": true
+    },
+    {
+      "title": "Why Cramer sees big upside for Home Depot and plenty of promise in Amazon",
+      "link": "https://www.cnbc.com/2025/09/11/why-cramer-sees-big-upside-for-home-depot-and-plenty-of-promise-in-amazon.html",
+      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "published": "Thu, 11 Sep 2025 16:04:01 GMT",
+      "content": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "12b700d1ff5d5574136887c484b4e34f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CRAMER'S BULLISH OUTLOOK ON HOME DEPOT AND AMAZON 🚀\n\n- Cramer predicts significant growth potential for Home Depot 📈\n- Amazon shines with promising opportunities according to Cramer ✨\n- Insight shared during the Investing Club's \"Morning Meeting\" ⏰\n\nTAKEAWAY: Cramer's positive outlook on Home Depot and Amazon highlights exciting growth prospects discussed at the Investing Club's \"Morning Meeting.\"",
+      "exported_at": "2025-09-11T12:05:07.634259",
       "continuous_session": true
     }
   ]
