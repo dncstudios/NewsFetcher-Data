@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T12:20:24.411393",
-    "total_articles": 791,
-    "new_articles_in_last_fetch": 791,
+    "created_at": "2025-09-11T12:35:43.316419",
+    "total_articles": 793,
+    "new_articles_in_last_fetch": 793,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -10283,6 +10283,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCKS WITH SIGNIFICANT MIDDAY MOVES 🚀\n\n- Delta Air Lines shows a 2% increase in stock value ✅\n- Revolution Medicines experiences a 5% surge ⚡️\n- Centene's stock rises by 3% 📈\n- Not disclosed.\n\nTAKEAWAY: Delta Air Lines, Revolution Medicines, and Centene exhibit notable midday stock movements, attracting investor attention and market activity.",
       "exported_at": "2025-09-11T12:20:24.347074",
+      "continuous_session": true
+    },
+    {
+      "title": "Plane carrying Hyundai, LG workers detained in immigration raid departs for South Korea: Yonhap",
+      "link": "https://www.cnbc.com/2025/09/11/trump-hyundai-lg-south-korea-workers.html",
+      "summary": "The plane carrying workers detained in an immigration raid of a Georgia Hyundai-LG plant last week left the United States, bound for South Korea.",
+      "published": "Thu, 11 Sep 2025 16:33:50 GMT",
+      "content": "The plane carrying workers detained in an immigration raid of a Georgia Hyundai-LG plant last week left the United States, bound for South Korea.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "63cea134bab84f8e7b3f6d79e5ada48e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: IMMIGRATION RAID DETAINED WORKERS BOARD PLANE TO SOUTH KOREA 🚀\n\n- Workers detained in Georgia Hyundai-LG plant raid depart US 🛫\n- Bound for South Korea after immigration-related ordeal ✈️\n- Immigration raid incident resolved with workers on flight 🌏\n\nTAKEAWAY: Workers detained in the immigration raid at the Hyundai-LG plant in Georgia have boarded a plane bound for South Korea, resolving the immigration-related ordeal.",
+      "exported_at": "2025-09-11T12:35:43.252156",
+      "continuous_session": true
+    },
+    {
+      "title": "We&apos;re buying this stock ahead of lower rates — and would trim a winning name",
+      "link": "https://www.cnbc.com/2025/09/11/were-buying-this-stock-ahead-of-lower-rates-and-would-trim-a-winning-name.html",
+      "summary": "We're adding shares of an industrial stock that will benefit if lower rates translate into a pickup in the economy.",
+      "published": "Thu, 11 Sep 2025 16:12:38 GMT",
+      "content": "We're adding shares of an industrial stock that will benefit if lower rates translate into a pickup in the economy.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "bf443a7e38cc16a86541c0f807ba51ff",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BUYING STOCK AHEAD OF LOWER RATES 🚀\n\n- Adding industrial stock poised to benefit from rate drop 📈\n- Anticipating economic boost from lower rates 📊\n- Strategy aims to capitalize on upcoming market shift 💰\n\nTAKEAWAY: Investing in an industrial stock ahead of lower rates can potentially yield gains as the economy picks up steam.",
+      "exported_at": "2025-09-11T12:35:43.252216",
       "continuous_session": true
     }
   ]
