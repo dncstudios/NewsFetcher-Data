@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T14:44:21.373395",
-    "total_articles": 813,
-    "new_articles_in_last_fetch": 813,
+    "created_at": "2025-09-11T14:49:38.723305",
+    "total_articles": 816,
+    "new_articles_in_last_fetch": 816,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -10569,6 +10569,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ELI LILLY LOSES $183.7 MILLION MEDICAID FRAUD APPEAL ⚠️\n\n- Federal appeals court rejects Eli Lilly's appeal\n- Lawyer accuses drugmaker of defrauding Medicaid\n- $183.7 million judgment upheld against Eli Lilly\n\nTAKEAWAY: Eli Lilly's failed appeal of the $183.7 million Medicaid fraud judgment emphasizes the consequences of unethical practices in the pharmaceutical industry.",
       "exported_at": "2025-09-11T14:44:21.314568",
+      "continuous_session": true
+    },
+    {
+      "title": "Treasury Secretary Bessent met this week with Warsh, Lindsey and Bullard as Fed chief search continues",
+      "link": "https://www.cnbc.com/2025/09/11/bessent-warsh-lindsey-bullard-fed-chief-search.html",
+      "summary": "The search for the next Federal Reserve chair is continuing, with Bessent taking point in meeting with several candidates.",
+      "published": "Thu, 11 Sep 2025 18:46:21 GMT",
+      "content": "The search for the next Federal Reserve chair is continuing, with Bessent taking point in meeting with several candidates.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "dc964ed07ae83ee1d7220a58e481382b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FED CHIEF SEARCH CONTINUES AS CANDIDATES MEET 🚀\n\n- Treasury Sec. Bessent leads meetings with Fed chair hopefuls\n- Warsh, Lindsey, and Bullard among candidates considered\n- Search for the next Fed chair gains momentum\n- Bessent at the forefront of discussions for Fed chief selection\n\nTAKEAWAY: The search for the next Federal Reserve chair intensifies as top candidates meet with Treasury Secretary Bessent, signaling progress in the decision-making process.",
+      "exported_at": "2025-09-11T14:49:38.657137",
+      "continuous_session": true
+    },
+    {
+      "title": "This private equity giant has formed a chart pattern that signals more gains ahead",
+      "link": "https://www.cnbc.com/2025/09/11/this-private-equity-giant-has-formed-a-chart-pattern-that-signals-more-gains-ahead.html",
+      "summary": "Chart analyst David Keller breaks down a bullish chart formation on this PE stock.",
+      "published": "Thu, 11 Sep 2025 18:45:01 GMT",
+      "content": "Chart analyst David Keller breaks down a bullish chart formation on this PE stock.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e5ac5d069223070250e28d1370268b38",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PRIVATE EQUITY GIANT SET FOR MORE GAINS AHEAD 📈\n\n- Chart analyst David Keller identifies bullish chart pattern 📈\n- Private equity giant shows potential for future growth 🚀\n- Positive signals point towards further gains ⚡️\n\nTAKEAWAY: Chart analysis by David Keller suggests a bright future with more gains ahead for this private equity giant.",
+      "exported_at": "2025-09-11T14:49:38.657190",
+      "continuous_session": true
+    },
+    {
+      "title": "Health care inflation rises as patients, employers brace for biggest jump in health spending in 15 years",
+      "link": "https://www.cnbc.com/2025/09/11/cpi-report-health-care-inflation-rises.html",
+      "summary": "Health care inflation is rising, helping to fuel what is expected to be the biggest rise in employer health spending in 15 years in 2026.",
+      "published": "Thu, 11 Sep 2025 18:40:44 GMT",
+      "content": "Health care inflation is rising, helping to fuel what is expected to be the biggest rise in employer health spending in 15 years in 2026.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b52e1aac5dbc251067f2b026468bbc88",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: HEALTH CARE INFLATION SOARS, EMPLOYERS FACE LARGEST HEALTH SPENDING HIKE IN 15 YEARS 🚀\n\n- Health care inflation surges, driving up costs ⚡️\n- Employers anticipate biggest health spending jump since 2006 💸\n- 2026 to witness significant rise in employer health expenditure 💼\n\nTAKEAWAY: Health care inflation spikes, leading to the largest increase in employer health spending in 15 years, impacting costs significantly.",
+      "exported_at": "2025-09-11T14:49:38.657230",
       "continuous_session": true
     }
   ]
