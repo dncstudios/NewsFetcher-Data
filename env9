@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T17:13:57.383751",
-    "total_articles": 834,
-    "new_articles_in_last_fetch": 834,
+    "created_at": "2025-09-11T17:24:09.721568",
+    "total_articles": 835,
+    "new_articles_in_last_fetch": 835,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -10842,6 +10842,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AMAZON SUSPENDS ENGINEER PROTESTING ISRAELI GOVERNMENT 🚨\n\n- Palestinian engineer Ahmed Shahrour suspended by Amazon 🛑\n- Suspension follows Shahrour's protest against Amazon's Israeli ties 🇮🇱\n- Whole Foods unit involved in investigating Shahrour's case 🔍\n- Amazon's move raises questions about freedom of expression 🤔\n\nTAKEAWAY: Amazon's suspension of Palestinian engineer Ahmed Shahrour for protesting the company's work with the Israeli government prompts concerns about freedom of expression.",
       "exported_at": "2025-09-11T17:13:57.372983",
+      "continuous_session": true
+    },
+    {
+      "title": "&apos;We will do better.&apos; Microsoft CEO Nadella admits company has to rebuild trust with employees",
+      "link": "https://www.cnbc.com/2025/09/11/microsoft-ceo-nadella-says-company-must-rebuild-trust-with-employees.html",
+      "summary": "Microsoft CEO Satya Nadella told employees on Thursday that the company has work to do to smooth relations with employees after layoffs.",
+      "published": "Thu, 11 Sep 2025 21:14:14 GMT",
+      "content": "Microsoft CEO Satya Nadella told employees on Thursday that the company has work to do to smooth relations with employees after layoffs.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "618984dbb352f14bd14f24258e056bd3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MICROSOFT CEO NADELLA VOWS TO REBUILD EMPLOYEE TRUST 🚀\n\n- Nadella acknowledges need to improve relations post-layoffs 💬\n- Emphasizes commitment to regaining employees' trust ✅\n- Microsoft CEO aims to address concerns and rebuild morale 💪\n- Nadella's focus on employee trust and engagement highlighted 🎯\n\nTAKEAWAY: Microsoft's CEO Nadella's pledge to rebuild trust with employees post-layoffs signals a strong commitment to improving morale and relationships within the company.",
+      "exported_at": "2025-09-11T17:24:09.652006",
       "continuous_session": true
     }
   ]
