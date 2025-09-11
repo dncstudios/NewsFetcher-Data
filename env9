@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T02:47:41.230170",
-    "total_articles": 737,
-    "new_articles_in_last_fetch": 737,
+    "created_at": "2025-09-11T03:33:21.614298",
+    "total_articles": 738,
+    "new_articles_in_last_fetch": 738,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -9581,6 +9581,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP'S 100% TARIFF REQUEST RAISES EUROPE'S EYEBROWS 🚨\n\n- White House wants Europe to impose 100% tariffs on India, China 🌍\n- Europe unlikely to comply with the request 🚫\n- Tensions rise as trade pressure mounts ⚠️\n\nTAKEAWAY: Europe's reluctance to follow White House's tariff request on India and China signals escalating trade tensions.",
       "exported_at": "2025-09-11T02:47:41.185392",
+      "continuous_session": true
+    },
+    {
+      "title": "European markets open higher; traders await ECB update",
+      "link": "https://www.cnbc.com/2025/09/11/european-markets-on-thurs-septpoint11-stoxx-600-ftse-dax-ecb-update.html",
+      "summary": "European stocks opened higher Thursday as investors await the latest rate decision and update from the European Central Bank.",
+      "published": "Thu, 11 Sep 2025 07:28:51 GMT",
+      "content": "European stocks opened higher Thursday as investors await the latest rate decision and update from the European Central Bank.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ef4381f910952aae69f9061ae7d28055",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: EUROPEAN MARKETS OPEN HIGHER, TRADERS AWAIT ECB UPDATE 🚀\n\n- European stocks start the day with a positive momentum 📈\n- Investors eagerly anticipate the European Central Bank's rate decision 🏦\n- Market players await the ECB's update for valuable insights 🧐\n\nTAKEAWAY: European markets kick off with optimism as traders eagerly await the European Central Bank's update, setting the tone for the day.",
+      "exported_at": "2025-09-11T03:33:21.571698",
       "continuous_session": true
     }
   ]
