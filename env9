@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T15:41:05.650009",
-    "total_articles": 822,
-    "new_articles_in_last_fetch": 822,
+    "created_at": "2025-09-11T15:46:18.261682",
+    "total_articles": 823,
+    "new_articles_in_last_fetch": 823,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -10686,6 +10686,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BRAZIL'S BOLSONARO CONVICTED OF COUP PLOT 🚨\n\n- Bolsonaro found guilty by Supreme Court majority ⚖️\n- Accused of plotting coup post-2022 election loss 🇧🇷\n- Landmark trial outcome shakes Brazilian politics 🌎\n\nTAKEAWAY: Bolsonaro's conviction for planning a coup post-2022 election loss by a Supreme Court majority sends shockwaves through Brazilian politics.",
       "exported_at": "2025-09-11T15:41:05.579337",
+      "continuous_session": true
+    },
+    {
+      "title": "Uber sued by DOJ for alleged discrimination against disabled riders",
+      "link": "https://www.cnbc.com/2025/09/11/uber-doj-lawsuit-disabilities-discrimination.html",
+      "summary": "The suit seeks a jury trial and injunctive relief, monetary damages and to charge Uber a civil fine for violations of the Americans with Disabilities Act.",
+      "published": "Thu, 11 Sep 2025 19:37:14 GMT",
+      "content": "The suit seeks a jury trial and injunctive relief, monetary damages and to charge Uber a civil fine for violations of the Americans with Disabilities Act.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "77c947440bc29649d464ab550e3165c8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: UBER SUED BY DOJ FOR DISCRIMINATION AGAINST DISABLED RIDERS ⚠️\n\n- DOJ files lawsuit against Uber for alleged ADA violations 🚨\n- Suit demands jury trial, injunctive relief, and monetary damages ⚖️\n- Civil fine sought for discrimination against disabled riders 💸\n\nTAKEAWAY: Uber faces legal action for discrimination against disabled riders as DOJ seeks trial, relief, damages, and fines.",
+      "exported_at": "2025-09-11T15:46:18.251215",
       "continuous_session": true
     }
   ]
