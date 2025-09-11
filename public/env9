@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-10T21:06:58.351335",
-    "total_articles": 725,
-    "new_articles_in_last_fetch": 725,
+    "created_at": "2025-09-10T21:17:11.139949",
+    "total_articles": 726,
+    "new_articles_in_last_fetch": 726,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -9425,6 +9425,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CONSERVATIVE ACTIVIST CHARLIE KIRK SHOT IN UTAH VALLEY UNIVERSITY 🚨\n\n- President Trump calls for prayers after Charlie Kirk's shooting 🙏\n- Incident occurs at Utah Valley University 🏫\n- Details of the shooting not disclosed yet 🕵️‍♂️\n\nTAKEAWAY: Conservative activist Charlie Kirk's shooting at Utah Valley University prompts prayers from President Trump, with details still undisclosed.",
       "exported_at": "2025-09-10T21:06:58.294551",
+      "continuous_session": true
+    },
+    {
+      "title": "Gunman in Charlie Kirk killing still at large after FBI says first suspect released from custody",
+      "link": "https://www.cnbc.com/2025/09/10/charlie-kirk-uvu-shooting-utah.html",
+      "summary": "Authorities are searching for the gunman who assassinated political activist Charlie Kirk at an event in Utah. Kirk was a close ally of President Donald Trump.",
+      "published": "Thu, 11 Sep 2025 01:15:09 GMT",
+      "content": "Authorities are searching for the gunman who assassinated political activist Charlie Kirk at an event in Utah. Kirk was a close ally of President Donald Trump.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "22662d1dc2ae06018704cb23c7bc4203",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GUNMAN AT LARGE AFTER CHARLIE KIRK ASSASSINATION IN UTAH 🚨\n\n- FBI confirms release of initial suspect, search intensifies 🔍\n- Political activist Charlie Kirk killed at Utah event 🌟\n- Kirk known as close ally of President Donald Trump 🤝\n\nTAKEAWAY: Authorities intensify search for gunman in Charlie Kirk's assassination as FBI confirms release of initial suspect, raising concerns and tensions.",
+      "exported_at": "2025-09-10T21:17:11.079459",
       "continuous_session": true
     }
   ]
