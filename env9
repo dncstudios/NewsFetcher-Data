@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T09:06:14.703780",
-    "total_articles": 762,
-    "new_articles_in_last_fetch": 762,
+    "created_at": "2025-09-11T09:16:26.126126",
+    "total_articles": 763,
+    "new_articles_in_last_fetch": 763,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -9906,6 +9906,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: MANHUNT CONTINUES FOR CHARLIE KIRK SHOOTER AS FBI AND UTAH POLICE PROVIDE UPDATE 🚨\n\n- Charlie Kirk, Trump ally, tragically killed by gunman at Utah event\n- FBI and Utah police intensify efforts in the manhunt\n- Public awaits crucial update on investigation\n\nTAKEAWAY: The search for the shooter who killed Charlie Kirk at a political event remains intense as FBI and Utah police provide updates to the public.",
       "exported_at": "2025-09-11T09:06:14.693434",
+      "continuous_session": true
+    },
+    {
+      "title": "Jim Cramer&apos;s top 10 things to watch in the stock market Thursday",
+      "link": "https://www.cnbc.com/2025/09/11/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday-.html",
+      "summary": "Weekly jobless claims spiked, while the core consumer inflation rate came in as expected.",
+      "published": "Thu, 11 Sep 2025 13:06:24 GMT",
+      "content": "Weekly jobless claims spiked, while the core consumer inflation rate came in as expected.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "45890d76c62b44b87b5aefcd89b1c979",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JIM CRAMER'S TOP 10 STOCK MARKET WATCHLIST FOR THURSDAY 🚀\n\n- Weekly jobless claims surge, impacting market sentiment 📈\n- Core consumer inflation rate meets expectations ✅\n- Investors focus on job market and inflation trends 🎯\n\nTAKEAWAY: Keep a close eye on the market as weekly jobless claims rise and core consumer inflation remains steady, shaping investor decisions.",
+      "exported_at": "2025-09-11T09:16:26.116427",
       "continuous_session": true
     }
   ]
