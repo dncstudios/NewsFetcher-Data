@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T07:29:13.142502",
-    "total_articles": 750,
-    "new_articles_in_last_fetch": 750,
+    "created_at": "2025-09-11T07:49:31.405614",
+    "total_articles": 751,
+    "new_articles_in_last_fetch": 751,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -9750,6 +9750,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: D.A. DAVIDSON DOWNGRADES APPLE AFTER UNVEILING 'UNINSPIRED' PRODUCTS ⚠️\n\n- D.A. Davidson downgrades Apple post 'uninspired' product reveal\n- Maintains $250 price target, suggesting 10% upside from close\n\nTAKEAWAY: D.A. Davidson's downgrade of Apple following lackluster product launch indicates caution, despite a potential 10% price growth.",
       "exported_at": "2025-09-11T07:29:13.132022",
+      "continuous_session": true
+    },
+    {
+      "title": "Nvidia gets an upgrade from D.A. Davidson, which calls chipmaker ‘the heart of the AI trade’",
+      "link": "https://www.cnbc.com/2025/09/11/nvidia-gets-an-upgrade-from-da-davidson-which-calls-chipmaker-the-heart-of-the-ai-trade.html",
+      "summary": "D.A. Davidson sees further upside of 18% ahead for AI trade poster child Nvidia.",
+      "published": "Thu, 11 Sep 2025 11:44:22 GMT",
+      "content": "D.A. Davidson sees further upside of 18% ahead for AI trade poster child Nvidia.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "694075504d0d69692e3051bc742f3cd6",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NVIDIA UPGRADED BY D.A. DAVIDSON AS HEART OF AI TRADE 🚀\n\n- D.A. Davidson predicts 18% upside for Nvidia 📈\n- Chipmaker termed as the core of AI trade by Davidson 💻\n- Positive outlook on Nvidia's future growth potential 🌱\n\nTAKEAWAY: D.A. Davidson's upgrade positions Nvidia as a key player in the AI trade with a promising 18% upside potential, highlighting its role as a growth driver in the industry.",
+      "exported_at": "2025-09-11T07:49:31.395156",
       "continuous_session": true
     }
   ]
