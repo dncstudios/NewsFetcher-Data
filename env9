@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T10:12:45.982992",
-    "total_articles": 773,
-    "new_articles_in_last_fetch": 773,
+    "created_at": "2025-09-11T10:22:58.527543",
+    "total_articles": 774,
+    "new_articles_in_last_fetch": 774,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -10049,6 +10049,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: OPENDOOR STOCK SOARS 50% AFTER NEW CEO APPOINTMENT 🚀\n\n- Opendoor appoints new CEO, stock jumps 50% 📈\n- Former CEO resigned due to investor pressure campaign ⚠️\n- Market reacts positively to leadership change 🔥\n\nTAKEAWAY: Opendoor's stock surges 50% after announcing a new CEO, indicating investor confidence in the leadership transition.",
       "exported_at": "2025-09-11T10:12:45.914727",
+      "continuous_session": true
+    },
+    {
+      "title": "Here&apos;s the inflation breakdown for August 2025 — in one chart",
+      "link": "https://www.cnbc.com/2025/09/11/inflation-breakdown-for-august-2025.html",
+      "summary": "The consumer price index for August 2025 rose 2.9% on an annual basis. Tariffs seem to be pushing prices for goods like clothing higher, economists said.",
+      "published": "Thu, 11 Sep 2025 14:15:29 GMT",
+      "content": "The consumer price index for August 2025 rose 2.9% on an annual basis. Tariffs seem to be pushing prices for goods like clothing higher, economists said.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "721e546634db75e272b8a6065f8b76bc",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AUGUST 2025 INFLATION BREAKDOWN: ANALYSIS IN ONE CHART 📊\n\n- Consumer Price Index spikes by 2.9% annually 💥\n- Tariffs driving up prices for clothing 📈\n- Economists identify tariffs as key factor impacting inflation\n\nTAKEAWAY: In August 2025, the Consumer Price Index surged by 2.9% annually, attributed to rising prices in clothing due to tariffs, as economists analyze the inflation breakdown.",
+      "exported_at": "2025-09-11T10:22:58.447519",
       "continuous_session": true
     }
   ]
