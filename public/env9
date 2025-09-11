@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T15:46:18.261682",
-    "total_articles": 823,
-    "new_articles_in_last_fetch": 823,
+    "created_at": "2025-09-11T15:56:39.232213",
+    "total_articles": 824,
+    "new_articles_in_last_fetch": 824,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -10699,6 +10699,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: UBER SUED BY DOJ FOR DISCRIMINATION AGAINST DISABLED RIDERS ⚠️\n\n- DOJ files lawsuit against Uber for alleged ADA violations 🚨\n- Suit demands jury trial, injunctive relief, and monetary damages ⚖️\n- Civil fine sought for discrimination against disabled riders 💸\n\nTAKEAWAY: Uber faces legal action for discrimination against disabled riders as DOJ seeks trial, relief, damages, and fines.",
       "exported_at": "2025-09-11T15:46:18.251215",
+      "continuous_session": true
+    },
+    {
+      "title": "Blockchain lender Figure pops in public debut as crypto IPO momentum continues: CNBC Crypto World",
+      "link": "https://www.cnbc.com/video/2025/09/11/blockchain-lender-figure-pops-public-debut-as-crypto-ipo-momentum-continues-cnbc-crypto-world.html",
+      "summary": "On today's episode of CNBC Crypto World, major cryptocurrencies traded higher as investors anticipated that the latest reading of a key consumer inflation gauge won’t interfere with the Federal Reserve lowering rates next week. Plus, blockchain lending firm Figure debuts on the Nasdaq. And, Kyle Samani of Multicoin Capital discusses the firm's more than $1.5 billion deal to create a Solana treasury company.",
+      "published": "Thu, 11 Sep 2025 19:14:35 GMT",
+      "content": "On today's episode of CNBC Crypto World, major cryptocurrencies traded higher as investors anticipated that the latest reading of a key consumer inflation gauge won’t interfere with the Federal Reserve lowering rates next week. Plus, blockchain lending firm Figure debuts on the Nasdaq. And, Kyle Samani of Multicoin Capital discusses the firm's more than $1.5 billion deal to create a Solana treasury company.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "05d276e22ee1d3c6dcdec211b3234bfe",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BLOCKCHAIN LENDER FIGURE MAKES A SPLASH ON NASDAQ 🚀\n\n- Major cryptocurrencies surge amid expectations of Fed rate cut 🔥\n- Investors optimistic about inflation gauge not affecting rates ✅\n- Figure, a blockchain lending firm, debuts on the Nasdaq 🚀\n- Kyle Samani reveals $1.5 billion deal for Solana treasury company 💰\n- Crypto IPO momentum continues to drive market excitement 🌟\n\nTAKEAWAY: The public debut of blockchain lender Figure on the Nasdaq, alongside the surge in major cryptocurrencies, signals a bullish trend in the crypto market with growing investor optimism and excitement.",
+      "exported_at": "2025-09-11T15:56:39.164994",
       "continuous_session": true
     }
   ]
