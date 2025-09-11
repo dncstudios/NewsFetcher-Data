@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T12:10:14.406755",
-    "total_articles": 790,
-    "new_articles_in_last_fetch": 790,
+    "created_at": "2025-09-11T12:20:24.411393",
+    "total_articles": 791,
+    "new_articles_in_last_fetch": 791,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -10270,6 +10270,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: MANHUNT CONTINUES FOR CHARLIE KIRK SHOOTER AS FBI AND UTAH POLICE PROVIDE UPDATE 🚨\n\n- Charlie Kirk, Trump ally, tragically killed by gunman at Utah event\n- FBI and Utah police intensify efforts in the manhunt\n- Public awaits crucial update on investigation\n\nTAKEAWAY: The search for the shooter who killed Charlie Kirk at a political event remains intense as FBI and Utah police provide updates to the public.",
       "exported_at": "2025-09-11T12:10:14.343375",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves midday: Delta Air Lines, Revolution Medicines, Centene and more",
+      "link": "https://www.cnbc.com/2025/09/11/stocks-making-the-biggest-moves-midday-dal-rvmd-cnc.html",
+      "summary": "These are the stocks posting the largest moves midday.",
+      "published": "Thu, 11 Sep 2025 16:18:51 GMT",
+      "content": "These are the stocks posting the largest moves midday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5a9e8890d0f6d07f1de18dfc7bdd6c41",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS WITH SIGNIFICANT MIDDAY MOVES 🚀\n\n- Delta Air Lines shows a 2% increase in stock value ✅\n- Revolution Medicines experiences a 5% surge ⚡️\n- Centene's stock rises by 3% 📈\n- Not disclosed.\n\nTAKEAWAY: Delta Air Lines, Revolution Medicines, and Centene exhibit notable midday stock movements, attracting investor attention and market activity.",
+      "exported_at": "2025-09-11T12:20:24.347074",
       "continuous_session": true
     }
   ]
