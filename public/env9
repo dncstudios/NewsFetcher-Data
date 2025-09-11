@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T16:58:36.880298",
-    "total_articles": 832,
-    "new_articles_in_last_fetch": 832,
+    "created_at": "2025-09-11T17:13:57.383751",
+    "total_articles": 834,
+    "new_articles_in_last_fetch": 834,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -10816,6 +10816,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP PUSHES TO REPLACE FED'S LISA COOK AHEAD OF RATE DECISION 🚨\n\n- Trump seeks to dismiss Lisa Cook before upcoming Fed meeting\n- Aim: Lower rates to boost economic growth, ease national debt burden\n- Request to court for permission to remove Cook\n\nTAKEAWAY: Trump's move to replace Lisa Cook at the Fed signals a push for rate cuts to stimulate economic growth and manage national debt.",
       "exported_at": "2025-09-11T16:58:36.812862",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves after hours: Adobe, RH, Super Micro Computer &amp; more",
+      "link": "https://www.cnbc.com/2025/09/11/stocks-making-the-biggest-moves-after-hours-adobe-rh-super-micro-computer-more.html",
+      "summary": "See which stocks are posting big moves after the bell.",
+      "published": "Thu, 11 Sep 2025 21:09:11 GMT",
+      "content": "See which stocks are posting big moves after the bell.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "98e63eb66e28b294cd2f78dbe35d504c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS SURGE AFTER HOURS: ADOBE, RH, SUPER MICRO COMPUTER 🚀\n\n- Adobe, RH, Super Micro Computer show significant post-market gains 💰\n- Investors closely monitor after-hours stock movements for opportunities 📈\n- Market watchers analyze trends to make informed decisions 🔍\n\nTAKEAWAY: Post-market surges by Adobe, RH, and Super Micro Computer attract investor attention, signaling potential opportunities for informed decisions.",
+      "exported_at": "2025-09-11T17:13:57.372974",
+      "continuous_session": true
+    },
+    {
+      "title": "Amazon suspends engineer who protested company&apos;s work with Israeli government",
+      "link": "https://www.cnbc.com/2025/09/11/amazon-suspends-engineer-who-protested-companys-work-with-israel.html",
+      "summary": "Ahmed Shahrour, a Palestinian engineer who works for Amazon's Whole Foods unit, was suspended this week while the company investigates his case.",
+      "published": "Thu, 11 Sep 2025 20:45:48 GMT",
+      "content": "Ahmed Shahrour, a Palestinian engineer who works for Amazon's Whole Foods unit, was suspended this week while the company investigates his case.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7c4b7d8b9b11ee185a6f4c714cebde6e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AMAZON SUSPENDS ENGINEER PROTESTING ISRAELI GOVERNMENT 🚨\n\n- Palestinian engineer Ahmed Shahrour suspended by Amazon 🛑\n- Suspension follows Shahrour's protest against Amazon's Israeli ties 🇮🇱\n- Whole Foods unit involved in investigating Shahrour's case 🔍\n- Amazon's move raises questions about freedom of expression 🤔\n\nTAKEAWAY: Amazon's suspension of Palestinian engineer Ahmed Shahrour for protesting the company's work with the Israeli government prompts concerns about freedom of expression.",
+      "exported_at": "2025-09-11T17:13:57.372983",
       "continuous_session": true
     }
   ]
