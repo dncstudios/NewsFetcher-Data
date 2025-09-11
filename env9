@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T09:41:56.646278",
-    "total_articles": 767,
-    "new_articles_in_last_fetch": 767,
+    "created_at": "2025-09-11T09:52:11.910103",
+    "total_articles": 769,
+    "new_articles_in_last_fetch": 769,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -9971,6 +9971,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: U.S. MEDIAN HOUSEHOLD INCOME EDGES UP IN 2024 📈\n\n- Median household income rises by $1,000 in 2024 💵\n- Census Bureau reports slight increase year-over-year 📊\n- Economist views the bump as 'economically meaningful' 💰\n\nTAKEAWAY: The modest increase in median household income in 2024 is seen as a positive sign, signaling potential economic growth and stability.",
       "exported_at": "2025-09-11T09:41:56.578802",
+      "continuous_session": true
+    },
+    {
+      "title": "Financial CEOs are weighing in on the state of the economy",
+      "link": "https://www.cnbc.com/2025/09/11/solomon-dimon-pick-ceos-economy.html",
+      "summary": "CEOs this week on CNBC weighed in on the health of the economy amid economic uncertainty and a Bureau of Labor Statistics report revising down job numbers.",
+      "published": "Thu, 11 Sep 2025 13:44:53 GMT",
+      "content": "CEOs this week on CNBC weighed in on the health of the economy amid economic uncertainty and a Bureau of Labor Statistics report revising down job numbers.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8369512f7ede5c23edda021919e01fb9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FINANCIAL CEOS SPEAK OUT ON ECONOMY HEALTH 🚀\n\n- CEOs share insights on economy amidst uncertainty 🔍\n- Bureau of Labor Statistics lowers job numbers 📉\n- Discussion focuses on economic health and challenges 💼\n- Insights provided by CEOs on CNBC 💡\n\nTAKEAWAY: Financial CEOs provide valuable insights on the economy's health and challenges, addressing uncertainties and revised job numbers.",
+      "exported_at": "2025-09-11T09:52:11.868637",
+      "continuous_session": true
+    },
+    {
+      "title": "Offshore wind has no future in the U.S. under Trump administration, Interior Secretary says",
+      "link": "https://www.cnbc.com/2025/09/11/offshore-wind-renewables-energy-trump-burgum.html",
+      "summary": "It is the clearest statement yet from a senior Trump administration official that the president aims to shut down the offshore wind industry in the U.S.",
+      "published": "Thu, 11 Sep 2025 13:45:06 GMT",
+      "content": "It is the clearest statement yet from a senior Trump administration official that the president aims to shut down the offshore wind industry in the U.S.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b82416d863d1ba55c6793a6efddc0665",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: OFFSHORE WIND INDUSTRY FACES UNCERTAINTY UNDER TRUMP ADMINISTRATION ⚠️\n\n- Interior Secretary asserts no future for offshore wind under Trump 🌬️\n- Clear stance signals potential shutdown of industry 🚫\n- Uncertainty looms over offshore wind's prospects in the U.S. 🤔\n\nTAKEAWAY: The offshore wind industry in the U.S. faces uncertainty with the Trump administration's stance, potentially signaling a shutdown and impacting future prospects.",
+      "exported_at": "2025-09-11T09:52:11.868680",
       "continuous_session": true
     }
   ]
