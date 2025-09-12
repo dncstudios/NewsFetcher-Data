@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-12T13:45:00.364731",
-    "total_articles": 918,
-    "new_articles_in_last_fetch": 918,
+    "created_at": "2025-09-12T13:50:10.604370",
+    "total_articles": 919,
+    "new_articles_in_last_fetch": 919,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -11932,6 +11932,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCKS MAKING BIGGEST MOVES MIDDAY: IONQ, WARNER BROS. DISCOVERY, RH, ADOBE 🚀\n\n- IonQ, Warner Bros. Discovery, RH, Adobe show significant midday movement 📈\n- Investors closely watch these notable stock performances 🧐\n- Volatility and momentum drive midday trading activity 📈🔥\n- Market analysts analyze reasons behind these substantial moves 📊\n- Investors anticipate potential impact on broader market trends 📉⚡️\n\nTAKEAWAY: IonQ, Warner Bros. Discovery, RH, and Adobe experience substantial midday movements, attracting investor attention and market analysis for potential broader market implications.",
       "exported_at": "2025-09-12T13:45:00.352742",
+      "continuous_session": true
+    },
+    {
+      "title": "Here&apos;s why the stock market keeps rallying in the face of bad economic news",
+      "link": "https://www.cnbc.com/2025/09/12/heres-why-the-market-keeps-rallying-in-the-face-of-bad-economic-news.html",
+      "summary": "Investors aren't letting a little bad news bother them.",
+      "published": "Fri, 12 Sep 2025 17:31:55 GMT",
+      "content": "Investors aren't letting a little bad news bother them.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fe82852f8906bc749eb0d105cc65931a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK MARKET DEFIES ODDS WITH CONTINUOUS RALLY 🚀\n\n- Investors remain resilient despite negative economic updates\n- Market continues to surge despite unfavorable news\n- Confidence in long-term market potential drives investor sentiment\n- Resilience in the face of challenges fuels market momentum 🚀\n- Investors focus on opportunity rather than short-term setbacks\n- Market rally showcases investor optimism and determination\n\nTAKEAWAY: Despite negative economic news, the stock market's relentless rally reflects investor resilience, optimism, and focus on long-term growth potential.",
+      "exported_at": "2025-09-12T13:50:10.592976",
       "continuous_session": true
     }
   ]
