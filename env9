@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T20:06:48.835234",
-    "total_articles": 843,
-    "new_articles_in_last_fetch": 843,
+    "created_at": "2025-09-11T21:17:50.996029",
+    "total_articles": 845,
+    "new_articles_in_last_fetch": 845,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -10959,6 +10959,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: GEMINI IPO PRICED AT $28 PER SHARE, VALUED AT $3.3B 🚀\n\n- Gemini's IPO priced at $28 per share, valuing exchange at $3.3B 💰\n- Strong demand seen for Winklevoss-founded crypto exchange 📈\n- Investor interest drives Gemini's valuation sky-high 🚀\n\nTAKEAWAY: Gemini's IPO at $28 per share values the exchange at $3.3 billion, fueled by strong demand and investor interest in the Winklevoss-founded crypto platform.",
       "exported_at": "2025-09-11T20:06:48.825549",
+      "continuous_session": true
+    },
+    {
+      "title": "China&apos;s rich are exiting Singapore as wealth regulations tighten: &apos;my patience is gone&apos;",
+      "link": "https://www.cnbc.com/2025/09/12/singapore-wealth-hub-loses-shine-for-china-rich-hong-kong-dubai-tokyo-japan.html",
+      "summary": "Singapore's reputation as an uncontested magnet for wealthy Chinese families is fading amid regulations, tax scrutiny and more stringent compliances.",
+      "published": "Fri, 12 Sep 2025 01:11:17 GMT",
+      "content": "Singapore's reputation as an uncontested magnet for wealthy Chinese families is fading amid regulations, tax scrutiny and more stringent compliances.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6f7f91fef994029218e151eb00486e80",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CHINA'S WEALTHY EXIT SINGAPORE AMID TIGHTER REGULATIONS 🚨\n\n- Wealthy Chinese families leaving Singapore due to regulations\n- Singapore losing appeal due to tax scrutiny and compliance\n- Reputation as top destination for rich Chinese fading\n\nTAKEAWAY: Singapore's allure for wealthy Chinese diminishes as regulations tighten, impacting its status as a preferred wealth hub.",
+      "exported_at": "2025-09-11T21:17:50.927173",
+      "continuous_session": true
+    },
+    {
+      "title": "Asia-Pacific markets trade higher, tracking Wall Street gains",
+      "link": "https://www.cnbc.com/2025/09/12/asia-pacific-markets-nikkei-225-kospi-nifty-50.html",
+      "summary": "Equities in several parts of the world have been rallying as easing inflation pressures and expectations for U.S. rate cuts boost investor sentiment.",
+      "published": "Fri, 12 Sep 2025 00:09:31 GMT",
+      "content": "Equities in several parts of the world have been rallying as easing inflation pressures and expectations for U.S. rate cuts boost investor sentiment.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "378cf8ebd305dded1ac6c7b3ccbb85db",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASIA-PACIFIC MARKETS RISE, FOLLOWING WALL STREET 🚀\n\n- Global equities rally on easing inflation and rate cut hopes 🌏\n- Asia-Pacific markets trade higher, mirroring Wall Street gains 📈\n- Investor sentiment boosted by positive market trends 📊\n\nTAKEAWAY: Asia-Pacific markets join the global rally as easing inflation and expectations for U.S. rate cuts drive investor optimism and market performance.",
+      "exported_at": "2025-09-11T21:17:50.927228",
       "continuous_session": true
     }
   ]
