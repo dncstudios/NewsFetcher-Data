@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-12T07:47:46.697605",
-    "total_articles": 876,
-    "new_articles_in_last_fetch": 876,
+    "created_at": "2025-09-12T08:23:18.117755",
+    "total_articles": 877,
+    "new_articles_in_last_fetch": 877,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -11388,6 +11388,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: INFLATION AND TARIFFS IMPACT HOLIDAY SHOPPING 🚨\n\n- Consumers worried about higher prices for holiday gifts 🎁\n- Lingering inflation and tariff uncertainty add to concerns 💸\n- Reports indicate early start to holiday shopping season 🛍️\n\nTAKEAWAY: With inflation and tariffs impacting consumer spending, the holiday shopping season is starting early amid concerns of higher prices for gifts.",
       "exported_at": "2025-09-12T07:47:46.685411",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest premarket moves: Super Micro Computer, Warner Bros. Discovery, Adobe and more",
+      "link": "https://www.cnbc.com/2025/09/12/stocks-making-the-biggest-premarket-moves-.html",
+      "summary": "These are some of the notable stocks posting the largest moves in the premarket.",
+      "published": "Fri, 12 Sep 2025 12:16:37 GMT",
+      "content": "These are some of the notable stocks posting the largest moves in the premarket.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4c17cb8498c5d345a5560393287030b7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS WITH BIGGEST PREMARKET MOVES 🚀\n\n- Super Micro Computer, Warner Bros. Discovery, Adobe active 📈\n- Notable stocks showing significant premarket shifts 📊\n- Investors eyeing premarket movements for trading cues ✅\n\nTAKEAWAY: Keep an eye on Super Micro Computer, Warner Bros. Discovery, Adobe, and other active stocks showing significant premarket movements for potential trading opportunities.",
+      "exported_at": "2025-09-12T08:23:18.106449",
       "continuous_session": true
     }
   ]
