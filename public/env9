@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T18:50:45.658656",
-    "total_articles": 842,
-    "new_articles_in_last_fetch": 842,
+    "created_at": "2025-09-11T20:06:48.835234",
+    "total_articles": 843,
+    "new_articles_in_last_fetch": 843,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -10946,6 +10946,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JIM CRAMER'S BULLISH STANCE DEFIES MARKET 'CYNICS' 🚀\n\n- Indexes reach record highs, fueling market optimism 🌟\n- Jim Cramer defends bullish outlook amidst market skepticism 💪\n- CNBC host remains confident in market growth 📈\n- Cramer's positive stance challenges doubters 🤨\n- Record-breaking day for indexes underpins Cramer's optimism 📈\n\nTAKEAWAY: Jim Cramer's unwavering bullish stance defies market skeptics as indexes hit record highs, fueling optimism and confidence in market growth.",
       "exported_at": "2025-09-11T18:50:45.588396",
+      "continuous_session": true
+    },
+    {
+      "title": "Winklevoss-founded Gemini reportedly prices IPO at $28 per share, valuing the crypto exchange at $3.3 billion",
+      "link": "https://www.cnbc.com/2025/09/11/winklevoss-founded-crypto-exchange-gemini-prices-ipo.html",
+      "summary": "Gemini Space Station, the operator of the cryptocurrency exchange founded by the Winklevoss brothers, has seen strong demand for its offering.",
+      "published": "Fri, 12 Sep 2025 00:02:15 GMT",
+      "content": "Gemini Space Station, the operator of the cryptocurrency exchange founded by the Winklevoss brothers, has seen strong demand for its offering.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "dda285185cd03f8a3814709fec13485c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GEMINI IPO PRICED AT $28 PER SHARE, VALUED AT $3.3B 🚀\n\n- Gemini's IPO priced at $28 per share, valuing exchange at $3.3B 💰\n- Strong demand seen for Winklevoss-founded crypto exchange 📈\n- Investor interest drives Gemini's valuation sky-high 🚀\n\nTAKEAWAY: Gemini's IPO at $28 per share values the exchange at $3.3 billion, fueled by strong demand and investor interest in the Winklevoss-founded crypto platform.",
+      "exported_at": "2025-09-11T20:06:48.825549",
       "continuous_session": true
     }
   ]
