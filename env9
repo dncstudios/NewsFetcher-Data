@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-12T06:46:27.888679",
-    "total_articles": 867,
-    "new_articles_in_last_fetch": 867,
+    "created_at": "2025-09-12T07:06:47.276125",
+    "total_articles": 868,
+    "new_articles_in_last_fetch": 868,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -11271,6 +11271,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: RUSSIA'S 'SALAMI-SLICING' STRATEGY TESTS THE WEST 🚀\n\n- Russia employs incremental tactics to achieve strategic goals 🕵️‍♂️\n- Avoids major reactions while advancing its agenda 🌐\n- Approach challenges Western powers to respond effectively 💪\n\nTAKEAWAY: Russia's 'salami-slicing' strategy poses a significant challenge to Western powers, testing their ability to respond strategically without escalating tensions.",
       "exported_at": "2025-09-12T06:46:27.819956",
+      "continuous_session": true
+    },
+    {
+      "title": "David Ellison has wasted no time putting his stamp on Paramount",
+      "link": "https://www.cnbc.com/2025/09/12/david-ellison-ceo-paramount-skydance-merger.html",
+      "summary": "As CEO and chairman, David Ellison has signed big deals for talent and content as part of his plan to invest in the entertainment company.",
+      "published": "Fri, 12 Sep 2025 11:00:01 GMT",
+      "content": "As CEO and chairman, David Ellison has signed big deals for talent and content as part of his plan to invest in the entertainment company.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "50860e6a5ac7397f26a8f0b6ddac6ec4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DAVID ELLISON TRANSFORMS PARAMOUNT ENTERTAINMENT 🚀\n\n- CEO David Ellison swiftly makes his mark at Paramount 🎬\n- Secures major talent and content deals for the company 🌟\n- Investment strategy evident in ambitious moves 💼\n- Ellison's leadership reshaping the entertainment giant 🎥\n\nTAKEAWAY: David Ellison's quick actions and strategic investments are reshaping Paramount Entertainment, setting the stage for an exciting future.",
+      "exported_at": "2025-09-12T07:06:47.264967",
       "continuous_session": true
     }
   ]
