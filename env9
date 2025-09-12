@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T23:24:43.967995",
-    "total_articles": 851,
-    "new_articles_in_last_fetch": 851,
+    "created_at": "2025-09-12T02:01:52.526854",
+    "total_articles": 853,
+    "new_articles_in_last_fetch": 853,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -11063,6 +11063,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CHINA'S WEALTHY EXIT SINGAPORE AMID TIGHTER REGULATIONS 🚨\n\n- China's affluent leaving Singapore due to tightening wealth rules\n- Singapore's appeal: political stability, family-office benefits, independent courts\n- Mandarin fluency among factors attracting China's super-rich\n\nTAKEAWAY: China's wealthy are departing Singapore as wealth regulations tighten, impacting the city-state's appeal despite its attractive features.",
       "exported_at": "2025-09-11T23:24:43.893203",
+      "continuous_session": true
+    },
+    {
+      "title": "Investing in Space: Amazon plays catch-up with SpaceX in satellite internet race",
+      "link": "https://www.cnbc.com/2025/09/12/investing-in-space-amazon-joins-spacex-in-satellite-internet-race.html",
+      "summary": "SpaceX's Starlink is the dominant player in the internet satellite sphere, but Amazon's nascent Project Kuiper constellation is gaining traction — and clients.",
+      "published": "Fri, 12 Sep 2025 05:32:13 GMT",
+      "content": "SpaceX's Starlink is the dominant player in the internet satellite sphere, but Amazon's nascent Project Kuiper constellation is gaining traction — and clients.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8c419458c6b01252e6a91031cb852383",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: INVESTING IN SPACE: AMAZON CHALLENGES SPACEX IN SATELLITE INTERNET RACE 🚀\n\n- SpaceX's Starlink leads in internet satellite market 🌌\n- Amazon's Project Kuiper gaining momentum and customers 📈\n- Competition intensifies as Amazon catches up with SpaceX 🚀\n- Project Kuiper aims to provide global internet coverage 🌍\n- Starlink faces a growing rival in the satellite internet space 📡\n\nTAKEAWAY: Amazon's Project Kuiper is rapidly advancing to compete with SpaceX's Starlink, intensifying the race in the satellite internet market.",
+      "exported_at": "2025-09-12T02:01:52.460005",
+      "continuous_session": true
+    },
+    {
+      "title": "Gen-Z employees are coaching older colleagues to use AI, according to recent IWG report",
+      "link": "https://www.cnbc.com/2025/09/12/iwg-report-gen-z-employees-are-coaching-older-colleagues-to-use-ai.html",
+      "summary": "Gen-Z employees are driving the adoption of artificial intelligence at work by helping older colleagues upskill on the technology, according to an IWG report.",
+      "published": "Fri, 12 Sep 2025 05:57:54 GMT",
+      "content": "Gen-Z employees are driving the adoption of artificial intelligence at work by helping older colleagues upskill on the technology, according to an IWG report.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2818abe87821254638e066f4e2d672bc",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GEN-Z LEADING AI ADOPTION IN WORKPLACE 🚀\n\n- Gen-Z employees coach older colleagues on AI adoption 🧑‍💼🤖\n- IWG report highlights Gen-Z's role in upskilling on technology 💡\n- AI adoption driven by cross-generational collaboration 🌐\n- Older employees benefit from Gen-Z's expertise in AI 📈\n- Workplace evolution reflects Gen-Z's tech-savvy influence 🔮\n- Collaboration between generations enhances AI integration 🔄\n\nTAKEAWAY: Gen-Z's leadership in AI adoption through coaching older colleagues showcases the power of cross-generational collaboration in driving workplace innovation and technology integration.",
+      "exported_at": "2025-09-12T02:01:52.460081",
       "continuous_session": true
     }
   ]
