@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-12T15:37:28.280789",
-    "total_articles": 927,
-    "new_articles_in_last_fetch": 927,
+    "created_at": "2025-09-12T15:57:51.910813",
+    "total_articles": 928,
+    "new_articles_in_last_fetch": 928,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -12049,6 +12049,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: GEMINI IPO SOARS, TETHER LAUNCHES NEW TOKEN, BINANCE PARTNERSHIP ⚡️\n\n- Gemini's IPO raises $425 million, driving share prices up 📈\n- Tether introduces new token tailored for US institutions 💼\n- Franklin Templeton collaborates with Binance in a new partnership 🤝\n\nTAKEAWAY: Gemini's successful IPO, Tether's new US-focused token, and Franklin Templeton's partnership with Binance showcase the evolving landscape of the crypto world.",
       "exported_at": "2025-09-12T15:37:28.217938",
+      "continuous_session": true
+    },
+    {
+      "title": "BlackRock&apos;s Rieder the latest candidate to interview in Fed chair search",
+      "link": "https://www.cnbc.com/2025/09/12/blackrocks-rieder-the-latest-candidate-to-interview-in-fed-chair-search.html",
+      "summary": "The White House search for the next Federal Reserve chair continues to twist and turn",
+      "published": "Fri, 12 Sep 2025 19:54:56 GMT",
+      "content": "The White House search for the next Federal Reserve chair continues to twist and turn",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b6d4a280bfac7630a1caac7f17d9c1c0",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BLACKROCK'S RIEDER INTERVIEWS FOR FED CHAIR 🚀\n\n- White House interviews BlackRock's Rieder for Fed chair 🏦\n- Search for next Federal Reserve chair remains dynamic 🔍\n- Uncertainty surrounds the selection process 🤔\n\nTAKEAWAY: BlackRock's Rieder adds a new twist to the ongoing search for the next Federal Reserve chair, keeping the process dynamic and uncertain.",
+      "exported_at": "2025-09-12T15:57:51.837319",
       "continuous_session": true
     }
   ]
