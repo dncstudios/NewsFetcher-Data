@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-12T10:15:33.889426",
-    "total_articles": 893,
-    "new_articles_in_last_fetch": 893,
+    "created_at": "2025-09-12T10:25:46.555267",
+    "total_articles": 894,
+    "new_articles_in_last_fetch": 894,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -11607,6 +11607,19 @@
       "hash": "afb1c82fd1fa9bd32c0b2a5ca2fb1ff2",
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "exported_at": "2025-09-12T10:15:33.816759",
+      "continuous_session": true
+    },
+    {
+      "title": "How multifamily offices are playing commercial real estate",
+      "link": "https://www.cnbc.com/2025/09/12/how-multifamily-offices-are-playing-commercial-real-estate.html",
+      "summary": "With more than $12 billion under management, Realm is a multifamily office investment platform specializing in commercial real estate.",
+      "published": "Fri, 12 Sep 2025 14:00:01 GMT",
+      "content": "With more than $12 billion under management, Realm is a multifamily office investment platform specializing in commercial real estate.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "118dc6ac312515537834521980542e4a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MULTIFAMILY OFFICES EMBRACE COMMERCIAL REAL ESTATE OPPORTUNITIES 🏢\n\n- Realm manages over $12 billion in commercial real estate 💰\n- Specializes in investments within the multifamily office sector 🏠\n- Providing unique opportunities for investors in the market 🌟\n- Demonstrating strength and expertise in managing assets 📈\n- Capitalizing on the potential growth of commercial real estate 📈\n- Offering a diversified portfolio within the sector 🔄\n\nTAKEAWAY: Realm's success in managing over $12 billion in commercial real estate showcases their expertise and offers investors unique opportunities for growth within the sector.",
+      "exported_at": "2025-09-12T10:25:46.474710",
       "continuous_session": true
     }
   ]
