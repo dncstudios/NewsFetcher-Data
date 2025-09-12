@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-12T09:50:10.011083",
-    "total_articles": 891,
-    "new_articles_in_last_fetch": 891,
+    "created_at": "2025-09-12T10:00:19.833872",
+    "total_articles": 892,
+    "new_articles_in_last_fetch": 892,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -11582,6 +11582,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FINTECH FIRM LENDUZZ FILES FOR IPO 🚀\n\n- Lendbuzz joins fintech IPO trend 📈\n- Company seeks to go public in upcoming wave 🌊\n- IPO filing indicates Lendbuzz's growth and ambitions 💼\n- Move aligns with industry momentum 🚀\n- Fintech sector attracts investor interest 📈\n- IPO decision reflects company's confidence in market 📊\n\nTAKEAWAY: Lendbuzz's IPO filing amid the fintech trend showcases its growth, ambitions, and confidence in the market, aligning with the sector's momentum.",
       "exported_at": "2025-09-12T09:50:10.000271",
+      "continuous_session": true
+    },
+    {
+      "title": "Charlie Kirk shooter: Officials give update after Trump says suspect caught",
+      "link": "https://www.cnbc.com/2025/09/12/trump-charlie-kirk-shooter-suspect.html",
+      "summary": "Kirk, an ally of President Donald Trump, was shot during an event at Utah Valley University, kicking off a multi-day manhunt.",
+      "published": "Fri, 12 Sep 2025 13:55:05 GMT",
+      "content": "Kirk, an ally of President Donald Trump, was shot during an event at Utah Valley University, kicking off a multi-day manhunt.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "cc918e78a5afc2661e87d945f48f29de",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP CONFIRMS CHARLIE KIRK SHOOTING SUSPECT IN CUSTODY 🚨\n\n- Charlie Kirk, Trump ally, shot at Utah Valley University event\n- Multi-day manhunt for shooting suspect ensued\n\nTAKEAWAY: President Trump confirms the shooting suspect in custody after Charlie Kirk's incident at Utah Valley University, ending a multi-day manhunt.",
+      "exported_at": "2025-09-12T10:00:19.759542",
       "continuous_session": true
     }
   ]
