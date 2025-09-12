@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-12T13:19:28.058507",
-    "total_articles": 916,
-    "new_articles_in_last_fetch": 916,
+    "created_at": "2025-09-12T13:29:40.988942",
+    "total_articles": 917,
+    "new_articles_in_last_fetch": 917,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -11906,6 +11906,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: $7 TRILLION 'WALL OF CASH' WORRY LOOMS FOR INVESTORS 🚨\n\n- Trillions in money market funds due to high rates 💰\n- Fed's potential rate cuts trigger necessary portfolio adjustments 📉\n- Investors must act strategically amid looming market changes 📊\n\nTAKEAWAY: The $7 trillion 'wall of cash' in money market funds poses a concern for investors as the Fed's interest rate cuts require strategic portfolio adjustments.",
       "exported_at": "2025-09-12T13:19:27.982825",
+      "continuous_session": true
+    },
+    {
+      "title": "Buy this packaging stock primed for a recovery, says Carter Worth",
+      "link": "https://www.cnbc.com/2025/09/12/buy-this-packaging-stock-primed-for-a-recovery-says-carter-worth.html",
+      "summary": "Carter Worth breaks down the technical outlook on this stock.",
+      "published": "Fri, 12 Sep 2025 17:23:14 GMT",
+      "content": "Carter Worth breaks down the technical outlook on this stock.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "36554c60cad1d088f0e2ed244f9261e1",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BUY THIS PACKAGING STOCK PRIMED FOR RECOVERY 🚀\n\n- Carter Worth recommends purchasing packaging stock 📈\n- Stock shows strong technical outlook for recovery 💪\n- Analyst predicts positive growth potential 📈\n- Packaging stock positioned well for a rebound 📈\n- Expert analysis suggests stock is a promising buy 💼\n- Technical indicators point towards stock's recovery 📊\n\nTAKEAWAY: Packaging stock is set for a strong recovery according to Carter Worth's technical analysis, making it a promising investment opportunity.",
+      "exported_at": "2025-09-12T13:29:40.918066",
       "continuous_session": true
     }
   ]
