@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-12T12:38:52.147330",
-    "total_articles": 915,
-    "new_articles_in_last_fetch": 915,
+    "created_at": "2025-09-12T13:19:28.058507",
+    "total_articles": 916,
+    "new_articles_in_last_fetch": 916,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -11893,6 +11893,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: APPLE NEARS BULLISH GOLDEN CROSS PATTERN 🚀\n\n- Apple lags behind peers but may surge with golden cross pattern 📈\n- Formation of golden cross could signal strong uptrend ahead ⚡️\n- Market watching closely for Apple's chart pattern confirmation 🧐\n\nTAKEAWAY: Apple's potential golden cross pattern could lead to a significant surge, catching up with its \"Magnificent Seven\" peers.",
       "exported_at": "2025-09-12T12:38:52.069410",
+      "continuous_session": true
+    },
+    {
+      "title": "$7 trillion &apos;wall of cash&apos; worry is looming for investors once Fed interest rate cuts start",
+      "link": "https://www.cnbc.com/2025/09/12/7-trillion-cash-money-market-yields-fed-interest-rate-cuts.html",
+      "summary": "Trillions of dollars are parked in money market funds due to years of high rates, but with the Fed poised to cut, portfolio moves will need to be made.",
+      "published": "Fri, 12 Sep 2025 17:10:51 GMT",
+      "content": "Trillions of dollars are parked in money market funds due to years of high rates, but with the Fed poised to cut, portfolio moves will need to be made.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7a9ec140608cbfefe90bbe67e87a8d92",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: $7 TRILLION 'WALL OF CASH' WORRY LOOMS FOR INVESTORS 🚨\n\n- Trillions in money market funds due to high rates 💰\n- Fed's potential rate cuts trigger necessary portfolio adjustments 📉\n- Investors must act strategically amid looming market changes 📊\n\nTAKEAWAY: The $7 trillion 'wall of cash' in money market funds poses a concern for investors as the Fed's interest rate cuts require strategic portfolio adjustments.",
+      "exported_at": "2025-09-12T13:19:27.982825",
       "continuous_session": true
     }
   ]
