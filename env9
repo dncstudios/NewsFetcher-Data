@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-12T17:55:15.949577",
-    "total_articles": 935,
-    "new_articles_in_last_fetch": 935,
+    "created_at": "2025-09-12T18:05:28.402993",
+    "total_articles": 936,
+    "new_articles_in_last_fetch": 936,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -12153,6 +12153,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FED GOVERNOR COOK'S ATLANTA PROPERTY DECLARED AS 'VACATION HOME' 🚨\n\n- Lisa Cook's Atlanta home labeled as \"vacation home\" 🏡\n- Property purchase under scrutiny for mortgage fraud accusation ⚠️\n- Loan estimate document reviewed by Reuters reveals declaration 📑\n- Federal Reserve governor's property declaration raises questions ❓\n\nTAKEAWAY: Federal Reserve Governor Lisa Cook's Atlanta property being classified as a \"vacation home\" amid mortgage fraud accusations intensifies scrutiny and raises concerns about transparency.",
       "exported_at": "2025-09-12T17:55:15.938640",
+      "continuous_session": true
+    },
+    {
+      "title": "BlackRock&apos;s Rieder the latest candidate to interview in Fed chair search",
+      "link": "https://www.cnbc.com/2025/09/12/blackrocks-rieder-the-latest-candidate-to-interview-in-fed-chair-search.html",
+      "summary": "The White House search for the next Federal Reserve chair continues to twist and turn.",
+      "published": "Fri, 12 Sep 2025 22:04:34 GMT",
+      "content": "The White House search for the next Federal Reserve chair continues to twist and turn.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "18663765f94425ea8e29b2acf60d2699",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BLACKROCK'S RIEDER INTERVIEWS FOR FED CHAIR ROLE 🚀\n\n- White House explores BlackRock's Rieder for Fed chair 🏛️\n- Search for next Federal Reserve head remains dynamic 🔄\n- Uncertainty looms over the selection process 🤷‍♂️\n\nTAKEAWAY: BlackRock's Rieder adds a new twist to the search for the next Federal Reserve chair, injecting more dynamism and uncertainty into the selection process.",
+      "exported_at": "2025-09-12T18:05:28.324572",
       "continuous_session": true
     }
   ]
