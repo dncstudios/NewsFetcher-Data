@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-12T08:23:18.117755",
-    "total_articles": 877,
-    "new_articles_in_last_fetch": 877,
+    "created_at": "2025-09-12T08:28:29.591563",
+    "total_articles": 879,
+    "new_articles_in_last_fetch": 879,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -11401,6 +11401,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCKS WITH BIGGEST PREMARKET MOVES 🚀\n\n- Super Micro Computer, Warner Bros. Discovery, Adobe active 📈\n- Notable stocks showing significant premarket shifts 📊\n- Investors eyeing premarket movements for trading cues ✅\n\nTAKEAWAY: Keep an eye on Super Micro Computer, Warner Bros. Discovery, Adobe, and other active stocks showing significant premarket movements for potential trading opportunities.",
       "exported_at": "2025-09-12T08:23:18.106449",
+      "continuous_session": true
+    },
+    {
+      "title": "Sabadell CEO attacks BBVA&apos;s &apos;insurmountable&apos; hostile takeover bid as board urges rejection",
+      "link": "https://www.cnbc.com/2025/09/12/sabadell-ceo-attacks-bbvas-insurmountable-hostile-takeover-bid-as-board-urges-rejection.html",
+      "summary": "Sabadell's CEO Cesar González-Bueno told CNBC that BBVA's bid \"fundamentally undervalues the bank.\"",
+      "published": "Fri, 12 Sep 2025 12:25:50 GMT",
+      "content": "Sabadell's CEO Cesar González-Bueno told CNBC that BBVA's bid \"fundamentally undervalues the bank.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7b98f85077f2eb12d3d8c76d1b890f09",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SABADELL CEO SLAMS BBVA'S 'INSURMOUNTABLE' TAKEOVER BID 🚨\n\n- Sabadell CEO criticizes BBVA bid as undervaluing the bank 💰\n- González-Bueno emphasizes bid's shortcomings 💥\n- Board advises to reject BBVA's hostile takeover bid 🛑\n- Sabadell's CEO sees BBVA's offer as lacking merit 🔍\n- González-Bueno questions the value BBVA places on Sabadell 🧐\n\nTAKEAWAY: Sabadell's CEO strongly opposes BBVA's bid, deeming it undervalued and urging the board to reject the hostile takeover offer.",
+      "exported_at": "2025-09-12T08:28:29.538245",
+      "continuous_session": true
+    },
+    {
+      "title": "ETF demand is soaring — but investors are making these big mistakes, financial experts say",
+      "link": "https://www.cnbc.com/2025/09/12/biggest-etf-mistakes.html",
+      "summary": "Demand for exchange-traded funds continues to grow as investors seek lower-cost, tax-friendly options. But here are the biggest ETF mistakes, experts say.",
+      "published": "Fri, 12 Sep 2025 12:15:01 GMT",
+      "content": "Demand for exchange-traded funds continues to grow as investors seek lower-cost, tax-friendly options. But here are the biggest ETF mistakes, experts say.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7c2ce0af6ab43da41f56ba3a3aabe1b6",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ETF DEMAND SOARS AS INVESTORS MAKE BIG MISTAKES 🚀\n\n- Investors flock to ETFs for low costs and tax advantages 📉💰\n- Yet, experts warn about common ETF pitfalls ⚠️📉\n- Mistakes include neglecting due diligence and overtrading 💸🔄\n\nTAKEAWAY: ETF demand is on the rise due to cost efficiency, but investors need to avoid common mistakes like lack of research and excessive trading.",
+      "exported_at": "2025-09-12T08:28:29.538340",
       "continuous_session": true
     }
   ]
