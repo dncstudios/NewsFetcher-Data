@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-12T10:00:19.833872",
-    "total_articles": 892,
-    "new_articles_in_last_fetch": 892,
+    "created_at": "2025-09-12T10:15:33.889426",
+    "total_articles": 893,
+    "new_articles_in_last_fetch": 893,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -11595,6 +11595,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP CONFIRMS CHARLIE KIRK SHOOTING SUSPECT IN CUSTODY 🚨\n\n- Charlie Kirk, Trump ally, shot at Utah Valley University event\n- Multi-day manhunt for shooting suspect ensued\n\nTAKEAWAY: President Trump confirms the shooting suspect in custody after Charlie Kirk's incident at Utah Valley University, ending a multi-day manhunt.",
       "exported_at": "2025-09-12T10:00:19.759542",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump says National Guard will deploy to Memphis next, sidestepping Chicago for now",
+      "link": "https://www.cnbc.com/2025/09/12/trump-memphis-national-guard-crime.html",
+      "summary": "The president called Memphis \"deeply troubled.\"",
+      "published": "Fri, 12 Sep 2025 14:10:59 GMT",
+      "content": "The president called Memphis \"deeply troubled.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "afb1c82fd1fa9bd32c0b2a5ca2fb1ff2",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "exported_at": "2025-09-12T10:15:33.816759",
       "continuous_session": true
     }
   ]
