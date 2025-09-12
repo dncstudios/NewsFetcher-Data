@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-12T11:21:59.076298",
-    "total_articles": 902,
-    "new_articles_in_last_fetch": 902,
+    "created_at": "2025-09-12T11:27:08.214593",
+    "total_articles": 904,
+    "new_articles_in_last_fetch": 904,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -11724,6 +11724,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TETHER LAUNCHES NEW STABLECOIN, APPOINTS FORMER WHITE HOUSE ADVISOR AS CEO 🚀\n\n- Tether appoints Bo Hines, ex-White House advisor, to lead U.S. business 🌟\n- Launching a new token catering to U.S. institutions 🇺🇸\n- Expansion strategy aimed at strengthening presence in the U.S. market 📈\n\nTAKEAWAY: Tether's strategic move to introduce a new stablecoin and appoint a seasoned leader like Bo Hines signifies a bold step towards expanding their reach in the U.S., potentially fueling growth.",
       "exported_at": "2025-09-12T11:21:59.006904",
+      "continuous_session": true
+    },
+    {
+      "title": "Tether reveals USAT stablecoin, appoints Bo Hines, former White House advisor, to lead U.S. business",
+      "link": "https://www.cnbc.com/2025/09/12/tether-reveals-new-stablecoin-appoints-bo-hines-to-lead-us-business-.html",
+      "summary": "Tether, the issuer of the largest stablecoin, has named a CEO for its U.S. business and is launching a new token for U.S. institutions.",
+      "published": "Fri, 12 Sep 2025 15:26:46 GMT",
+      "content": "Tether, the issuer of the largest stablecoin, has named a CEO for its U.S. business and is launching a new token for U.S. institutions.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2959a7d41aa983e89b5d0486eb51913d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TETHER LAUNCHES NEW STABLECOIN, APPOINTS FORMER WHITE HOUSE ADVISOR AS CEO 🚀\n\n- Tether appoints Bo Hines, ex-White House advisor, to lead U.S. business 🌟\n- Launching a new token catering to U.S. institutions 🇺🇸\n- Expansion strategy aimed at strengthening presence in the U.S. market 📈\n\nTAKEAWAY: Tether's strategic move to introduce a new stablecoin and appoint a seasoned leader like Bo Hines signifies a bold step towards expanding their reach in the U.S., potentially fueling growth.",
+      "exported_at": "2025-09-12T11:27:08.203755",
+      "continuous_session": true
+    },
+    {
+      "title": "We&apos;re buying the dip to build up our newest stock position",
+      "link": "https://www.cnbc.com/2025/09/12/were-buying-the-dip-to-build-up-our-newest-stock-position.html",
+      "summary": "An update on orders from the CEO doesn't change our investment thesis.",
+      "published": "Fri, 12 Sep 2025 15:18:45 GMT",
+      "content": "An update on orders from the CEO doesn't change our investment thesis.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1c84653a3fd31bc95aaa13481e1ad100",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WE'RE BUYING THE DIP TO BUILD UP OUR NEWEST STOCK POSITION 🚀\n\n- CEO's update on orders doesn't alter our investment strategy ✅\n- Seizing the opportunity to strengthen our stock position 💪\n- Market dip seen as a chance to enhance our portfolio 📈\n- Remaining confident in our investment thesis 💼\n\nTAKEAWAY: Leveraging the market dip to fortify our newest stock position as we stay committed to our investment strategy.",
+      "exported_at": "2025-09-12T11:27:08.203764",
       "continuous_session": true
     }
   ]
