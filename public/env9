@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-12T12:23:32.615415",
-    "total_articles": 913,
-    "new_articles_in_last_fetch": 913,
+    "created_at": "2025-09-12T12:33:44.209454",
+    "total_articles": 914,
+    "new_articles_in_last_fetch": 914,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -11867,6 +11867,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ELI LILLY AND NOVO NORDISK SET TO BATTLE IN OBESITY DRUG MARKET ⚡️\n\n- Eli Lilly and Novo Nordisk escalate rivalry to weight-loss pill sector 🏋️‍♂️\n- Companies gear up for competition in the lucrative obesity drug market 💰\n- Focus shifts to developing effective weight-loss medications 💊\n- Pill-based obesity treatments offer new frontier for pharmaceutical giants 🌟\n- Both companies aim to capitalize on the growing demand for weight-loss solutions 📈\n\nTAKEAWAY: Eli Lilly and Novo Nordisk's entry into the weight-loss pill sector intensifies competition and innovation in the obesity drug market.",
       "exported_at": "2025-09-12T12:23:32.537505",
+      "continuous_session": true
+    },
+    {
+      "title": "Cramer touts a stock &apos;deep in the data centers,&apos; partnered with Nvidia, Apple",
+      "link": "https://www.cnbc.com/2025/09/12/cramer-touts-corning-deep-in-the-data-centers-partnered-with-nvidia-apple.html",
+      "summary": "CNBC's Jim Cramer predicts shares of this glass manufacturer could go much higher even as they trade at levels not seen since 2000.",
+      "published": "Fri, 12 Sep 2025 16:13:15 GMT",
+      "content": "CNBC's Jim Cramer predicts shares of this glass manufacturer could go much higher even as they trade at levels not seen since 2000.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4ea4a8c756afa44c4a8b63422e9405f5",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CRAMER PREDICTS SURGE FOR GLASS MANUFACTURER PARTNERED WITH NVIDIA, APPLE 🚀\n\n- Jim Cramer sees potential for glass manufacturer's shares to soar 📈\n- Stock trading at levels not seen since 2000, despite partnership with Nvidia, Apple 🍏\n- Strong endorsement from Cramer for company deeply involved in data centers 💪\n\nTAKEAWAY: Cramer's bullish outlook on the glass manufacturer, in partnership with tech giants Nvidia and Apple, hints at substantial growth potential despite historical trading levels.",
+      "exported_at": "2025-09-12T12:33:44.144670",
       "continuous_session": true
     }
   ]
