@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-12T07:32:29.311767",
-    "total_articles": 874,
-    "new_articles_in_last_fetch": 874,
+    "created_at": "2025-09-12T07:37:34.985691",
+    "total_articles": 875,
+    "new_articles_in_last_fetch": 875,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -11362,6 +11362,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WEIGHT-LOSS DRUG BOOM RESIZES AMERICA'S CLOTHING INDUSTRY 🚀\n\n- GLP-1 drugs like Ozempic reshape Americans' sizes 🩸\n- Apparel stores adapt as more people use weight-loss meds ✂️\n- Resizing of clothing racks due to drugs like Zepbound 💊\n- Impact of drugs like Wegovy and Mounjaro on clothing industry 🧵\n- Surprising changes seen in clothing sizes due to weight-loss meds 👗\n\nTAKEAWAY: The boom in weight-loss drugs like Ozempic and others is reshaping America's clothing industry, leading to surprising changes in sizes.",
       "exported_at": "2025-09-12T07:32:29.251391",
+      "continuous_session": true
+    },
+    {
+      "title": "S&amp;P 500 futures slip after big rally this week as Fed decision looms: Live updates",
+      "link": "https://www.cnbc.com/2025/09/11/stock-market-today-live-updates.html",
+      "summary": "Stocks had a winning session Thursday with all three major averages logging fresh closing highs.",
+      "published": "Fri, 12 Sep 2025 11:33:46 GMT",
+      "content": "Stocks had a winning session Thursday with all three major averages logging fresh closing highs.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "df8e340dc9fdc1e5a163d388a026d99a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK FUTURES FLAT DESPITE RATE-CUT HOPES 📈\n\n- Market hit new highs after winning session Thursday 📈\n- All major averages closed at fresh record levels ✨\n- Investor optimism fueled by hopes of rate cuts 🎯\n- Stock futures remain stable despite previous highs 💼\n\nTAKEAWAY: Despite hopes for rate cuts driving market to new highs, stock futures remain flat, hinting at cautious investor sentiment.",
+      "exported_at": "2025-09-12T07:37:34.974340",
       "continuous_session": true
     }
   ]
