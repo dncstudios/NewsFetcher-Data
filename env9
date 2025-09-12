@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-12T16:33:41.672054",
-    "total_articles": 931,
-    "new_articles_in_last_fetch": 931,
+    "created_at": "2025-09-12T16:59:17.470866",
+    "total_articles": 933,
+    "new_articles_in_last_fetch": 933,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -12101,6 +12101,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: RAM CANCELS ALL-ELECTRIC PICKUP TRUCK PLANS 🚫\n\n- Ram shifts focus to extended-range electric truck 🚗⚡️\n- New truck to feature electric generator and gas engine ⚙️\n- Decision made to prioritize different EV technology 🔄\n\nTAKEAWAY: Ram's pivot from all-electric to extended-range electric truck showcases a strategic shift towards innovative EV technology.",
       "exported_at": "2025-09-12T16:33:41.594350",
+      "continuous_session": true
+    },
+    {
+      "title": "Massachusetts sues Kalshi alleging illegal sports gambling",
+      "link": "https://www.cnbc.com/2025/09/12/massachusetts-sues-kalshi-sports-gambling.html",
+      "summary": "Massachusetts argues Kalshi is making more money on sports wagers than legal, licensed sportsbooks.",
+      "published": "Fri, 12 Sep 2025 20:54:59 GMT",
+      "content": "Massachusetts argues Kalshi is making more money on sports wagers than legal, licensed sportsbooks.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "06e2b304a92afcbf4269756d6374c35a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MASSACHUSETTS SUES KALSHI FOR ILLEGAL SPORTS GAMBLING ⚠️\n\n- Massachusetts claims Kalshi profits exceed legal sportsbooks 📈\n- Allegations suggest Kalshi engages in illegal sports wagering 💰\n- Legal action taken due to concerns over Kalshi's activities 📊\n\nTAKEAWAY: Massachusetts takes legal action against Kalshi for allegedly profiting more from sports wagers than licensed sportsbooks, raising concerns over illegal gambling activities.",
+      "exported_at": "2025-09-12T16:59:17.460125",
+      "continuous_session": true
+    },
+    {
+      "title": "Benioff says he&apos;s &apos;inspired&apos; by Palantir, but takes another jab at its prices",
+      "link": "https://www.cnbc.com/2025/09/12/benioff-says-hes-inspired-by-palantir-but-calls-out-its-prices.html",
+      "summary": "Palantir is one-tenth the size of Salesforce by revenue, but its market cap is 66% larger than that of Salesforce.",
+      "published": "Fri, 12 Sep 2025 20:57:25 GMT",
+      "content": "Palantir is one-tenth the size of Salesforce by revenue, but its market cap is 66% larger than that of Salesforce.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "100ccfeb2cd4ca26eeef619df22deaf9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BENIOFF INSPIRED BY PALANTIR, CRITICIZES PRICES 🚀\n\n- Palantir 1/10 size of Salesforce by revenue 📊\n- Palantir's market cap 66% larger than Salesforce's 📈\n- Benioff praises Palantir's innovation 🔍\n- Benioff takes jab at Palantir's high prices 💰\n\nTAKEAWAY: Despite size differences, Benioff finds inspiration in Palantir's innovation but criticizes its pricing strategies.",
+      "exported_at": "2025-09-12T16:59:17.460133",
       "continuous_session": true
     }
   ]
