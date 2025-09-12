@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-12T11:11:45.189959",
-    "total_articles": 901,
-    "new_articles_in_last_fetch": 901,
+    "created_at": "2025-09-12T11:21:59.076298",
+    "total_articles": 902,
+    "new_articles_in_last_fetch": 902,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -11711,6 +11711,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TROUBLE LOOMS IN STUDENT AND AUTO LOANS MARKET ⚠️\n\n- Larry McDonald warns of trouble in student loan and auto lending markets\n- Signs of distress could lead to larger economic issues 📉\n- Increasing concerns about potential ripple effects 🌊\n- Market turbulence raises red flags 🚩\n- Larry McDonald highlights risks in student and auto loans 💸\n- Potential impact on overall economy 📉\n\nTAKEAWAY: Larry McDonald's warning about trouble in student and auto loans markets signals potential economic distress and ripple effects ahead.",
       "exported_at": "2025-09-12T11:11:45.113597",
+      "continuous_session": true
+    },
+    {
+      "title": "Tether reveals new stablecoin, appoints Bo Hines, former White House advisor, to lead U.S. business",
+      "link": "https://www.cnbc.com/2025/09/12/tether-reveals-new-stablecoin-appoints-bo-hines-to-lead-us-business-.html",
+      "summary": "Tether, the issuer of the largest stablecoin, has named a CEO for its U.S. business and is launching a new token for U.S. institutions.",
+      "published": "Fri, 12 Sep 2025 15:18:34 GMT",
+      "content": "Tether, the issuer of the largest stablecoin, has named a CEO for its U.S. business and is launching a new token for U.S. institutions.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d53870a54b022c0e40af896f94c3c4a0",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TETHER LAUNCHES NEW STABLECOIN, APPOINTS FORMER WHITE HOUSE ADVISOR AS CEO 🚀\n\n- Tether appoints Bo Hines, ex-White House advisor, to lead U.S. business 🌟\n- Launching a new token catering to U.S. institutions 🇺🇸\n- Expansion strategy aimed at strengthening presence in the U.S. market 📈\n\nTAKEAWAY: Tether's strategic move to introduce a new stablecoin and appoint a seasoned leader like Bo Hines signifies a bold step towards expanding their reach in the U.S., potentially fueling growth.",
+      "exported_at": "2025-09-12T11:21:59.006904",
       "continuous_session": true
     }
   ]
