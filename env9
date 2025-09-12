@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-12T08:58:59.930827",
-    "total_articles": 881,
-    "new_articles_in_last_fetch": 881,
+    "created_at": "2025-09-12T09:04:12.139333",
+    "total_articles": 884,
+    "new_articles_in_last_fetch": 884,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -11452,6 +11452,45 @@
       "hash": "ce0bdebda185b900a449871c66a0f17b",
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "exported_at": "2025-09-12T08:58:59.920669",
+      "continuous_session": true
+    },
+    {
+      "title": "3 underappreciated smaller stocks that can surge in the final leg of 2025, per Morgan Stanley traders",
+      "link": "https://www.cnbc.com/2025/09/12/3-underappreciated-stocks-that-can-surge-into-the-end-of-2025-per-morgan-stanley-traders.html",
+      "summary": "Smaller stocks that could win big in the latter half of the year include Wayfair and Cinemark.",
+      "published": "Fri, 12 Sep 2025 12:58:21 GMT",
+      "content": "Smaller stocks that could win big in the latter half of the year include Wayfair and Cinemark.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "43c06a97f75d4270561d5e69934e11fd",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 3 UNDERVALUED STOCKS SET TO SOAR IN 2025 🚀\n\n- Morgan Stanley traders predict surge for Wayfair and Cinemark 📈\n- Wayfair and Cinemark among underappreciated stocks to watch 🧐\n- Potential for significant growth in latter half of 2025 🔥\n\nTAKEAWAY: Morgan Stanley traders highlight Wayfair and Cinemark as underappreciated stocks with the potential to surge in the latter part of 2025.",
+      "exported_at": "2025-09-12T09:04:12.067315",
+      "continuous_session": true
+    },
+    {
+      "title": "Fintech firm Lendbuzz to file for IPO",
+      "link": "https://www.cnbc.com/2025/09/12/fintech-firm-lendbuzz-ipo.html",
+      "summary": "Lendbuzz is looking to go public amid a wave of fellow fintech companies.",
+      "published": "Fri, 12 Sep 2025 13:03:45 GMT",
+      "content": "Lendbuzz is looking to go public amid a wave of fellow fintech companies.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "80c8d31687400b82d3879e20278d4067",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FINTECH FIRM LEND BUZZ TO FILE FOR IPO 🚀\n\n- Lendbuzz joins fintech IPO trend 💼\n- Entering public market amid industry wave 🌊\n- Company set to file for IPO 📈\n- Riding the momentum of fintech sector 🔥\n\nTAKEAWAY: Lendbuzz's decision to go public aligns with the current trend in the fintech industry, capitalizing on the wave of IPOs in the sector.",
+      "exported_at": "2025-09-12T09:04:12.067372",
+      "continuous_session": true
+    },
+    {
+      "title": "Here are the 10 things we&apos;re watching in the stock market Friday",
+      "link": "https://www.cnbc.com/2025/09/12/here-are-the-10-things-were-watching-in-the-stock-market-friday.html",
+      "summary": "Markets were relatively muted on Friday. But it has been a strong week for stocks.",
+      "published": "Fri, 12 Sep 2025 12:56:20 GMT",
+      "content": "Markets were relatively muted on Friday. But it has been a strong week for stocks.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a3f4a904f848680d9d2423979b4ecd24",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: HERE ARE THE 10 THINGS TO WATCH IN THE STOCK MARKET FRIDAY 🚀\n\n- Friday's market showing muted activity 📉\n- Despite calm, stocks had a robust week 📈\n- Investors eyeing market movement for potential shifts 🧐\n\nTAKEAWAY: While Friday's stock market appears quiet, the strong performance throughout the week keeps investors attentive to potential changes.",
+      "exported_at": "2025-09-12T09:04:12.067386",
       "continuous_session": true
     }
   ]
