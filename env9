@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-12T04:14:00.974741",
-    "total_articles": 861,
-    "new_articles_in_last_fetch": 861,
+    "created_at": "2025-09-12T05:25:01.472942",
+    "total_articles": 862,
+    "new_articles_in_last_fetch": 862,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -11193,6 +11193,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SK HYNIX SOARS WITH NEXT-GEN MEMORY CHIPS LAUNCH 🚀\n\n- SK Hynix set to mass produce cutting-edge memory chips\n- Announcement triggers surge in SK Hynix's stock price 🔥\n- Company stays ahead in the competitive chip market ✅\n- Next-gen chips promise high performance and speed 🚀\n- SK Hynix's move signals innovation and market leadership ⚡️\n- Competitors likely to face pressure to keep up with technology advancements 🚨\n\nTAKEAWAY: SK Hynix's launch of next-gen memory chips propels them ahead in the market, setting a new standard for speed and performance while putting pressure on competitors to innovate.",
       "exported_at": "2025-09-12T04:14:00.905177",
+      "continuous_session": true
+    },
+    {
+      "title": "Microsoft sidesteps hefty EU fine with Teams unbundling deal",
+      "link": "https://www.cnbc.com/2025/09/12/microsoft-avoids-big-fine-as-eu-accepts-deal-to-unbundle-teams.html",
+      "summary": "The European Commission last year accused Microsoft of breaching competition rules with the \"abusive\" bundling of its Teams and Office products.",
+      "published": "Fri, 12 Sep 2025 09:13:31 GMT",
+      "content": "The European Commission last year accused Microsoft of breaching competition rules with the \"abusive\" bundling of its Teams and Office products.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "29eae7280f0ac172d3f829c167f0ad57",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MICROSOFT AVOIDS EU FINE BY UNBUNDLING TEAMS ⚠️\n\n- European Commission accuses Microsoft of breaching competition rules\n- Teams and Office products unbundled to address \"abusive\" bundling\n- Microsoft sidesteps hefty EU fine with unbundling deal\n\nTAKEAWAY: Microsoft escapes a hefty EU fine by unbundling Teams and Office products following accusations of breaching competition rules.",
+      "exported_at": "2025-09-12T05:25:01.399010",
       "continuous_session": true
     }
   ]
