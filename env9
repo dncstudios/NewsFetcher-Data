@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-12T11:27:08.214593",
-    "total_articles": 904,
-    "new_articles_in_last_fetch": 904,
+    "created_at": "2025-09-12T11:32:18.540686",
+    "total_articles": 905,
+    "new_articles_in_last_fetch": 905,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -11750,6 +11750,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WE'RE BUYING THE DIP TO BUILD UP OUR NEWEST STOCK POSITION 🚀\n\n- CEO's update on orders doesn't alter our investment strategy ✅\n- Seizing the opportunity to strengthen our stock position 💪\n- Market dip seen as a chance to enhance our portfolio 📈\n- Remaining confident in our investment thesis 💼\n\nTAKEAWAY: Leveraging the market dip to fortify our newest stock position as we stay committed to our investment strategy.",
       "exported_at": "2025-09-12T11:27:08.203764",
+      "continuous_session": true
+    },
+    {
+      "title": "Tether reveals new stablecoin, appoints Bo Hines, former White House advisor, to lead U.S. business",
+      "link": "https://www.cnbc.com/2025/09/12/tether-reveals-new-stablecoin-appoints-bo-hines-to-lead-us-business-.html",
+      "summary": "Tether, the issuer of the largest stablecoin, has named a CEO for its U.S. business and is launching a new token for U.S. institutions dubbed USAT.",
+      "published": "Fri, 12 Sep 2025 15:28:49 GMT",
+      "content": "Tether, the issuer of the largest stablecoin, has named a CEO for its U.S. business and is launching a new token for U.S. institutions dubbed USAT.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "28606d2940e1e0445fd013ac109d86d9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TETHER LAUNCHES USAT STABLECOIN, APPOINTS FORMER WHITE HOUSE ADVISOR 🚀\n\n- Tether appoints Bo Hines, ex-White House advisor, as CEO 🌟\n- USAT stablecoin introduced for U.S. institutions 🇺🇸\n- Move aims to strengthen Tether's presence in the U.S. market ✅\n- Bo Hines to lead Tether's business operations in the U.S. 🚀\n- USAT designed for institutions seeking a stable digital asset 💰\n\nTAKEAWAY: Tether's strategic move with USAT and appointment of Bo Hines signals a focused expansion in the U.S. market, targeting institutional demand for stablecoins.",
+      "exported_at": "2025-09-12T11:32:18.468666",
       "continuous_session": true
     }
   ]
