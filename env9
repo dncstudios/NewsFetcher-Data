@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-12T05:25:01.472942",
-    "total_articles": 862,
-    "new_articles_in_last_fetch": 862,
+    "created_at": "2025-09-12T05:50:26.514648",
+    "total_articles": 863,
+    "new_articles_in_last_fetch": 863,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -11206,6 +11206,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: MICROSOFT AVOIDS EU FINE BY UNBUNDLING TEAMS ⚠️\n\n- European Commission accuses Microsoft of breaching competition rules\n- Teams and Office products unbundled to address \"abusive\" bundling\n- Microsoft sidesteps hefty EU fine with unbundling deal\n\nTAKEAWAY: Microsoft escapes a hefty EU fine by unbundling Teams and Office products following accusations of breaching competition rules.",
       "exported_at": "2025-09-12T05:25:01.399010",
+      "continuous_session": true
+    },
+    {
+      "title": "GE Vernova&apos;s wind business faces a rocky future, and Southwest gives Boeing shares a lift",
+      "link": "https://www.cnbc.com/2025/09/11/ge-vernovas-wind-business-faces-a-rocky-future-and-southwest-gives-boeing-shares-a-lift.html",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "published": "Thu, 11 Sep 2025 18:21:50 GMT",
+      "content": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5dfd087c9a99d4ccc121b6595746591e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GE VERNOVA'S WIND TROUBLES & SOUTHWEST BOOSTS BOEING 🚨\n\n- GE Vernova's wind business outlook uncertain 🌬️\n- Southwest Airlines raises Boeing shares 📈\n- Investing Club's Homestretch offers timely trading insights ⏰\n\nTAKEAWAY: GE Vernova's wind sector faces challenges while Southwest's move lifts Boeing shares, as Investing Club's Homestretch provides afternoon trading guidance.",
+      "exported_at": "2025-09-12T05:50:26.449083",
       "continuous_session": true
     }
   ]
