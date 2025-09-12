@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-12T18:05:28.402993",
-    "total_articles": 936,
-    "new_articles_in_last_fetch": 936,
+    "created_at": "2025-09-12T18:46:05.525663",
+    "total_articles": 937,
+    "new_articles_in_last_fetch": 937,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -12166,6 +12166,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BLACKROCK'S RIEDER INTERVIEWS FOR FED CHAIR ROLE 🚀\n\n- White House explores BlackRock's Rieder for Fed chair 🏛️\n- Search for next Federal Reserve head remains dynamic 🔄\n- Uncertainty looms over the selection process 🤷‍♂️\n\nTAKEAWAY: BlackRock's Rieder adds a new twist to the search for the next Federal Reserve chair, injecting more dynamism and uncertainty into the selection process.",
       "exported_at": "2025-09-12T18:05:28.324572",
+      "continuous_session": true
+    },
+    {
+      "title": "Tim Cook explains why Apple is investing heavily in Corning&apos;s glass factory",
+      "link": "https://www.cnbc.com/2025/09/12/tim-cook-explains-why-apple-is-investing-heavily-in-cornings-glass-factory.html",
+      "summary": "Apple CEO Tim Cook told CNBC's Jim Cramer why his company is investing $2.5 billion to manufacture glass in Corning's Kentucky factory.",
+      "published": "Fri, 12 Sep 2025 22:41:08 GMT",
+      "content": "Apple CEO Tim Cook told CNBC's Jim Cramer why his company is investing $2.5 billion to manufacture glass in Corning's Kentucky factory.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fc370855477ca101c76955b005b273a4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TIM COOK REVEALS APPLE'S $2.5B INVESTMENT IN CORNING'S GLASS FACTORY 🚀\n\n- Apple CEO Tim Cook discloses $2.5 billion investment in Corning's Kentucky factory 💰\n- Strategic move to manufacture glass for Apple products 📱\n- Enhancing supply chain and securing quality control 🔒\n- Strengthening partnership with Corning for innovative technologies 🌟\n- Investment to boost local economy in Kentucky 📈\n- Apple's commitment to domestic manufacturing and job creation 🇺🇸\n\nTAKEAWAY: Tim Cook's $2.5 billion investment in Corning's glass factory showcases Apple's dedication to innovation, supply chain optimization, and boosting the local economy in Kentucky.",
+      "exported_at": "2025-09-12T18:46:05.514420",
       "continuous_session": true
     }
   ]
