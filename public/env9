@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T21:53:28.244264",
-    "total_articles": 848,
-    "new_articles_in_last_fetch": 848,
+    "created_at": "2025-09-11T22:28:55.865953",
+    "total_articles": 849,
+    "new_articles_in_last_fetch": 849,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -11024,6 +11024,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CHINA WARNS MEXICO ON TARIFFS, THREATENS COUNTERMEASURES ⚠️\n\n- China warns Mexico against tariff hikes 🇨🇳🇲🇽\n- Threatens countermeasures if tariffs raised 🔥\n- Trade tensions escalate amidst U.S. trade war 📈\n- China restricts critical mineral exports for car production 🚗\n- Mexico faces potential retaliation from China ⚠️\n- Uncertainty looms over Mexico's tariff decisions 🤔\n\nTAKEAWAY: China's warning to Mexico over tariff hikes intensifies trade tensions, raising concerns about potential countermeasures and economic impact.",
       "exported_at": "2025-09-11T21:53:28.174459",
+      "continuous_session": true
+    },
+    {
+      "title": "SK Hynix shares soar to 25-year highs on high-end chip breakthrough",
+      "link": "https://www.cnbc.com/2025/09/12/asia-pacific-markets-nikkei-225-kospi-nifty-50.html",
+      "summary": "Equities in several parts of the world have been rallying as easing inflation pressures and expectations for U.S. rate cuts boost investor sentiment.",
+      "published": "Fri, 12 Sep 2025 02:26:25 GMT",
+      "content": "Equities in several parts of the world have been rallying as easing inflation pressures and expectations for U.S. rate cuts boost investor sentiment.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c236a8055bbf173895715e347da7673a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASIA-PACIFIC MARKETS RISE, FOLLOWING WALL STREET 🚀\n\n- Global equities rally on easing inflation and rate cut hopes 🌏\n- Asia-Pacific markets trade higher, mirroring Wall Street gains 📈\n- Investor sentiment boosted by positive market trends 📊\n\nTAKEAWAY: Asia-Pacific markets join the global rally as easing inflation and expectations for U.S. rate cuts drive investor optimism and market performance.",
+      "exported_at": "2025-09-11T22:28:55.793708",
       "continuous_session": true
     }
   ]
