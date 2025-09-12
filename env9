@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-12T13:29:40.988942",
-    "total_articles": 917,
-    "new_articles_in_last_fetch": 917,
+    "created_at": "2025-09-12T13:45:00.364731",
+    "total_articles": 918,
+    "new_articles_in_last_fetch": 918,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -11919,6 +11919,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BUY THIS PACKAGING STOCK PRIMED FOR RECOVERY 🚀\n\n- Carter Worth recommends purchasing packaging stock 📈\n- Stock shows strong technical outlook for recovery 💪\n- Analyst predicts positive growth potential 📈\n- Packaging stock positioned well for a rebound 📈\n- Expert analysis suggests stock is a promising buy 💼\n- Technical indicators point towards stock's recovery 📊\n\nTAKEAWAY: Packaging stock is set for a strong recovery according to Carter Worth's technical analysis, making it a promising investment opportunity.",
       "exported_at": "2025-09-12T13:29:40.918066",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves midday: IonQ, Warner Bros. Discovery, RH, Adobe and more",
+      "link": "https://www.cnbc.com/2025/09/12/stocks-making-the-biggest-moves-midday-ionq-wbd-rh-adbe-and-more.html",
+      "summary": "These are some of the notable stocks posting the largest midday moves.",
+      "published": "Fri, 12 Sep 2025 16:57:39 GMT",
+      "content": "These are some of the notable stocks posting the largest midday moves.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2756a1966904ff897ca206317fb88719",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS MAKING BIGGEST MOVES MIDDAY: IONQ, WARNER BROS. DISCOVERY, RH, ADOBE 🚀\n\n- IonQ, Warner Bros. Discovery, RH, Adobe show significant midday movement 📈\n- Investors closely watch these notable stock performances 🧐\n- Volatility and momentum drive midday trading activity 📈🔥\n- Market analysts analyze reasons behind these substantial moves 📊\n- Investors anticipate potential impact on broader market trends 📉⚡️\n\nTAKEAWAY: IonQ, Warner Bros. Discovery, RH, and Adobe experience substantial midday movements, attracting investor attention and market analysis for potential broader market implications.",
+      "exported_at": "2025-09-12T13:45:00.352742",
       "continuous_session": true
     }
   ]
