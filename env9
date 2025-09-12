@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-12T07:11:58.868077",
-    "total_articles": 870,
-    "new_articles_in_last_fetch": 870,
+    "created_at": "2025-09-12T07:22:11.583229",
+    "total_articles": 872,
+    "new_articles_in_last_fetch": 872,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -11310,6 +11310,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ULTRA-RICH FAMILIES EYE SPORTS INVESTMENTS 🚀\n\n- 50% of family offices already invest in sports 🏟️\n- Goldman Sachs survey reveals high interest in sports investments 📈\n- Diverse range of sports investments from major leagues to social clubs ⚽🏌️‍♂️\n- Trend indicates growing appeal of sports for ultra-rich families 💰🌟\n- Sports investments seen as lucrative and engaging for wealthy investors 💼🔝\n- Potential for significant returns in the sports investment sector 💸💡\n\nTAKEAWAY: The shift towards sports investments among ultra-rich families is evident, driven by the potential for high returns and the allure of diverse opportunities in the sports industry. 🌟📈",
       "exported_at": "2025-09-12T07:11:58.817789",
+      "continuous_session": true
+    },
+    {
+      "title": "Nvidia and OpenAI to back major investment in UK AI infrastructure",
+      "link": "https://www.cnbc.com/2025/09/12/nvidia-and-openai-to-back-major-investment-in-uk-ai-infrastructure.html",
+      "summary": "The U.K., like other countries, is courting major U.S. AI players in a bid to boost its own national infrastructure.",
+      "published": "Fri, 12 Sep 2025 11:14:46 GMT",
+      "content": "The U.K., like other countries, is courting major U.S. AI players in a bid to boost its own national infrastructure.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f15e8a394f217142781b2eb896955bdc",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NVIDIA AND OPENAI TO BOOST UK AI INFRASTRUCTURE 🚀\n\n- UK attracts major U.S. AI players for infrastructure boost 🇬🇧\n- Partnership between Nvidia and OpenAI announced 💥\n- Aim to enhance UK's national AI infrastructure 🌐\n- Investment likely to propel UK's tech sector 📈\n- UK joins global trend of AI investment and development ✅\n- Move signifies growing importance of AI for national growth 📊\n\nTAKEAWAY: Nvidia and OpenAI's investment in UK AI infrastructure highlights the country's commitment to boosting its tech sector and staying competitive in the global AI landscape.",
+      "exported_at": "2025-09-12T07:22:11.523776",
+      "continuous_session": true
+    },
+    {
+      "title": "SK Hynix continues monster $80 billion rally as it readies next-gen chips for Nvidia",
+      "link": "https://www.cnbc.com/2025/09/12/sk-hynix-hbm4-chips-nvidia-samsung-micron.html",
+      "summary": "SK Hynix shares soared Friday as chipmaker announced it was ready to the mass produce its next-generation high-bandwidth memory chips.",
+      "published": "Fri, 12 Sep 2025 11:18:59 GMT",
+      "content": "SK Hynix shares soared Friday as chipmaker announced it was ready to the mass produce its next-generation high-bandwidth memory chips.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "af1f265b00c9a0d5fded4cd69b5be922",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SK HYNIX SOARS WITH NEXT-GEN MEMORY CHIPS LAUNCH 🚀\n\n- SK Hynix set to mass produce cutting-edge memory chips\n- Announcement triggers surge in SK Hynix's stock price 🔥\n- Company stays ahead in the competitive chip market ✅\n- Next-gen chips promise high performance and speed 🚀\n- SK Hynix's move signals innovation and market leadership ⚡️\n- Competitors likely to face pressure to keep up with technology advancements 🚨\n\nTAKEAWAY: SK Hynix's launch of next-gen memory chips propels them ahead in the market, setting a new standard for speed and performance while putting pressure on competitors to innovate.",
+      "exported_at": "2025-09-12T07:22:11.523811",
       "continuous_session": true
     }
   ]
