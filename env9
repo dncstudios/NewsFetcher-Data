@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-12T14:36:20.106819",
-    "total_articles": 924,
-    "new_articles_in_last_fetch": 924,
+    "created_at": "2025-09-12T14:51:37.838819",
+    "total_articles": 925,
+    "new_articles_in_last_fetch": 925,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -12010,6 +12010,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FED'S POWELL SPEAKS NEXT WEEK: CRUCIAL FOR STOCK MARKET 🚀\n\n- Stock market eagerly awaits Powell's statement 📈\n- Lower rates could boost market surge 📈🔥\n- Risks in the economy are emerging ⚠️📉\n- Investors seek clarity and guidance from Powell 🎯\n- Market's momentum hinges on Powell's words 🚀🔥\n- Powell's speech to impact market direction ⚡️\n\nTAKEAWAY: Federal Reserve Chair Powell's upcoming speech is pivotal for the stock market as investors anticipate clarity on rate cuts and the emerging economic risks.",
       "exported_at": "2025-09-12T14:36:20.089364",
+      "continuous_session": true
+    },
+    {
+      "title": "Gemini, the Winklevoss&apos; crypto exchange, pops more than 20% in Nasdaq debut",
+      "link": "https://www.cnbc.com/2025/09/12/gemini-the-winklevoss-crypto-exchange-pops-in-nasdaq-debut.html",
+      "summary": "Shares of Gemini Space Station soared on Friday after the exchange operator raised $425 million in an initial public offering.",
+      "published": "Fri, 12 Sep 2025 18:50:39 GMT",
+      "content": "Shares of Gemini Space Station soared on Friday after the exchange operator raised $425 million in an initial public offering.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5d765fa25e9513463fcbef3b6458f4fb",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GEMINI'S NASDAQ DEBUT SEES 20% SURGE 🚀\n\n- Gemini's stock skyrockets by over 20% post-Nasdaq debut 📈\n- Exchange raises $425 million in successful IPO 💰\n- Investors flock to Gemini Space Station shares 🚀\n- Nasdaq debut marks a significant milestone for the Winklevoss' exchange 🎯\n- Market responds positively to Gemini's IPO success 🔥\n\nTAKEAWAY: Gemini's impressive 20% surge on Nasdaq debut, coupled with a $425 million IPO raise, signals a strong start for the Winklevoss' crypto exchange.",
+      "exported_at": "2025-09-12T14:51:37.760744",
       "continuous_session": true
     }
   ]
