@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-12T10:25:46.555267",
-    "total_articles": 894,
-    "new_articles_in_last_fetch": 894,
+    "created_at": "2025-09-12T10:30:52.981781",
+    "total_articles": 895,
+    "new_articles_in_last_fetch": 895,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -11620,6 +11620,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: MULTIFAMILY OFFICES EMBRACE COMMERCIAL REAL ESTATE OPPORTUNITIES 🏢\n\n- Realm manages over $12 billion in commercial real estate 💰\n- Specializes in investments within the multifamily office sector 🏠\n- Providing unique opportunities for investors in the market 🌟\n- Demonstrating strength and expertise in managing assets 📈\n- Capitalizing on the potential growth of commercial real estate 📈\n- Offering a diversified portfolio within the sector 🔄\n\nTAKEAWAY: Realm's success in managing over $12 billion in commercial real estate showcases their expertise and offers investors unique opportunities for growth within the sector.",
       "exported_at": "2025-09-12T10:25:46.474710",
+      "continuous_session": true
+    },
+    {
+      "title": "Apple, Google and Meta are trying to perfect a science fiction gadget: The universal translator",
+      "link": "https://www.cnbc.com/2025/09/12/apple-google-meta-universal-translator.html",
+      "summary": "Apple, Google and Meta are capitalizing on advancements in AI to bring new translation features to their latest hardware devices.",
+      "published": "Fri, 12 Sep 2025 14:26:17 GMT",
+      "content": "Apple, Google and Meta are capitalizing on advancements in AI to bring new translation features to their latest hardware devices.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f293ff7111cfa2e2913737b13bc323db",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: APPLE, GOOGLE, META AIM TO PERFECT UNIVERSAL TRANSLATOR 🚀\n\n- Apple, Google, Meta leverage AI for cutting-edge translation tech 🌐\n- New features to be integrated into latest hardware devices 📱💻\n- Advancements in AI key to enhancing translation capabilities 🚀\n- Trio of tech giants at the forefront of universal translator development 🔝\n- Focus on creating seamless and accurate translation experiences ✅🎯\n- Potential to revolutionize communication across languages worldwide 🌍\n\nTAKEAWAY: Apple, Google, and Meta are on a mission to revolutionize communication with their cutting-edge universal translator technology, powered by AI advancements.",
+      "exported_at": "2025-09-12T10:30:52.925645",
       "continuous_session": true
     }
   ]
