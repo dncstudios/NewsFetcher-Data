@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-12T17:04:28.630889",
-    "total_articles": 934,
-    "new_articles_in_last_fetch": 934,
+    "created_at": "2025-09-12T17:55:15.949577",
+    "total_articles": 935,
+    "new_articles_in_last_fetch": 935,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -12140,6 +12140,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: EPA PROPOSES END TO MANDATORY GREENHOUSE GAS REPORTING 🚨\n\n- EPA suggests ending mandatory greenhouse gas reporting program 🌿\n- Proposal aims to eliminate reporting from 8,000 facilities 🏭\n- Program initially created to track emissions and address climate change 🌍\n- EPA rule change could impact transparency of emissions data 📉\n- Environmentalists concerned about potential decrease in emission accountability 🌱\n\nTAKEAWAY: EPA's proposal to halt mandatory greenhouse gas reporting from 8,000 facilities raises concerns about transparency and accountability in emission tracking.",
       "exported_at": "2025-09-12T17:04:28.553713",
+      "continuous_session": true
+    },
+    {
+      "title": "Fed Governor Cook declared her Atlanta property as &apos;vacation home,&apos; documents show: Reuters",
+      "link": "https://www.cnbc.com/2025/09/12/fed-governor-cook-declared-her-atlanta-property-as-vacation-home-documents-show-reuters.html",
+      "summary": "A loan estimate for an Atlanta home purchased by Lisa Cook, the Federal Reserve governor accused of mortgage fraud by the Trump administration, shows that Cook had declared the property as a \"vacation home,\" according to a document reviewed by Reuters.",
+      "published": "Fri, 12 Sep 2025 21:51:12 GMT",
+      "content": "A loan estimate for an Atlanta home purchased by Lisa Cook, the Federal Reserve governor accused of mortgage fraud by the Trump administration, shows that Cook had declared the property as a \"vacation home,\" according to a document reviewed by Reuters.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a16e39de14561d714b84c796be4a94f2",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FED GOVERNOR COOK'S ATLANTA PROPERTY DECLARED AS 'VACATION HOME' 🚨\n\n- Lisa Cook's Atlanta home labeled as \"vacation home\" 🏡\n- Property purchase under scrutiny for mortgage fraud accusation ⚠️\n- Loan estimate document reviewed by Reuters reveals declaration 📑\n- Federal Reserve governor's property declaration raises questions ❓\n\nTAKEAWAY: Federal Reserve Governor Lisa Cook's Atlanta property being classified as a \"vacation home\" amid mortgage fraud accusations intensifies scrutiny and raises concerns about transparency.",
+      "exported_at": "2025-09-12T17:55:15.938640",
       "continuous_session": true
     }
   ]
