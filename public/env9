@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-12T13:50:10.604370",
-    "total_articles": 919,
-    "new_articles_in_last_fetch": 919,
+    "created_at": "2025-09-12T13:55:22.329050",
+    "total_articles": 920,
+    "new_articles_in_last_fetch": 920,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -11945,6 +11945,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCK MARKET DEFIES ODDS WITH CONTINUOUS RALLY 🚀\n\n- Investors remain resilient despite negative economic updates\n- Market continues to surge despite unfavorable news\n- Confidence in long-term market potential drives investor sentiment\n- Resilience in the face of challenges fuels market momentum 🚀\n- Investors focus on opportunity rather than short-term setbacks\n- Market rally showcases investor optimism and determination\n\nTAKEAWAY: Despite negative economic news, the stock market's relentless rally reflects investor resilience, optimism, and focus on long-term growth potential.",
       "exported_at": "2025-09-12T13:50:10.592976",
+      "continuous_session": true
+    },
+    {
+      "title": "Joby and Archer join FAA&apos;s eVTOL pilot testing program",
+      "link": "https://www.cnbc.com/2025/09/12/joby-archer-evtol-testing-faa.html",
+      "summary": "The Federal Aviation Administration announced an air taxi pilot program on Friday, two months after President Donald Trump's executive order.",
+      "published": "Fri, 12 Sep 2025 17:52:52 GMT",
+      "content": "The Federal Aviation Administration announced an air taxi pilot program on Friday, two months after President Donald Trump's executive order.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2ec23a94772201505be315d3c4b2b79e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JOBY & ARCHER SOAR INTO FAA'S eVTOL PILOT TESTING PROGRAM 🚀\n\n- FAA launches air taxi pilot program post-Trump's executive order ✈️\n- Joby and Archer selected to participate in eVTOL testing 🚁\n- Program aims to advance electric vertical takeoff and landing tech ⚡️\n- FAA's move signals commitment to innovative aviation solutions 🌟\n\nTAKEAWAY: Joby and Archer's inclusion in the FAA's eVTOL pilot testing program highlights a step forward in advancing electric aviation technology.",
+      "exported_at": "2025-09-12T13:55:22.318633",
       "continuous_session": true
     }
   ]
