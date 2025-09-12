@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T22:28:55.865953",
-    "total_articles": 849,
-    "new_articles_in_last_fetch": 849,
+    "created_at": "2025-09-11T22:44:12.479064",
+    "total_articles": 850,
+    "new_articles_in_last_fetch": 850,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -11037,6 +11037,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ASIA-PACIFIC MARKETS RISE, FOLLOWING WALL STREET 🚀\n\n- Global equities rally on easing inflation and rate cut hopes 🌏\n- Asia-Pacific markets trade higher, mirroring Wall Street gains 📈\n- Investor sentiment boosted by positive market trends 📊\n\nTAKEAWAY: Asia-Pacific markets join the global rally as easing inflation and expectations for U.S. rate cuts drive investor optimism and market performance.",
       "exported_at": "2025-09-11T22:28:55.793708",
+      "continuous_session": true
+    },
+    {
+      "title": "U.S. warns of response to &apos;witch hunt&apos; after Brazil’s Bolsonaro sentenced to 27 years",
+      "link": "https://www.cnbc.com/2025/09/12/us-warns-of-response-to-witch-hunt-after-brazils-bolsonaro-sentenced-to-27-years.html",
+      "summary": "The chances of a near-term de-escalation between the U.S. and Brazil are low, Morningstar analysts said, adding the bilateral relationship is likely to deteriorate further.",
+      "published": "Fri, 12 Sep 2025 02:36:03 GMT",
+      "content": "The chances of a near-term de-escalation between the U.S. and Brazil are low, Morningstar analysts said, adding the bilateral relationship is likely to deteriorate further.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7a83de129702dd7b34a1551a512c175b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: U.S. ISSUES WARNING OVER BOLSONARO SENTENCING 🚨\n\n- U.S. warns of response to Bolsonaro's 27-year sentence 🔒\n- Analysts predict low chances of near-term de-escalation 📉\n- Bilateral relationship between U.S. and Brazil expected to worsen 🇺🇸🇧🇷\n\nTAKEAWAY: The U.S. issues a stern warning following Bolsonaro's sentencing, with analysts foreseeing a further deterioration in relations between the two countries.",
+      "exported_at": "2025-09-11T22:44:12.423301",
       "continuous_session": true
     }
   ]
