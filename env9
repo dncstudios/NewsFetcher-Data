@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-12T13:55:22.329050",
-    "total_articles": 920,
-    "new_articles_in_last_fetch": 920,
+    "created_at": "2025-09-12T14:00:32.607401",
+    "total_articles": 921,
+    "new_articles_in_last_fetch": 921,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -11958,6 +11958,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JOBY & ARCHER SOAR INTO FAA'S eVTOL PILOT TESTING PROGRAM 🚀\n\n- FAA launches air taxi pilot program post-Trump's executive order ✈️\n- Joby and Archer selected to participate in eVTOL testing 🚁\n- Program aims to advance electric vertical takeoff and landing tech ⚡️\n- FAA's move signals commitment to innovative aviation solutions 🌟\n\nTAKEAWAY: Joby and Archer's inclusion in the FAA's eVTOL pilot testing program highlights a step forward in advancing electric aviation technology.",
       "exported_at": "2025-09-12T13:55:22.318633",
+      "continuous_session": true
+    },
+    {
+      "title": "Gemini, the Winklevoss&apos; crypto exchange, pops more than 40% in Nasdaq debut",
+      "link": "https://www.cnbc.com/2025/09/12/gemini-the-winklevoss-crypto-exchange-pops-in-nasdaq-debut.html",
+      "summary": "Shares of Gemini Space Station soared on Thursday after the exchange operator raised $425 million in an initial public offering.",
+      "published": "Fri, 12 Sep 2025 17:55:05 GMT",
+      "content": "Shares of Gemini Space Station soared on Thursday after the exchange operator raised $425 million in an initial public offering.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7ed94bf5c689dcb89b1de9d47344dd38",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GEMINI CRYPTO EXCHANGE SURGES 40% IN NASDAQ DEBUT 🚀\n\n- Gemini Space Station's shares skyrocket post $425M IPO 💰\n- Nasdaq debut sees impressive 40% surge 📈\n- Market responds positively to exchange operator's performance 🌟\n\nTAKEAWAY: Gemini's remarkable 40% surge on its Nasdaq debut after raising $425 million in an IPO showcases strong market confidence and investor interest in the crypto exchange.",
+      "exported_at": "2025-09-12T14:00:32.530104",
       "continuous_session": true
     }
   ]
