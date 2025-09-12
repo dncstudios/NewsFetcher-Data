@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-12T03:02:59.996672",
-    "total_articles": 859,
-    "new_articles_in_last_fetch": 859,
+    "created_at": "2025-09-12T03:53:42.535227",
+    "total_articles": 860,
+    "new_articles_in_last_fetch": 860,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -11167,6 +11167,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: GEN-Z LEADING AI ADOPTION IN WORKPLACE 🚀\n\n- Gen-Z employees coach older colleagues on AI adoption 🧑‍💼🤖\n- IWG report highlights Gen-Z's role in upskilling on technology 💡\n- AI adoption driven by cross-generational collaboration 🌐\n- Older employees benefit from Gen-Z's expertise in AI 📈\n- Workplace evolution reflects Gen-Z's tech-savvy influence 🔮\n- Collaboration between generations enhances AI integration 🔄\n\nTAKEAWAY: Gen-Z's leadership in AI adoption through coaching older colleagues showcases the power of cross-generational collaboration in driving workplace innovation and technology integration.",
       "exported_at": "2025-09-12T03:02:59.927570",
+      "continuous_session": true
+    },
+    {
+      "title": "European equities trade mixed; Vestas sheds 4% as U.S. snubs offshore wind",
+      "link": "https://www.cnbc.com/2025/09/12/europe-markets-friday-sept-12-stoxx-600-ftse-100-sabadell-bbva.html",
+      "summary": "Regional stocks were mixed on Friday as investors monitored economic data and monetary policy.",
+      "published": "Fri, 12 Sep 2025 07:51:19 GMT",
+      "content": "Regional stocks were mixed on Friday as investors monitored economic data and monetary policy.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "49dcd322a32cbd18f293839bc7bba66a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: EUROPEAN EQUITIES MIXED AS VESTAS DROPS 4% ON U.S. OFFSHORE WIND SNUB 📉\n\n- European stocks show mixed performance on Friday 📊\n- Investors focus on economic data and monetary policy 🧐\n- Vestas shares fall by 4% due to U.S. offshore wind snub ⚠️\n\nTAKEAWAY: European equities experience a mixed trading day, with Vestas facing a 4% drop after the U.S. decision on offshore wind projects.",
+      "exported_at": "2025-09-12T03:53:42.468410",
       "continuous_session": true
     }
   ]
