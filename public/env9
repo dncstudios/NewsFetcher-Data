@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-12T14:00:32.607401",
-    "total_articles": 921,
-    "new_articles_in_last_fetch": 921,
+    "created_at": "2025-09-12T14:10:48.643735",
+    "total_articles": 922,
+    "new_articles_in_last_fetch": 922,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -11971,6 +11971,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: GEMINI CRYPTO EXCHANGE SURGES 40% IN NASDAQ DEBUT 🚀\n\n- Gemini Space Station's shares skyrocket post $425M IPO 💰\n- Nasdaq debut sees impressive 40% surge 📈\n- Market responds positively to exchange operator's performance 🌟\n\nTAKEAWAY: Gemini's remarkable 40% surge on its Nasdaq debut after raising $425 million in an IPO showcases strong market confidence and investor interest in the crypto exchange.",
       "exported_at": "2025-09-12T14:00:32.530104",
+      "continuous_session": true
+    },
+    {
+      "title": "Striking defense workers reject Boeing contract offer",
+      "link": "https://www.cnbc.com/2025/09/12/boeing-contract-defense-workers-strike.html",
+      "summary": "More than 3,000 Boeing workers in Missouri have been striking and voted not to ratify a tentative deal with management, according to the union.",
+      "published": "Fri, 12 Sep 2025 18:09:55 GMT",
+      "content": "More than 3,000 Boeing workers in Missouri have been striking and voted not to ratify a tentative deal with management, according to the union.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f679be65ab18bbaa887ad45ee1cc9e07",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STRIKING BOEING WORKERS IN MISSOURI REJECT CONTRACT OFFER 🚨\n\n- 3,000+ Boeing workers strike, reject management's deal ✊\n- Union announces workers' refusal to ratify tentative agreement 🛑\n- Standoff between employees and Boeing continues ⚔️\n\nTAKEAWAY: Over 3,000 striking Boeing workers in Missouri stand united in rejecting the contract offer, prolonging the standoff with management.",
+      "exported_at": "2025-09-12T14:10:48.633155",
       "continuous_session": true
     }
   ]
