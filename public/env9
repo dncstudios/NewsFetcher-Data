@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-12T12:18:20.819743",
-    "total_articles": 911,
-    "new_articles_in_last_fetch": 911,
+    "created_at": "2025-09-12T12:23:32.615415",
+    "total_articles": 913,
+    "new_articles_in_last_fetch": 913,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -11841,6 +11841,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: APPLE CLOSE TO FORMING BULLISH GOLDEN CROSS PATTERN 🚀\n\n- Apple lags behind Mag-7 peers in performance 📉\n- Potential surge in shares if golden cross pattern emerges 📈\n- Golden cross indicates bullish momentum 📈\n- Stock's performance crucial for pattern formation 📊\n- Market closely watching Apple's stock movement 🧐\n\nTAKEAWAY: Apple's potential formation of the bullish golden cross pattern could lead to a surge in shares, closely monitored by the market for bullish momentum.",
       "exported_at": "2025-09-12T12:18:20.742127",
+      "continuous_session": true
+    },
+    {
+      "title": "Pfizer, Moderna shares fall on report that Trump officials will link child deaths to Covid shots",
+      "link": "https://www.cnbc.com/2025/09/12/pfizer-moderna-shares-fall-on-trump-child-covid-shot-report.html",
+      "summary": "The report says officials plan to include the claim in a presentation next week to a key vaccine panel that advises the CDC on shot access and coverage.",
+      "published": "Fri, 12 Sep 2025 16:21:51 GMT",
+      "content": "The report says officials plan to include the claim in a presentation next week to a key vaccine panel that advises the CDC on shot access and coverage.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "00a3ee4a3c7835984d8a29aeca433a7e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PFIZER, MODERNA SHARES DIP AMID REPORT OF TRUMP OFFICIALS LINKING CHILD DEATHS TO COVID SHOTS ⚠️\n\n- Pfizer, Moderna stocks drop after report on child deaths link 💉📉\n- Trump officials to present claim to CDC vaccine panel next week 📅\n- Market reacts to potential impact on shot access and coverage 📉💼\n- Uncertainty looms over future implications for vaccine policies ❓\n- Investors cautious amidst news of potential negative association ⚠️💰\n- Public awaits CDC panel's response to officials' claim 🧐\n\nTAKEAWAY: Reports of Trump officials planning to link child deaths to Covid shots lead to a drop in Pfizer and Moderna shares amid market uncertainty and investor caution.",
+      "exported_at": "2025-09-12T12:23:32.537444",
+      "continuous_session": true
+    },
+    {
+      "title": "Eli Lilly, Novo Nordisk prepare to face off in the next obesity drug battleground",
+      "link": "https://www.cnbc.com/2025/09/12/obesity-pills-from-eli-lilly-novo-nordisk-near-us-launch.html",
+      "summary": "Eli Lilly and Novo Nordisk are preparing to take their rivalry to the next frontier of weight-loss medication: pills.",
+      "published": "Fri, 12 Sep 2025 16:13:59 GMT",
+      "content": "Eli Lilly and Novo Nordisk are preparing to take their rivalry to the next frontier of weight-loss medication: pills.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "be4e2d70810ba031f8387674602cd136",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ELI LILLY AND NOVO NORDISK SET TO BATTLE IN OBESITY DRUG MARKET ⚡️\n\n- Eli Lilly and Novo Nordisk escalate rivalry to weight-loss pill sector 🏋️‍♂️\n- Companies gear up for competition in the lucrative obesity drug market 💰\n- Focus shifts to developing effective weight-loss medications 💊\n- Pill-based obesity treatments offer new frontier for pharmaceutical giants 🌟\n- Both companies aim to capitalize on the growing demand for weight-loss solutions 📈\n\nTAKEAWAY: Eli Lilly and Novo Nordisk's entry into the weight-loss pill sector intensifies competition and innovation in the obesity drug market.",
+      "exported_at": "2025-09-12T12:23:32.537505",
       "continuous_session": true
     }
   ]
