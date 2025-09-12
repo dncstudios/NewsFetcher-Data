@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-12T16:13:16.699163",
-    "total_articles": 930,
-    "new_articles_in_last_fetch": 930,
+    "created_at": "2025-09-12T16:33:41.672054",
+    "total_articles": 931,
+    "new_articles_in_last_fetch": 931,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -12088,6 +12088,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BLACKROCK'S RICK RIEDER'S STRATEGY FOR FED RATE CUTS 🚀\n\n- Rieder bullish on Big Tech amid Fed rate cuts 📈💰\n- Investing in long-dated municipal bonds 🏛️💵\n- Shared insights at the Future Proof Festival in California 🌟\n\nTAKEAWAY: Rick Rieder's approach involves embracing Big Tech and long-dated municipal bonds amidst the Fed's rate cuts, providing a strategic insight for investors.",
       "exported_at": "2025-09-12T16:13:16.688089",
+      "continuous_session": true
+    },
+    {
+      "title": "Ram cancels plans for all-electric pickup truck",
+      "link": "https://www.cnbc.com/2025/09/12/stellantis-ram-ev-1500-pickup-truck.html",
+      "summary": "Ram said it would still plan to launch an extended-range electric truck, which is equipped with an electric generator and a gas engine.",
+      "published": "Fri, 12 Sep 2025 20:31:25 GMT",
+      "content": "Ram said it would still plan to launch an extended-range electric truck, which is equipped with an electric generator and a gas engine.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8eba13e64757bd70b527d856a399e4da",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: RAM CANCELS ALL-ELECTRIC PICKUP TRUCK PLANS 🚫\n\n- Ram shifts focus to extended-range electric truck 🚗⚡️\n- New truck to feature electric generator and gas engine ⚙️\n- Decision made to prioritize different EV technology 🔄\n\nTAKEAWAY: Ram's pivot from all-electric to extended-range electric truck showcases a strategic shift towards innovative EV technology.",
+      "exported_at": "2025-09-12T16:33:41.594350",
       "continuous_session": true
     }
   ]
