@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-12T14:51:37.838819",
-    "total_articles": 925,
-    "new_articles_in_last_fetch": 925,
+    "created_at": "2025-09-12T15:37:28.280789",
+    "total_articles": 927,
+    "new_articles_in_last_fetch": 927,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -12023,6 +12023,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: GEMINI'S NASDAQ DEBUT SEES 20% SURGE 🚀\n\n- Gemini's stock skyrockets by over 20% post-Nasdaq debut 📈\n- Exchange raises $425 million in successful IPO 💰\n- Investors flock to Gemini Space Station shares 🚀\n- Nasdaq debut marks a significant milestone for the Winklevoss' exchange 🎯\n- Market responds positively to Gemini's IPO success 🔥\n\nTAKEAWAY: Gemini's impressive 20% surge on Nasdaq debut, coupled with a $425 million IPO raise, signals a strong start for the Winklevoss' crypto exchange.",
       "exported_at": "2025-09-12T14:51:37.760744",
+      "continuous_session": true
+    },
+    {
+      "title": "Gemini, the Winklevoss&apos; crypto exchange, pops more than 17% in Nasdaq debut",
+      "link": "https://www.cnbc.com/2025/09/12/gemini-the-winklevoss-crypto-exchange-pops-in-nasdaq-debut.html",
+      "summary": "Shares of Gemini Space Station soared on Friday after the exchange operator raised $425 million in an initial public offering.",
+      "published": "Fri, 12 Sep 2025 19:36:30 GMT",
+      "content": "Shares of Gemini Space Station soared on Friday after the exchange operator raised $425 million in an initial public offering.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9c7f47890585c82894f9091d30d5aba9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GEMINI'S NASDAQ DEBUT SEES 20% SURGE 🚀\n\n- Gemini's stock skyrockets by over 20% post-Nasdaq debut 📈\n- Exchange raises $425 million in successful IPO 💰\n- Investors flock to Gemini Space Station shares 🚀\n- Nasdaq debut marks a significant milestone for the Winklevoss' exchange 🎯\n- Market responds positively to Gemini's IPO success 🔥\n\nTAKEAWAY: Gemini's impressive 20% surge on Nasdaq debut, coupled with a $425 million IPO raise, signals a strong start for the Winklevoss' crypto exchange.",
+      "exported_at": "2025-09-12T15:37:28.217870",
+      "continuous_session": true
+    },
+    {
+      "title": "Winklevoss-founded Gemini soars in latest crypto IPO: CNBC Crypto World",
+      "link": "https://www.cnbc.com/video/2025/09/12/winklevoss-founded-gemini-soars-nasdaq-debut-cnbc-crypto-world.html",
+      "summary": "On today’s episode of CNBC Crypto World, shares of Gemini soar after the exchange operator raised $425 million in an initial public offering. Plus, Tether launches a new token for institutions in the United States. And, Roger Bayston, head of digital assets at Franklin Templeton, breaks down a new partnership between the investment giant and Binance.",
+      "published": "Fri, 12 Sep 2025 19:33:06 GMT",
+      "content": "On today’s episode of CNBC Crypto World, shares of Gemini soar after the exchange operator raised $425 million in an initial public offering. Plus, Tether launches a new token for institutions in the United States. And, Roger Bayston, head of digital assets at Franklin Templeton, breaks down a new partnership between the investment giant and Binance.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1231e7398f7aa54eb4b1ca88844d0140",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GEMINI IPO SOARS, TETHER LAUNCHES NEW TOKEN, BINANCE PARTNERSHIP ⚡️\n\n- Gemini's IPO raises $425 million, driving share prices up 📈\n- Tether introduces new token tailored for US institutions 💼\n- Franklin Templeton collaborates with Binance in a new partnership 🤝\n\nTAKEAWAY: Gemini's successful IPO, Tether's new US-focused token, and Franklin Templeton's partnership with Binance showcase the evolving landscape of the crypto world.",
+      "exported_at": "2025-09-12T15:37:28.217938",
       "continuous_session": true
     }
   ]
