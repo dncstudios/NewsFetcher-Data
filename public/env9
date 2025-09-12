@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T21:38:12.495141",
-    "total_articles": 847,
-    "new_articles_in_last_fetch": 847,
+    "created_at": "2025-09-11T21:53:28.244264",
+    "total_articles": 848,
+    "new_articles_in_last_fetch": 848,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -11011,6 +11011,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CHINA'S WEALTHY EXIT SINGAPORE AMID TIGHTER REGULATIONS 🚨\n\n- China's affluent leaving Singapore due to tightening wealth rules\n- Singapore's appeal: political stability, family-office benefits, independent courts\n- Mandarin fluency among factors attracting China's super-rich\n\nTAKEAWAY: China's wealthy are departing Singapore as wealth regulations tighten, impacting the city-state's appeal despite its attractive features.",
       "exported_at": "2025-09-11T21:38:12.427214",
+      "continuous_session": true
+    },
+    {
+      "title": "China warns Mexico to &apos;think twice&apos; before raising tariffs, threatens countermeasures",
+      "link": "https://www.cnbc.com/2025/09/12/china-mexico-tariff-hike-countermeasures.html",
+      "summary": "In the ongoing trade tensions with the U.S., China's countermeasures have included restrictions on exports of minerals critical to the production of cars.",
+      "published": "Fri, 12 Sep 2025 01:49:50 GMT",
+      "content": "In the ongoing trade tensions with the U.S., China's countermeasures have included restrictions on exports of minerals critical to the production of cars.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a35c98ead865503ca8202795d107d130",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CHINA WARNS MEXICO ON TARIFFS, THREATENS COUNTERMEASURES ⚠️\n\n- China warns Mexico against tariff hikes 🇨🇳🇲🇽\n- Threatens countermeasures if tariffs raised 🔥\n- Trade tensions escalate amidst U.S. trade war 📈\n- China restricts critical mineral exports for car production 🚗\n- Mexico faces potential retaliation from China ⚠️\n- Uncertainty looms over Mexico's tariff decisions 🤔\n\nTAKEAWAY: China's warning to Mexico over tariff hikes intensifies trade tensions, raising concerns about potential countermeasures and economic impact.",
+      "exported_at": "2025-09-11T21:53:28.174459",
       "continuous_session": true
     }
   ]
