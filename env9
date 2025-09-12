@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-12T11:52:47.546770",
-    "total_articles": 909,
-    "new_articles_in_last_fetch": 909,
+    "created_at": "2025-09-12T12:03:01.991179",
+    "total_articles": 910,
+    "new_articles_in_last_fetch": 910,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -11815,6 +11815,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CRAMER'S BULLISH OUTLOOK ON HOME DEPOT AND AMAZON 🚀\n\n- Cramer predicts significant growth potential for Home Depot 📈\n- Amazon shines with promising opportunities according to Cramer ✨\n- Insight shared during the Investing Club's \"Morning Meeting\" ⏰\n\nTAKEAWAY: Cramer's positive outlook on Home Depot and Amazon highlights exciting growth prospects discussed at the Investing Club's \"Morning Meeting.\"",
       "exported_at": "2025-09-12T11:52:47.470832",
+      "continuous_session": true
+    },
+    {
+      "title": "Opendoor board chair Rabois says company is &apos;bloated,&apos; needs to cut 85% of workforce",
+      "link": "https://www.cnbc.com/2025/09/12/opendoors-keith-rabois-company-needs-to-cut-85percent-of-its-workforce.html",
+      "summary": "Keith Rabois was named chairman of Opendoor this week and the company, which he co-founded, hired former Shopify executive Kaz Nejatian as its new CEO.",
+      "published": "Fri, 12 Sep 2025 15:59:22 GMT",
+      "content": "Keith Rabois was named chairman of Opendoor this week and the company, which he co-founded, hired former Shopify executive Kaz Nejatian as its new CEO.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c8dbbadac9f869df152a40f84b0f4fed",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: OPENDOOR CHAIR RABOIS DECLARES NEED TO SLASH 85% OF WORKFORCE 🚨\n\n- Rabois aims to trim 85% of Opendoor's employees\n- Company co-founder brings in new CEO from Shopify\n- Radical moves to streamline Opendoor's operations\n\nTAKEAWAY: Opendoor's new chairman Rabois plans to slash 85% of the workforce in a bold move to streamline operations and drive efficiency.",
+      "exported_at": "2025-09-12T12:03:01.914784",
       "continuous_session": true
     }
   ]
