@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-12T12:33:44.209454",
-    "total_articles": 914,
-    "new_articles_in_last_fetch": 914,
+    "created_at": "2025-09-12T12:38:52.147330",
+    "total_articles": 915,
+    "new_articles_in_last_fetch": 915,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -11880,6 +11880,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CRAMER PREDICTS SURGE FOR GLASS MANUFACTURER PARTNERED WITH NVIDIA, APPLE 🚀\n\n- Jim Cramer sees potential for glass manufacturer's shares to soar 📈\n- Stock trading at levels not seen since 2000, despite partnership with Nvidia, Apple 🍏\n- Strong endorsement from Cramer for company deeply involved in data centers 💪\n\nTAKEAWAY: Cramer's bullish outlook on the glass manufacturer, in partnership with tech giants Nvidia and Apple, hints at substantial growth potential despite historical trading levels.",
       "exported_at": "2025-09-12T12:33:44.144670",
+      "continuous_session": true
+    },
+    {
+      "title": "Apple is close to forming a bullish golden cross chart pattern",
+      "link": "https://www.cnbc.com/2025/09/12/apple-is-close-to-forming-a-bullish-golden-cross-chart-pattern.html",
+      "summary": "Apple is underperforming many of its \"Magnificent Seven\" peers, but its shares could surge if its stock forms the \"golden cross\" pattern.",
+      "published": "Fri, 12 Sep 2025 16:35:23 GMT",
+      "content": "Apple is underperforming many of its \"Magnificent Seven\" peers, but its shares could surge if its stock forms the \"golden cross\" pattern.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e3aabfe8f5f3eddf764fd273516b4a25",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: APPLE NEARS BULLISH GOLDEN CROSS PATTERN 🚀\n\n- Apple lags behind peers but may surge with golden cross pattern 📈\n- Formation of golden cross could signal strong uptrend ahead ⚡️\n- Market watching closely for Apple's chart pattern confirmation 🧐\n\nTAKEAWAY: Apple's potential golden cross pattern could lead to a significant surge, catching up with its \"Magnificent Seven\" peers.",
+      "exported_at": "2025-09-12T12:38:52.069410",
       "continuous_session": true
     }
   ]
