@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-12T05:50:26.514648",
-    "total_articles": 863,
-    "new_articles_in_last_fetch": 863,
+    "created_at": "2025-09-12T06:20:55.784988",
+    "total_articles": 864,
+    "new_articles_in_last_fetch": 864,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -11219,6 +11219,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: GE VERNOVA'S WIND TROUBLES & SOUTHWEST BOOSTS BOEING 🚨\n\n- GE Vernova's wind business outlook uncertain 🌬️\n- Southwest Airlines raises Boeing shares 📈\n- Investing Club's Homestretch offers timely trading insights ⏰\n\nTAKEAWAY: GE Vernova's wind sector faces challenges while Southwest's move lifts Boeing shares, as Investing Club's Homestretch provides afternoon trading guidance.",
       "exported_at": "2025-09-12T05:50:26.449083",
+      "continuous_session": true
+    },
+    {
+      "title": "Stock futures slip after rate-cut hopes send market to new highs: Live updates",
+      "link": "https://www.cnbc.com/2025/09/11/stock-market-today-live-updates.html",
+      "summary": "Stocks had a winning session Thursday with all three major averages logging fresh closing highs.",
+      "published": "Fri, 12 Sep 2025 10:20:19 GMT",
+      "content": "Stocks had a winning session Thursday with all three major averages logging fresh closing highs.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6fc7cd5660eefcaedc4e1a7512afa079",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK FUTURES FLAT DESPITE RATE-CUT HOPES 📈\n\n- Market hit new highs after winning session Thursday 📈\n- All major averages closed at fresh record levels ✨\n- Investor optimism fueled by hopes of rate cuts 🎯\n- Stock futures remain stable despite previous highs 💼\n\nTAKEAWAY: Despite hopes for rate cuts driving market to new highs, stock futures remain flat, hinting at cautious investor sentiment.",
+      "exported_at": "2025-09-12T06:20:55.708210",
       "continuous_session": true
     }
   ]
