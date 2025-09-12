@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-12T16:08:06.659537",
-    "total_articles": 929,
-    "new_articles_in_last_fetch": 929,
+    "created_at": "2025-09-12T16:13:16.699163",
+    "total_articles": 930,
+    "new_articles_in_last_fetch": 930,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -12075,6 +12075,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: GEMINI EXCHANGE SOARS OVER 14% IN NASDAQ DEBUT 🚀\n\n- Gemini's stock surges post IPO, up over 14% 📈\n- Exchange operator raises $425 million in initial public offering 💰\n- Market responds positively to Gemini's debut on Nasdaq 🎉\n\nTAKEAWAY: Gemini, the Winklevoss' crypto exchange, takes off with over 14% surge in its Nasdaq debut, raising $425 million in its successful IPO.",
       "exported_at": "2025-09-12T16:08:06.648505",
+      "continuous_session": true
+    },
+    {
+      "title": "BlackRock&apos;s Rick Rieder: What portfolio works best as the Fed cuts rates",
+      "link": "https://www.cnbc.com/video/2025/09/12/blackrocks-rick-rieder-at-future-proof-what-portfolio-works-best-as-the-fed-cuts-rates.html",
+      "summary": "Rieder, a widely followed investor on Wall Street, said in a panel at the Future Proof Festival in Huntington Beach, Calif.. that he's bullish on Big Tech and he's also been buying long-dated municipal bonds.",
+      "published": "Fri, 12 Sep 2025 20:05:55 GMT",
+      "content": "Rieder, a widely followed investor on Wall Street, said in a panel at the Future Proof Festival in Huntington Beach, Calif.. that he's bullish on Big Tech and he's also been buying long-dated municipal bonds.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "cab8d8e1bcb83fcc983e5ea43e0fe06e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BLACKROCK'S RICK RIEDER'S STRATEGY FOR FED RATE CUTS 🚀\n\n- Rieder bullish on Big Tech amid Fed rate cuts 📈💰\n- Investing in long-dated municipal bonds 🏛️💵\n- Shared insights at the Future Proof Festival in California 🌟\n\nTAKEAWAY: Rick Rieder's approach involves embracing Big Tech and long-dated municipal bonds amidst the Fed's rate cuts, providing a strategic insight for investors.",
+      "exported_at": "2025-09-12T16:13:16.688089",
       "continuous_session": true
     }
   ]
