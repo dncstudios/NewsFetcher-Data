@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-11T22:44:12.479064",
-    "total_articles": 850,
-    "new_articles_in_last_fetch": 850,
+    "created_at": "2025-09-11T23:24:43.967995",
+    "total_articles": 851,
+    "new_articles_in_last_fetch": 851,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -11050,6 +11050,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: U.S. ISSUES WARNING OVER BOLSONARO SENTENCING 🚨\n\n- U.S. warns of response to Bolsonaro's 27-year sentence 🔒\n- Analysts predict low chances of near-term de-escalation 📉\n- Bilateral relationship between U.S. and Brazil expected to worsen 🇺🇸🇧🇷\n\nTAKEAWAY: The U.S. issues a stern warning following Bolsonaro's sentencing, with analysts foreseeing a further deterioration in relations between the two countries.",
       "exported_at": "2025-09-11T22:44:12.423301",
+      "continuous_session": true
+    },
+    {
+      "title": "Rich Chinese are exiting Singapore as wealth regulations tighten: &apos;my patience is gone&apos;",
+      "link": "https://www.cnbc.com/2025/09/12/singapore-wealth-hub-loses-shine-for-china-rich-hong-kong-dubai-tokyo-japan.html",
+      "summary": "Political stability, a favorable family-office regime, independent courts, and Mandarin fluency made Singapore a natural draw for China's super-rich.",
+      "published": "Fri, 12 Sep 2025 03:23:20 GMT",
+      "content": "Political stability, a favorable family-office regime, independent courts, and Mandarin fluency made Singapore a natural draw for China's super-rich.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4cbcc04a71c95281ab83eeb188da07bc",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CHINA'S WEALTHY EXIT SINGAPORE AMID TIGHTER REGULATIONS 🚨\n\n- China's affluent leaving Singapore due to tightening wealth rules\n- Singapore's appeal: political stability, family-office benefits, independent courts\n- Mandarin fluency among factors attracting China's super-rich\n\nTAKEAWAY: China's wealthy are departing Singapore as wealth regulations tighten, impacting the city-state's appeal despite its attractive features.",
+      "exported_at": "2025-09-11T23:24:43.893203",
       "continuous_session": true
     }
   ]
