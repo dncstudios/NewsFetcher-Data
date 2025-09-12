@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-12T06:41:19.144282",
-    "total_articles": 866,
-    "new_articles_in_last_fetch": 866,
+    "created_at": "2025-09-12T06:46:27.888679",
+    "total_articles": 867,
+    "new_articles_in_last_fetch": 867,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -11258,6 +11258,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: THESE 'CASH RICH' STOCKS POISED FOR SUCCESS, SAYS MORGAN STANLEY 🚀\n\n- Morgan Stanley highlights cash-rich stocks' resilience 💪\n- These companies well-prepared for potential market downturn 📉\n- Analysts optimistic about performance amid looming uncertainty ✨\n\nTAKEAWAY: Cash-rich stocks identified by Morgan Stanley are well-positioned to thrive, offering resilience in the face of a potential market downturn.",
       "exported_at": "2025-09-12T06:41:19.132714",
+      "continuous_session": true
+    },
+    {
+      "title": "How Russia’s ‘salami-slicing’ strategy is testing the West",
+      "link": "https://www.cnbc.com/2025/09/12/ukraine-war-how-russias-salami-strategy-is-testing-nato-and-the-west.html",
+      "summary": "Salami-slicing refers to the war games tactic of taking incremental steps to achieve strategic goals, without provoking a major counter response.",
+      "published": "Fri, 12 Sep 2025 10:22:34 GMT",
+      "content": "Salami-slicing refers to the war games tactic of taking incremental steps to achieve strategic goals, without provoking a major counter response.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3b8e0bc47c8b92e11aa7c2ea1ecc64ee",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: RUSSIA'S 'SALAMI-SLICING' STRATEGY TESTS THE WEST 🚀\n\n- Russia employs incremental tactics to achieve strategic goals 🕵️‍♂️\n- Avoids major reactions while advancing its agenda 🌐\n- Approach challenges Western powers to respond effectively 💪\n\nTAKEAWAY: Russia's 'salami-slicing' strategy poses a significant challenge to Western powers, testing their ability to respond strategically without escalating tensions.",
+      "exported_at": "2025-09-12T06:46:27.819956",
       "continuous_session": true
     }
   ]
