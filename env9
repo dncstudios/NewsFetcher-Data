@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-12T06:26:01.791669",
-    "total_articles": 865,
-    "new_articles_in_last_fetch": 865,
+    "created_at": "2025-09-12T06:41:19.144282",
+    "total_articles": 866,
+    "new_articles_in_last_fetch": 866,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -11245,6 +11245,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCK FUTURES FLAT DESPITE RATE-CUT HOPES 📈\n\n- Market hit new highs after winning session Thursday 📈\n- All major averages closed at fresh record levels ✨\n- Investor optimism fueled by hopes of rate cuts 🎯\n- Stock futures remain stable despite previous highs 💼\n\nTAKEAWAY: Despite hopes for rate cuts driving market to new highs, stock futures remain flat, hinting at cautious investor sentiment.",
       "exported_at": "2025-09-12T06:26:01.716375",
+      "continuous_session": true
+    },
+    {
+      "title": "These &apos;cash rich&apos; stocks can ride out any market downturn, says Morgan Stanley",
+      "link": "https://www.cnbc.com/2025/09/12/these-cash-rich-stocks-can-ride-out-any-market-downturn-says-morgan-stanley.html",
+      "summary": "Morgan Stanley analysts these cash-rich companies' stocks are poised to perform well, even as the possibility of a broader market downturn looms.",
+      "published": "Fri, 12 Sep 2025 10:39:13 GMT",
+      "content": "Morgan Stanley analysts these cash-rich companies' stocks are poised to perform well, even as the possibility of a broader market downturn looms.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e02b8061ffc1e595c283d3c455a28ae6",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: THESE 'CASH RICH' STOCKS POISED FOR SUCCESS, SAYS MORGAN STANLEY 🚀\n\n- Morgan Stanley highlights cash-rich stocks' resilience 💪\n- These companies well-prepared for potential market downturn 📉\n- Analysts optimistic about performance amid looming uncertainty ✨\n\nTAKEAWAY: Cash-rich stocks identified by Morgan Stanley are well-positioned to thrive, offering resilience in the face of a potential market downturn.",
+      "exported_at": "2025-09-12T06:41:19.132714",
       "continuous_session": true
     }
   ]
