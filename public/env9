@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-12T08:28:29.591563",
-    "total_articles": 879,
-    "new_articles_in_last_fetch": 879,
+    "created_at": "2025-09-12T08:38:41.856363",
+    "total_articles": 880,
+    "new_articles_in_last_fetch": 880,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -11427,6 +11427,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ETF DEMAND SOARS AS INVESTORS MAKE BIG MISTAKES 🚀\n\n- Investors flock to ETFs for low costs and tax advantages 📉💰\n- Yet, experts warn about common ETF pitfalls ⚠️📉\n- Mistakes include neglecting due diligence and overtrading 💸🔄\n\nTAKEAWAY: ETF demand is on the rise due to cost efficiency, but investors need to avoid common mistakes like lack of research and excessive trading.",
       "exported_at": "2025-09-12T08:28:29.538340",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump says Charlie Kirk shooting suspect is in custody",
+      "link": "https://www.cnbc.com/2025/09/12/trump-charlie-kirk-shooter-suspect.html",
+      "summary": "Kirk, an ally of President Donald Trump, was shot during an event at Utah Valley University, kicking off a multi-day manhunt.",
+      "published": "Fri, 12 Sep 2025 12:37:31 GMT",
+      "content": "Kirk, an ally of President Donald Trump, was shot during an event at Utah Valley University, kicking off a multi-day manhunt.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c9c3fe96860f86fbc9a79666dcff00c9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP CONFIRMS CHARLIE KIRK SHOOTING SUSPECT IN CUSTODY 🚨\n\n- Charlie Kirk, Trump ally, shot at Utah Valley University event\n- Multi-day manhunt for shooting suspect ensued\n\nTAKEAWAY: President Trump confirms the shooting suspect in custody after Charlie Kirk's incident at Utah Valley University, ending a multi-day manhunt.",
+      "exported_at": "2025-09-12T08:38:41.784017",
       "continuous_session": true
     }
   ]
