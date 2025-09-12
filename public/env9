@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-12T07:27:20.548490",
-    "total_articles": 873,
-    "new_articles_in_last_fetch": 873,
+    "created_at": "2025-09-12T07:32:29.311767",
+    "total_articles": 874,
+    "new_articles_in_last_fetch": 874,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -11349,6 +11349,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ARMANI'S SURPRISE WILL: GRADUAL SALE OR STOCK LISTING AHEAD 🚀\n\n- Giorgio Armani's will instructs heirs to sell brand gradually 📈\n- Alternatively, heirs can opt for a stock market listing 📊\n- Late designer's decision shakes up future of iconic fashion brand ✨\n\nTAKEAWAY: Giorgio Armani's will introduces a surprising twist as heirs are directed to either gradually sell the fashion brand or pursue a stock market listing, potentially reshaping the brand's future trajectory.",
       "exported_at": "2025-09-12T07:27:20.473615",
+      "continuous_session": true
+    },
+    {
+      "title": "Weight-loss drug boom has reached apparel store rack as America resizes",
+      "link": "https://www.cnbc.com/2025/09/12/weight-loss-drugs-ozempic-zepbound-glp1-apparel-clothing-sizes.html",
+      "summary": "As more Americans use GLP-1 weight-loss drugs such as Ozempic, Zepbound, Wegovy and Mounjaro, the clothing industry rack is being resized, in surprising ways.",
+      "published": "Fri, 12 Sep 2025 11:23:56 GMT",
+      "content": "As more Americans use GLP-1 weight-loss drugs such as Ozempic, Zepbound, Wegovy and Mounjaro, the clothing industry rack is being resized, in surprising ways.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "094c1ee9d6924b1e9d389ad1add88cfe",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WEIGHT-LOSS DRUG BOOM RESIZES AMERICA'S CLOTHING INDUSTRY 🚀\n\n- GLP-1 drugs like Ozempic reshape Americans' sizes 🩸\n- Apparel stores adapt as more people use weight-loss meds ✂️\n- Resizing of clothing racks due to drugs like Zepbound 💊\n- Impact of drugs like Wegovy and Mounjaro on clothing industry 🧵\n- Surprising changes seen in clothing sizes due to weight-loss meds 👗\n\nTAKEAWAY: The boom in weight-loss drugs like Ozempic and others is reshaping America's clothing industry, leading to surprising changes in sizes.",
+      "exported_at": "2025-09-12T07:32:29.251391",
       "continuous_session": true
     }
   ]
