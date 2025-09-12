@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-12T11:47:37.986192",
-    "total_articles": 907,
-    "new_articles_in_last_fetch": 907,
+    "created_at": "2025-09-12T11:52:47.546770",
+    "total_articles": 909,
+    "new_articles_in_last_fetch": 909,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -11789,6 +11789,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TETHER LAUNCHES USAT STABLECOIN, APPOINTS FORMER WHITE HOUSE ADVISOR 🚀\n\n- Tether appoints Bo Hines, ex-White House advisor, as CEO 🌟\n- USAT stablecoin introduced for U.S. institutions 🇺🇸\n- Move aims to strengthen Tether's presence in the U.S. market ✅\n- Bo Hines to lead Tether's business operations in the U.S. 🚀\n- USAT designed for institutions seeking a stable digital asset 💰\n\nTAKEAWAY: Tether's strategic move with USAT and appointment of Bo Hines signals a focused expansion in the U.S. market, targeting institutional demand for stablecoins.",
       "exported_at": "2025-09-12T11:47:37.909344",
+      "continuous_session": true
+    },
+    {
+      "title": "Tether reveals USAT stablecoin, appoints Bo Hines, former White House advisor, to lead U.S. business",
+      "link": "https://www.cnbc.com/2025/09/12/tether-reveals-new-stablecoin-appoints-bo-hines-to-lead-us-business-.html",
+      "summary": "Tether has revealed its domestic stablecoin, USAT, and named former White House advisor Bo Hines CEO of its U.S. business.",
+      "published": "Fri, 12 Sep 2025 15:49:36 GMT",
+      "content": "Tether has revealed its domestic stablecoin, USAT, and named former White House advisor Bo Hines CEO of its U.S. business.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e64e650cd077ff7bc8af082505c5ca61",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TETHER UNVEILS USAT STABLECOIN, APPOINTS FORMER WHITE HOUSE ADVISOR 🚀\n\n- Tether introduces USAT stablecoin for the U.S. market 🇺🇸\n- Bo Hines, ex-White House advisor, to lead Tether's U.S. business 🌟\n- USAT launch aims to strengthen Tether's presence in the U.S. 💪\n- Appointment of Bo Hines signals strategic leadership move 🎯\n- USAT expected to enhance Tether's offerings in the stablecoin space 🔥\n\nTAKEAWAY: Tether's launch of the USAT stablecoin and appointment of Bo Hines reflect strategic moves to bolster its presence and offerings in the U.S. market.",
+      "exported_at": "2025-09-12T11:52:47.470745",
+      "continuous_session": true
+    },
+    {
+      "title": "Why we want to trim our Broadcom position, plus key investor events to monitor",
+      "link": "https://www.cnbc.com/2025/09/12/why-were-looking-to-trim-broadcom-plus-key-investor-events-on-tap.html",
+      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "published": "Fri, 12 Sep 2025 15:49:57 GMT",
+      "content": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "dbadcd46cd8d677b99821e2219b6b3b5",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CRAMER'S BULLISH OUTLOOK ON HOME DEPOT AND AMAZON 🚀\n\n- Cramer predicts significant growth potential for Home Depot 📈\n- Amazon shines with promising opportunities according to Cramer ✨\n- Insight shared during the Investing Club's \"Morning Meeting\" ⏰\n\nTAKEAWAY: Cramer's positive outlook on Home Depot and Amazon highlights exciting growth prospects discussed at the Investing Club's \"Morning Meeting.\"",
+      "exported_at": "2025-09-12T11:52:47.470832",
       "continuous_session": true
     }
   ]
