@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-12T10:41:10.903737",
-    "total_articles": 899,
-    "new_articles_in_last_fetch": 899,
+    "created_at": "2025-09-12T11:06:36.530200",
+    "total_articles": 900,
+    "new_articles_in_last_fetch": 900,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -11685,6 +11685,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BULLISH OPTIONS PLAY ON ORACLE AS IT AIMS FOR $1 TRILLION MARKET CAP 🚀\n\n- Options trader Jeff Kilburg analyzes Oracle's strong performance\n- Oracle's stock surges, eyeing $1 trillion market cap 💰\n- Kilburg breaks down potential options trade strategy 📈\n- Market buzz surrounds Oracle's impressive week 🌟\n\nTAKEAWAY: Oracle's soaring stock and potential $1 trillion market cap generate excitement, with options trader Jeff Kilburg providing insights for a bullish options play.",
       "exported_at": "2025-09-12T10:41:10.892428",
+      "continuous_session": true
+    },
+    {
+      "title": "Apple iPhone Air&apos;s China release delayed",
+      "link": "https://www.cnbc.com/2025/09/12/apple-iphone-air-china-release-delay.html",
+      "summary": "Wireless carriers in China must obtain regulatory approval before they can sell devices with an eSIM, the company said.",
+      "published": "Fri, 12 Sep 2025 14:56:06 GMT",
+      "content": "Wireless carriers in China must obtain regulatory approval before they can sell devices with an eSIM, the company said.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "defa312fc3e988b3d95b19d06be1a98d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: APPLE DELAYS IPHONE AIR RELEASE IN CHINA ⚠️\n\n- iPhone Air launch in China postponed due to eSIM approval process 📵\n- Regulatory requirements delay wireless carriers from selling the device 📝\n- China's market awaits the awaited iPhone Air release 🇨🇳\n\nTAKEAWAY: Apple's iPhone Air faces delays in China as regulatory hurdles slow down the eSIM approval process, impacting the device's market launch.",
+      "exported_at": "2025-09-12T11:06:36.462392",
       "continuous_session": true
     }
   ]
