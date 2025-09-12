@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-12T11:06:36.530200",
-    "total_articles": 900,
-    "new_articles_in_last_fetch": 900,
+    "created_at": "2025-09-12T11:11:45.189959",
+    "total_articles": 901,
+    "new_articles_in_last_fetch": 901,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -11698,6 +11698,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: APPLE DELAYS IPHONE AIR RELEASE IN CHINA ⚠️\n\n- iPhone Air launch in China postponed due to eSIM approval process 📵\n- Regulatory requirements delay wireless carriers from selling the device 📝\n- China's market awaits the awaited iPhone Air release 🇨🇳\n\nTAKEAWAY: Apple's iPhone Air faces delays in China as regulatory hurdles slow down the eSIM approval process, impacting the device's market launch.",
       "exported_at": "2025-09-12T11:06:36.462392",
+      "continuous_session": true
+    },
+    {
+      "title": "Trouble with student and auto loans could be the start of bigger problems for the economy",
+      "link": "https://www.cnbc.com/2025/09/12/student-and-auto-loans-could-be-start-of-bigger-problems-for-economy.html",
+      "summary": "Larry McDonald talks about trouble he's seeing in the student loan and auto lending markets.",
+      "published": "Fri, 12 Sep 2025 15:05:02 GMT",
+      "content": "Larry McDonald talks about trouble he's seeing in the student loan and auto lending markets.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7fc67dac658a649eb399551aed000d17",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TROUBLE LOOMS IN STUDENT AND AUTO LOANS MARKET ⚠️\n\n- Larry McDonald warns of trouble in student loan and auto lending markets\n- Signs of distress could lead to larger economic issues 📉\n- Increasing concerns about potential ripple effects 🌊\n- Market turbulence raises red flags 🚩\n- Larry McDonald highlights risks in student and auto loans 💸\n- Potential impact on overall economy 📉\n\nTAKEAWAY: Larry McDonald's warning about trouble in student and auto loans markets signals potential economic distress and ripple effects ahead.",
+      "exported_at": "2025-09-12T11:11:45.113597",
       "continuous_session": true
     }
   ]
