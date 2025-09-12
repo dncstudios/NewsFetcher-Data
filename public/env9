@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-12T09:34:50.942439",
-    "total_articles": 889,
-    "new_articles_in_last_fetch": 889,
+    "created_at": "2025-09-12T09:50:10.011083",
+    "total_articles": 891,
+    "new_articles_in_last_fetch": 891,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -11556,6 +11556,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCK FUTURES FLAT DESPITE RATE-CUT HOPES 📈\n\n- Market hit new highs after winning session Thursday 📈\n- All major averages closed at fresh record levels ✨\n- Investor optimism fueled by hopes of rate cuts 🎯\n- Stock futures remain stable despite previous highs 💼\n\nTAKEAWAY: Despite hopes for rate cuts driving market to new highs, stock futures remain flat, hinting at cautious investor sentiment.",
       "exported_at": "2025-09-12T09:34:50.931556",
+      "continuous_session": true
+    },
+    {
+      "title": "Why this long-time market strategist is arguing against a Fed rate cut",
+      "link": "https://www.cnbc.com/2025/09/12/why-this-long-time-market-strategist-is-arguing-against-a-fed-rate-cut.html",
+      "summary": "For Wall Street, a Federal Reserve rate cut next week is all but guaranteed. Ed Yardeni doesn't think the central bank should ease policy.",
+      "published": "Fri, 12 Sep 2025 13:32:20 GMT",
+      "content": "For Wall Street, a Federal Reserve rate cut next week is all but guaranteed. Ed Yardeni doesn't think the central bank should ease policy.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "839fbcad43096c315ed0f53cd18d2915",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: LONG-TIME STRATEGIST OPPOSES FED RATE CUT 🚨\n\n- Wall Street expects Fed rate cut, but strategist Ed Yardeni disagrees\n- Yardeni argues against central bank easing policy\n- Diverging opinions create uncertainty in the market 🤔\n\nTAKEAWAY: Despite widespread anticipation of a Fed rate cut, strategist Ed Yardeni's dissenting view introduces uncertainty and challenges the consensus.",
+      "exported_at": "2025-09-12T09:50:10.000263",
+      "continuous_session": true
+    },
+    {
+      "title": "Fintech firm Lendbuzz files for IPO",
+      "link": "https://www.cnbc.com/2025/09/12/fintech-firm-lendbuzz-ipo.html",
+      "summary": "Lendbuzz is aiming to go public amid a wave of fellow fintech companies.",
+      "published": "Fri, 12 Sep 2025 13:48:00 GMT",
+      "content": "Lendbuzz is aiming to go public amid a wave of fellow fintech companies.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0022d119b4b0faa4c44d8520b1568996",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FINTECH FIRM LENDUZZ FILES FOR IPO 🚀\n\n- Lendbuzz joins fintech IPO trend 📈\n- Company seeks to go public in upcoming wave 🌊\n- IPO filing indicates Lendbuzz's growth and ambitions 💼\n- Move aligns with industry momentum 🚀\n- Fintech sector attracts investor interest 📈\n- IPO decision reflects company's confidence in market 📊\n\nTAKEAWAY: Lendbuzz's IPO filing amid the fintech trend showcases its growth, ambitions, and confidence in the market, aligning with the sector's momentum.",
+      "exported_at": "2025-09-12T09:50:10.000271",
       "continuous_session": true
     }
   ]
