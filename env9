@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-13T09:33:08.055008",
-    "total_articles": 949,
-    "new_articles_in_last_fetch": 949,
+    "created_at": "2025-09-13T09:58:32.126596",
+    "total_articles": 950,
+    "new_articles_in_last_fetch": 950,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -12335,6 +12335,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: PATEL UNDER FIRE FOR KIRK ASSASSINATION MISHANDLING ⚠️\n\n- Patel faces congressional hearings for missteps in Kirk probe\n- Leadership credibility questioned amid turmoil at FBI 🔥\n- Uncertainty surrounds Patel's handling of high-profile case\n- Pressure mounts on Patel as his credibility is questioned\n- Congressional scrutiny intensifies over FBI's recent turmoil\n\nTAKEAWAY: Patel's credibility is under scrutiny as he faces congressional hearings for mishandling the Kirk assassination probe, adding pressure amid turmoil at the FBI.",
       "exported_at": "2025-09-13T09:33:07.977383",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump says he&apos;s ready to put &apos;major sanctions&apos; on Russia if NATO nations do the same",
+      "link": "https://www.cnbc.com/2025/09/13/trump-russia-nato-putin-trade-sanctions-.html",
+      "summary": "President Donald Trump has repeatedly threatened to impose sanctions on Russia over its invasion of Ukraine, but has so far held off from doing so.",
+      "published": "Sat, 13 Sep 2025 13:57:21 GMT",
+      "content": "President Donald Trump has repeatedly threatened to impose sanctions on Russia over its invasion of Ukraine, but has so far held off from doing so.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2e657c936de710076f7d2845b00d70f8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP READY TO IMPOSE 'MAJOR SANCTIONS' ON RUSSIA IF NATO NATIONS JOIN 🚨\n\n- Trump vows sanctions on Russia for Ukraine invasion 🇺🇦\n- No sanctions imposed yet despite repeated threats 🚫\n- Trump waits for NATO nations to act before implementing sanctions ⏳\n\nTAKEAWAY: Trump's promise of 'major sanctions' on Russia hangs in the balance as he awaits NATO nations to join in, raising uncertainty over the next steps.",
+      "exported_at": "2025-09-13T09:58:32.115452",
       "continuous_session": true
     }
   ]
