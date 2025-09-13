@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-13T11:04:26.939755",
-    "total_articles": 952,
-    "new_articles_in_last_fetch": 952,
+    "created_at": "2025-09-13T11:39:58.860896",
+    "total_articles": 953,
+    "new_articles_in_last_fetch": 953,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -12374,6 +12374,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: LIVING WITH 10%: THE LESSONS OF A 2-YEAR, 10-CITY ADVENTURE 🌍\n\n- Jen Glantz, Bridesmaid for Hire founder, shares life-changing experience ✨\n- Couple embraces minimalism, travel, and new perspectives 🌟\n- 90% of belongings ditched for a transformative journey 🧳\n- 2 years, 10 cities - a whirlwind adventure of growth and discovery 🌆\n- Lessons learned continue to shape their lifestyle choices today 🏡\n- Bold move leads to lasting inspiration and gratitude 🙌\n\nTAKEAWAY: Jen Glantz and her husband's minimalist journey through 10 cities in 2 years not only transformed their lives but continues to inspire their choices, emphasizing the value of experiences over possessions.",
       "exported_at": "2025-09-13T11:04:26.861510",
+      "continuous_session": true
+    },
+    {
+      "title": "How Panama Canal plans to engineer over future of severe drought and climate change",
+      "link": "https://www.cnbc.com/2025/09/13/panama-canal-drought-el-nino-climate-change-shipping-trade.html",
+      "summary": "For Panama Canal, drought is an economic and existential risk. New dam and land bridge projects will help trade move, but won't be ready before next El Niño.",
+      "published": "Sat, 13 Sep 2025 14:19:41 GMT",
+      "content": "For Panama Canal, drought is an economic and existential risk. New dam and land bridge projects will help trade move, but won't be ready before next El Niño.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4463cf04c67e6d75a55e18335f17274f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PANAMA CANAL'S ENGINEERING PLANS TO TACKLE DROUGHT AND CLIMATE CHANGE 🚀\n\n- Severe drought poses economic and existential threat to Panama Canal 🌍\n- New dam and land bridge projects in the works for improved trade flow 🚧\n- Projects not expected to be operational before the next El Niño cycle ⏳\n- Canal navigating risks of climate change and water scarcity 💧⚠️\n\nTAKEAWAY: Panama Canal's strategic engineering projects aim to combat the challenges of severe drought and climate change, ensuring future trade resilience.",
+      "exported_at": "2025-09-13T11:39:58.849736",
       "continuous_session": true
     }
   ]
