@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-13T08:06:36.595471",
-    "total_articles": 942,
-    "new_articles_in_last_fetch": 942,
+    "created_at": "2025-09-13T08:32:05.143173",
+    "total_articles": 945,
+    "new_articles_in_last_fetch": 945,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -12244,6 +12244,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CONVENIENCE STORES CHALLENGE FAST-FOOD CHAINS' BREAKFAST 🍳\n\n- Fast-food chains losing breakfast customers 📉\n- Convenience stores impacting breakfast sales 🏪\n- Shift in consumer behavior towards convenience 🔄\n- Convenience stores offer quick, affordable breakfast options 🌯\n- Competition forces fast-food chains to innovate 🛠️\n- Fast-food chains facing challenges in retaining breakfast market share 🍔\n\nTAKEAWAY: Convenience stores disrupting fast-food chains' breakfast dominance, pushing them to adapt and innovate to stay competitive.",
       "exported_at": "2025-09-13T08:06:36.514345",
+      "continuous_session": true
+    },
+    {
+      "title": "UnitedHealth soars but Berkshire&apos;s new stake may still be in the red",
+      "link": "https://www.cnbc.com/2025/09/13/unitedhealth-soars-but-berkshires-new-stake-may-still-be-in-the-red.html",
+      "summary": "Assessing the profitability of Berkshire's new UnitedHealth stake, Kraft Heinz falls as overhang looms, Buffett drops four notches on Forbes 400 ranking.",
+      "published": "Sat, 13 Sep 2025 12:16:42 GMT",
+      "content": "Assessing the profitability of Berkshire's new UnitedHealth stake, Kraft Heinz falls as overhang looms, Buffett drops four notches on Forbes 400 ranking.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "83e5c5e12c816b62b60e3ce2fdf69813",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: UNITEDHEALTH SURGES, BUT BERKSHIRE'S STAKE FACES UNCERTAINTY 🚀\n\n- UnitedHealth's stock price rises significantly 📈\n- Berkshire's new stake in UnitedHealth may still be at a loss 💸\n- Kraft Heinz stock drops due to impending overhang 📉\n- Buffett's ranking on Forbes 400 list falls by four places 🔻\n\nTAKEAWAY: Despite UnitedHealth's soaring stock price, Berkshire's stake faces uncertainty, while Kraft Heinz struggles and Buffett's ranking declines on the Forbes 400 list.",
+      "exported_at": "2025-09-13T08:32:05.063573",
+      "continuous_session": true
+    },
+    {
+      "title": "Cautious optimism led stocks back to all-time highs. But are bulls becoming irrationally exuberant?",
+      "link": "https://www.cnbc.com/2025/09/13/cautious-optimism-led-stocks-back-to-all-time-highs-but-are-bulls-becoming-irrationally-exuberant.html",
+      "summary": "The story of past several weeks in markets could be called, \"Redemption of the Cautious Optimists.\"",
+      "published": "Sat, 13 Sep 2025 12:28:40 GMT",
+      "content": "The story of past several weeks in markets could be called, \"Redemption of the Cautious Optimists.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7b7af0c3069afdbad3bab9f8de3d3857",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CAUTIOUS OPTIMISM DRIVES STOCKS TO ALL-TIME HIGHS 🚀\n\n- Market sees redemption of cautious optimists 📈\n- Stocks soar to record levels amidst cautious optimism 🌟\n- Bullish sentiment raises concerns of irrational exuberance 🤔\n\nTAKEAWAY: Despite cautious optimism leading stocks to all-time highs, concerns arise about potential irrational exuberance in the market.",
+      "exported_at": "2025-09-13T08:32:05.063637",
+      "continuous_session": true
+    },
+    {
+      "title": "Tesla and Micron are overbought and could be due for a pullback with stock market at all-time high",
+      "link": "https://www.cnbc.com/2025/09/13/tsla-mu-are-overbought-and-could-be-due-for-a-pullback.html",
+      "summary": "The stock market's run to fresh all-time highs this week has left some individual names in overbought territory, putting them at risk of a pullback.",
+      "published": "Sat, 13 Sep 2025 12:19:39 GMT",
+      "content": "The stock market's run to fresh all-time highs this week has left some individual names in overbought territory, putting them at risk of a pullback.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "257814f920deb495acff37ef3217f76d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TESLA & MICRON OVERBOUGHT, POSSIBLE PULLBACK AHEAD 📉\n\n- Tesla & Micron overbought, hinting at potential pullback\n- Stock market hits all-time high, individual names at risk\n- Investors cautious as stocks reach overbought levels 🔍\n\nTAKEAWAY: With Tesla and Micron overbought and the stock market at all-time highs, investors should be cautious of a possible pullback in these individual names.",
+      "exported_at": "2025-09-13T08:32:05.063651",
       "continuous_session": true
     }
   ]
