@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-13T02:06:46.994981",
-    "total_articles": 938,
-    "new_articles_in_last_fetch": 938,
+    "created_at": "2025-09-13T05:04:03.920700",
+    "total_articles": 939,
+    "new_articles_in_last_fetch": 939,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -12192,6 +12192,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CHINESE EV PLAYERS CHALLENGE EUROPEAN AUTOMAKERS ON HOME TURF 🚀\n\n- Xpeng and GAC reveal bold expansion strategies in Europe 🌍\n- Aggressive moves signal intent to compete with legacy automakers 🚗\n- Chinese EV companies eye market dominance in Europe 🌟\n\nTAKEAWAY: Xpeng and GAC's aggressive expansion plans in Europe pose a significant challenge to traditional European automakers, signaling a new era of competition in the electric vehicle market.",
       "exported_at": "2025-09-13T02:06:46.915247",
+      "continuous_session": true
+    },
+    {
+      "title": "UN assembly votes overwhelmingly to back two-state solution to Israel-Palestinian conflict",
+      "link": "https://www.cnbc.com/2025/09/13/un-assembly-backs-two-state-solution-to-israel-palestinian-conflict.html",
+      "summary": "Hours before the vote, Netanyahu said \"there will be no Palestinian state.\"",
+      "published": "Sat, 13 Sep 2025 08:58:46 GMT",
+      "content": "Hours before the vote, Netanyahu said \"there will be no Palestinian state.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ff98c780e0a7b2fa4e34b025c094d642",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: UN ASSEMBLY BACKS TWO-STATE SOLUTION FOR ISRAEL-PALESTINE 🚀\n\n- UN assembly votes overwhelmingly for two-state solution 🌍\n- Netanyahu's statement contradicts UN decision 🤨\n- International support strengthens for Israel-Palestine peace 🌟\n\nTAKEAWAY: Despite Netanyahu's stance against a Palestinian state, the UN's overwhelming support for a two-state solution signals progress towards peace in the region.",
+      "exported_at": "2025-09-13T05:04:03.909418",
       "continuous_session": true
     }
   ]
