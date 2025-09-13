@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-13T07:05:38.404701",
-    "total_articles": 940,
-    "new_articles_in_last_fetch": 940,
+    "created_at": "2025-09-13T07:10:47.485781",
+    "total_articles": 941,
+    "new_articles_in_last_fetch": 941,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -12218,6 +12218,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: OPENAI'S SPENDING SPREE BOOSTS TECH INDUSTRY 🚀\n\n- Oracle's stock surges amid OpenAI's impact on Silicon Valley 📈\n- Broadcom experiences a breakout, showcasing OpenAI's influence 🔥\n- OpenAI's investments power tech industry growth 🚀\n- Silicon Valley continues to benefit from OpenAI's spending spree 💰\n- Oracle emerges as the latest beneficiary of OpenAI's actions 🎯\n\nTAKEAWAY: OpenAI's significant spending spree is fueling the tech industry's growth, with Oracle and Broadcom emerging as notable winners in Silicon Valley.",
       "exported_at": "2025-09-13T07:05:38.323497",
+      "continuous_session": true
+    },
+    {
+      "title": "This is Google Flights&apos; &apos;No. 1 advice, always&apos; to score cheap airfare",
+      "link": "https://www.cnbc.com/2025/09/13/google-flights-advice-cheap-airfare.html",
+      "summary": "Flexibility can often make a \"huge difference\" for travelers, one expert says. Here's why.",
+      "published": "Sat, 13 Sep 2025 11:00:01 GMT",
+      "content": "Flexibility can often make a \"huge difference\" for travelers, one expert says. Here's why.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5f8d02c391cca0da95cca4e060162680",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GOOGLE FLIGHTS' TOP TIP FOR SCORING CHEAP AIRFARE 🚀\n\n- Expert emphasizes flexibility for significant savings ✈️\n- Being open to different dates can result in huge discounts 💰\n- Flexibility allows travelers to take advantage of cheaper options 🌍\n\nTAKEAWAY: Google Flights' top advice for scoring cheap airfare is to stay flexible with travel dates to unlock significant savings and discounts.",
+      "exported_at": "2025-09-13T07:10:47.474178",
       "continuous_session": true
     }
   ]
