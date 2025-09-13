@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-13T05:04:03.920700",
-    "total_articles": 939,
-    "new_articles_in_last_fetch": 939,
+    "created_at": "2025-09-13T07:05:38.404701",
+    "total_articles": 940,
+    "new_articles_in_last_fetch": 940,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -12205,6 +12205,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: UN ASSEMBLY BACKS TWO-STATE SOLUTION FOR ISRAEL-PALESTINE 🚀\n\n- UN assembly votes overwhelmingly for two-state solution 🌍\n- Netanyahu's statement contradicts UN decision 🤨\n- International support strengthens for Israel-Palestine peace 🌟\n\nTAKEAWAY: Despite Netanyahu's stance against a Palestinian state, the UN's overwhelming support for a two-state solution signals progress towards peace in the region.",
       "exported_at": "2025-09-13T05:04:03.909418",
+      "continuous_session": true
+    },
+    {
+      "title": "OpenAI&apos;s spending spree is powering the tech industry. Oracle is the latest winner",
+      "link": "https://www.cnbc.com/2025/09/13/openai-spending-spree-powering-much-of-tech-oracle-latest-example.html",
+      "summary": "Oracle’s stock surge and Broadcom’s breakout underscore OpenAI's influence across Silicon Valley.",
+      "published": "Sat, 13 Sep 2025 11:00:01 GMT",
+      "content": "Oracle’s stock surge and Broadcom’s breakout underscore OpenAI's influence across Silicon Valley.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a2b88b830c1fe16fe55abecd42b3f096",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: OPENAI'S SPENDING SPREE BOOSTS TECH INDUSTRY 🚀\n\n- Oracle's stock surges amid OpenAI's impact on Silicon Valley 📈\n- Broadcom experiences a breakout, showcasing OpenAI's influence 🔥\n- OpenAI's investments power tech industry growth 🚀\n- Silicon Valley continues to benefit from OpenAI's spending spree 💰\n- Oracle emerges as the latest beneficiary of OpenAI's actions 🎯\n\nTAKEAWAY: OpenAI's significant spending spree is fueling the tech industry's growth, with Oracle and Broadcom emerging as notable winners in Silicon Valley.",
+      "exported_at": "2025-09-13T07:05:38.323497",
       "continuous_session": true
     }
   ]
