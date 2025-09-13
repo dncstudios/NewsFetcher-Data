@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-12T18:46:05.525663",
-    "total_articles": 937,
-    "new_articles_in_last_fetch": 937,
+    "created_at": "2025-09-13T02:06:46.994981",
+    "total_articles": 938,
+    "new_articles_in_last_fetch": 938,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -12179,6 +12179,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TIM COOK REVEALS APPLE'S $2.5B INVESTMENT IN CORNING'S GLASS FACTORY 🚀\n\n- Apple CEO Tim Cook discloses $2.5 billion investment in Corning's Kentucky factory 💰\n- Strategic move to manufacture glass for Apple products 📱\n- Enhancing supply chain and securing quality control 🔒\n- Strengthening partnership with Corning for innovative technologies 🌟\n- Investment to boost local economy in Kentucky 📈\n- Apple's commitment to domestic manufacturing and job creation 🇺🇸\n\nTAKEAWAY: Tim Cook's $2.5 billion investment in Corning's glass factory showcases Apple's dedication to innovation, supply chain optimization, and boosting the local economy in Kentucky.",
       "exported_at": "2025-09-12T18:46:05.514420",
+      "continuous_session": true
+    },
+    {
+      "title": "Chinese EV players take fight to legacy European automakers on their home turf",
+      "link": "https://www.cnbc.com/2025/09/13/chinese-ev-firms-take-fight-to-european-automakers-on-their-home-turf.html",
+      "summary": "Chinese electric carmakers Xpeng and GAC this week signalled aggressive expansion plans in Europe.",
+      "published": "Sat, 13 Sep 2025 05:49:38 GMT",
+      "content": "Chinese electric carmakers Xpeng and GAC this week signalled aggressive expansion plans in Europe.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4a043af01973667eea8a2e2211f41f4e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CHINESE EV PLAYERS CHALLENGE EUROPEAN AUTOMAKERS ON HOME TURF 🚀\n\n- Xpeng and GAC reveal bold expansion strategies in Europe 🌍\n- Aggressive moves signal intent to compete with legacy automakers 🚗\n- Chinese EV companies eye market dominance in Europe 🌟\n\nTAKEAWAY: Xpeng and GAC's aggressive expansion plans in Europe pose a significant challenge to traditional European automakers, signaling a new era of competition in the electric vehicle market.",
+      "exported_at": "2025-09-13T02:06:46.915247",
       "continuous_session": true
     }
   ]
