@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-13T09:58:32.126596",
-    "total_articles": 950,
-    "new_articles_in_last_fetch": 950,
+    "created_at": "2025-09-13T10:13:47.097362",
+    "total_articles": 951,
+    "new_articles_in_last_fetch": 951,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -12348,6 +12348,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP READY TO IMPOSE 'MAJOR SANCTIONS' ON RUSSIA IF NATO NATIONS JOIN 🚨\n\n- Trump vows sanctions on Russia for Ukraine invasion 🇺🇦\n- No sanctions imposed yet despite repeated threats 🚫\n- Trump waits for NATO nations to act before implementing sanctions ⏳\n\nTAKEAWAY: Trump's promise of 'major sanctions' on Russia hangs in the balance as he awaits NATO nations to join in, raising uncertainty over the next steps.",
       "exported_at": "2025-09-13T09:58:32.115452",
+      "continuous_session": true
+    },
+    {
+      "title": "30-year-old CEO left Wall Street, bought a &apos;stale&apos; frozen yogurt chain—now it brings in $21 million a year",
+      "link": "https://www.cnbc.com/2025/09/13/ceo-neil-hershman-plan-to-grow-16-handles.html",
+      "summary": "Neil Hershman left his job in finance at age 23 to buy a frozen yogurt shop. Today, he's the majority owner and CEO of frozen yogurt chain 16 Handles.",
+      "published": "Sat, 13 Sep 2025 14:00:01 GMT",
+      "content": "Neil Hershman left his job in finance at age 23 to buy a frozen yogurt shop. Today, he's the majority owner and CEO of frozen yogurt chain 16 Handles.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "42f5fb477643f45c31060f8265044383",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: YOUNG CEO TURNS FROZEN YOGURT CHAIN INTO $21M SUCCESS 🚀\n\n- Neil Hershman bought 16 Handles at 23, now brings in $21M/yr 🍦\n- Former finance pro now majority owner & CEO of the chain 💼\n- Turned around a 'stale' frozen yogurt shop into a thriving business 💰\n\nTAKEAWAY: Neil Hershman's bold move to buy 16 Handles at 23 paid off, turning the once 'stale' chain into a $21 million success story.",
+      "exported_at": "2025-09-13T10:13:47.014484",
       "continuous_session": true
     }
   ]
