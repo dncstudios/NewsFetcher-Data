@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-13T11:39:58.860896",
-    "total_articles": 953,
-    "new_articles_in_last_fetch": 953,
+    "created_at": "2025-09-13T12:05:21.128802",
+    "total_articles": 954,
+    "new_articles_in_last_fetch": 954,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -12387,6 +12387,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: PANAMA CANAL'S ENGINEERING PLANS TO TACKLE DROUGHT AND CLIMATE CHANGE 🚀\n\n- Severe drought poses economic and existential threat to Panama Canal 🌍\n- New dam and land bridge projects in the works for improved trade flow 🚧\n- Projects not expected to be operational before the next El Niño cycle ⏳\n- Canal navigating risks of climate change and water scarcity 💧⚠️\n\nTAKEAWAY: Panama Canal's strategic engineering projects aim to combat the challenges of severe drought and climate change, ensuring future trade resilience.",
       "exported_at": "2025-09-13T11:39:58.849736",
+      "continuous_session": true
+    },
+    {
+      "title": "Are popular lip oils safe to use? They can be if you focus on ingredients &apos;rather than brand names,&apos; doctor says",
+      "link": "https://www.cnbc.com/2025/09/13/are-popular-lip-oils-safe-to-use-a-doctor-explains.html",
+      "summary": "A popular lip oil is trending on TikTok for potential links to negative skin reactions. Here are some likely causes, and what to look for in a lip oil.",
+      "published": "Sat, 13 Sep 2025 15:00:01 GMT",
+      "content": "A popular lip oil is trending on TikTok for potential links to negative skin reactions. Here are some likely causes, and what to look for in a lip oil.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "178cfb4852bad17ebc599f4e1ab5908f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ARE LIP OILS SAFE? INGREDIENTS MATTER MORE THAN BRAND NAMES ⚠️\n\n- Trending lip oil on TikTok raises concerns for skin reactions\n- Emphasize ingredient quality over brand name when choosing lip oils\n- Understanding likely causes of negative skin reactions is crucial\n\nTAKEAWAY: When it comes to the safety of lip oils, prioritize ingredient quality over brand names to ensure skin well-being.",
+      "exported_at": "2025-09-13T12:05:21.054014",
       "continuous_session": true
     }
   ]
