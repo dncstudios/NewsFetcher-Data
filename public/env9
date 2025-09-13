@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-13T08:37:12.934453",
-    "total_articles": 946,
-    "new_articles_in_last_fetch": 946,
+    "created_at": "2025-09-13T09:22:55.659240",
+    "total_articles": 948,
+    "new_articles_in_last_fetch": 948,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -12296,6 +12296,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SACHEM HEAD PUSHES FOR PERFORMANCE FOOD MERGER 🚀\n\n- Sachem Head eyes Performance Food merger for profit boost 📈\n- Potential merger with US Foods drives deal rationale 🍽️\n- Opportunity seen to enhance Performance Food's profitability 💰\n\nTAKEAWAY: Sachem Head's push for a Performance Food merger focuses on profit enhancement opportunities, especially with a potential merger with US Foods.",
       "exported_at": "2025-09-13T08:37:12.923557",
+      "continuous_session": true
+    },
+    {
+      "title": "From bananas to toys, these 5 charts show how much costs have risen since Trump&apos;s tariffs went into effect",
+      "link": "https://www.cnbc.com/2025/09/13/charts-how-much-costs-have-risen-since-trump-tariffs-went-into-effect.html",
+      "summary": "Since Trump’s tariffs took effect in April, inflation has been showing up in categories that rarely see big swings.",
+      "published": "Sat, 13 Sep 2025 13:00:01 GMT",
+      "content": "Since Trump’s tariffs took effect in April, inflation has been showing up in categories that rarely see big swings.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "21371d9cd2b207cf0a9c30abb9f9615a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP'S TARIFFS IMPACT: INFLATION RISING IN UNEXPECTED CATEGORIES 📈\n\n- Inflation spikes in categories usually stable 📈\n- Costs surge in bananas, toys post-tariffs 🍌🧸\n- Uncommon price hikes seen since April 📈\n- Data reveals significant impact of tariffs 📊\n- Consumer prices affected by Trump's actions 💰\n- Tariffs lead to unexpected inflation trends 🔄\n\nTAKEAWAY: Trump's tariffs have caused unusual inflation spikes in typically stable categories, impacting consumer prices significantly since April.",
+      "exported_at": "2025-09-13T09:22:55.581467",
+      "continuous_session": true
+    },
+    {
+      "title": "My husband and I ditched 90% of our stuff and lived in 10 cities in 2 years—we&apos;d definitely do it again",
+      "link": "https://www.cnbc.com/2025/09/13/my-husband-and-i-ditched-90percent-of-our-stuff-and-lived-in-10-cities-in-2-years.html",
+      "summary": "\"The lessons we took from this adventure still inspire how we live today,\" says Jen Glantz, founder of Bridesmaid for Hire.",
+      "published": "Sat, 13 Sep 2025 13:00:01 GMT",
+      "content": "\"The lessons we took from this adventure still inspire how we live today,\" says Jen Glantz, founder of Bridesmaid for Hire.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "28508a88a633d46ffa197e1bb1909b26",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: LIVING WITH 10%: THE LESSONS OF A 2-YEAR, 10-CITY ADVENTURE 🌍\n\n- Jen Glantz, Bridesmaid for Hire founder, shares life-changing experience ✨\n- Couple embraces minimalism, travel, and new perspectives 🌟\n- 90% of belongings ditched for a transformative journey 🧳\n- 2 years, 10 cities - a whirlwind adventure of growth and discovery 🌆\n- Lessons learned continue to shape their lifestyle choices today 🏡\n- Bold move leads to lasting inspiration and gratitude 🙌\n\nTAKEAWAY: Jen Glantz and her husband's minimalist journey through 10 cities in 2 years not only transformed their lives but continues to inspire their choices, emphasizing the value of experiences over possessions.",
+      "exported_at": "2025-09-13T09:22:55.581551",
       "continuous_session": true
     }
   ]
