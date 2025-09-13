@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-13T07:10:47.485781",
-    "total_articles": 941,
-    "new_articles_in_last_fetch": 941,
+    "created_at": "2025-09-13T08:06:36.595471",
+    "total_articles": 942,
+    "new_articles_in_last_fetch": 942,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -12231,6 +12231,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: GOOGLE FLIGHTS' TOP TIP FOR SCORING CHEAP AIRFARE 🚀\n\n- Expert emphasizes flexibility for significant savings ✈️\n- Being open to different dates can result in huge discounts 💰\n- Flexibility allows travelers to take advantage of cheaper options 🌍\n\nTAKEAWAY: Google Flights' top advice for scoring cheap airfare is to stay flexible with travel dates to unlock significant savings and discounts.",
       "exported_at": "2025-09-13T07:10:47.474178",
+      "continuous_session": true
+    },
+    {
+      "title": "Convenience stores are eating fast-food chains&apos; breakfast",
+      "link": "https://www.cnbc.com/2025/09/13/convenience-stores-are-eating-fast-food-chains-breakfast.html",
+      "summary": "Fast-food chains are losing breakfast customers. Convenience stores are partially to blame.",
+      "published": "Sat, 13 Sep 2025 12:00:01 GMT",
+      "content": "Fast-food chains are losing breakfast customers. Convenience stores are partially to blame.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fed205283399b2de514991d7e149aca3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CONVENIENCE STORES CHALLENGE FAST-FOOD CHAINS' BREAKFAST 🍳\n\n- Fast-food chains losing breakfast customers 📉\n- Convenience stores impacting breakfast sales 🏪\n- Shift in consumer behavior towards convenience 🔄\n- Convenience stores offer quick, affordable breakfast options 🌯\n- Competition forces fast-food chains to innovate 🛠️\n- Fast-food chains facing challenges in retaining breakfast market share 🍔\n\nTAKEAWAY: Convenience stores disrupting fast-food chains' breakfast dominance, pushing them to adapt and innovate to stay competitive.",
+      "exported_at": "2025-09-13T08:06:36.514345",
       "continuous_session": true
     }
   ]
