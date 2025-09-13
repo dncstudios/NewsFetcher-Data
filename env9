@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-13T09:22:55.659240",
-    "total_articles": 948,
-    "new_articles_in_last_fetch": 948,
+    "created_at": "2025-09-13T09:33:08.055008",
+    "total_articles": 949,
+    "new_articles_in_last_fetch": 949,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -12322,6 +12322,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: LIVING WITH 10%: THE LESSONS OF A 2-YEAR, 10-CITY ADVENTURE 🌍\n\n- Jen Glantz, Bridesmaid for Hire founder, shares life-changing experience ✨\n- Couple embraces minimalism, travel, and new perspectives 🌟\n- 90% of belongings ditched for a transformative journey 🧳\n- 2 years, 10 cities - a whirlwind adventure of growth and discovery 🌆\n- Lessons learned continue to shape their lifestyle choices today 🏡\n- Bold move leads to lasting inspiration and gratitude 🙌\n\nTAKEAWAY: Jen Glantz and her husband's minimalist journey through 10 cities in 2 years not only transformed their lives but continues to inspire their choices, emphasizing the value of experiences over possessions.",
       "exported_at": "2025-09-13T09:22:55.581551",
+      "continuous_session": true
+    },
+    {
+      "title": "Patel faces congressional hearings after missteps in Kirk assassination probe and turmoil at FBI",
+      "link": "https://www.cnbc.com/2025/09/13/patel-fbi-congressional-hearings-kirk-assassination.html",
+      "summary": "Patel's handling of the Charlie Kirk assassination spotlighted the uncertainty surrounding his leadership of the bureau when his credibility is under pressure.",
+      "published": "Sat, 13 Sep 2025 13:29:17 GMT",
+      "content": "Patel's handling of the Charlie Kirk assassination spotlighted the uncertainty surrounding his leadership of the bureau when his credibility is under pressure.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1011039bd2cbc7c5ba116009351daf24",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PATEL UNDER FIRE FOR KIRK ASSASSINATION MISHANDLING ⚠️\n\n- Patel faces congressional hearings for missteps in Kirk probe\n- Leadership credibility questioned amid turmoil at FBI 🔥\n- Uncertainty surrounds Patel's handling of high-profile case\n- Pressure mounts on Patel as his credibility is questioned\n- Congressional scrutiny intensifies over FBI's recent turmoil\n\nTAKEAWAY: Patel's credibility is under scrutiny as he faces congressional hearings for mishandling the Kirk assassination probe, adding pressure amid turmoil at the FBI.",
+      "exported_at": "2025-09-13T09:33:07.977383",
       "continuous_session": true
     }
   ]
