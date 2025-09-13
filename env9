@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-13T17:05:10.666054",
-    "total_articles": 956,
-    "new_articles_in_last_fetch": 956,
+    "created_at": "2025-09-13T17:10:17.500579",
+    "total_articles": 957,
+    "new_articles_in_last_fetch": 957,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -12426,6 +12426,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP CALLS FOR NATIONAL HEALING AMID CRITICISM OF 'RADICAL LEFT' ⚠️\n\n- Trump blames 'radical left' for hindering national healing\n- Mentions Charlie Kirk assassination, criticizes left-wing groups\n- Calls for Democratic donor George Soros to be jailed\n\nTAKEAWAY: Trump's call for national healing clashes with his criticism of the 'radical left,' causing controversy and division.",
       "exported_at": "2025-09-13T17:05:10.652417",
+      "continuous_session": true
+    },
+    {
+      "title": "Inside the Panama Canal&apos;s mega-project plan to engineer its way through a severe drought future",
+      "link": "https://www.cnbc.com/2025/09/13/panama-canal-drought-el-nino-climate-change-shipping-trade.html",
+      "summary": "For Panama Canal, drought is an economic and existential risk. New dam and land bridge projects will help trade move, but won't be ready before next El Niño.",
+      "published": "Sat, 13 Sep 2025 21:09:33 GMT",
+      "content": "For Panama Canal, drought is an economic and existential risk. New dam and land bridge projects will help trade move, but won't be ready before next El Niño.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8796a52da06bdd5c901827e4347e2644",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PANAMA CANAL'S ENGINEERING PLANS TO TACKLE DROUGHT AND CLIMATE CHANGE 🚀\n\n- Severe drought poses economic and existential threat to Panama Canal 🌍\n- New dam and land bridge projects in the works for improved trade flow 🚧\n- Projects not expected to be operational before the next El Niño cycle ⏳\n- Canal navigating risks of climate change and water scarcity 💧⚠️\n\nTAKEAWAY: Panama Canal's strategic engineering projects aim to combat the challenges of severe drought and climate change, ensuring future trade resilience.",
+      "exported_at": "2025-09-13T17:10:17.489330",
       "continuous_session": true
     }
   ]
