@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-14T08:51:48.563936",
-    "total_articles": 966,
-    "new_articles_in_last_fetch": 966,
+    "created_at": "2025-09-14T09:37:25.277792",
+    "total_articles": 967,
+    "new_articles_in_last_fetch": 967,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -12556,6 +12556,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AI MONETIZATION EXPANDS IN CHINA 🚀\n\n- Mainland companies seize opportunities in generative AI 💡\n- Leaders and laggards in AI monetization start to surface 📈\n- UBS highlights top China plays in the AI monetization trend 🇨🇳\n\nTAKEAWAY: China's AI monetization trend is on the rise, with companies exploring generative AI opportunities and UBS pinpointing key players in this evolving landscape.",
       "exported_at": "2025-09-14T08:51:48.483287",
+      "continuous_session": true
+    },
+    {
+      "title": "U.S. and Chinese officials hold talks in Spain on trade irritants, TikTok deadline",
+      "link": "https://www.cnbc.com/2025/09/14/us-chinese-officials-talks-in-spain-on-trade-tiktok-deadline.html",
+      "summary": "U.S. Treasury Secretary Scott Bessent and U.S. Trade Representative Jamieson Greer arrived before Chinese Vice Premier He Lifeng and China's top trade negotiator, Li Chenggang.",
+      "published": "Sun, 14 Sep 2025 13:36:59 GMT",
+      "content": "U.S. Treasury Secretary Scott Bessent and U.S. Trade Representative Jamieson Greer arrived before Chinese Vice Premier He Lifeng and China's top trade negotiator, Li Chenggang.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5469e00acda804dd5ceb854addbfa74b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: U.S. AND CHINA TRADE TALKS IN SPAIN: TIKTOK DEADLINE LOOMS ⚠️\n\n- U.S. officials meet with Chinese counterparts in Spain 🤝\n- Talks to address trade issues and upcoming TikTok deadline 📉\n- U.S. Treasury Secretary and Trade Representative present 🇺🇸\n- Chinese Vice Premier and top trade negotiator also attending 🇨🇳\n\nTAKEAWAY: High-level discussions between U.S. and Chinese officials in Spain aim to tackle trade challenges and address the looming TikTok deadline.",
+      "exported_at": "2025-09-14T09:37:25.213665",
       "continuous_session": true
     }
   ]
