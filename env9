@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-14T08:46:39.798755",
-    "total_articles": 965,
-    "new_articles_in_last_fetch": 965,
+    "created_at": "2025-09-14T08:51:48.563936",
+    "total_articles": 966,
+    "new_articles_in_last_fetch": 966,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -12543,6 +12543,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WALL STREET'S SPAC MARKET ROARS BACK TO LIFE 🚀\n\n- 89 SPAC IPOs launched this year, highest since 2021 📈\n- SPACInsider data reveals a surge in deal volume 📊\n- Wall Street's SPAC engine restarts after a slowdown 🏎️\n- Market sees renewed interest in Special Purpose Acquisition Companies 💼\n- Investors eye opportunities in the resurging SPAC market 👀\n- SPACs gain momentum with increased IPO activity 🔥\n\nTAKEAWAY: The SPAC market is back in full swing with a surge in deal volume and investor interest, marking a strong comeback from a previous slowdown.",
       "exported_at": "2025-09-14T08:46:39.714664",
+      "continuous_session": true
+    },
+    {
+      "title": "AI monetization is spreading. UBS shares some of its favorite China plays",
+      "link": "https://www.cnbc.com/2025/09/14/ai-monetization-is-spreading-ubs-shares-some-favorite-china-plays.html",
+      "summary": "Several mainland companies have had a chance at monetizing generative AI in the past two years. Leaders and laggards are emerging.",
+      "published": "Sun, 14 Sep 2025 12:32:32 GMT",
+      "content": "Several mainland companies have had a chance at monetizing generative AI in the past two years. Leaders and laggards are emerging.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5bf408cee8ef4eecf6b57cf74645c44a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AI MONETIZATION EXPANDS IN CHINA 🚀\n\n- Mainland companies seize opportunities in generative AI 💡\n- Leaders and laggards in AI monetization start to surface 📈\n- UBS highlights top China plays in the AI monetization trend 🇨🇳\n\nTAKEAWAY: China's AI monetization trend is on the rise, with companies exploring generative AI opportunities and UBS pinpointing key players in this evolving landscape.",
+      "exported_at": "2025-09-14T08:51:48.483287",
       "continuous_session": true
     }
   ]
