@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-14T03:17:27.372843",
-    "total_articles": 960,
-    "new_articles_in_last_fetch": 960,
+    "created_at": "2025-09-14T05:28:56.155306",
+    "total_articles": 961,
+    "new_articles_in_last_fetch": 961,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -12478,6 +12478,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: GLOBAL WEEK AHEAD: FROM ROYAL POMP TO TECH DEALS AS TRUMP VISITS THE U.K. 🚀\n\n- Trump's second state visit to the U.K. underway 🌍🇬🇧\n- Expect lavish state banquets and country-house visits 🏰🍽️\n- Focus on strengthening U.S.-U.K. relations 🤝💼\n- Tech deals on the agenda during the visit 💻💰\n- Trump's visit set to make headlines globally 🗞️📰\n- Anticipation high for outcomes of the visit 🤩🔍\n\nTAKEAWAY: President Trump's visit to the U.K. promises a mix of royal grandeur, diplomatic efforts, and potential tech deals, capturing worldwide attention and high anticipation.",
       "exported_at": "2025-09-14T03:17:27.360679",
+      "continuous_session": true
+    },
+    {
+      "title": "U.S., Chinese officials to launch talks in Spain on trade irritants, TikTok deadline",
+      "link": "https://www.cnbc.com/2025/09/14/us-chinese-officials-talks-in-spain-on-trade-tiktok-deadline.html",
+      "summary": "The U.S. and China are trying to prevent their trade relationship from collapsing under President Donald Trump's tariffs.",
+      "published": "Sun, 14 Sep 2025 09:23:18 GMT",
+      "content": "The U.S. and China are trying to prevent their trade relationship from collapsing under President Donald Trump's tariffs.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a0f4c422578fbde8a948c030a62cd4f4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: U.S., CHINA TRADE TALKS IN SPAIN TO RESOLVE TARIFF DISPUTE 🚀\n\n- Meetings aim to salvage trade ties amidst Trump's tariffs 🤝\n- Focus on resolving irritants to avoid relationship breakdown 💔\n- TikTok deadline adds urgency to negotiations ⏰\n- Both sides seek common ground for economic stability 💼\n- Talks crucial for global trade stability 🌍\n\nTAKEAWAY: U.S. and Chinese officials engage in high-stakes talks in Spain to avert trade relationship collapse, with TikTok deadline adding urgency to negotiations.",
+      "exported_at": "2025-09-14T05:28:56.081353",
       "continuous_session": true
     }
   ]
