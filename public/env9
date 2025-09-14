@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-14T17:28:39.004222",
-    "total_articles": 975,
-    "new_articles_in_last_fetch": 975,
+    "created_at": "2025-09-14T18:09:14.182866",
+    "total_articles": 976,
+    "new_articles_in_last_fetch": 976,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -12673,6 +12673,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: 'UNDERWATER' CAR TRADE-INS HIT 4-YEAR HIGH: BUYING INSIGHTS 🚀\n\n- Increase in drivers rolling negative equity into new car loans 📈\n- Experts advise on minimizing costs in this challenging situation 💡\n- Understanding implications crucial before buying a new vehicle 🚗\n\nTAKEAWAY: With 'underwater' car trade-ins at a 4-year high, strategic planning and expert advice are key to minimizing costs and making informed decisions when purchasing a new vehicle.",
       "exported_at": "2025-09-14T17:28:38.927197",
+      "continuous_session": true
+    },
+    {
+      "title": "Stock futures are little changed after record Nasdaq close; investors await Fed meeting: Live updates",
+      "link": "https://www.cnbc.com/2025/09/14/stock-market-today-live-updates.html",
+      "summary": "Wall Street is hopeful the Federal Reserve will cut interest rates at the conclusion of its meeting Wednesday.",
+      "published": "Sun, 14 Sep 2025 22:03:59 GMT",
+      "content": "Wall Street is hopeful the Federal Reserve will cut interest rates at the conclusion of its meeting Wednesday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c001a207852a831a106a88286881d6be",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK FUTURES STALL AFTER NASDAQ RECORD 🚀\n\n- Stock futures show minimal movement post-Nasdaq high 📉\n- Investors eye Federal Reserve meeting for rate cut clues 🧐\n- Wall Street hopeful for interest rate decrease ✅\n\nTAKEAWAY: Stock futures remain stable after Nasdaq hits a record high, with investors eagerly anticipating clues about a potential interest rate cut from the Federal Reserve meeting.",
+      "exported_at": "2025-09-14T18:09:14.106148",
       "continuous_session": true
     }
   ]
