@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-14T18:09:14.182866",
-    "total_articles": 976,
-    "new_articles_in_last_fetch": 976,
+    "created_at": "2025-09-14T18:24:30.533043",
+    "total_articles": 977,
+    "new_articles_in_last_fetch": 977,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -12686,6 +12686,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCK FUTURES STALL AFTER NASDAQ RECORD 🚀\n\n- Stock futures show minimal movement post-Nasdaq high 📉\n- Investors eye Federal Reserve meeting for rate cut clues 🧐\n- Wall Street hopeful for interest rate decrease ✅\n\nTAKEAWAY: Stock futures remain stable after Nasdaq hits a record high, with investors eagerly anticipating clues about a potential interest rate cut from the Federal Reserve meeting.",
       "exported_at": "2025-09-14T18:09:14.106148",
+      "continuous_session": true
+    },
+    {
+      "title": "Stock futures are little changed after record Nasdaq close; investors await Fed meeting: Live updates",
+      "link": "https://www.cnbc.com/2025/09/14/stock-market-today-live-updates.html",
+      "summary": "Investors are hopeful the Federal Reserve will cut interest rates at the conclusion of its meeting Wednesday.",
+      "published": "Sun, 14 Sep 2025 22:20:27 GMT",
+      "content": "Investors are hopeful the Federal Reserve will cut interest rates at the conclusion of its meeting Wednesday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c155c9bd90717f744a146d3105fe5276",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK FUTURES STABLE AHEAD OF FED MEETING 📈\n\n- Nasdaq hits record high, setting positive tone 🚀\n- Investors anticipate potential interest rate cuts by Fed ✅\n- Market remains stable before Fed meeting outcome 🎯\n- Optimism lingers as investors await Fed's decision ⚡️\n- Nasdaq's strong close sets positive sentiment 📊\n- Expectation for market movement post-Fed decision ⚠️\n\nTAKEAWAY: Stock futures hold steady as investors eagerly await the outcome of the Federal Reserve meeting, fueled by optimism for potential interest rate cuts.",
+      "exported_at": "2025-09-14T18:24:30.458142",
       "continuous_session": true
     }
   ]
