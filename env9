@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-14T05:28:56.155306",
-    "total_articles": 961,
-    "new_articles_in_last_fetch": 961,
+    "created_at": "2025-09-14T08:00:46.773278",
+    "total_articles": 962,
+    "new_articles_in_last_fetch": 962,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -12491,6 +12491,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: U.S., CHINA TRADE TALKS IN SPAIN TO RESOLVE TARIFF DISPUTE 🚀\n\n- Meetings aim to salvage trade ties amidst Trump's tariffs 🤝\n- Focus on resolving irritants to avoid relationship breakdown 💔\n- TikTok deadline adds urgency to negotiations ⏰\n- Both sides seek common ground for economic stability 💼\n- Talks crucial for global trade stability 🌍\n\nTAKEAWAY: U.S. and Chinese officials engage in high-stakes talks in Spain to avert trade relationship collapse, with TikTok deadline adding urgency to negotiations.",
       "exported_at": "2025-09-14T05:28:56.081353",
+      "continuous_session": true
+    },
+    {
+      "title": "UnitedHealth sought to meet Trump, WSJ reports",
+      "link": "https://www.cnbc.com/2025/09/14/unitedhealth-sought-to-meet-trump-wsj-reports.html",
+      "summary": "UnitedHealth has sought meetings with U.S. President Donald Trump, although it has not secured a meeting yet, The Wall Street Journal reported on Sunday.",
+      "published": "Sun, 14 Sep 2025 11:57:48 GMT",
+      "content": "UnitedHealth has sought meetings with U.S. President Donald Trump, although it has not secured a meeting yet, The Wall Street Journal reported on Sunday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ab40ef0da6ab4eb9b2f82ab19df31660",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: UNITEDHEALTH PURSUES MEETING WITH TRUMP, WSJ REVEALS 🚀\n\n- UnitedHealth aims to meet President Trump for undisclosed reasons\n- Meetings with Trump not finalized despite UnitedHealth's efforts\n- The Wall Street Journal discloses UnitedHealth's pursuit of a meeting\n\nTAKEAWAY: UnitedHealth's pursuit of a meeting with President Trump, as reported by WSJ, indicates potential strategic discussions that may impact the healthcare industry.",
+      "exported_at": "2025-09-14T08:00:46.698017",
       "continuous_session": true
     }
   ]
