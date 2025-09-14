@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-14T17:03:17.274355",
-    "total_articles": 974,
-    "new_articles_in_last_fetch": 974,
+    "created_at": "2025-09-14T17:28:39.004222",
+    "total_articles": 975,
+    "new_articles_in_last_fetch": 975,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -12660,6 +12660,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP ADMINISTRATION SEEKS $58M SECURITY BOOST AFTER CHARLIE KIRK ASSASSINATION 🚨\n\n- $58 million boost proposed for government security 🛡️\n- Focus on protecting executive and judicial branches 🏛️\n- Security enhancement requested post Charlie Kirk incident 🔒\n\nTAKEAWAY: The Trump administration's $58 million security boost proposal aims to strengthen protection for key branches of government after the Charlie Kirk assassination incident.",
       "exported_at": "2025-09-14T17:03:17.222084",
+      "continuous_session": true
+    },
+    {
+      "title": "&apos;Underwater&apos; car trade-ins are at a 4-year high: What that means when buying a new vehicle",
+      "link": "https://www.cnbc.com/2025/09/14/underwater-car-trade-ins-are-at-a-4-year-high-what-that-means-when-buying-a-new-vehicle.html",
+      "summary": "More drivers are rolling negative equity into new car loans. Here’s how to minimize the cost as much as possible in this situation, experts say.",
+      "published": "Sun, 14 Sep 2025 21:11:21 GMT",
+      "content": "More drivers are rolling negative equity into new car loans. Here’s how to minimize the cost as much as possible in this situation, experts say.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "52df8b4bdfd16fc65b52e10f2c8b22fc",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 'UNDERWATER' CAR TRADE-INS HIT 4-YEAR HIGH: BUYING INSIGHTS 🚀\n\n- Increase in drivers rolling negative equity into new car loans 📈\n- Experts advise on minimizing costs in this challenging situation 💡\n- Understanding implications crucial before buying a new vehicle 🚗\n\nTAKEAWAY: With 'underwater' car trade-ins at a 4-year high, strategic planning and expert advice are key to minimizing costs and making informed decisions when purchasing a new vehicle.",
+      "exported_at": "2025-09-14T17:28:38.927197",
       "continuous_session": true
     }
   ]
