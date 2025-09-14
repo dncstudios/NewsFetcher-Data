@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-14T09:57:42.200104",
-    "total_articles": 968,
-    "new_articles_in_last_fetch": 968,
+    "created_at": "2025-09-14T11:44:05.381673",
+    "total_articles": 969,
+    "new_articles_in_last_fetch": 969,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -12582,6 +12582,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CAN AMAZON AI VOICE OUTPERFORM CUSTOMER REVIEWS? 🚀\n\n- Amazon explores AI audio summaries to enhance shopping experience 🎧\n- Aim is to streamline decision-making process for buyers 📈\n- Potential shift from text reviews to AI-guided recommendations ⚡️\n- AI voice summaries may provide more efficient info to shoppers ✅\n- Experiment focuses on improving customer guidance and satisfaction 💡\n\nTAKEAWAY: Amazon's exploration of AI audio summaries signals a potential shift towards more efficient and user-friendly shopping experiences, aiming to enhance customer satisfaction.",
       "exported_at": "2025-09-14T09:57:42.127311",
+      "continuous_session": true
+    },
+    {
+      "title": "Charlie Kirk shooting: Utah Gov. Spencer Cox shares new details",
+      "link": "https://www.cnbc.com/2025/09/14/charlie-kirk-shooting-utah-gov-cox-.html",
+      "summary": "Investigators are still working to determine the motive for the killing of Charlie Kirk.",
+      "published": "Sun, 14 Sep 2025 15:43:16 GMT",
+      "content": "Investigators are still working to determine the motive for the killing of Charlie Kirk.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "321cf369f929a723c7eda3166532fc76",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CHARLIE KIRK SHOOTING: UTAH GOV. SPENCER COX REVEALS NEW DETAILS ⚠️\n\n- Investigators continue to uncover motive behind Charlie Kirk's tragic death 🔍\n- Utah Gov. Spencer Cox shares updates on the ongoing investigation 📢\n- Details surrounding the shooting of Charlie Kirk slowly emerging 🧐\n\nTAKEAWAY: Utah Gov. Spencer Cox sheds light on the investigation into the tragic shooting of Charlie Kirk as authorities work to unravel the motive behind the incident.",
+      "exported_at": "2025-09-14T11:44:05.306388",
       "continuous_session": true
     }
   ]
