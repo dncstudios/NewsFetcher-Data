@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-14T14:51:38.198844",
-    "total_articles": 973,
-    "new_articles_in_last_fetch": 973,
+    "created_at": "2025-09-14T17:03:17.274355",
+    "total_articles": 974,
+    "new_articles_in_last_fetch": 974,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -12647,6 +12647,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: 2025 EMMY AWARDS HOSTED BY NATE BARGATZE 🌟\n\n- 77th Primetime Emmy Awards airs on CBS this Sunday 📺\n- Nate Bargatze set to be a first-time host 🎤\n- Excitement builds up for the star-studded event 🌟\n\nTAKEAWAY: Get ready for a night of glitz and glamour as Nate Bargatze takes the stage to host the 2025 Emmy Awards, promising an unforgettable evening for all viewers.",
       "exported_at": "2025-09-14T14:51:38.121069",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump administration seeks $58 million security boost after Charlie Kirk assassination",
+      "link": "https://www.cnbc.com/2025/09/14/trump-security-charlie-kirk.html",
+      "summary": "The funding request would enhance security for the executive and judicial branches of government.",
+      "published": "Sun, 14 Sep 2025 20:59:46 GMT",
+      "content": "The funding request would enhance security for the executive and judicial branches of government.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "23b005adcf8921f99860faa75f33a220",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP ADMINISTRATION SEEKS $58M SECURITY BOOST AFTER CHARLIE KIRK ASSASSINATION 🚨\n\n- $58 million boost proposed for government security 🛡️\n- Focus on protecting executive and judicial branches 🏛️\n- Security enhancement requested post Charlie Kirk incident 🔒\n\nTAKEAWAY: The Trump administration's $58 million security boost proposal aims to strengthen protection for key branches of government after the Charlie Kirk assassination incident.",
+      "exported_at": "2025-09-14T17:03:17.222084",
       "continuous_session": true
     }
   ]
