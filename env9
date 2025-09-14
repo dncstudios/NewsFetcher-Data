@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-14T08:00:46.773278",
-    "total_articles": 962,
-    "new_articles_in_last_fetch": 962,
+    "created_at": "2025-09-14T08:46:39.798755",
+    "total_articles": 965,
+    "new_articles_in_last_fetch": 965,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -12504,6 +12504,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: UNITEDHEALTH PURSUES MEETING WITH TRUMP, WSJ REVEALS 🚀\n\n- UnitedHealth aims to meet President Trump for undisclosed reasons\n- Meetings with Trump not finalized despite UnitedHealth's efforts\n- The Wall Street Journal discloses UnitedHealth's pursuit of a meeting\n\nTAKEAWAY: UnitedHealth's pursuit of a meeting with President Trump, as reported by WSJ, indicates potential strategic discussions that may impact the healthcare industry.",
       "exported_at": "2025-09-14T08:00:46.698017",
+      "continuous_session": true
+    },
+    {
+      "title": "An AI ‘house of cards’: Worries of a bubble grow after Oracle’s rally on Open AI deal",
+      "link": "https://www.cnbc.com/2025/09/14/an-ai-house-of-cards-worries-of-a-bubble-grow-after-oracles-rally-on-open-ai-deal.html",
+      "summary": "OpenAI needs more than $300 billion in revenue to \"justify\" its level of spending, one analyst said.",
+      "published": "Sun, 14 Sep 2025 12:22:42 GMT",
+      "content": "OpenAI needs more than $300 billion in revenue to \"justify\" its level of spending, one analyst said.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4fec7d60aa4218f4d13492777d268632",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AN AI BUBBLE BUILDS: ORACLE'S OPENAI DEAL RAISES CONCERNS 🚨\n\n- Analyst warns OpenAI needs over $300B revenue to match spending 💸\n- Oracle's rally triggers fears of an AI market bubble 📈\n- Concerns grow over sustainability of AI investments 🤯\n\nTAKEAWAY: Oracle's partnership with OpenAI raises worries of an AI bubble as analysts highlight the massive revenue needed to justify current spending levels.",
+      "exported_at": "2025-09-14T08:46:39.714437",
+      "continuous_session": true
+    },
+    {
+      "title": "Top Wall Street analysts bet on the potential of these 3 stocks for the long haul",
+      "link": "https://www.cnbc.com/2025/09/14/top-wall-street-analysts-bet-on-the-potential-of-these-3-stocks-for-the-long-haul.html",
+      "summary": "TipRanks' ranking service discusses three stocks, including Broadcom and Oracle, that are favored by Wall Street.",
+      "published": "Sun, 14 Sep 2025 12:35:34 GMT",
+      "content": "TipRanks' ranking service discusses three stocks, including Broadcom and Oracle, that are favored by Wall Street.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a20e47d0abbd230bc1368bd78130994d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WALL STREET ANALYSTS BACK BROADCOM & ORACLE FOR LONG-TERM GROWTH 🚀\n\n- Top analysts endorse Broadcom & Oracle for future potential 📈\n- These stocks are favored picks for long-term investment 🔝\n- TipRanks' ranking service highlights strong prospects for Broadcom & Oracle 💪\n\nTAKEAWAY: Wall Street analysts are bullish on Broadcom and Oracle, seeing them as top choices for long-term growth potential.",
+      "exported_at": "2025-09-14T08:46:39.714628",
+      "continuous_session": true
+    },
+    {
+      "title": "Wall Street’s SPAC engine restarts as deal volume hits post-2021 high",
+      "link": "https://www.cnbc.com/2025/09/14/wall-streets-spac-engine-restarts-as-deal-volume-hits-post-2021-high.html",
+      "summary": "So far this year, 89 SPACs have launched IPOs, the busiest pace since 2021,  according to data from SPACInsider.",
+      "published": "Sun, 14 Sep 2025 12:29:20 GMT",
+      "content": "So far this year, 89 SPACs have launched IPOs, the busiest pace since 2021,  according to data from SPACInsider.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "afe1396dad19ebadf4b6671b2f2f659c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WALL STREET'S SPAC MARKET ROARS BACK TO LIFE 🚀\n\n- 89 SPAC IPOs launched this year, highest since 2021 📈\n- SPACInsider data reveals a surge in deal volume 📊\n- Wall Street's SPAC engine restarts after a slowdown 🏎️\n- Market sees renewed interest in Special Purpose Acquisition Companies 💼\n- Investors eye opportunities in the resurging SPAC market 👀\n- SPACs gain momentum with increased IPO activity 🔥\n\nTAKEAWAY: The SPAC market is back in full swing with a surge in deal volume and investor interest, marking a strong comeback from a previous slowdown.",
+      "exported_at": "2025-09-14T08:46:39.714664",
       "continuous_session": true
     }
   ]
