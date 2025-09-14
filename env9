@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-14T12:19:35.435455",
-    "total_articles": 970,
-    "new_articles_in_last_fetch": 970,
+    "created_at": "2025-09-14T13:10:14.555092",
+    "total_articles": 971,
+    "new_articles_in_last_fetch": 971,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -12608,6 +12608,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CONSUMERS EMBRACE BUY NOW, PAY LATER LOANS 🚀\n\n- Buy now, pay later loans challenge traditional credit cards 🃏\n- Banks cautious of impact on consumer credit profiles 📉\n- Financial institutions wary of the rising trend 💳\n\nTAKEAWAY: The surge in buy now, pay later loans is reshaping the lending landscape, causing banks and credit card companies to monitor their impact on consumer behavior closely.",
       "exported_at": "2025-09-14T12:19:35.355957",
+      "continuous_session": true
+    },
+    {
+      "title": "NFL star Saquon Barkley has reportedly invested millions in tech startups and VC funds—from an AI giant to Elon Musk&apos;s Neuralink",
+      "link": "https://www.cnbc.com/2025/09/14/nfl-star-saquon-barkley-has-invested-millions-in-tech-startups-report.html",
+      "summary": "Philadelphia Eagles running back Saquon Barkley has reportedly invested millions of dollars from his NFL paychecks in buzzy tech startups and venture funds.",
+      "published": "Sun, 14 Sep 2025 17:08:14 GMT",
+      "content": "Philadelphia Eagles running back Saquon Barkley has reportedly invested millions of dollars from his NFL paychecks in buzzy tech startups and venture funds.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "283d2ecb31cc5ed20d0d4d2d35d8dfd6",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SAQUON BARKLEY MAKES MILLION-DOLLAR TECH INVESTMENTS 🚀\n\n- NFL star Barkley invests millions in tech startups and VC funds 💰\n- Diversifies portfolio with investments in AI giant and Neuralink 🔌\n- Utilizes earnings from Philadelphia Eagles for tech investments 🏈\n- Demonstrates interest in cutting-edge technology and innovation 💡\n\nTAKEAWAY: Saquon Barkley's strategic investments in tech startups and venture funds showcase his financial acumen and interest in emerging technologies, diversifying his portfolio beyond the football field.",
+      "exported_at": "2025-09-14T13:10:14.483257",
       "continuous_session": true
     }
   ]
