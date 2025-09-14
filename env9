@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-14T09:37:25.277792",
-    "total_articles": 967,
-    "new_articles_in_last_fetch": 967,
+    "created_at": "2025-09-14T09:57:42.200104",
+    "total_articles": 968,
+    "new_articles_in_last_fetch": 968,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -12569,6 +12569,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: U.S. AND CHINA TRADE TALKS IN SPAIN: TIKTOK DEADLINE LOOMS ⚠️\n\n- U.S. officials meet with Chinese counterparts in Spain 🤝\n- Talks to address trade issues and upcoming TikTok deadline 📉\n- U.S. Treasury Secretary and Trade Representative present 🇺🇸\n- Chinese Vice Premier and top trade negotiator also attending 🇨🇳\n\nTAKEAWAY: High-level discussions between U.S. and Chinese officials in Spain aim to tackle trade challenges and address the looming TikTok deadline.",
       "exported_at": "2025-09-14T09:37:25.213665",
+      "continuous_session": true
+    },
+    {
+      "title": "Can an Amazon AI voice guide you better than customer product reviews? It&apos;s starting to try",
+      "link": "https://www.cnbc.com/2025/09/14/amazon-product-reviews-ai-customers-online-shopping.html",
+      "summary": "Amazon shoppers can easily go down the rabbit hole of customer product reviews. Can an AI audio summary replace them all?",
+      "published": "Sun, 14 Sep 2025 13:15:01 GMT",
+      "content": "Amazon shoppers can easily go down the rabbit hole of customer product reviews. Can an AI audio summary replace them all?",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "29f498f62ac380791d3b80d4098b27d4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CAN AMAZON AI VOICE OUTPERFORM CUSTOMER REVIEWS? 🚀\n\n- Amazon explores AI audio summaries to enhance shopping experience 🎧\n- Aim is to streamline decision-making process for buyers 📈\n- Potential shift from text reviews to AI-guided recommendations ⚡️\n- AI voice summaries may provide more efficient info to shoppers ✅\n- Experiment focuses on improving customer guidance and satisfaction 💡\n\nTAKEAWAY: Amazon's exploration of AI audio summaries signals a potential shift towards more efficient and user-friendly shopping experiences, aiming to enhance customer satisfaction.",
+      "exported_at": "2025-09-14T09:57:42.127311",
       "continuous_session": true
     }
   ]
