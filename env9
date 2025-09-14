@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-14T13:10:14.555092",
-    "total_articles": 971,
-    "new_articles_in_last_fetch": 971,
+    "created_at": "2025-09-14T14:21:09.756727",
+    "total_articles": 972,
+    "new_articles_in_last_fetch": 972,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -12621,6 +12621,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SAQUON BARKLEY MAKES MILLION-DOLLAR TECH INVESTMENTS 🚀\n\n- NFL star Barkley invests millions in tech startups and VC funds 💰\n- Diversifies portfolio with investments in AI giant and Neuralink 🔌\n- Utilizes earnings from Philadelphia Eagles for tech investments 🏈\n- Demonstrates interest in cutting-edge technology and innovation 💡\n\nTAKEAWAY: Saquon Barkley's strategic investments in tech startups and venture funds showcase his financial acumen and interest in emerging technologies, diversifying his portfolio beyond the football field.",
       "exported_at": "2025-09-14T13:10:14.483257",
+      "continuous_session": true
+    },
+    {
+      "title": "An AI ‘house of cards’: Worries of a bubble grow after Oracle’s rally on OpenAI deal",
+      "link": "https://www.cnbc.com/2025/09/14/an-ai-house-of-cards-worries-of-a-bubble-grow-after-oracles-rally-on-open-ai-deal.html",
+      "summary": "OpenAI needs more than $300 billion in revenue to \"justify\" its level of spending, one analyst said.",
+      "published": "Sun, 14 Sep 2025 18:19:07 GMT",
+      "content": "OpenAI needs more than $300 billion in revenue to \"justify\" its level of spending, one analyst said.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c50bdb53a435e0b55bb56e5b325291f3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AN AI BUBBLE BUILDS: ORACLE'S OPENAI DEAL RAISES CONCERNS 🚨\n\n- Analyst warns OpenAI needs over $300B revenue to match spending 💸\n- Oracle's rally triggers fears of an AI market bubble 📈\n- Concerns grow over sustainability of AI investments 🤯\n\nTAKEAWAY: Oracle's partnership with OpenAI raises worries of an AI bubble as analysts highlight the massive revenue needed to justify current spending levels.",
+      "exported_at": "2025-09-14T14:21:09.682106",
       "continuous_session": true
     }
   ]
