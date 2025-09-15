@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-15T05:28:48.805809",
-    "total_articles": 997,
-    "new_articles_in_last_fetch": 997,
+    "created_at": "2025-09-15T05:33:59.212495",
+    "total_articles": 998,
+    "new_articles_in_last_fetch": 998,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -12959,6 +12959,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: HOLLYWOOD HAILS 'THE PITT' & 'THE STUDIO' AT EMMY AWARDS 🌟\n\n- \"The Pitt\" wins top drama; \"The Studio\" best comedy 🏆\n- Emergency room saga and show-business satire take the spotlight 🎬\n- Hollywood celebrates the best in television at the Emmy Awards ✨\n\nTAKEAWAY: \"The Pitt\" and \"The Studio\" shine bright as they clinch the top spots in drama and comedy categories, showcasing Hollywood's finest television talent.",
       "exported_at": "2025-09-15T05:28:48.792420",
+      "continuous_session": true
+    },
+    {
+      "title": "Why is Sam Altman losing sleep? OpenAI CEO addresses controversies in sweeping interview",
+      "link": "https://www.cnbc.com/2025/09/15/sam-altman-losing-sleep-open-ai-ceo-addresses-controversies-interview.html",
+      "summary": "OpenAI CEO Sam Altman addressed a plethora of moral and ethical questions regarding his company and its AI chatbot in a sweeping interview with Tucker Carlson.",
+      "published": "Mon, 15 Sep 2025 09:03:35 GMT",
+      "content": "OpenAI CEO Sam Altman addressed a plethora of moral and ethical questions regarding his company and its AI chatbot in a sweeping interview with Tucker Carlson.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "db8e19b2a520d77e511ca322acd041ea",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WHY IS SAM ALTMAN LOSING SLEEP? 🌙\n\n- OpenAI CEO tackles ethical concerns in interview with Tucker Carlson 🎤\n- Altman addresses controversies surrounding AI chatbot 🤖\n- Discussion delves into moral and ethical implications of AI technology 💡\n\nTAKEAWAY: Sam Altman's candid interview sheds light on OpenAI's stance on ethical dilemmas, sparking crucial conversations within the tech industry.",
+      "exported_at": "2025-09-15T05:33:59.200075",
       "continuous_session": true
     }
   ]
