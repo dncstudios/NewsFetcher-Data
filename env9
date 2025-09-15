@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-15T16:20:18.350306",
-    "total_articles": 1046,
-    "new_articles_in_last_fetch": 1046,
+    "created_at": "2025-09-15T17:16:15.348988",
+    "total_articles": 1047,
+    "new_articles_in_last_fetch": 1047,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -13595,6 +13595,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SANTOLI'S MARKET WRAP-UP: STOCKS IDLE AFTER RECORD HIGHS 📈\n\n- Majority of stocks idle post-record highs 📊\n- Mega-tech stocks boosted by unique fund flows 🚀\n- S&P 500 influenced by tech stock performance 💻\n\nTAKEAWAY: Stock market sees idling post-record highs with unique fund flows boosting mega-tech stocks and influencing the S&P 500.",
       "exported_at": "2025-09-15T16:20:18.272604",
+      "continuous_session": true
+    },
+    {
+      "title": "Senate to vote on Trump Fed pick Stephen Miran ahead of central bank meeting",
+      "link": "https://www.cnbc.com/2025/09/15/trump-stephen-miran-federal-reserve-interest-rates.html",
+      "summary": "Miran's fast-tracked confirmation vote comes as Trump has moved to fire Fed Governor Lisa Cook from the central bank, citing allegations of mortgage fraud.",
+      "published": "Mon, 15 Sep 2025 21:14:12 GMT",
+      "content": "Miran's fast-tracked confirmation vote comes as Trump has moved to fire Fed Governor Lisa Cook from the central bank, citing allegations of mortgage fraud.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "297b6bbd563b91e787ce6851838844c4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SENATE VOTES ON TRUMP'S FAST-TRACKED FED PICK ⚡️\n\n- Senate to vote on Stephen Miran ahead of Fed meeting 🏦\n- Trump aims to remove Fed Governor Lisa Cook for alleged fraud 🔍\n- Miran's confirmation could impact central bank decisions 📈\n\nTAKEAWAY: The Senate's vote on Stephen Miran, Trump's Fed pick, and the move to fire Fed Governor Lisa Cook signal potential shifts in the central bank's leadership and decisions.",
+      "exported_at": "2025-09-15T17:16:15.268494",
       "continuous_session": true
     }
   ]
