@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-14T22:27:45.008651",
-    "total_articles": 981,
-    "new_articles_in_last_fetch": 981,
+    "created_at": "2025-09-14T22:37:58.258528",
+    "total_articles": 982,
+    "new_articles_in_last_fetch": 982,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -12751,6 +12751,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CHINA'S ECONOMIC SLOWDOWN CONTINUES IN AUGUST 📉\n\n- China's industrial output growth drops to 5.2% in August\n- July's 5.7% increase fails to sustain momentum 📉\n- Weakest industrial performance since August 2024 📉\n- Retail sales and industrial output miss expectations 📉\n- LSEG data highlights the economic challenges in China 📊\n- Concerns rise as China's economic slowdown persists 🚨\n\nTAKEAWAY: China's economic slowdown deepens in August as industrial output growth falters to its weakest level since August 2024, raising concerns about the country's economic trajectory.",
       "exported_at": "2025-09-14T22:27:44.932268",
+      "continuous_session": true
+    },
+    {
+      "title": "China&apos;s economy slowdown deepens in August with retail sales, industrial output missing expectations",
+      "link": "https://www.cnbc.com/2025/09/15/china-retail-sales-industrial-output-slow-in-august-missing-estimates-as-real-estate-slump-worsens.html",
+      "summary": "China's economic slowdown deepened in August with a raft of key indicators missing expectations amid sluggish domestic demand and Beijing's anti-involution campaign.",
+      "published": "Mon, 15 Sep 2025 02:37:20 GMT",
+      "content": "China's economic slowdown deepened in August with a raft of key indicators missing expectations amid sluggish domestic demand and Beijing's anti-involution campaign.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c4986e65bd5a775349f2fd54dd3d4ba4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CHINA'S ECONOMIC SLOWDOWN DEEPENS IN AUGUST 📉\n\n- Retail sales and industrial output fall below expectations 📉\n- Sluggish domestic demand contributes to economic slowdown ⚠️\n- Beijing's anti-involution campaign impacts economic performance ⚠️\n\nTAKEAWAY: China's economy faces challenges as key indicators like retail sales and industrial output miss expectations, highlighting the impact of sluggish domestic demand and Beijing's anti-involution campaign.",
+      "exported_at": "2025-09-14T22:37:58.194814",
       "continuous_session": true
     }
   ]
