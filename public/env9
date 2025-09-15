@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-15T01:35:13.787232",
-    "total_articles": 985,
-    "new_articles_in_last_fetch": 985,
+    "created_at": "2025-09-15T02:25:59.157635",
+    "total_articles": 987,
+    "new_articles_in_last_fetch": 987,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -12803,6 +12803,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CHINA'S ECONOMIC SLOWDOWN DEEPENS IN AUGUST 📉\n\n- Retail sales and industrial output fall below expectations 📉\n- Sluggish domestic demand contributes to economic slowdown ⚠️\n- Beijing's anti-involution campaign impacts economic performance ⚠️\n\nTAKEAWAY: China's economy faces challenges as key indicators like retail sales and industrial output miss expectations, highlighting the impact of sluggish domestic demand and Beijing's anti-involution campaign.",
       "exported_at": "2025-09-15T01:35:13.710327",
+      "continuous_session": true
+    },
+    {
+      "title": "Here are the five fintechs that could be next to IPO after Klarna",
+      "link": "https://www.cnbc.com/2025/09/15/5-fintechs-that-could-ipo-after-klarna.html",
+      "summary": "Klarna's bumper IPO has got investors wondering about which fintech names could be next to go public.",
+      "published": "Mon, 15 Sep 2025 06:21:03 GMT",
+      "content": "Klarna's bumper IPO has got investors wondering about which fintech names could be next to go public.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1c073d8a736b7cf27412e1078e833eea",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FIVE FINTECHS POISED FOR IPO AFTER KLARNA 🚀\n\n- Klarna's successful IPO sparks interest in potential fintech IPOs\n- Investors eye fintech companies for future public offerings\n- Speculation grows around the next big fintech players to hit the market\n\nTAKEAWAY: Klarna's successful IPO sets the stage for potential fintech companies to follow suit, generating excitement and anticipation among investors.",
+      "exported_at": "2025-09-15T02:25:59.118822",
+      "continuous_session": true
+    },
+    {
+      "title": "European stocks set to open mixed as global markets look ahead to Fed decision",
+      "link": "https://www.cnbc.com/2025/09/15/european-markets-on-mon-sept-15-sroxx-600-ftse-cac-dax.html",
+      "summary": "European stocks are expected to see a mixed start to the new trading week ahead of the U.S. Federal Reserve's meeting on Wednesday.",
+      "published": "Mon, 15 Sep 2025 05:38:53 GMT",
+      "content": "European stocks are expected to see a mixed start to the new trading week ahead of the U.S. Federal Reserve's meeting on Wednesday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9a939561542285d99a07814d353b6101",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: EUROPEAN STOCKS SET FOR MIXED OPEN AHEAD OF FED DECISION 📊\n\n- European markets anticipate varied start to trading week 🌍\n- Investors eye U.S. Federal Reserve meeting on Wednesday 🇺🇸\n- Uncertainty looms over market direction 🤔\n\nTAKEAWAY: European stocks brace for a mixed opening as investors await the outcome of the upcoming U.S. Federal Reserve meeting, introducing an air of uncertainty into the market.",
+      "exported_at": "2025-09-15T02:25:59.118876",
       "continuous_session": true
     }
   ]
