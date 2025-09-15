@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-14T20:31:17.899635",
-    "total_articles": 980,
-    "new_articles_in_last_fetch": 980,
+    "created_at": "2025-09-14T22:27:45.008651",
+    "total_articles": 981,
+    "new_articles_in_last_fetch": 981,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -12738,6 +12738,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ASIA MARKETS FACE LOWER OPEN AHEAD OF U.S.-CHINA TALKS IN SPAIN 📉\n\n- U.S. and China officials meet in Madrid for crucial talks 🤝\n- Discussions focus on national security, trade, and economic matters 💼\n- Investors monitor outcomes for potential market impact 📉📊\n- Uncertainty looms as Asia markets prepare for lower opening 🌏⚠️\n\nTAKEAWAY: Asia markets anticipate a lower opening as U.S. and China officials engage in crucial talks in Spain, raising uncertainty among investors.",
       "exported_at": "2025-09-14T20:31:17.817805",
+      "continuous_session": true
+    },
+    {
+      "title": "China’s slowdown deepens in August with retail sales, industrial output missing expectations",
+      "link": "https://www.cnbc.com/2025/09/15/china-retail-sales-industrial-output-slow-in-august-missing-estimates-as-real-estate-slump-worsens.html",
+      "summary": "Industrial output growth slowed to 5.2% in August, compared to the 5.7% jump in July, marking its weakest level since August 2024, according to LSEG data.",
+      "published": "Mon, 15 Sep 2025 02:26:11 GMT",
+      "content": "Industrial output growth slowed to 5.2% in August, compared to the 5.7% jump in July, marking its weakest level since August 2024, according to LSEG data.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9d63652ea2f9c10f1280b5bb1e3290a8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CHINA'S ECONOMIC SLOWDOWN CONTINUES IN AUGUST 📉\n\n- China's industrial output growth drops to 5.2% in August\n- July's 5.7% increase fails to sustain momentum 📉\n- Weakest industrial performance since August 2024 📉\n- Retail sales and industrial output miss expectations 📉\n- LSEG data highlights the economic challenges in China 📊\n- Concerns rise as China's economic slowdown persists 🚨\n\nTAKEAWAY: China's economic slowdown deepens in August as industrial output growth falters to its weakest level since August 2024, raising concerns about the country's economic trajectory.",
+      "exported_at": "2025-09-14T22:27:44.932268",
       "continuous_session": true
     }
   ]
