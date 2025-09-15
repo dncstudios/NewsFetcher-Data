@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-15T17:16:15.348988",
-    "total_articles": 1047,
-    "new_articles_in_last_fetch": 1047,
+    "created_at": "2025-09-15T18:42:25.510485",
+    "total_articles": 1048,
+    "new_articles_in_last_fetch": 1048,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -13608,6 +13608,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SENATE VOTES ON TRUMP'S FAST-TRACKED FED PICK ⚡️\n\n- Senate to vote on Stephen Miran ahead of Fed meeting 🏦\n- Trump aims to remove Fed Governor Lisa Cook for alleged fraud 🔍\n- Miran's confirmation could impact central bank decisions 📈\n\nTAKEAWAY: The Senate's vote on Stephen Miran, Trump's Fed pick, and the move to fire Fed Governor Lisa Cook signal potential shifts in the central bank's leadership and decisions.",
       "exported_at": "2025-09-15T17:16:15.268494",
+      "continuous_session": true
+    },
+    {
+      "title": "No evidence of primary residence violation by Fed Gov Lisa Cook, says Michigan official",
+      "link": "https://www.cnbc.com/2025/09/15/no-evidence-of-primary-residence-violation-by-fed-gov-lisa-cook-says-michigan-official.html",
+      "summary": "The property tax authority in Ann Arbor, Michigan, said that Federal Reserve Governor Lisa Cook hasn't broken rules for tax breaks on a home there that Cook declared her primary residence.",
+      "published": "Mon, 15 Sep 2025 22:29:11 GMT",
+      "content": "The property tax authority in Ann Arbor, Michigan, said that Federal Reserve Governor Lisa Cook hasn't broken rules for tax breaks on a home there that Cook declared her primary residence.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6272f5dcb16a1e7f157a3fb4c4376028",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NO VIOLATION FOUND: FED GOV LISA COOK CLEARED BY MICHIGAN OFFICIAL 🛡️\n\n- Ann Arbor confirms Lisa Cook did not breach primary residence rules ✅\n- Property tax authority finds no evidence of tax break misuse 🏠\n- Lisa Cook's declaration of primary residence remains valid 📜\n\nTAKEAWAY: Lisa Cook receives clearance as Michigan officials confirm no violation regarding her declared primary residence in Ann Arbor.",
+      "exported_at": "2025-09-15T18:42:25.422928",
       "continuous_session": true
     }
   ]
