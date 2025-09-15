@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-15T08:11:23.346507",
-    "total_articles": 1007,
-    "new_articles_in_last_fetch": 1007,
+    "created_at": "2025-09-15T08:31:40.877527",
+    "total_articles": 1008,
+    "new_articles_in_last_fetch": 1008,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -13088,6 +13088,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCKS MAKING BIGGEST PREMARKET MOVES: TESLA, NVIDIA, GEMINI, TEXAS INSTRUMENTS 🚀\n\n- Tesla, Nvidia, Gemini, Texas Instruments show significant premarket activity 📈\n- Investors eyeing these stocks for potential early trading opportunities 💼\n- Pre-market movements indicate potential volatility in the trading day ahead ⚠️\n\nTAKEAWAY: Tesla, Nvidia, Gemini, and Texas Instruments are showcasing remarkable premarket activity, attracting investor attention for potential trading opportunities and signaling possible volatility ahead.",
       "exported_at": "2025-09-15T08:11:23.333374",
+      "continuous_session": true
+    },
+    {
+      "title": "Here are Monday&apos;s biggest analyst calls: Nvidia, Apple, Tesla, Broadcom, CoreWeave, Disney, Palantir, Micron Technology &amp; more",
+      "link": "https://www.cnbc.com/2025/09/15/mondays-sell-side-stocks-calls-from-analysts-include-nvidia-palantir.html",
+      "summary": "Here are the biggest sell-side research calls on Wall Street on Monday.",
+      "published": "Mon, 15 Sep 2025 12:19:00 GMT",
+      "content": "Here are the biggest sell-side research calls on Wall Street on Monday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "93fc794136d4aed9dccda58eeabbc398",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MONDAY'S TOP ANALYST CALLS: NVIDIA, APPLE, TESLA 🚀\n\n- Wall Street's key sell-side research calls unveiled 🌟\n- Analysts provide insights on Broadcom, Disney, Palantir 🎯\n- Micron Technology also under the spotlight 🔦\n\nTAKEAWAY: Monday's analyst calls shed light on top stocks like NVIDIA, Apple, and Tesla, offering valuable insights for investors.",
+      "exported_at": "2025-09-15T08:31:40.864339",
       "continuous_session": true
     }
   ]
