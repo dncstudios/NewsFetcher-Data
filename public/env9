@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-15T05:39:04.838536",
-    "total_articles": 999,
-    "new_articles_in_last_fetch": 999,
+    "created_at": "2025-09-15T06:55:07.542819",
+    "total_articles": 1001,
+    "new_articles_in_last_fetch": 1001,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -12984,6 +12984,32 @@
       "hash": "2b679c01ddef01e7a7eaa7af0a180390",
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "exported_at": "2025-09-15T05:39:04.825650",
+      "continuous_session": true
+    },
+    {
+      "title": "Tesla shares gain after Elon Musk purchases 2.6 million shares worth about $1 billion",
+      "link": "https://www.cnbc.com/2025/09/15/tesla-shares-gain-after-elon-musk-discloses-purchase.html",
+      "summary": "It's the CEO's most significant purchase in the open market since 2020.",
+      "published": "Mon, 15 Sep 2025 10:51:27 GMT",
+      "content": "It's the CEO's most significant purchase in the open market since 2020.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "67d06b98eda5e534b8d53cfd2169bafa",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TESLA SHARES SOAR AS ELON MUSK BUYS $1 BILLION WORTH OF SHARES 🚀\n\n- Musk's purchase of 2.6M shares boosts Tesla's market confidence 📈\n- CEO's largest open market acquisition since 2020 💰\n- Investors react positively to Musk's significant move 🙌\n\nTAKEAWAY: Elon Musk's $1 billion purchase of Tesla shares sparks investor confidence and drives the stock price up, signaling trust in the company's future growth.",
+      "exported_at": "2025-09-15T06:55:07.529804",
+      "continuous_session": true
+    },
+    {
+      "title": "Nvidia probe and TikTok deadline loom over U.S.-China trade talks",
+      "link": "https://www.cnbc.com/2025/09/15/us-and-china-resume-madrid-trade-talks-as-tiktok-deadline-looms.html",
+      "summary": "U.S. and Chinese trade representatives are set to continue their talks into a second day in Spain, with sticking points like tariff rates, export controls and a divestment of TikTok.",
+      "published": "Mon, 15 Sep 2025 09:47:02 GMT",
+      "content": "U.S. and Chinese trade representatives are set to continue their talks into a second day in Spain, with sticking points like tariff rates, export controls and a divestment of TikTok.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b40f3b71ab0f2c14b7e9b5f74721dbcd",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NVIDIA PROBE AND TIKTOK DEADLINE SHAPE U.S.-CHINA TRADE TALKS ⚠️\n\n- U.S. and China discuss tariff rates, export controls in Spain 🤝\n- TikTok divestment remains a key point of contention 💼\n- Uncertainty surrounds the outcome of the talks 🤔\n\nTAKEAWAY: The looming Nvidia probe and TikTok deadline add tension to U.S.-China trade talks as crucial issues like tariff rates and export controls are negotiated.",
+      "exported_at": "2025-09-15T06:55:07.529818",
       "continuous_session": true
     }
   ]
