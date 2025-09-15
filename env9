@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-15T05:33:59.212495",
-    "total_articles": 998,
-    "new_articles_in_last_fetch": 998,
+    "created_at": "2025-09-15T05:39:04.838536",
+    "total_articles": 999,
+    "new_articles_in_last_fetch": 999,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -12972,6 +12972,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WHY IS SAM ALTMAN LOSING SLEEP? 🌙\n\n- OpenAI CEO tackles ethical concerns in interview with Tucker Carlson 🎤\n- Altman addresses controversies surrounding AI chatbot 🤖\n- Discussion delves into moral and ethical implications of AI technology 💡\n\nTAKEAWAY: Sam Altman's candid interview sheds light on OpenAI's stance on ethical dilemmas, sparking crucial conversations within the tech industry.",
       "exported_at": "2025-09-15T05:33:59.200075",
+      "continuous_session": true
+    },
+    {
+      "title": "What I learned from the CEOs of Apple and Corning convinced me of 3 things",
+      "link": "https://www.cnbc.com/2025/09/14/cramer-what-i-learned-from-ceos-of-apple-and-corning-convinced-me-of-3-things.html",
+      "summary": "My trip to Kentucky last week was eye opening.",
+      "published": "Mon, 15 Sep 2025 00:24:09 GMT",
+      "content": "My trip to Kentucky last week was eye opening.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2b679c01ddef01e7a7eaa7af0a180390",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "exported_at": "2025-09-15T05:39:04.825650",
       "continuous_session": true
     }
   ]
