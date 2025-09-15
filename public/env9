@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-15T09:12:36.207859",
-    "total_articles": 1015,
-    "new_articles_in_last_fetch": 1015,
+    "created_at": "2025-09-15T09:22:48.415646",
+    "total_articles": 1016,
+    "new_articles_in_last_fetch": 1016,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -13192,6 +13192,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JIM CRAMER'S TOP 10 STOCK MARKET WATCH LIST 🚀\n\n- Wall Street focuses on Federal Reserve's actions 🔍\n- Investors keen on market movements post-Fed updates 📈\n- Monday's stock market performance under scrutiny 💼\n\nTAKEAWAY: Stay alert as Wall Street closely monitors the Federal Reserve this week, impacting market dynamics.",
       "exported_at": "2025-09-15T09:12:36.195350",
+      "continuous_session": true
+    },
+    {
+      "title": "Retirement feels impossible for 1 in 5 Americans, survey finds. Experts say a plan can help",
+      "link": "https://www.cnbc.com/2025/09/15/retirement-security-depends-on-planning.html",
+      "summary": "Many Americans are worried inflation, benefit cuts and not being able to save enough will squash their retirement dreams. Following a plan can help.",
+      "published": "Mon, 15 Sep 2025 13:13:46 GMT",
+      "content": "Many Americans are worried inflation, benefit cuts and not being able to save enough will squash their retirement dreams. Following a plan can help.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7689720a456a18ea1712cce9d3907d42",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: RETIREMENT FEARS GRIP 1 IN 5 AMERICANS 🚨\n\n- 20% of Americans fear retirement due to inflation, benefit cuts\n- Concerns about inadequate savings for retirement widespread\n- Experts advise following a solid retirement plan for security\n\nTAKEAWAY: 1 in 5 Americans face retirement fears, but with a well-structured plan, they can secure their financial future despite inflation and benefit cut worries.",
+      "exported_at": "2025-09-15T09:22:48.402973",
       "continuous_session": true
     }
   ]
