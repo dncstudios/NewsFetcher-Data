@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-15T10:34:06.054251",
-    "total_articles": 1022,
-    "new_articles_in_last_fetch": 1022,
+    "created_at": "2025-09-15T10:49:20.123328",
+    "total_articles": 1023,
+    "new_articles_in_last_fetch": 1023,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -13283,6 +13283,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: DON'T ASK 'HOW ARE YOU?' SUCCESSFUL TIPS TO BUILD TRUST ⚡️\n\n- Small signals in initial seconds crucial for trust 🔍\n- Trust can ignite quickly or vanish instantly 🔥\n- Psychology expert Vanessa Van Edwards emphasizes first impressions 🧠\n\nTAKEAWAY: Success in building trust lies in mastering small signals and creating impactful first impressions, as highlighted by psychology expert Vanessa Van Edwards.",
       "exported_at": "2025-09-15T10:34:06.041429",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump tariffs are fueling inflation, congressional budget chief says",
+      "link": "https://www.cnbc.com/2025/09/15/trump-trade-inflation-tariffs-cbo.html",
+      "summary": "President Donald Trump's tariffs face an uncertain future as the Supreme Court is poised to hear the administration's appeal of lower court rulings.",
+      "published": "Mon, 15 Sep 2025 14:38:47 GMT",
+      "content": "President Donald Trump's tariffs face an uncertain future as the Supreme Court is poised to hear the administration's appeal of lower court rulings.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7342d7b18e643f403052925fac186c7f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP TARIFFS FUEL INFLATION, UNCERTAIN FUTURE AWAITS SUPREME COURT 🚨\n\n- Congressional budget chief warns of inflation impact from Trump's tariffs\n- Supreme Court to review administration's appeal on tariff rulings\n- Uncertainty looms over the future of Trump's tariff policies\n\nTAKEAWAY: Trump's tariffs are under scrutiny for fueling inflation, as the Supreme Court's pending review adds to the uncertainty surrounding their future impact.",
+      "exported_at": "2025-09-15T10:49:20.108469",
       "continuous_session": true
     }
   ]
