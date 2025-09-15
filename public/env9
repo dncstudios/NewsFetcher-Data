@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-15T07:20:38.917056",
-    "total_articles": 1005,
-    "new_articles_in_last_fetch": 1005,
+    "created_at": "2025-09-15T07:51:03.008522",
+    "total_articles": 1006,
+    "new_articles_in_last_fetch": 1006,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -13062,6 +13062,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: MORE CONSUMERS BOOST CREDIT WITH RENT PAYMENTS 🚀\n\n- Tenants report rent payments to enhance credit score 🏠💳\n- Experts advise considering factors before enrolling 🧐💡\n\nTAKEAWAY: Utilizing rent payments to improve credit history is a rising trend among consumers, but careful consideration is crucial before enrolling to ensure maximum benefit.",
       "exported_at": "2025-09-15T07:20:38.903454",
+      "continuous_session": true
+    },
+    {
+      "title": "Deutsche Bank raises Micron price target ahead of earnings next week",
+      "link": "https://www.cnbc.com/2025/09/15/deutsche-bank-raises-micron-price-target-ahead-of-earnings-next-week.html",
+      "summary": "Deutsche Bank sees shares of Micron rising 11% from here.",
+      "published": "Mon, 15 Sep 2025 11:36:16 GMT",
+      "content": "Deutsche Bank sees shares of Micron rising 11% from here.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "bb9847f86e063f5ccb42baf06705efbc",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DEUTSCHE BANK BOOSTS MICRON PRICE TARGET AHEAD OF EARNINGS 🚀\n\n- Deutsche Bank predicts Micron shares to surge by 11%\n- Bullish outlook for Micron ahead of upcoming earnings report\n- Investor confidence in Micron's growth potential on the rise\n\nTAKEAWAY: Deutsche Bank's optimistic forecast propels Micron's potential for a significant price increase, reflecting growing investor confidence in the company's performance.",
+      "exported_at": "2025-09-15T07:51:02.995583",
       "continuous_session": true
     }
   ]
