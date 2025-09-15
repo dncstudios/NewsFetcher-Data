@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-15T10:54:28.105049",
-    "total_articles": 1024,
-    "new_articles_in_last_fetch": 1024,
+    "created_at": "2025-09-15T11:14:47.324720",
+    "total_articles": 1025,
+    "new_articles_in_last_fetch": 1025,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -13309,6 +13309,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: A 'COVERED CALL' STRATEGY FOR NETFLIX INVESTORS 🚀\n\n- Learn how to use covered call options for Netflix gains 📈\n- Michael Khouw details structuring a covered call trade 📊\n- Strategy aims to bet on Netflix growth while managing risk ⚖️\n\nTAKEAWAY: Dive into the world of covered call options with Michael Khouw's strategy, maximizing Netflix gains while minimizing risks.",
       "exported_at": "2025-09-15T10:54:28.092272",
+      "continuous_session": true
+    },
+    {
+      "title": "What pro traders are watching into the Fed. One popular trade is &apos;knocking on the door&apos; of a breakout",
+      "link": "https://www.cnbc.com/2025/09/15/what-pro-traders-are-watching-into-the-fed-one-popular-trade-is-knocking-on-the-door-of-a-breakout.html",
+      "summary": "Jay Woods reviews the Fed decision setup along with three key companies reporting earnings.",
+      "published": "Mon, 15 Sep 2025 15:05:08 GMT",
+      "content": "Jay Woods reviews the Fed decision setup along with three key companies reporting earnings.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a5003870ed2800a66f55bb6c8fa79f64",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WHAT PRO TRADERS EAGERLY WATCH AHEAD OF FED DECISION 🚀\n\n- Pro traders eye Fed decision setup for potential breakout 📈\n- Popular trade on the verge of a significant breakout opportunity 💰\n- Jay Woods analyzes Fed decision impact on three key companies' earnings 💼\n\nTAKEAWAY: Pro traders are closely monitoring the Fed decision setup and key companies' earnings, anticipating potential breakout opportunities in the market.",
+      "exported_at": "2025-09-15T11:14:47.312224",
       "continuous_session": true
     }
   ]
