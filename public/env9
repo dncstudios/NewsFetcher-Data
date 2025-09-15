@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-15T12:41:29.985559",
-    "total_articles": 1033,
-    "new_articles_in_last_fetch": 1033,
+    "created_at": "2025-09-15T13:22:05.860673",
+    "total_articles": 1035,
+    "new_articles_in_last_fetch": 1035,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -13426,6 +13426,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: MAURENE COMEY SUES TRUMP DOJ OVER 'ILLEGAL' FIRING ⚠️\n\n- Comey, prosecutor in Epstein and Maxwell cases, sues Trump admin 🕵️‍♀️\n- Legal battle initiated to reinstate Comey to her position ⚖️\n- Lawsuit filed against Trump DOJ for wrongful termination ⚖️\n- Comey seeks justice and restoration of her role in cases 🔍\n- Legal action taken to challenge the firing by Trump administration ⚖️\n- Lawsuit aims to address alleged illegal termination by Trump DOJ ⚖️\n\nTAKEAWAY: Maurene Comey's lawsuit against the Trump DOJ seeks to rectify her alleged wrongful termination and reinstatement in high-profile criminal cases, emphasizing the pursuit of justice.",
       "exported_at": "2025-09-15T12:41:29.972855",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves midday: Tesla, Alaska Air, Texas Instruments, Western Digital and more",
+      "link": "https://www.cnbc.com/2025/09/15/stocks-making-big-midday-moves-tsla-alk-txn-and-more.html",
+      "summary": "These are some of the stocks posting the largest midday moves.",
+      "published": "Mon, 15 Sep 2025 17:15:44 GMT",
+      "content": "These are some of the stocks posting the largest midday moves.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "69c65b02eaa079c440dddff0840017c0",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS MAKING BIG MOVES MIDDAY: TESLA, ALASKA AIR, TEXAS INSTRUMENTS 🚀\n\n- Tesla, Alaska Air, Texas Instruments show significant midday movement 📈\n- Western Digital among top performers in midday trading 🎯\n- Stocks making waves with substantial changes mid-session ⚡️\n\nTAKEAWAY: Tesla, Alaska Air, Texas Instruments, and Western Digital stand out with substantial midday stock movements, attracting investors' attention.",
+      "exported_at": "2025-09-15T13:22:05.803025",
+      "continuous_session": true
+    },
+    {
+      "title": "RBC Capital raises year-end S&amp;P 500 target, but sees ‘choppy’ action after big rally",
+      "link": "https://www.cnbc.com/2025/09/15/rbc-hikes-year-end-sp-500-target-but-sees-choppy-action-after-big-rally.html",
+      "summary": "RBC's updated, higher forecast for the S&amp;P 500 is still about 4% below where the index is currently trading.",
+      "published": "Mon, 15 Sep 2025 17:20:39 GMT",
+      "content": "RBC's updated, higher forecast for the S&amp;P 500 is still about 4% below where the index is currently trading.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "69e9ea3288b0be67a35716c6bad5d68b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: RBC CAPITAL BOOSTS S&P 500 TARGET, EXPECTS 'CHOPPY' TRADING 🚀\n\n- RBC raises year-end S&P 500 forecast, remains 4% lower than current level\n- Anticipates turbulent market action post significant rally\n- Higher target suggests potential growth despite expected volatility\n\nTAKEAWAY: RBC's bullish outlook on the S&P 500, despite predicting choppy trading ahead, hints at future growth opportunities in the market.",
+      "exported_at": "2025-09-15T13:22:05.803085",
       "continuous_session": true
     }
   ]
