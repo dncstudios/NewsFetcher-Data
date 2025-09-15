@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-15T14:07:51.333606",
-    "total_articles": 1037,
-    "new_articles_in_last_fetch": 1037,
+    "created_at": "2025-09-15T14:33:18.428405",
+    "total_articles": 1038,
+    "new_articles_in_last_fetch": 1038,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -13478,6 +13478,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: EXXON MOBIL INTRODUCES AUTO-VOTING TO COUNTER ACTIVISM 🚀\n\n- Exxon Mobil unveils auto-voting to combat shareholder activism\n- New mechanism aims to defend against activist campaigns ⚔️\n- Unique shareholder voting system designed for protection ✅\n\nTAKEAWAY: Exxon Mobil's innovative auto-voting system signals a strategic move to defend against shareholder activism with a unique mechanism.",
       "exported_at": "2025-09-15T14:07:51.321358",
+      "continuous_session": true
+    },
+    {
+      "title": "Americans&apos; emergency funds are shrinking—here&apos;s how much they have saved",
+      "link": "https://www.cnbc.com/2025/09/15/american-emergency-funds-shrinking.html",
+      "summary": "Many Americans have less saved for an emergency this year, and 1 in 3 have no emergency fund.",
+      "published": "Mon, 15 Sep 2025 17:03:38 GMT",
+      "content": "Many Americans have less saved for an emergency this year, and 1 in 3 have no emergency fund.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b7dc888abe9cdd2af61ee6b516500678",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AMERICANS' EMERGENCY FUNDS SHRINKING, 1 IN 3 HAVE NONE ⚠️\n\n- Less savings for emergencies reported by many Americans 📉\n- Shockingly, 1 in 3 Americans have zero emergency funds 💸\n- Financial insecurity on the rise in the U.S. 📉\n- Importance of building emergency savings underscored 💪\n- Urgent need to prioritize saving for unexpected expenses 🚨\n\nTAKEAWAY: With many Americans having less saved for emergencies and 1 in 3 having no emergency fund, the importance of building financial resilience is critical.",
+      "exported_at": "2025-09-15T14:33:18.415564",
       "continuous_session": true
     }
   ]
