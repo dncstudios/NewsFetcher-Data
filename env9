@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-15T09:22:48.415646",
-    "total_articles": 1016,
-    "new_articles_in_last_fetch": 1016,
+    "created_at": "2025-09-15T09:48:11.813143",
+    "total_articles": 1017,
+    "new_articles_in_last_fetch": 1017,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -13205,6 +13205,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: RETIREMENT FEARS GRIP 1 IN 5 AMERICANS 🚨\n\n- 20% of Americans fear retirement due to inflation, benefit cuts\n- Concerns about inadequate savings for retirement widespread\n- Experts advise following a solid retirement plan for security\n\nTAKEAWAY: 1 in 5 Americans face retirement fears, but with a well-structured plan, they can secure their financial future despite inflation and benefit cut worries.",
       "exported_at": "2025-09-15T09:22:48.402973",
+      "continuous_session": true
+    },
+    {
+      "title": "How JPMorgan traders see the Fed decision this week going down and market reaction",
+      "link": "https://www.cnbc.com/2025/09/15/how-jpmorgan-traders-see-the-fed-decision-this-week-going-down-and-market-reaction.html",
+      "summary": "Traders are pricing in a 96% chance of a quarter percentage-point rate cut, per the CME Group’s FedWatch tool.",
+      "published": "Mon, 15 Sep 2025 13:10:52 GMT",
+      "content": "Traders are pricing in a 96% chance of a quarter percentage-point rate cut, per the CME Group’s FedWatch tool.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "559ae0ca3a627707e7e95833976d9104",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JPMORGAN TRADERS PREDICT FED RATE CUT WITH 96% CERTAINTY 📈\n\n- JPMorgan traders anticipate 25 basis points rate cut 📉\n- CME Group's FedWatch tool shows 96% likelihood of rate cut ✅\n- Market reacts to potential Fed decision with cautious optimism 📈\n\nTAKEAWAY: JPMorgan traders are highly confident in a forthcoming Fed rate cut, aligning with the 96% probability indicated by the CME Group's FedWatch tool.",
+      "exported_at": "2025-09-15T09:48:11.800666",
       "continuous_session": true
     }
   ]
