@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-15T14:02:42.585701",
-    "total_articles": 1036,
-    "new_articles_in_last_fetch": 1036,
+    "created_at": "2025-09-15T14:07:51.333606",
+    "total_articles": 1037,
+    "new_articles_in_last_fetch": 1037,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -13465,6 +13465,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: COREWEAVE STOCK SOARS ON $6.3 BILLION NVIDIA ORDER 🚀\n\n- CoreWeave reveals $6.3 billion order from Nvidia 💰\n- Nvidia, a major investor, relies on CoreWeave for AI chips 🔝\n- Continued partnership boosts CoreWeave's stock performance 📈\n\nTAKEAWAY: CoreWeave's stock surges as Nvidia's $6.3 billion order strengthens their partnership, driving investor confidence and market growth.",
       "exported_at": "2025-09-15T14:02:42.494943",
+      "continuous_session": true
+    },
+    {
+      "title": "Exxon to offer auto-voting to counter shareholder activism",
+      "link": "https://www.cnbc.com/2025/09/15/exxon-to-offer-auto-voting-to-counter-shareholder-activism.html",
+      "summary": "Exxon Mobil is introducing a unique shareholder voting mechanism that may help the top U.S. oil producer fend off activist campaigns.",
+      "published": "Mon, 15 Sep 2025 17:47:03 GMT",
+      "content": "Exxon Mobil is introducing a unique shareholder voting mechanism that may help the top U.S. oil producer fend off activist campaigns.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "87c23bbe41dc12b807f2e5c0c5195eea",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: EXXON MOBIL INTRODUCES AUTO-VOTING TO COUNTER ACTIVISM 🚀\n\n- Exxon Mobil unveils auto-voting to combat shareholder activism\n- New mechanism aims to defend against activist campaigns ⚔️\n- Unique shareholder voting system designed for protection ✅\n\nTAKEAWAY: Exxon Mobil's innovative auto-voting system signals a strategic move to defend against shareholder activism with a unique mechanism.",
+      "exported_at": "2025-09-15T14:07:51.321358",
       "continuous_session": true
     }
   ]
