@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-15T16:10:05.482963",
-    "total_articles": 1045,
-    "new_articles_in_last_fetch": 1045,
+    "created_at": "2025-09-15T16:20:18.350306",
+    "total_articles": 1046,
+    "new_articles_in_last_fetch": 1046,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -13582,6 +13582,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TESLA STOCK SOARS, ERASING YEARLY LOSS 🚀\n\n- Tesla's stock jumps 85% from April low 📈\n- Rally on Monday propels shares into positive territory for the year ✅\n- Recovery follows a challenging first quarter ⚠️\n\nTAKEAWAY: Tesla's remarkable 85% surge from its April low erases yearly losses, signaling a strong recovery and renewed investor confidence.",
       "exported_at": "2025-09-15T16:10:05.406540",
+      "continuous_session": true
+    },
+    {
+      "title": "Santoli&apos;s Monday market wrap-up: Majority of stocks idling after a nice run to record highs and ahead of Fed decision",
+      "link": "https://www.cnbc.com/2025/09/15/santolis-monday-market-wrap-up-majority-of-stocks-idling-after-nice-run-to-record.html",
+      "summary": "Some idiosyncratic flows of funds are goosing the mega-tech stocks, and the S&amp;P 500 with them.",
+      "published": "Mon, 15 Sep 2025 20:14:24 GMT",
+      "content": "Some idiosyncratic flows of funds are goosing the mega-tech stocks, and the S&amp;P 500 with them.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b3b8495fd6804bea332a9f914a306383",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SANTOLI'S MARKET WRAP-UP: STOCKS IDLE AFTER RECORD HIGHS 📈\n\n- Majority of stocks idle post-record highs 📊\n- Mega-tech stocks boosted by unique fund flows 🚀\n- S&P 500 influenced by tech stock performance 💻\n\nTAKEAWAY: Stock market sees idling post-record highs with unique fund flows boosting mega-tech stocks and influencing the S&P 500.",
+      "exported_at": "2025-09-15T16:20:18.272604",
       "continuous_session": true
     }
   ]
