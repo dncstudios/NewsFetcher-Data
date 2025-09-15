@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-15T09:53:20.113315",
-    "total_articles": 1018,
-    "new_articles_in_last_fetch": 1018,
+    "created_at": "2025-09-15T09:58:28.244030",
+    "total_articles": 1019,
+    "new_articles_in_last_fetch": 1019,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -13231,6 +13231,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FBI DIRECTOR UNDER FIRE FOR ACTIONS DURING CHARLIE KIRK SHOOTING 🚨\n\n- Patel faces backlash for dining after Kirk shooting 🍽️\n- Criticized for questioning Utah officials' actions 🤨\n- Leadership skills questioned by current and former officials 💼\n\nTAKEAWAY: FBI Director Kash Patel's controversial actions and criticism during the Charlie Kirk shooting investigation are raising concerns about his leadership abilities.",
       "exported_at": "2025-09-15T09:53:20.100901",
+      "continuous_session": true
+    },
+    {
+      "title": "My student loan servicer changed without my knowing. It may happen to you, too — here&apos;s what to do",
+      "link": "https://www.cnbc.com/2025/09/15/student-loan-servicer-transfer-can-come-without-notice-what-to-know.html",
+      "summary": "My student debt was moved from one company to another without my knowing. Experts shared tips on what borrowers — me included — should do if this happens.",
+      "published": "Mon, 15 Sep 2025 13:47:40 GMT",
+      "content": "My student debt was moved from one company to another without my knowing. Experts shared tips on what borrowers — me included — should do if this happens.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "91f25e92ee5016340317039c1c7fe45d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STUDENT LOAN SERVICER SWITCH SURPRISE! 🚨\n\n- Student loan servicers can change without borrower's knowledge 🔄\n- Tips from experts on what to do if this unexpected switch occurs 💡\n- Important for borrowers to stay informed about their student loans 🎓\n\nTAKEAWAY: Stay proactive and informed about your student loans to handle unexpected servicer changes effectively.",
+      "exported_at": "2025-09-15T09:58:28.231280",
       "continuous_session": true
     }
   ]
