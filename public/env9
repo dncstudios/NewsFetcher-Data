@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-15T07:00:13.797599",
-    "total_articles": 1002,
-    "new_articles_in_last_fetch": 1002,
+    "created_at": "2025-09-15T07:15:31.044596",
+    "total_articles": 1004,
+    "new_articles_in_last_fetch": 1004,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -13023,6 +13023,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TESLA SHARES SOAR AS ELON MUSK BUYS $1 BILLION WORTH OF SHARES 🚀\n\n- Musk's purchase of 2.6M shares boosts Tesla's market confidence 📈\n- CEO's largest open market acquisition since 2020 💰\n- Investors react positively to Musk's significant move 🙌\n\nTAKEAWAY: Elon Musk's $1 billion purchase of Tesla shares sparks investor confidence and drives the stock price up, signaling trust in the company's future growth.",
       "exported_at": "2025-09-15T07:00:13.785006",
+      "continuous_session": true
+    },
+    {
+      "title": "Broadcom will outperform thanks to its dominance in the specialized chip market, Macquarie says",
+      "link": "https://www.cnbc.com/2025/09/15/broadcom-will-outperform-thanks-to-dominance-in-specialized-chip-market-macquarie-says.html",
+      "summary": "Macquarie sees a long runway of solid growth ahead for Broadcom.",
+      "published": "Mon, 15 Sep 2025 11:02:25 GMT",
+      "content": "Macquarie sees a long runway of solid growth ahead for Broadcom.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e2292f61a282962b962213fd95700c7a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BROADCOM DOMINANCE IN SPECIALIZED CHIP MARKET TO SOAR, SAYS MACQUARIE 🚀\n\n- Macquarie predicts solid growth trajectory for Broadcom 💪\n- Specialized chip market dominance propels Broadcom forward 🔥\n- Long runway of success anticipated for Broadcom 🛫\n\nTAKEAWAY: Macquarie's bullish outlook on Broadcom's specialized chip market dominance signals a promising future with strong growth potential.",
+      "exported_at": "2025-09-15T07:15:31.032237",
+      "continuous_session": true
+    },
+    {
+      "title": "Citi upgrades Union Pacific as railroad stock looks &apos;too compelling to ignore&apos;",
+      "link": "https://www.cnbc.com/2025/09/15/citi-upgrades-union-pacific-on-too-compelling-to-ignore-risk-reward-ratio.html",
+      "summary": "Citi analyst Ariel Rosa cited more clarity around Union Pacific's merger with Norfolk Southern as a major catalyst for the stock.",
+      "published": "Mon, 15 Sep 2025 11:14:21 GMT",
+      "content": "Citi analyst Ariel Rosa cited more clarity around Union Pacific's merger with Norfolk Southern as a major catalyst for the stock.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "25a2e9cbaca25cdbb11968cb2e1fa042",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CITI UPGRADES UNION PACIFIC STOCK, CALLS IT 'COMPELLING' 🚀\n\n- Citi analyst sees Union Pacific's merger clarity as major stock catalyst ✨\n- Upgrade based on Union Pacific's promising outlook 📈\n- Potential growth and value in Union Pacific stock 🔥\n- Merger with Norfolk Southern adds to stock's appeal 🚂\n- Union Pacific stock deemed too attractive to overlook 🌟\n\nTAKEAWAY: Citi's upgrade of Union Pacific highlights the stock's strong potential and attractiveness due to merger clarity with Norfolk Southern.",
+      "exported_at": "2025-09-15T07:15:31.032274",
       "continuous_session": true
     }
   ]
