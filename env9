@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-14T22:43:03.879370",
-    "total_articles": 983,
-    "new_articles_in_last_fetch": 983,
+    "created_at": "2025-09-14T23:18:34.328051",
+    "total_articles": 984,
+    "new_articles_in_last_fetch": 984,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -12777,6 +12777,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ASIA MARKETS FACE LOWER OPEN AHEAD OF U.S.-CHINA TALKS IN SPAIN 📉\n\n- U.S. and China officials meet in Madrid for crucial talks 🤝\n- Discussions focus on national security, trade, and economic matters 💼\n- Investors monitor outcomes for potential market impact 📉📊\n- Uncertainty looms as Asia markets prepare for lower opening 🌏⚠️\n\nTAKEAWAY: Asia markets anticipate a lower opening as U.S. and China officials engage in crucial talks in Spain, raising uncertainty among investors.",
       "exported_at": "2025-09-14T22:43:03.801141",
+      "continuous_session": true
+    },
+    {
+      "title": "She&apos;s traveled to Bali, India and the U.S. alone. Here are her tips for solo female travelers",
+      "link": "https://www.cnbc.com/2025/09/15/solo-travel-for-women-tips-for-vacationing-alone.html",
+      "summary": "From where to sit in restaurants to what to wear in India, Lucy Handley shares stories and tips from her solo trips in Asia, Europe and North America.",
+      "published": "Mon, 15 Sep 2025 03:17:34 GMT",
+      "content": "From where to sit in restaurants to what to wear in India, Lucy Handley shares stories and tips from her solo trips in Asia, Europe and North America.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4e50a9f7bf242108182e39a747ccd5ba",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TIPS FOR SOLO FEMALE TRAVELERS FROM A SEASONED EXPLORER 🌍\n\n- Lucy Handley shares solo travel tips from Bali, India, and the U.S.\n- Learn where to sit in restaurants and what to wear in India 🍽️👗\n- Gain insights on solo trips in Asia, Europe, and North America 🌏\n- Discover stories and advice for female travelers 🚺\n- Explore Lucy's experiences and recommendations for safe travels 🧳✈️\n- Get inspired by a seasoned explorer's journey and insights 🌟\n\nTAKEAWAY: Lucy Handley's travel tips and stories offer valuable advice and inspiration for female solo travelers looking to explore the world safely and confidently.",
+      "exported_at": "2025-09-14T23:18:34.252893",
       "continuous_session": true
     }
   ]
