@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-15T04:02:21.184321",
-    "total_articles": 991,
-    "new_articles_in_last_fetch": 991,
+    "created_at": "2025-09-15T04:22:37.859977",
+    "total_articles": 992,
+    "new_articles_in_last_fetch": 992,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -12881,6 +12881,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: U.S. AND BRITAIN SEAL MAJOR NUCLEAR POWER DEALS DURING TRUMP'S VISIT 🚀\n\n- U.S. and U.K. to sign multiple nuclear power agreements 💡\n- Prime Minister Keir Starmer hails pact as global innovation boost 🌍\n- Deal positions both countries as leaders in nuclear technology 🥇\n\nTAKEAWAY: The U.S. and Britain solidify their positions as pioneers in nuclear innovation through a series of groundbreaking deals during Trump's visit.",
       "exported_at": "2025-09-15T04:02:21.112047",
+      "continuous_session": true
+    },
+    {
+      "title": "Here are five fintechs that could be next to IPO after Klarna",
+      "link": "https://www.cnbc.com/2025/09/15/5-fintechs-that-could-ipo-after-klarna.html",
+      "summary": "Klarna's bumper IPO has got investors wondering about which fintech names could be next to go public.",
+      "published": "Mon, 15 Sep 2025 08:20:02 GMT",
+      "content": "Klarna's bumper IPO has got investors wondering about which fintech names could be next to go public.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3a97fdcfc559569261b35980fff4b7f3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FIVE FINTECHS POISED FOR IPO AFTER KLARNA 🚀\n\n- Klarna's successful IPO sparks interest in potential fintech IPOs\n- Investors eye fintech companies for future public offerings\n- Speculation grows around the next big fintech players to hit the market\n\nTAKEAWAY: Klarna's successful IPO sets the stage for potential fintech companies to follow suit, generating excitement and anticipation among investors.",
+      "exported_at": "2025-09-15T04:22:37.786338",
       "continuous_session": true
     }
   ]
