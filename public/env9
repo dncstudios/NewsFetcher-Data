@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-15T14:33:18.428405",
-    "total_articles": 1038,
-    "new_articles_in_last_fetch": 1038,
+    "created_at": "2025-09-15T15:03:50.226713",
+    "total_articles": 1040,
+    "new_articles_in_last_fetch": 1040,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -13491,6 +13491,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AMERICANS' EMERGENCY FUNDS SHRINKING, 1 IN 3 HAVE NONE ⚠️\n\n- Less savings for emergencies reported by many Americans 📉\n- Shockingly, 1 in 3 Americans have zero emergency funds 💸\n- Financial insecurity on the rise in the U.S. 📉\n- Importance of building emergency savings underscored 💪\n- Urgent need to prioritize saving for unexpected expenses 🚨\n\nTAKEAWAY: With many Americans having less saved for emergencies and 1 in 3 having no emergency fund, the importance of building financial resilience is critical.",
       "exported_at": "2025-09-15T14:33:18.415564",
+      "continuous_session": true
+    },
+    {
+      "title": "RBC Capital raises year-end S&amp;P 500 target, but sees ‘choppy’ action after big rally",
+      "link": "https://www.cnbc.com/2025/09/15/rbc-hikes-year-end-sp-500-target-but-sees-choppy-action-after-big-rally.html",
+      "summary": "RBC's updated higher forecast for the S&amp;P 500 is still about 4% below where the index is currently trading.",
+      "published": "Mon, 15 Sep 2025 19:03:12 GMT",
+      "content": "RBC's updated higher forecast for the S&amp;P 500 is still about 4% below where the index is currently trading.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b7a53c629000ded8b42cd8135a240b78",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: RBC CAPITAL BOOSTS S&P 500 TARGET, EXPECTS 'CHOPPY' ACTION 🚀\n\n- RBC raises year-end S&P 500 target, remains 4% below current level\n- Anticipates 'choppy' market movement post significant rally\n- Updated forecast suggests caution amidst market volatility\n\nTAKEAWAY: RBC Capital's upward revision of the S&P 500 target signals optimism but warns of potential turbulence ahead in the market.",
+      "exported_at": "2025-09-15T15:03:50.142812",
+      "continuous_session": true
+    },
+    {
+      "title": "Colgate to change toothpaste packaging to address Texas AG fluoride concerns",
+      "link": "https://www.cnbc.com/2025/09/15/colgate-to-change-toothpaste-packaging-to-address-texas-ag-fluoride-concerns-.html",
+      "summary": "Paxton, a Republican running for the Senate in 2026, said Colgate's agreement advances his work to Make America Healthy Again.",
+      "published": "Mon, 15 Sep 2025 18:51:13 GMT",
+      "content": "Paxton, a Republican running for the Senate in 2026, said Colgate's agreement advances his work to Make America Healthy Again.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e7ac6b935a96554852ccdffd5416b3a1",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: COLGATE'S FLUORIDE PACKAGING CHANGE TO ADDRESS TEXAS AG CONCERNS 🦷\n\n- Colgate responds to Texas AG concerns, changing toothpaste packaging\n- Texas AG Paxton views Colgate's move as progress towards health goals\n- Republican Paxton, Senate candidate in 2026, supports the initiative\n\nTAKEAWAY: Colgate's proactive response to Texas AG concerns by changing fluoride packaging aligns with Paxton's vision of improving American health.",
+      "exported_at": "2025-09-15T15:03:50.142904",
       "continuous_session": true
     }
   ]
