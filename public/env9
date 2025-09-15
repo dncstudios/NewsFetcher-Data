@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-14T20:00:49.144739",
-    "total_articles": 978,
-    "new_articles_in_last_fetch": 978,
+    "created_at": "2025-09-14T20:26:11.541956",
+    "total_articles": 979,
+    "new_articles_in_last_fetch": 979,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -12712,6 +12712,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ASIA MARKETS FACE LOWER OPEN AHEAD OF U.S.-CHINA TALKS IN SPAIN 📉\n\n- U.S. and China officials meet in Madrid for crucial talks 🤝\n- Discussions focus on national security, trade, and economic matters 💼\n- Investors monitor outcomes for potential market impact 📉📊\n- Uncertainty looms as Asia markets prepare for lower opening 🌏⚠️\n\nTAKEAWAY: Asia markets anticipate a lower opening as U.S. and China officials engage in crucial talks in Spain, raising uncertainty among investors.",
       "exported_at": "2025-09-14T20:00:49.068093",
+      "continuous_session": true
+    },
+    {
+      "title": "IPOs are booming in the U.S. and Asia. Is Europe falling behind?",
+      "link": "https://www.cnbc.com/2025/09/15/ipos-are-booming-in-the-us-and-asia-is-europe-falling-behind.html",
+      "summary": "Bankers and investors reveal why market risk and a higher \"quality filter\" are causing the continent's own IPO markets to be left in the dust.",
+      "published": "Sun, 14 Sep 2025 23:44:40 GMT",
+      "content": "Bankers and investors reveal why market risk and a higher \"quality filter\" are causing the continent's own IPO markets to be left in the dust.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e8d902e3b39f19dd5e99e890b054e824",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: IPO BOOM: U.S. & ASIA THRIVE, EUROPE LAGS BEHIND? 🚀\n\n- U.S. & Asia witness soaring IPO activity 📈\n- Market risk, \"quality filter\" hinder Europe's IPO growth ⚠️\n- Bankers, investors point to reasons behind Europe's lag 🕵️‍♂️\n\nTAKEAWAY: While U.S. and Asia experience a surge in IPOs, Europe faces challenges with market risk and a stringent \"quality filter,\" causing it to fall behind in the IPO race.",
+      "exported_at": "2025-09-14T20:26:11.461858",
       "continuous_session": true
     }
   ]
