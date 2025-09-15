@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-15T04:27:46.654256",
-    "total_articles": 993,
-    "new_articles_in_last_fetch": 993,
+    "created_at": "2025-09-15T04:32:52.882598",
+    "total_articles": 994,
+    "new_articles_in_last_fetch": 994,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -12907,6 +12907,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CHINA ACCUSES NVIDIA OF ANTI-MONOPOLY VIOLATION ⚠️\n\n- China's regulator accuses Nvidia of anti-monopoly law breach 🚫\n- Violation linked to Nvidia's 2020 Mellanox acquisition 📉\n- Nvidia faces ongoing probe in China 🕵️‍♂️\n\nTAKEAWAY: China's accusation of anti-monopoly violation against Nvidia adds pressure as the probe on the Mellanox acquisition continues.",
       "exported_at": "2025-09-15T04:27:46.578509",
+      "continuous_session": true
+    },
+    {
+      "title": "China says Nvidia violated anti-monopoly law as probe to continue",
+      "link": "https://www.cnbc.com/2025/09/15/china-nvidia-violated-anti-monopoly-law-will-continue-investigation.html",
+      "summary": "China's market regulator on Monday said that Nvidia violated the country's anti-monopoly law in relation to its aquisition of Mellanox in 2020.",
+      "published": "Mon, 15 Sep 2025 08:29:55 GMT",
+      "content": "China's market regulator on Monday said that Nvidia violated the country's anti-monopoly law in relation to its aquisition of Mellanox in 2020.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c6741fd84ad3d084b3d91413d43ebda9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CHINA ACCUSES NVIDIA OF ANTI-MONOPOLY VIOLATION ⚠️\n\n- China's regulator accuses Nvidia of anti-monopoly law breach 🚫\n- Violation linked to Nvidia's 2020 Mellanox acquisition 📉\n- Nvidia faces ongoing probe in China 🕵️‍♂️\n\nTAKEAWAY: China's accusation of anti-monopoly violation against Nvidia adds pressure as the probe on the Mellanox acquisition continues.",
+      "exported_at": "2025-09-15T04:32:52.806554",
       "continuous_session": true
     }
   ]
