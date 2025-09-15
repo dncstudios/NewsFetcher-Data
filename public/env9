@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-15T02:25:59.157635",
-    "total_articles": 987,
-    "new_articles_in_last_fetch": 987,
+    "created_at": "2025-09-15T02:36:11.419627",
+    "total_articles": 988,
+    "new_articles_in_last_fetch": 988,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -12829,6 +12829,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: EUROPEAN STOCKS SET FOR MIXED OPEN AHEAD OF FED DECISION 📊\n\n- European markets anticipate varied start to trading week 🌍\n- Investors eye U.S. Federal Reserve meeting on Wednesday 🇺🇸\n- Uncertainty looms over market direction 🤔\n\nTAKEAWAY: European stocks brace for a mixed opening as investors await the outcome of the upcoming U.S. Federal Reserve meeting, introducing an air of uncertainty into the market.",
       "exported_at": "2025-09-15T02:25:59.118876",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump vows national emergency in Washington, D.C. over ICE dispute",
+      "link": "https://www.cnbc.com/2025/09/15/trump-vows-national-emergency-in-washington-dc-over-ice-dispute.html",
+      "summary": "U.S. President Donald Trump said on Monday he would call a national emergency and federalize Washington, D.C.",
+      "published": "Mon, 15 Sep 2025 06:31:09 GMT",
+      "content": "U.S. President Donald Trump said on Monday he would call a national emergency and federalize Washington, D.C.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ca625dec5407c01d0c127f2f43f0a45e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP DECLARES NATIONAL EMERGENCY IN WASHINGTON, D.C. 🚨\n\n- Trump announces national emergency and federalizes Washington, D.C. 🇺🇸\n- Decision follows ICE dispute escalation ⚠️\n- Move raises concerns and questions about implications 🤔\n\nTAKEAWAY: Trump's declaration of a national emergency in Washington, D.C. amid the ICE dispute escalation raises concerns and questions about potential implications.",
+      "exported_at": "2025-09-15T02:36:11.343970",
       "continuous_session": true
     }
   ]
