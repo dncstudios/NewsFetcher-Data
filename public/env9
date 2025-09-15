@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-15T10:28:57.771741",
-    "total_articles": 1021,
-    "new_articles_in_last_fetch": 1021,
+    "created_at": "2025-09-15T10:34:06.054251",
+    "total_articles": 1022,
+    "new_articles_in_last_fetch": 1022,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -13270,6 +13270,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP PUSHES FOR COMPANIES TO END QUARTERLY EARNINGS REPORTS 🚀\n\n- Trump proposes companies to stop quarterly earnings reports\n- Aims to cut costs and enhance focus on company operations\n- Plan requires SEC approval before implementation\n\nTAKEAWAY: Trump's push to end quarterly earnings reports aims to boost operational focus and cost savings for companies pending SEC approval.",
       "exported_at": "2025-09-15T10:28:57.759017",
+      "continuous_session": true
+    },
+    {
+      "title": "Don&apos;t ask &apos;How are you?&apos; Here&apos;s how successful people get others to like and trust them: Psychology expert",
+      "link": "https://www.cnbc.com/2025/09/15/dont-ask-how-are-you-how-successful-people-get-others-to-like-and-trust-them-psychology-expert.html",
+      "summary": "\"Trust can catch fire or die out right away, all due to small signals in those first seconds of an interaction,\" writes psychology expert Vanessa Van Edwards.",
+      "published": "Mon, 15 Sep 2025 14:00:01 GMT",
+      "content": "\"Trust can catch fire or die out right away, all due to small signals in those first seconds of an interaction,\" writes psychology expert Vanessa Van Edwards.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1794c89d598065961d66714f74ab87ff",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DON'T ASK 'HOW ARE YOU?' SUCCESSFUL TIPS TO BUILD TRUST ⚡️\n\n- Small signals in initial seconds crucial for trust 🔍\n- Trust can ignite quickly or vanish instantly 🔥\n- Psychology expert Vanessa Van Edwards emphasizes first impressions 🧠\n\nTAKEAWAY: Success in building trust lies in mastering small signals and creating impactful first impressions, as highlighted by psychology expert Vanessa Van Edwards.",
+      "exported_at": "2025-09-15T10:34:06.041429",
       "continuous_session": true
     }
   ]
