@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-15T08:52:13.895302",
-    "total_articles": 1012,
-    "new_articles_in_last_fetch": 1012,
+    "created_at": "2025-09-15T09:02:25.250105",
+    "total_articles": 1013,
+    "new_articles_in_last_fetch": 1013,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -13153,6 +13153,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WE'RE LOCKING IN PROFITS ON A RED-HOT AI STOCK 🚀\n\n- AI stock shows impressive growth in 2025 📈\n- Decision made to book profits to maintain discipline 💪\n- Strong performance continues to rise this month 🔥\n\nTAKEAWAY: Despite the AI stock's soaring success, we prioritize discipline by booking profits to secure gains.",
       "exported_at": "2025-09-15T08:52:13.877181",
+      "continuous_session": true
+    },
+    {
+      "title": "Bessent: TikTok deal &apos;framework&apos; reached with China, Trump and Xi will finalize it Friday",
+      "link": "https://www.cnbc.com/2025/09/15/trump-tiktok-china.html",
+      "summary": "The U.S. and China have a 'framework' deal for social media platform TikTok in place, Treasury Secretary Scott Bessent said Monday.",
+      "published": "Mon, 15 Sep 2025 13:01:01 GMT",
+      "content": "The U.S. and China have a 'framework' deal for social media platform TikTok in place, Treasury Secretary Scott Bessent said Monday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fda03320d2d1d92f1de6eefee255eb29",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BESSANT ANNOUNCES TIKTOK DEAL FRAMEWORK WITH CHINA 🚀\n\n- U.S. and China agree on 'framework' deal for TikTok ✅\n- Treasury Secretary Scott Bessant confirms the agreement 💼\n- Finalization of deal between Trump and Xi set for Friday 📅\n\nTAKEAWAY: The TikTok deal framework between the U.S. and China signals progress, with the finalization by Trump and Xi scheduled for Friday.",
+      "exported_at": "2025-09-15T09:02:25.237500",
       "continuous_session": true
     }
   ]
