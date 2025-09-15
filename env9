@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-15T13:22:05.860673",
-    "total_articles": 1035,
-    "new_articles_in_last_fetch": 1035,
+    "created_at": "2025-09-15T14:02:42.585701",
+    "total_articles": 1036,
+    "new_articles_in_last_fetch": 1036,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -13452,6 +13452,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: RBC CAPITAL BOOSTS S&P 500 TARGET, EXPECTS 'CHOPPY' TRADING 🚀\n\n- RBC raises year-end S&P 500 forecast, remains 4% lower than current level\n- Anticipates turbulent market action post significant rally\n- Higher target suggests potential growth despite expected volatility\n\nTAKEAWAY: RBC's bullish outlook on the S&P 500, despite predicting choppy trading ahead, hints at future growth opportunities in the market.",
       "exported_at": "2025-09-15T13:22:05.803085",
+      "continuous_session": true
+    },
+    {
+      "title": "CoreWeave&apos;s stock rallies on disclosure of $6.3 billion order from Nvidia",
+      "link": "https://www.cnbc.com/2025/09/15/coreweave-stock-jumps-on-disclosure-of-6point3-billion-order-from-nvidia.html",
+      "summary": "CoreWeave has secured more business from Nvidia, which is an investor in the company and its main source of chips for running AI models.",
+      "published": "Mon, 15 Sep 2025 17:59:52 GMT",
+      "content": "CoreWeave has secured more business from Nvidia, which is an investor in the company and its main source of chips for running AI models.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "cf146b17d788cdc1590a1781363e4eff",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: COREWEAVE STOCK SOARS ON $6.3 BILLION NVIDIA ORDER 🚀\n\n- CoreWeave reveals $6.3 billion order from Nvidia 💰\n- Nvidia, a major investor, relies on CoreWeave for AI chips 🔝\n- Continued partnership boosts CoreWeave's stock performance 📈\n\nTAKEAWAY: CoreWeave's stock surges as Nvidia's $6.3 billion order strengthens their partnership, driving investor confidence and market growth.",
+      "exported_at": "2025-09-15T14:02:42.494943",
       "continuous_session": true
     }
   ]
