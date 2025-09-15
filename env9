@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-15T10:13:43.538468",
-    "total_articles": 1020,
-    "new_articles_in_last_fetch": 1020,
+    "created_at": "2025-09-15T10:28:57.771741",
+    "total_articles": 1021,
+    "new_articles_in_last_fetch": 1021,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -13257,6 +13257,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ALPHABET HITS $3 TRILLION MARKET CAP 🚀\n\n- Alphabet joins exclusive $3 trillion club 🎉\n- Market cap surged with favorable ruling in September 💰\n- Company's value soared by hundreds of billions 💸\n\nTAKEAWAY: Alphabet's market cap milestone of $3 trillion showcases its impressive growth and market dominance, fueled by recent favorable developments.",
       "exported_at": "2025-09-15T10:13:43.525498",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump advocates end to quarterly earnings reports",
+      "link": "https://www.cnbc.com/2025/09/15/trump-advocates-that-companies-stop-reporting-earnings-on-a-quarterly-basis-.html",
+      "summary": "Trump said the idea is \"subject to SEC approval\" and would \"save money, and allow managers to focus on properly running their companies.\"",
+      "published": "Mon, 15 Sep 2025 14:27:27 GMT",
+      "content": "Trump said the idea is \"subject to SEC approval\" and would \"save money, and allow managers to focus on properly running their companies.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "dbf371a62063c085d9452fecafa97a10",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP PUSHES FOR COMPANIES TO END QUARTERLY EARNINGS REPORTS 🚀\n\n- Trump proposes companies to stop quarterly earnings reports\n- Aims to cut costs and enhance focus on company operations\n- Plan requires SEC approval before implementation\n\nTAKEAWAY: Trump's push to end quarterly earnings reports aims to boost operational focus and cost savings for companies pending SEC approval.",
+      "exported_at": "2025-09-15T10:28:57.759017",
       "continuous_session": true
     }
   ]
