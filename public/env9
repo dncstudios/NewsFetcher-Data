@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-15T07:15:31.044596",
-    "total_articles": 1004,
-    "new_articles_in_last_fetch": 1004,
+    "created_at": "2025-09-15T07:20:38.917056",
+    "total_articles": 1005,
+    "new_articles_in_last_fetch": 1005,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -13049,6 +13049,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CITI UPGRADES UNION PACIFIC STOCK, CALLS IT 'COMPELLING' 🚀\n\n- Citi analyst sees Union Pacific's merger clarity as major stock catalyst ✨\n- Upgrade based on Union Pacific's promising outlook 📈\n- Potential growth and value in Union Pacific stock 🔥\n- Merger with Norfolk Southern adds to stock's appeal 🚂\n- Union Pacific stock deemed too attractive to overlook 🌟\n\nTAKEAWAY: Citi's upgrade of Union Pacific highlights the stock's strong potential and attractiveness due to merger clarity with Norfolk Southern.",
       "exported_at": "2025-09-15T07:15:31.032274",
+      "continuous_session": true
+    },
+    {
+      "title": "More consumers are using rent payments to boost their credit score. Here&apos;s what to know",
+      "link": "https://www.cnbc.com/2025/09/15/using-rent-payments-to-boost-credit-score.html",
+      "summary": "More tenants are reporting their rent payment activity to build their credit history. Here's what to consider before enrolling, experts say.",
+      "published": "Mon, 15 Sep 2025 11:12:39 GMT",
+      "content": "More tenants are reporting their rent payment activity to build their credit history. Here's what to consider before enrolling, experts say.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e1e2f5d05d8b85527486efda205871f3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MORE CONSUMERS BOOST CREDIT WITH RENT PAYMENTS 🚀\n\n- Tenants report rent payments to enhance credit score 🏠💳\n- Experts advise considering factors before enrolling 🧐💡\n\nTAKEAWAY: Utilizing rent payments to improve credit history is a rising trend among consumers, but careful consideration is crucial before enrolling to ensure maximum benefit.",
+      "exported_at": "2025-09-15T07:20:38.903454",
       "continuous_session": true
     }
   ]
