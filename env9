@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-15T15:59:46.847956",
-    "total_articles": 1043,
-    "new_articles_in_last_fetch": 1043,
+    "created_at": "2025-09-15T16:04:56.807215",
+    "total_articles": 1044,
+    "new_articles_in_last_fetch": 1044,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -13556,6 +13556,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: DAN NILES CRITIQUES TRUMP'S CALL TO REDUCE CORPORATE REPORTING 🚨\n\n- Tech investor Dan Niles rejects Trump's proposal on financial reporting 📉\n- Niles emphasizes transparency and dislikes \"black box\" investments ⚠️\n- Interview with CNBC reveals Niles' stance on public company reporting 📺\n\nTAKEAWAY: Dan Niles opposes Trump's push for fewer corporate reports, advocating transparency and clear investment strategies over ambiguity.",
       "exported_at": "2025-09-15T15:59:46.835494",
+      "continuous_session": true
+    },
+    {
+      "title": "Looking to buy an industrial AI play? Here are levels to watch for Eaton and GE Vernova",
+      "link": "https://www.cnbc.com/2025/09/15/looking-to-buy-an-industrial-ai-play-here-are-levels-to-watch-for-eaton-and-ge-vernova.html",
+      "summary": "We go to the charts to identify potential buy levels for GE Vernova and Eaton.",
+      "published": "Mon, 15 Sep 2025 20:02:15 GMT",
+      "content": "We go to the charts to identify potential buy levels for GE Vernova and Eaton.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d5a9566b9b4bf736ec6cc9efdda8e8b9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: LOOKING FOR INDUSTRIAL AI STOCKS? HERE'S THE LATEST ON EATON AND GE VERNOVA 📈\n\n- Chart analysis reveals potential buy levels for GE Vernova 🔍\n- Eaton and GE Vernova show promising trends 📈\n- Investors eyeing industrial AI plays for growth opportunities 💼\n- GE Vernova and Eaton attract attention for potential investment 🌟\n- Chart analysis guides investors on entry points 📊\n\nTAKEAWAY: Industrial AI stocks like Eaton and GE Vernova offer investors growth potential, with chart analysis providing key buy levels for strategic investment decisions.",
+      "exported_at": "2025-09-15T16:04:56.720562",
       "continuous_session": true
     }
   ]
