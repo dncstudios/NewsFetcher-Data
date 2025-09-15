@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-15T04:58:16.492339",
-    "total_articles": 996,
-    "new_articles_in_last_fetch": 996,
+    "created_at": "2025-09-15T05:28:48.805809",
+    "total_articles": 997,
+    "new_articles_in_last_fetch": 997,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -12946,6 +12946,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: IPO BOOM: U.S. & ASIA THRIVE, EUROPE LAGS BEHIND? 🚀\n\n- U.S. & Asia witness soaring IPO activity 📈\n- Market risk, \"quality filter\" hinder Europe's IPO growth ⚠️\n- Bankers, investors point to reasons behind Europe's lag 🕵️‍♂️\n\nTAKEAWAY: While U.S. and Asia experience a surge in IPOs, Europe faces challenges with market risk and a stringent \"quality filter,\" causing it to fall behind in the IPO race.",
       "exported_at": "2025-09-15T04:58:16.416056",
+      "continuous_session": true
+    },
+    {
+      "title": "Hollywood celebrates &apos;The Pitt&apos; and &apos;The Studio&apos; at TV&apos;s Emmy Awards",
+      "link": "https://www.cnbc.com/2025/09/14/emmy-awards-2025-nate-bargatze.html",
+      "summary": "Emergency room saga \"The Pitt\" was toasted as the year's best television drama, and show-business satire \"The Studio\" was crowned best comedy.",
+      "published": "Mon, 15 Sep 2025 09:25:41 GMT",
+      "content": "Emergency room saga \"The Pitt\" was toasted as the year's best television drama, and show-business satire \"The Studio\" was crowned best comedy.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "473cc2cd164748915c087a1b8dcecd54",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: HOLLYWOOD HAILS 'THE PITT' & 'THE STUDIO' AT EMMY AWARDS 🌟\n\n- \"The Pitt\" wins top drama; \"The Studio\" best comedy 🏆\n- Emergency room saga and show-business satire take the spotlight 🎬\n- Hollywood celebrates the best in television at the Emmy Awards ✨\n\nTAKEAWAY: \"The Pitt\" and \"The Studio\" shine bright as they clinch the top spots in drama and comedy categories, showcasing Hollywood's finest television talent.",
+      "exported_at": "2025-09-15T05:28:48.792420",
       "continuous_session": true
     }
   ]
