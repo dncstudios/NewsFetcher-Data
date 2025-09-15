@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-15T09:02:25.250105",
-    "total_articles": 1013,
-    "new_articles_in_last_fetch": 1013,
+    "created_at": "2025-09-15T09:12:36.207859",
+    "total_articles": 1015,
+    "new_articles_in_last_fetch": 1015,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -13166,6 +13166,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BESSANT ANNOUNCES TIKTOK DEAL FRAMEWORK WITH CHINA 🚀\n\n- U.S. and China agree on 'framework' deal for TikTok ✅\n- Treasury Secretary Scott Bessant confirms the agreement 💼\n- Finalization of deal between Trump and Xi set for Friday 📅\n\nTAKEAWAY: The TikTok deal framework between the U.S. and China signals progress, with the finalization by Trump and Xi scheduled for Friday.",
       "exported_at": "2025-09-15T09:02:25.237500",
+      "continuous_session": true
+    },
+    {
+      "title": "Here are Monday&apos;s biggest analyst calls: Nvidia, Apple, Tesla, Broadcom, CoreWeave, Disney, Palantir, Micron &amp; more",
+      "link": "https://www.cnbc.com/2025/09/15/mondays-sell-side-stocks-calls-from-analysts-include-nvidia-palantir.html",
+      "summary": "Here are the biggest sell-side research calls on Wall Street on Monday.",
+      "published": "Mon, 15 Sep 2025 13:08:08 GMT",
+      "content": "Here are the biggest sell-side research calls on Wall Street on Monday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d81cb2ae86ea2d629451078d4f9b7889",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MONDAY'S TOP ANALYST CALLS: NVIDIA, APPLE, TESLA 🚀\n\n- Wall Street's key sell-side research calls unveiled 🌟\n- Analysts provide insights on Broadcom, Disney, Palantir 🎯\n- Micron Technology also under the spotlight 🔦\n\nTAKEAWAY: Monday's analyst calls shed light on top stocks like NVIDIA, Apple, and Tesla, offering valuable insights for investors.",
+      "exported_at": "2025-09-15T09:12:36.195333",
+      "continuous_session": true
+    },
+    {
+      "title": "Jim Cramer&apos;s top 10 things to watch in the stock market Monday",
+      "link": "https://www.cnbc.com/2025/09/15/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
+      "summary": "Wall Street is on Federal Reserve watch this week.",
+      "published": "Mon, 15 Sep 2025 13:10:48 GMT",
+      "content": "Wall Street is on Federal Reserve watch this week.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ca4b751ca24774db4285c97a0455ad45",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JIM CRAMER'S TOP 10 STOCK MARKET WATCH LIST 🚀\n\n- Wall Street focuses on Federal Reserve's actions 🔍\n- Investors keen on market movements post-Fed updates 📈\n- Monday's stock market performance under scrutiny 💼\n\nTAKEAWAY: Stay alert as Wall Street closely monitors the Federal Reserve this week, impacting market dynamics.",
+      "exported_at": "2025-09-15T09:12:36.195350",
       "continuous_session": true
     }
   ]
