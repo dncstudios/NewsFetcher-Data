@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-15T11:14:47.324720",
-    "total_articles": 1025,
-    "new_articles_in_last_fetch": 1025,
+    "created_at": "2025-09-15T11:40:07.834937",
+    "total_articles": 1026,
+    "new_articles_in_last_fetch": 1026,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -13322,6 +13322,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WHAT PRO TRADERS EAGERLY WATCH AHEAD OF FED DECISION 🚀\n\n- Pro traders eye Fed decision setup for potential breakout 📈\n- Popular trade on the verge of a significant breakout opportunity 💰\n- Jay Woods analyzes Fed decision impact on three key companies' earnings 💼\n\nTAKEAWAY: Pro traders are closely monitoring the Fed decision setup and key companies' earnings, anticipating potential breakout opportunities in the market.",
       "exported_at": "2025-09-15T11:14:47.312224",
+      "continuous_session": true
+    },
+    {
+      "title": "&apos;It&apos;s huge&apos; — Jim Cramer says buy the stock of whichever company owns TikTok",
+      "link": "https://www.cnbc.com/2025/09/15/jim-cramer-breaks-down-why-you-want-the-stock-of-the-company-that-buys-tiktok.html",
+      "summary": "The privately held TikTok has the best targeted advertising in the world, CNBC's Jim Cramer said.",
+      "published": "Mon, 15 Sep 2025 15:36:55 GMT",
+      "content": "The privately held TikTok has the best targeted advertising in the world, CNBC's Jim Cramer said.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c503610d8885aa12bbd4e3a099dbde93",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JIM CRAMER ENDORSES STOCK OF TIKTOK OWNER! 🚀\n\n- TikTok boasts world's best targeted advertising 💥\n- Jim Cramer advises buying stock of TikTok's parent company 🔝\n- Massive growth potential for the company behind TikTok 💰\n\nTAKEAWAY: Jim Cramer's endorsement of the stock tied to TikTok's parent company highlights the potential for significant growth and investment opportunities.",
+      "exported_at": "2025-09-15T11:40:07.821573",
       "continuous_session": true
     }
   ]
