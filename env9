@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-15T09:48:11.813143",
-    "total_articles": 1017,
-    "new_articles_in_last_fetch": 1017,
+    "created_at": "2025-09-15T09:53:20.113315",
+    "total_articles": 1018,
+    "new_articles_in_last_fetch": 1018,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -13218,6 +13218,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JPMORGAN TRADERS PREDICT FED RATE CUT WITH 96% CERTAINTY 📈\n\n- JPMorgan traders anticipate 25 basis points rate cut 📉\n- CME Group's FedWatch tool shows 96% likelihood of rate cut ✅\n- Market reacts to potential Fed decision with cautious optimism 📈\n\nTAKEAWAY: JPMorgan traders are highly confident in a forthcoming Fed rate cut, aligning with the 96% probability indicated by the CME Group's FedWatch tool.",
       "exported_at": "2025-09-15T09:48:11.800666",
+      "continuous_session": true
+    },
+    {
+      "title": "FBI Director Kash Patel criticized for his actions and posts during Charlie Kirk shooting investigation",
+      "link": "https://www.cnbc.com/2025/09/15/kash-patel-fbi-charlie-kirk-investigation.html",
+      "summary": "The FBI leader’s decisions to dine at an exclusive restaurant hours after the assassination and to criticize Utah officials raise questions about his leadership, current and former officials say.",
+      "published": "Mon, 15 Sep 2025 13:52:19 GMT",
+      "content": "The FBI leader’s decisions to dine at an exclusive restaurant hours after the assassination and to criticize Utah officials raise questions about his leadership, current and former officials say.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "eee03e26950bff4c750a908b146bd8ec",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FBI DIRECTOR UNDER FIRE FOR ACTIONS DURING CHARLIE KIRK SHOOTING 🚨\n\n- Patel faces backlash for dining after Kirk shooting 🍽️\n- Criticized for questioning Utah officials' actions 🤨\n- Leadership skills questioned by current and former officials 💼\n\nTAKEAWAY: FBI Director Kash Patel's controversial actions and criticism during the Charlie Kirk shooting investigation are raising concerns about his leadership abilities.",
+      "exported_at": "2025-09-15T09:53:20.100901",
       "continuous_session": true
     }
   ]
