@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-15T08:41:59.009641",
-    "total_articles": 1010,
-    "new_articles_in_last_fetch": 1010,
+    "created_at": "2025-09-15T08:52:13.895302",
+    "total_articles": 1012,
+    "new_articles_in_last_fetch": 1012,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -13127,6 +13127,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TESLA SHARES SOAR AS ELON MUSK BUYS $1 BILLION WORTH OF SHARES 🚀\n\n- Musk's purchase of 2.6M shares boosts Tesla's market confidence 📈\n- CEO's largest open market acquisition since 2020 💰\n- Investors react positively to Musk's significant move 🙌\n\nTAKEAWAY: Elon Musk's $1 billion purchase of Tesla shares sparks investor confidence and drives the stock price up, signaling trust in the company's future growth.",
       "exported_at": "2025-09-15T08:41:58.946074",
+      "continuous_session": true
+    },
+    {
+      "title": "The 10 best MBA programs in the world, according to LinkedIn—7 are in the U.S.",
+      "link": "https://www.cnbc.com/2025/09/15/best-mba-programs-in-the-world-2025.html",
+      "summary": "The best business schools in the world offer students great alumni networks, career advancement and leadership training, according to LinkedIn data.",
+      "published": "Mon, 15 Sep 2025 12:35:01 GMT",
+      "content": "The best business schools in the world offer students great alumni networks, career advancement and leadership training, according to LinkedIn data.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0c1f977fea2e39541e78a2cdca96e4f0",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: THE 10 BEST MBA PROGRAMS IN THE WORLD, ACCORDING TO LINKEDIN 🚀\n\n- Top MBA programs provide excellent alumni networks 🌐\n- Students benefit from career advancement opportunities 💼\n- Leadership training is a key feature of these programs 🎓\n\nTAKEAWAY: LinkedIn data reveals that the top MBA programs globally excel in alumni networks, career opportunities, and leadership development.",
+      "exported_at": "2025-09-15T08:52:13.877166",
+      "continuous_session": true
+    },
+    {
+      "title": "We&apos;re booking profits in a red-hot stock to stay true to our discipline",
+      "link": "https://www.cnbc.com/2025/09/15/were-booking-profits-in-a-red-hot-stock-to-stay-true-to-our-discipline.html",
+      "summary": "The AI stock's strong 2025 has gotten even stronger this month.",
+      "published": "Mon, 15 Sep 2025 12:48:32 GMT",
+      "content": "The AI stock's strong 2025 has gotten even stronger this month.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2aaca00291410392e93551e6567277f9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WE'RE LOCKING IN PROFITS ON A RED-HOT AI STOCK 🚀\n\n- AI stock shows impressive growth in 2025 📈\n- Decision made to book profits to maintain discipline 💪\n- Strong performance continues to rise this month 🔥\n\nTAKEAWAY: Despite the AI stock's soaring success, we prioritize discipline by booking profits to secure gains.",
+      "exported_at": "2025-09-15T08:52:13.877181",
       "continuous_session": true
     }
   ]
