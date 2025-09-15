@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-15T12:10:52.887756",
-    "total_articles": 1030,
-    "new_articles_in_last_fetch": 1030,
+    "created_at": "2025-09-15T12:21:05.053226",
+    "total_articles": 1031,
+    "new_articles_in_last_fetch": 1031,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -13387,6 +13387,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BEST STOCKS: HEALTHCARE GIANT READY TO SOAR 🚀\n\n- Health care giant showing signs of potential sharp increase\n- Analysts Josh Brown and Sean Russo optimistic about stock\n- Company likely \"building a base\" for significant growth\n\nTAKEAWAY: Analysts believe this healthcare giant is poised for a substantial uptrend, indicating potential for significant growth ahead.",
       "exported_at": "2025-09-15T12:10:52.874740",
+      "continuous_session": true
+    },
+    {
+      "title": "Student loan forgiveness delays under Trump prompt class action effort",
+      "link": "https://www.cnbc.com/2025/09/15/student-loan-borrowers-class-action-aft-trump.html",
+      "summary": "The American Federation of Teachers filed a class action complaint related to Trump-era student loan changes, including blocked debt forgiveness.",
+      "published": "Mon, 15 Sep 2025 16:04:19 GMT",
+      "content": "The American Federation of Teachers filed a class action complaint related to Trump-era student loan changes, including blocked debt forgiveness.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d52d315b7e80c7558826712882d5a1a0",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STUDENT LOAN FORGIVENESS DELAYS SPARK CLASS ACTION EFFORT ⚠️\n\n- American Federation of Teachers sues over Trump-era student loan delays\n- Complaint targets blocked debt forgiveness and related changes\n- Class action aims to address issues affecting borrowers\n\nTAKEAWAY: The class action lawsuit by American Federation of Teachers highlights the delays and challenges faced by borrowers due to Trump-era student loan changes, seeking to address blocked debt forgiveness.",
+      "exported_at": "2025-09-15T12:21:05.040397",
       "continuous_session": true
     }
   ]
