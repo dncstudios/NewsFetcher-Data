@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T16:19:48.067790",
-    "total_articles": 1137,
-    "new_articles_in_last_fetch": 1137,
+    "created_at": "2025-09-16T16:24:58.976905",
+    "total_articles": 1139,
+    "new_articles_in_last_fetch": 1139,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -14777,6 +14777,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: S&P 500 SLIPS SLIGHTLY AWAY FROM RECORD HIGH AHEAD OF FED RATE DECISION 📉\n\n- S&P 500, Dow, Nasdaq dip after previous gains 📉\n- Traders cautious before significant Fed rate announcement 🔍\n- Market indexes retreat from recent highs 📈➡️📉\n\nTAKEAWAY: S&P 500 eases slightly from its record high as traders await the significant Fed rate decision, leading to caution in the market.",
       "exported_at": "2025-09-16T16:19:47.993292",
+      "continuous_session": true
+    },
+    {
+      "title": "Mortgage rates drop to 3-year low ahead of Fed meeting",
+      "link": "https://www.cnbc.com/2025/09/16/mortgage-rates-drop-to-3-year-low-ahead-of-fed-meeting.html",
+      "summary": "Mortgage rates drop to the lowest level since late 2022 ahead of the Fed meeting. Here's why.",
+      "published": "Tue, 16 Sep 2025 20:20:41 GMT",
+      "content": "Mortgage rates drop to the lowest level since late 2022 ahead of the Fed meeting. Here's why.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "66ceb9a13bf6ae554d793fb8a0c56c65",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MORTGAGE RATES HIT 3-YEAR LOW AHEAD OF FED MEETING 📉\n\n- Mortgage rates at lowest point since late 2022 💰\n- Dip in rates coincides with upcoming Fed meeting 🏦\n- Homebuyers benefit from favorable borrowing conditions ✅\n- Fed meeting anticipation contributes to rate drop 📉\n- Potential for further rate adjustments after Fed meeting ⚠️\n\nTAKEAWAY: Homebuyers enjoy a golden opportunity as mortgage rates reach a 3-year low just before the upcoming Fed meeting, hinting at possible future rate adjustments.",
+      "exported_at": "2025-09-16T16:24:58.896828",
+      "continuous_session": true
+    },
+    {
+      "title": "Longtime value investor Bill Nygren finds cheap stocks outside the Mag 7",
+      "link": "https://www.cnbc.com/2025/09/16/longtime-value-investor-bill-nygren-finds-cheap-stocks-outside-the-mag-7.html",
+      "summary": "Nygren is picking up hidden gems outside the dominant tech sector, prioritizing strong  companies offering single-digit price-to-earnings multiples.",
+      "published": "Tue, 16 Sep 2025 20:22:36 GMT",
+      "content": "Nygren is picking up hidden gems outside the dominant tech sector, prioritizing strong  companies offering single-digit price-to-earnings multiples.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b077d123e5c17eefc8c8cb358d2b644a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BILL NYGREN'S VALUE STRATEGY UNCOVERS HIDDEN GEMS 💎\n\n- Nygren focuses on undervalued stocks beyond the tech giants 📉\n- Emphasizes strong companies with low P/E ratios 📉\n- Diversifies investments outside the popular Mag 7 tech stocks 🔄\n\nTAKEAWAY: Bill Nygren's value investing strategy targets undervalued gems beyond the tech sector, prioritizing strong companies with low P/E ratios for potential growth.",
+      "exported_at": "2025-09-16T16:24:58.896901",
       "continuous_session": true
     }
   ]
