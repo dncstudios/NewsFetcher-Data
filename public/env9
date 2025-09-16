@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T02:19:26.673226",
-    "total_articles": 1066,
-    "new_articles_in_last_fetch": 1066,
+    "created_at": "2025-09-16T02:44:49.829548",
+    "total_articles": 1067,
+    "new_articles_in_last_fetch": 1067,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -13855,6 +13855,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: EUROPEAN MARKETS BRACE FOR OPEN AS U.S.-CHINA TALKS UNFOLD 🚀\n\n- Traders monitor Spain talks post Trump's positive U.S.-China trade update 🇨🇳🇺🇸\n- Global markets await outcome for potential impact on trading activities 📈\n- European markets prepare for a potentially subdued opening 🌍\n\nTAKEAWAY: European markets anticipate a lackluster start as they assess the ongoing U.S.-China trade talks, impacting global trading sentiments.",
       "exported_at": "2025-09-16T02:19:26.660738",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump sues The New York Times for $15 billion, alleging defamation and libel",
+      "link": "https://www.cnbc.com/2025/09/16/trump-to-sue-new-york-times-for-15-billion-alleging-defamation-and-libel-.html",
+      "summary": "Trump has initiated a flurry of defamation lawsuits against media companies, accusing them of false or misleading coverage.",
+      "published": "Tue, 16 Sep 2025 06:41:28 GMT",
+      "content": "Trump has initiated a flurry of defamation lawsuits against media companies, accusing them of false or misleading coverage.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e4ece2983317082e67c1218ab655c1b3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP SUES NY TIMES FOR $15 BILLION ALLEGING DEFAMATION 🚨\n\n- Trump files defamation lawsuits against media for $15 billion 💸\n- Accuses media of false and misleading coverage 📰\n- Legal battle escalates between Trump and The New York Times ⚖️\n- Allegations of defamation and libel spark controversy 🔥\n\nTAKEAWAY: Trump's aggressive legal stance against The New York Times for defamation and libel fuels a heated battle in the media landscape.",
+      "exported_at": "2025-09-16T02:44:49.741163",
       "continuous_session": true
     }
   ]
