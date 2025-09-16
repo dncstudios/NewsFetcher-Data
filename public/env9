@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T08:19:52.991184",
-    "total_articles": 1085,
-    "new_articles_in_last_fetch": 1085,
+    "created_at": "2025-09-16T08:25:36.438286",
+    "total_articles": 1086,
+    "new_articles_in_last_fetch": 1086,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -14101,6 +14101,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: U.S. OPENS PROBE INTO 174,000 TESLA MODEL Y CARS 🚨\n\n- NHTSA investigating 174,000 Tesla Model Y for door handle failures\n- Reports of inoperative door handles trigger safety concerns 🚪❌\n- Tesla under scrutiny for potential safety issues\n- NHTSA aims to address and resolve the reported problems\n- 174,000 Model Y cars facing inspection due to door handle issues\n- Investigation launched by NHTSA over door handle failures\n\nTAKEAWAY: NHTSA's investigation into 174,000 Tesla Model Y cars for door handle failures raises safety concerns and puts Tesla under scrutiny.",
       "exported_at": "2025-09-16T08:19:52.977918",
+      "continuous_session": true
+    },
+    {
+      "title": "Bessent sees trade deal likely with China before November deadline on reciprocal tariffs",
+      "link": "https://www.cnbc.com/2025/09/16/bessent-sees-trade-deal-likely-with-china-before-november-deadline-on-reciprocal-tariffs.html",
+      "summary": "Treasury Secretary Scott Bessent appeared Tuesday on CNBC's \"Squawk Box\" program.",
+      "published": "Tue, 16 Sep 2025 12:19:33 GMT",
+      "content": "Treasury Secretary Scott Bessent appeared Tuesday on CNBC's \"Squawk Box\" program.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8364cf47cd2b1afaef99d7a9cbd9092c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BESSANT PREDICTS TRADE DEAL WITH CHINA BEFORE TARIFF DEADLINE 🚀\n\n- Treasury Sec. Bessent optimistic on trade deal with China 🤝\n- Interviewed on CNBC's \"Squawk Box\" program 📺\n- Deadline for reciprocal tariffs with China set for November ⏰\n\nTAKEAWAY: Bessent's positive outlook hints at a potential trade deal with China before the looming November deadline, sparking optimism in the market.",
+      "exported_at": "2025-09-16T08:25:36.424960",
       "continuous_session": true
     }
   ]
