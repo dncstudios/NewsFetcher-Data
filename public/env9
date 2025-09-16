@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-15T20:29:05.837106",
-    "total_articles": 1053,
-    "new_articles_in_last_fetch": 1053,
+    "created_at": "2025-09-15T20:34:15.819389",
+    "total_articles": 1054,
+    "new_articles_in_last_fetch": 1054,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -13686,6 +13686,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JAPAN'S NIKKEI 225 SURGES PAST 45,000 MARK 🚀\n\n- Nikkei 225 hits fresh high amidst Asia-Pacific market surge 📈\n- President Trump's positive statement boosts U.S.-China trade talks 🤝\n- Investor confidence rises with progress in trade negotiations ✅\n\nTAKEAWAY: Japan's Nikkei 225 breaking the 45,000 mark showcases strong market performance fueled by positive trade talk developments between the U.S. and China.",
       "exported_at": "2025-09-15T20:29:05.800187",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump cannot fire Fed&apos;s Lisa Cook before FOMC meeting, appeals court rules",
+      "link": "https://www.cnbc.com/2025/09/15/trump-lisa-cook-fed-lawsuit.html",
+      "summary": "Trump's attorneys wanted a lower-court ruling, which temporarily barred Cook's firing, stayed ahead of the Fed's upcoming meeting on interest rates.",
+      "published": "Tue, 16 Sep 2025 00:33:57 GMT",
+      "content": "Trump's attorneys wanted a lower-court ruling, which temporarily barred Cook's firing, stayed ahead of the Fed's upcoming meeting on interest rates.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3cffce0973ae4ee3679a387d58abefac",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP BLOCKED FROM FIRING FED'S LISA COOK BEFORE FOMC MEETING ⚠️\n\n- Appeals court rules against Trump's attempt to remove Lisa Cook\n- Lower-court decision to prevent Cook's firing upheld\n- Cook's position secured until after the Fed's interest rate meeting\n\nTAKEAWAY: Trump's bid to dismiss Lisa Cook from the Fed is thwarted by an appeals court, ensuring her presence until after the upcoming FOMC meeting.",
+      "exported_at": "2025-09-15T20:34:15.806667",
       "continuous_session": true
     }
   ]
