@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T10:23:12.484662",
-    "total_articles": 1102,
-    "new_articles_in_last_fetch": 1102,
+    "created_at": "2025-09-16T10:43:44.111044",
+    "total_articles": 1106,
+    "new_articles_in_last_fetch": 1106,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -14322,6 +14322,58 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STUDENT LOAN BORROWERS FACE TAX LIABILITY AMID TRUMP DELAYS ⚠️\n\n- Trump delays debt forgiveness, leading to potential tax burden 💰\n- Union warns of looming \"enormous tax liability\" for borrowers 🚨\n- Students entitled to forgiveness caught in administrative delays ⏳\n\nTAKEAWAY: The Trump administration's delays in providing debt forgiveness to student loan borrowers may result in a significant tax burden, causing financial strain for many.",
       "exported_at": "2025-09-16T10:23:12.471442",
+      "continuous_session": true
+    },
+    {
+      "title": "Eli Lilly to build $5 billion Virginia facility to boost production of targeted cancer drugs, other treatments",
+      "link": "https://www.cnbc.com/2025/09/16/eli-lilly-to-build-5-billion-virginia-manufacturing-facility.html",
+      "summary": "The Eli Lilly plant is the first of four planned U.S. manufacturing sites, which will begin making medicines within five years.",
+      "published": "Tue, 16 Sep 2025 14:30:01 GMT",
+      "content": "The Eli Lilly plant is the first of four planned U.S. manufacturing sites, which will begin making medicines within five years.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "225eb46b4b1c53dd77d99eea3fcd5b76",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ELI LILLY TO INVEST $5 BILLION IN VIRGINIA FACILITY FOR CANCER DRUGS 🚀\n\n- $5 billion investment to boost production of targeted cancer drugs 🎯\n- Virginia facility part of four planned U.S. manufacturing sites 🏭\n- Medicines production to start in Virginia within five years ⏳\n\nTAKEAWAY: Eli Lilly's massive investment in a Virginia facility highlights their commitment to advancing cancer treatment production in the U.S., promising a significant impact on healthcare.",
+      "exported_at": "2025-09-16T10:43:44.096800",
+      "continuous_session": true
+    },
+    {
+      "title": "An options trade on Starbucks with the stock oversold and due for a bounce",
+      "link": "https://www.cnbc.com/2025/09/16/an-options-trade-on-starbucks-with-the-stock-oversold-and-due-for-a-bounce.html",
+      "summary": "Options trader Nishant Pant goes through this bull call spread on Starbucks.",
+      "published": "Tue, 16 Sep 2025 14:37:40 GMT",
+      "content": "Options trader Nishant Pant goes through this bull call spread on Starbucks.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "52517f3b02e5332c541bcb0921f89990",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: OPTIONS TRADER PREDICTS STARBUCKS STOCK BOUNCE 🚀\n\n- Options trader Nishant Pant initiates bull call spread on oversold Starbucks\n- Anticipates stock to bounce back from current levels\n- Strategy aims to profit from potential upside movement\n- Market sentiment suggests Starbucks due for a positive turnaround\n- Bull call spread allows for limited risk with potential high returns\n- Pant's move reflects confidence in Starbucks' recovery potential\n\nTAKEAWAY: Options trader Nishant Pant's bullish call spread on Starbucks indicates optimism for a stock bounce, leveraging market sentiment for potential gains.",
+      "exported_at": "2025-09-16T10:43:44.096813",
+      "continuous_session": true
+    },
+    {
+      "title": "YouTube says it has paid creators more than $100 billion over last 4 years",
+      "link": "https://www.cnbc.com/2025/09/16/youtube-creators-pay.html",
+      "summary": "The company also announced new artificial intelligence tools for YouTube Shorts, its short-form vertical video product.",
+      "published": "Tue, 16 Sep 2025 14:30:01 GMT",
+      "content": "The company also announced new artificial intelligence tools for YouTube Shorts, its short-form vertical video product.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3008689c65f28b507240051481416948",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: YOUTUBE PAYS CREATORS OVER $100B IN 4 YEARS 🚀\n\n- YouTube reveals $100 billion payout to creators 💰\n- New AI tools launched for YouTube Shorts 🤖\n- Demonstrates commitment to supporting content creators ✅\n\nTAKEAWAY: YouTube's $100 billion payout to creators in the last 4 years showcases its dedication to empowering and rewarding content creators, while the launch of new AI tools for YouTube Shorts enhances the platform's capabilities.",
+      "exported_at": "2025-09-16T10:43:44.096814",
+      "continuous_session": true
+    },
+    {
+      "title": "UK has gone from a leader to a laggard in biopharma, Eli Lilly CEO says",
+      "link": "https://www.cnbc.com/2025/09/16/eli-lilly-ceo-david-ricks-addresses-uk-us-investments.html",
+      "summary": "Eli Lilly Chief Executive Officer Dave Ricks says a pullback in U.K. biopharmaceutical investments should send a message to U.S. policymakers.",
+      "published": "Tue, 16 Sep 2025 14:30:01 GMT",
+      "content": "Eli Lilly Chief Executive Officer Dave Ricks says a pullback in U.K. biopharmaceutical investments should send a message to U.S. policymakers.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3e446d6c34797fa6c23eff0e2c402bac",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: UK FALLS BEHIND IN BIOPHARMA, ELI LILLY CEO WARNS ⚠️\n\n- UK's biopharma investments decline, signaling a shift 📉\n- Eli Lilly CEO urges U.S. policymakers to take note 🇬🇧🇺🇸\n- Warning highlights UK's lost leadership status 🚨\n- Decline in UK biopharma sector raises concerns 📉⚠️\n- Message from Eli Lilly CEO emphasizes changing landscape 💬\n- UK's pullback in biopharma investments raises alarms 🔔\n\nTAKEAWAY: Eli Lilly CEO's cautionary words about the UK's decline in biopharma investments serve as a stark warning to U.S. policymakers about the shifting global landscape.",
+      "exported_at": "2025-09-16T10:43:44.096818",
       "continuous_session": true
     }
   ]
