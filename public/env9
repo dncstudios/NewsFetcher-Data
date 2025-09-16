@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-15T20:34:15.819389",
-    "total_articles": 1054,
-    "new_articles_in_last_fetch": 1054,
+    "created_at": "2025-09-15T20:39:23.973381",
+    "total_articles": 1055,
+    "new_articles_in_last_fetch": 1055,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -13699,6 +13699,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP BLOCKED FROM FIRING FED'S LISA COOK BEFORE FOMC MEETING ⚠️\n\n- Appeals court rules against Trump's attempt to remove Lisa Cook\n- Lower-court decision to prevent Cook's firing upheld\n- Cook's position secured until after the Fed's interest rate meeting\n\nTAKEAWAY: Trump's bid to dismiss Lisa Cook from the Fed is thwarted by an appeals court, ensuring her presence until after the upcoming FOMC meeting.",
       "exported_at": "2025-09-15T20:34:15.806667",
+      "continuous_session": true
+    },
+    {
+      "title": "&apos;We will do it in Charlie&apos;s name&apos;: Stephen Miller vows vengeance for Kirk&apos;s murder",
+      "link": "https://www.cnbc.com/2025/09/15/we-will-do-it-in-charlies-name-stephen-miller-vows-vengeance-for-kirks-murder.html",
+      "summary": "Vice President JD Vance, hosting the podcast once helmed by Kirk, also encouraged people to make trouble for individuals who were \"celebrating\" the conservative activist's death.",
+      "published": "Tue, 16 Sep 2025 00:38:13 GMT",
+      "content": "Vice President JD Vance, hosting the podcast once helmed by Kirk, also encouraged people to make trouble for individuals who were \"celebrating\" the conservative activist's death.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c0c263a7124c1200d782a05b855833be",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STEPHEN MILLER VOWS VENGEANCE FOR KIRK'S MURDER 🚨\n\n- Stephen Miller promises retribution for Kirk's death 💔\n- VP JD Vance urges action against those celebrating the activist's passing 📣\n- Calls for justice echo in response to the tragic incident 🗣\n\nTAKEAWAY: Stephen Miller's vow for vengeance and JD Vance's call to action highlight the push for justice in the wake of Kirk's murder.",
+      "exported_at": "2025-09-15T20:39:23.882981",
       "continuous_session": true
     }
   ]
