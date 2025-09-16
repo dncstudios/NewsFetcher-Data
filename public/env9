@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T16:09:29.115136",
-    "total_articles": 1134,
-    "new_articles_in_last_fetch": 1134,
+    "created_at": "2025-09-16T16:14:39.443829",
+    "total_articles": 1136,
+    "new_articles_in_last_fetch": 1136,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -14738,6 +14738,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: RCI HOSPITALITY INDICTED FOR BRIBERY SCANDAL 🚨\n\n- RCI Hospitality shares plummet 17% post bribery indictments\n- Executives allegedly bribed tax auditor with comped dances 💃\n- Scheme involves multi-million dollar bribery and tax fraud\n- Company faces serious legal and financial repercussions\n- Stock price hit hard by scandal and legal troubles\n- Investors wary of RCI's involvement in alleged bribery scheme\n\nTAKEAWAY: RCI Hospitality's shares nosedive as executives face serious legal trouble over alleged bribery scandal involving tax fraud, impacting investor confidence.",
       "exported_at": "2025-09-16T16:09:29.038209",
+      "continuous_session": true
+    },
+    {
+      "title": "Santoli&apos;s Tuesday market wrap-up: Key question is how dovish the Fed&apos;s outlook for policy will be",
+      "link": "https://www.cnbc.com/2025/09/16/santolis-tuesday-market-wrap-up-key-question-is-how-dovish-is-the-fed-.html",
+      "summary": "The other issue is how much of this anticipated friendly scenario has already been built into market prices.",
+      "published": "Tue, 16 Sep 2025 20:09:55 GMT",
+      "content": "The other issue is how much of this anticipated friendly scenario has already been built into market prices.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "742e8b8d6c9b38192b28e9c0ff62e69c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SANTOLI'S INSIGHT ON FED'S DOVISH OUTLOOK 🚀\n\n- Key focus on Fed's policy outlook for dovish signals 🕊️\n- Market prices already reflecting anticipated scenarios 📈\n- Balancing act: Fed's dovishness impact on market dynamics\n\nTAKEAWAY: Understanding the implications of the Fed's dovish outlook is crucial as market prices may have already factored in the anticipated scenarios.",
+      "exported_at": "2025-09-16T16:14:39.357966",
+      "continuous_session": true
+    },
+    {
+      "title": "Brazil&apos;s Bolsonaro taken to hospital after feeling sick, son says",
+      "link": "https://www.cnbc.com/2025/09/16/brazils-bolsonaro-taken-to-hospital-after-feeling-sick-son-says.html",
+      "summary": "Former Brazilian President Jair Bolsonaro has been taken to a hospital in the capital, Brasilia, after feeling sick, his son said.",
+      "published": "Tue, 16 Sep 2025 19:56:17 GMT",
+      "content": "Former Brazilian President Jair Bolsonaro has been taken to a hospital in the capital, Brasilia, after feeling sick, his son said.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "caec7dc8a57593a9423711be678c1358",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BRAZIL'S BOLSONARO HOSPITALIZED AFTER FEELING SICK 🚨\n\n- Former President Bolsonaro hospitalized in Brasilia 🏥\n- Son confirms hospital visit due to feeling unwell 🤒\n\nTAKEAWAY: Former Brazilian President Bolsonaro's hospitalization in Brasilia due to feeling sick raises concerns about his health.",
+      "exported_at": "2025-09-16T16:14:39.358046",
       "continuous_session": true
     }
   ]
