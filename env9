@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T15:13:20.087563",
-    "total_articles": 1127,
-    "new_articles_in_last_fetch": 1127,
+    "created_at": "2025-09-16T15:28:33.900505",
+    "total_articles": 1128,
+    "new_articles_in_last_fetch": 1128,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -14647,6 +14647,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CRYPTO EXECUTIVES ADVOCATE FOR BITCOIN RESERVE BILL IN WASHINGTON, D.C. 🚀\n\n- Tom Lee & Michael Saylor lead push for U.S. strategic bitcoin reserve 🌐\n- Executives aim to establish legislation for crypto reserves 📈\n- EY's Mike Johnson analyzes stablecoins in new report 💼\n\nTAKEAWAY: Crypto leaders converge in Washington to advocate for a U.S. strategic bitcoin reserve, signaling a potential shift in the crypto landscape.",
       "exported_at": "2025-09-16T15:13:20.014498",
+      "continuous_session": true
+    },
+    {
+      "title": "Charlie Kirk shooting suspect Tyler Robinson charged with murder, faces possible death penalty",
+      "link": "https://www.cnbc.com/2025/09/16/charlie-kirk-tyler-robinson-charges.html",
+      "summary": "Kirk's death at a Utah university spurred bipartisan calls to end political violence. President Donald Trump decried \"radical left\" rhetoric after the killing.",
+      "published": "Tue, 16 Sep 2025 19:25:40 GMT",
+      "content": "Kirk's death at a Utah university spurred bipartisan calls to end political violence. President Donald Trump decried \"radical left\" rhetoric after the killing.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "682ff471453f4428f929dcf75503638b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CHARLIE KIRK SHOOTING SUSPECT FACES DEATH PENALTY ⚠️\n\n- Suspect charged with aggravated murder in Utah 🚨\n- Kirk's death sparks bipartisan calls to stop political violence ✊\n- President Trump criticizes \"radical left\" rhetoric post-killing 💬\n\nTAKEAWAY: The suspect in the Charlie Kirk shooting is facing the death penalty, highlighting the urgent need to address political violence and its consequences.",
+      "exported_at": "2025-09-16T15:28:33.835998",
       "continuous_session": true
     }
   ]
