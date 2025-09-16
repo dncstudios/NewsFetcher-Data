@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T03:35:41.521694",
-    "total_articles": 1070,
-    "new_articles_in_last_fetch": 1070,
+    "created_at": "2025-09-16T03:40:46.682329",
+    "total_articles": 1071,
+    "new_articles_in_last_fetch": 1071,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -13907,6 +13907,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: EUROPEAN MARKETS BRACE FOR OPEN AS U.S.-CHINA TALKS UNFOLD 🚀\n\n- Traders monitor Spain talks post Trump's positive U.S.-China trade update 🇨🇳🇺🇸\n- Global markets await outcome for potential impact on trading activities 📈\n- European markets prepare for a potentially subdued opening 🌍\n\nTAKEAWAY: European markets anticipate a lackluster start as they assess the ongoing U.S.-China trade talks, impacting global trading sentiments.",
       "exported_at": "2025-09-16T03:35:41.507773",
+      "continuous_session": true
+    },
+    {
+      "title": "The Chinese yuan&apos;s balancing act fuels both opportunity and friction",
+      "link": "https://www.cnbc.com/2025/09/16/chinese-yuan-chuan-rmb-cny-cnh-china-onshore-offshore-usd-euro-renminbi-currency-exports-imports-trade.html",
+      "summary": "The Chinese yuan is climbing on a dollar slump, but its weakness against other currencies could draw the ire of major trading partners.",
+      "published": "Tue, 16 Sep 2025 07:40:04 GMT",
+      "content": "The Chinese yuan is climbing on a dollar slump, but its weakness against other currencies could draw the ire of major trading partners.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5f61fca630a0d99f73862ce10f782cf7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CHINESE YUAN RALLIES AGAINST DOLLAR, WEAKENS VS. OTHER CURRENCIES 📈\n\n- Yuan surges due to dollar decline 🚀\n- Struggles against non-dollar currencies 📉\n- Potential concerns from trading partners ⚠️\n- Divergence raises questions about yuan's global standing ❓\n\nTAKEAWAY: The Chinese yuan's mixed performance, strengthening against the dollar but weakening against other currencies, may spark concerns among major trading partners and impact its international reputation.",
+      "exported_at": "2025-09-16T03:40:46.669255",
       "continuous_session": true
     }
   ]
