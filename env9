@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T05:32:08.942219",
-    "total_articles": 1074,
-    "new_articles_in_last_fetch": 1074,
+    "created_at": "2025-09-16T06:53:12.865274",
+    "total_articles": 1075,
+    "new_articles_in_last_fetch": 1075,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -13959,6 +13959,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TIM COOK PREDICTS APPLE'S U.S. MANUFACTURING EXPANSION WILL SPARK 'DOMINO EFFECT' 🚀\n\n- Tim Cook foresees Apple's U.S. manufacturing expansion's ripple effect 🍏\n- Apple CEO emphasizes commitment to boosting domestic manufacturing 🇺🇸\n- Interview with CNBC's Jim Cramer sheds light on Apple's strategy 🎙️\n\nTAKEAWAY: Tim Cook's vision of a 'domino effect' from Apple's U.S. manufacturing expansion signals a significant boost to domestic production and economy.",
       "exported_at": "2025-09-16T05:32:08.928772",
+      "continuous_session": true
+    },
+    {
+      "title": "Hershey gets a double upgrade from Goldman Sachs as market share trends improve",
+      "link": "https://www.cnbc.com/2025/09/16/hershey-gets-a-double-upgrade-from-goldman-sachs-as-market-share-trends-improve.html",
+      "summary": "The bank double upgraded shares of the chocolate and cocoa products company to buy from sell.",
+      "published": "Tue, 16 Sep 2025 10:51:19 GMT",
+      "content": "The bank double upgraded shares of the chocolate and cocoa products company to buy from sell.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4e63da27aeec25825e826f62e5b69175",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: HERSHEY RECEIVES DOUBLE UPGRADE FROM GOLDMAN SACHS 🚀\n\n- Goldman Sachs upgrades Hershey from sell to buy 📈\n- Market share trends for Hershey show improvement 📊\n- Positive outlook on chocolate and cocoa products company ✅\n\nTAKEAWAY: Hershey's double upgrade by Goldman Sachs reflects improving market share trends, signaling a positive outlook for the company.",
+      "exported_at": "2025-09-16T06:53:12.851503",
       "continuous_session": true
     }
   ]
