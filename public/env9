@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T14:27:22.799887",
-    "total_articles": 1122,
-    "new_articles_in_last_fetch": 1122,
+    "created_at": "2025-09-16T14:37:36.960904",
+    "total_articles": 1124,
+    "new_articles_in_last_fetch": 1124,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -14582,6 +14582,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NETSKOPE RAISES IPO RANGE AMID TECH HOT STREAK 🚀\n\n- Netskope increases IPO range, riding tech momentum 📈\n- Competitors include Palo Alto Networks, Cisco, Broadcom 💻\n- Positioned strongly in cybersecurity sector 🔒\n\nTAKEAWAY: Netskope's IPO range boost reflects confidence in its position within the cybersecurity market, competing with industry giants like Palo Alto Networks and Cisco.",
       "exported_at": "2025-09-16T14:27:22.784940",
+      "continuous_session": true
+    },
+    {
+      "title": "Waymo obtains permit to test robotaxis at San Francisco International Airport",
+      "link": "https://www.cnbc.com/2025/09/16/waymo-permit-sfo-airport.html",
+      "summary": "Alphabet's Waymo has obtained a permit to test its robotaxis at San Francisco International Airport.",
+      "published": "Tue, 16 Sep 2025 18:07:55 GMT",
+      "content": "Alphabet's Waymo has obtained a permit to test its robotaxis at San Francisco International Airport.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6fa61fa881d247ba55157f07e10618d1",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WAYMO'S ROBOTAXIS HIT SAN FRANCISCO AIRPORT 🚀\n\n- Waymo secures permit for robotaxi testing at SFO ✅\n- Alphabet's autonomous vehicles set to roam the airport 🚗\n- Potential for seamless airport transportation 💼🔑\n- Waymo aims to revolutionize travel experiences 🌟\n- Testing at SFO marks a significant milestone 🎯\n\nTAKEAWAY: Waymo's latest permit to test robotaxis at San Francisco International Airport signals a major advancement in autonomous vehicle technology, paving the way for improved transportation experiences.",
+      "exported_at": "2025-09-16T14:37:36.947426",
+      "continuous_session": true
+    },
+    {
+      "title": "A breakout in this rare earths stock is taking place, according to the charts",
+      "link": "https://www.cnbc.com/2025/09/16/a-breakout-in-this-rare-earths-stock-is-taking-place-according-to-the-charts.html",
+      "summary": "Chart analyst Todd Gordon takes a look at a breakout in this rare earths stock.",
+      "published": "Tue, 16 Sep 2025 18:23:03 GMT",
+      "content": "Chart analyst Todd Gordon takes a look at a breakout in this rare earths stock.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "19f5f52fed1d12cf307c63f86df64251",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: RARE EARTHS STOCK BREAKOUT ALERT 🚀\n\n- Chart analyst Todd Gordon spots breakout on rare earths stock 📈\n- Potential surge in stock price anticipated 🚀\n- Market charts indicate bullish momentum 📊\n- Investors eyeing rare earths stock for potential gains 💰\n- Analyst's analysis points towards positive growth ⚡️\n\nTAKEAWAY: Chart analyst Todd Gordon's findings hint at a breakout in the rare earths stock, signaling potential gains and bullish momentum for investors looking to capitalize on this opportunity.",
+      "exported_at": "2025-09-16T14:37:36.947437",
       "continuous_session": true
     }
   ]
