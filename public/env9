@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T17:31:07.860991",
-    "total_articles": 1145,
-    "new_articles_in_last_fetch": 1145,
+    "created_at": "2025-09-16T17:46:21.957899",
+    "total_articles": 1146,
+    "new_articles_in_last_fetch": 1146,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -14881,6 +14881,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: MICROSOFT INVESTS $30 BILLION IN UK AI INFRASTRUCTURE 🚀\n\n- Microsoft boosts AI investments in the UK 🇬🇧\n- $30 billion allocated for AI infrastructure and operations 💰\n- Expansion coincides with President Trump's state visit 🌐\n- Strategic move to enhance AI capabilities in the UK 📈\n- Demonstrates commitment to advancing technology in the region ✅\n- Aim to strengthen partnerships and drive innovation 🚀\n\nTAKEAWAY: Microsoft's substantial investment in UK AI infrastructure showcases a strategic commitment to advancing technology and driving innovation in the region.",
       "exported_at": "2025-09-16T17:31:07.775551",
+      "continuous_session": true
+    },
+    {
+      "title": "Microsoft, Nvidia other tech giants plan over $40 billion of new AI investments in UK",
+      "link": "https://www.cnbc.com/2025/09/16/tech-giants-to-pour-billions-into-uk-ai-heres-what-we-know-so-far.html",
+      "summary": "Microsoft is ramping up its AI investments in the U.K. as President Donald Trump embarks on his state visit this week.",
+      "published": "Tue, 16 Sep 2025 21:44:08 GMT",
+      "content": "Microsoft is ramping up its AI investments in the U.K. as President Donald Trump embarks on his state visit this week.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "cb22a3c933761e6e0c92a5c1a09b267b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MICROSOFT INVESTS $30 BILLION IN UK AI INFRASTRUCTURE 🚀\n\n- Microsoft boosts AI investments in the UK 🇬🇧\n- $30 billion allocated for AI infrastructure and operations 💰\n- Expansion coincides with President Trump's state visit 🌐\n- Strategic move to enhance AI capabilities in the UK 📈\n- Demonstrates commitment to advancing technology in the region ✅\n- Aim to strengthen partnerships and drive innovation 🚀\n\nTAKEAWAY: Microsoft's substantial investment in UK AI infrastructure showcases a strategic commitment to advancing technology and driving innovation in the region.",
+      "exported_at": "2025-09-16T17:46:21.883870",
       "continuous_session": true
     }
   ]
