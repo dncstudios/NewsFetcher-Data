@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T03:15:27.252588",
-    "total_articles": 1069,
-    "new_articles_in_last_fetch": 1069,
+    "created_at": "2025-09-16T03:35:41.521694",
+    "total_articles": 1070,
+    "new_articles_in_last_fetch": 1070,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -13894,6 +13894,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: PHARMA FIRMS PRESSURE UK AMID LOOMING TRUMP DRUG PRICING ORDER ⚠️\n\n- Global pharma firms halt U.K. investments due to uncertain drug pricing talks 🔒\n- Waning government support adds pressure on pharmaceutical companies 📉\n- UK faces challenges as firms pull or pause investment plans 🇬🇧\n\nTAKEAWAY: Global pharma firms intensify pressure on the UK as uncertainty around drug pricing talks and waning government support lead to halted investments, posing challenges for the nation's pharmaceutical sector.",
       "exported_at": "2025-09-16T03:15:27.238825",
+      "continuous_session": true
+    },
+    {
+      "title": "European markets open lower as traders assess U.S.-China talks",
+      "link": "https://www.cnbc.com/2025/09/16/european-markets-on-tues-septpoint16-stoxx-600-ftse-us-china-talks.html",
+      "summary": "Global markets are keeping a close eye on talks in Spain after U.S. President Donald Trump said the U.S.-China trade negotiations were progressing well.",
+      "published": "Tue, 16 Sep 2025 07:30:34 GMT",
+      "content": "Global markets are keeping a close eye on talks in Spain after U.S. President Donald Trump said the U.S.-China trade negotiations were progressing well.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "82a06c3ebdaf8f78b9f0fb7c819586e0",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: EUROPEAN MARKETS BRACE FOR OPEN AS U.S.-CHINA TALKS UNFOLD 🚀\n\n- Traders monitor Spain talks post Trump's positive U.S.-China trade update 🇨🇳🇺🇸\n- Global markets await outcome for potential impact on trading activities 📈\n- European markets prepare for a potentially subdued opening 🌍\n\nTAKEAWAY: European markets anticipate a lackluster start as they assess the ongoing U.S.-China trade talks, impacting global trading sentiments.",
+      "exported_at": "2025-09-16T03:35:41.507773",
       "continuous_session": true
     }
   ]
