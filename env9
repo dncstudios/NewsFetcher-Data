@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T19:27:54.808216",
-    "total_articles": 1149,
-    "new_articles_in_last_fetch": 1149,
+    "created_at": "2025-09-16T19:58:24.781746",
+    "total_articles": 1151,
+    "new_articles_in_last_fetch": 1151,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -14933,6 +14933,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JIM CRAMER'S BULLISH PREDICTION: JPMORGAN EYES $1 TRILLION VALUATION 🚀\n\n- CNBC's Cramer predicts JPMorgan as next non-tech $1T stock 📈\n- Market cap surge expected on JPMorgan's horizon 📈\n- Cramer's insight boosts investor confidence in JPMorgan 💪\n\nTAKEAWAY: Jim Cramer's optimistic outlook positions JPMorgan as a potential non-tech frontrunner in reaching a $1 trillion market cap, fueling investor optimism.",
       "exported_at": "2025-09-16T19:27:54.736387",
+      "continuous_session": true
+    },
+    {
+      "title": "Asia markets set to track Wall Street losses as investors await Fed meeting decision",
+      "link": "https://www.cnbc.com/2025/09/17/asia-markets-updates-today-hang-seng-index-nikkei-225-kospi-asx-200-nifty-50-fed-decision-rates.html",
+      "summary": "Investors expect the U.S. Federal Reserve to cut interest rates at the end of its two-day meeting Wednesday stateside.",
+      "published": "Tue, 16 Sep 2025 23:55:10 GMT",
+      "content": "Investors expect the U.S. Federal Reserve to cut interest rates at the end of its two-day meeting Wednesday stateside.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7356488d56503875737990181951540a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASIA MARKETS AWAIT FED DECISION AFTER WALL STREET LOSSES 🚀\n\n- Asia markets poised to mirror Wall Street's decline 📉\n- Investors anticipate U.S. Federal Reserve's rate cut decision 📉\n- All eyes on Fed's two-day meeting ending Wednesday 🧐\n- Market sentiment cautious ahead of Fed announcement 🚨\n- Expectation for interest rate cut driving investor behavior 🔥\n\nTAKEAWAY: Asia markets bracing for potential rate cut as investors eagerly await the U.S. Federal Reserve's decision, mirroring Wall Street's losses in anticipation.",
+      "exported_at": "2025-09-16T19:58:24.690738",
+      "continuous_session": true
+    },
+    {
+      "title": "Wednesday&apos;s big stock stories: What’s likely to move the market in the next trading session",
+      "link": "https://www.cnbc.com/2025/09/16/wednesdays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html",
+      "summary": "Stocks continue to trade near record highs as investors await Wednesday's Federal Reserve interest rate decision.",
+      "published": "Tue, 16 Sep 2025 23:32:59 GMT",
+      "content": "Stocks continue to trade near record highs as investors await Wednesday's Federal Reserve interest rate decision.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a74e6a20d1ee0febd3d57b0aba63ca6d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WEDNESDAY'S STOCK MARKET OUTLOOK: FED RATE DECISION IN FOCUS 📈\n\n- Stock market nears record highs pre-Fed interest rate decision 🌟\n- Investors eagerly anticipate Wednesday's Federal Reserve announcement 🤑\n- Market sentiment high with expectations for potential impact 🔥\n\nTAKEAWAY: Stock market poised for movement as investors eagerly await the Federal Reserve interest rate decision, driving anticipation and market sentiment.",
+      "exported_at": "2025-09-16T19:58:24.690820",
       "continuous_session": true
     }
   ]
