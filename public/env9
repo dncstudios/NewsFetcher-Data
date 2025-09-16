@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T00:27:48.371978",
-    "total_articles": 1063,
-    "new_articles_in_last_fetch": 1063,
+    "created_at": "2025-09-16T01:18:29.984585",
+    "total_articles": 1064,
+    "new_articles_in_last_fetch": 1064,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -13816,6 +13816,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FLOODS AND RAINS FAIL TO SPIKE INDIA'S INFLATION 🌧️\n\n- India's inflation rises to 2.1% in August 📈\n- Marks a jump from 1.5% in July 🚀\n- Increase attributed to higher food prices 🍲\n- Heavy rains and floods not expected to impact inflation ⚠️\n- Nine-month downward trend breaks ✋\n- August sees inflation acceleration 🏁\n\nTAKEAWAY: India's inflation accelerates to 2.1% in August, driven by food price increases, despite floods and heavy rains not significantly impacting the inflation rate.",
       "exported_at": "2025-09-16T00:27:48.291078",
+      "continuous_session": true
+    },
+    {
+      "title": "The UK is about to embrace Trump. The truth is, it needs him right now",
+      "link": "https://www.cnbc.com/2025/09/16/the-uk-and-keir-starmer-need-trumps-state-visit-right-now-.html",
+      "summary": "The whirlwind trip comes at a torrid time for Prime Minister Keir Starmer who is facing questions over his leadership and judgment.",
+      "published": "Tue, 16 Sep 2025 05:09:18 GMT",
+      "content": "The whirlwind trip comes at a torrid time for Prime Minister Keir Starmer who is facing questions over his leadership and judgment.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "247bfae683602009b90af43bd046f936",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: THE UK EMBRACES TRUMP: NEEDED BOOST OR CONTROVERSY? 🚀\n\n- UK seeks Trump's support amidst PM Starmer's leadership challenges\n- Trip timing coincides with Starmer's scrutiny over judgment calls\n- Embrace of Trump could provide much-needed political boost\n- UK's move to engage with Trump sparks controversy and debate\n- Starmer faced with questions on his leadership amidst turmoil\n- Trump's visit stirs up mixed reactions and public opinion\n\nTAKEAWAY: UK's decision to welcome Trump amidst PM Starmer's challenges sparks both hope for a political lift and controversy, stirring up public debate.",
+      "exported_at": "2025-09-16T01:18:29.898413",
       "continuous_session": true
     }
   ]
