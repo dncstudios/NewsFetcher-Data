@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T02:55:04.436657",
-    "total_articles": 1068,
-    "new_articles_in_last_fetch": 1068,
+    "created_at": "2025-09-16T03:15:27.252588",
+    "total_articles": 1069,
+    "new_articles_in_last_fetch": 1069,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -13881,6 +13881,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP ADMINISTRATION RESPONDS TO HYUNDAI IMMIGRATION RAID 🚨\n\n- Immigration raid at South Korean battery plant raises investment concerns\n- Trump administration shifts to a reconciliatory approach\n- Concerns over potential impact on foreign investments in the U.S.\n- Reactions from investors and stakeholders under scrutiny\n- Administration aims to address fallout from the immigration raid\n- Damage-control measures in place to reassure investors\n\nTAKEAWAY: Trump administration's response to the Hyundai immigration raid aims to mitigate concerns and reassure stakeholders about potential impacts on foreign investments in the U.S.",
       "exported_at": "2025-09-16T02:55:04.342006",
+      "continuous_session": true
+    },
+    {
+      "title": "Pharma firms pile pressure on the UK as Trump&apos;s drug pricing order looms",
+      "link": "https://www.cnbc.com/2025/09/16/pharma-firms-pile-pressure-on-the-uk-as-trumps-drug-pricing-order-looms.html",
+      "summary": "A number of global pharma firms have pulled or paused U.K. investment plans amid waning government support and drug pricing talks.",
+      "published": "Tue, 16 Sep 2025 07:13:25 GMT",
+      "content": "A number of global pharma firms have pulled or paused U.K. investment plans amid waning government support and drug pricing talks.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c90c31ae724c3df1313c82e8e0710c4a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PHARMA FIRMS PRESSURE UK AMID LOOMING TRUMP DRUG PRICING ORDER ⚠️\n\n- Global pharma firms halt U.K. investments due to uncertain drug pricing talks 🔒\n- Waning government support adds pressure on pharmaceutical companies 📉\n- UK faces challenges as firms pull or pause investment plans 🇬🇧\n\nTAKEAWAY: Global pharma firms intensify pressure on the UK as uncertainty around drug pricing talks and waning government support lead to halted investments, posing challenges for the nation's pharmaceutical sector.",
+      "exported_at": "2025-09-16T03:15:27.238825",
       "continuous_session": true
     }
   ]
