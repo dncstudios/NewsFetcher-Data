@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-15T22:26:04.093053",
-    "total_articles": 1060,
-    "new_articles_in_last_fetch": 1060,
+    "created_at": "2025-09-16T00:17:29.140978",
+    "total_articles": 1061,
+    "new_articles_in_last_fetch": 1061,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -13777,6 +13777,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP ADMIN ORDERS DELTA, AEROMEXICO TO UNWIND JV BY JAN. 1 ⚠️\n\n- Delta, Aeromexico forced to dissolve joint venture 🛫\n- Deadline set for Jan. 1 to end partnership 📅\n- Trump administration's order impacts airline collaboration ✈️\n\nTAKEAWAY: The Trump administration's directive for Delta and Aeromexico to unwind their joint venture by January 1 disrupts their partnership and operations.",
       "exported_at": "2025-09-15T22:26:04.012518",
+      "continuous_session": true
+    },
+    {
+      "title": "OpenAI hires former xAI CFO as Altman-Musk rivalry escalates",
+      "link": "https://www.cnbc.com/2025/09/15/openai-hires-former-xai-cfo-as-altman-musk-rivalry-escalates.html",
+      "summary": "OpenAI has hired former xAI finance chief Mike Liberatore as business finance offer, responsible for managing the company's soaring compute spending.",
+      "published": "Tue, 16 Sep 2025 04:08:24 GMT",
+      "content": "OpenAI has hired former xAI finance chief Mike Liberatore as business finance offer, responsible for managing the company's soaring compute spending.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "47471ccefab05b5ca932d5d8b5318602",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: OPENAI HIRES FORMER xAI CFO IN ESCALATING ALTMAN-MUSK RIVALRY ⚡️\n\n- OpenAI appoints Mike Liberatore as business finance officer 🌟\n- Liberatore to manage company's increasing compute spending 💸\n- Move comes amid escalating rivalry between Altman and Musk 🚀\n\nTAKEAWAY: OpenAI's strategic hire of Mike Liberatore to oversee finances hints at the company's focus on managing soaring compute spending amidst the intensifying competition in the AI industry.",
+      "exported_at": "2025-09-16T00:17:29.061053",
       "continuous_session": true
     }
   ]
