@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T14:02:04.281972",
-    "total_articles": 1120,
-    "new_articles_in_last_fetch": 1120,
+    "created_at": "2025-09-16T14:27:22.799887",
+    "total_articles": 1122,
+    "new_articles_in_last_fetch": 1122,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -14556,6 +14556,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: GOLD SHINES BRIGHT AS FED CUTS RATES AMID HIGH INFLATION 🌟\n\n- Gold consistently rises when central banks lower rates 📈\n- Inflation at peak levels, boosting gold's allure 💰\n- Precious metal remains a safe haven during rate cuts 🛡️\n- Investors flock to gold for stability in uncertain times 🌐\n- Fed's rate cuts and high inflation drive gold's upward trend 🔝\n- Historical data supports gold's resilience during rate drops 📊\n\nTAKEAWAY: Gold's winning streak continues as the Fed cuts rates in the face of high inflation, making it a reliable asset for investors seeking stability and growth.",
       "exported_at": "2025-09-16T14:02:04.268419",
+      "continuous_session": true
+    },
+    {
+      "title": "S&amp;P 500 slides from record as traders await big Fed decision: Live updates",
+      "link": "https://www.cnbc.com/2025/09/15/stock-market-today-live-updates.html",
+      "summary": "The three major indexes are coming off a winning session.",
+      "published": "Tue, 16 Sep 2025 18:25:31 GMT",
+      "content": "The three major indexes are coming off a winning session.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "73eead2bb895e2ae6e6f5413de3b237c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: S&P 500 FUTURES STABLE AFTER RECORD CLOSE ABOVE 6,600 📈\n\n- S&P 500 futures show minor movement post-record close\n- Market indexes conclude positive session\n- Investors eye market stability\n\nTAKEAWAY: S&P 500 futures remain steady after setting a new record above 6,600, signaling market optimism and stability.",
+      "exported_at": "2025-09-16T14:27:22.784922",
+      "continuous_session": true
+    },
+    {
+      "title": "Cybersecurity provider Netskope boosts IPO range as it tests tech hot streak",
+      "link": "https://www.cnbc.com/2025/09/16/cybersecurity-netskope-ntsk-ipo-stock.html",
+      "summary": "Netskope named Palo Alto Networks, Cisco and Broadcom among its competitors in its IPO filing.",
+      "published": "Tue, 16 Sep 2025 18:23:26 GMT",
+      "content": "Netskope named Palo Alto Networks, Cisco and Broadcom among its competitors in its IPO filing.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a2b5bf620c797fc5e754c8820f3989fd",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NETSKOPE RAISES IPO RANGE AMID TECH HOT STREAK 🚀\n\n- Netskope increases IPO range, riding tech momentum 📈\n- Competitors include Palo Alto Networks, Cisco, Broadcom 💻\n- Positioned strongly in cybersecurity sector 🔒\n\nTAKEAWAY: Netskope's IPO range boost reflects confidence in its position within the cybersecurity market, competing with industry giants like Palo Alto Networks and Cisco.",
+      "exported_at": "2025-09-16T14:27:22.784940",
       "continuous_session": true
     }
   ]
