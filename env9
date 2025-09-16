@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T14:37:36.960904",
-    "total_articles": 1124,
-    "new_articles_in_last_fetch": 1124,
+    "created_at": "2025-09-16T14:42:45.768825",
+    "total_articles": 1125,
+    "new_articles_in_last_fetch": 1125,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -14608,6 +14608,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: RARE EARTHS STOCK BREAKOUT ALERT 🚀\n\n- Chart analyst Todd Gordon spots breakout on rare earths stock 📈\n- Potential surge in stock price anticipated 🚀\n- Market charts indicate bullish momentum 📊\n- Investors eyeing rare earths stock for potential gains 💰\n- Analyst's analysis points towards positive growth ⚡️\n\nTAKEAWAY: Chart analyst Todd Gordon's findings hint at a breakout in the rare earths stock, signaling potential gains and bullish momentum for investors looking to capitalize on this opportunity.",
       "exported_at": "2025-09-16T14:37:36.947437",
+      "continuous_session": true
+    },
+    {
+      "title": "Charlie Kirk shooting suspect charged with aggravated murder; prosecutor to seek death penalty",
+      "link": "https://www.cnbc.com/2025/09/16/charlie-kirk-tyler-robinson-charges.html",
+      "summary": "Kirk's death at a Utah university spurred bipartisan calls to end political violence. President Donald Trump decried \"radical left\" rhetoric after the killing.",
+      "published": "Tue, 16 Sep 2025 18:39:10 GMT",
+      "content": "Kirk's death at a Utah university spurred bipartisan calls to end political violence. President Donald Trump decried \"radical left\" rhetoric after the killing.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "89b3709910589e3cd5a9c7c9c1634895",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CHARLIE KIRK SHOOTING SUSPECT FACES DEATH PENALTY ⚠️\n\n- Suspect charged with aggravated murder in Utah 🚨\n- Kirk's death sparks bipartisan calls to stop political violence ✊\n- President Trump criticizes \"radical left\" rhetoric post-killing 💬\n\nTAKEAWAY: The suspect in the Charlie Kirk shooting is facing the death penalty, highlighting the urgent need to address political violence and its consequences.",
+      "exported_at": "2025-09-16T14:42:45.753301",
       "continuous_session": true
     }
   ]
