@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T07:08:29.101861",
-    "total_articles": 1076,
-    "new_articles_in_last_fetch": 1076,
+    "created_at": "2025-09-16T07:38:53.224327",
+    "total_articles": 1077,
+    "new_articles_in_last_fetch": 1077,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -13985,6 +13985,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: META'S AI-POWERED SMART GLASSES SHINE AT CONNECT 2025 🚀\n\n- Meta's big bet on smart glasses takes center stage 🕶️\n- Analysts and investors eagerly await public response 👀\n- Connect event crucial for showcasing AI technology 🌟\n- Market focus on Meta's innovative approach to smart wearables 💡\n- Potential impact on Meta's future growth and revenue streams 📈\n- Public reception key for determining success of smart glasses 🎯\n\nTAKEAWAY: Meta's AI-powered smart glasses steal the show at Connect 2025, with market watchers closely monitoring public feedback to gauge future success and revenue potential.",
       "exported_at": "2025-09-16T07:08:29.087961",
+      "continuous_session": true
+    },
+    {
+      "title": "TD Cowen downgrades Warner Bros. Discovery on concerns a takeover may not happen",
+      "link": "https://www.cnbc.com/2025/09/16/td-cowen-downgrades-warner-bros-discovery-on-concerns-a-takeover-may-not-happen.html",
+      "summary": "The latest rally in shares of Warner Bros. Discovery may not hold if a takeover bid from Paramount Skydance doesn't come to fruition, TD Cowen said this week.",
+      "published": "Tue, 16 Sep 2025 11:35:07 GMT",
+      "content": "The latest rally in shares of Warner Bros. Discovery may not hold if a takeover bid from Paramount Skydance doesn't come to fruition, TD Cowen said this week.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "07f321100739a1947051da3e4d4818b6",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TD COWEN DOWNGRADES WARNER BROS. DISCOVERY ON TAKEOVER CONCERNS ⚠️\n\n- Warner Bros. Discovery's rally depends on Paramount Skydance bid 📉\n- TD Cowen doubts takeover, downgrades Warner Bros. Discovery 📉\n- Concerns arise over sustainability of recent share price surge ⚠️\n\nTAKEAWAY: TD Cowen downgrades Warner Bros. Discovery due to doubts about a potential takeover bid, impacting the stock's future prospects.",
+      "exported_at": "2025-09-16T07:38:53.210124",
       "continuous_session": true
     }
   ]
