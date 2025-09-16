@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T15:48:58.107796",
-    "total_articles": 1130,
-    "new_articles_in_last_fetch": 1130,
+    "created_at": "2025-09-16T15:59:11.387296",
+    "total_articles": 1131,
+    "new_articles_in_last_fetch": 1131,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -14686,6 +14686,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: S&P 500 FUTURES STABLE AFTER RECORD CLOSE ABOVE 6,600 📈\n\n- S&P 500 futures show minor movement post-record close\n- Market indexes conclude positive session\n- Investors eye market stability\n\nTAKEAWAY: S&P 500 futures remain steady after setting a new record above 6,600, signaling market optimism and stability.",
       "exported_at": "2025-09-16T15:48:58.033327",
+      "continuous_session": true
+    },
+    {
+      "title": "Charlie Kirk shooting suspect Tyler Robinson charged with murder, faces possible death penalty",
+      "link": "https://www.cnbc.com/2025/09/16/charlie-kirk-tyler-robinson-charges.html",
+      "summary": "Robinson's roommate told police he left a note saying \"I had the opportunity to take out Charlie Kirk, and I'm going to take it,\" the Utah County attorney said.",
+      "published": "Tue, 16 Sep 2025 19:58:37 GMT",
+      "content": "Robinson's roommate told police he left a note saying \"I had the opportunity to take out Charlie Kirk, and I'm going to take it,\" the Utah County attorney said.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8014907aeb67f0884c7fe778d571880e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TYLER ROBINSON CHARGED WITH MURDER OF CHARLIE KIRK, FACES DEATH PENALTY ⚠️\n\n- Tyler Robinson charged with murder of Charlie Kirk 🔫\n- Roommate reported Robinson's note about targeting Kirk 📝\n- Utah County attorney confirms Robinson's intentions 💬\n\nTAKEAWAY: Tyler Robinson faces the death penalty for the murder of Charlie Kirk after leaving a note expressing his intention to harm him, as confirmed by the Utah County attorney.",
+      "exported_at": "2025-09-16T15:59:11.306563",
       "continuous_session": true
     }
   ]
