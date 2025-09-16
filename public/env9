@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T11:19:40.430155",
-    "total_articles": 1110,
-    "new_articles_in_last_fetch": 1110,
+    "created_at": "2025-09-16T11:29:50.979908",
+    "total_articles": 1111,
+    "new_articles_in_last_fetch": 1111,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -14426,6 +14426,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TECH UPSTART CHALLENGES NVIDIA'S AI BUSINESS, SAYS NEEDHAM 🚀\n\n- Analyst Ryan Koontz upgrades network equipment, raises price target 📈\n- Tech upstart aims to carve a share of Nvidia's AI market 🤖\n- Needham bullish on network equipment company's growth potential 💪\n\nTAKEAWAY: Needham's positive outlook on the tech upstart challenging Nvidia's AI business signifies growth opportunities and market disruption potential.",
       "exported_at": "2025-09-16T11:19:40.414909",
+      "continuous_session": true
+    },
+    {
+      "title": "LimeWire acquires Fyre Festival, asking &apos;What Could Possibly Go Wrong?&apos;",
+      "link": "https://www.cnbc.com/2025/09/16/limewire-buys-fyre-festival-asking-what-could-possibly-go-wrong.html",
+      "summary": "The filesharing service (turned NFT platform) said it was looking to bring \"the brand and the meme back to life.\"",
+      "published": "Tue, 16 Sep 2025 15:24:01 GMT",
+      "content": "The filesharing service (turned NFT platform) said it was looking to bring \"the brand and the meme back to life.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "08d880b5be01832cd026d84be00782b0",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: LIMEWIRE ACQUIRES FYRE FESTIVAL: WHAT COULD GO WRONG? 🚨\n\n- LimeWire acquires Fyre Festival, aiming to revive the brand 🔥\n- Transitioning from filesharing to NFT platform 🔄\n- Plans to resurrect the festival's notorious brand and meme 🎉\n\nTAKEAWAY: LimeWire's acquisition of Fyre Festival sparks curiosity and skepticism as they aim to revive the infamous brand and meme.",
+      "exported_at": "2025-09-16T11:29:50.966231",
       "continuous_session": true
     }
   ]
