@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T09:37:15.274241",
-    "total_articles": 1096,
-    "new_articles_in_last_fetch": 1096,
+    "created_at": "2025-09-16T09:47:28.074284",
+    "total_articles": 1097,
+    "new_articles_in_last_fetch": 1097,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -14244,6 +14244,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TIKTOK DEAL TO BRING NEW INVESTORS ON BOARD 🚀\n\n- ByteDance to involve new and existing investors in TikTok deal 💼\n- Oracle to maintain cloud agreement with ByteDance 🌐\n- Sources confirm TikTok deal details 🕵️‍♂️\n\nTAKEAWAY: TikTok's deal expansion to include new investors alongside ByteDance signals growth and stability in the partnership, while Oracle's continued cloud agreement adds to the platform's tech infrastructure.",
       "exported_at": "2025-09-16T09:37:15.260723",
+      "continuous_session": true
+    },
+    {
+      "title": "Bessent: Trump&apos;s push to scrap quarterly company reports will be a win for investors",
+      "link": "https://www.cnbc.com/2025/09/16/bessent-trumps-push-to-scrap-quarterly-company-reports-will-be-a-win-for-investors.html",
+      "summary": "President Donald Trump had mooted scrapping quarterly company reports to allow CEOs to make better long-term decisions.",
+      "published": "Tue, 16 Sep 2025 13:39:59 GMT",
+      "content": "President Donald Trump had mooted scrapping quarterly company reports to allow CEOs to make better long-term decisions.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "59f958da60716bb61b122a275249b736",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP'S MOVE TO SCRAP QUARTERLY REPORTS: A GAME-CHANGER FOR INVESTORS? 🚀\n\n- Trump proposes eliminating quarterly reports for CEOs' long-term vision 🌟\n- Change aims to boost strategic decision-making and reduce short-term pressures ✅\n- Investors anticipate positive impact on companies' growth and stability 📈\n- Potential downside: less transparency could raise concerns for some shareholders ⚠️\n\nTAKEAWAY: Trump's proposal to eliminate quarterly reports seeks to enhance CEOs' strategic planning and long-term focus, potentially benefiting investors with improved company performance.",
+      "exported_at": "2025-09-16T09:47:28.059669",
       "continuous_session": true
     }
   ]
