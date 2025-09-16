@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T09:11:40.874958",
-    "total_articles": 1093,
-    "new_articles_in_last_fetch": 1093,
+    "created_at": "2025-09-16T09:26:56.973619",
+    "total_articles": 1094,
+    "new_articles_in_last_fetch": 1094,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -14205,6 +14205,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CITIZENS UPGRADES COREWEAVE STOCK ON HYPERSCALE OUTSOURCING OPTIMISM 🚀\n\n- CoreWeave shares poised for significant growth 💥\n- Citizens predicts boost in demand for hyperscalers 📈\n- Positive outlook on CoreWeave's future performance 🌟\n\nTAKEAWAY: Citizens' upgrade of CoreWeave stock reflects optimism in hyperscale outsourcing, signaling potential growth ahead.",
       "exported_at": "2025-09-16T09:11:40.859798",
+      "continuous_session": true
+    },
+    {
+      "title": "Credit scores fall for the second year in a row as more borrowers miss payments",
+      "link": "https://www.cnbc.com/2025/09/16/fico-credit-scores-fall-year-over-year-more-borrowers-miss-payments.html",
+      "summary": "The average FICO credit score fell two points year over year to 715. The resumption of federal student loan delinquency reporting was a key factor.",
+      "published": "Tue, 16 Sep 2025 13:20:05 GMT",
+      "content": "The average FICO credit score fell two points year over year to 715. The resumption of federal student loan delinquency reporting was a key factor.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6a790973995b139f98898d788a82c63b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CREDIT SCORES DECLINE FOR SECOND YEAR, DELINQUENCY RISES ⚠️\n\n- Average FICO score drops by 2 points to 715 📉\n- Increase in federal student loan delinquency reporting impacts scores 📊\n- More borrowers missing payments contribute to the decline 💳\n- Second consecutive year of credit score decrease 🔄\n- Financial responsibility becomes crucial for maintaining good credit 🎯\n\nTAKEAWAY: With credit scores dropping for the second year due to increased delinquencies, financial responsibility is key to maintaining a good credit standing.",
+      "exported_at": "2025-09-16T09:26:56.959889",
       "continuous_session": true
     }
   ]
