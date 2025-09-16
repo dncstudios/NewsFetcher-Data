@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T08:56:18.568137",
-    "total_articles": 1090,
-    "new_articles_in_last_fetch": 1090,
+    "created_at": "2025-09-16T09:01:26.598522",
+    "total_articles": 1091,
+    "new_articles_in_last_fetch": 1091,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -14166,6 +14166,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: THE ULTIMATE GUIDE TO STARTING YOUR OWN BUSINESS: EVERYTHING YOU NEED TO KNOW 🚀\n\n- Join Smarter by CNBC Make It for expert insights 💡\n- Learn to build a sustainable, growth-focused business 📈\n- Avoid burnout with essential tips and strategies 🛡️\n- Master the art of entrepreneurship and be your own boss 👩‍💼\n- Gain knowledge to navigate the challenges of starting a business 🚧\n- Unlock the secrets to success in the world of entrepreneurship 🗝️\n\nTAKEAWAY: Dive into Smarter by CNBC Make It's online course to master the essentials of starting and growing a successful business without burning out.",
       "exported_at": "2025-09-16T08:56:18.554687",
+      "continuous_session": true
+    },
+    {
+      "title": "JPMorgan can now help you find a private jet or butler",
+      "link": "https://www.cnbc.com/2025/09/16/jpmorgan-can-now-help-you-find-a-private-jet-or-butler.html",
+      "summary": "The move comes as private banks and wealth management firms seek to find ways of serving clients outside of core investing and financial advice.",
+      "published": "Tue, 16 Sep 2025 13:00:01 GMT",
+      "content": "The move comes as private banks and wealth management firms seek to find ways of serving clients outside of core investing and financial advice.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e6b3cb5ea685e09081ce27c3f60a52cc",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JPMORGAN OFFERS PRIVATE JET AND BUTLER SERVICES 🚀\n\n- JPMorgan expands services beyond investing and financial advice\n- Private banks aiming to cater to clients' unique needs 🎯\n- Wealth management firms exploring new ways to serve clients\n\nTAKEAWAY: JPMorgan's innovative move to offer private jet and butler services reflects a trend of financial institutions expanding to meet clients' diverse needs.",
+      "exported_at": "2025-09-16T09:01:26.584132",
       "continuous_session": true
     }
   ]
