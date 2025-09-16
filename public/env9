@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T10:12:55.778254",
-    "total_articles": 1099,
-    "new_articles_in_last_fetch": 1099,
+    "created_at": "2025-09-16T10:23:12.484662",
+    "total_articles": 1102,
+    "new_articles_in_last_fetch": 1102,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -14283,6 +14283,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TIKTOK DEAL TO INCLUDE NEW INVESTORS WITH BYTEDANCE 🚀\n\n- TikTok deal negotiations prolonged, deadline extended 3 times by President Trump 📆\n- ByteDance set to bring in new investors for the deal 💰\n- Oracle to maintain cloud agreement as part of the deal ☁️\n- Talks between parties ongoing, indicating progress despite delays 🤝\n- Trump's involvement in the deal adds complexity and uncertainty ⚠️\n\nTAKEAWAY: Despite extended deadlines and complexities, TikTok deal progresses with new investors, ByteDance's involvement, and Oracle's cloud agreement intact.",
       "exported_at": "2025-09-16T10:12:55.763201",
+      "continuous_session": true
+    },
+    {
+      "title": "Fed bets: These stocks historically benefited the most from falling interest rates, according to Citi",
+      "link": "https://www.cnbc.com/2025/09/16/fed-bets-these-stocks-historically-benefited-the-most-from-falling-interest-rates-according-to-citi.html",
+      "summary": "How investors should position for a lower interest rate environment hinges on what happens next with the economy, the firm said.",
+      "published": "Tue, 16 Sep 2025 14:16:17 GMT",
+      "content": "How investors should position for a lower interest rate environment hinges on what happens next with the economy, the firm said.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e8f1992678879593dcf6cf6a7d185bf0",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS TO SOAR AS INTEREST RATES FALL, SAYS CITI 🚀\n\n- Citi identifies stocks historically boosted by dropping interest rates 📈\n- Investors advised to strategize based on future economic trends 📊\n- Potential for significant gains in the identified stocks 💰\n\nTAKEAWAY: Citi's analysis points to a bright future for stocks as interest rates decline, offering lucrative opportunities for savvy investors to capitalize on this trend.",
+      "exported_at": "2025-09-16T10:23:12.471423",
+      "continuous_session": true
+    },
+    {
+      "title": "Versant strikes multiyear media deal with League One Volleyball",
+      "link": "https://www.cnbc.com/2025/09/16/versant-league-one-volleyball-multi-year-media-deal.html",
+      "summary": "Versant has struck a multiyear media rights deal with League One Volleyball, the second media rights agreement for the Comcast spinoff.",
+      "published": "Tue, 16 Sep 2025 14:00:01 GMT",
+      "content": "Versant has struck a multiyear media rights deal with League One Volleyball, the second media rights agreement for the Comcast spinoff.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "bccfa3645fc8972124c6be59c24efc3e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: VERSANT SECURES MULTIYEAR MEDIA DEAL WITH LEAGUE ONE VOLLEYBALL 🚀\n\n- Versant clinches multiyear media rights deal with League One Volleyball 🏐\n- Second media rights agreement for Comcast spinoff Versant 💥\n- Partnership set to enhance exposure for League One Volleyball 📺\n\nTAKEAWAY: Versant's latest multiyear media rights deal with League One Volleyball highlights a strategic move to boost exposure for the sports league.",
+      "exported_at": "2025-09-16T10:23:12.471438",
+      "continuous_session": true
+    },
+    {
+      "title": "Student loan borrowers may face &apos;enormous tax liability&apos; amid Trump administration delays: union",
+      "link": "https://www.cnbc.com/2025/09/16/student-loan-borrowers-tax-liability-trump.html",
+      "summary": "Student loan borrowers who are entitled to debt forgiveness but haven't been able to get it under Trump may face an \"enormous tax liability,\" a union warns.",
+      "published": "Tue, 16 Sep 2025 14:14:21 GMT",
+      "content": "Student loan borrowers who are entitled to debt forgiveness but haven't been able to get it under Trump may face an \"enormous tax liability,\" a union warns.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b860c7fb0767c101f52b5ee70029c14f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STUDENT LOAN BORROWERS FACE TAX LIABILITY AMID TRUMP DELAYS ⚠️\n\n- Trump delays debt forgiveness, leading to potential tax burden 💰\n- Union warns of looming \"enormous tax liability\" for borrowers 🚨\n- Students entitled to forgiveness caught in administrative delays ⏳\n\nTAKEAWAY: The Trump administration's delays in providing debt forgiveness to student loan borrowers may result in a significant tax burden, causing financial strain for many.",
+      "exported_at": "2025-09-16T10:23:12.471442",
       "continuous_session": true
     }
   ]
