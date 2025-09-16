@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T16:14:39.443829",
-    "total_articles": 1136,
-    "new_articles_in_last_fetch": 1136,
+    "created_at": "2025-09-16T16:19:48.067790",
+    "total_articles": 1137,
+    "new_articles_in_last_fetch": 1137,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -14764,6 +14764,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BRAZIL'S BOLSONARO HOSPITALIZED AFTER FEELING SICK 🚨\n\n- Former President Bolsonaro hospitalized in Brasilia 🏥\n- Son confirms hospital visit due to feeling unwell 🤒\n\nTAKEAWAY: Former Brazilian President Bolsonaro's hospitalization in Brasilia due to feeling sick raises concerns about his health.",
       "exported_at": "2025-09-16T16:14:39.358046",
+      "continuous_session": true
+    },
+    {
+      "title": "S&amp;P 500 eases a bit from record as traders await big Fed rate decision: Live updates",
+      "link": "https://www.cnbc.com/2025/09/15/stock-market-today-live-updates.html",
+      "summary": "The three major indexes came off a winning session.",
+      "published": "Tue, 16 Sep 2025 20:17:53 GMT",
+      "content": "The three major indexes came off a winning session.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b5977d012bcbab8ebe33a2a45073d34e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: S&P 500 SLIPS SLIGHTLY AWAY FROM RECORD HIGH AHEAD OF FED RATE DECISION 📉\n\n- S&P 500, Dow, Nasdaq dip after previous gains 📉\n- Traders cautious before significant Fed rate announcement 🔍\n- Market indexes retreat from recent highs 📈➡️📉\n\nTAKEAWAY: S&P 500 eases slightly from its record high as traders await the significant Fed rate decision, leading to caution in the market.",
+      "exported_at": "2025-09-16T16:19:47.993292",
       "continuous_session": true
     }
   ]
