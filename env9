@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T13:01:09.773823",
-    "total_articles": 1117,
-    "new_articles_in_last_fetch": 1117,
+    "created_at": "2025-09-16T13:11:22.595667",
+    "total_articles": 1118,
+    "new_articles_in_last_fetch": 1118,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -14517,6 +14517,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WARNER BROS. DISCOVERY TO LAUNCH HBO MAX IN 14 ASIA PACIFIC MARKETS 🚀\n\n- HBO Max streaming service expands to 14 Asia Pacific markets 🌏\n- Launch date set for October 15, announced by Warner Bros. Discovery 📅\n- Strategic move to reach more viewers in the region 🌐\n- Asia Pacific expansion part of Warner Bros. Discovery's growth plan 📈\n- Increasing accessibility for audiences to premium content 📺\n- Competition in the streaming industry intensifies in the region 🎥\n\nTAKEAWAY: Warner Bros. Discovery's HBO Max expansion into 14 Asia Pacific markets signals a strategic move to broaden its reach and compete in the growing streaming industry.",
       "exported_at": "2025-09-16T13:01:09.760630",
+      "continuous_session": true
+    },
+    {
+      "title": "Gold is always a winner when the Fed cuts rates with inflation this high",
+      "link": "https://www.cnbc.com/2025/09/16/gold-federal-reserve-fed-interest-rates.html",
+      "summary": "The precious metal has never declined when the central banks lowers the cost of money while inflation remained elevated.",
+      "published": "Tue, 16 Sep 2025 17:05:45 GMT",
+      "content": "The precious metal has never declined when the central banks lowers the cost of money while inflation remained elevated.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9462ae8fea7be0565a46b2a0e62688c9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GOLD SHINES BRIGHT AS FED CUTS RATES AMID HIGH INFLATION 🌟\n\n- Gold consistently rises with central bank rate cuts ✨\n- Historic data shows gold never declines in this scenario 📈\n- Inflation at peak levels enhances gold's appeal 🌟\n\nTAKEAWAY: When the Fed cuts rates amidst high inflation, gold emerges as a consistent winner, showcasing its resilience and attractiveness to investors.",
+      "exported_at": "2025-09-16T13:11:22.582313",
       "continuous_session": true
     }
   ]
