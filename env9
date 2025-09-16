@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T08:04:20.643494",
-    "total_articles": 1079,
-    "new_articles_in_last_fetch": 1079,
+    "created_at": "2025-09-16T08:09:32.886621",
+    "total_articles": 1081,
+    "new_articles_in_last_fetch": 1081,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -14024,6 +14024,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: LUCKIN COFFEE TAKES ON STARBUCKS IN THE U.S. 🚀\n\n- Luckin Coffee surpasses Starbucks in China 🇨🇳\n- 5 Luckin Coffee stores now open in the United States 🇺🇸\n- Luckin Coffee expanding globally to compete with Starbucks ☕️\n- Starbucks faces new competition on its home turf 🌎\n- Luckin Coffee's aggressive expansion strategy on display 🚀\n\nTAKEAWAY: Luckin Coffee's bold move to challenge Starbucks in the U.S. showcases their rapid global expansion and competition in the coffee market.",
       "exported_at": "2025-09-16T08:04:20.629764",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump&apos;s Fed pressure campaign will lead to higher inflation, weaker growth, according to CNBC survey",
+      "link": "https://www.cnbc.com/2025/09/16/trumps-fed-pressure-campaign-will-lead-to-higher-inflation-weaker-growth-according-to-cnbc-survey.html",
+      "summary": "The survey found that 41% of respondents surveyed believe that the president's actions are directly aimed at eliminating the Fed's independence, with 41% saying they are designed to limit them.",
+      "published": "Tue, 16 Sep 2025 12:08:03 GMT",
+      "content": "The survey found that 41% of respondents surveyed believe that the president's actions are directly aimed at eliminating the Fed's independence, with 41% saying they are designed to limit them.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d251125de803028875fd03c09ed672fa",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP'S FED PRESSURE THREATENS INFLATION & GROWTH 🚨\n\n- 41% believe Trump aims to eliminate Fed independence\n- Another 41% see the actions as limiting the Fed's power\n\nTAKEAWAY: Survey reveals concerns that Trump's pressure on the Fed could lead to higher inflation and weaker growth, sparking worries about independence.",
+      "exported_at": "2025-09-16T08:09:32.873377",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: Oracle, Dave &amp; Buster&apos;s, Novo Nordisk, Adtran and more",
+      "link": "https://www.cnbc.com/2025/09/16/stocks-making-the-biggest-moves-premarket-orcl-play-adtn-.html",
+      "summary": "These are the stocks posting the largest moves in early trading.",
+      "published": "Tue, 16 Sep 2025 12:07:54 GMT",
+      "content": "These are the stocks posting the largest moves in early trading.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "67a22f7fb81b092b8064438611ee264f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS MAKING BIGGEST PREMARKET MOVES 🚀\n\n- Oracle, Dave & Buster's, Novo Nordisk, Adtran show significant movements\n- Early trading sees these stocks making large shifts\n- Market buzz surrounds Oracle, Dave & Buster's, Novo Nordisk, Adtran\n\nTAKEAWAY: Stay tuned as Oracle, Dave & Buster's, Novo Nordisk, and Adtran dominate early trading with significant moves, sparking market interest.",
+      "exported_at": "2025-09-16T08:09:32.873388",
       "continuous_session": true
     }
   ]
