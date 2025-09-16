@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T16:24:58.976905",
-    "total_articles": 1139,
-    "new_articles_in_last_fetch": 1139,
+    "created_at": "2025-09-16T16:30:07.169314",
+    "total_articles": 1140,
+    "new_articles_in_last_fetch": 1140,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -14803,6 +14803,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BILL NYGREN'S VALUE STRATEGY UNCOVERS HIDDEN GEMS 💎\n\n- Nygren focuses on undervalued stocks beyond the tech giants 📉\n- Emphasizes strong companies with low P/E ratios 📉\n- Diversifies investments outside the popular Mag 7 tech stocks 🔄\n\nTAKEAWAY: Bill Nygren's value investing strategy targets undervalued gems beyond the tech sector, prioritizing strong companies with low P/E ratios for potential growth.",
       "exported_at": "2025-09-16T16:24:58.896901",
+      "continuous_session": true
+    },
+    {
+      "title": "S&amp;P 500 eases a bit from record as traders await big Fed rate decision: Live updates",
+      "link": "https://www.cnbc.com/2025/09/15/stock-market-today-live-updates.html",
+      "summary": "The three major indexes were coming off a winning session Monday that sent the S&amp;P 500 and Nasdaq to records.",
+      "published": "Tue, 16 Sep 2025 20:27:00 GMT",
+      "content": "The three major indexes were coming off a winning session Monday that sent the S&amp;P 500 and Nasdaq to records.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0f64c223991fe7ee0143b9489d784b76",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: S&P 500 SLIGHTLY DIPS AWAITING FED RATE DECISION 📉\n\n- S&P 500 and Nasdaq hit record highs after Monday's gains 📈\n- Traders cautious ahead of the big Fed rate decision 🧐\n- Market eases slightly after previous winning session 💼\n\nTAKEAWAY: S&P 500 and Nasdaq reach new highs but dip slightly as traders brace for the significant Fed rate decision, exercising caution in the market.",
+      "exported_at": "2025-09-16T16:30:07.093050",
       "continuous_session": true
     }
   ]
