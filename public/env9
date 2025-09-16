@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T16:55:33.937033",
-    "total_articles": 1143,
-    "new_articles_in_last_fetch": 1143,
+    "created_at": "2025-09-16T17:15:54.318962",
+    "total_articles": 1144,
+    "new_articles_in_last_fetch": 1144,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -14855,6 +14855,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP GIVES BYTE DANCE MORE TIME FOR TIKTOK DEAL 🚀\n\n- Trump extends deadline for ByteDance to divest TikTok's U.S. business ⏰\n- Potential ban on TikTok in America delayed for now 🚫\n- Oracle and other investors actively working on a deal 💼\n- Uncertainty surrounds the outcome of the negotiations 🤔\n- ByteDance under pressure to find a resolution 📉\n- Trump's decision impacts the future of TikTok in the U.S. 🇺🇸\n\nTAKEAWAY: Trump's extension of the TikTok deal deadline creates uncertainty for ByteDance and Oracle as they work towards a resolution, impacting the future of the popular app in the U.S. 📈",
       "exported_at": "2025-09-16T16:55:33.857103",
+      "continuous_session": true
+    },
+    {
+      "title": "NHL embracing return to Olympics after 12-year absence",
+      "link": "https://www.cnbc.com/2025/09/16/nhl-commissioner-gary-bettman-embracing-return-to-olympics.html",
+      "summary": "NHL players will return to the 2026 Olympic Games in Milan after a 12-year absence, something Commissioner Gary Bettman said will be a boon to the league.",
+      "published": "Tue, 16 Sep 2025 21:11:51 GMT",
+      "content": "NHL players will return to the 2026 Olympic Games in Milan after a 12-year absence, something Commissioner Gary Bettman said will be a boon to the league.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2a49c04e7aa39bab506634e185e11a9a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NHL EMBRACING OLYMPIC RETURN AFTER 12 YEARS 🏒\n\n- NHL players to join 2026 Olympics in Milan 🏅\n- Commissioner Gary Bettman hails the decision as a boon to the league 🌟\n- Excitement builds for the return after a long absence 🎉\n\nTAKEAWAY: NHL's return to the Olympics in 2026 in Milan marks a significant moment for the league and fans, bringing excitement and opportunities for players.",
+      "exported_at": "2025-09-16T17:15:54.246095",
       "continuous_session": true
     }
   ]
