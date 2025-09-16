@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T12:30:42.296249",
-    "total_articles": 1115,
-    "new_articles_in_last_fetch": 1115,
+    "created_at": "2025-09-16T12:50:56.844103",
+    "total_articles": 1116,
+    "new_articles_in_last_fetch": 1116,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -14491,6 +14491,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NEW WALL STREET RESEARCH UNPACKS 3 STOCKS' APPEAL 🚀\n\n- Investing Club's daily \"Morning Meeting\" dissects 3 stock picks 📈\n- Research highlights reasons behind owning each stock 🔍\n- Wall Street analysis provides insights for investors 🧠\n\nTAKEAWAY: Dive into the latest Wall Street research on 3 stocks to understand why they're worth owning, as Investing Club's Morning Meeting unveils valuable insights for investors.",
       "exported_at": "2025-09-16T12:30:42.282385",
+      "continuous_session": true
+    },
+    {
+      "title": "Webtoon shares jump more than 35% on deal to create digital comics platform for Disney&apos;s Marvel and Star Wars",
+      "link": "https://www.cnbc.com/2025/09/16/webtoon-shares-jump-more-than-25percent-on-digital-comics-disney-deal-.html",
+      "summary": "Disney and Webtoon on Monday announced plans for a new digital platform that will house brands such as Marvel and Star Wars.",
+      "published": "Tue, 16 Sep 2025 16:49:08 GMT",
+      "content": "Disney and Webtoon on Monday announced plans for a new digital platform that will house brands such as Marvel and Star Wars.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "43efcaa75f3e765bf7cd296337847dd5",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WEBTOON SHARES SOAR 25% ON DISNEY DEAL TO LAUNCH MARVEL & STAR WARS COMICS 🚀\n\n- Webtoon's shares surge over 25% post Disney partnership announcement 📈\n- Collaboration to create a digital comics platform for Marvel and Star Wars 🦸‍♂️\n- New platform to feature popular brands like Marvel and Star Wars 🌟\n- Disney and Webtoon reveal plans for a groundbreaking digital space 🚀\n- Excitement over potential growth and reach of the new platform 🌍\n\nTAKEAWAY: Webtoon's stock skyrockets as they join forces with Disney to bring iconic Marvel and Star Wars comics to a brand-new digital platform, sparking excitement and potential growth opportunities.",
+      "exported_at": "2025-09-16T12:50:56.830415",
       "continuous_session": true
     }
   ]
