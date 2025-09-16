@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T09:47:28.074284",
-    "total_articles": 1097,
-    "new_articles_in_last_fetch": 1097,
+    "created_at": "2025-09-16T10:07:46.403219",
+    "total_articles": 1098,
+    "new_articles_in_last_fetch": 1098,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -14257,6 +14257,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP'S MOVE TO SCRAP QUARTERLY REPORTS: A GAME-CHANGER FOR INVESTORS? 🚀\n\n- Trump proposes eliminating quarterly reports for CEOs' long-term vision 🌟\n- Change aims to boost strategic decision-making and reduce short-term pressures ✅\n- Investors anticipate positive impact on companies' growth and stability 📈\n- Potential downside: less transparency could raise concerns for some shareholders ⚠️\n\nTAKEAWAY: Trump's proposal to eliminate quarterly reports seeks to enhance CEOs' strategic planning and long-term focus, potentially benefiting investors with improved company performance.",
       "exported_at": "2025-09-16T09:47:28.059669",
+      "continuous_session": true
+    },
+    {
+      "title": "Bessent quips about his reported threat to punch Pulte in the face: Treasury secretaries &apos;have a history of dueling&apos;",
+      "link": "https://www.cnbc.com/2025/09/16/bessent-quips-to-cnbc-about-his-reported-heated-clashes-treasury-secretaries-have-a-history-of-dueling.html",
+      "summary": "Bessent's remarks come after recent stories detailed a series of fiery confrontations between him and other Trump allies.",
+      "published": "Tue, 16 Sep 2025 13:25:02 GMT",
+      "content": "Bessent's remarks come after recent stories detailed a series of fiery confrontations between him and other Trump allies.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "60e374c46a7e8bc082aa27dbdf210495",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BESSANT'S FIERY REMARKS ON TREASURY SECRETARIES' HISTORY OF DUELING 🔥\n\n- Bessent comments on reported threat to punch Pulte in the face\n- Recent stories reveal fiery confrontations between Bessent and Trump allies\n\nTAKEAWAY: Bessent's remarks shed light on a history of dueling among Treasury secretaries, sparking intrigue and speculation.",
+      "exported_at": "2025-09-16T10:07:46.389384",
       "continuous_session": true
     }
   ]
