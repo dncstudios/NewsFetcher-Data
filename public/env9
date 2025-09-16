@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T12:15:27.789581",
-    "total_articles": 1114,
-    "new_articles_in_last_fetch": 1114,
+    "created_at": "2025-09-16T12:30:42.296249",
+    "total_articles": 1115,
+    "new_articles_in_last_fetch": 1115,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -14478,6 +14478,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: INVESTORS BULLISH AHEAD OF FED DECISION 🚀\n\n- Investor sentiment spikes to 5.4 from 4.5 📈\n- Highest level since February 🌟\n- Fund manager survey by Bank of America reveals optimism 📊\n\nTAKEAWAY: Investors are entering the Fed decision with high bullish sentiment, hitting the highest levels since February, as per Bank of America's survey.",
       "exported_at": "2025-09-16T12:15:27.775223",
+      "continuous_session": true
+    },
+    {
+      "title": "New Wall Street research on 3 stocks leans into the reasons we own each of them",
+      "link": "https://www.cnbc.com/2025/09/16/new-wall-street-research-on-3-of-our-stocks-leans-into-the-reasons-we-own-each-of-them.html",
+      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "published": "Tue, 16 Sep 2025 16:24:39 GMT",
+      "content": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "eb9df2c0da65d2337a6907f613586eb1",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NEW WALL STREET RESEARCH UNPACKS 3 STOCKS' APPEAL 🚀\n\n- Investing Club's daily \"Morning Meeting\" dissects 3 stock picks 📈\n- Research highlights reasons behind owning each stock 🔍\n- Wall Street analysis provides insights for investors 🧠\n\nTAKEAWAY: Dive into the latest Wall Street research on 3 stocks to understand why they're worth owning, as Investing Club's Morning Meeting unveils valuable insights for investors.",
+      "exported_at": "2025-09-16T12:30:42.282385",
       "continuous_session": true
     }
   ]
