@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T19:17:42.289269",
-    "total_articles": 1148,
-    "new_articles_in_last_fetch": 1148,
+    "created_at": "2025-09-16T19:27:54.808216",
+    "total_articles": 1149,
+    "new_articles_in_last_fetch": 1149,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -14920,6 +14920,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JOSH HARRIS PREDICTS LIMITED SPORTS ASSETS IPOs AS VALUES SOAR 🚀\n\n- Sports assets valued higher privately than through IPOs 📈\n- Josh Harris highlights scarcity in sports assets going public 🚫\n- Insight shared at CNBC Sport and Boardroom's Game Plan conference 🎤\n\nTAKEAWAY: Josh Harris forecasts a scarcity of sports assets going public due to their higher private valuations, signaling limited opportunities for IPOs in the sports sector.",
       "exported_at": "2025-09-16T19:17:42.233946",
+      "continuous_session": true
+    },
+    {
+      "title": "Here&apos;s why Jim Cramer thinks JPMorgan could be the next non-tech stock to reach a $1 trillion valuation",
+      "link": "https://www.cnbc.com/2025/09/16/jim-cramer-jpmorgan-could-reach-1-trillion-valuation.html",
+      "summary": "CNBC's Jim Cramer on Tuesday told investors why he thinks JPMorgan might be the next non-tech stock to hit $1 trillion in market cap.",
+      "published": "Tue, 16 Sep 2025 23:18:25 GMT",
+      "content": "CNBC's Jim Cramer on Tuesday told investors why he thinks JPMorgan might be the next non-tech stock to hit $1 trillion in market cap.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2df8f1a22978e72771966f23a7f0f54c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JIM CRAMER'S BULLISH PREDICTION: JPMORGAN EYES $1 TRILLION VALUATION 🚀\n\n- CNBC's Cramer predicts JPMorgan as next non-tech $1T stock 📈\n- Market cap surge expected on JPMorgan's horizon 📈\n- Cramer's insight boosts investor confidence in JPMorgan 💪\n\nTAKEAWAY: Jim Cramer's optimistic outlook positions JPMorgan as a potential non-tech frontrunner in reaching a $1 trillion market cap, fueling investor optimism.",
+      "exported_at": "2025-09-16T19:27:54.736387",
       "continuous_session": true
     }
   ]
