@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T08:51:05.784778",
-    "total_articles": 1089,
-    "new_articles_in_last_fetch": 1089,
+    "created_at": "2025-09-16T08:56:18.568137",
+    "total_articles": 1090,
+    "new_articles_in_last_fetch": 1090,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -14153,6 +14153,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: 10 THINGS TO WATCH IN THE STOCK MARKET TUESDAY 🚀\n\n- August retail sales exceed expectations 📈\n- Oracle surges amid reports of TikTok deal participation 🌐\n\nTAKEAWAY: Stronger-than-expected retail sales in August and Oracle's involvement in a potential TikTok deal are key highlights to watch in the stock market on Tuesday.",
       "exported_at": "2025-09-16T08:51:05.770893",
+      "continuous_session": true
+    },
+    {
+      "title": "The ultimate guide to starting your own business: Everything you need to know to be your own boss",
+      "link": "https://www.cnbc.com/2025/09/16/how-to-start-business-everything-you-need-to-know-online-course.html",
+      "summary": "Smarter by CNBC Make It's latest online course will teach you how to build a business that can grow, without burning out along the way.",
+      "published": "Tue, 16 Sep 2025 12:45:02 GMT",
+      "content": "Smarter by CNBC Make It's latest online course will teach you how to build a business that can grow, without burning out along the way.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fea8e09f2ea627f4447ccd35e3311f36",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: THE ULTIMATE GUIDE TO STARTING YOUR OWN BUSINESS: EVERYTHING YOU NEED TO KNOW 🚀\n\n- Join Smarter by CNBC Make It for expert insights 💡\n- Learn to build a sustainable, growth-focused business 📈\n- Avoid burnout with essential tips and strategies 🛡️\n- Master the art of entrepreneurship and be your own boss 👩‍💼\n- Gain knowledge to navigate the challenges of starting a business 🚧\n- Unlock the secrets to success in the world of entrepreneurship 🗝️\n\nTAKEAWAY: Dive into Smarter by CNBC Make It's online course to master the essentials of starting and growing a successful business without burning out.",
+      "exported_at": "2025-09-16T08:56:18.554687",
       "continuous_session": true
     }
   ]
