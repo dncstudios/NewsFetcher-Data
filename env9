@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T19:02:25.658604",
-    "total_articles": 1147,
-    "new_articles_in_last_fetch": 1147,
+    "created_at": "2025-09-16T19:17:42.289269",
+    "total_articles": 1148,
+    "new_articles_in_last_fetch": 1148,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -14907,6 +14907,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STUBHUB IPO PRICED AT $23.50, VALUED AT $8.6 BILLION 🚀\n\n- StubHub set to enter public market after two IPO delays 📈\n- IPO pricing at $23.50 values company at $8.6 billion 💰\n- Delays attributed to market volatility post Trump's tariffs 📉\n\nTAKEAWAY: StubHub's long-awaited IPO finally priced at $23.50, valuing the company at $8.6 billion amid market volatility post Trump's tariffs.",
       "exported_at": "2025-09-16T19:02:25.572690",
+      "continuous_session": true
+    },
+    {
+      "title": "Josh Harris says you likely won&apos;t see more sports assets going public as values soar",
+      "link": "https://www.cnbc.com/2025/09/16/josh-harris-sports-assets-go-public.html",
+      "summary": "\"When you think about IPOs and sports assets being public so far, they've been valued more highly as private assets,\" Harris said at CNBC Sport and Boardroom's Game Plan conference.",
+      "published": "Tue, 16 Sep 2025 21:49:17 GMT",
+      "content": "\"When you think about IPOs and sports assets being public so far, they've been valued more highly as private assets,\" Harris said at CNBC Sport and Boardroom's Game Plan conference.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e66c58c49a051ae6cdbe6d4a285b085d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JOSH HARRIS PREDICTS LIMITED SPORTS ASSETS IPOs AS VALUES SOAR 🚀\n\n- Sports assets valued higher privately than through IPOs 📈\n- Josh Harris highlights scarcity in sports assets going public 🚫\n- Insight shared at CNBC Sport and Boardroom's Game Plan conference 🎤\n\nTAKEAWAY: Josh Harris forecasts a scarcity of sports assets going public due to their higher private valuations, signaling limited opportunities for IPOs in the sports sector.",
+      "exported_at": "2025-09-16T19:17:42.233946",
       "continuous_session": true
     }
   ]
