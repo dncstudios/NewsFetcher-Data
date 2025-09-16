@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T15:59:11.387296",
-    "total_articles": 1131,
-    "new_articles_in_last_fetch": 1131,
+    "created_at": "2025-09-16T16:04:20.243715",
+    "total_articles": 1133,
+    "new_articles_in_last_fetch": 1133,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -14699,6 +14699,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TYLER ROBINSON CHARGED WITH MURDER OF CHARLIE KIRK, FACES DEATH PENALTY ⚠️\n\n- Tyler Robinson charged with murder of Charlie Kirk 🔫\n- Roommate reported Robinson's note about targeting Kirk 📝\n- Utah County attorney confirms Robinson's intentions 💬\n\nTAKEAWAY: Tyler Robinson faces the death penalty for the murder of Charlie Kirk after leaving a note expressing his intention to harm him, as confirmed by the Utah County attorney.",
       "exported_at": "2025-09-16T15:59:11.306563",
+      "continuous_session": true
+    },
+    {
+      "title": "S&amp;P 500 eases a bit from record as traders await big Fed rate decision: Live updates",
+      "link": "https://www.cnbc.com/2025/09/15/stock-market-today-live-updates.html",
+      "summary": "The three major indexes are coming off a winning session.",
+      "published": "Tue, 16 Sep 2025 20:03:10 GMT",
+      "content": "The three major indexes are coming off a winning session.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1e85fe84eee591b31581e392e0fde3aa",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: S&P 500 FUTURES STABLE AFTER RECORD CLOSE ABOVE 6,600 📈\n\n- S&P 500 futures show minor movement post-record close\n- Market indexes conclude positive session\n- Investors eye market stability\n\nTAKEAWAY: S&P 500 futures remain steady after setting a new record above 6,600, signaling market optimism and stability.",
+      "exported_at": "2025-09-16T16:04:20.169801",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump extends TikTok deadline as Oracle, other investors work on deal",
+      "link": "https://www.cnbc.com/2025/09/16/trump-extends-tiktok-deadline-framework-deal-china.html",
+      "summary": "President Donald Trump extended a deadline on Tuesday that would require China's ByteDance to divest TikTok's U.S. business or face an effective ban in America.",
+      "published": "Tue, 16 Sep 2025 19:58:43 GMT",
+      "content": "President Donald Trump extended a deadline on Tuesday that would require China's ByteDance to divest TikTok's U.S. business or face an effective ban in America.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e7a27bd6592b9f2a325874091481aa34",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP GIVES BYTE DANCE MORE TIME FOR TIKTOK DEAL 🚀\n\n- Trump extends deadline for ByteDance to divest TikTok's U.S. business ⏰\n- Potential ban on TikTok in America delayed for now 🚫\n- Oracle and other investors actively working on a deal 💼\n- Uncertainty surrounds the outcome of the negotiations 🤔\n- ByteDance under pressure to find a resolution 📉\n- Trump's decision impacts the future of TikTok in the U.S. 🇺🇸\n\nTAKEAWAY: Trump's extension of the TikTok deal deadline creates uncertainty for ByteDance and Oracle as they work towards a resolution, impacting the future of the popular app in the U.S. 📈",
+      "exported_at": "2025-09-16T16:04:20.169855",
       "continuous_session": true
     }
   ]
