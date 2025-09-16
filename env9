@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T08:25:36.438286",
-    "total_articles": 1086,
-    "new_articles_in_last_fetch": 1086,
+    "created_at": "2025-09-16T08:45:57.318878",
+    "total_articles": 1088,
+    "new_articles_in_last_fetch": 1088,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -14114,6 +14114,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BESSANT PREDICTS TRADE DEAL WITH CHINA BEFORE TARIFF DEADLINE 🚀\n\n- Treasury Sec. Bessent optimistic on trade deal with China 🤝\n- Interviewed on CNBC's \"Squawk Box\" program 📺\n- Deadline for reciprocal tariffs with China set for November ⏰\n\nTAKEAWAY: Bessent's positive outlook hints at a potential trade deal with China before the looming November deadline, sparking optimism in the market.",
       "exported_at": "2025-09-16T08:25:36.424960",
+      "continuous_session": true
+    },
+    {
+      "title": "‘Gaza is burning’: Israel launches ground invasion of strip&apos;s largest city",
+      "link": "https://www.cnbc.com/2025/09/16/gaza-is-burning-israel-launches-ground-invasion-of-gaza-city.html",
+      "summary": "Increasingly isolated on the international stage over its Gaza campaign, Israel has now launched a ground incursion in the strip's largest city.",
+      "published": "Tue, 16 Sep 2025 12:24:06 GMT",
+      "content": "Increasingly isolated on the international stage over its Gaza campaign, Israel has now launched a ground incursion in the strip's largest city.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7dd1a64dc6cf624b498ba4819ff35484",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 'GAZA IS BURNING': ISRAEL LAUNCHES GROUND INVASION 🚨\n\n- Israel faces international isolation over Gaza campaign 🌍\n- Ground incursion initiated in Gaza's largest city 🔥\n- Tensions escalate with Israel's latest move ⚠️\n\nTAKEAWAY: Israel's ground invasion in Gaza's largest city amid international isolation intensifies tensions in the region.",
+      "exported_at": "2025-09-16T08:45:57.304919",
+      "continuous_session": true
+    },
+    {
+      "title": "Robert Redford, magnetic Hollywood icon and Sundance founder, dies at 89",
+      "link": "https://www.cnbc.com/2025/09/16/robert-redford-hollywood-icon-and-sundance-founder-dies-at-89.html",
+      "summary": "Redford was best known as a go-to leading man of the late 1960s and 1970s, instantly recognizable for his windswept hair and widely beloved for his easy charisma.",
+      "published": "Tue, 16 Sep 2025 12:36:44 GMT",
+      "content": "Redford was best known as a go-to leading man of the late 1960s and 1970s, instantly recognizable for his windswept hair and widely beloved for his easy charisma.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "72d9a38c8698b771050b69c69efb2fa2",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 🌟 HOLLYWOOD ICON ROBERT REDFORD PASSES AWAY AT 89 🕊️\n\n- Robert Redford, leading man of late 60s & 70s, dies at 89 💔\n- Known for windswept hair, easy charisma, and iconic roles 🌟\n- Redford founded Sundance Film Festival, leaving a lasting legacy 🎥\n\nTAKEAWAY: The passing of Hollywood legend Robert Redford at 89 marks the end of an era, leaving behind a legacy of iconic performances and his beloved Sundance Film Festival.",
+      "exported_at": "2025-09-16T08:45:57.304934",
       "continuous_session": true
     }
   ]
