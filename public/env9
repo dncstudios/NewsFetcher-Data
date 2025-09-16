@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T06:53:12.865274",
-    "total_articles": 1075,
-    "new_articles_in_last_fetch": 1075,
+    "created_at": "2025-09-16T07:08:29.101861",
+    "total_articles": 1076,
+    "new_articles_in_last_fetch": 1076,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -13972,6 +13972,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: HERSHEY RECEIVES DOUBLE UPGRADE FROM GOLDMAN SACHS 🚀\n\n- Goldman Sachs upgrades Hershey from sell to buy 📈\n- Market share trends for Hershey show improvement 📊\n- Positive outlook on chocolate and cocoa products company ✅\n\nTAKEAWAY: Hershey's double upgrade by Goldman Sachs reflects improving market share trends, signaling a positive outlook for the company.",
       "exported_at": "2025-09-16T06:53:12.851503",
+      "continuous_session": true
+    },
+    {
+      "title": "Meta Connect 2025: AI-powered smart glasses take center stage",
+      "link": "https://www.cnbc.com/2025/09/16/meta-connect-hypernova-ai.html",
+      "summary": "Analysts and investors will be watching how the public responds to Meta's big bet on smart glasses during its Connect event.",
+      "published": "Tue, 16 Sep 2025 11:00:01 GMT",
+      "content": "Analysts and investors will be watching how the public responds to Meta's big bet on smart glasses during its Connect event.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "972a99b637303f2fee1fa15fd2621bc4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: META'S AI-POWERED SMART GLASSES SHINE AT CONNECT 2025 🚀\n\n- Meta's big bet on smart glasses takes center stage 🕶️\n- Analysts and investors eagerly await public response 👀\n- Connect event crucial for showcasing AI technology 🌟\n- Market focus on Meta's innovative approach to smart wearables 💡\n- Potential impact on Meta's future growth and revenue streams 📈\n- Public reception key for determining success of smart glasses 🎯\n\nTAKEAWAY: Meta's AI-powered smart glasses steal the show at Connect 2025, with market watchers closely monitoring public feedback to gauge future success and revenue potential.",
+      "exported_at": "2025-09-16T07:08:29.087961",
       "continuous_session": true
     }
   ]
