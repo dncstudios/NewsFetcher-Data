@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T16:04:20.243715",
-    "total_articles": 1133,
-    "new_articles_in_last_fetch": 1133,
+    "created_at": "2025-09-16T16:09:29.115136",
+    "total_articles": 1134,
+    "new_articles_in_last_fetch": 1134,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -14725,6 +14725,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP GIVES BYTE DANCE MORE TIME FOR TIKTOK DEAL 🚀\n\n- Trump extends deadline for ByteDance to divest TikTok's U.S. business ⏰\n- Potential ban on TikTok in America delayed for now 🚫\n- Oracle and other investors actively working on a deal 💼\n- Uncertainty surrounds the outcome of the negotiations 🤔\n- ByteDance under pressure to find a resolution 📉\n- Trump's decision impacts the future of TikTok in the U.S. 🇺🇸\n\nTAKEAWAY: Trump's extension of the TikTok deal deadline creates uncertainty for ByteDance and Oracle as they work towards a resolution, impacting the future of the popular app in the U.S. 📈",
       "exported_at": "2025-09-16T16:04:20.169855",
+      "continuous_session": true
+    },
+    {
+      "title": "RCI Hospitality strip club execs bribed tax auditor with comped dances: NY AG",
+      "link": "https://www.cnbc.com/2025/09/16/rci-strip-club-new-york-tax-fraud.html",
+      "summary": "RCI shares dropped nearly 17% after indictments related to an alleged multi-million-dollar bribery and tax fraud scheme were announced.",
+      "published": "Tue, 16 Sep 2025 20:08:49 GMT",
+      "content": "RCI shares dropped nearly 17% after indictments related to an alleged multi-million-dollar bribery and tax fraud scheme were announced.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "54d9823bb628db2a18fb051abc47be49",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: RCI HOSPITALITY INDICTED FOR BRIBERY SCANDAL 🚨\n\n- RCI Hospitality shares plummet 17% post bribery indictments\n- Executives allegedly bribed tax auditor with comped dances 💃\n- Scheme involves multi-million dollar bribery and tax fraud\n- Company faces serious legal and financial repercussions\n- Stock price hit hard by scandal and legal troubles\n- Investors wary of RCI's involvement in alleged bribery scheme\n\nTAKEAWAY: RCI Hospitality's shares nosedive as executives face serious legal trouble over alleged bribery scandal involving tax fraud, impacting investor confidence.",
+      "exported_at": "2025-09-16T16:09:29.038209",
       "continuous_session": true
     }
   ]
