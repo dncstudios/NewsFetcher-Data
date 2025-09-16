@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T08:14:42.685751",
-    "total_articles": 1082,
-    "new_articles_in_last_fetch": 1082,
+    "created_at": "2025-09-16T08:19:52.991184",
+    "total_articles": 1085,
+    "new_articles_in_last_fetch": 1085,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -14063,6 +14063,44 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WALKER & DUNLOP CEO STRESSES CLARITY ON FUTURE OF FANNIE AND FREDDIE 🚀\n\n- CEO criticizes lack of independence in Fannie and Freddie management\n- Calls for clarity on decision-makers for Fannie and Freddie's future\n- Emphasizes need for transparency in the board's management\n- Investors seek clear direction on Fannie and Freddie's fate 🎯\n- Uncertainty looms around decision-making process for the entities\n- CEO highlights importance of transparent and independent management ⚡️\n\nTAKEAWAY: Walker & Dunlop's CEO urges for transparency and clarity in determining the future of Fannie and Freddie, emphasizing the need for independent management decisions.",
       "exported_at": "2025-09-16T08:14:42.672557",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump&apos;s willingness to let TikTok go dark motivated China to make deal, Bessent says",
+      "link": "https://www.cnbc.com/2025/09/16/trump-tiktok-china-deal-bessent.html",
+      "summary": "President Donald Trump and Chinese President Xi Jinping are expected to speak Friday to finalize the TikTok deal.",
+      "published": "Tue, 16 Sep 2025 12:19:31 GMT",
+      "content": "President Donald Trump and Chinese President Xi Jinping are expected to speak Friday to finalize the TikTok deal.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8768d4443e8f9f563d1a45d9d230edaa",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP'S TIKTOK DEAL SPARKS US-CHINA TALKS 🚀\n\n- Trump's stance on TikTok pushes US-China dialogue 🤝\n- Xi Jinping and Trump set to seal TikTok deal 📈\n- Anticipation builds as leaders aim to finalize agreement 🔥\n\nTAKEAWAY: Trump's TikTok deal motivates US-China discussions, highlighting the impact of tech diplomacy on global relations.",
+      "exported_at": "2025-09-16T08:19:52.977891",
+      "continuous_session": true
+    },
+    {
+      "title": "Here are Tuesday&apos;s biggest analyst calls: Nvidia, Apple, Ferrari, Tesla, CoreWeave, Hershey&apos;s, Ferrari, Dell &amp; more",
+      "link": "https://www.cnbc.com/2025/09/16/stocks-from-analyst-calls-tuesday-like-nvidia.html",
+      "summary": "Here are Tuesday's biggest calls on Wall Street.",
+      "published": "Tue, 16 Sep 2025 12:16:33 GMT",
+      "content": "Here are Tuesday's biggest calls on Wall Street.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d062d95384f5c4830f7e8572a287f737",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "exported_at": "2025-09-16T08:19:52.977914",
+      "continuous_session": true
+    },
+    {
+      "title": "U.S. opens probe into 174,000 Tesla Model Y cars over door handle failures",
+      "link": "https://www.cnbc.com/2025/09/16/us-probes-174000-tesla-model-y-cars-over-door-handle-failures.html",
+      "summary": "The National Highway Traffic Safety Administration said it is investigating about 174,000 Tesla Model Y cars over reports of door handles becoming inoperative.",
+      "published": "Tue, 16 Sep 2025 12:14:28 GMT",
+      "content": "The National Highway Traffic Safety Administration said it is investigating about 174,000 Tesla Model Y cars over reports of door handles becoming inoperative.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ca6cb17147aa750d501d1ab9a0f4d665",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: U.S. OPENS PROBE INTO 174,000 TESLA MODEL Y CARS 🚨\n\n- NHTSA investigating 174,000 Tesla Model Y for door handle failures\n- Reports of inoperative door handles trigger safety concerns 🚪❌\n- Tesla under scrutiny for potential safety issues\n- NHTSA aims to address and resolve the reported problems\n- 174,000 Model Y cars facing inspection due to door handle issues\n- Investigation launched by NHTSA over door handle failures\n\nTAKEAWAY: NHTSA's investigation into 174,000 Tesla Model Y cars for door handle failures raises safety concerns and puts Tesla under scrutiny.",
+      "exported_at": "2025-09-16T08:19:52.977918",
       "continuous_session": true
     }
   ]
