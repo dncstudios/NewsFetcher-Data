@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T07:38:53.224327",
-    "total_articles": 1077,
-    "new_articles_in_last_fetch": 1077,
+    "created_at": "2025-09-16T07:44:02.028297",
+    "total_articles": 1078,
+    "new_articles_in_last_fetch": 1078,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -13998,6 +13998,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TD COWEN DOWNGRADES WARNER BROS. DISCOVERY ON TAKEOVER CONCERNS ⚠️\n\n- Warner Bros. Discovery's rally depends on Paramount Skydance bid 📉\n- TD Cowen doubts takeover, downgrades Warner Bros. Discovery 📉\n- Concerns arise over sustainability of recent share price surge ⚠️\n\nTAKEAWAY: TD Cowen downgrades Warner Bros. Discovery due to doubts about a potential takeover bid, impacting the stock's future prospects.",
       "exported_at": "2025-09-16T07:38:53.210124",
+      "continuous_session": true
+    },
+    {
+      "title": "Novo Nordisk flags drug trial promise amid hunt for next weight-loss blockbuster",
+      "link": "https://www.cnbc.com/2025/09/16/novo-nordisk-flags-cagrilintide-promise-in-hunt-for-next-obesity-drug.html",
+      "summary": "Phase 3 trial results showed the once-weekly Cagrilintide monotherapy injection helped patients reduce their weight by 11.8% on average after 68 weeks.",
+      "published": "Tue, 16 Sep 2025 11:26:45 GMT",
+      "content": "Phase 3 trial results showed the once-weekly Cagrilintide monotherapy injection helped patients reduce their weight by 11.8% on average after 68 weeks.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e35331fbf5ebffac8d8652a8badf21c5",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NOVO NORDISK'S CAGRILINTIDE DRUG TRIAL SHOWS PROMISE ⚡️\n\n- Phase 3 trial: Cagrilintide cuts patient weight by 11.8% in 68 weeks 🌟\n- Novo Nordisk seeks next weight-loss blockbuster 💪\n- Once-weekly monotherapy injection delivers impressive results 💉\n\nTAKEAWAY: Novo Nordisk's Cagrilintide drug trial success highlights promising potential in the hunt for the next weight-loss blockbuster.",
+      "exported_at": "2025-09-16T07:44:02.015133",
       "continuous_session": true
     }
   ]
