@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T04:41:27.610629",
-    "total_articles": 1072,
-    "new_articles_in_last_fetch": 1072,
+    "created_at": "2025-09-16T05:27:00.417995",
+    "total_articles": 1073,
+    "new_articles_in_last_fetch": 1073,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -13933,6 +13933,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: EUROPEAN MARKETS BRACE FOR OPEN AS U.S.-CHINA TALKS UNFOLD 🚀\n\n- Traders monitor Spain talks post Trump's positive U.S.-China trade update 🇨🇳🇺🇸\n- Global markets await outcome for potential impact on trading activities 📈\n- European markets prepare for a potentially subdued opening 🌍\n\nTAKEAWAY: European markets anticipate a lackluster start as they assess the ongoing U.S.-China trade talks, impacting global trading sentiments.",
       "exported_at": "2025-09-16T04:41:27.596104",
+      "continuous_session": true
+    },
+    {
+      "title": "Google to invest £5 billion in UK AI as Trump heads for state visit",
+      "link": "https://www.cnbc.com/2025/09/16/google-to-invest-5-billion-in-uk-ai-as-trump-heads-for-state-visit.html",
+      "summary": "British Finance Minister Rachel Reeves lauded Google’s investment as “a powerful vote of confidence in the UK economy.”",
+      "published": "Tue, 16 Sep 2025 08:59:51 GMT",
+      "content": "British Finance Minister Rachel Reeves lauded Google’s investment as “a powerful vote of confidence in the UK economy.”",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "65af44c59921bfe007b788460df9363b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GOOGLE TO POUR £5 BILLION INTO UK AI 🚀\n\n- Google's massive £5 billion investment boosts UK economy 📈\n- Finance Minister hails move as a strong vote of confidence 🌟\n- UK positioned as a thriving hub for AI innovation 💡\n\nTAKEAWAY: Google's £5 billion investment in UK AI not only bolsters the economy but also solidifies the country's status as a leading force in innovation.",
+      "exported_at": "2025-09-16T05:27:00.404434",
       "continuous_session": true
     }
   ]
