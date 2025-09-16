@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T14:42:45.768825",
-    "total_articles": 1125,
-    "new_articles_in_last_fetch": 1125,
+    "created_at": "2025-09-16T14:58:03.042942",
+    "total_articles": 1126,
+    "new_articles_in_last_fetch": 1126,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -14621,6 +14621,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CHARLIE KIRK SHOOTING SUSPECT FACES DEATH PENALTY ⚠️\n\n- Suspect charged with aggravated murder in Utah 🚨\n- Kirk's death sparks bipartisan calls to stop political violence ✊\n- President Trump criticizes \"radical left\" rhetoric post-killing 💬\n\nTAKEAWAY: The suspect in the Charlie Kirk shooting is facing the death penalty, highlighting the urgent need to address political violence and its consequences.",
       "exported_at": "2025-09-16T14:42:45.753301",
+      "continuous_session": true
+    },
+    {
+      "title": "Google&apos;s Gemini tops Apple&apos;s App Store, snagging lead spot from ChatGPT",
+      "link": "https://www.cnbc.com/2025/09/16/google-gemini-tops-apples-app-store-snagging-lead-spot-from-chatgpt.html",
+      "summary": "Google appears to be gaining traction in the consumer AI market, as its Gemini app has taken the top spot in Apple's App Store from ChatGPT.",
+      "published": "Tue, 16 Sep 2025 18:45:20 GMT",
+      "content": "Google appears to be gaining traction in the consumer AI market, as its Gemini app has taken the top spot in Apple's App Store from ChatGPT.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "25b944f2bf056c39dca4e8c2b8a60d95",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GOOGLE'S GEMINI OVERTAKES APPLE'S APP STORE, OUTSHINING CHATGPT 🚀\n\n- Gemini app surpasses ChatGPT in Apple's App Store 🥇\n- Google shows consumer AI dominance with top spot win 💪\n- Apple's App Store now led by Google's Gemini app 📱\n- ChatGPT loses lead position to Google's rising star 🌟\n- Google gains momentum in the competitive consumer AI market 📈\n\nTAKEAWAY: Google's Gemini app's rise to the top of Apple's App Store signals its dominance in the consumer AI market, surpassing ChatGPT and showcasing Google's growing momentum.",
+      "exported_at": "2025-09-16T14:58:02.973400",
       "continuous_session": true
     }
   ]
