@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-15T19:07:53.483302",
-    "total_articles": 1050,
-    "new_articles_in_last_fetch": 1050,
+    "created_at": "2025-09-15T20:23:57.297115",
+    "total_articles": 1052,
+    "new_articles_in_last_fetch": 1052,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -13647,6 +13647,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: THE MAGNIFICENT SEVEN'S GROWTH POTENTIAL ACCORDING TO JIM CRAMER 🚀\n\n- Jim Cramer optimistic about potential gains for the Magnificent Seven 💰\n- Believes their best days are not in the past, but ahead 🌟\n- Encourages investors to stay confident in these companies' growth 📈\n- Market expert Cramer's insights provide valuable guidance 🎯\n- Emphasizes the continued upward trajectory of the Magnificent Seven 📈\n\nTAKEAWAY: Jim Cramer's positive outlook on the Magnificent Seven's future growth potential suggests investors should remain optimistic about these companies.",
       "exported_at": "2025-09-15T19:07:53.470107",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump pick Stephen Miran confirmed to Federal Reserve Board; will also keep White House job",
+      "link": "https://www.cnbc.com/2025/09/15/trump-stephen-miran-federal-reserve-interest-rates.html",
+      "summary": "Miran's fast-tracked confirmation comes as Trump has also moved to fire Fed Governor Lisa Cook from the board of the central bank.",
+      "published": "Tue, 16 Sep 2025 00:18:58 GMT",
+      "content": "Miran's fast-tracked confirmation comes as Trump has also moved to fire Fed Governor Lisa Cook from the board of the central bank.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4f15cd85ba9937a49820f0b3033d8da5",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP'S PICK MIRAN CONFIRMED TO FEDERAL RESERVE BOARD 🚀\n\n- Stephen Miran fast-tracked to Federal Reserve Board by Trump 📈\n- Miran to maintain White House position while serving at the Fed ✅\n- Trump's decision to remove Fed Governor Lisa Cook from board ⚠️\n\nTAKEAWAY: Stephen Miran's swift confirmation to the Federal Reserve Board by Trump, alongside the removal of Fed Governor Lisa Cook, signals significant changes in the central bank's leadership.",
+      "exported_at": "2025-09-15T20:23:57.220411",
+      "continuous_session": true
+    },
+    {
+      "title": "S&amp;P 500 futures are little changed after benchmark closes above 6,600: Live updates",
+      "link": "https://www.cnbc.com/2025/09/15/stock-market-today-live-updates.html",
+      "summary": "The three major indexes are coming off a winning session.",
+      "published": "Mon, 15 Sep 2025 22:12:53 GMT",
+      "content": "The three major indexes are coming off a winning session.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "795fe30fef76d44eb196b0dd8018e2e7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: S&P 500 FUTURES STABLE AFTER RECORD CLOSE ABOVE 6,600 📈\n\n- S&P 500 futures show minor movement post-record close\n- Market indexes conclude positive session\n- Investors eye market stability\n\nTAKEAWAY: S&P 500 futures remain steady after setting a new record above 6,600, signaling market optimism and stability.",
+      "exported_at": "2025-09-15T20:23:57.220488",
       "continuous_session": true
     }
   ]
