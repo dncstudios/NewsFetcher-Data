@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T09:01:26.598522",
-    "total_articles": 1091,
-    "new_articles_in_last_fetch": 1091,
+    "created_at": "2025-09-16T09:11:40.874958",
+    "total_articles": 1093,
+    "new_articles_in_last_fetch": 1093,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -14179,6 +14179,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JPMORGAN OFFERS PRIVATE JET AND BUTLER SERVICES 🚀\n\n- JPMorgan expands services beyond investing and financial advice\n- Private banks aiming to cater to clients' unique needs 🎯\n- Wealth management firms exploring new ways to serve clients\n\nTAKEAWAY: JPMorgan's innovative move to offer private jet and butler services reflects a trend of financial institutions expanding to meet clients' diverse needs.",
       "exported_at": "2025-09-16T09:01:26.584132",
+      "continuous_session": true
+    },
+    {
+      "title": "United Airlines CEO confident in flight expansion &apos;because customers are choosing us&apos;",
+      "link": "https://www.cnbc.com/2025/09/16/united-airlines-ceo-scott-kirby.html",
+      "summary": "United Airlines CEO Scott Kirby said the airline's product investment is helping it stand out from competitors.",
+      "published": "Tue, 16 Sep 2025 12:57:54 GMT",
+      "content": "United Airlines CEO Scott Kirby said the airline's product investment is helping it stand out from competitors.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fc5df08bde5bbb5fcbd2e8b01057dd58",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: UNITED AIRLINES CEO CONFIDENT IN FLIGHT EXPANSION 🚀\n\n- CEO Kirby credits customer preference for flight expansion 🛫\n- United Airlines stands out due to product investments ✈️\n- Focus on customer choice drives United's growth 📈\n\nTAKEAWAY: United Airlines' CEO's confidence in flight expansion stems from customers choosing the airline, highlighting the impact of product investments on standing out in the competitive market.",
+      "exported_at": "2025-09-16T09:11:40.859781",
+      "continuous_session": true
+    },
+    {
+      "title": "Citizens upgrades this cloud computing stock on hyperscale outsourcing optimism",
+      "link": "https://www.cnbc.com/2025/09/16/citizens-upgrades-this-cloud-computing-stock-on-hyperscale-outsourcing-optimism.html",
+      "summary": "Shares of CoreWeave could see a sizable boost in the coming months as demand for hyperscalers ramps up, Citizens said on Tuesday.",
+      "published": "Tue, 16 Sep 2025 13:01:24 GMT",
+      "content": "Shares of CoreWeave could see a sizable boost in the coming months as demand for hyperscalers ramps up, Citizens said on Tuesday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ab5ba54d1069d2e71541c5b9b52d7b69",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CITIZENS UPGRADES COREWEAVE STOCK ON HYPERSCALE OUTSOURCING OPTIMISM 🚀\n\n- CoreWeave shares poised for significant growth 💥\n- Citizens predicts boost in demand for hyperscalers 📈\n- Positive outlook on CoreWeave's future performance 🌟\n\nTAKEAWAY: Citizens' upgrade of CoreWeave stock reflects optimism in hyperscale outsourcing, signaling potential growth ahead.",
+      "exported_at": "2025-09-16T09:11:40.859798",
       "continuous_session": true
     }
   ]
