@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-15T20:44:30.173944",
-    "total_articles": 1056,
-    "new_articles_in_last_fetch": 1056,
+    "created_at": "2025-09-15T20:54:40.036804",
+    "total_articles": 1057,
+    "new_articles_in_last_fetch": 1057,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -13725,6 +13725,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STEPHEN MILLER VOWS VENGEANCE FOR KIRK'S MURDER 🚨\n\n- Stephen Miller promises retribution for Kirk's death 💔\n- VP JD Vance urges action against those celebrating the activist's passing 📣\n- Calls for justice echo in response to the tragic incident 🗣\n\nTAKEAWAY: Stephen Miller's vow for vengeance and JD Vance's call to action highlight the push for justice in the wake of Kirk's murder.",
       "exported_at": "2025-09-15T20:44:30.087980",
+      "continuous_session": true
+    },
+    {
+      "title": "S&amp;P 500 futures are little changed after Senate confirms Trump&apos;s pick to Federal Reserve Board: Live updates",
+      "link": "https://www.cnbc.com/2025/09/15/stock-market-today-live-updates.html",
+      "summary": "The three major indexes are coming off a winning session.",
+      "published": "Tue, 16 Sep 2025 00:50:26 GMT",
+      "content": "The three major indexes are coming off a winning session.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "113abc83c519e593eecaaf0af4eb08e3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: S&P 500 FUTURES STABLE AFTER RECORD CLOSE ABOVE 6,600 📈\n\n- S&P 500 futures show minor movement post-record close\n- Market indexes conclude positive session\n- Investors eye market stability\n\nTAKEAWAY: S&P 500 futures remain steady after setting a new record above 6,600, signaling market optimism and stability.",
+      "exported_at": "2025-09-15T20:54:39.955437",
       "continuous_session": true
     }
   ]
