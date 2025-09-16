@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T10:59:12.684037",
-    "total_articles": 1107,
-    "new_articles_in_last_fetch": 1107,
+    "created_at": "2025-09-16T11:04:21.648649",
+    "total_articles": 1108,
+    "new_articles_in_last_fetch": 1108,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -14387,6 +14387,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: OPENAI LAUNCHES TEEN-FRIENDLY CHATGPT WITH PARENTAL CONTROLS 🚀\n\n- OpenAI introduces ChatGPT with parental controls for teen safety ✅\n- Company faces scrutiny over platform safety 🚨\n- Development of age prediction technology underway ⚡️\n\nTAKEAWAY: OpenAI responds to safety concerns by launching ChatGPT with parental controls for teens while working on age prediction technology.",
       "exported_at": "2025-09-16T10:59:12.670868",
+      "continuous_session": true
+    },
+    {
+      "title": "Eli Lilly to build $5 billion Virginia facility to boost production of targeted cancer drugs, other treatments",
+      "link": "https://www.cnbc.com/2025/09/16/eli-lilly-to-build-5-billion-virginia-manufacturing-facility.html",
+      "summary": "The Eli Lilly plant is the first of four planned U.S. manufacturing sites, which are expected to begin making medicines within five years.",
+      "published": "Tue, 16 Sep 2025 15:03:05 GMT",
+      "content": "The Eli Lilly plant is the first of four planned U.S. manufacturing sites, which are expected to begin making medicines within five years.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2b065155555b987d81355a6a54e0f40a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ELI LILLY INVESTS $5B IN VIRGINIA FACILITY FOR CANCER DRUGS 🚀\n\n- $5 billion investment in Virginia plant for cancer drugs 🏥\n- Part of four planned U.S. manufacturing sites 🏭\n- Expected to produce medicines within five years ⏳\n\nTAKEAWAY: Eli Lilly's massive investment in a Virginia facility signifies a strategic move to ramp up production of targeted cancer drugs and other treatments, boosting their manufacturing capabilities significantly.",
+      "exported_at": "2025-09-16T11:04:21.634937",
       "continuous_session": true
     }
   ]
