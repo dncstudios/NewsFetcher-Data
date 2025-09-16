@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T14:58:03.042942",
-    "total_articles": 1126,
-    "new_articles_in_last_fetch": 1126,
+    "created_at": "2025-09-16T15:13:20.087563",
+    "total_articles": 1127,
+    "new_articles_in_last_fetch": 1127,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -14634,6 +14634,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: GOOGLE'S GEMINI OVERTAKES APPLE'S APP STORE, OUTSHINING CHATGPT 🚀\n\n- Gemini app surpasses ChatGPT in Apple's App Store 🥇\n- Google shows consumer AI dominance with top spot win 💪\n- Apple's App Store now led by Google's Gemini app 📱\n- ChatGPT loses lead position to Google's rising star 🌟\n- Google gains momentum in the competitive consumer AI market 📈\n\nTAKEAWAY: Google's Gemini app's rise to the top of Apple's App Store signals its dominance in the consumer AI market, surpassing ChatGPT and showcasing Google's growing momentum.",
       "exported_at": "2025-09-16T14:58:02.973400",
+      "continuous_session": true
+    },
+    {
+      "title": "Crypto executives meet in Washington, D.C. to push for bitcoin reserve bill: CNBC Crypto World",
+      "link": "https://www.cnbc.com/video/2025/09/16/crypto-executives-meet-in-dc-to-push-bitcoin-reserve-bill-crypto-world.html",
+      "summary": "On today's episode of CNBC Crypto World, crypto executives, including Tom Lee, chairman of the board for BitMine Immersion Technologies, and Strategy co-founder Michael Saylor, gathered in Washington to push forward legislation looking to establish the U.S. strategic bitcoin reserve. And Mike Johnson, EY Americas digital assets solution lead, breaks down a new report focused on stablecoins.",
+      "published": "Tue, 16 Sep 2025 19:10:58 GMT",
+      "content": "On today's episode of CNBC Crypto World, crypto executives, including Tom Lee, chairman of the board for BitMine Immersion Technologies, and Strategy co-founder Michael Saylor, gathered in Washington to push forward legislation looking to establish the U.S. strategic bitcoin reserve. And Mike Johnson, EY Americas digital assets solution lead, breaks down a new report focused on stablecoins.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "14680c79de5a7af1bccc4d4941f7e256",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CRYPTO EXECUTIVES ADVOCATE FOR BITCOIN RESERVE BILL IN WASHINGTON, D.C. 🚀\n\n- Tom Lee & Michael Saylor lead push for U.S. strategic bitcoin reserve 🌐\n- Executives aim to establish legislation for crypto reserves 📈\n- EY's Mike Johnson analyzes stablecoins in new report 💼\n\nTAKEAWAY: Crypto leaders converge in Washington to advocate for a U.S. strategic bitcoin reserve, signaling a potential shift in the crypto landscape.",
+      "exported_at": "2025-09-16T15:13:20.014498",
       "continuous_session": true
     }
   ]
