@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T11:29:50.979908",
-    "total_articles": 1111,
-    "new_articles_in_last_fetch": 1111,
+    "created_at": "2025-09-16T12:15:27.789581",
+    "total_articles": 1114,
+    "new_articles_in_last_fetch": 1114,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -14439,6 +14439,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: LIMEWIRE ACQUIRES FYRE FESTIVAL: WHAT COULD GO WRONG? 🚨\n\n- LimeWire acquires Fyre Festival, aiming to revive the brand 🔥\n- Transitioning from filesharing to NFT platform 🔄\n- Plans to resurrect the festival's notorious brand and meme 🎉\n\nTAKEAWAY: LimeWire's acquisition of Fyre Festival sparks curiosity and skepticism as they aim to revive the infamous brand and meme.",
       "exported_at": "2025-09-16T11:29:50.966231",
+      "continuous_session": true
+    },
+    {
+      "title": "S&amp;P 500 slips from record as investors take some money off the table ahead of Fed decision: Live updates",
+      "link": "https://www.cnbc.com/2025/09/15/stock-market-today-live-updates.html",
+      "summary": "The three major indexes are coming off a winning session.",
+      "published": "Tue, 16 Sep 2025 15:42:45 GMT",
+      "content": "The three major indexes are coming off a winning session.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "004241574188d2be56b36c67bfcfb8f9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: S&P 500 FUTURES STABLE AFTER RECORD CLOSE ABOVE 6,600 📈\n\n- S&P 500 futures show minor movement post-record close\n- Market indexes conclude positive session\n- Investors eye market stability\n\nTAKEAWAY: S&P 500 futures remain steady after setting a new record above 6,600, signaling market optimism and stability.",
+      "exported_at": "2025-09-16T12:15:27.775207",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves midday: Webtoon Entertainment, Steel Dynamics, Hims &amp; Hers and more",
+      "link": "https://www.cnbc.com/2025/09/16/stocks-making-the-biggest-moves-midday-wbtn-stld-hims.html",
+      "summary": "These are the stocks posting the largest moves midday.",
+      "published": "Tue, 16 Sep 2025 15:57:20 GMT",
+      "content": "These are the stocks posting the largest moves midday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "675176118239829e09a51710cd1248a7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS MAKING BIGGEST MIDDAY MOVES 🚀\n\n- Webtoon Entertainment, Steel Dynamics, Hims & Hers surge 📈\n- Companies experience significant midday stock fluctuations 📊\n- Webtoon Entertainment, Steel Dynamics, Hims & Hers in focus 🔍\n\nTAKEAWAY: Webtoon Entertainment, Steel Dynamics, Hims & Hers witness major midday stock movements, catching investors' attention.",
+      "exported_at": "2025-09-16T12:15:27.775220",
+      "continuous_session": true
+    },
+    {
+      "title": "Investors head into the Fed decision at their most bullish since February",
+      "link": "https://www.cnbc.com/2025/09/16/investors-head-into-the-fed-decision-at-their-most-bullish-since-february.html",
+      "summary": "A fund manager survey released Tuesday from Bank of America showed investor sentiment has risen to 5.4 from 4.5, the highest going back to February.",
+      "published": "Tue, 16 Sep 2025 15:56:27 GMT",
+      "content": "A fund manager survey released Tuesday from Bank of America showed investor sentiment has risen to 5.4 from 4.5, the highest going back to February.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1f2242e954fa0fc3b89bb6157cc32fce",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: INVESTORS BULLISH AHEAD OF FED DECISION 🚀\n\n- Investor sentiment spikes to 5.4 from 4.5 📈\n- Highest level since February 🌟\n- Fund manager survey by Bank of America reveals optimism 📊\n\nTAKEAWAY: Investors are entering the Fed decision with high bullish sentiment, hitting the highest levels since February, as per Bank of America's survey.",
+      "exported_at": "2025-09-16T12:15:27.775223",
       "continuous_session": true
     }
   ]
