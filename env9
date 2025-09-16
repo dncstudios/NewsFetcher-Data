@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T11:04:21.648649",
-    "total_articles": 1108,
-    "new_articles_in_last_fetch": 1108,
+    "created_at": "2025-09-16T11:19:40.430155",
+    "total_articles": 1110,
+    "new_articles_in_last_fetch": 1110,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -14400,6 +14400,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ELI LILLY INVESTS $5B IN VIRGINIA FACILITY FOR CANCER DRUGS 🚀\n\n- $5 billion investment in Virginia plant for cancer drugs 🏥\n- Part of four planned U.S. manufacturing sites 🏭\n- Expected to produce medicines within five years ⏳\n\nTAKEAWAY: Eli Lilly's massive investment in a Virginia facility signifies a strategic move to ramp up production of targeted cancer drugs and other treatments, boosting their manufacturing capabilities significantly.",
       "exported_at": "2025-09-16T11:04:21.634937",
+      "continuous_session": true
+    },
+    {
+      "title": "Webtoon shares jump more than 25% on deal to create digital comics platform for Disney&apos;s Marvel and Star Wars",
+      "link": "https://www.cnbc.com/2025/09/16/webtoon-shares-jump-more-than-25percent-on-digital-comics-disney-deal-.html",
+      "summary": "Disney and Webtoon on Monday announced plans for a new digital platform that will house brands such as Marvel and Star Wars.",
+      "published": "Tue, 16 Sep 2025 15:08:02 GMT",
+      "content": "Disney and Webtoon on Monday announced plans for a new digital platform that will house brands such as Marvel and Star Wars.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3e3a8fd1fe5ef40c3c38932e04abc01d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WEBTOON SHARES SOAR 25% ON DISNEY DEAL TO LAUNCH MARVEL & STAR WARS COMICS 🚀\n\n- Webtoon's shares surge over 25% post Disney partnership announcement 📈\n- Collaboration to create a digital comics platform for Marvel and Star Wars 🦸‍♂️\n- New platform to feature popular brands like Marvel and Star Wars 🌟\n- Disney and Webtoon reveal plans for a groundbreaking digital space 🚀\n- Excitement over potential growth and reach of the new platform 🌍\n\nTAKEAWAY: Webtoon's stock skyrockets as they join forces with Disney to bring iconic Marvel and Star Wars comics to a brand-new digital platform, sparking excitement and potential growth opportunities.",
+      "exported_at": "2025-09-16T11:19:40.414899",
+      "continuous_session": true
+    },
+    {
+      "title": "This tech upstart is going after a piece of Nvidia&apos;s AI business, says Needham",
+      "link": "https://www.cnbc.com/2025/09/16/this-tech-upstart-is-going-after-a-piece-of-nvidias-ai-business-says-needham.html",
+      "summary": "Analyst Ryan Koontz, who has a buy rating on the network equipment name, increased his price target on Tuesday.",
+      "published": "Tue, 16 Sep 2025 15:06:42 GMT",
+      "content": "Analyst Ryan Koontz, who has a buy rating on the network equipment name, increased his price target on Tuesday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "68da183a3d8cb377d3f1378679a20c6e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TECH UPSTART CHALLENGES NVIDIA'S AI BUSINESS, SAYS NEEDHAM 🚀\n\n- Analyst Ryan Koontz upgrades network equipment, raises price target 📈\n- Tech upstart aims to carve a share of Nvidia's AI market 🤖\n- Needham bullish on network equipment company's growth potential 💪\n\nTAKEAWAY: Needham's positive outlook on the tech upstart challenging Nvidia's AI business signifies growth opportunities and market disruption potential.",
+      "exported_at": "2025-09-16T11:19:40.414909",
       "continuous_session": true
     }
   ]
