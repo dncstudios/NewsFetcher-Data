@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-15T20:39:23.973381",
-    "total_articles": 1055,
-    "new_articles_in_last_fetch": 1055,
+    "created_at": "2025-09-15T20:44:30.173944",
+    "total_articles": 1056,
+    "new_articles_in_last_fetch": 1056,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -13712,6 +13712,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STEPHEN MILLER VOWS VENGEANCE FOR KIRK'S MURDER 🚨\n\n- Stephen Miller promises retribution for Kirk's death 💔\n- VP JD Vance urges action against those celebrating the activist's passing 📣\n- Calls for justice echo in response to the tragic incident 🗣\n\nTAKEAWAY: Stephen Miller's vow for vengeance and JD Vance's call to action highlight the push for justice in the wake of Kirk's murder.",
       "exported_at": "2025-09-15T20:39:23.882981",
+      "continuous_session": true
+    },
+    {
+      "title": "As Vance guest-hosts Charlie Kirk&apos;s show, Stephen Miller vows vengeance for his killing",
+      "link": "https://www.cnbc.com/2025/09/15/we-will-do-it-in-charlies-name-stephen-miller-vows-vengeance-for-kirks-murder.html",
+      "summary": "Vice President JD Vance, hosting the podcast once helmed by Kirk, also encouraged people to make trouble for individuals who were \"celebrating\" the conservative activist's death.",
+      "published": "Tue, 16 Sep 2025 00:43:03 GMT",
+      "content": "Vice President JD Vance, hosting the podcast once helmed by Kirk, also encouraged people to make trouble for individuals who were \"celebrating\" the conservative activist's death.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e3565a697205c3e27f4d6d7348a427ee",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STEPHEN MILLER VOWS VENGEANCE FOR KIRK'S MURDER 🚨\n\n- Stephen Miller promises retribution for Kirk's death 💔\n- VP JD Vance urges action against those celebrating the activist's passing 📣\n- Calls for justice echo in response to the tragic incident 🗣\n\nTAKEAWAY: Stephen Miller's vow for vengeance and JD Vance's call to action highlight the push for justice in the wake of Kirk's murder.",
+      "exported_at": "2025-09-15T20:44:30.087980",
       "continuous_session": true
     }
   ]
