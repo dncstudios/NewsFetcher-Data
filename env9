@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T12:50:56.844103",
-    "total_articles": 1116,
-    "new_articles_in_last_fetch": 1116,
+    "created_at": "2025-09-16T13:01:09.773823",
+    "total_articles": 1117,
+    "new_articles_in_last_fetch": 1117,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -14504,6 +14504,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WEBTOON SHARES SOAR 25% ON DISNEY DEAL TO LAUNCH MARVEL & STAR WARS COMICS 🚀\n\n- Webtoon's shares surge over 25% post Disney partnership announcement 📈\n- Collaboration to create a digital comics platform for Marvel and Star Wars 🦸‍♂️\n- New platform to feature popular brands like Marvel and Star Wars 🌟\n- Disney and Webtoon reveal plans for a groundbreaking digital space 🚀\n- Excitement over potential growth and reach of the new platform 🌍\n\nTAKEAWAY: Webtoon's stock skyrockets as they join forces with Disney to bring iconic Marvel and Star Wars comics to a brand-new digital platform, sparking excitement and potential growth opportunities.",
       "exported_at": "2025-09-16T12:50:56.830415",
+      "continuous_session": true
+    },
+    {
+      "title": "Warner Bros. Discovery to debut HBO Max in 14 Asia Pacific markets next month",
+      "link": "https://www.cnbc.com/2025/09/16/warner-bros-discovery-to-debut-hbo-max-in-14-asia-pacific-markets.html",
+      "summary": "Warner Bros. Discovery is set to launch its HBO Max streaming service in 14 new markets across the Asia Pacific on Oct. 15, the media firm said.",
+      "published": "Tue, 16 Sep 2025 16:31:28 GMT",
+      "content": "Warner Bros. Discovery is set to launch its HBO Max streaming service in 14 new markets across the Asia Pacific on Oct. 15, the media firm said.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b755f2eefae3e15a1faec67b115c8bf6",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WARNER BROS. DISCOVERY TO LAUNCH HBO MAX IN 14 ASIA PACIFIC MARKETS 🚀\n\n- HBO Max streaming service expands to 14 Asia Pacific markets 🌏\n- Launch date set for October 15, announced by Warner Bros. Discovery 📅\n- Strategic move to reach more viewers in the region 🌐\n- Asia Pacific expansion part of Warner Bros. Discovery's growth plan 📈\n- Increasing accessibility for audiences to premium content 📺\n- Competition in the streaming industry intensifies in the region 🎥\n\nTAKEAWAY: Warner Bros. Discovery's HBO Max expansion into 14 Asia Pacific markets signals a strategic move to broaden its reach and compete in the growing streaming industry.",
+      "exported_at": "2025-09-16T13:01:09.760630",
       "continuous_session": true
     }
   ]
