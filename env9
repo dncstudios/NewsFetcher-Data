@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T17:46:21.957899",
-    "total_articles": 1146,
-    "new_articles_in_last_fetch": 1146,
+    "created_at": "2025-09-16T19:02:25.658604",
+    "total_articles": 1147,
+    "new_articles_in_last_fetch": 1147,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -14894,6 +14894,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: MICROSOFT INVESTS $30 BILLION IN UK AI INFRASTRUCTURE 🚀\n\n- Microsoft boosts AI investments in the UK 🇬🇧\n- $30 billion allocated for AI infrastructure and operations 💰\n- Expansion coincides with President Trump's state visit 🌐\n- Strategic move to enhance AI capabilities in the UK 📈\n- Demonstrates commitment to advancing technology in the region ✅\n- Aim to strengthen partnerships and drive innovation 🚀\n\nTAKEAWAY: Microsoft's substantial investment in UK AI infrastructure showcases a strategic commitment to advancing technology and driving innovation in the region.",
       "exported_at": "2025-09-16T17:46:21.883870",
+      "continuous_session": true
+    },
+    {
+      "title": "StubHub to price IPO at $23.50, valuing company at $8.6 billion",
+      "link": "https://www.cnbc.com/2025/09/16/stubhub-ipo-price-23point50-valuing-company-8point6-billion.html",
+      "summary": "StubHub is poised to hit the public market after twice delaying its IPO, most recently due to market volatility following President Trump's sweeping tariffs.",
+      "published": "Tue, 16 Sep 2025 22:57:54 GMT",
+      "content": "StubHub is poised to hit the public market after twice delaying its IPO, most recently due to market volatility following President Trump's sweeping tariffs.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "94ba5cdc4d55982584219398536dfec5",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STUBHUB IPO PRICED AT $23.50, VALUED AT $8.6 BILLION 🚀\n\n- StubHub set to enter public market after two IPO delays 📈\n- IPO pricing at $23.50 values company at $8.6 billion 💰\n- Delays attributed to market volatility post Trump's tariffs 📉\n\nTAKEAWAY: StubHub's long-awaited IPO finally priced at $23.50, valuing the company at $8.6 billion amid market volatility post Trump's tariffs.",
+      "exported_at": "2025-09-16T19:02:25.572690",
       "continuous_session": true
     }
   ]
