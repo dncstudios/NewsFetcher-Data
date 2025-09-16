@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T15:38:47.669673",
-    "total_articles": 1129,
-    "new_articles_in_last_fetch": 1129,
+    "created_at": "2025-09-16T15:48:58.107796",
+    "total_articles": 1130,
+    "new_articles_in_last_fetch": 1130,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -14673,6 +14673,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: MICROSOFT INVESTS $30 BILLION IN UK AI INFRASTRUCTURE 🚀\n\n- Microsoft boosts AI investments in the UK 🇬🇧\n- $30 billion allocated for AI infrastructure and operations 💰\n- Expansion coincides with President Trump's state visit 🌐\n- Strategic move to enhance AI capabilities in the UK 📈\n- Demonstrates commitment to advancing technology in the region ✅\n- Aim to strengthen partnerships and drive innovation 🚀\n\nTAKEAWAY: Microsoft's substantial investment in UK AI infrastructure showcases a strategic commitment to advancing technology and driving innovation in the region.",
       "exported_at": "2025-09-16T15:38:47.602818",
+      "continuous_session": true
+    },
+    {
+      "title": "S&amp;P 500 retreats from record as traders await big Fed decision: Live updates",
+      "link": "https://www.cnbc.com/2025/09/15/stock-market-today-live-updates.html",
+      "summary": "The three major indexes are coming off a winning session.",
+      "published": "Tue, 16 Sep 2025 19:44:26 GMT",
+      "content": "The three major indexes are coming off a winning session.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "cef8de435626a6ab33658c50e95a5016",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: S&P 500 FUTURES STABLE AFTER RECORD CLOSE ABOVE 6,600 📈\n\n- S&P 500 futures show minor movement post-record close\n- Market indexes conclude positive session\n- Investors eye market stability\n\nTAKEAWAY: S&P 500 futures remain steady after setting a new record above 6,600, signaling market optimism and stability.",
+      "exported_at": "2025-09-16T15:48:58.033327",
       "continuous_session": true
     }
   ]
