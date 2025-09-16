@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T01:18:29.984585",
-    "total_articles": 1064,
-    "new_articles_in_last_fetch": 1064,
+    "created_at": "2025-09-16T02:09:13.700704",
+    "total_articles": 1065,
+    "new_articles_in_last_fetch": 1065,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -13829,6 +13829,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: THE UK EMBRACES TRUMP: NEEDED BOOST OR CONTROVERSY? 🚀\n\n- UK seeks Trump's support amidst PM Starmer's leadership challenges\n- Trip timing coincides with Starmer's scrutiny over judgment calls\n- Embrace of Trump could provide much-needed political boost\n- UK's move to engage with Trump sparks controversy and debate\n- Starmer faced with questions on his leadership amidst turmoil\n- Trump's visit stirs up mixed reactions and public opinion\n\nTAKEAWAY: UK's decision to welcome Trump amidst PM Starmer's challenges sparks both hope for a political lift and controversy, stirring up public debate.",
       "exported_at": "2025-09-16T01:18:29.898413",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump sues The New York Times for $15 billion, alleging defamation and libel",
+      "link": "https://www.cnbc.com/2025/09/16/trump-to-sue-new-york-times-for-15-billion-alleging-defamation-and-libel-.html",
+      "summary": "U.S. President Donald Trump said he would file a $15 billion defamation and libel lawsuit against The New York Times for the reporting related to Jeffrey Epstein.",
+      "published": "Tue, 16 Sep 2025 06:07:15 GMT",
+      "content": "U.S. President Donald Trump said he would file a $15 billion defamation and libel lawsuit against The New York Times for the reporting related to Jeffrey Epstein.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "146cfd3c2bed7a07efad8a8936bfb47c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP SUES NY TIMES FOR $15B ALLEGING DEFAMATION 🚨\n\n- Trump files $15B lawsuit against The New York Times 💸\n- Lawsuit connected to reporting on Jeffrey Epstein case 📰\n- Alleges defamation and libel in the published articles 🚫\n\nTAKEAWAY: President Trump takes legal action against The New York Times, seeking $15 billion for alleged defamation and libel related to Jeffrey Epstein reporting.",
+      "exported_at": "2025-09-16T02:09:13.621925",
       "continuous_session": true
     }
   ]
