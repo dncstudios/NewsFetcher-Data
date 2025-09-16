@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T10:43:44.111044",
-    "total_articles": 1106,
-    "new_articles_in_last_fetch": 1106,
+    "created_at": "2025-09-16T10:59:12.684037",
+    "total_articles": 1107,
+    "new_articles_in_last_fetch": 1107,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -14374,6 +14374,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: UK FALLS BEHIND IN BIOPHARMA, ELI LILLY CEO WARNS ⚠️\n\n- UK's biopharma investments decline, signaling a shift 📉\n- Eli Lilly CEO urges U.S. policymakers to take note 🇬🇧🇺🇸\n- Warning highlights UK's lost leadership status 🚨\n- Decline in UK biopharma sector raises concerns 📉⚠️\n- Message from Eli Lilly CEO emphasizes changing landscape 💬\n- UK's pullback in biopharma investments raises alarms 🔔\n\nTAKEAWAY: Eli Lilly CEO's cautionary words about the UK's decline in biopharma investments serve as a stark warning to U.S. policymakers about the shifting global landscape.",
       "exported_at": "2025-09-16T10:43:44.096818",
+      "continuous_session": true
+    },
+    {
+      "title": "OpenAI to launch ChatGPT for teens with parental controls as company faces scrutiny over safety",
+      "link": "https://www.cnbc.com/2025/09/16/openai-chatgpt-teens-parent.html",
+      "summary": "OpenAI is also developing a technology to better predict a user's age.",
+      "published": "Tue, 16 Sep 2025 14:47:34 GMT",
+      "content": "OpenAI is also developing a technology to better predict a user's age.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c53ba263594334dbe59569ec7be964d1",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: OPENAI LAUNCHES TEEN-FRIENDLY CHATGPT WITH PARENTAL CONTROLS 🚀\n\n- OpenAI introduces ChatGPT with parental controls for teen safety ✅\n- Company faces scrutiny over platform safety 🚨\n- Development of age prediction technology underway ⚡️\n\nTAKEAWAY: OpenAI responds to safety concerns by launching ChatGPT with parental controls for teens while working on age prediction technology.",
+      "exported_at": "2025-09-16T10:59:12.670868",
       "continuous_session": true
     }
   ]
