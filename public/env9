@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T21:45:15.981108",
-    "total_articles": 1159,
-    "new_articles_in_last_fetch": 1159,
+    "created_at": "2025-09-16T22:30:56.134927",
+    "total_articles": 1160,
+    "new_articles_in_last_fetch": 1160,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -15063,6 +15063,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ASIA MARKETS AWAIT FED DECISION AFTER WALL STREET LOSSES 🚀\n\n- Asia markets poised to mirror Wall Street's decline 📉\n- Investors anticipate U.S. Federal Reserve's rate cut decision 📉\n- All eyes on Fed's two-day meeting ending Wednesday 🧐\n- Market sentiment cautious ahead of Fed announcement 🚨\n- Expectation for interest rate cut driving investor behavior 🔥\n\nTAKEAWAY: Asia markets bracing for potential rate cut as investors eagerly await the U.S. Federal Reserve's decision, mirroring Wall Street's losses in anticipation.",
       "exported_at": "2025-09-16T21:45:15.893558",
+      "continuous_session": true
+    },
+    {
+      "title": "Amazon CEO Jassy says company is reducing bureaucracy, which is ‘anathema’ to innovation",
+      "link": "https://www.cnbc.com/2025/09/16/amazon-ceo-jassy-says-company-cutting-bureaucracy-to-be-like-a-startup.html",
+      "summary": "Amazon CEO Andy Jassy said he's working to root out bureaucracy from within the company's ranks as part of an effort to reset its culture.",
+      "published": "Wed, 17 Sep 2025 02:24:28 GMT",
+      "content": "Amazon CEO Andy Jassy said he's working to root out bureaucracy from within the company's ranks as part of an effort to reset its culture.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "60831df346f0055cf35e54cca8df2ed1",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AMAZON CEO JASSY TACKLES BUREAUCRACY TO BOOST INNOVATION 🚀\n\n- Jassy aims to eliminate bureaucracy within Amazon 🚫\n- Bureaucracy considered a hindrance to innovation 🛑\n- Efforts to reset company culture for increased efficiency ✅\n\nTAKEAWAY: Amazon's CEO Andy Jassy's initiative to eradicate bureaucracy within the company aims to foster innovation and enhance operational efficiency.",
+      "exported_at": "2025-09-16T22:30:56.044758",
       "continuous_session": true
     }
   ]
