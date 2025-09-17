@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T05:37:46.078648",
-    "total_articles": 1183,
-    "new_articles_in_last_fetch": 1183,
+    "created_at": "2025-09-17T05:47:55.903732",
+    "total_articles": 1184,
+    "new_articles_in_last_fetch": 1184,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -15375,6 +15375,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP'S PUSH FOR LESS FREQUENT EARNINGS REPORTS: PROS AND CONS ⚠️\n\n- Trump advocates for companies to report earnings less frequently 📉\n- Emphasizes the need for management to prioritize long-term goals 🎯\n- Critics argue that transparency from frequent reports is essential 📊\n- Balancing long-term strategy with timely transparency is debated 🤔\n\nTAKEAWAY: Trump's call for less frequent earnings reports sparks debate on balancing long-term focus with the necessity for transparency in financial reporting.",
       "exported_at": "2025-09-17T05:37:45.996671",
+      "continuous_session": true
+    },
+    {
+      "title": "Tim Cook says he is &apos;really pleased&apos; with progress on stitching together Apple&apos;s end-to-end silicon supply chain in the U.S.",
+      "link": "https://www.cnbc.com/2025/09/16/apples-tim-cook-silicon-supply-chain.html",
+      "summary": "In an interview with CNBC's Jim Cramer, Apple CEO Tim Cook struck an optimistic tone about the iPhone maker's progress bringing more manufacturing to the U.S.",
+      "published": "Wed, 17 Sep 2025 09:46:28 GMT",
+      "content": "In an interview with CNBC's Jim Cramer, Apple CEO Tim Cook struck an optimistic tone about the iPhone maker's progress bringing more manufacturing to the U.S.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3e7f26dc74ab46ebf08dfe3a65fc8347",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TIM COOK OPTIMISTIC ABOUT APPLE'S U.S. MANUFACTURING SHIFT 🚀\n\n- Tim Cook pleased with progress on Apple's U.S. manufacturing shift 🇺🇸\n- Focus on stitching together end-to-end silicon supply chain in the U.S. ⚙️\n- Cook highlights positive strides in bringing more manufacturing to the U.S. 📈\n- Apple CEO expresses optimism in CNBC interview with Jim Cramer 🎙️\n- Emphasis on enhancing domestic production capabilities 🏭\n\nTAKEAWAY: Tim Cook's optimism about Apple's U.S. manufacturing shift signals positive progress in bringing more production capabilities to the United States. 🌟",
+      "exported_at": "2025-09-17T05:47:55.824061",
       "continuous_session": true
     }
   ]
