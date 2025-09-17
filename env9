@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T12:15:31.061780",
-    "total_articles": 1228,
-    "new_articles_in_last_fetch": 1228,
+    "created_at": "2025-09-17T12:25:43.767308",
+    "total_articles": 1229,
+    "new_articles_in_last_fetch": 1229,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -15959,6 +15959,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: KAYVON BEYKPOUR RAISES $40M FOR MACROSCOPE 🚀\n\n- Co-founder of Periscope secures $40 million for Macroscope 💰\n- Beykpour founded Macroscope due to tracking challenges at Twitter 📈\n- Funding signals strong investor confidence in Beykpour's vision 💪\n\nTAKEAWAY: Kayvon Beykpour's $40 million funding for Macroscope reflects investor belief in his ability to tackle developer tracking challenges post-Periscope.",
       "exported_at": "2025-09-17T12:15:30.971127",
+      "continuous_session": true
+    },
+    {
+      "title": "StubHub&apos;s stock opens at $25.35 in NYSE debut after ticket seller&apos;s long-awaited IPO",
+      "link": "https://www.cnbc.com/2025/09/17/stubhub-stub-stock-starts-trading-on-nyse-opens-at-25point35.html",
+      "summary": "StubHub sold shares in its IPO at the middle of the expected range after the company twice delayed its offering.",
+      "published": "Wed, 17 Sep 2025 16:20:07 GMT",
+      "content": "StubHub sold shares in its IPO at the middle of the expected range after the company twice delayed its offering.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4c80782e9dc31e08400b210349ad707f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STUBHUB IPO OPENS STRONG AT $25.35 ON NYSE 🚀\n\n- StubHub's stock debuts at $25.35 on NYSE 📈\n- Company priced shares in middle of expected range 💰\n- IPO delayed twice before finally launching 🔄\n\nTAKEAWAY: StubHub's long-awaited IPO finally kicks off with a strong opening at $25.35 on the NYSE, meeting market expectations.",
+      "exported_at": "2025-09-17T12:25:43.682707",
       "continuous_session": true
     }
   ]
