@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T12:51:10.197522",
-    "total_articles": 1231,
-    "new_articles_in_last_fetch": 1231,
+    "created_at": "2025-09-17T12:56:18.032899",
+    "total_articles": 1232,
+    "new_articles_in_last_fetch": 1232,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -15998,6 +15998,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AMERICAN MOM'S $5,000 STAY IN TAIWAN'S POSTPARTUM CARE CENTERS 🌟\n\n- Katie Lee spends $5,000 for postpartum care in Taiwan 🤱\n- Enjoyed luxurious experience during 13-month career break 💆‍♀️\n- Believes every woman deserves such care after childbirth 💖\n- Gave birth to her second baby, Ruby, in Taipei 🌆\n- Highlights the importance of postpartum care for mothers 🌺\n\nTAKEAWAY: Katie Lee's $5,000 experience in Taiwan's postpartum care centers showcases the value of luxurious care for new mothers and advocates for its importance worldwide.",
       "exported_at": "2025-09-17T12:51:10.106760",
+      "continuous_session": true
+    },
+    {
+      "title": "Jim Cramer says Eli Lilly&apos;s obesity pill could be more of a &apos;lifetime drug&apos; than shots",
+      "link": "https://www.cnbc.com/2025/09/17/jim-cramer-says-eli-lillys-obesity-pill-could-be-more-of-a-lifetime-drug-than-shots.html",
+      "summary": "\"Persistence is the enemy of these [GLP-1 drugs] right now,\" CNBC's Jim Cramer said Wednesday.",
+      "published": "Wed, 17 Sep 2025 16:38:09 GMT",
+      "content": "\"Persistence is the enemy of these [GLP-1 drugs] right now,\" CNBC's Jim Cramer said Wednesday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9723169bb8f74e0ce3e292ee2bd3ecbc",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JIM CRAMER PREDICTS ELI LILLY'S OBESITY PILL AS POTENTIAL 'LIFETIME DRUG' 💊\n\n- Jim Cramer sees Eli Lilly's obesity pill as long-term solution \n- Highlights potential for drug to replace injections \n- Considers persistence a current challenge for GLP-1 drugs \n\nTAKEAWAY: Jim Cramer anticipates Eli Lilly's obesity pill to revolutionize treatment, potentially becoming a lifetime drug for patients.",
+      "exported_at": "2025-09-17T12:56:17.953158",
       "continuous_session": true
     }
   ]
