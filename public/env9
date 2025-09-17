@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T13:16:41.387979",
-    "total_articles": 1234,
-    "new_articles_in_last_fetch": 1234,
+    "created_at": "2025-09-17T13:37:00.377794",
+    "total_articles": 1235,
+    "new_articles_in_last_fetch": 1235,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -16037,6 +16037,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: HEALTHY RETURNS: RFK JR.'S NEW VACCINE PANEL MEMBERS 🚀\n\n- RFK Jr. boosts government vaccine panel with 5 new members\n- Health care inflation impacting wallets significantly\n- Panel expansion signals focus on vaccine-related issues\n\nTAKEAWAY: RFK Jr.'s move to add 5 new members to the vaccine panel hints at a heightened focus on vaccine-related matters amidst significant health care inflation.",
       "exported_at": "2025-09-17T13:16:41.297294",
+      "continuous_session": true
+    },
+    {
+      "title": "S&amp;P 500 is little changed, Dow adds 200 points ahead of Fed rate decision and outlook: Live updates",
+      "link": "https://www.cnbc.com/2025/09/16/stock-market-today-live-updates.html",
+      "summary": "Stocks were mixed as traders prepared for a much-anticipated monetary policy decision and an even more important policy outlook from the Federal Reserve.",
+      "published": "Wed, 17 Sep 2025 17:36:22 GMT",
+      "content": "Stocks were mixed as traders prepared for a much-anticipated monetary policy decision and an even more important policy outlook from the Federal Reserve.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "826e19b51e687861c00ecec15d9bb35b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: S&P 500 LITTLE CHANGED AHEAD OF KEY FED RATE DECISION 🚀\n\n- Market mixed as traders await crucial Fed policy decision 📈\n- Anticipation builds for Federal Reserve's policy outlook 🔍\n- Investors brace for impact of upcoming monetary policy changes 💼\n\nTAKEAWAY: The S&P 500 remains stable as traders gear up for the highly anticipated Federal Reserve rate decision and policy outlook, creating an atmosphere of cautious optimism in the market.",
+      "exported_at": "2025-09-17T13:37:00.284435",
       "continuous_session": true
     }
   ]
