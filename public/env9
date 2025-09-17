@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T03:20:31.221685",
-    "total_articles": 1175,
-    "new_articles_in_last_fetch": 1175,
+    "created_at": "2025-09-17T04:56:49.815863",
+    "total_articles": 1176,
+    "new_articles_in_last_fetch": 1176,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -15271,6 +15271,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FUND MANAGER'S SECRET RULE LEADS TO 2,000% RETURN ON SINGLE STOCK 🚀\n\n- Boston Partners' Christopher Hart's strategy yields 2,000% return 📈\n- Divisive investment approach pays off with German defense prime 🎯\n- Hart's rule unlocks massive success in stock market 🌟\n\nTAKEAWAY: Christopher Hart's unique investment strategy unlocks a staggering 2,000% return on a single stock, showcasing the power of a well-crafted rule in the stock market.",
       "exported_at": "2025-09-17T03:20:31.147232",
+      "continuous_session": true
+    },
+    {
+      "title": "From royal pomp to Epstein embarrassment: Trump&apos;s UK state visit in pictures",
+      "link": "https://www.cnbc.com/2025/09/17/royal-pomp-galore-trumps-uk-state-visit-in-pictures.html",
+      "summary": "We'll be adding the best pictures of day two of the state visit here as the day unfolds, so check back for further updates.",
+      "published": "Wed, 17 Sep 2025 08:49:51 GMT",
+      "content": "We'll be adding the best pictures of day two of the state visit here as the day unfolds, so check back for further updates.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "94d4d36d21722934e5d99ac4d0cfddb2",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP'S UK STATE VISIT: ROYAL POMP TO EMBARRASSMENT 📸\n\n- Day two showcases royal ceremonies and Epstein scandal contrast 🤴🏼📸\n- Stay updated for the latest visuals from the state visit 🌟\n- Images reveal the grandeur and controversies of Trump's UK trip 🏰🔍\n\nTAKEAWAY: Trump's UK state visit captures a mix of royal splendor and embarrassing scandals, offering a visual spectacle for onlookers.",
+      "exported_at": "2025-09-17T04:56:49.727163",
       "continuous_session": true
     }
   ]
