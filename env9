@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T08:05:30.792732",
-    "total_articles": 1196,
-    "new_articles_in_last_fetch": 1196,
+    "created_at": "2025-09-17T08:20:47.014586",
+    "total_articles": 1197,
+    "new_articles_in_last_fetch": 1197,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -15544,6 +15544,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CITI BOOSTS MCDONALD'S PRICE TARGET TO WALL STREET HIGH 🚀\n\n- Citi raises McDonald's price target for >25% upside 📈\n- New target forecasts 26% rally from Tuesday close 🚀\n- McDonald's shares expected to soar with Citi's bullish call 🔥\n\nTAKEAWAY: Citi's bold move to raise McDonald's price target to the highest on Wall Street signals a strong bullish sentiment with expectations of significant upside potential.",
       "exported_at": "2025-09-17T08:05:30.714419",
+      "continuous_session": true
+    },
+    {
+      "title": "Here are Wednesday&apos;s biggest analyst calls: Nvidia, Apple, Netflix, Nike, Disney, Micron, Walmart, Zillow, FedEx &amp; more",
+      "link": "https://www.cnbc.com/2025/09/17/stocks-wednesday-by-analyst-calls-like-nvidia.html",
+      "summary": "Here are Wednesday's biggest calls on Wall Street.",
+      "published": "Wed, 17 Sep 2025 12:17:00 GMT",
+      "content": "Here are Wednesday's biggest calls on Wall Street.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f57908975ef8bd0233bbeec52f293216",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WEDNESDAY'S TOP WALL STREET ANALYST CALLS 🚀\n\n- Analysts make significant calls on Nvidia, Apple, Netflix, Nike 📈\n- Key insights provided for Disney, Micron, Walmart, Zillow, FedEx ✅\n- Market experts share recommendations for major companies 🎯\n\nTAKEAWAY: Wall Street analysts reveal crucial insights and recommendations for top companies, shaping market trends and investor decisions.",
+      "exported_at": "2025-09-17T08:20:46.923928",
       "continuous_session": true
     }
   ]
