@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T23:47:01.897216",
-    "total_articles": 1162,
-    "new_articles_in_last_fetch": 1162,
+    "created_at": "2025-09-17T00:02:17.803990",
+    "total_articles": 1164,
+    "new_articles_in_last_fetch": 1164,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -15102,6 +15102,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ELLIOTT MANAGEMENT INVESTS $2 BILLION IN WORKDAY 🚀\n\n- Activist investor Elliott Management reveals $2 billion stake in Workday 💼\n- Investment signifies confidence in human resources software sector 📈\n- Workday's stock likely to experience increased momentum 📊\n- Move could lead to strategic changes or improvements at Workday 💡\n- Elliott's involvement may impact Workday's future direction 🎯\n\nTAKEAWAY: Elliott Management's substantial investment in Workday indicates a potential shift in the human resources software landscape, with expectations for positive changes ahead.",
       "exported_at": "2025-09-16T23:47:01.808144",
+      "continuous_session": true
+    },
+    {
+      "title": "CNBC&apos;s The China Connection newsletter: China’s attempt to pivot away from the U.S. starts with this trading hub",
+      "link": "https://www.cnbc.com/2025/09/17/china-connection-newsletter-yiwu-looks-beyond-us-trade-exports-wholesale.html",
+      "summary": "There's little sign that Yiwu merchants will find it attractive to sell to the U.S. again soon.",
+      "published": "Wed, 17 Sep 2025 03:58:26 GMT",
+      "content": "There's little sign that Yiwu merchants will find it attractive to sell to the U.S. again soon.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "dbc2e995cec5d259fa867c2050da499e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CNBC'S THE CHINA CONNECTION NEWSLETTER: CHINA'S SHIFT AWAY FROM U.S. TRADING HUB 🚀\n\n- Yiwu merchants hesitant to sell to U.S. amid pivot away 🛑\n- China's move signifies a shift in global trading dynamics 🌏\n- Uncertainty looms over future trade relations with the U.S. ⚠️\n\nTAKEAWAY: China's focus on pivoting away from U.S. trade highlights shifting global dynamics, with Yiwu merchants showing reluctance to engage with the U.S. market.",
+      "exported_at": "2025-09-17T00:02:17.608326",
+      "continuous_session": true
+    },
+    {
+      "title": "Microsoft, Nvidia, other tech giants plan over $40 billion of new AI investments in UK",
+      "link": "https://www.cnbc.com/2025/09/16/tech-giants-to-pour-billions-into-uk-ai-heres-what-we-know-so-far.html",
+      "summary": "Microsoft is ramping up its AI investments in the U.K. as President Donald Trump embarks on his state visit this week.",
+      "published": "Wed, 17 Sep 2025 04:00:00 GMT",
+      "content": "Microsoft is ramping up its AI investments in the U.K. as President Donald Trump embarks on his state visit this week.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ee220179d48b1731e66864d65770be22",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MICROSOFT INVESTS $30 BILLION IN UK AI INFRASTRUCTURE 🚀\n\n- Microsoft boosts AI investments in the UK 🇬🇧\n- $30 billion allocated for AI infrastructure and operations 💰\n- Expansion coincides with President Trump's state visit 🌐\n- Strategic move to enhance AI capabilities in the UK 📈\n- Demonstrates commitment to advancing technology in the region ✅\n- Aim to strengthen partnerships and drive innovation 🚀\n\nTAKEAWAY: Microsoft's substantial investment in UK AI infrastructure showcases a strategic commitment to advancing technology and driving innovation in the region.",
+      "exported_at": "2025-09-17T00:02:17.608437",
       "continuous_session": true
     }
   ]
