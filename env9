@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T11:09:08.586341",
-    "total_articles": 1218,
-    "new_articles_in_last_fetch": 1218,
+    "created_at": "2025-09-17T11:24:27.105555",
+    "total_articles": 1220,
+    "new_articles_in_last_fetch": 1220,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -15829,6 +15829,32 @@
       "hash": "ec029016d5b5871a1859d818c61e0157",
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "exported_at": "2025-09-17T11:09:08.493967",
+      "continuous_session": true
+    },
+    {
+      "title": "Johnson says Democrats will &apos;lose that battle&apos; if shutdown hinges on ACA subsidies",
+      "link": "https://www.cnbc.com/2025/09/17/government-shutdown-trump-health-care.html",
+      "summary": "Democrats have zeroed in on health care as their central sticking point in negotiations while the threat of a government shutdown nears.",
+      "published": "Wed, 17 Sep 2025 15:01:52 GMT",
+      "content": "Democrats have zeroed in on health care as their central sticking point in negotiations while the threat of a government shutdown nears.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "496d88ee23013b343e88e6e6a7c91508",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JOHNSON WARNS DEMOCRATS OVER SHUTDOWN AND ACA SUBSIDIES 🚨\n\n- Democrats focus on health care in shutdown talks 🏥\n- Government shutdown looms as negotiations intensify ⏳\n- Johnson predicts Democrats will lose battle over ACA subsidies 💥\n\nTAKEAWAY: With Democrats centering on health care in shutdown talks, Johnson's warning suggests a tough battle ahead over ACA subsidies.",
+      "exported_at": "2025-09-17T11:24:27.022586",
+      "continuous_session": true
+    },
+    {
+      "title": "Want a unique Fed rate cut trade? Try shares of boat and RV makers",
+      "link": "https://www.cnbc.com/2025/09/17/want-a-unique-fed-rate-cut-trade-try-shares-of-boat-and-rv-makers.html",
+      "summary": "Investors should consider investing in powersports stocks in the event that the Federal Reserve cuts the federal funds rate Wednesday, according to Citi.",
+      "published": "Wed, 17 Sep 2025 15:12:24 GMT",
+      "content": "Investors should consider investing in powersports stocks in the event that the Federal Reserve cuts the federal funds rate Wednesday, according to Citi.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a49bb3ed8f20610989201327a7cbb855",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: UNIQUE FED RATE CUT PLAY: BOAT & RV MAKERS 🚀\n\n- Citi recommends powersports stocks if Fed cuts rates ⚡️\n- Investors urged to consider boat and RV makers 🚤\n- Potential opportunity tied to Federal Reserve decision ✅\n\nTAKEAWAY: Citi suggests exploring boat and RV maker stocks as a unique play in response to a potential Federal Reserve rate cut.",
+      "exported_at": "2025-09-17T11:24:27.022660",
       "continuous_session": true
     }
   ]
