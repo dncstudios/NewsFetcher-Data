@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T01:03:12.194159",
-    "total_articles": 1166,
-    "new_articles_in_last_fetch": 1166,
+    "created_at": "2025-09-17T01:28:38.544628",
+    "total_articles": 1168,
+    "new_articles_in_last_fetch": 1168,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -15154,6 +15154,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BAIDU SOARS 16% TO HIT 2-YEAR HIGHS ON AI PARTNERSHIP 🚀\n\n- Baidu shares surge 16% on AI expansion 📈\n- Company strengthens AI plans and partnerships 💪\n- Achieves 2-year high amidst tech advancements 🚀\n\nTAKEAWAY: Baidu's 16% surge to 2-year highs reflects investor excitement over its AI initiatives and strategic partnerships, signaling a strong growth trajectory.",
       "exported_at": "2025-09-17T01:03:12.115615",
+      "continuous_session": true
+    },
+    {
+      "title": "Three things Britain wants from Trump&apos;s state visit — aside from business deals",
+      "link": "https://www.cnbc.com/2025/09/17/what-does-the-uk-want-from-trump-during-his-state-visit.html",
+      "summary": "Aside from business deals, the U.K. wants more from the U.S. president's whirlwind trip.",
+      "published": "Wed, 17 Sep 2025 05:23:09 GMT",
+      "content": "Aside from business deals, the U.K. wants more from the U.S. president's whirlwind trip.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6129cfe43f9f216a1fb2d3a1b1ee7b90",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BRITAIN'S EXPECTATIONS FROM TRUMP'S STATE VISIT 🌟\n\n- UK seeks commitment on security issues beyond business 💂‍♂️\n- Expectations include climate change cooperation 🌍\n- Trump's visit sparks hope for deeper UK-US ties 🇬🇧🇺🇸\n\nTAKEAWAY: Britain anticipates more than just business deals from Trump's state visit, focusing on security, climate change, and stronger UK-US relations.",
+      "exported_at": "2025-09-17T01:28:38.490582",
+      "continuous_session": true
+    },
+    {
+      "title": "The UK&apos;s top fintech companies: 2025",
+      "link": "https://www.cnbc.com/the-uks-top-fintech-companies-2025/",
+      "summary": "CNBC and Statista have identified the top 150 fintechs in the U.K, within London and beyond.",
+      "published": "Tue, 16 Sep 2025 23:02:39 GMT",
+      "content": "CNBC and Statista have identified the top 150 fintechs in the U.K, within London and beyond.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e01e9630c449fe06cedd3cd4376dcd55",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: THE UK'S TOP FINTECH COMPANIES REVEALED FOR 2025 🚀\n\n- CNBC and Statista unveil top 150 UK fintech firms 🇬🇧\n- Includes companies from London and beyond 🌍\n- Recognition of innovative fintech players in the UK 🏦\n- Highlights dynamic growth and success in the industry 💰\n- Reflects the UK's position as a fintech powerhouse 🏆\n\nTAKEAWAY: CNBC and Statista's list of the top 150 UK fintech companies for 2025 showcases the country's innovation and success in the industry, positioning it as a global fintech leader.",
+      "exported_at": "2025-09-17T01:28:38.490643",
       "continuous_session": true
     }
   ]
