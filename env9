@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T17:01:17.350842",
-    "total_articles": 1265,
-    "new_articles_in_last_fetch": 1265,
+    "created_at": "2025-09-17T17:06:26.311569",
+    "total_articles": 1266,
+    "new_articles_in_last_fetch": 1266,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -16440,6 +16440,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AI STARTUP NSCALE OUTPERFORMS NVIDIA CEO JENSEN HUANG 🚀\n\n- Nscale emerges as a key player in the U.K.'s AI industry 🇬🇧\n- Rapid rise challenges Nvidia CEO's dominance in AI sector 💥\n- Nscale's sudden success surprises industry experts 🌟\n- U.K. aims to establish global AI presence through Nscale partnership 🎯\n\nTAKEAWAY: Nscale's unexpected success in the AI industry is shaking up the competition, positioning the U.K. as a significant player in the global AI market.",
       "exported_at": "2025-09-17T17:01:17.271579",
+      "continuous_session": true
+    },
+    {
+      "title": "Thursday&apos;s big stock stories: What’s likely to move the market in the next trading session",
+      "link": "https://www.cnbc.com/2025/09/17/thursdays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html",
+      "summary": "The S&amp;P 500 closed down slightly on Wednesday after a volatile day of trading. The moves followed the Federal Reserve's decision to cut its key rate by a quarter basis point.",
+      "published": "Wed, 17 Sep 2025 21:04:03 GMT",
+      "content": "The S&amp;P 500 closed down slightly on Wednesday after a volatile day of trading. The moves followed the Federal Reserve's decision to cut its key rate by a quarter basis point.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4d48c0eee6aa06cc0e51e5aebf9bcb78",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: THURSDAY'S STOCK STORIES: MARKET OUTLOOK 🚀\n\n- S&P 500 closes slightly down post-Fed rate cut 📉\n- Market volatility seen after the rate adjustment 🔥\n- Federal Reserve reduces key rate by 0.25 basis points ✅\n- Investors eyeing potential market movers for next session 🧐\n\nTAKEAWAY: Market reacts to Federal Reserve's rate cut, setting the stage for potential market movers in the upcoming trading session.",
+      "exported_at": "2025-09-17T17:06:26.220352",
       "continuous_session": true
     }
   ]
