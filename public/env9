@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T17:16:43.224005",
-    "total_articles": 1268,
-    "new_articles_in_last_fetch": 1268,
+    "created_at": "2025-09-17T17:32:01.291852",
+    "total_articles": 1271,
+    "new_articles_in_last_fetch": 1271,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -16479,6 +16479,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: UNPACKING THE CONFUSING FED DECISION: WHAT'S NEXT? 🚀\n\n- Wednesday's Fed meeting reveals a deeply divided U.S. central bank 🏦\n- Wall Street scrambles to decipher the implications for investments 💼\n- Investors seek clarity on the future direction of interest rates 🔍\n- Uncertainty looms as the Fed's decision sparks confusion 🤯\n- Market volatility expected as investors digest the mixed signals 📉\n- Analysts predict ongoing market fluctuations post-Fed meeting 🔄\n\nTAKEAWAY: The recent Fed decision has left Wall Street in a frenzy, with investors eagerly awaiting more clarity amidst market uncertainty and potential volatility ahead.",
       "exported_at": "2025-09-17T17:16:43.142160",
+      "continuous_session": true
+    },
+    {
+      "title": "Here are five key takeaways from the Fed&apos;s big interest rate decision",
+      "link": "https://www.cnbc.com/2025/09/17/here-are-five-key-takeaways-from-the-feds-big-interest-rate-decision.html",
+      "summary": "The Federal Reserve on Wednesday delivered on a widely anticipated quarter percentage point interest rate cut.",
+      "published": "Wed, 17 Sep 2025 21:24:31 GMT",
+      "content": "The Federal Reserve on Wednesday delivered on a widely anticipated quarter percentage point interest rate cut.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "dcecd473e502199c95ec267c00ce9e5e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FED CUTS INTEREST RATES BY 0.25%: 5 KEY TAKEAWAYS 📊\n\n- Federal Reserve lowers interest rates as expected ✅\n- Quarter percentage point cut meets widespread expectations 🎯\n- Decision reflects Fed's response to economic conditions 📉\n- Market reacts to Fed's move with cautious optimism 📈\n- Investors anticipate impact on borrowing costs and investments 💰\n\nTAKEAWAY: The Federal Reserve's decision to cut interest rates by 0.25% aligns with market expectations and raises anticipation about its effects on the economy and investments.",
+      "exported_at": "2025-09-17T17:32:01.214333",
+      "continuous_session": true
+    },
+    {
+      "title": "Here&apos;s what changed in the new Fed statement",
+      "link": "https://www.cnbc.com/2025/09/17/september-fed-meeting-what-changed-in-the-new-statement.html",
+      "summary": "This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in July.",
+      "published": "Wed, 17 Sep 2025 18:03:45 GMT",
+      "content": "This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in July.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "cd01fa16c1b159d77ef2d1201a651325",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: HERE'S WHAT CHANGED IN THE NEW FED STATEMENT 🔍\n\n- Comparison of Wednesday's FOMC statement with July's\n- Analyzing shifts in Fed's policy-making stance 📈\n- Key updates on economic outlook and inflation concerns 📊\n- Potential impact on interest rates and market expectations 💹\n- Investors closely monitoring Fed's statements for guidance ✅\n- Uncertainty lingers amidst changing economic landscape ⚠️\n\nTAKEAWAY: Investors scrutinize the evolving Fed statements for insights on economic outlook, inflation concerns, and potential impact on interest rates.",
+      "exported_at": "2025-09-17T17:32:01.214400",
+      "continuous_session": true
+    },
+    {
+      "title": "Cracker Barrel stock falls as company reports mixed earnings after rebrand controversy",
+      "link": "https://www.cnbc.com/2025/09/17/cracker-barrel-q4-2025-earnings.html",
+      "summary": "Cracker Barrel reported fourth-quarter earnings after the bell on Wednesday.",
+      "published": "Wed, 17 Sep 2025 21:29:27 GMT",
+      "content": "Cracker Barrel reported fourth-quarter earnings after the bell on Wednesday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f8b9393f5c4f503454d80610bf53c6e8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CRACKER BARREL STOCK PLUNGES 10% AFTER MIXED EARNINGS REPORT 📉\n\n- Cracker Barrel's Q4 earnings reported post-rebranding controversy\n- Stock drops 10% following the earnings announcement 📉\n- Investors react to the mixed earnings report 📊\n- Company faces challenges amidst the rebranding fallout ⚠️\n- Q4 results impact Cracker Barrel's financial performance 📊\n\nTAKEAWAY: Cracker Barrel's stock takes a hit with a 10% drop after reporting mixed earnings post-rebranding controversy, facing challenges and investor reactions.",
+      "exported_at": "2025-09-17T17:32:01.214413",
       "continuous_session": true
     }
   ]
