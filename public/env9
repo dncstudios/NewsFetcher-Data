@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T17:11:34.325874",
-    "total_articles": 1267,
-    "new_articles_in_last_fetch": 1267,
+    "created_at": "2025-09-17T17:16:43.224005",
+    "total_articles": 1268,
+    "new_articles_in_last_fetch": 1268,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -16466,6 +16466,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: THURSDAY'S MARKET OUTLOOK: WHAT TO WATCH FOR 📈\n\n- S&P 500 dips post-Fed rate cut decision 📉\n- Wednesday marked a volatile trading day 🎢\n- Federal Reserve's key rate reduction impacts market 🏦\n\nTAKEAWAY: Keep an eye on market movements post-Fed rate cut decision for potential trading opportunities.",
       "exported_at": "2025-09-17T17:11:34.250303",
+      "continuous_session": true
+    },
+    {
+      "title": "Unpacking the confusing Fed decision: What does it mean for your investments?",
+      "link": "https://www.cnbc.com/2025/09/17/unpacking-the-confusing-fed-decision-what-does-it-mean-for-your-investments.html",
+      "summary": "Wall Street still has more to unpack from Wednesday's Federal Reserve meeting, one that showed a deeply divided U.S. central bank.",
+      "published": "Wed, 17 Sep 2025 20:27:30 GMT",
+      "content": "Wall Street still has more to unpack from Wednesday's Federal Reserve meeting, one that showed a deeply divided U.S. central bank.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b8a585d9c4ca2f9adf76eab39a9a2ecf",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: UNPACKING THE CONFUSING FED DECISION: WHAT'S NEXT? 🚀\n\n- Wednesday's Fed meeting reveals a deeply divided U.S. central bank 🏦\n- Wall Street scrambles to decipher the implications for investments 💼\n- Investors seek clarity on the future direction of interest rates 🔍\n- Uncertainty looms as the Fed's decision sparks confusion 🤯\n- Market volatility expected as investors digest the mixed signals 📉\n- Analysts predict ongoing market fluctuations post-Fed meeting 🔄\n\nTAKEAWAY: The recent Fed decision has left Wall Street in a frenzy, with investors eagerly awaiting more clarity amidst market uncertainty and potential volatility ahead.",
+      "exported_at": "2025-09-17T17:16:43.142160",
       "continuous_session": true
     }
   ]
