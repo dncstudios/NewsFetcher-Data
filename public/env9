@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T09:47:29.183155",
-    "total_articles": 1208,
-    "new_articles_in_last_fetch": 1208,
+    "created_at": "2025-09-17T09:52:37.973539",
+    "total_articles": 1209,
+    "new_articles_in_last_fetch": 1209,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -15700,6 +15700,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: S&P 500 LITTLE CHANGED AHEAD OF KEY FED RATE DECISION 🚀\n\n- Market mixed as traders await crucial Fed policy decision 📈\n- Anticipation builds for Federal Reserve's policy outlook 🔍\n- Investors brace for impact of upcoming monetary policy changes 💼\n\nTAKEAWAY: The S&P 500 remains stable as traders gear up for the highly anticipated Federal Reserve rate decision and policy outlook, creating an atmosphere of cautious optimism in the market.",
       "exported_at": "2025-09-17T09:47:29.100201",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks like Rocket Mortgage could see the biggest gains as Fed drives down short-term rates",
+      "link": "https://www.cnbc.com/2025/09/17/rocket-mortgage-should-benefit-as-fed-drives-down-short-term-rates.html",
+      "summary": "CNBC Pro screened U.S. stocks to find those with the highest inverse correlation with the two-year Treasury yield over the past 10 years.",
+      "published": "Wed, 17 Sep 2025 13:45:53 GMT",
+      "content": "CNBC Pro screened U.S. stocks to find those with the highest inverse correlation with the two-year Treasury yield over the past 10 years.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e62bf4e3e05d16326f711da6cc06219c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS LIKE ROCKET MORTGAGE PRIMED FOR BIG GAINS AS FED CUTS RATES 🚀\n\n- CNBC Pro identifies US stocks inversely correlated with 2-year Treasury yield\n- Rocket Mortgage stands out as potential winner in rate-cut environment\n- Fed's reduction in short-term rates likely to boost selected stocks\n\nTAKEAWAY: Rocket Mortgage and similar stocks could experience significant growth as the Fed's rate cuts drive down short-term rates, presenting a promising opportunity for investors.",
+      "exported_at": "2025-09-17T09:52:37.884541",
       "continuous_session": true
     }
   ]
