@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T19:23:45.389826",
-    "total_articles": 1276,
-    "new_articles_in_last_fetch": 1276,
+    "created_at": "2025-09-17T19:39:01.224411",
+    "total_articles": 1277,
+    "new_articles_in_last_fetch": 1277,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -16583,6 +16583,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ABC PULLS 'JIMMY KIMMEL LIVE' OFF AIR INDEFINITELY ⚠️\n\n- ABC takes show off air over Jimmy Kimmel's controversial comments\n- Kimmel suggested accused killer aligned with Trump's MAGA movement\n- Network faces backlash for remarks linking Tyler Robinson to Charlie Kirk\n\nTAKEAWAY: ABC's decision to suspend 'Jimmy Kimmel Live' indefinitely follows controversial remarks linking accused killer to Trump's MAGA movement.",
       "exported_at": "2025-09-17T19:23:45.297086",
+      "continuous_session": true
+    },
+    {
+      "title": "Netskope prices IPO at $19, valuing company at $7.3 billion",
+      "link": "https://www.cnbc.com/2025/09/17/netskope-seeks-7point3-billion-valuation-as-it-prices-shares-at-19.html",
+      "summary": "The IPO market is experiencing a revival after a yearslong drought, with notable debuts from CoreWeave, Circle and Figma.",
+      "published": "Wed, 17 Sep 2025 23:26:27 GMT",
+      "content": "The IPO market is experiencing a revival after a yearslong drought, with notable debuts from CoreWeave, Circle and Figma.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2cf8f0be585b3d78ed6f313e3368f65d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NETSKOPE IPO PRICED AT $19, VALUED AT $7.3 BILLION 🚀\n\n- Netskope's IPO prices at $19, valuing the company at $7.3 billion 💸\n- Revival in the IPO market after a long drought 📈\n- Recent notable debuts from CoreWeave, Circle, and Figma 💥\n\nTAKEAWAY: Netskope's successful IPO pricing at $19, valuing the company at $7.3 billion, aligns with the thriving revival in the IPO market alongside debuts from other prominent companies.",
+      "exported_at": "2025-09-17T19:39:01.126528",
       "continuous_session": true
     }
   ]
