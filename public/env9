@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T21:24:58.284667",
-    "total_articles": 1158,
-    "new_articles_in_last_fetch": 1158,
+    "created_at": "2025-09-16T21:45:15.981108",
+    "total_articles": 1159,
+    "new_articles_in_last_fetch": 1159,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -15050,6 +15050,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CHINA'S RARE EARTHS CONTROL HITS EUROPEAN COMPANIES' POCKETS 💰\n\n- European Chamber of Commerce reports difficulty in accessing rare earths 🌍\n- Rare-earth export license approvals picked up this summer 📈\n- China's tight grip on rare earths impacting companies financially 💸\n\nTAKEAWAY: China's control over rare earths is causing financial losses for European companies as access becomes increasingly challenging, despite a brief pickup in export license approvals.",
       "exported_at": "2025-09-16T21:24:58.206855",
+      "continuous_session": true
+    },
+    {
+      "title": "Asia markets trade mixed after Wall Street declines as investors await Fed meeting decision",
+      "link": "https://www.cnbc.com/2025/09/17/asia-markets-updates-today-hang-seng-index-nikkei-225-kospi-asx-200-nifty-50-fed-decision-rates.html",
+      "summary": "Investors expect the U.S. Federal Reserve to cut interest rates at the end of its two-day meeting Wednesday stateside.",
+      "published": "Wed, 17 Sep 2025 01:43:05 GMT",
+      "content": "Investors expect the U.S. Federal Reserve to cut interest rates at the end of its two-day meeting Wednesday stateside.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c1fd63481aff2e3a937cdf547d461c99",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASIA MARKETS AWAIT FED DECISION AFTER WALL STREET LOSSES 🚀\n\n- Asia markets poised to mirror Wall Street's decline 📉\n- Investors anticipate U.S. Federal Reserve's rate cut decision 📉\n- All eyes on Fed's two-day meeting ending Wednesday 🧐\n- Market sentiment cautious ahead of Fed announcement 🚨\n- Expectation for interest rate cut driving investor behavior 🔥\n\nTAKEAWAY: Asia markets bracing for potential rate cut as investors eagerly await the U.S. Federal Reserve's decision, mirroring Wall Street's losses in anticipation.",
+      "exported_at": "2025-09-16T21:45:15.893558",
       "continuous_session": true
     }
   ]
