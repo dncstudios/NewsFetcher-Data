@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T05:27:28.038769",
-    "total_articles": 1180,
-    "new_articles_in_last_fetch": 1180,
+    "created_at": "2025-09-17T05:32:35.938054",
+    "total_articles": 1181,
+    "new_articles_in_last_fetch": 1181,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -15336,6 +15336,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TIM COOK OPTIMISTIC ABOUT APPLE'S U.S. MANUFACTURING SHIFT 🚀\n\n- Tim Cook pleased with progress on Apple's U.S. manufacturing shift 🇺🇸\n- Focus on stitching together end-to-end silicon supply chain in the U.S. ⚙️\n- Cook highlights positive strides in bringing more manufacturing to the U.S. 📈\n- Apple CEO expresses optimism in CNBC interview with Jim Cramer 🎙️\n- Emphasis on enhancing domestic production capabilities 🏭\n\nTAKEAWAY: Tim Cook's optimism about Apple's U.S. manufacturing shift signals positive progress in bringing more production capabilities to the United States. 🌟",
       "exported_at": "2025-09-17T05:27:27.949432",
+      "continuous_session": true
+    },
+    {
+      "title": "From royal pomp to Epstein embarrassment: Trump&apos;s UK state visit in pictures",
+      "link": "https://www.cnbc.com/2025/09/17/royal-pomp-galore-trumps-uk-state-visit-in-pictures.html",
+      "summary": "We'll be adding the best pictures of day two as President Donald Trump's state visit unfolds, so check back for further updates.",
+      "published": "Wed, 17 Sep 2025 09:31:09 GMT",
+      "content": "We'll be adding the best pictures of day two as President Donald Trump's state visit unfolds, so check back for further updates.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "88102a3476645113fa45d97e81148410",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP'S UK STATE VISIT IN PICTURES: ROYAL POMP TO EMBARRASSMENT 📸\n\n- Day two captures Trump's state visit moments 📸\n- Mix of royal pomp and Epstein embarrassment on display 🇬🇧\n- Stay tuned for updates on the unfolding state visit 🔄\n\nTAKEAWAY: Trump's UK state visit showcases a blend of royal ceremonies and controversial moments, with updates adding to the unfolding narrative.",
+      "exported_at": "2025-09-17T05:32:35.881462",
       "continuous_session": true
     }
   ]
