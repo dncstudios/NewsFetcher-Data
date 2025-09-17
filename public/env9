@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T12:56:18.032899",
-    "total_articles": 1232,
-    "new_articles_in_last_fetch": 1232,
+    "created_at": "2025-09-17T13:11:32.488523",
+    "total_articles": 1233,
+    "new_articles_in_last_fetch": 1233,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -16011,6 +16011,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JIM CRAMER PREDICTS ELI LILLY'S OBESITY PILL AS POTENTIAL 'LIFETIME DRUG' 💊\n\n- Jim Cramer sees Eli Lilly's obesity pill as long-term solution \n- Highlights potential for drug to replace injections \n- Considers persistence a current challenge for GLP-1 drugs \n\nTAKEAWAY: Jim Cramer anticipates Eli Lilly's obesity pill to revolutionize treatment, potentially becoming a lifetime drug for patients.",
       "exported_at": "2025-09-17T12:56:17.953158",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves midday: Lyft, Walmart, Nvidia, Baidu and more",
+      "link": "https://www.cnbc.com/2025/09/17/stocks-making-the-biggest-moves-midday-lyft-wmt-baba-bidu.html",
+      "summary": "These are the stocks posting the largest moves midday.",
+      "published": "Wed, 17 Sep 2025 17:07:39 GMT",
+      "content": "These are the stocks posting the largest moves midday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "610fdf93526534d8d25fdd901a223614",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS MAKING BIGGEST MIDDAY MOVES: LYFT, WALMART, NVIDIA, BAIDU 🚀\n\n- Lyft, Walmart, Nvidia, Baidu among top movers 📈\n- Significant price fluctuations observed midday 📊\n- Market volatility impacting various stock prices 💥\n\nTAKEAWAY: Keep an eye on Lyft, Walmart, Nvidia, Baidu, and other top movers for potential trading opportunities during midday trading.",
+      "exported_at": "2025-09-17T13:11:32.398279",
       "continuous_session": true
     }
   ]
