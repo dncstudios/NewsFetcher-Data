@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T11:50:00.811925",
-    "total_articles": 1225,
-    "new_articles_in_last_fetch": 1225,
+    "created_at": "2025-09-17T12:10:19.551323",
+    "total_articles": 1226,
+    "new_articles_in_last_fetch": 1226,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -15920,6 +15920,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NCAA COMMISSIONERS EXPLORE NEW REVENUE MODELS IN NIL ERA 🚀\n\n- NCAA leaders analyze revenue models amidst player payment changes 💸\n- Focus on creating new revenue streams and growth opportunities 📈\n- Embracing the shift towards compensating college athletes 💪\n- Private equity involvement considered for financial boost 💼\n- Colleges strategize to balance player payments with revenue growth 🎯\n\nTAKEAWAY: NCAA commissioners are navigating the shift towards compensating players while exploring new revenue models and potential private equity involvement for financial growth.",
       "exported_at": "2025-09-17T11:50:00.726683",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves midday: Lyft, Walmart, Nvidia, Baidu &amp; more",
+      "link": "https://www.cnbc.com/2025/09/17/stocks-making-the-biggest-moves-midday-lyft-wmt-baba-bidu.html",
+      "summary": "These are the stocks posting the largest moves midday.",
+      "published": "Wed, 17 Sep 2025 16:00:26 GMT",
+      "content": "These are the stocks posting the largest moves midday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "42ccc3ab0e0a07d9a159c75c60e1521b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS MAKING BIGGEST MIDDAY MOVES 🚀\n\n- Webtoon Entertainment, Steel Dynamics, Hims & Hers surge 📈\n- Companies experience significant midday stock fluctuations 📊\n- Webtoon Entertainment, Steel Dynamics, Hims & Hers in focus 🔍\n\nTAKEAWAY: Webtoon Entertainment, Steel Dynamics, Hims & Hers witness major midday stock movements, catching investors' attention.",
+      "exported_at": "2025-09-17T12:10:19.461508",
       "continuous_session": true
     }
   ]
