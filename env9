@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T05:32:35.938054",
-    "total_articles": 1181,
-    "new_articles_in_last_fetch": 1181,
+    "created_at": "2025-09-17T05:37:46.078648",
+    "total_articles": 1183,
+    "new_articles_in_last_fetch": 1183,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -15349,6 +15349,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP'S UK STATE VISIT IN PICTURES: ROYAL POMP TO EMBARRASSMENT 📸\n\n- Day two captures Trump's state visit moments 📸\n- Mix of royal pomp and Epstein embarrassment on display 🇬🇧\n- Stay tuned for updates on the unfolding state visit 🔄\n\nTAKEAWAY: Trump's UK state visit showcases a blend of royal ceremonies and controversial moments, with updates adding to the unfolding narrative.",
       "exported_at": "2025-09-17T05:32:35.881462",
+      "continuous_session": true
+    },
+    {
+      "title": "Fed rate cuts will make dividend stocks more appealing for income investors. Here are a few standouts",
+      "link": "https://www.cnbc.com/2025/09/16/fed-rate-cuts-will-make-dividend-stocks-more-appealing-for-income-investors-here-are-a-few-standouts.html",
+      "summary": "With the Federal Reserve expected to cut rates on Wednesday, investors may want to check out certain dividend stocks. Here are some top picks from the pros",
+      "published": "Tue, 16 Sep 2025 19:01:07 GMT",
+      "content": "With the Federal Reserve expected to cut rates on Wednesday, investors may want to check out certain dividend stocks. Here are some top picks from the pros",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "15260eabb48b8ec15ed3fde7238daab6",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FED RATE CUTS BOOST DIVIDEND STOCK APPEAL FOR INCOME INVESTORS 🚀\n\n- Federal Reserve set to cut rates, making dividend stocks attractive 💰\n- Income investors eye top dividend stock picks for potential gains 📈\n- Market pros recommend specific dividend stocks for investor consideration ✅\n\nTAKEAWAY: Federal Reserve rate cuts are set to increase the appeal of dividend stocks for income investors, with market experts highlighting specific top picks for potential gains.",
+      "exported_at": "2025-09-17T05:37:45.996583",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump pushes for companies to report earnings less frequently. Here are both sides of the debate",
+      "link": "https://www.cnbc.com/2025/09/16/trump-pushes-for-companies-to-report-earnings-less-frequently-here-are-both-sides-of-the-debate.html",
+      "summary": "Investors should want management teams to focus on the long-term. But transparency matters too.",
+      "published": "Tue, 16 Sep 2025 19:37:02 GMT",
+      "content": "Investors should want management teams to focus on the long-term. But transparency matters too.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1c9104fb552407e615b619b89db7f3a8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP'S PUSH FOR LESS FREQUENT EARNINGS REPORTS: PROS AND CONS ⚠️\n\n- Trump advocates for companies to report earnings less frequently 📉\n- Emphasizes the need for management to prioritize long-term goals 🎯\n- Critics argue that transparency from frequent reports is essential 📊\n- Balancing long-term strategy with timely transparency is debated 🤔\n\nTAKEAWAY: Trump's call for less frequent earnings reports sparks debate on balancing long-term focus with the necessity for transparency in financial reporting.",
+      "exported_at": "2025-09-17T05:37:45.996671",
       "continuous_session": true
     }
   ]
