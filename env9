@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T14:02:38.076916",
-    "total_articles": 1238,
-    "new_articles_in_last_fetch": 1238,
+    "created_at": "2025-09-17T14:07:48.561668",
+    "total_articles": 1240,
+    "new_articles_in_last_fetch": 1240,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -16089,6 +16089,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FED CUTS RATES BY 0.25% WITH 2 MORE CUTS AHEAD 🚀\n\n- Federal Reserve approves quarter-point interest rate cut ✂️\n- Two more rate cuts expected later this year 📉\n- Decision follows updated economic projections release 💼\n\nTAKEAWAY: The Federal Reserve's approval of a quarter-point interest rate cut, with two more expected this year, signals proactive economic strategies ahead.",
       "exported_at": "2025-09-17T14:02:38.001042",
+      "continuous_session": true
+    },
+    {
+      "title": "Dow jumps 400 points as Fed lowers rates and forecasts two more cuts this year: Live updates",
+      "link": "https://www.cnbc.com/2025/09/16/stock-market-today-live-updates.html",
+      "summary": "Stocks were mixed after the Fed's much-anticipated monetary policy decision.",
+      "published": "Wed, 17 Sep 2025 18:07:33 GMT",
+      "content": "Stocks were mixed after the Fed's much-anticipated monetary policy decision.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7a667cad7d27d2b9497f5b450c7d0362",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DOW SOARS 400 POINTS AS FED CUTS RATES AND FORECASTS FURTHER DROPS 🚀\n\n- Dow surges following Fed's rate cut and prediction of two more cuts 🔥\n- Market sees mixed stocks post-Fed's impactful monetary policy move ✅\n- Investors react positively to Fed's decision, boosting market confidence 📈\n- Fed's move aligns with expectations, setting a positive tone for future cuts ✅\n- Anticipation grows for upcoming economic shifts with Fed's proactive stance 📊\n- Market sentiment reflects optimism and stability post-Fed's announcement ✅\n\nTAKEAWAY: The Dow's impressive 400-point surge reflects market optimism as the Fed lowers rates and hints at more cuts, setting a positive tone for future economic developments.",
+      "exported_at": "2025-09-17T14:07:48.485159",
+      "continuous_session": true
+    },
+    {
+      "title": "Fed rate cut: Here’s what it means for your mortgage rate, credit cards, savings accounts and more",
+      "link": "https://www.cnbc.com/2025/09/17/federal-reserve-cuts-interest-rates-heres-what-that-means-for-you.html",
+      "summary": "The Federal Reserve cut its benchmark by a quarter point. Here’s what that means for the borrowing and savings rates you pay.",
+      "published": "Wed, 17 Sep 2025 18:01:41 GMT",
+      "content": "The Federal Reserve cut its benchmark by a quarter point. Here’s what that means for the borrowing and savings rates you pay.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f50ebd9153aba894615cf83df1cbe7c7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FED RATE CUT: IMPACT ON MORTGAGES, CREDIT CARDS, SAVINGS 🚀\n\n- Federal Reserve slashes benchmark rate by a quarter point ⚡️\n- Mortgage rates, credit card interest, and savings rates affected ✅\n- Borrowers could benefit from lower interest on mortgages and cards 💰\n- Savers might see lower returns on their savings accounts 📉\n- Impact varies depending on individual financial situations 🔄\n- Overall shift in borrowing and saving costs in the market ⚠️\n\nTAKEAWAY: The recent Federal Reserve rate cut will influence mortgage rates, credit card interest, and savings returns, impacting borrowers and savers differently. 🏦",
+      "exported_at": "2025-09-17T14:07:48.485240",
       "continuous_session": true
     }
   ]
