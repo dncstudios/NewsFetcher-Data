@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T02:50:02.989509",
-    "total_articles": 1174,
-    "new_articles_in_last_fetch": 1174,
+    "created_at": "2025-09-17T03:20:31.221685",
+    "total_articles": 1175,
+    "new_articles_in_last_fetch": 1175,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -15258,6 +15258,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BAIDU SOARS 16% TO HIT 2-YEAR HIGHS ON AI PARTNERSHIP 🚀\n\n- Baidu shares surge 16% on AI expansion 📈\n- Company strengthens AI plans and partnerships 💪\n- Achieves 2-year high amidst tech advancements 🚀\n\nTAKEAWAY: Baidu's 16% surge to 2-year highs reflects investor excitement over its AI initiatives and strategic partnerships, signaling a strong growth trajectory.",
       "exported_at": "2025-09-17T02:50:02.908517",
+      "continuous_session": true
+    },
+    {
+      "title": "Fund manager reveals the rule that made him a 2,000% return on one stock",
+      "link": "https://www.cnbc.com/2025/09/17/fund-manager-reveals-the-rule-that-made-him-a-2000percent-return-on-one-stock.html",
+      "summary": "A divisive investment strategy helped Boston Partners' Christopher Hart secure massive returns on a German defense prime.",
+      "published": "Wed, 17 Sep 2025 07:10:07 GMT",
+      "content": "A divisive investment strategy helped Boston Partners' Christopher Hart secure massive returns on a German defense prime.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8b415250fe0bc98d776a1c6254648729",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FUND MANAGER'S SECRET RULE LEADS TO 2,000% RETURN ON SINGLE STOCK 🚀\n\n- Boston Partners' Christopher Hart's strategy yields 2,000% return 📈\n- Divisive investment approach pays off with German defense prime 🎯\n- Hart's rule unlocks massive success in stock market 🌟\n\nTAKEAWAY: Christopher Hart's unique investment strategy unlocks a staggering 2,000% return on a single stock, showcasing the power of a well-crafted rule in the stock market.",
+      "exported_at": "2025-09-17T03:20:31.147232",
       "continuous_session": true
     }
   ]
