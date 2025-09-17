@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T19:03:24.113760",
-    "total_articles": 1274,
-    "new_articles_in_last_fetch": 1274,
+    "created_at": "2025-09-17T19:08:29.968287",
+    "total_articles": 1275,
+    "new_articles_in_last_fetch": 1275,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -16557,6 +16557,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ABC PULLS 'JIMMY KIMMEL LIVE' OFF AIR INDEFINITELY ⚠️\n\n- ABC takes action after Jimmy Kimmel's controversial comments 🚨\n- Kimmel links accused killer to Trump's MAGA movement 💥\n- Show suspended indefinitely due to the remarks 🛑\n\nTAKEAWAY: ABC's decision to pull 'Jimmy Kimmel Live' off air indefinitely highlights the repercussions of controversial remarks made by the host.",
       "exported_at": "2025-09-17T19:03:24.031811",
+      "continuous_session": true
+    },
+    {
+      "title": "ABC pulls &apos;Jimmy Kimmel Live&apos; off air &apos;indefinitely&apos; over Charlie Kirk comments",
+      "link": "https://www.cnbc.com/2025/09/17/charlie-kirk-jimmy-kimmel-abc-disney.html",
+      "summary": "Jimmy Kimmel had suggested that Tyler Robinson, the man accused of killing Charlie Kirk, was aligned with President Donald Trump's MAGA movement.",
+      "published": "Wed, 17 Sep 2025 23:04:59 GMT",
+      "content": "Jimmy Kimmel had suggested that Tyler Robinson, the man accused of killing Charlie Kirk, was aligned with President Donald Trump's MAGA movement.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0dc86679ff3d28a12997f22c2cfef283",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ABC PULLS 'JIMMY KIMMEL LIVE' OFF AIR INDEFINITELY ⚠️\n\n- ABC takes action after Jimmy Kimmel's controversial comments 🚨\n- Kimmel links accused killer to Trump's MAGA movement 💥\n- Show suspended indefinitely due to the remarks 🛑\n\nTAKEAWAY: ABC's decision to pull 'Jimmy Kimmel Live' off air indefinitely highlights the repercussions of controversial remarks made by the host.",
+      "exported_at": "2025-09-17T19:08:29.884585",
       "continuous_session": true
     }
   ]
