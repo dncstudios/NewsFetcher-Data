@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T15:14:04.059544",
-    "total_articles": 1250,
-    "new_articles_in_last_fetch": 1250,
+    "created_at": "2025-09-17T15:19:15.634332",
+    "total_articles": 1253,
+    "new_articles_in_last_fetch": 1253,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -16245,6 +16245,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: DOW SOARS 400 POINTS AS FED CUTS RATES AND FORECASTS FURTHER DROPS 🚀\n\n- Dow surges following Fed's rate cut and prediction of two more cuts 🔥\n- Market sees mixed stocks post-Fed's impactful monetary policy move ✅\n- Investors react positively to Fed's decision, boosting market confidence 📈\n- Fed's move aligns with expectations, setting a positive tone for future cuts ✅\n- Anticipation grows for upcoming economic shifts with Fed's proactive stance 📊\n- Market sentiment reflects optimism and stability post-Fed's announcement ✅\n\nTAKEAWAY: The Dow's impressive 400-point surge reflects market optimism as the Fed lowers rates and hints at more cuts, setting a positive tone for future economic developments.",
       "exported_at": "2025-09-17T15:14:03.970390",
+      "continuous_session": true
+    },
+    {
+      "title": "Dow adds 200 points, S&amp;P 500 falls after Fed delivers widely expected rate cut: Live updates",
+      "link": "https://www.cnbc.com/2025/09/16/stock-market-today-live-updates.html",
+      "summary": "Stocks were mixed after the Fed's much-anticipated monetary policy decision.",
+      "published": "Wed, 17 Sep 2025 19:16:11 GMT",
+      "content": "Stocks were mixed after the Fed's much-anticipated monetary policy decision.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "12f0bd0529a1284f9c5c5801efa249db",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DOW SOARS 400 POINTS AS FED CUTS RATES AND FORECASTS FURTHER DROPS 🚀\n\n- Dow surges following Fed's rate cut and prediction of two more cuts 🔥\n- Market sees mixed stocks post-Fed's impactful monetary policy move ✅\n- Investors react positively to Fed's decision, boosting market confidence 📈\n- Fed's move aligns with expectations, setting a positive tone for future cuts ✅\n- Anticipation grows for upcoming economic shifts with Fed's proactive stance 📊\n- Market sentiment reflects optimism and stability post-Fed's announcement ✅\n\nTAKEAWAY: The Dow's impressive 400-point surge reflects market optimism as the Fed lowers rates and hints at more cuts, setting a positive tone for future economic developments.",
+      "exported_at": "2025-09-17T15:19:15.551203",
+      "continuous_session": true
+    },
+    {
+      "title": "The 10 best countries for expats, based on job security, housing, quality of life and more—the U.S. didn&apos;t even make the top 20",
+      "link": "https://www.cnbc.com/2025/09/17/best-countries-for-expats-internations-expat-survey.html",
+      "summary": "InterNations conducted the Expat Insider 2025 survey from February 1 to February 28, 2025 and ranked 46 countries.",
+      "published": "Wed, 17 Sep 2025 18:00:01 GMT",
+      "content": "InterNations conducted the Expat Insider 2025 survey from February 1 to February 28, 2025 and ranked 46 countries.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e49b6ff3eb26ec9dc3b33eb12ba87a95",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: THE 10 BEST COUNTRIES FOR EXPATS REVEALED, U.S. NOT IN TOP 20 🌍\n\n- Expat Insider 2025 survey ranks 46 countries for expats 📊\n- Top countries excel in job security, housing, quality of life 🏡\n- U.S. fails to make it to the top 20 list 🇺🇸❌\n\nTAKEAWAY: Despite the U.S. not making the top 20, other countries are shining for expats with superior job security, housing, and quality of life.",
+      "exported_at": "2025-09-17T15:19:15.551279",
+      "continuous_session": true
+    },
+    {
+      "title": "Bitcoin is up around 100% over the past year, but is it worth adding to your retirement account? What experts say",
+      "link": "https://www.cnbc.com/2025/09/17/what-experts-say-about-adding-crypto-to-retirement-savings-accounts.html",
+      "summary": "Financial pros are warming up to the idea of investing in digital assets in retirement accounts. They just recommend setting up a few guardrails first.",
+      "published": "Wed, 17 Sep 2025 18:47:00 GMT",
+      "content": "Financial pros are warming up to the idea of investing in digital assets in retirement accounts. They just recommend setting up a few guardrails first.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e281f472dc292f545d15e9bbefd1f67f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BITCOIN SOARS 100% IN A YEAR! SHOULD IT JOIN YOUR RETIREMENT ACCOUNT? 🚀\n\n- Bitcoin's value has surged by 100% in the past year 📈\n- Financial experts are considering adding digital assets to retirement accounts 💼\n- Caution advised; experts suggest setting up protective measures 🛡️\n\nTAKEAWAY: With Bitcoin's remarkable 100% growth, experts are cautiously exploring its inclusion in retirement accounts, emphasizing the need for protective strategies.",
+      "exported_at": "2025-09-17T15:19:15.551293",
       "continuous_session": true
     }
   ]
