@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T07:50:15.323880",
-    "total_articles": 1195,
-    "new_articles_in_last_fetch": 1195,
+    "created_at": "2025-09-17T08:05:30.792732",
+    "total_articles": 1196,
+    "new_articles_in_last_fetch": 1196,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -15531,6 +15531,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BANK OF AMERICA RAISES PRICE TARGET FOR WALMART, LABELS IT 'AGENTIC AI' LEADER 🚀\n\n- Bank of America increases Walmart's price target to $125 💰\n- Analyst Robert Ohmes maintains buy rating for Walmart 🌟\n- Ohmes praises Walmart as an emerging 'agentic AI' leader 🤖\n\nTAKEAWAY: Bank of America's bullish stance on Walmart, with a raised price target and recognition as an 'agentic AI' leader, reflects optimism in the retail giant's future potential.",
       "exported_at": "2025-09-17T07:50:15.247750",
+      "continuous_session": true
+    },
+    {
+      "title": "Citi raises price target on McDonald’s to highest on Wall Street, calls for more than 25% upside",
+      "link": "https://www.cnbc.com/2025/09/17/citi-raises-price-target-on-mcdonalds-to-highest-on-wall-street-calls-for-more-than-25percent-upside.html",
+      "summary": "Citi's new price target sees shares of McDonald's rallying 26% from their Tuesday close.",
+      "published": "Wed, 17 Sep 2025 12:00:41 GMT",
+      "content": "Citi's new price target sees shares of McDonald's rallying 26% from their Tuesday close.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1f62603faa2bc1f978cafa8a8e520056",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CITI BOOSTS MCDONALD'S PRICE TARGET TO WALL STREET HIGH 🚀\n\n- Citi raises McDonald's price target for >25% upside 📈\n- New target forecasts 26% rally from Tuesday close 🚀\n- McDonald's shares expected to soar with Citi's bullish call 🔥\n\nTAKEAWAY: Citi's bold move to raise McDonald's price target to the highest on Wall Street signals a strong bullish sentiment with expectations of significant upside potential.",
+      "exported_at": "2025-09-17T08:05:30.714419",
       "continuous_session": true
     }
   ]
