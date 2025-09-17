@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T12:25:43.767308",
-    "total_articles": 1229,
-    "new_articles_in_last_fetch": 1229,
+    "created_at": "2025-09-17T12:51:10.197522",
+    "total_articles": 1231,
+    "new_articles_in_last_fetch": 1231,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -15972,6 +15972,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STUBHUB IPO OPENS STRONG AT $25.35 ON NYSE 🚀\n\n- StubHub's stock debuts at $25.35 on NYSE 📈\n- Company priced shares in middle of expected range 💰\n- IPO delayed twice before finally launching 🔄\n\nTAKEAWAY: StubHub's long-awaited IPO finally kicks off with a strong opening at $25.35 on the NYSE, meeting market expectations.",
       "exported_at": "2025-09-17T12:25:43.682707",
+      "continuous_session": true
+    },
+    {
+      "title": "Sales of heavy trucks are falling like the U.S. is headed for a recession",
+      "link": "https://www.cnbc.com/2025/09/17/sales-of-heavy-trucks-are-falling-like-the-us-is-headed-for-a-recession.html",
+      "summary": "Heavy trucks sales have dropped to levels not seen in four years, according to the U.S. Bureau of Economic Analysis.",
+      "published": "Wed, 17 Sep 2025 16:43:04 GMT",
+      "content": "Heavy trucks sales have dropped to levels not seen in four years, according to the U.S. Bureau of Economic Analysis.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "867cc79994c3b5d4e865c429fb013b59",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: HEAVY TRUCK SALES PLUMMET, RAISING RECESSION CONCERNS 📉\n\n- Heavy truck sales hit 4-year low 📉\n- Sales decline signals economic downturn 📉\n- U.S. Bureau of Economic Analysis reports alarming drop 📉\n\nTAKEAWAY: The significant decline in heavy truck sales to a 4-year low raises concerns about a possible recession in the U.S. 📉",
+      "exported_at": "2025-09-17T12:51:10.106692",
+      "continuous_session": true
+    },
+    {
+      "title": "American mom spent $5,000 to stay in Taiwan&apos;s postpartum care centers: &apos;Every woman deserves this type of experience&apos;",
+      "link": "https://www.cnbc.com/2025/09/17/american-mom-spent-5000-to-stay-in-taiwans-postpartum-care-centers.html",
+      "summary": "Katie Lee had her second baby, Ruby, while on a 13-month career break and living in Taipei.",
+      "published": "Wed, 17 Sep 2025 16:37:45 GMT",
+      "content": "Katie Lee had her second baby, Ruby, while on a 13-month career break and living in Taipei.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0faa3e5a0b56b5ed0e131929a9df5a22",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AMERICAN MOM'S $5,000 STAY IN TAIWAN'S POSTPARTUM CARE CENTERS 🌟\n\n- Katie Lee spends $5,000 for postpartum care in Taiwan 🤱\n- Enjoyed luxurious experience during 13-month career break 💆‍♀️\n- Believes every woman deserves such care after childbirth 💖\n- Gave birth to her second baby, Ruby, in Taipei 🌆\n- Highlights the importance of postpartum care for mothers 🌺\n\nTAKEAWAY: Katie Lee's $5,000 experience in Taiwan's postpartum care centers showcases the value of luxurious care for new mothers and advocates for its importance worldwide.",
+      "exported_at": "2025-09-17T12:51:10.106760",
       "continuous_session": true
     }
   ]
