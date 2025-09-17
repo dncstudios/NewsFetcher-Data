@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T12:10:19.551323",
-    "total_articles": 1226,
-    "new_articles_in_last_fetch": 1226,
+    "created_at": "2025-09-17T12:15:31.061780",
+    "total_articles": 1228,
+    "new_articles_in_last_fetch": 1228,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -15933,6 +15933,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCKS MAKING BIGGEST MIDDAY MOVES 🚀\n\n- Webtoon Entertainment, Steel Dynamics, Hims & Hers surge 📈\n- Companies experience significant midday stock fluctuations 📊\n- Webtoon Entertainment, Steel Dynamics, Hims & Hers in focus 🔍\n\nTAKEAWAY: Webtoon Entertainment, Steel Dynamics, Hims & Hers witness major midday stock movements, catching investors' attention.",
       "exported_at": "2025-09-17T12:10:19.461508",
+      "continuous_session": true
+    },
+    {
+      "title": "These stocks gain the most after the Fed cuts rates",
+      "link": "https://www.cnbc.com/2025/09/17/these-stocks-gain-the-most-after-the-fed-cuts-rates.html",
+      "summary": "Reflexivity found the stocks that have historically seen strong moves following easier monetary policy from the central bank.",
+      "published": "Wed, 17 Sep 2025 16:05:53 GMT",
+      "content": "Reflexivity found the stocks that have historically seen strong moves following easier monetary policy from the central bank.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "420486e56fc4ab861a49ea7f12638703",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: THESE STOCKS SURGE AFTER FED RATE CUTS 🚀\n\n- Stocks historically soar post central bank rate reductions 📈\n- Reflexivity identifies top performers after easier monetary policy 📊\n- Strong moves observed in stocks following Fed's rate cuts 💪\n\nTAKEAWAY: Reflexivity's analysis reveals stocks that historically thrive after the Fed cuts rates, indicating potential strong performances ahead.",
+      "exported_at": "2025-09-17T12:15:30.971044",
+      "continuous_session": true
+    },
+    {
+      "title": "Ten years after selling Periscope to Twitter, startup&apos;s co-founder raises $40 million for Macroscope",
+      "link": "https://www.cnbc.com/2025/09/17/periscopes-beykpour-raises-40-million-for-macroscope-to-track-code.html",
+      "summary": "Kayvon Beykpour said he built Macroscope because of how difficult it was to track what developers were working on at Twitter.",
+      "published": "Wed, 17 Sep 2025 16:00:01 GMT",
+      "content": "Kayvon Beykpour said he built Macroscope because of how difficult it was to track what developers were working on at Twitter.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c6da282fd75fe970999e90311bba8645",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: KAYVON BEYKPOUR RAISES $40M FOR MACROSCOPE 🚀\n\n- Co-founder of Periscope secures $40 million for Macroscope 💰\n- Beykpour founded Macroscope due to tracking challenges at Twitter 📈\n- Funding signals strong investor confidence in Beykpour's vision 💪\n\nTAKEAWAY: Kayvon Beykpour's $40 million funding for Macroscope reflects investor belief in his ability to tackle developer tracking challenges post-Periscope.",
+      "exported_at": "2025-09-17T12:15:30.971127",
       "continuous_session": true
     }
   ]
