@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T00:02:17.803990",
-    "total_articles": 1164,
-    "new_articles_in_last_fetch": 1164,
+    "created_at": "2025-09-17T00:42:52.016946",
+    "total_articles": 1165,
+    "new_articles_in_last_fetch": 1165,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -15128,6 +15128,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: MICROSOFT INVESTS $30 BILLION IN UK AI INFRASTRUCTURE 🚀\n\n- Microsoft boosts AI investments in the UK 🇬🇧\n- $30 billion allocated for AI infrastructure and operations 💰\n- Expansion coincides with President Trump's state visit 🌐\n- Strategic move to enhance AI capabilities in the UK 📈\n- Demonstrates commitment to advancing technology in the region ✅\n- Aim to strengthen partnerships and drive innovation 🚀\n\nTAKEAWAY: Microsoft's substantial investment in UK AI infrastructure showcases a strategic commitment to advancing technology and driving innovation in the region.",
       "exported_at": "2025-09-17T00:02:17.608437",
+      "continuous_session": true
+    },
+    {
+      "title": "China&apos;s Baidu soars 16% to hit 2-year highs as company secures AI partnership, launches debt sale",
+      "link": "https://www.cnbc.com/2025/09/17/baidu-shares-ai-partnership-fresh-capital-.html",
+      "summary": "Chinese tech giant Baidu saw its shares jump over 12% amid signs the company is ramping up its artificial intelligence plans and partnerships.",
+      "published": "Wed, 17 Sep 2025 04:39:03 GMT",
+      "content": "Chinese tech giant Baidu saw its shares jump over 12% amid signs the company is ramping up its artificial intelligence plans and partnerships.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "02517c711ca84e5424aa44e08a148f43",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BAIDU SHARES SOAR 12% ON AI PARTNERSHIP 🚀\n\n- Baidu's shares surge 12% on AI partnership news 📈\n- Company intensifies AI efforts with new collaborations 🔥\n- Investors bullish as Baidu eyes fresh capital injection 💰\n- Baidu solidifies position as a tech giant in China 🇨🇳\n- Market responds positively to Baidu's AI expansion strategy ✅\n\nTAKEAWAY: Baidu's 12% share price surge reflects investor excitement over the company's AI partnership and growth prospects, solidifying its position as a major player in the tech industry.",
+      "exported_at": "2025-09-17T00:42:51.928332",
       "continuous_session": true
     }
   ]
