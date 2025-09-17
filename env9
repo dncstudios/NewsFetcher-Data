@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T10:33:16.258705",
-    "total_articles": 1211,
-    "new_articles_in_last_fetch": 1211,
+    "created_at": "2025-09-17T10:38:27.287539",
+    "total_articles": 1213,
+    "new_articles_in_last_fetch": 1213,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -15739,6 +15739,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCKS LIKE ROCKET MORTGAGE PRIMED FOR BIG GAINS AS FED CUTS RATES 🚀\n\n- CNBC Pro identifies US stocks inversely correlated with 2-year Treasury yield\n- Rocket Mortgage stands out as potential winner in rate-cut environment\n- Fed's reduction in short-term rates likely to boost selected stocks\n\nTAKEAWAY: Rocket Mortgage and similar stocks could experience significant growth as the Fed's rate cuts drive down short-term rates, presenting a promising opportunity for investors.",
       "exported_at": "2025-09-17T10:33:16.181274",
+      "continuous_session": true
+    },
+    {
+      "title": "Amazon invests over $1 billion to raise employee pay, lower health-care costs",
+      "link": "https://www.cnbc.com/2025/09/17/amazon-invests-1-billion-to-raise-worker-pay-lower-health-care-costs.html",
+      "summary": "Amazon said it is investing more than $1 billion to raise pay and lower health-care costs for U.S. fulfillment and transportation employees.",
+      "published": "Wed, 17 Sep 2025 14:27:43 GMT",
+      "content": "Amazon said it is investing more than $1 billion to raise pay and lower health-care costs for U.S. fulfillment and transportation employees.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "558db9b5428cc3cd09a3284324c48de0",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AMAZON INVESTS $1B TO BOOST EMPLOYEE PAY AND CUT HEALTH-CARE COSTS 🚀\n\n- Amazon commits $1 billion to increase pay for U.S. fulfillment and transportation workers 💰\n- Aim to lower health-care expenses and enhance benefits for employees 🩺\n- Investment reflects Amazon's dedication to employee well-being and satisfaction ✅\n\nTAKEAWAY: Amazon's massive $1 billion investment in employee pay and health-care cost reduction demonstrates a strong commitment to enhancing worker benefits and overall satisfaction.",
+      "exported_at": "2025-09-17T10:38:27.187305",
+      "continuous_session": true
+    },
+    {
+      "title": "‘No tax on tips’ offers financial planning opportunities. But don’t make ‘major moves’ yet, pro says — here&apos;s why",
+      "link": "https://www.cnbc.com/2025/09/17/no-tax-on-tips-planning-opportunities.html",
+      "summary": "President Donald Trump's \"no tax on tips\" deduction offers financial planning opportunities for some workers. But here's what to know first.",
+      "published": "Wed, 17 Sep 2025 14:24:21 GMT",
+      "content": "President Donald Trump's \"no tax on tips\" deduction offers financial planning opportunities for some workers. But here's what to know first.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fa954b8962f29457b205e59e879dd25d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 'NO TAX ON TIPS' OPENS DOORS FOR FINANCIAL PLANNING OPPORTUNITIES ⚡️\n\n- Trump's \"no tax on tips\" deduction benefits some workers 💰\n- Financial planning opportunities arise for eligible individuals ✅\n- Caution advised before making significant financial decisions ⚠️\n- Understand implications and eligibility criteria before acting 📈\n- Seek professional advice to maximize benefits and avoid risks 🎯\n\nTAKEAWAY: Trump's \"no tax on tips\" policy creates new financial planning avenues, but caution and expert guidance are crucial before making major decisions.",
+      "exported_at": "2025-09-17T10:38:27.187371",
       "continuous_session": true
     }
   ]
