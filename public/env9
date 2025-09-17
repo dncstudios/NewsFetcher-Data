@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T15:19:15.634332",
-    "total_articles": 1253,
-    "new_articles_in_last_fetch": 1253,
+    "created_at": "2025-09-17T15:24:28.135635",
+    "total_articles": 1256,
+    "new_articles_in_last_fetch": 1256,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -16284,6 +16284,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BITCOIN SOARS 100% IN A YEAR! SHOULD IT JOIN YOUR RETIREMENT ACCOUNT? 🚀\n\n- Bitcoin's value has surged by 100% in the past year 📈\n- Financial experts are considering adding digital assets to retirement accounts 💼\n- Caution advised; experts suggest setting up protective measures 🛡️\n\nTAKEAWAY: With Bitcoin's remarkable 100% growth, experts are cautiously exploring its inclusion in retirement accounts, emphasizing the need for protective strategies.",
       "exported_at": "2025-09-17T15:19:15.551293",
+      "continuous_session": true
+    },
+    {
+      "title": "How to maximize your income now that Federal Reserve has cut rates",
+      "link": "https://www.cnbc.com/2025/09/17/how-to-maximize-your-income-now-that-federal-reserve-has-cut-rates.html",
+      "summary": "Yields on cash-equivariant assets will fall. Here's where experts say you can go for still solid income.",
+      "published": "Wed, 17 Sep 2025 19:01:05 GMT",
+      "content": "Yields on cash-equivariant assets will fall. Here's where experts say you can go for still solid income.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a389b8b4142a1c72243ecfa144166ad0",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MAXIMIZE INCOME POST FED RATE CUT 🚀\n\n- Cash-equivalent asset yields dropping post Federal Reserve cut 📉\n- Experts recommend alternative income sources 📈\n- Seek higher-yield investments for solid income 💰\n- Diversify portfolio to maximize income potential 🌟\n\nTAKEAWAY: With cash-equivalent asset yields decreasing, experts advise exploring alternative higher-yield investments and diversifying portfolios to maximize income potential.",
+      "exported_at": "2025-09-17T15:24:28.052132",
+      "continuous_session": true
+    },
+    {
+      "title": "As U.S. jobs disappear, the Federal Reserve returns to rate cuts",
+      "link": "https://www.cnbc.com/2025/09/17/as-us-jobs-disappear-the-federal-reserve-returns-to-rate-cuts.html",
+      "summary": "The U.S. labor market is producing relatively few jobs. In response, the Federal Reserve is lowering short-term interest rates to stimulate economic growth.",
+      "published": "Wed, 17 Sep 2025 19:16:30 GMT",
+      "content": "The U.S. labor market is producing relatively few jobs. In response, the Federal Reserve is lowering short-term interest rates to stimulate economic growth.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d1e77a78b243a6ac63692fd029ea2acc",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FED CUTS RATES AMID U.S. JOB DECLINE 📉\n\n- U.S. jobs decrease, prompting Federal Reserve rate cuts 🇺🇸\n- Fed aims to boost economic growth with lower interest rates 💸\n- Move reflects concerns over sluggish labor market 📉\n- Short-term rates reduced to stimulate economy 📉💼\n- Fed's action a response to limited job creation 📊\n- Focus on stimulating growth amidst job scarcity 🌱\n\nTAKEAWAY: With U.S. job numbers declining, the Federal Reserve's decision to cut rates aims to jumpstart economic growth and tackle labor market challenges head-on.",
+      "exported_at": "2025-09-17T15:24:28.052200",
+      "continuous_session": true
+    },
+    {
+      "title": "A bipartisan proposal to fight elder financial abuse is moving in Congress. How it would work",
+      "link": "https://www.cnbc.com/2025/09/17/bipartisan-proposal-to-fight-elder-financial-abuse-gets-attention-in-congress.html",
+      "summary": "Older adults lose billions every year due to financial fraud. Congressional lawmakers have a proposal to make it more difficult to perpetrate those scams.",
+      "published": "Wed, 17 Sep 2025 19:09:23 GMT",
+      "content": "Older adults lose billions every year due to financial fraud. Congressional lawmakers have a proposal to make it more difficult to perpetrate those scams.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "edd5870609bc65a267120fff6186d27a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BIPARTISAN BILL TO COMBAT ELDER FINANCIAL ABUSE MOVES IN CONGRESS ⚡️\n\n- Proposal aims to reduce financial fraud targeting older adults 💸\n- Congressional lawmakers working on measures to prevent scams 🛡️\n- Bill designed to make perpetrating scams on seniors harder 🔒\n- Older adults lose billions annually to financial fraud 📉\n- Focus on protecting seniors from falling victim to scams 💪\n- Potential impact on reducing financial losses among older population ✅\n\nTAKEAWAY: Congress's bipartisan proposal to combat elder financial abuse signals a crucial step towards protecting seniors from scams and reducing financial losses in the older population.",
+      "exported_at": "2025-09-17T15:24:28.052225",
       "continuous_session": true
     }
   ]
