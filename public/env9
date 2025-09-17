@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T10:48:45.776284",
-    "total_articles": 1215,
-    "new_articles_in_last_fetch": 1215,
+    "created_at": "2025-09-17T11:09:08.586341",
+    "total_articles": 1218,
+    "new_articles_in_last_fetch": 1218,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -15791,6 +15791,44 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: 🚀 BULLISH OPTIONS PLAY ON BANKING GIANT IN TURNAROUND MODE\n\n- Options trader Tony Zhang suggests call vertical strategy 🔥\n- Banking giant undergoing a turnaround 📈\n- Call options offer potential upside 📊\n\nTAKEAWAY: Options trader Tony Zhang recommends a bullish call vertical strategy on the banking giant currently undergoing a turnaround, highlighting potential upside opportunities.",
       "exported_at": "2025-09-17T10:48:45.685303",
+      "continuous_session": true
+    },
+    {
+      "title": "&apos;That&apos;s cute&apos;: Frontier CEO fires back at United CEO declaring discount airline model dead",
+      "link": "https://www.cnbc.com/2025/09/17/frontier-united-discount-airlines-barry-biffle.html",
+      "summary": "Frontier Airlines CEO fired back at United's CEO for saying the discount airline model is dead in the United States.",
+      "published": "Wed, 17 Sep 2025 15:02:34 GMT",
+      "content": "Frontier Airlines CEO fired back at United's CEO for saying the discount airline model is dead in the United States.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1713660ffc4f3f5c805bb25de38a72a4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 'THAT'S CUTE': FRONTIER CEO CLAPS BACK AT UNITED CEO 🚀\n\n- Frontier CEO challenges United's CEO on discount airline model 💪\n- United CEO declared discount airline model dead in the US 💀\n- Frontier Airlines defends the vitality of discount airline model ✈️\n- Clash of opinions ignites between Frontier and United 🔥\n\nTAKEAWAY: Frontier Airlines CEO stands firm in defending the discount airline model, clapping back at United's CEO's declaration of its demise.",
+      "exported_at": "2025-09-17T11:09:08.493889",
+      "continuous_session": true
+    },
+    {
+      "title": "DOJ sues Rhode Island over student loan forgiveness program, alleging racial discrimination",
+      "link": "https://www.cnbc.com/2025/09/17/student-loan-forgiveness-rhode-island-doj-lawsuit.html",
+      "summary": "The U.S. Department of Justice has filed a lawsuit alleging that Rhode Island's student loan forgiveness program for teachers of color is discriminatory.",
+      "published": "Wed, 17 Sep 2025 14:56:47 GMT",
+      "content": "The U.S. Department of Justice has filed a lawsuit alleging that Rhode Island's student loan forgiveness program for teachers of color is discriminatory.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c62e743c13786d2778bcd3f3da8c8662",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DOJ SUES RHODE ISLAND OVER ALLEGED RACIAL DISCRIMINATION ⚠️\n\n- DOJ lawsuit claims Rhode Island's program for teachers of color is discriminatory 📚\n- Allegations of racial bias in student loan forgiveness program 🔍\n- Legal battle ensues between DOJ and Rhode Island 💥\n\nTAKEAWAY: The DOJ's lawsuit against Rhode Island highlights allegations of racial discrimination in the state's student loan forgiveness program for teachers of color, sparking a legal battle.",
+      "exported_at": "2025-09-17T11:09:08.493950",
+      "continuous_session": true
+    },
+    {
+      "title": "This homebuilder has run up in anticipation of a rate cut. How to trade it from here",
+      "link": "https://www.cnbc.com/2025/09/17/this-homebuilder-has-run-up-in-anticipation-of-a-rate-cut-how-to-trade-it-from-here.html",
+      "summary": "Jay Woods breaks down the charts in Lennar.",
+      "published": "Wed, 17 Sep 2025 15:01:35 GMT",
+      "content": "Jay Woods breaks down the charts in Lennar.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ec029016d5b5871a1859d818c61e0157",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "exported_at": "2025-09-17T11:09:08.493967",
       "continuous_session": true
     }
   ]
