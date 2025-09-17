@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T11:24:27.105555",
-    "total_articles": 1220,
-    "new_articles_in_last_fetch": 1220,
+    "created_at": "2025-09-17T11:29:36.513113",
+    "total_articles": 1222,
+    "new_articles_in_last_fetch": 1222,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -15855,6 +15855,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: UNIQUE FED RATE CUT PLAY: BOAT & RV MAKERS 🚀\n\n- Citi recommends powersports stocks if Fed cuts rates ⚡️\n- Investors urged to consider boat and RV makers 🚤\n- Potential opportunity tied to Federal Reserve decision ✅\n\nTAKEAWAY: Citi suggests exploring boat and RV maker stocks as a unique play in response to a potential Federal Reserve rate cut.",
       "exported_at": "2025-09-17T11:24:27.022660",
+      "continuous_session": true
+    },
+    {
+      "title": "Nvidia CEO says he&apos;s &apos;disappointed&apos; after report China has banned its AI chips",
+      "link": "https://www.cnbc.com/2025/09/17/nvidia-ceo-disappointed-after-reports-china-has-banned-its-ai-chips.html",
+      "summary": "Nvidia CEO Jensen Huang commented after a report that China has banned the use of the company's AI chips.",
+      "published": "Wed, 17 Sep 2025 13:33:47 GMT",
+      "content": "Nvidia CEO Jensen Huang commented after a report that China has banned the use of the company's AI chips.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f2baecb512205b11abe410379fa3cb6e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NVIDIA CEO \"DISAPPOINTED\" BY CHINA'S AI CHIP BAN 😞\n\n- China reportedly bans use of Nvidia's AI chips 🚫\n- CEO Jensen Huang expresses disappointment 😔\n- Impact on Nvidia's revenue and market share 📉\n- Uncertainty looms over Nvidia's future in China ⚠️\n- Potential shift in Nvidia's AI chip strategy 🔄\n\nTAKEAWAY: China's ban on Nvidia's AI chips disappoints CEO Jensen Huang, raising concerns about revenue, market share, and the company's future strategy in the Chinese market.",
+      "exported_at": "2025-09-17T11:29:36.422185",
+      "continuous_session": true
+    },
+    {
+      "title": "Bessent made mortgage claims similar to ones Trump cited to try to fire Fed&apos;s Cook: Report",
+      "link": "https://www.cnbc.com/2025/09/17/bessent-fed-trump-lisa-cook-mortgage.html",
+      "summary": "Bessent has suggested that Fed Governor Lisa Cook should be removed over allegations that she committed mortgage fraud, which she denies.",
+      "published": "Wed, 17 Sep 2025 15:25:35 GMT",
+      "content": "Bessent has suggested that Fed Governor Lisa Cook should be removed over allegations that she committed mortgage fraud, which she denies.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b0721f2bb7c418ac86b34a414102251a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BESSANT'S MORTGAGE FRAUD CLAIMS AGAINST FED'S COOK 🔥\n\n- Bessent accuses Fed's Cook of mortgage fraud, calls for her removal\n- Cook denies allegations of wrongdoing \n- Claims made by Bessent similar to those cited by Trump to fire Cook\n\nTAKEAWAY: Intense allegations of mortgage fraud against Fed's Cook by Bessent mirror Trump's actions, sparking controversy and denial.",
+      "exported_at": "2025-09-17T11:29:36.422273",
       "continuous_session": true
     }
   ]
