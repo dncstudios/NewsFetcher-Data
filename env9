@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T13:47:14.028261",
-    "total_articles": 1236,
-    "new_articles_in_last_fetch": 1236,
+    "created_at": "2025-09-17T13:52:25.430558",
+    "total_articles": 1237,
+    "new_articles_in_last_fetch": 1237,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -16063,6 +16063,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: LIVE NATION CEO: DEMAND UNMISTAKABLE, CONCERT TICKETS UNDERPRICED ⚡️\n\n- Rising ticket price headlines misleading 📈\n- Concert tickets undervalued vs. sports events 🎤🎟️\n- Demand for concerts remains strong 🚀\n- Michael Rapino challenges ticket pricing perceptions 💪\n- Live Nation CEO emphasizes value in concert tickets 🎵💲\n- Concert industry poised for growth amidst pricing discussions 📈\n\nTAKEAWAY: Live Nation CEO highlights strong demand for concerts and challenges the perception of underpriced tickets compared to sporting events, setting the stage for potential industry growth.",
       "exported_at": "2025-09-17T13:47:13.947440",
+      "continuous_session": true
+    },
+    {
+      "title": "Bitcoin is forming an inverse head-and-shoulder pattern just with Fed rate cuts on their way",
+      "link": "https://www.cnbc.com/2025/09/17/bitcoin-is-forming-an-inverse-head-and-shoulder-pattern-just-with-fed-rate-cuts-on-their-way.html",
+      "summary": "Frank Cappelleri takes a look through bitcoin's technicals as it forms an inverse head-and-shoulder pattern.",
+      "published": "Wed, 17 Sep 2025 17:45:01 GMT",
+      "content": "Frank Cappelleri takes a look through bitcoin's technicals as it forms an inverse head-and-shoulder pattern.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "98c41d7f153284260c4a02c5949f3a36",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BITCOIN FORMS INVERSE HEAD-AND-SHOULDER PATTERN AMID FED RATE CUTS 📈\n\n- Bitcoin shows inverse head-and-shoulder pattern 📈\n- Analyst Frank Cappelleri examines Bitcoin's technicals 💡\n- Pattern emerges as Fed rate cuts loom on horizon 🏦\n- Market anticipates potential price reversal 🔄\n- Traders eyeing Bitcoin's movement closely 🔍\n\nTAKEAWAY: Bitcoin's formation of an inverse head-and-shoulder pattern coincides with the anticipation of Fed rate cuts, sparking interest and scrutiny among traders for potential price reversals.",
+      "exported_at": "2025-09-17T13:52:25.349489",
       "continuous_session": true
     }
   ]
