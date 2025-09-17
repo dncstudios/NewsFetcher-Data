@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T13:37:00.377794",
-    "total_articles": 1235,
-    "new_articles_in_last_fetch": 1235,
+    "created_at": "2025-09-17T13:47:14.028261",
+    "total_articles": 1236,
+    "new_articles_in_last_fetch": 1236,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -16050,6 +16050,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: S&P 500 LITTLE CHANGED AHEAD OF KEY FED RATE DECISION 🚀\n\n- Market mixed as traders await crucial Fed policy decision 📈\n- Anticipation builds for Federal Reserve's policy outlook 🔍\n- Investors brace for impact of upcoming monetary policy changes 💼\n\nTAKEAWAY: The S&P 500 remains stable as traders gear up for the highly anticipated Federal Reserve rate decision and policy outlook, creating an atmosphere of cautious optimism in the market.",
       "exported_at": "2025-09-17T13:37:00.284435",
+      "continuous_session": true
+    },
+    {
+      "title": "Live Nation CEO says demand is unmistakable, but concert tickets are still relatively underpriced",
+      "link": "https://www.cnbc.com/2025/09/17/live-nation-ceo-demand-concert-tickets-underpriced.html",
+      "summary": "Despite headlines about rising ticket prices, Michael Rapino argued that concerts are still underpriced compared to sporting events.",
+      "published": "Wed, 17 Sep 2025 17:33:38 GMT",
+      "content": "Despite headlines about rising ticket prices, Michael Rapino argued that concerts are still underpriced compared to sporting events.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "bc7b5edee8cb4d41211b8117d1ae5ff3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: LIVE NATION CEO: DEMAND UNMISTAKABLE, CONCERT TICKETS UNDERPRICED ⚡️\n\n- Rising ticket price headlines misleading 📈\n- Concert tickets undervalued vs. sports events 🎤🎟️\n- Demand for concerts remains strong 🚀\n- Michael Rapino challenges ticket pricing perceptions 💪\n- Live Nation CEO emphasizes value in concert tickets 🎵💲\n- Concert industry poised for growth amidst pricing discussions 📈\n\nTAKEAWAY: Live Nation CEO highlights strong demand for concerts and challenges the perception of underpriced tickets compared to sporting events, setting the stage for potential industry growth.",
+      "exported_at": "2025-09-17T13:47:13.947440",
       "continuous_session": true
     }
   ]
