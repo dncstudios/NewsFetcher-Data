@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T15:44:50.885051",
-    "total_articles": 1258,
-    "new_articles_in_last_fetch": 1258,
+    "created_at": "2025-09-17T15:55:03.876212",
+    "total_articles": 1259,
+    "new_articles_in_last_fetch": 1259,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -16349,6 +16349,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: MAXIMIZING INCOME AFTER FED RATE CUT 📉\n\n- Cash-equivalent asset yields dropping post Federal Reserve rate cut 💰\n- Experts suggest alternative income sources for stable returns 📈\n- Seek opportunities in high-dividend stocks or real estate 🏡\n- Consider bonds or peer-to-peer lending for income generation 💸\n\nTAKEAWAY: With Federal Reserve cutting rates, explore alternative income sources like high-dividend stocks, real estate, bonds, or peer-to-peer lending for stable returns.",
       "exported_at": "2025-09-17T15:44:50.795598",
+      "continuous_session": true
+    },
+    {
+      "title": "Boeing, Honeywell sued by Air India crash victim families",
+      "link": "https://www.cnbc.com/2025/09/17/boeing-honeywell-sued-by-air-india-crash-victim-families.html",
+      "summary": "Families of four passengers who died in the June crash sued Boeing and Honeywell, blaming negligence and a faulty fuel cutoff switch for the accident.",
+      "published": "Wed, 17 Sep 2025 19:47:05 GMT",
+      "content": "Families of four passengers who died in the June crash sued Boeing and Honeywell, blaming negligence and a faulty fuel cutoff switch for the accident.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "17cd1443e12bf34dceeb6d561484b5e8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BOEING, HONEYWELL SUED OVER AIR INDIA CRASH ⚠️\n\n- Families of 4 Air India crash victims sue Boeing, Honeywell 💔\n- Lawsuit alleges negligence and faulty fuel cutoff switch 🔍\n- Blame placed on Boeing and Honeywell for tragic accident 💥\n\nTAKEAWAY: Families of Air India crash victims seek justice, suing Boeing and Honeywell for negligence and faulty equipment, highlighting the importance of accountability in aviation safety.",
+      "exported_at": "2025-09-17T15:55:03.805386",
       "continuous_session": true
     }
   ]
