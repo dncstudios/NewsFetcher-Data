@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T01:28:38.544628",
-    "total_articles": 1168,
-    "new_articles_in_last_fetch": 1168,
+    "created_at": "2025-09-17T01:38:51.551220",
+    "total_articles": 1169,
+    "new_articles_in_last_fetch": 1169,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -15180,6 +15180,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: THE UK'S TOP FINTECH COMPANIES REVEALED FOR 2025 🚀\n\n- CNBC and Statista unveil top 150 UK fintech firms 🇬🇧\n- Includes companies from London and beyond 🌍\n- Recognition of innovative fintech players in the UK 🏦\n- Highlights dynamic growth and success in the industry 💰\n- Reflects the UK's position as a fintech powerhouse 🏆\n\nTAKEAWAY: CNBC and Statista's list of the top 150 UK fintech companies for 2025 showcases the country's innovation and success in the industry, positioning it as a global fintech leader.",
       "exported_at": "2025-09-17T01:28:38.490643",
+      "continuous_session": true
+    },
+    {
+      "title": "CNBC&apos;s UK Exchange newsletter: Can UK trade come up Trumps?",
+      "link": "https://www.cnbc.com/2025/09/17/can-uk-trade-come-up-trumps-cnbcs-uk-exchange-newsletter.html",
+      "summary": "\"Tiara diplomacy\" is nothing new, but with the U.K. economy stagnating, it feels like a lot is riding on President Donald Trump's visit to Britain.",
+      "published": "Wed, 17 Sep 2025 05:30:01 GMT",
+      "content": "\"Tiara diplomacy\" is nothing new, but with the U.K. economy stagnating, it feels like a lot is riding on President Donald Trump's visit to Britain.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a23e03905fc1d1d4395ca9396529e648",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CNBC'S UK EXCHANGE NEWSLETTER: CAN UK TRADE COME UP TRUMPS? 🚀\n\n- UK economy stagnates, hopes high on Trump's visit 📉\n- \"Tiara diplomacy\" in play, focusing on UK trade 🇬🇧\n- Speculation rises on impact of Trump's visit to Britain 💭\n- Pressure on UK economy to boost trade relations ✅\n- Uncertainty looms amidst stagnant economic growth ⚠️\n\nTAKEAWAY: With the UK economy stagnant, all eyes are on President Trump's visit as hopes are high for a boost in trade relations through \"tiara diplomacy.\"",
+      "exported_at": "2025-09-17T01:38:51.460592",
       "continuous_session": true
     }
   ]
