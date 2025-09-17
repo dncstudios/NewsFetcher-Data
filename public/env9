@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T05:22:18.425821",
-    "total_articles": 1179,
-    "new_articles_in_last_fetch": 1179,
+    "created_at": "2025-09-17T05:27:28.038769",
+    "total_articles": 1180,
+    "new_articles_in_last_fetch": 1180,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -15323,6 +15323,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STUBHUB IPO PRICED AT $23.50, VALUED AT $8.6 BILLION 🚀\n\n- StubHub set to enter public market after two IPO delays 📈\n- IPO pricing at $23.50 values company at $8.6 billion 💰\n- Delays attributed to market volatility post Trump's tariffs 📉\n\nTAKEAWAY: StubHub's long-awaited IPO finally priced at $23.50, valuing the company at $8.6 billion amid market volatility post Trump's tariffs.",
       "exported_at": "2025-09-17T05:22:18.343842",
+      "continuous_session": true
+    },
+    {
+      "title": "Tim Cook says he is &apos;really pleased&apos; with progress on stitching together Apple&apos;s end-to-end silicon supply chain in the US",
+      "link": "https://www.cnbc.com/2025/09/16/apples-tim-cook-silicon-supply-chain.html",
+      "summary": "In an interview with CNBC's Jim Cramer, Apple CEO Tim Cook struck an optimistic tone about the iPhone maker's progress bringing more manufacturing to the U.S.",
+      "published": "Tue, 16 Sep 2025 22:33:14 GMT",
+      "content": "In an interview with CNBC's Jim Cramer, Apple CEO Tim Cook struck an optimistic tone about the iPhone maker's progress bringing more manufacturing to the U.S.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e7cb664632250bb59e465f7f8d486531",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TIM COOK OPTIMISTIC ABOUT APPLE'S U.S. MANUFACTURING SHIFT 🚀\n\n- Tim Cook pleased with progress on Apple's U.S. manufacturing shift 🇺🇸\n- Focus on stitching together end-to-end silicon supply chain in the U.S. ⚙️\n- Cook highlights positive strides in bringing more manufacturing to the U.S. 📈\n- Apple CEO expresses optimism in CNBC interview with Jim Cramer 🎙️\n- Emphasis on enhancing domestic production capabilities 🏭\n\nTAKEAWAY: Tim Cook's optimism about Apple's U.S. manufacturing shift signals positive progress in bringing more production capabilities to the United States. 🌟",
+      "exported_at": "2025-09-17T05:27:27.949432",
       "continuous_session": true
     }
   ]
