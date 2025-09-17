@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T06:48:59.446066",
-    "total_articles": 1188,
-    "new_articles_in_last_fetch": 1188,
+    "created_at": "2025-09-17T06:59:12.015443",
+    "total_articles": 1189,
+    "new_articles_in_last_fetch": 1189,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -15440,6 +15440,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BEN & JERRY'S CO-FOUNDER RESIGNS AMID UNILEVER FEUD ⚠️\n\n- Co-founder Jerry Greenfield resigns amidst Unilever rift 🚫\n- Resignation deepens conflict over Gaza stance 💥\n- Tension escalates between Ben & Jerry's and Unilever ⚡️\n\nTAKEAWAY: Ben & Jerry's co-founder's resignation amplifies the clash with parent company Unilever over differing views on the Gaza conflict.",
       "exported_at": "2025-09-17T06:48:59.357543",
+      "continuous_session": true
+    },
+    {
+      "title": "Loop Capital upgrades Netflix, says media giant has &apos;won the streaming wars&apos;",
+      "link": "https://www.cnbc.com/2025/09/17/loop-capital-upgrades-netflix-says-media-giant-has-won-the-streaming-wars.html",
+      "summary": "The investment firm upgraded shares of the streaming giant to a buy rating from hold.",
+      "published": "Wed, 17 Sep 2025 10:50:02 GMT",
+      "content": "The investment firm upgraded shares of the streaming giant to a buy rating from hold.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3c2ff9803a622a66c3299060b8450ae8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: LOOP CAPITAL UPGRADES NETFLIX, DECLARES VICTORY IN STREAMING WARS 🚀\n\n- Loop Capital boosts Netflix to buy from hold 💪\n- Investment firm confident in Netflix's success in streaming wars 🏆\n- Upgrade reflects strong performance and potential growth 📈\n\nTAKEAWAY: Loop Capital's upgrade of Netflix to a buy rating signals confidence in the media giant's victory in the streaming wars, highlighting its strong performance and growth potential.",
+      "exported_at": "2025-09-17T06:59:11.924950",
       "continuous_session": true
     }
   ]
