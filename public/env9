@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T02:19:30.116728",
-    "total_articles": 1171,
-    "new_articles_in_last_fetch": 1171,
+    "created_at": "2025-09-17T02:34:48.687293",
+    "total_articles": 1173,
+    "new_articles_in_last_fetch": 1173,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -15219,6 +15219,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCK FUTURES FLAT AHEAD OF KEY FED RATE OUTLOOK 📊\n\n- Traders anticipate market direction from Fed's economic projections 📈\n- Focus on Fed's quarterly dot plot for rate outlook 🔍\n- Market stability expected as traders await key Fed decision 💼\n\nTAKEAWAY: Stock futures remain steady as traders eagerly await the Fed's economic projections for insights into the future rate outlook, keeping market stability intact.",
       "exported_at": "2025-09-17T02:19:30.030009",
+      "continuous_session": true
+    },
+    {
+      "title": "UK&apos;s GSK announces $30 billion U.S. pharma investment amid Trump state visit",
+      "link": "https://www.cnbc.com/2025/09/17/uks-gsk-announces-30-billion-us-pharma-investment-amid-trump-state-visit.html",
+      "summary": "British pharmaceutical giant GSK committed to investing at least $30 billion in U.S. research and developing and manufacturing over the next five years.",
+      "published": "Wed, 17 Sep 2025 06:29:31 GMT",
+      "content": "British pharmaceutical giant GSK committed to investing at least $30 billion in U.S. research and developing and manufacturing over the next five years.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3b0f7f6b210faaa47475763835c75880",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GSK COMMITS $30 BILLION IN U.S. PHARMA INVESTMENT DURING TRUMP VISIT 🚀\n\n- GSK pledges $30 billion for U.S. research & manufacturing 📈\n- Investment spans next 5 years, emphasizing long-term commitment ✅\n- Move coincides with Trump's state visit, boosting economic ties 🇬🇧🇺🇸\n- Focus on developing and manufacturing pharmaceuticals in the U.S. 💊\n- Demonstrates confidence in U.S. market and growth opportunities 📈\n- Strategic decision aligns with GSK's expansion goals 🌍\n\nTAKEAWAY: GSK's $30 billion investment in U.S. pharmaceuticals showcases a strong commitment to growth, aligning with expansion strategies and strengthening economic ties during Trump's visit.",
+      "exported_at": "2025-09-17T02:34:48.599326",
+      "continuous_session": true
+    },
+    {
+      "title": "CNBC&apos;s UK Exchange newsletter: Can UK trade come up Trumps?",
+      "link": "https://www.cnbc.com/2025/09/17/can-uk-trade-come-up-trumps-cnbcs-uk-exchange-newsletter.html",
+      "summary": "With the U.K. economy stagnating, it feels like a lot is riding on President Donald Trump's visit to Britain.",
+      "published": "Wed, 17 Sep 2025 06:31:48 GMT",
+      "content": "With the U.K. economy stagnating, it feels like a lot is riding on President Donald Trump's visit to Britain.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0ba6d2c526350ac0cfd5a2cec98ec054",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CNBC'S UK EXCHANGE NEWSLETTER: CAN UK TRADE COME UP TRUMPS? 🚀\n\n- UK economy stagnates, awaiting boost from Trump's visit 📉\n- High hopes pinned on potential trade agreements 🌍🔍\n- Anticipation for economic revitalization through partnerships 💼📈\n- Trump's visit seen as a game-changer for UK trade 🎯\n- Expectations high for economic impact post-Trump's visit 💰📈\n- Potential for significant trade opportunities between UK and US 🌐💱\n\nTAKEAWAY: The UK's economic future hinges on President Trump's visit, with hopes soaring for trade agreements and a much-needed boost to the stagnant economy.",
+      "exported_at": "2025-09-17T02:34:48.599388",
       "continuous_session": true
     }
   ]
