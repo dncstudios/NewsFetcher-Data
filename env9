@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T19:58:24.781746",
-    "total_articles": 1151,
-    "new_articles_in_last_fetch": 1151,
+    "created_at": "2025-09-16T20:23:49.154410",
+    "total_articles": 1153,
+    "new_articles_in_last_fetch": 1153,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -14959,6 +14959,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WEDNESDAY'S STOCK MARKET OUTLOOK: FED RATE DECISION IN FOCUS 📈\n\n- Stock market nears record highs pre-Fed interest rate decision 🌟\n- Investors eagerly anticipate Wednesday's Federal Reserve announcement 🤑\n- Market sentiment high with expectations for potential impact 🔥\n\nTAKEAWAY: Stock market poised for movement as investors eagerly await the Federal Reserve interest rate decision, driving anticipation and market sentiment.",
       "exported_at": "2025-09-16T19:58:24.690820",
+      "continuous_session": true
+    },
+    {
+      "title": "Asia markets fall, tracking Wall Street losses as investors await Fed meeting decision",
+      "link": "https://www.cnbc.com/2025/09/17/asia-markets-updates-today-hang-seng-index-nikkei-225-kospi-asx-200-nifty-50-fed-decision-rates.html",
+      "summary": "Investors expect the U.S. Federal Reserve to cut interest rates at the end of its two-day meeting Wednesday stateside.",
+      "published": "Wed, 17 Sep 2025 00:23:31 GMT",
+      "content": "Investors expect the U.S. Federal Reserve to cut interest rates at the end of its two-day meeting Wednesday stateside.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b93d30d1b3f79906cce4602d47d95b76",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASIA MARKETS AWAIT FED DECISION AFTER WALL STREET LOSSES 🚀\n\n- Asia markets poised to mirror Wall Street's decline 📉\n- Investors anticipate U.S. Federal Reserve's rate cut decision 📉\n- All eyes on Fed's two-day meeting ending Wednesday 🧐\n- Market sentiment cautious ahead of Fed announcement 🚨\n- Expectation for interest rate cut driving investor behavior 🔥\n\nTAKEAWAY: Asia markets bracing for potential rate cut as investors eagerly await the U.S. Federal Reserve's decision, mirroring Wall Street's losses in anticipation.",
+      "exported_at": "2025-09-16T20:23:49.073915",
+      "continuous_session": true
+    },
+    {
+      "title": "Images of Trump and Jeffrey Epstein projected on Windsor Castle as U.S. president visits the UK",
+      "link": "https://www.cnbc.com/2025/09/16/trump-jeffrey-epstein-windsor-castle-us-uk.html",
+      "summary": "President Donald Trump for months has faced criticism over a decision by the Justice Department not to release law enforcement files about Jeffrey Epstein.",
+      "published": "Wed, 17 Sep 2025 00:18:18 GMT",
+      "content": "President Donald Trump for months has faced criticism over a decision by the Justice Department not to release law enforcement files about Jeffrey Epstein.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ee80acf44db5fa968152795a58597e7e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP AND EPSTEIN IMAGES PROJECTED ON WINDSOR CASTLE DURING UK VISIT 🚨\n\n- Images of Trump and Epstein displayed during UK visit 🏰\n- Trump under fire for Justice Department decision on Epstein files 📁\n- Criticism grows over lack of transparency regarding Epstein case 🔍\n\nTAKEAWAY: Controversy surrounds Trump as images of him and Epstein are projected on Windsor Castle during his UK visit, amid criticism for lack of transparency on Justice Department's decision.",
+      "exported_at": "2025-09-16T20:23:49.073972",
       "continuous_session": true
     }
   ]
