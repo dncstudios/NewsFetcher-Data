@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T13:11:32.488523",
-    "total_articles": 1233,
-    "new_articles_in_last_fetch": 1233,
+    "created_at": "2025-09-17T13:16:41.387979",
+    "total_articles": 1234,
+    "new_articles_in_last_fetch": 1234,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -16024,6 +16024,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCKS MAKING BIGGEST MIDDAY MOVES: LYFT, WALMART, NVIDIA, BAIDU 🚀\n\n- Lyft, Walmart, Nvidia, Baidu among top movers 📈\n- Significant price fluctuations observed midday 📊\n- Market volatility impacting various stock prices 💥\n\nTAKEAWAY: Keep an eye on Lyft, Walmart, Nvidia, Baidu, and other top movers for potential trading opportunities during midday trading.",
       "exported_at": "2025-09-17T13:11:32.398279",
+      "continuous_session": true
+    },
+    {
+      "title": "Healthy Returns: What to know about RFK Jr.&apos;s five new vaccine panel members",
+      "link": "https://www.cnbc.com/2025/09/17/healthy-returns-rfk-jr-names-five-new-cdc-vaccine-committee-members.html",
+      "summary": "Robert F. Kennedy Jr. added five new members to a key government vaccine panel, while health care inflation has taken a bigger bite out of wallets.",
+      "published": "Wed, 17 Sep 2025 17:02:47 GMT",
+      "content": "Robert F. Kennedy Jr. added five new members to a key government vaccine panel, while health care inflation has taken a bigger bite out of wallets.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "77fecd3ba1972e8f865c73d2065c665c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: HEALTHY RETURNS: RFK JR.'S NEW VACCINE PANEL MEMBERS 🚀\n\n- RFK Jr. boosts government vaccine panel with 5 new members\n- Health care inflation impacting wallets significantly\n- Panel expansion signals focus on vaccine-related issues\n\nTAKEAWAY: RFK Jr.'s move to add 5 new members to the vaccine panel hints at a heightened focus on vaccine-related matters amidst significant health care inflation.",
+      "exported_at": "2025-09-17T13:16:41.297294",
       "continuous_session": true
     }
   ]
