@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T11:34:43.268240",
-    "total_articles": 1223,
-    "new_articles_in_last_fetch": 1223,
+    "created_at": "2025-09-17T11:50:00.811925",
+    "total_articles": 1225,
+    "new_articles_in_last_fetch": 1225,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -15894,6 +15894,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: S&P 500 LITTLE CHANGED AHEAD OF KEY FED RATE DECISION 🚀\n\n- Market mixed as traders await crucial Fed policy decision 📈\n- Anticipation builds for Federal Reserve's policy outlook 🔍\n- Investors brace for impact of upcoming monetary policy changes 💼\n\nTAKEAWAY: The S&P 500 remains stable as traders gear up for the highly anticipated Federal Reserve rate decision and policy outlook, creating an atmosphere of cautious optimism in the market.",
       "exported_at": "2025-09-17T11:34:43.181984",
+      "continuous_session": true
+    },
+    {
+      "title": "StubHub CEO says recent change to all-in ticket prices will dent revenue",
+      "link": "https://www.cnbc.com/2025/09/17/stubhub-stock-all-in-ticket-prices-ipo.html",
+      "summary": "The Federal Trade Commission earlier this year initiated new rules around hidden \"junk fees\" and deceptive ticket prices on online marketplaces.",
+      "published": "Wed, 17 Sep 2025 15:39:56 GMT",
+      "content": "The Federal Trade Commission earlier this year initiated new rules around hidden \"junk fees\" and deceptive ticket prices on online marketplaces.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "225d92f747fb8c39eda28490459c42cb",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STUBHUB CEO ADMITS ALL-IN PRICING IMPACT ON REVENUE 🚨\n\n- FTC introduces new rules on hidden fees in online ticket sales ✅\n- CEO expects revenue to decrease due to all-in pricing change ⚠️\n- StubHub aims for transparency in ticket pricing 🎯\n\nTAKEAWAY: StubHub's shift to all-in pricing aligns with FTC rules for transparent ticket sales, but CEO anticipates a revenue dip as a result.",
+      "exported_at": "2025-09-17T11:50:00.726595",
+      "continuous_session": true
+    },
+    {
+      "title": "NCAA sports commissioners weigh revenue models, private equity in NIL era",
+      "link": "https://www.cnbc.com/2025/09/17/ncaa-sports-commissioners-revenue-models-private-equity.html",
+      "summary": "College sports leaders are crunching the numbers as they head toward payments for players and new avenues for revenue growth.",
+      "published": "Wed, 17 Sep 2025 15:39:38 GMT",
+      "content": "College sports leaders are crunching the numbers as they head toward payments for players and new avenues for revenue growth.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5d0233d253e7df7b69fb37c77d41c303",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NCAA COMMISSIONERS EXPLORE NEW REVENUE MODELS IN NIL ERA 🚀\n\n- NCAA leaders analyze revenue models amidst player payment changes 💸\n- Focus on creating new revenue streams and growth opportunities 📈\n- Embracing the shift towards compensating college athletes 💪\n- Private equity involvement considered for financial boost 💼\n- Colleges strategize to balance player payments with revenue growth 🎯\n\nTAKEAWAY: NCAA commissioners are navigating the shift towards compensating players while exploring new revenue models and potential private equity involvement for financial growth.",
+      "exported_at": "2025-09-17T11:50:00.726683",
       "continuous_session": true
     }
   ]
