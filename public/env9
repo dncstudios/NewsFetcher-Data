@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T06:59:12.015443",
-    "total_articles": 1189,
-    "new_articles_in_last_fetch": 1189,
+    "created_at": "2025-09-17T07:04:22.125205",
+    "total_articles": 1191,
+    "new_articles_in_last_fetch": 1191,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -15453,6 +15453,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: LOOP CAPITAL UPGRADES NETFLIX, DECLARES VICTORY IN STREAMING WARS 🚀\n\n- Loop Capital boosts Netflix to buy from hold 💪\n- Investment firm confident in Netflix's success in streaming wars 🏆\n- Upgrade reflects strong performance and potential growth 📈\n\nTAKEAWAY: Loop Capital's upgrade of Netflix to a buy rating signals confidence in the media giant's victory in the streaming wars, highlighting its strong performance and growth potential.",
       "exported_at": "2025-09-17T06:59:11.924950",
+      "continuous_session": true
+    },
+    {
+      "title": "Mortgage refinance demand spikes nearly 60%, as interest rates drop sharply",
+      "link": "https://www.cnbc.com/2025/09/17/mortgage-refinance-demand-spikes-nearly-60percent-as-interest-rates-drop-sharply.html",
+      "summary": "Mortgage refinance demand surged higher after interest rates dropped to the lowest level since last October. Adjustable-rate loans were also in high demand.",
+      "published": "Wed, 17 Sep 2025 11:00:01 GMT",
+      "content": "Mortgage refinance demand surged higher after interest rates dropped to the lowest level since last October. Adjustable-rate loans were also in high demand.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0bd118f74f3fa8ec70eb437fdd7f2f3a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MORTGAGE REFINANCE DEMAND SOARS 60% 🚀\n\n- Refinance demand spikes by nearly 60% 📈\n- Interest rates hit lowest level since last October ⬇️\n- Adjustable-rate loans see increased demand 🔥\n- Market reacts to sharp drop in interest rates 💸\n- Surge in demand reflects favorable market conditions ✅\n- Increased interest in refinancing due to lower rates 📉\n\nTAKEAWAY: A 60% surge in mortgage refinance demand follows a sharp drop in interest rates, signaling favorable conditions for borrowers.",
+      "exported_at": "2025-09-17T07:04:22.035937",
+      "continuous_session": true
+    },
+    {
+      "title": "Sen. Warren presses Trump AI and crypto czar Sacks on whether he&apos;s overstayed his job",
+      "link": "https://www.cnbc.com/2025/09/17/sen-warren-presses-trump-ai-czar-david-sacks-on-overstaying-job.html",
+      "summary": "Sen. Elizabeth Warren and other lawmakers are probing whether David Sacks, Trump’s AI and crypto czar, overstayed his temporary government role.",
+      "published": "Wed, 17 Sep 2025 11:00:01 GMT",
+      "content": "Sen. Elizabeth Warren and other lawmakers are probing whether David Sacks, Trump’s AI and crypto czar, overstayed his temporary government role.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "47f3859ce23245eac399923ed37a4a31",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SEN. WARREN QUESTIONS TRUMP'S AI & CRYPTO CZAR ON JOB DURATION ⚠️\n\n- Sen. Warren scrutinizes David Sacks' prolonged government role 🧐\n- Lawmakers investigate if Sacks overstayed temporary position 🕵️‍♂️\n- David Sacks faces pressure to clarify his tenure as Trump's czar 💼\n\nTAKEAWAY: Sen. Warren's inquiry into David Sacks' extended term as Trump's AI and crypto czar raises concerns about government role durations.",
+      "exported_at": "2025-09-17T07:04:22.036008",
       "continuous_session": true
     }
   ]
