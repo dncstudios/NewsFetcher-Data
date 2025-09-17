@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T10:43:36.466687",
-    "total_articles": 1214,
-    "new_articles_in_last_fetch": 1214,
+    "created_at": "2025-09-17T10:48:45.776284",
+    "total_articles": 1215,
+    "new_articles_in_last_fetch": 1215,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -15778,6 +15778,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: POST-PAUSE RATE CUTS BOOST SMALL CAPS' PERFORMANCE 🚀\n\n- Russell 2000 averages 35% return after Fed resumes rate cuts\n- S&P 500 sees 23% return in the same period\n- Small caps historically outperform large caps post-rate cut resumption\n\nTAKEAWAY: History shows that small cap stocks tend to thrive with a 35% average return after the Fed resumes rate cuts, outperforming the S&P 500.",
       "exported_at": "2025-09-17T10:43:36.375108",
+      "continuous_session": true
+    },
+    {
+      "title": "A bullish options trade on this banking giant that&apos;s in the midst of a turnaround",
+      "link": "https://www.cnbc.com/2025/09/17/a-bullish-options-trade-on-this-banking-giant-thats-in-the-midst-of-a-turnaround.html",
+      "summary": "Options trader Tony Zhang breaks down call call vertical on this banking name.",
+      "published": "Wed, 17 Sep 2025 14:39:19 GMT",
+      "content": "Options trader Tony Zhang breaks down call call vertical on this banking name.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c69e57aa5e595f27514cab5e26054bf2",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 🚀 BULLISH OPTIONS PLAY ON BANKING GIANT IN TURNAROUND MODE\n\n- Options trader Tony Zhang suggests call vertical strategy 🔥\n- Banking giant undergoing a turnaround 📈\n- Call options offer potential upside 📊\n\nTAKEAWAY: Options trader Tony Zhang recommends a bullish call vertical strategy on the banking giant currently undergoing a turnaround, highlighting potential upside opportunities.",
+      "exported_at": "2025-09-17T10:48:45.685303",
       "continuous_session": true
     }
   ]
