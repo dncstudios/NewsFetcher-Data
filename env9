@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T01:43:57.856400",
-    "total_articles": 1170,
-    "new_articles_in_last_fetch": 1170,
+    "created_at": "2025-09-17T02:19:30.116728",
+    "total_articles": 1171,
+    "new_articles_in_last_fetch": 1171,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -15206,6 +15206,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ASIA MARKETS AWAIT FED DECISION AFTER WALL STREET LOSSES 🚀\n\n- Asia markets poised to mirror Wall Street's decline 📉\n- Investors anticipate U.S. Federal Reserve's rate cut decision 📉\n- All eyes on Fed's two-day meeting ending Wednesday 🧐\n- Market sentiment cautious ahead of Fed announcement 🚨\n- Expectation for interest rate cut driving investor behavior 🔥\n\nTAKEAWAY: Asia markets bracing for potential rate cut as investors eagerly await the U.S. Federal Reserve's decision, mirroring Wall Street's losses in anticipation.",
       "exported_at": "2025-09-17T01:43:57.786732",
+      "continuous_session": true
+    },
+    {
+      "title": "Stock futures are little changed as traders await key Fed rate outlook: Live updates",
+      "link": "https://www.cnbc.com/2025/09/16/stock-market-today-live-updates.html",
+      "summary": "The key determinant for markets Wednesday is likely to come from the Fed's quarterly dot plot of economic projections.",
+      "published": "Tue, 16 Sep 2025 22:45:19 GMT",
+      "content": "The key determinant for markets Wednesday is likely to come from the Fed's quarterly dot plot of economic projections.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "146a54ca2e7eee4e095b0f11eeeda6e4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK FUTURES FLAT AHEAD OF KEY FED RATE OUTLOOK 📊\n\n- Traders anticipate market direction from Fed's economic projections 📈\n- Focus on Fed's quarterly dot plot for rate outlook 🔍\n- Market stability expected as traders await key Fed decision 💼\n\nTAKEAWAY: Stock futures remain steady as traders eagerly await the Fed's economic projections for insights into the future rate outlook, keeping market stability intact.",
+      "exported_at": "2025-09-17T02:19:30.030009",
       "continuous_session": true
     }
   ]
