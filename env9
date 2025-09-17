@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T14:43:30.938079",
-    "total_articles": 1244,
-    "new_articles_in_last_fetch": 1244,
+    "created_at": "2025-09-17T14:58:45.082717",
+    "total_articles": 1246,
+    "new_articles_in_last_fetch": 1246,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -16167,6 +16167,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FED CHAIR POWELL DISCUSSES RATE CUT DECISION 🚀\n\n- Federal Reserve lowers interest rates by 0.25% ✅\n- Two more rate cuts predicted by year-end 📉\n- Market awaits insight from Fed Chair Powell 💬\n\nTAKEAWAY: Federal Reserve's recent rate cut decision and future predictions set the stage for Fed Chair Powell's discussion on the direction of interest rates.",
       "exported_at": "2025-09-17T14:43:30.843857",
+      "continuous_session": true
+    },
+    {
+      "title": "Watch live: Fed Chair Powell tempers rate cut expectations on the heels of a quarter-point trim",
+      "link": "https://www.cnbc.com/2025/09/17/fed-meeting-today-live-updates.html",
+      "summary": "The Federal Reserve on Wednesday lowered interest rates by a quarter point, and expects two rate cuts could be made by the year's end.",
+      "published": "Wed, 17 Sep 2025 18:58:17 GMT",
+      "content": "The Federal Reserve on Wednesday lowered interest rates by a quarter point, and expects two rate cuts could be made by the year's end.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "22d05c6e509b48af9da1d60383bcebbb",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FED CHAIR POWELL DISCUSSES RATE CUT DECISION 🚀\n\n- Federal Reserve lowers interest rates by 0.25% ✅\n- Two more rate cuts predicted by year-end 📉\n- Market awaits insight from Fed Chair Powell 💬\n\nTAKEAWAY: Federal Reserve's recent rate cut decision and future predictions set the stage for Fed Chair Powell's discussion on the direction of interest rates.",
+      "exported_at": "2025-09-17T14:58:44.989574",
+      "continuous_session": true
+    },
+    {
+      "title": "S&amp;P 500 slides after Powell calls Fed rate reduction just a &apos;risk management cut&apos;: Live updates",
+      "link": "https://www.cnbc.com/2025/09/16/stock-market-today-live-updates.html",
+      "summary": "Stocks were mixed after the Fed's much-anticipated monetary policy decision.",
+      "published": "Wed, 17 Sep 2025 18:57:00 GMT",
+      "content": "Stocks were mixed after the Fed's much-anticipated monetary policy decision.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "08b701c58b3e4adf957b0f2b9a3d80f8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DOW SOARS 400 POINTS AS FED CUTS RATES AND FORECASTS FURTHER DROPS 🚀\n\n- Dow surges following Fed's rate cut and prediction of two more cuts 🔥\n- Market sees mixed stocks post-Fed's impactful monetary policy move ✅\n- Investors react positively to Fed's decision, boosting market confidence 📈\n- Fed's move aligns with expectations, setting a positive tone for future cuts ✅\n- Anticipation grows for upcoming economic shifts with Fed's proactive stance 📊\n- Market sentiment reflects optimism and stability post-Fed's announcement ✅\n\nTAKEAWAY: The Dow's impressive 400-point surge reflects market optimism as the Fed lowers rates and hints at more cuts, setting a positive tone for future economic developments.",
+      "exported_at": "2025-09-17T14:58:44.989650",
       "continuous_session": true
     }
   ]
