@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T05:07:02.110827",
-    "total_articles": 1177,
-    "new_articles_in_last_fetch": 1177,
+    "created_at": "2025-09-17T05:22:18.425821",
+    "total_articles": 1179,
+    "new_articles_in_last_fetch": 1179,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -15297,6 +15297,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ELI LILLY'S PLANS TO BOOST DOMESTIC MANUFACTURING 🏭\n\n- Eli Lilly focuses on bringing more manufacturing operations back home 🇺🇸\n- Investing Club's Homestretch offers daily afternoon market insights 📈\n- Aiming to enhance domestic production capabilities 🔝\n\nTAKEAWAY: Eli Lilly's push for increased domestic manufacturing aligns with the company's strategic goals, while the Investing Club's Homestretch provides timely market updates for investors.",
       "exported_at": "2025-09-17T05:07:02.025196",
+      "continuous_session": true
+    },
+    {
+      "title": "Fund manager reveals the rule that made him a 2,000% return on one stock",
+      "link": "https://www.cnbc.com/2025/09/17/fund-manager-reveals-the-rule-that-made-him-a-2000percent-return-on-one-stock.html",
+      "summary": "A specific investment strategy helped Boston Partners' Christopher Hart secure massive returns on a German defense prime.",
+      "published": "Wed, 17 Sep 2025 09:21:05 GMT",
+      "content": "A specific investment strategy helped Boston Partners' Christopher Hart secure massive returns on a German defense prime.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8036eec23cf68d26b1ce115ce13c4426",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FUND MANAGER'S SECRET RULE LEADS TO 2,000% RETURN ON GERMAN DEFENSE STOCK 🚀\n\n- Boston Partners' Christopher Hart's strategy yields 2,000% return 💰\n- Specific rule applied to German defense prime stock 🇩🇪\n- Hart's investment strategy results in remarkable success 📈\n- Massive returns attributed to a unique approach ✨\n- Successful investment showcases the power of strategy 💪\n\nTAKEAWAY: Boston Partners' fund manager's specific rule applied to a German defense stock yields a remarkable 2,000% return, showcasing the power of a unique investment strategy.",
+      "exported_at": "2025-09-17T05:22:18.343783",
+      "continuous_session": true
+    },
+    {
+      "title": "StubHub prices IPO at $23.50, valuing company at $8.6 billion",
+      "link": "https://www.cnbc.com/2025/09/16/stubhub-ipo-price-23point50-valuing-company-8point6-billion.html",
+      "summary": "StubHub is poised to hit the public market after twice delaying its IPO, most recently due to market volatility following President Trump's sweeping tariffs.",
+      "published": "Wed, 17 Sep 2025 09:18:28 GMT",
+      "content": "StubHub is poised to hit the public market after twice delaying its IPO, most recently due to market volatility following President Trump's sweeping tariffs.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6998698a25cd68324cd5722a10c5ff46",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STUBHUB IPO PRICED AT $23.50, VALUED AT $8.6 BILLION 🚀\n\n- StubHub set to enter public market after two IPO delays 📈\n- IPO pricing at $23.50 values company at $8.6 billion 💰\n- Delays attributed to market volatility post Trump's tariffs 📉\n\nTAKEAWAY: StubHub's long-awaited IPO finally priced at $23.50, valuing the company at $8.6 billion amid market volatility post Trump's tariffs.",
+      "exported_at": "2025-09-17T05:22:18.343842",
       "continuous_session": true
     }
   ]
