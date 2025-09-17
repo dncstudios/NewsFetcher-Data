@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T10:38:27.287539",
-    "total_articles": 1213,
-    "new_articles_in_last_fetch": 1213,
+    "created_at": "2025-09-17T10:43:36.466687",
+    "total_articles": 1214,
+    "new_articles_in_last_fetch": 1214,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -15765,6 +15765,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: 'NO TAX ON TIPS' OPENS DOORS FOR FINANCIAL PLANNING OPPORTUNITIES ⚡️\n\n- Trump's \"no tax on tips\" deduction benefits some workers 💰\n- Financial planning opportunities arise for eligible individuals ✅\n- Caution advised before making significant financial decisions ⚠️\n- Understand implications and eligibility criteria before acting 📈\n- Seek professional advice to maximize benefits and avoid risks 🎯\n\nTAKEAWAY: Trump's \"no tax on tips\" policy creates new financial planning avenues, but caution and expert guidance are crucial before making major decisions.",
       "exported_at": "2025-09-17T10:38:27.187371",
+      "continuous_session": true
+    },
+    {
+      "title": "Post-pause rate cuts have been a very good set-up for small caps, history shows",
+      "link": "https://www.cnbc.com/2025/09/17/post-pause-rate-cuts-have-been-a-great-time-for-small-caps-history-shows.html",
+      "summary": "The average Russell 2000 return one year after the Fed resumes cutting rates following a pause is 35%  — versus 23% for the S&amp;P 500, Canaccord Genuity said.",
+      "published": "Wed, 17 Sep 2025 14:35:19 GMT",
+      "content": "The average Russell 2000 return one year after the Fed resumes cutting rates following a pause is 35%  — versus 23% for the S&amp;P 500, Canaccord Genuity said.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0481de4fc3e8ef474a5e79e06f35d8fa",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: POST-PAUSE RATE CUTS BOOST SMALL CAPS' PERFORMANCE 🚀\n\n- Russell 2000 averages 35% return after Fed resumes rate cuts\n- S&P 500 sees 23% return in the same period\n- Small caps historically outperform large caps post-rate cut resumption\n\nTAKEAWAY: History shows that small cap stocks tend to thrive with a 35% average return after the Fed resumes rate cuts, outperforming the S&P 500.",
+      "exported_at": "2025-09-17T10:43:36.375108",
       "continuous_session": true
     }
   ]
