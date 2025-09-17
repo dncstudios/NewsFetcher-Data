@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T16:05:16.378264",
-    "total_articles": 1261,
-    "new_articles_in_last_fetch": 1261,
+    "created_at": "2025-09-17T16:30:41.894730",
+    "total_articles": 1262,
+    "new_articles_in_last_fetch": 1262,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -16388,6 +16388,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STUBHUB IPO OPENS STRONG AT $25.35 ON NYSE 🚀\n\n- StubHub's stock debuts at $25.35 on NYSE 📈\n- Company priced shares in middle of expected range 💰\n- IPO delayed twice before finally launching 🔄\n\nTAKEAWAY: StubHub's long-awaited IPO finally kicks off with a strong opening at $25.35 on the NYSE, meeting market expectations.",
       "exported_at": "2025-09-17T16:05:16.286989",
+      "continuous_session": true
+    },
+    {
+      "title": "DoubleLine&apos;s Jeffrey Gundlach believes holding a 25% gold position isn&apos;t excessive",
+      "link": "https://www.cnbc.com/2025/09/17/doublelines-jeffrey-gundlach-believes-holding-a-2gold-hitting-4000-before-year-end-says-a-25percent-weighting-is-not-excessive.html",
+      "summary": "Gundlach's gold call is also partly based on his belief that inflation will stay stubbornly elevated because of the impact from tariffs.",
+      "published": "Wed, 17 Sep 2025 20:21:04 GMT",
+      "content": "Gundlach's gold call is also partly based on his belief that inflation will stay stubbornly elevated because of the impact from tariffs.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4a0e05356f17f966937b66aea134bc68",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JEFFREY GUNDLACH ENDORSES 25% GOLD HOLDING POSITION 🚀\n\n- Gundlach advocates for a 25% gold position 🥇\n- Believes inflation will remain high due to tariffs impact 💸\n- Gold seen as a hedge against persistent inflation 📈\n- Not excessive to hold a quarter of portfolio in gold ✅\n- Gundlach's stance influenced by inflation expectations 📈\n- Emphasizes gold's role in protecting portfolios ⚔️\n\nTAKEAWAY: Jeffrey Gundlach's endorsement of a 25% gold holding position as a hedge against inflation highlights the strategic importance of diversification in portfolios.",
+      "exported_at": "2025-09-17T16:30:41.799771",
       "continuous_session": true
     }
   ]
