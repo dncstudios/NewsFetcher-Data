@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T16:30:41.894730",
-    "total_articles": 1262,
-    "new_articles_in_last_fetch": 1262,
+    "created_at": "2025-09-17T16:40:56.388471",
+    "total_articles": 1264,
+    "new_articles_in_last_fetch": 1264,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -16401,6 +16401,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JEFFREY GUNDLACH ENDORSES 25% GOLD HOLDING POSITION 🚀\n\n- Gundlach advocates for a 25% gold position 🥇\n- Believes inflation will remain high due to tariffs impact 💸\n- Gold seen as a hedge against persistent inflation 📈\n- Not excessive to hold a quarter of portfolio in gold ✅\n- Gundlach's stance influenced by inflation expectations 📈\n- Emphasizes gold's role in protecting portfolios ⚔️\n\nTAKEAWAY: Jeffrey Gundlach's endorsement of a 25% gold holding position as a hedge against inflation highlights the strategic importance of diversification in portfolios.",
       "exported_at": "2025-09-17T16:30:41.799771",
+      "continuous_session": true
+    },
+    {
+      "title": "Santoli&apos;s Wednesday market wrap-up: Erratic response to as-expected quarter-point Fed rate cut",
+      "link": "https://www.cnbc.com/2025/09/17/santolis-wednesday-market-wrap-up-erratic-response-to-fed-rate-cut.html",
+      "summary": "To the dismay of the most dovish and bullish traders, Fed policymakers did not fully dismiss inflation concerns.",
+      "published": "Wed, 17 Sep 2025 20:19:00 GMT",
+      "content": "To the dismay of the most dovish and bullish traders, Fed policymakers did not fully dismiss inflation concerns.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ec384cbae14c4d46f3522f7e3e36032b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SANTOLI'S WEDNESDAY MARKET WRAP-UP: ERRATIC RESPONSE TO FED RATE CUT ⚠️\n\n- Fed delivers as-expected quarter-point rate cut 📉\n- Dovish traders disappointed by lingering inflation worries 😞\n- Market response erratic amidst uncertainty 📈📉\n- Fed policymakers cautious about inflation concerns 💼\n- Investors seek clarity on future monetary policy direction 🧐\n\nTAKEAWAY: Despite the Fed's quarter-point rate cut, the market's response remains erratic due to lingering inflation concerns, leaving investors seeking clarity on future monetary policy.",
+      "exported_at": "2025-09-17T16:40:56.296284",
+      "continuous_session": true
+    },
+    {
+      "title": "Cracker Barrel stock falls 10% as company reports mixed earnings after rebrand controversy",
+      "link": "https://www.cnbc.com/2025/09/17/cracker-barrel-q4-2025-earnings.html",
+      "summary": "Cracker Barrel reported fourth-quarter earnings after the bell on Wednesday.",
+      "published": "Wed, 17 Sep 2025 20:39:35 GMT",
+      "content": "Cracker Barrel reported fourth-quarter earnings after the bell on Wednesday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8a8c4445cf24004dd5030a8470117ab6",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CRACKER BARREL STOCK PLUNGES 10% AFTER MIXED EARNINGS REPORT 📉\n\n- Cracker Barrel's Q4 earnings reported post-rebranding controversy\n- Stock drops 10% following the earnings announcement 📉\n- Investors react to the mixed earnings report 📊\n- Company faces challenges amidst the rebranding fallout ⚠️\n- Q4 results impact Cracker Barrel's financial performance 📊\n\nTAKEAWAY: Cracker Barrel's stock takes a hit with a 10% drop after reporting mixed earnings post-rebranding controversy, facing challenges and investor reactions.",
+      "exported_at": "2025-09-17T16:40:56.296338",
       "continuous_session": true
     }
   ]
