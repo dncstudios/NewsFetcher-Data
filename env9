@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T09:01:30.238542",
-    "total_articles": 1200,
-    "new_articles_in_last_fetch": 1200,
+    "created_at": "2025-09-17T09:06:41.715407",
+    "total_articles": 1203,
+    "new_articles_in_last_fetch": 1203,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -15596,6 +15596,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: J&J'S PSORIASIS DRUG OUTPERFORMS BRISTOL'S TREATMENT ⚡️\n\n- J&J's experimental drug beats Bristol's Sotyktu in skin clearance 🥇\n- Superior results displayed in two head-to-head trials 💪\n- Promising potential in the treatment of psoriasis patients ✨\n\nTAKEAWAY: Johnson & Johnson's new psoriasis drug exhibits superior efficacy compared to Bristol Myers Squibb's Sotyktu, showing promising advancements in psoriasis treatment.",
       "exported_at": "2025-09-17T09:01:30.146270",
+      "continuous_session": true
+    },
+    {
+      "title": "Eli Lilly’s obesity pill outperforms Novo Nordisk’s oral drug in head-to-head diabetes trial",
+      "link": "https://www.cnbc.com/2025/09/17/eli-lilly-obesity-pill-beats-novo-nordisk-drug-in-diabetes-trial-.html",
+      "summary": "Eli Lilly said orforglipron was better at lowering blood sugar levels than Novo Nordisk's oral semaglutide, and helped patients lose more weight.",
+      "published": "Wed, 17 Sep 2025 13:00:20 GMT",
+      "content": "Eli Lilly said orforglipron was better at lowering blood sugar levels than Novo Nordisk's oral semaglutide, and helped patients lose more weight.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "dd91359bdc05a1d61c48d89e4f7ad7f4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ELI LILLY'S OBESITY PILL OUTPERFORMS NOVO NORDISK IN DIABETES TRIAL 🚀\n\n- Eli Lilly's orforglipron beats Novo Nordisk's oral semaglutide\n- Orforglipron lowers blood sugar levels more effectively 📉\n- Patients on orforglipron experience greater weight loss 🏋️‍♂️\n- Positive results show superiority of Eli Lilly's drug 💪\n- Novo Nordisk faces tough competition in diabetes market 🎯\n- Orforglipron emerges as promising solution for diabetes patients 🌟\n\nTAKEAWAY: Eli Lilly's orforglipron surpasses Novo Nordisk's oral semaglutide in lowering blood sugar levels and aiding weight loss, signaling a significant advancement in the diabetes treatment market.",
+      "exported_at": "2025-09-17T09:06:41.633441",
+      "continuous_session": true
+    },
+    {
+      "title": "Waymo bringing robotaxis to Nashville through first commercial deal with Lyft",
+      "link": "https://www.cnbc.com/2025/09/17/waymo-and-lyft-parto-bring-robotaxi-service-to-nashville.html",
+      "summary": "Waymo has teamed up with Uber to launch robotaxis in several U.S. markets, and is now joining forces with Lyft to launch in Nashville.",
+      "published": "Wed, 17 Sep 2025 13:00:01 GMT",
+      "content": "Waymo has teamed up with Uber to launch robotaxis in several U.S. markets, and is now joining forces with Lyft to launch in Nashville.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1f0fe1f872ce5fdb6a1fa1e169446726",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WAYMO & LYFT TEAM UP TO LAUNCH ROBOTAXIS IN NASHVILLE 🚀\n\n- Waymo expands robotaxi service to Nashville with Lyft partnership 🚗\n- Successful commercial deal marks Waymo's first with Lyft 💼\n- Collaboration follows Waymo's previous partnerships in U.S. markets 🌎\n- Nashville residents to benefit from autonomous ride-hailing service 🙌\n- Waymo's strategic move to penetrate new markets with Lyft ⚡️\n- Joint venture aims to revolutionize transportation in Nashville 🛣️\n\nTAKEAWAY: Waymo's groundbreaking partnership with Lyft to introduce robotaxis in Nashville signifies a major step in revolutionizing transportation services.",
+      "exported_at": "2025-09-17T09:06:41.633495",
+      "continuous_session": true
+    },
+    {
+      "title": "Amazon introduces AI agent to help sellers with tedious tasks",
+      "link": "https://www.cnbc.com/2025/09/17/amazon-ai-agent-sellers.html",
+      "summary": "The agent is being added to Seller Assistant, an AI tool for merchants that the company debuted last year.",
+      "published": "Wed, 17 Sep 2025 13:01:24 GMT",
+      "content": "The agent is being added to Seller Assistant, an AI tool for merchants that the company debuted last year.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d5d6fd8e90d0535dedc31cc54b8ca086",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AMAZON UNLEASHES AI AGENT TO SUPERCHARGE SELLER ASSISTANT 🚀\n\n- AI agent enhances Seller Assistant for seamless merchant support ✅\n- Amazon elevates Seller Assistant with cutting-edge technology 📈\n- Streamlining tedious tasks for sellers with AI innovation ⚙️\n- Boosting efficiency and productivity in merchant operations ⚡️\n- Seller Assistant's AI component promises enhanced user experience 💪\n- Amazon continues to invest in AI for seller empowerment 🌟\n\nTAKEAWAY: Amazon's introduction of an AI agent to Seller Assistant signifies a major leap in empowering merchants with cutting-edge technology, streamlining operations, and enhancing user experience.",
+      "exported_at": "2025-09-17T09:06:41.633507",
       "continuous_session": true
     }
   ]
