@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T07:24:46.417496",
-    "total_articles": 1193,
-    "new_articles_in_last_fetch": 1193,
+    "created_at": "2025-09-17T07:40:03.200845",
+    "total_articles": 1194,
+    "new_articles_in_last_fetch": 1194,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -15505,6 +15505,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SOCIAL SECURITY PAYMENTS GO ELECTRONIC THIS MONTH 🚀\n\n- Federal govt transitions from paper checks to electronic payments 💳\n- Important switch affects Social Security and federal beneficiaries 📑\n- Recipients urged to set up direct deposit or Direct Express card 💳\n- Change aims for efficiency, convenience, and security ✅\n- Electronic payments offer faster access to funds and reduce risks 🔒\n- Phasing out paper checks streamlines payment processes 🔄\n- Recipients should act promptly to avoid payment disruptions 🕒\n\nTAKEAWAY: The transition to electronic payments for Social Security and federal benefits enhances efficiency, convenience, and security, urging recipients to switch promptly.",
       "exported_at": "2025-09-17T07:24:46.327418",
+      "continuous_session": true
+    },
+    {
+      "title": "Evercore ISI downgrades shipping giant FedEx as retail sales growth weaken",
+      "link": "https://www.cnbc.com/2025/09/17/evercore-isi-downgrades-shipping-giant-fedex-as-retail-sales-growth-weaken.html",
+      "summary": "While Evercore ISI remains optimistic on FedEx in the long run, analyst Jonathan Chappell believes some near-term headwinds are set to challenge the stock.",
+      "published": "Wed, 17 Sep 2025 11:28:59 GMT",
+      "content": "While Evercore ISI remains optimistic on FedEx in the long run, analyst Jonathan Chappell believes some near-term headwinds are set to challenge the stock.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b14a9facf9912621e50ed78302c1df51",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: EVERCORE ISI DOWNGRADES FEDEX AMID RETAIL SALES SLOWDOWN ⚠️\n\n- Evercore ISI downgrades FedEx due to weakening retail sales growth 📉\n- Analyst Jonathan Chappell sees near-term challenges for FedEx 📉\n- Long-term optimism remains for FedEx 💪\n- FedEx stock faces headwinds in the short run 🌬️\n\nTAKEAWAY: Evercore ISI's downgrade of FedEx reflects concerns over the impact of slowing retail sales growth, despite maintaining long-term optimism for the shipping giant.",
+      "exported_at": "2025-09-17T07:40:03.110428",
       "continuous_session": true
     }
   ]
