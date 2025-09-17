@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T09:06:41.715407",
-    "total_articles": 1203,
-    "new_articles_in_last_fetch": 1203,
+    "created_at": "2025-09-17T09:16:51.988115",
+    "total_articles": 1204,
+    "new_articles_in_last_fetch": 1204,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -15635,6 +15635,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AMAZON UNLEASHES AI AGENT TO SUPERCHARGE SELLER ASSISTANT 🚀\n\n- AI agent enhances Seller Assistant for seamless merchant support ✅\n- Amazon elevates Seller Assistant with cutting-edge technology 📈\n- Streamlining tedious tasks for sellers with AI innovation ⚙️\n- Boosting efficiency and productivity in merchant operations ⚡️\n- Seller Assistant's AI component promises enhanced user experience 💪\n- Amazon continues to invest in AI for seller empowerment 🌟\n\nTAKEAWAY: Amazon's introduction of an AI agent to Seller Assistant signifies a major leap in empowering merchants with cutting-edge technology, streamlining operations, and enhancing user experience.",
       "exported_at": "2025-09-17T09:06:41.633507",
+      "continuous_session": true
+    },
+    {
+      "title": "Lyft stock soars 20% on Waymo Nashville robotaxi deal",
+      "link": "https://www.cnbc.com/2025/09/17/waymo-and-lyft-parto-bring-robotaxi-service-to-nashville.html",
+      "summary": "Waymo has teamed up with Uber to launch robotaxis in several U.S. markets, and is now joining forces with Lyft to launch in Nashville.",
+      "published": "Wed, 17 Sep 2025 13:14:26 GMT",
+      "content": "Waymo has teamed up with Uber to launch robotaxis in several U.S. markets, and is now joining forces with Lyft to launch in Nashville.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1bd7c4fbab5634203d1044dc787bb0e4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WAYMO & LYFT TEAM UP TO LAUNCH ROBOTAXIS IN NASHVILLE 🚀\n\n- Waymo expands robotaxi service to Nashville with Lyft partnership 🚗\n- Successful commercial deal marks Waymo's first with Lyft 💼\n- Collaboration follows Waymo's previous partnerships in U.S. markets 🌎\n- Nashville residents to benefit from autonomous ride-hailing service 🙌\n- Waymo's strategic move to penetrate new markets with Lyft ⚡️\n- Joint venture aims to revolutionize transportation in Nashville 🛣️\n\nTAKEAWAY: Waymo's groundbreaking partnership with Lyft to introduce robotaxis in Nashville signifies a major step in revolutionizing transportation services.",
+      "exported_at": "2025-09-17T09:16:51.899192",
       "continuous_session": true
     }
   ]
