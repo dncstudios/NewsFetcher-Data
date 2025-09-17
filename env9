@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T06:03:13.567465",
-    "total_articles": 1186,
-    "new_articles_in_last_fetch": 1186,
+    "created_at": "2025-09-17T06:13:26.089903",
+    "total_articles": 1187,
+    "new_articles_in_last_fetch": 1187,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -15414,6 +15414,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: 🚀 ELLIOTT MANAGEMENT INVESTS $2 BILLION IN WORKDAY!\n\n- Elliott Management shows confidence in Workday leadership 💪\n- Stake of over $2 billion signals strong support 📈\n- Workday receives backing from influential investor 🔥\n- Activist investor Elliott Management makes strategic move 💼\n\nTAKEAWAY: Elliott Management's $2 billion stake in Workday showcases strong support for the company's leadership, signaling a positive outlook for the future.",
       "exported_at": "2025-09-17T06:03:13.486785",
+      "continuous_session": true
+    },
+    {
+      "title": "Alibaba&apos;s shares jump after it lands a major customer for its AI chips",
+      "link": "https://www.cnbc.com/2025/09/17/alibaba-shares-today-after-it-lands-major-customer-for-its-ai-chips.html",
+      "summary": "China Unicom will deploy Alibaba's AI chips via the e-commerce giant's cloud computing unit, according to state media CCTV.",
+      "published": "Wed, 17 Sep 2025 10:08:51 GMT",
+      "content": "China Unicom will deploy Alibaba's AI chips via the e-commerce giant's cloud computing unit, according to state media CCTV.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c0da2eda62e32c813eb87625b5730339",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ALIBABA'S SHARES SOAR AS CHINA UNICOM ADOPTS AI CHIPS 🚀\n\n- Alibaba's AI chips to be deployed by China Unicom 🤖\n- Partnership announced through state media CCTV 📺\n- Boost in Alibaba's shares following the news 📈\n\nTAKEAWAY: Alibaba's stock surges after securing China Unicom as a major customer for its AI chips, signaling a promising growth trajectory.",
+      "exported_at": "2025-09-17T06:13:25.999846",
       "continuous_session": true
     }
   ]
