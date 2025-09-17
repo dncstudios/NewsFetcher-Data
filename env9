@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T08:20:47.014586",
-    "total_articles": 1197,
-    "new_articles_in_last_fetch": 1197,
+    "created_at": "2025-09-17T08:41:09.365717",
+    "total_articles": 1199,
+    "new_articles_in_last_fetch": 1199,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -15557,6 +15557,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WEDNESDAY'S TOP WALL STREET ANALYST CALLS 🚀\n\n- Analysts make significant calls on Nvidia, Apple, Netflix, Nike 📈\n- Key insights provided for Disney, Micron, Walmart, Zillow, FedEx ✅\n- Market experts share recommendations for major companies 🎯\n\nTAKEAWAY: Wall Street analysts reveal crucial insights and recommendations for top companies, shaping market trends and investor decisions.",
       "exported_at": "2025-09-17T08:20:46.923928",
+      "continuous_session": true
+    },
+    {
+      "title": "Speaker Johnson says China is straining U.S. relations with Nvidia chip ban",
+      "link": "https://www.cnbc.com/2025/09/17/china-us-nvidia-chip-ban.html",
+      "summary": "The Cyberspace Administration of China ordered companies to halt purchases of Nvidia's RTX Pro 6000D, a chip that was made for the country.",
+      "published": "Wed, 17 Sep 2025 12:39:20 GMT",
+      "content": "The Cyberspace Administration of China ordered companies to halt purchases of Nvidia's RTX Pro 6000D, a chip that was made for the country.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f7a2e58c8232f83c4c41e04cddf7b41a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SPEAKER JOHNSON WARNS OF CHINA STRAINING US RELATIONS WITH NVIDIA CHIP BAN ⚠️\n\n- China orders halt on purchases of Nvidia's RTX Pro 6000D chip 🛑\n- Chip ban creates tension between China and the US 🇨🇳🇺🇸\n- Nvidia faces impact due to China's directive 📉\n- Cyberspace Administration of China issues the ban 🇨🇳\n- Speaker Johnson highlights strain on US-China relations 🤯\n- Chip ban adds to existing trade and tech tensions 🔥\n\nTAKEAWAY: China's ban on Nvidia's chip escalates tensions between the US and China, impacting Nvidia and raising concerns about trade and tech disputes.",
+      "exported_at": "2025-09-17T08:41:09.286724",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: Nvidia, Alibaba, Workday, Netflix and more",
+      "link": "https://www.cnbc.com/2025/09/17/stocks-making-the-biggest-moves-premarket-nvda-baba-wday-nflx.html",
+      "summary": "These are the stocks posting the largest moves in premarket trading.",
+      "published": "Wed, 17 Sep 2025 12:29:53 GMT",
+      "content": "These are the stocks posting the largest moves in premarket trading.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6a6d090b3cbdf671cf80ff7f5da4be69",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS MAKING BIG PREMARKET MOVES: NVIDIA, ALIBABA, WORKDAY, NETFLIX 🚀\n\n- Nvidia, Alibaba, Workday, Netflix show significant premarket activity 📈\n- Investors closely monitoring these stocks before market opening 🧐\n- Pre-market trading indicating potential volatility for these companies 💥\n\nTAKEAWAY: Nvidia, Alibaba, Workday, and Netflix are generating excitement with notable premarket movements, attracting investor attention for potential trading opportunities.",
+      "exported_at": "2025-09-17T08:41:09.286797",
       "continuous_session": true
     }
   ]
