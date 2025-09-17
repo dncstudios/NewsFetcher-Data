@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T20:23:49.154410",
-    "total_articles": 1153,
-    "new_articles_in_last_fetch": 1153,
+    "created_at": "2025-09-16T20:34:03.365675",
+    "total_articles": 1155,
+    "new_articles_in_last_fetch": 1155,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -14985,6 +14985,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP AND EPSTEIN IMAGES PROJECTED ON WINDSOR CASTLE DURING UK VISIT 🚨\n\n- Images of Trump and Epstein displayed during UK visit 🏰\n- Trump under fire for Justice Department decision on Epstein files 📁\n- Criticism grows over lack of transparency regarding Epstein case 🔍\n\nTAKEAWAY: Controversy surrounds Trump as images of him and Epstein are projected on Windsor Castle during his UK visit, amid criticism for lack of transparency on Justice Department's decision.",
       "exported_at": "2025-09-16T20:23:49.073972",
+      "continuous_session": true
+    },
+    {
+      "title": "Activist investor Elliott takes more than $2 billion stake in Workday",
+      "link": "https://www.cnbc.com/2025/09/16/activist-investor-elliott-takes-more-than-2-billion-stake-in-workday.html",
+      "summary": "Activist investor Elliott Management said on Tuesday it has taken more than $2 billion stake in human resources software seller Workday.",
+      "published": "Wed, 17 Sep 2025 00:32:02 GMT",
+      "content": "Activist investor Elliott Management said on Tuesday it has taken more than $2 billion stake in human resources software seller Workday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "11ef4db2abf819e052eb6bbd94288644",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ELLIOTT MANAGEMENT INVESTS $2 BILLION IN WORKDAY 🚀\n\n- Activist investor Elliott Management reveals $2 billion stake in Workday 💼\n- Investment signifies confidence in human resources software sector 📈\n- Workday's stock likely to experience increased momentum 📊\n- Move could lead to strategic changes or improvements at Workday 💡\n- Elliott's involvement may impact Workday's future direction 🎯\n\nTAKEAWAY: Elliott Management's substantial investment in Workday indicates a potential shift in the human resources software landscape, with expectations for positive changes ahead.",
+      "exported_at": "2025-09-16T20:34:03.288063",
+      "continuous_session": true
+    },
+    {
+      "title": "Lilly trial shows weight loss with experimental pill flattens over time",
+      "link": "https://www.cnbc.com/2025/09/16/lilly-trial-shows-weight-loss-with-experimental-pill-flattens-over-time.html",
+      "summary": "Eli Lilly's Nexperimental GLP-1 pill helped people lose about 12% of their body weight, with weight loss plateauing for most patients in the 72-week trial, according to full study results presented at a medical meeting on Tuesday.",
+      "published": "Wed, 17 Sep 2025 00:26:50 GMT",
+      "content": "Eli Lilly's Nexperimental GLP-1 pill helped people lose about 12% of their body weight, with weight loss plateauing for most patients in the 72-week trial, according to full study results presented at a medical meeting on Tuesday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "344aa128742337a6bca01b24e034eb32",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: LILLY'S EXPERIMENTAL PILL SHOWS PROMISING WEIGHT LOSS RESULTS 🚀\n\n- Eli Lilly's GLP-1 pill yields 12% body weight loss\n- Weight loss levels off for most participants in 72-week trial\n- Full study results revealed at medical meeting\n- Potential for sustained weight management highlighted\n- Pill's impact on long-term weight loss effectiveness discussed\n- Excitement over initial weight loss results tempered by plateau\n\nTAKEAWAY: Lilly's experimental GLP-1 pill demonstrates significant initial weight loss potential, but plateauing results raise questions about sustained effectiveness over time.",
+      "exported_at": "2025-09-16T20:34:03.288128",
       "continuous_session": true
     }
   ]
