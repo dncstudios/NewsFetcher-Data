@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T10:12:58.251692",
-    "total_articles": 1210,
-    "new_articles_in_last_fetch": 1210,
+    "created_at": "2025-09-17T10:33:16.258705",
+    "total_articles": 1211,
+    "new_articles_in_last_fetch": 1211,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -15726,6 +15726,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WORKDAY STOCK SOARS AS ELLIOTT INVESTS $2 BILLION 🚀\n\n- Elliott Investment Management buys $2 billion stake in Workday 💰\n- Workday stock price surges following Elliott's investment 📈\n- Activist investor Elliott shows confidence in Workday's potential ✅\n\nTAKEAWAY: Workday's stock sees a significant boost as activist investor Elliott Investment Management shows strong confidence in the company's future with a $2 billion stake.",
       "exported_at": "2025-09-17T10:12:58.163003",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks like Rocket Companies could see the biggest gains as Fed drives down short-term rates",
+      "link": "https://www.cnbc.com/2025/09/17/rocket-mortgage-should-benefit-as-fed-drives-down-short-term-rates.html",
+      "summary": "CNBC Pro screened U.S. stocks to find those with the highest inverse correlation with the two-year Treasury yield over the past 10 years.",
+      "published": "Wed, 17 Sep 2025 14:28:15 GMT",
+      "content": "CNBC Pro screened U.S. stocks to find those with the highest inverse correlation with the two-year Treasury yield over the past 10 years.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "dfebf3128df5b0dd0bcc94de8ed52429",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS LIKE ROCKET MORTGAGE PRIMED FOR BIG GAINS AS FED CUTS RATES 🚀\n\n- CNBC Pro identifies US stocks inversely correlated with 2-year Treasury yield\n- Rocket Mortgage stands out as potential winner in rate-cut environment\n- Fed's reduction in short-term rates likely to boost selected stocks\n\nTAKEAWAY: Rocket Mortgage and similar stocks could experience significant growth as the Fed's rate cuts drive down short-term rates, presenting a promising opportunity for investors.",
+      "exported_at": "2025-09-17T10:33:16.181274",
       "continuous_session": true
     }
   ]
