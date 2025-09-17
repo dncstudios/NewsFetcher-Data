@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T05:47:55.903732",
-    "total_articles": 1184,
-    "new_articles_in_last_fetch": 1184,
+    "created_at": "2025-09-17T06:03:13.567465",
+    "total_articles": 1186,
+    "new_articles_in_last_fetch": 1186,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -15388,6 +15388,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TIM COOK OPTIMISTIC ABOUT APPLE'S U.S. MANUFACTURING SHIFT 🚀\n\n- Tim Cook pleased with progress on Apple's U.S. manufacturing shift 🇺🇸\n- Focus on stitching together end-to-end silicon supply chain in the U.S. ⚙️\n- Cook highlights positive strides in bringing more manufacturing to the U.S. 📈\n- Apple CEO expresses optimism in CNBC interview with Jim Cramer 🎙️\n- Emphasis on enhancing domestic production capabilities 🏭\n\nTAKEAWAY: Tim Cook's optimism about Apple's U.S. manufacturing shift signals positive progress in bringing more production capabilities to the United States. 🌟",
       "exported_at": "2025-09-17T05:47:55.824061",
+      "continuous_session": true
+    },
+    {
+      "title": "OpenAI releases first-of-kind study revealing how people are using ChatGPT for everyday tasks",
+      "link": "https://www.cnbc.com/2025/09/17/openai-releases-first-of-kind-study-revealing-how-people-use-chatgpt.html",
+      "summary": "A first-of-its-kind study has revealed how people are using OpenAI’s popular artificial intelligence chatbot ChatGPT.",
+      "published": "Wed, 17 Sep 2025 09:56:34 GMT",
+      "content": "A first-of-its-kind study has revealed how people are using OpenAI’s popular artificial intelligence chatbot ChatGPT.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b81168cc0ede2b23a79e8b3391f4986e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: OPENAI'S CHATGPT STUDY UNVEILS AI USAGE INSIGHTS 🤖\n\n- Study uncovers how people utilize OpenAI's ChatGPT 📊\n- ChatGPT's impact on everyday tasks explored in-depth ✅\n- Findings shed light on AI's practical applications 🔍\n- Insights into user behaviors and preferences revealed 🧠\n- Study offers unique perspective on AI integration 🌐\n- Potential implications for future AI development discussed 💡\n\nTAKEAWAY: OpenAI's groundbreaking study on ChatGPT usage provides valuable insights into AI applications, user behaviors, and future development prospects.",
+      "exported_at": "2025-09-17T06:03:13.486698",
+      "continuous_session": true
+    },
+    {
+      "title": "Activist investor Elliott takes more than $2 billion stake in Workday, backs leadership",
+      "link": "https://www.cnbc.com/2025/09/16/activist-investor-elliott-takes-more-than-2-billion-stake-in-workday.html",
+      "summary": "Activist investor Elliott Management said on Tuesday it has built a stake of more than $2 billion in human resources software provider Workday.",
+      "published": "Wed, 17 Sep 2025 10:01:00 GMT",
+      "content": "Activist investor Elliott Management said on Tuesday it has built a stake of more than $2 billion in human resources software provider Workday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d2bf464ad3e209141b4b4d71abe0e05f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 🚀 ELLIOTT MANAGEMENT INVESTS $2 BILLION IN WORKDAY!\n\n- Elliott Management shows confidence in Workday leadership 💪\n- Stake of over $2 billion signals strong support 📈\n- Workday receives backing from influential investor 🔥\n- Activist investor Elliott Management makes strategic move 💼\n\nTAKEAWAY: Elliott Management's $2 billion stake in Workday showcases strong support for the company's leadership, signaling a positive outlook for the future.",
+      "exported_at": "2025-09-17T06:03:13.486785",
       "continuous_session": true
     }
   ]
