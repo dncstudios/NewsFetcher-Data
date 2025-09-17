@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T16:40:56.388471",
-    "total_articles": 1264,
-    "new_articles_in_last_fetch": 1264,
+    "created_at": "2025-09-17T17:01:17.350842",
+    "total_articles": 1265,
+    "new_articles_in_last_fetch": 1265,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -16427,6 +16427,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CRACKER BARREL STOCK PLUNGES 10% AFTER MIXED EARNINGS REPORT 📉\n\n- Cracker Barrel's Q4 earnings reported post-rebranding controversy\n- Stock drops 10% following the earnings announcement 📉\n- Investors react to the mixed earnings report 📊\n- Company faces challenges amidst the rebranding fallout ⚠️\n- Q4 results impact Cracker Barrel's financial performance 📊\n\nTAKEAWAY: Cracker Barrel's stock takes a hit with a 10% drop after reporting mixed earnings post-rebranding controversy, facing challenges and investor reactions.",
       "exported_at": "2025-09-17T16:40:56.296338",
+      "continuous_session": true
+    },
+    {
+      "title": "AI startup Nscale came out of nowhere and is blowing away Nvidia CEO Jensen Huang",
+      "link": "https://www.cnbc.com/2025/09/17/ai-startup-nscale-from-uk-is-blowing-away-nvidia-ceo-jensen-huang.html",
+      "summary": "Nscale has quickly become an important part of the U.K.'s bid to become a global AI player.",
+      "published": "Wed, 17 Sep 2025 20:57:05 GMT",
+      "content": "Nscale has quickly become an important part of the U.K.'s bid to become a global AI player.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "feaf80b452fc675041f97a8ac2fa1aa2",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AI STARTUP NSCALE OUTPERFORMS NVIDIA CEO JENSEN HUANG 🚀\n\n- Nscale emerges as a key player in the U.K.'s AI industry 🇬🇧\n- Rapid rise challenges Nvidia CEO's dominance in AI sector 💥\n- Nscale's sudden success surprises industry experts 🌟\n- U.K. aims to establish global AI presence through Nscale partnership 🎯\n\nTAKEAWAY: Nscale's unexpected success in the AI industry is shaking up the competition, positioning the U.K. as a significant player in the global AI market.",
+      "exported_at": "2025-09-17T17:01:17.271579",
       "continuous_session": true
     }
   ]
