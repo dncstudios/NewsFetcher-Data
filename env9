@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T01:38:51.551220",
-    "total_articles": 1169,
-    "new_articles_in_last_fetch": 1169,
+    "created_at": "2025-09-17T01:43:57.856400",
+    "total_articles": 1170,
+    "new_articles_in_last_fetch": 1170,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -15193,6 +15193,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CNBC'S UK EXCHANGE NEWSLETTER: CAN UK TRADE COME UP TRUMPS? 🚀\n\n- UK economy stagnates, hopes high on Trump's visit 📉\n- \"Tiara diplomacy\" in play, focusing on UK trade 🇬🇧\n- Speculation rises on impact of Trump's visit to Britain 💭\n- Pressure on UK economy to boost trade relations ✅\n- Uncertainty looms amidst stagnant economic growth ⚠️\n\nTAKEAWAY: With the UK economy stagnant, all eyes are on President Trump's visit as hopes are high for a boost in trade relations through \"tiara diplomacy.\"",
       "exported_at": "2025-09-17T01:38:51.460592",
+      "continuous_session": true
+    },
+    {
+      "title": "Asia markets trade mixed after Wall Street declines as investors await Fed decision",
+      "link": "https://www.cnbc.com/2025/09/17/asia-markets-updates-today-hang-seng-index-nikkei-225-kospi-asx-200-nifty-50-fed-decision-rates.html",
+      "summary": "Investors expect the U.S. Federal Reserve to cut interest rates at the end of its two-day meeting Wednesday stateside.",
+      "published": "Wed, 17 Sep 2025 05:43:13 GMT",
+      "content": "Investors expect the U.S. Federal Reserve to cut interest rates at the end of its two-day meeting Wednesday stateside.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c99d5f283f0e043ddce712e852720d8a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASIA MARKETS AWAIT FED DECISION AFTER WALL STREET LOSSES 🚀\n\n- Asia markets poised to mirror Wall Street's decline 📉\n- Investors anticipate U.S. Federal Reserve's rate cut decision 📉\n- All eyes on Fed's two-day meeting ending Wednesday 🧐\n- Market sentiment cautious ahead of Fed announcement 🚨\n- Expectation for interest rate cut driving investor behavior 🔥\n\nTAKEAWAY: Asia markets bracing for potential rate cut as investors eagerly await the U.S. Federal Reserve's decision, mirroring Wall Street's losses in anticipation.",
+      "exported_at": "2025-09-17T01:43:57.786732",
       "continuous_session": true
     }
   ]
