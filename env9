@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-16T20:34:03.365675",
-    "total_articles": 1155,
-    "new_articles_in_last_fetch": 1155,
+    "created_at": "2025-09-16T20:39:15.616255",
+    "total_articles": 1156,
+    "new_articles_in_last_fetch": 1156,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -15011,6 +15011,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: LILLY'S EXPERIMENTAL PILL SHOWS PROMISING WEIGHT LOSS RESULTS 🚀\n\n- Eli Lilly's GLP-1 pill yields 12% body weight loss\n- Weight loss levels off for most participants in 72-week trial\n- Full study results revealed at medical meeting\n- Potential for sustained weight management highlighted\n- Pill's impact on long-term weight loss effectiveness discussed\n- Excitement over initial weight loss results tempered by plateau\n\nTAKEAWAY: Lilly's experimental GLP-1 pill demonstrates significant initial weight loss potential, but plateauing results raise questions about sustained effectiveness over time.",
       "exported_at": "2025-09-16T20:34:03.288128",
+      "continuous_session": true
+    },
+    {
+      "title": "Japan reports slower-than-expected exports contraction in August, extending decline to fourth month",
+      "link": "https://www.cnbc.com/2025/09/17/japan-exports-slip-for-fourth-straight-month-but-less-than-expected-.html",
+      "summary": "Japanese shipments fell 0.1% year on year, compared to a 2.6% fall in July and softer than the 1.9% contraction expected by economists polled by Reuters.",
+      "published": "Wed, 17 Sep 2025 00:38:46 GMT",
+      "content": "Japanese shipments fell 0.1% year on year, compared to a 2.6% fall in July and softer than the 1.9% contraction expected by economists polled by Reuters.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2825e8af0f0684c9cdc7f8070730d158",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JAPAN EXPORTS CONTRACT AT SLOWER PACE IN AUGUST 📉\n\n- Japanese exports decline by 0.1% YoY in August\n- Continues 4-month decline streak, softer than expected\n- July saw a steeper 2.6% fall in exports\n- Economists had forecasted a 1.9% contraction\n- The export sector faces ongoing challenges\n- Market watches closely for future export trends\n\nTAKEAWAY: Japan's export sector experiences a milder decline than expected in August, showing resilience amidst ongoing challenges.",
+      "exported_at": "2025-09-16T20:39:15.524179",
       "continuous_session": true
     }
   ]
