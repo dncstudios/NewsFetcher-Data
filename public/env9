@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T02:34:48.687293",
-    "total_articles": 1173,
-    "new_articles_in_last_fetch": 1173,
+    "created_at": "2025-09-17T02:50:02.989509",
+    "total_articles": 1174,
+    "new_articles_in_last_fetch": 1174,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -15245,6 +15245,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CNBC'S UK EXCHANGE NEWSLETTER: CAN UK TRADE COME UP TRUMPS? 🚀\n\n- UK economy stagnates, awaiting boost from Trump's visit 📉\n- High hopes pinned on potential trade agreements 🌍🔍\n- Anticipation for economic revitalization through partnerships 💼📈\n- Trump's visit seen as a game-changer for UK trade 🎯\n- Expectations high for economic impact post-Trump's visit 💰📈\n- Potential for significant trade opportunities between UK and US 🌐💱\n\nTAKEAWAY: The UK's economic future hinges on President Trump's visit, with hopes soaring for trade agreements and a much-needed boost to the stagnant economy.",
       "exported_at": "2025-09-17T02:34:48.599388",
+      "continuous_session": true
+    },
+    {
+      "title": "China&apos;s Baidu soars 16% to hit 2-year highs amid positive signs for its AI business",
+      "link": "https://www.cnbc.com/2025/09/17/baidu-shares-ai-partnership-fresh-capital-.html",
+      "summary": "Chinese tech giant Baidu saw its shares jump 16% amid signs the company is ramping up its artificial intelligence plans and partnerships.",
+      "published": "Wed, 17 Sep 2025 06:46:53 GMT",
+      "content": "Chinese tech giant Baidu saw its shares jump 16% amid signs the company is ramping up its artificial intelligence plans and partnerships.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0be41f24a2a9048d8fd7d5c5e7a8894f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BAIDU SOARS 16% TO HIT 2-YEAR HIGHS ON AI PARTNERSHIP 🚀\n\n- Baidu shares surge 16% on AI expansion 📈\n- Company strengthens AI plans and partnerships 💪\n- Achieves 2-year high amidst tech advancements 🚀\n\nTAKEAWAY: Baidu's 16% surge to 2-year highs reflects investor excitement over its AI initiatives and strategic partnerships, signaling a strong growth trajectory.",
+      "exported_at": "2025-09-17T02:50:02.908517",
       "continuous_session": true
     }
   ]
