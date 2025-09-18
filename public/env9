@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T13:52:06.900538",
-    "total_articles": 1349,
-    "new_articles_in_last_fetch": 1349,
+    "created_at": "2025-09-18T14:12:30.843661",
+    "total_articles": 1352,
+    "new_articles_in_last_fetch": 1352,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -17531,6 +17531,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCKS MAKING BIGGEST MIDDAY MOVES 🚀\n\n- Intel and Novo Nordisk among top performers 📈\n- Bullish market sentiment driving stock prices up ⚡️\n- Allstate showing significant midday gains 💰\n- Investors closely monitoring market movements 📊\n\nTAKEAWAY: Intel, Novo Nordisk, and Allstate are leading midday stock performers, driven by bullish market sentiment and closely watched by investors.",
       "exported_at": "2025-09-18T13:52:06.811542",
+      "continuous_session": true
+    },
+    {
+      "title": "The Fed&apos;s rate cut masked large internal differences about where policy is going",
+      "link": "https://www.cnbc.com/2025/09/18/the-feds-rate-cut-masked-large-internal-differences-about-where-policy-is-going.html",
+      "summary": "While the final rate vote was lopsided, he Fed showed considerable uncertainty on the future.",
+      "published": "Thu, 18 Sep 2025 18:05:42 GMT",
+      "content": "While the final rate vote was lopsided, he Fed showed considerable uncertainty on the future.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "373b9a290032d7e6f48b5bfe12dfdc4d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: THE FED'S RATE CUT UNVEILS INTERNAL UNCERTAINTY ⚠️\n\n- Final rate vote lopsided, but Fed uncertain on future 🤔\n- Considerable internal differences revealed post-rate cut 💼\n- Uncertainty looms over Fed's policy direction 🌫️\n\nTAKEAWAY: The Fed's recent rate cut may have shown a clear decision, but internal uncertainty about future policy direction hints at potential challenges ahead.",
+      "exported_at": "2025-09-18T14:12:30.768232",
+      "continuous_session": true
+    },
+    {
+      "title": "Notion rides AI boom to $500 million in annual revenue, but Microsoft competition looms",
+      "link": "https://www.cnbc.com/2025/09/18/notion-launches-ai-agent-as-it-crosses-500-million-in-annual-revenue.html",
+      "summary": "Notion, which competes with Google and Microsoft in productivity software, has seen soaring revenue growth thanks to a host of AI tools.",
+      "published": "Thu, 18 Sep 2025 18:00:28 GMT",
+      "content": "Notion, which competes with Google and Microsoft in productivity software, has seen soaring revenue growth thanks to a host of AI tools.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "cee23e4f99b32fc7f6ba3120da8af53d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NOTION'S AI-POWERED SUCCESS SURGES TO $500M 🚀\n\n- Notion's annual revenue hits $500 million milestone 🌟\n- Competes with Google, Microsoft in productivity software market 📈\n- AI tools drive Notion's impressive revenue growth 🤖\n- Faces looming competition from tech giant Microsoft ⚠️\n- Notion's success attributed to innovative AI strategies 💡\n- Microsoft poses significant competition threat to Notion 🚨\n\nTAKEAWAY: Notion's remarkable growth to $500 million in revenue is fueled by AI tools, but the looming competition from Microsoft adds pressure to maintain its success in the productivity software market.",
+      "exported_at": "2025-09-18T14:12:30.768336",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump hints at &apos;good news&apos; coming on the Russia-Ukraine war",
+      "link": "https://www.cnbc.com/2025/09/18/trump-putin-russia-ukraine-news.html",
+      "summary": "U.S. President Donald Trump admitted that he had been surprised by how difficult the conflict between Russia and Ukraine has been to resolve.",
+      "published": "Thu, 18 Sep 2025 17:55:43 GMT",
+      "content": "U.S. President Donald Trump admitted that he had been surprised by how difficult the conflict between Russia and Ukraine has been to resolve.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c327d530b978258067f25d1c29f2b031",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP TEASES 'GOOD NEWS' ON RUSSIA-UKRAINE WAR 🌟\n\n- Trump acknowledges surprise at Russia-Ukraine conflict difficulty 🤯\n- Hints at upcoming positive developments 🌈\n- Speculation rises on potential peace talks progress 🕊️\n\nTAKEAWAY: Trump's hint at 'good news' on the Russia-Ukraine war sparks optimism and speculation around potential positive developments in the conflict resolution process.",
+      "exported_at": "2025-09-18T14:12:30.768354",
       "continuous_session": true
     }
   ]
