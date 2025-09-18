@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T16:25:21.313380",
-    "total_articles": 1375,
-    "new_articles_in_last_fetch": 1375,
+    "created_at": "2025-09-18T16:30:31.978455",
+    "total_articles": 1378,
+    "new_articles_in_last_fetch": 1378,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -17869,6 +17869,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: RAPID UPDATE ON 31 PORTFOLIO STOCKS 🚀\n\n- Jim Cramer shares insights on Fed's policy, tariffs 🔍\n- Investors guided through China's impact 🇨🇳\n- New stock addition to the portfolio revealed 🆕\n\nTAKEAWAY: Stay ahead of the game with Jim Cramer's guidance on navigating market complexities and the latest portfolio updates.",
       "exported_at": "2025-09-18T16:25:21.220434",
+      "continuous_session": true
+    },
+    {
+      "title": "Intel surges 22% after $5 billion Nvidia investment, posts best day in nearly 38 years",
+      "link": "https://www.cnbc.com/2025/09/18/intel-nvidia-investment.html",
+      "summary": "Nvidia said it will invest $5 billion in Intel as part of a deal to co-develop data center and PC products with the troubled chipmaker.",
+      "published": "Thu, 18 Sep 2025 20:17:40 GMT",
+      "content": "Nvidia said it will invest $5 billion in Intel as part of a deal to co-develop data center and PC products with the troubled chipmaker.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9aca9db194330ff6010068f72c1998fc",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: INTEL SOARS 30% AFTER NVIDIA'S $5 BILLION INVESTMENT 🚀\n\n- Nvidia to inject $5 billion into Intel for data center, PC collaboration 💰\n- Intel's stock surges by 30% following the investment news 📈\n- Collaboration aims to boost Intel's position in chipmaking industry 🚀\n- Nvidia's support expected to enhance Intel's product offerings 🔥\n- Deal signifies a strategic partnership between two tech giants ✅\n\nTAKEAWAY: Intel's stock skyrockets by 30% as Nvidia announces a $5 billion investment, setting the stage for a powerful collaboration in data centers and PCs.",
+      "exported_at": "2025-09-18T16:30:31.936690",
+      "continuous_session": true
+    },
+    {
+      "title": "S&amp;P 500, small-cap Russell close at all-time highs a day after Fed rate cut",
+      "link": "https://www.cnbc.com/2025/09/17/stock-market-today-live-updates.html",
+      "summary": "The moves followed a volatile day of trading Wednesday after the Federal Reserve, as anticipated, slashed its benchmark rate by a quarter percentage point.",
+      "published": "Thu, 18 Sep 2025 20:29:05 GMT",
+      "content": "The moves followed a volatile day of trading Wednesday after the Federal Reserve, as anticipated, slashed its benchmark rate by a quarter percentage point.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2d6457e9f063cdfbe4fd766458f9dcaa",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: S&P 500, RUSSELL HIT ALL-TIME HIGHS POST-FED RATE CUT 🚀\n\n- S&P 500 and Russell reach record highs post-Fed rate cut 📈\n- Fed cuts benchmark rate by 0.25%, sparking market volatility 🔥\n- Investors respond positively to Fed's anticipated rate cut move ✅\n- Small-cap Russell index also surges alongside S&P 500 ⚡️\n- Market experiences volatility amidst rate cut announcement 🚨\n\nTAKEAWAY: S&P 500 and small-cap Russell indices soar to all-time highs after the Federal Reserve's expected rate cut, signaling positive investor response and market momentum.",
+      "exported_at": "2025-09-18T16:30:31.936735",
+      "continuous_session": true
+    },
+    {
+      "title": "Santoli&apos;s Thursday market wrap-up: Upbeat but not-quite-euphoric response to Fed",
+      "link": "https://www.cnbc.com/2025/09/18/santolis-thursday-market-wrap-up-upbeat-but-not-euphoric-response-to-fed-.html",
+      "summary": "All indexes clicked to record highs, but the benchmark S&amp;P 500 was off its highs and not far above Wednesday's peak.",
+      "published": "Thu, 18 Sep 2025 20:22:35 GMT",
+      "content": "All indexes clicked to record highs, but the benchmark S&amp;P 500 was off its highs and not far above Wednesday's peak.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b19a2af25255da9f30d4b01bd18dbf83",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SANTOLI'S MARKET WRAP-UP: RECORD HIGHS, FED RESPONSE 🚀\n\n- All indexes hit record highs, S&P 500 slightly below peak 📈\n- Market response upbeat, but not euphoric 🎉\n- Investors optimistic despite S&P 500 off its highs\n\nTAKEAWAY: Market hits record highs with an optimistic response to the Fed, although not quite reaching euphoria.",
+      "exported_at": "2025-09-18T16:30:31.936743",
       "continuous_session": true
     }
   ]
