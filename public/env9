@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T15:49:30.955206",
-    "total_articles": 1366,
-    "new_articles_in_last_fetch": 1366,
+    "created_at": "2025-09-18T15:54:39.213380",
+    "total_articles": 1367,
+    "new_articles_in_last_fetch": 1367,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -17752,6 +17752,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP'S MEDIA PRESSURE RISES AS KIMMEL SIDELINED INDEFINITELY 🚨\n\n- Kimmel's hiatus sparks concerns on free speech protection 🗣️\n- Parallels drawn to CBS canceling \"The Late Show With Stephen Colbert\" 📺\n- Trump's pressure on media under scrutiny 🧐\n\nTAKEAWAY: Kimmel's indefinite hiatus fuels discussions on free speech protection amidst mounting pressure on media by Trump.",
       "exported_at": "2025-09-18T15:49:30.848981",
+      "continuous_session": true
+    },
+    {
+      "title": "CrowdStrike looks out 10 years at its investor day, and the cybersecurity stock soars",
+      "link": "https://www.cnbc.com/2025/09/18/crowdstrike-looks-out-10-years-at-its-investor-day-and-the-cybersecurity-stock-soared.html",
+      "summary": "George Kurtz, co-founder and CEO of CrowdStrike, and other company executives presented a multiyear path to growth.",
+      "published": "Thu, 18 Sep 2025 19:52:41 GMT",
+      "content": "George Kurtz, co-founder and CEO of CrowdStrike, and other company executives presented a multiyear path to growth.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "28612d4d5eadeee33e3e7382fb0de3dc",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CROWDSTRIKE'S 10-YEAR VISION SENDS CYBERSECURITY STOCK SOARING 🚀\n\n- CrowdStrike's CEO unveils long-term growth strategy 💡\n- Executives map out multiyear plan for company expansion 📈\n- Investor day presentation ignites investor confidence 🔥\n- Company's stock price surges following the event 📈\n- CrowdStrike aims for sustained growth and success in the future ✅\n\nTAKEAWAY: CrowdStrike's ambitious 10-year vision outlined during the investor day fuels investor confidence, leading to a significant surge in the cybersecurity stock price.",
+      "exported_at": "2025-09-18T15:54:39.109601",
       "continuous_session": true
     }
   ]
