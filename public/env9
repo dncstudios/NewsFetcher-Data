@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T20:14:32.817847",
-    "total_articles": 1278,
-    "new_articles_in_last_fetch": 1278,
+    "created_at": "2025-09-17T20:34:54.861595",
+    "total_articles": 1280,
+    "new_articles_in_last_fetch": 1280,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -16609,6 +16609,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ASIA-PACIFIC MARKETS MIXED AFTER FED RATE CUT 🌏\n\n- Markets trade mixed post-Fed rate cut announcement 📉📈\n- Bank of Japan begins two-day policy meeting 🇯🇵\n- Economists predict Japan to maintain policy rates ✅\n- Uncertainty looms over upcoming policy decisions 🤔\n- Investors cautious amid mixed market movements ⚠️\n- Asia-Pacific markets react to global economic changes 🌍\n\nTAKEAWAY: Asia-Pacific markets show mixed reactions post-Fed rate cut, with investors closely monitoring the Bank of Japan's upcoming policy decisions for potential market shifts.",
       "exported_at": "2025-09-17T20:14:32.730908",
+      "continuous_session": true
+    },
+    {
+      "title": "Stock futures are up slightly following latest Fed decision: Live updates",
+      "link": "https://www.cnbc.com/2025/09/17/stock-market-today-live-updates.html",
+      "summary": "The moves follow a volatile day of trading Wednesday after the Fed, as anticipated, slashed its benchmark rate by a quarter percentage point.",
+      "published": "Wed, 17 Sep 2025 22:14:57 GMT",
+      "content": "The moves follow a volatile day of trading Wednesday after the Fed, as anticipated, slashed its benchmark rate by a quarter percentage point.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e6a6ad5cf30b2cb7df9c485c952241c1",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK FUTURES EDGE UP AFTER FED RATE CUT 📈\n\n- Stock futures rise slightly post-Fed decision 🚀\n- Wednesday saw volatile trading before rate cut ⚠️\n- Fed cuts benchmark rate by 0.25 percentage points ✅\n\nTAKEAWAY: Stock futures show a slight uptick following the Fed's rate cut, amidst a backdrop of volatile trading and market anticipation.",
+      "exported_at": "2025-09-17T20:34:54.767175",
+      "continuous_session": true
+    },
+    {
+      "title": "Mark Zuckerberg unveils $799 Meta Ray-Ban Display glasses",
+      "link": "https://www.cnbc.com/2025/09/17/zuckerberg-799-meta-ray-ban-display-glasses.html",
+      "summary": "Mark Zuckerberg on Wednesday unveiled the $799 Meta Ray-Ban Display glasses, the company's first consumer-ready glasses with a built-in display.",
+      "published": "Thu, 18 Sep 2025 00:28:38 GMT",
+      "content": "Mark Zuckerberg on Wednesday unveiled the $799 Meta Ray-Ban Display glasses, the company's first consumer-ready glasses with a built-in display.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c24fed9b1150626cb96ea91b9e8ae218",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MARK ZUCKERBERG REVEALS $799 META RAY-BAN DISPLAY GLASSES 🚀\n\n- Meta Ray-Ban Display glasses debut at $799 💸\n- Glasses feature built-in display, a first for the company 🕶️🔥\n- Zuckerberg presents consumer-ready tech innovation 💡\n- Meta's foray into consumer glasses market starts strong 💪\n- Potential for new wave of wearable technology emerges 🌊\n- Excitement builds around Meta's latest product launch 🎉\n\nTAKEAWAY: Mark Zuckerberg's Meta Ray-Ban Display glasses at $799 mark a significant entry into the consumer tech market, sparking excitement and potential for a new era of wearable technology.",
+      "exported_at": "2025-09-17T20:34:54.767240",
       "continuous_session": true
     }
   ]
