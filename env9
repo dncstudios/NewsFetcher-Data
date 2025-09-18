@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T08:41:08.694997",
-    "total_articles": 1312,
-    "new_articles_in_last_fetch": 1312,
+    "created_at": "2025-09-18T09:01:26.966343",
+    "total_articles": 1313,
+    "new_articles_in_last_fetch": 1313,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -17050,6 +17050,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ORACLE'S LARRY ELLISON: MASTERING WEALTH CREATION 🚀\n\n- Ellison's $365 billion fortune defies traditional wealth management rules 📈\n- Built on leveraging shares for cash without losing control 💪\n- Risk-taking strategy sets him apart in the finance world 🔥\n\nTAKEAWAY: Larry Ellison's unconventional approach of leveraging shares and taking risks has propelled him to a massive $365 billion fortune, challenging traditional wealth management practices.",
       "exported_at": "2025-09-18T08:41:08.639620",
+      "continuous_session": true
+    },
+    {
+      "title": "Stock futures climb as investors jump back into tech post-fed; Intel and Nvidia lead gains: Live updates",
+      "link": "https://www.cnbc.com/2025/09/17/stock-market-today-live-updates.html",
+      "summary": "The moves follow a volatile day of trading Wednesday after the Fed, as anticipated, slashed its benchmark rate by a quarter percentage point.",
+      "published": "Thu, 18 Sep 2025 13:01:00 GMT",
+      "content": "The moves follow a volatile day of trading Wednesday after the Fed, as anticipated, slashed its benchmark rate by a quarter percentage point.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0f94af7679c5ecffda13005fe27888bb",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK FUTURES EDGE UP AFTER FED RATE CUT 📈\n\n- Stock futures rise slightly post-Fed decision 🚀\n- Wednesday saw volatile trading before rate cut ⚠️\n- Fed cuts benchmark rate by 0.25 percentage points ✅\n\nTAKEAWAY: Stock futures show a slight uptick following the Fed's rate cut, amidst a backdrop of volatile trading and market anticipation.",
+      "exported_at": "2025-09-18T09:01:26.866628",
       "continuous_session": true
     }
   ]
