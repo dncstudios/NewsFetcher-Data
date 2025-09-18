@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T12:30:40.797461",
-    "total_articles": 1341,
-    "new_articles_in_last_fetch": 1341,
+    "created_at": "2025-09-18T12:40:50.955942",
+    "total_articles": 1343,
+    "new_articles_in_last_fetch": 1343,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -17427,6 +17427,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: PROPERTY TAX DISPARITIES ACROSS U.S. STATES REVEALED 🏠\n\n- Property tax bills vary by thousands across all 50 states 🌎\n- Residents face different tax burdens based on location 📍\n- Some states have significantly higher property tax rates 💰\n\nTAKEAWAY: Property tax bills show significant disparities across U.S. states, impacting homeowners' financial burdens and location choices.",
       "exported_at": "2025-09-18T12:30:40.694001",
+      "continuous_session": true
+    },
+    {
+      "title": "FCC Chair Carr says &apos;we&apos;re not done yet&apos; after Jimmy Kimmel suspension by ABC",
+      "link": "https://www.cnbc.com/2025/09/18/jimmy-kimmel-charlie-kirk-fcc-carr.html",
+      "summary": "President Trump has praised ABC's suspension of Jimmy Kimmel'show after its host suggested the alleged killer of Charlie Kirk was linked to his MAGA movement.",
+      "published": "Thu, 18 Sep 2025 16:38:01 GMT",
+      "content": "President Trump has praised ABC's suspension of Jimmy Kimmel'show after its host suggested the alleged killer of Charlie Kirk was linked to his MAGA movement.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d0053819da3e61c6aaf6b4eb925982bf",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FCC'S CARR CRITICIZES JIMMY KIMMEL OVER CHARLIE KIRK COMMENTS ⚠️\n\n- FCC's Carr accuses Kimmel of misleading public on Kirk's killing\n- Trump applauds ABC's suspension of Kimmel's show\n- Kimmel implied killer was linked to MAGA movement\n\nTAKEAWAY: FCC's Carr criticizes Jimmy Kimmel for allegedly misleading the public on Charlie Kirk's killing, as Trump supports ABC's decision to suspend Kimmel's show.",
+      "exported_at": "2025-09-18T12:40:50.852121",
+      "continuous_session": true
+    },
+    {
+      "title": "S&amp;P 500 jumps to all-time high a day after rate cut, small-cap Russell on pace for a record close: Live updates",
+      "link": "https://www.cnbc.com/2025/09/17/stock-market-today-live-updates.html",
+      "summary": "The moves follow a volatile day of trading Wednesday after the Fed, as anticipated, slashed its benchmark rate by a quarter percentage point.",
+      "published": "Thu, 18 Sep 2025 16:39:55 GMT",
+      "content": "The moves follow a volatile day of trading Wednesday after the Fed, as anticipated, slashed its benchmark rate by a quarter percentage point.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ccc640493d140d9da7b2359e972d2f0d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK FUTURES EDGE UP AFTER FED RATE CUT 📈\n\n- Stock futures rise slightly post-Fed decision 🚀\n- Wednesday saw volatile trading before rate cut ⚠️\n- Fed cuts benchmark rate by 0.25 percentage points ✅\n\nTAKEAWAY: Stock futures show a slight uptick following the Fed's rate cut, amidst a backdrop of volatile trading and market anticipation.",
+      "exported_at": "2025-09-18T12:40:50.852187",
       "continuous_session": true
     }
   ]
