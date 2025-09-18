@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T05:32:48.370376",
-    "total_articles": 1294,
-    "new_articles_in_last_fetch": 1294,
+    "created_at": "2025-09-18T06:18:26.948067",
+    "total_articles": 1295,
+    "new_articles_in_last_fetch": 1295,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -16817,6 +16817,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AI BOOSTS WORKDAY'S GROWTH 🚀\n\n- Workday CEO sees AI as a positive force for the company 💪\n- Carl Eschenbach shares optimism with CNBC's Jim Cramer 🎤\n- Embracing AI helps Workday stay ahead in enterprise software 📈\n\nTAKEAWAY: Workday's CEO views artificial intelligence as a powerful driver propelling the company's growth in the competitive enterprise software market.",
       "exported_at": "2025-09-18T05:32:48.286170",
+      "continuous_session": true
+    },
+    {
+      "title": "Dow futures gain 300 points as traders digest Fed rate cut and outlook: Live updates",
+      "link": "https://www.cnbc.com/2025/09/17/stock-market-today-live-updates.html",
+      "summary": "The moves follow a volatile day of trading Wednesday after the Fed, as anticipated, slashed its benchmark rate by a quarter percentage point.",
+      "published": "Thu, 18 Sep 2025 10:14:40 GMT",
+      "content": "The moves follow a volatile day of trading Wednesday after the Fed, as anticipated, slashed its benchmark rate by a quarter percentage point.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9e9e44119e25ea73eb4ffeabdfc9a1e7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK FUTURES EDGE UP AFTER FED RATE CUT 📈\n\n- Stock futures rise slightly post-Fed decision 🚀\n- Wednesday saw volatile trading before rate cut ⚠️\n- Fed cuts benchmark rate by 0.25 percentage points ✅\n\nTAKEAWAY: Stock futures show a slight uptick following the Fed's rate cut, amidst a backdrop of volatile trading and market anticipation.",
+      "exported_at": "2025-09-18T06:18:26.852135",
       "continuous_session": true
     }
   ]
