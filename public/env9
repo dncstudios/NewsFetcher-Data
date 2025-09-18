@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T09:47:16.923287",
-    "total_articles": 1317,
-    "new_articles_in_last_fetch": 1317,
+    "created_at": "2025-09-18T10:02:36.917938",
+    "total_articles": 1320,
+    "new_articles_in_last_fetch": 1320,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -17115,6 +17115,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: INTEL SOARS 30% AFTER NVIDIA'S $5 BILLION INVESTMENT 🚀\n\n- Nvidia to inject $5 billion into Intel for data center, PC collaboration 💰\n- Intel's stock surges by 30% following the investment news 📈\n- Collaboration aims to boost Intel's position in chipmaking industry 🚀\n- Nvidia's support expected to enhance Intel's product offerings 🔥\n- Deal signifies a strategic partnership between two tech giants ✅\n\nTAKEAWAY: Intel's stock skyrockets by 30% as Nvidia announces a $5 billion investment, setting the stage for a powerful collaboration in data centers and PCs.",
       "exported_at": "2025-09-18T09:47:16.826334",
+      "continuous_session": true
+    },
+    {
+      "title": "FCC&apos;s Carr says Jimmy Kimmel appeared to &apos;mislead&apos; public on Charlie Kirk killing",
+      "link": "https://www.cnbc.com/2025/09/18/jimmy-kimmel-charlie-kirk-fcc-carr.html",
+      "summary": "President Trump has praised ABC's suspension of Jimmy Kimmel'show after its host suggested the alleged killer of Charlie Kirk was linked to his MAGA movement.",
+      "published": "Thu, 18 Sep 2025 14:00:45 GMT",
+      "content": "President Trump has praised ABC's suspension of Jimmy Kimmel'show after its host suggested the alleged killer of Charlie Kirk was linked to his MAGA movement.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "181ad8fe5683d3269a9d6ea2fa206323",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FCC'S CARR CRITICIZES JIMMY KIMMEL OVER CHARLIE KIRK COMMENTS ⚠️\n\n- FCC's Carr accuses Kimmel of misleading public on Kirk's killing\n- Trump applauds ABC's suspension of Kimmel's show\n- Kimmel implied killer was linked to MAGA movement\n\nTAKEAWAY: FCC's Carr criticizes Jimmy Kimmel for allegedly misleading the public on Charlie Kirk's killing, as Trump supports ABC's decision to suspend Kimmel's show.",
+      "exported_at": "2025-09-18T10:02:36.831494",
+      "continuous_session": true
+    },
+    {
+      "title": "NBA star Kevin Durant can&apos;t unlock his Coinbase bitcoin account. His agent is thrilled",
+      "link": "https://www.cnbc.com/2025/09/18/nba-star-kevin-durant-cant-unlock-his-coinbase-bitcoin-account.html",
+      "summary": "Houston Rockets star forward Kevin Durant can't access his Coinbase account or the bitcoin held there. His agent says that's a good thing.",
+      "published": "Thu, 18 Sep 2025 13:43:01 GMT",
+      "content": "Houston Rockets star forward Kevin Durant can't access his Coinbase account or the bitcoin held there. His agent says that's a good thing.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f558c549dca5dc4785fe8ff29208b065",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NBA STAR KEVIN DURANT STRUGGLES WITH COINBASE ACCOUNT 🚨\n\n- Kevin Durant locked out of Coinbase bitcoin account 🔒\n- Agent sees inability to access account as positive 🌟\n- Situation highlights importance of secure storage for crypto 💰\n\nTAKEAWAY: Despite Kevin Durant's struggle with his Coinbase account, his agent finds a silver lining, emphasizing the need for secure storage of cryptocurrency.",
+      "exported_at": "2025-09-18T10:02:36.831569",
+      "continuous_session": true
+    },
+    {
+      "title": "Attorneys general oppose Trump&apos;s rule narrowing eligibility for Public Service Loan Forgiveness",
+      "link": "https://www.cnbc.com/2025/09/18/public-service-loan-forgiveness-rule-opposed-by-attorneys-general.html",
+      "summary": "Attorneys general are opposing the Trump-era proposed regulation that could narrow eligibility for Public Service Loan Forgiveness.",
+      "published": "Thu, 18 Sep 2025 13:52:17 GMT",
+      "content": "Attorneys general are opposing the Trump-era proposed regulation that could narrow eligibility for Public Service Loan Forgiveness.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "869f1a866dc08bee13dbaf27931a7035",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ATTORNEYS GENERAL PUSH BACK AGAINST TRUMP'S LOAN FORGIVENESS RULE ⚠️\n\n- Trump's rule change may limit eligibility for Loan Forgiveness ⚖️\n- Attorneys general stand against proposed regulation 🛑\n- Public Service Loan Forgiveness criteria at risk of narrowing 📉\n\nTAKEAWAY: Attorneys general challenge Trump's rule change aiming to restrict eligibility for Public Service Loan Forgiveness, sparking a legal battle.",
+      "exported_at": "2025-09-18T10:02:36.831582",
       "continuous_session": true
     }
   ]
