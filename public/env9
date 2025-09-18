@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T07:09:23.173892",
-    "total_articles": 1301,
-    "new_articles_in_last_fetch": 1301,
+    "created_at": "2025-09-18T07:19:35.033473",
+    "total_articles": 1302,
+    "new_articles_in_last_fetch": 1302,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -16908,6 +16908,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCK FUTURES EDGE UP AFTER FED RATE CUT 📈\n\n- Stock futures rise slightly post-Fed decision 🚀\n- Wednesday saw volatile trading before rate cut ⚠️\n- Fed cuts benchmark rate by 0.25 percentage points ✅\n\nTAKEAWAY: Stock futures show a slight uptick following the Fed's rate cut, amidst a backdrop of volatile trading and market anticipation.",
       "exported_at": "2025-09-18T07:09:23.083721",
+      "continuous_session": true
+    },
+    {
+      "title": "Intel surges 30% after Nvidia says it will invest $5 billion in chipmaker, co-develop data center and PC products",
+      "link": "https://www.cnbc.com/2025/09/18/intel-nvidia-investment.html",
+      "summary": "Nvidia said it will invest $5 billion in Intel as part of a deal to co-develop data center and PC products with the troubled chipmaker which took on the U.S. government as an investor last month",
+      "published": "Thu, 18 Sep 2025 11:18:07 GMT",
+      "content": "Nvidia said it will invest $5 billion in Intel as part of a deal to co-develop data center and PC products with the troubled chipmaker which took on the U.S. government as an investor last month",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fb9793f7905bc3b58860df3f7c8d31b7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: INTEL SOARS 30% AFTER NVIDIA'S $5B INVESTMENT 🚀\n\n- Nvidia to invest $5 billion in troubled Intel 💰\n- Deal includes co-development of data center and PC products 💻\n- Intel recently took on U.S. government as an investor 🇺🇸\n\nTAKEAWAY: Intel's stock skyrockets as Nvidia's $5 billion investment and partnership for product development signals a promising turnaround for the chipmaker.",
+      "exported_at": "2025-09-18T07:19:34.948074",
       "continuous_session": true
     }
   ]
