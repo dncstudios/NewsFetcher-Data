@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T06:18:26.948067",
-    "total_articles": 1295,
-    "new_articles_in_last_fetch": 1295,
+    "created_at": "2025-09-18T06:33:43.474165",
+    "total_articles": 1296,
+    "new_articles_in_last_fetch": 1296,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -16830,6 +16830,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCK FUTURES EDGE UP AFTER FED RATE CUT 📈\n\n- Stock futures rise slightly post-Fed decision 🚀\n- Wednesday saw volatile trading before rate cut ⚠️\n- Fed cuts benchmark rate by 0.25 percentage points ✅\n\nTAKEAWAY: Stock futures show a slight uptick following the Fed's rate cut, amidst a backdrop of volatile trading and market anticipation.",
       "exported_at": "2025-09-18T06:18:26.852135",
+      "continuous_session": true
+    },
+    {
+      "title": "Cold shoulder: Why Beijing is freezing Nvidia&apos;s access to the Chinese market",
+      "link": "https://www.cnbc.com/2025/09/18/china-blocks-nvidia-ai-chips.html",
+      "summary": "Beijing has put a freeze on Nvidia's access to its market — a move industry experts say reflects growing confidence in Chinese chip makers and trade posturing.",
+      "published": "Thu, 18 Sep 2025 10:23:09 GMT",
+      "content": "Beijing has put a freeze on Nvidia's access to its market — a move industry experts say reflects growing confidence in Chinese chip makers and trade posturing.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "28840e51065eb65e8e3fee0ad463c064",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: COLD SHOULDER: BEIJING FREEZES NVIDIA'S ACCESS TO CHINESE MARKET ❄️\n\n- Beijing blocks Nvidia's entry into Chinese market ❌\n- Reflects China's trust in local chip makers 🇨🇳💪\n- Trade posturing evident in the move 💼\n- Nvidia faces challenges gaining market share in China 📉\n- Chinese chip makers gaining confidence 📈\n- Industry experts analyze Beijing's strategic move 🧐\n\nTAKEAWAY: Beijing's decision to freeze Nvidia's access to the Chinese market showcases China's support for local chip makers and its strategic trade posturing, posing challenges for Nvidia's market expansion.",
+      "exported_at": "2025-09-18T06:33:43.375407",
       "continuous_session": true
     }
   ]
