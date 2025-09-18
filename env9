@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T11:29:17.970294",
-    "total_articles": 1332,
-    "new_articles_in_last_fetch": 1332,
+    "created_at": "2025-09-18T11:44:34.395757",
+    "total_articles": 1333,
+    "new_articles_in_last_fetch": 1333,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -17310,6 +17310,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: INTEL SOARS 30% AFTER NVIDIA'S $5 BILLION INVESTMENT 🚀\n\n- Nvidia to inject $5 billion into Intel for data center, PC collaboration 💰\n- Intel's stock surges by 30% following the investment news 📈\n- Collaboration aims to boost Intel's position in chipmaking industry 🚀\n- Nvidia's support expected to enhance Intel's product offerings 🔥\n- Deal signifies a strategic partnership between two tech giants ✅\n\nTAKEAWAY: Intel's stock skyrockets by 30% as Nvidia announces a $5 billion investment, setting the stage for a powerful collaboration in data centers and PCs.",
       "exported_at": "2025-09-18T11:29:17.867328",
+      "continuous_session": true
+    },
+    {
+      "title": "FTC sues Ticketmaster, Live Nation, alleging &apos;illegal&apos; ticket resale tactics",
+      "link": "https://www.cnbc.com/2025/09/18/ftc-ticketmaster-live-nation-ticket-resales.html",
+      "summary": "The Federal Trade Commission sued Ticketmaster and Live Nation on Thursday for allegedly engaging in \"illegal ticket resale tactics.\"",
+      "published": "Thu, 18 Sep 2025 15:35:49 GMT",
+      "content": "The Federal Trade Commission sued Ticketmaster and Live Nation on Thursday for allegedly engaging in \"illegal ticket resale tactics.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2c17fff9279190aca1b6fff5e0cc89d3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FTC SUES TICKETMASTER, LIVE NATION FOR \"ILLEGAL\" TICKET RESALE TACTICS ⚠️\n\n- FTC takes legal action against Ticketmaster, Live Nation 🎫\n- Allegations of engaging in \"illegal ticket resale tactics\" 🔥\n- Lawsuit filed due to alleged deceptive practices 🚨\n- Ticketmaster and Live Nation facing legal scrutiny ✅\n- FTC aims to address concerns in the ticket resale industry 🎯\n\nTAKEAWAY: The FTC's lawsuit against Ticketmaster and Live Nation highlights allegations of deceptive ticket resale tactics, signaling increased legal scrutiny in the industry.",
+      "exported_at": "2025-09-18T11:44:34.296415",
       "continuous_session": true
     }
   ]
