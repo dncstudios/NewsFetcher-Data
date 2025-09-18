@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T21:25:41.025231",
-    "total_articles": 1282,
-    "new_articles_in_last_fetch": 1282,
+    "created_at": "2025-09-17T23:17:12.141691",
+    "total_articles": 1283,
+    "new_articles_in_last_fetch": 1283,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -16661,6 +16661,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SPIRIT AIRLINE SLASHES FLIGHTS, PREPARES FOR JOB CUTS 🚨\n\n- Spirit cuts November schedule by 25% to overcome challenges ✈️\n- Employees warned about potential job reductions ahead 💼\n- Company takes proactive measures to navigate difficulties\n\nTAKEAWAY: Spirit Airlines takes decisive action by reducing flights and preparing for further job cuts to address current challenges.",
       "exported_at": "2025-09-17T21:25:40.941289",
+      "continuous_session": true
+    },
+    {
+      "title": "SEC paves way for crypto spot ETFs with new listing rules",
+      "link": "https://www.cnbc.com/2025/09/18/sec-paves-way-for-crypto-spot-etfs-with-new-listing-rules.html",
+      "summary": "It is the latest step taken by the administration of President Donald Trump to bring crypto assets into the mainstream.",
+      "published": "Thu, 18 Sep 2025 03:15:04 GMT",
+      "content": "It is the latest step taken by the administration of President Donald Trump to bring crypto assets into the mainstream.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9bf948e18d4780df308503a9309be9ba",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SEC CLEARS PATH FOR CRYPTO SPOT ETFs 🚀\n\n- SEC introduces new listing rules for crypto spot ETFs 📈\n- Move aligns with Trump's agenda to mainstream crypto assets 💪\n- Regulations aim to boost investor confidence in crypto market ✅\n\nTAKEAWAY: SEC's new listing rules for crypto spot ETFs signal a significant step towards mainstream adoption, in line with Trump's administration agenda.",
+      "exported_at": "2025-09-17T23:17:12.047398",
       "continuous_session": true
     }
   ]
