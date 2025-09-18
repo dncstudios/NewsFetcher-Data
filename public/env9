@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T16:04:51.407690",
-    "total_articles": 1371,
-    "new_articles_in_last_fetch": 1371,
+    "created_at": "2025-09-18T16:10:00.266500",
+    "total_articles": 1373,
+    "new_articles_in_last_fetch": 1373,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -17817,6 +17817,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CROWDSTRIKE SURGES 12% ON BULLISH GUIDANCE 🚀\n\n- CrowdStrike's stock jumps 12% post investor day 📈\n- Company unveils optimistic long-term guidance 🎯\n- Plans acquisition of AI security firm Pangea 💡\n- Positive market response to cybersecurity outlook 🔒\n- Investor day highlights growth potential and strategy 📈\n- Upbeat sentiment drives stock momentum 🚀\n\nTAKEAWAY: CrowdStrike's 12% surge reflects investor confidence in the cybersecurity firm's bullish long-term guidance and strategic acquisitions.",
       "exported_at": "2025-09-18T16:04:51.305953",
+      "continuous_session": true
+    },
+    {
+      "title": "S&amp;P 500, small-cap Russell close at all-time highs a day after Fed rate cut: Live updates",
+      "link": "https://www.cnbc.com/2025/09/17/stock-market-today-live-updates.html",
+      "summary": "The moves followed a volatile day of trading Wednesday after the Fed, as anticipated, slashed its benchmark rate by a quarter percentage point.",
+      "published": "Thu, 18 Sep 2025 20:08:11 GMT",
+      "content": "The moves followed a volatile day of trading Wednesday after the Fed, as anticipated, slashed its benchmark rate by a quarter percentage point.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ac366e5601aeb84da8c5b3c988ea0868",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: S&P 500, RUSSELL HIT ALL-TIME HIGHS POST-FED RATE CUT 🚀\n\n- S&P 500 and small-cap Russell soar to record levels 📈\n- Market reacts positively to Fed's 0.25% rate cut ✅\n- Volatile trading day ends with strong gains 🌟\n- Investors embrace new highs after rate adjustment 🔥\n\nTAKEAWAY: S&P 500 and Russell small-cap indices reach historic peaks post-Fed rate cut, signaling investor confidence and market resilience.",
+      "exported_at": "2025-09-18T16:10:00.186040",
+      "continuous_session": true
+    },
+    {
+      "title": "Netskope soars 18% on first day of trading, reaches $8.6 billion market cap",
+      "link": "https://www.cnbc.com/2025/09/18/netskope-ipo-stock-nasdaq-ntsk.html",
+      "summary": "Netskope is the latest IPO debut amid a revival in market activity following a years-long drought",
+      "published": "Thu, 18 Sep 2025 20:07:34 GMT",
+      "content": "Netskope is the latest IPO debut amid a revival in market activity following a years-long drought",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c7dd6c69bbbfae0126a8bccc0e3cb64c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NETSKOPE IPO OPENS STRONG AT $23 🚀\n\n- Netskope's IPO opens at $23 after pricing shares at top of range\n- Debut reflects market revival after years-long drought 🔥\n- Strong investor interest shown in cybersecurity firm\n\nTAKEAWAY: Netskope's strong IPO opening at $23, pricing shares at the top range, signals a revival in market activity amidst investor interest in the cybersecurity industry.",
+      "exported_at": "2025-09-18T16:10:00.186101",
       "continuous_session": true
     }
   ]
