@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T05:12:23.264279",
-    "total_articles": 1292,
-    "new_articles_in_last_fetch": 1292,
+    "created_at": "2025-09-18T05:27:40.146467",
+    "total_articles": 1293,
+    "new_articles_in_last_fetch": 1293,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -16791,6 +16791,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FED PREDICTS SINGLE RATE CUT IN 2026, SURPRISINGLY CONSERVATIVE 📉\n\n- Fed's dot plot reveals only one rate cut forecasted for 2026\n- Median estimate for federal funds rate at 3.4% by end of 2026 📊\n- More conservative outlook compared to market expectations 📉\n\nTAKEAWAY: The Fed's prediction of just one rate cut in 2026, with a median estimate of 3.4% for the federal funds rate, surprises with its conservative stance, deviating from market anticipations.",
       "exported_at": "2025-09-18T05:12:23.185257",
+      "continuous_session": true
+    },
+    {
+      "title": "Novo Nordisk shares pop 5% after Wegovy pill trial shows &apos;significant&apos; weight reduction",
+      "link": "https://www.cnbc.com/2025/09/18/novo-nordisk-flags-wegovy-pill-weight-loss-in-line-with-injection.html",
+      "summary": "Trial results showed the \"Wegovy pill\" led to average weight reduction of 16.6% after 64 weeks, Novo Nordisk said.",
+      "published": "Thu, 18 Sep 2025 09:24:15 GMT",
+      "content": "Trial results showed the \"Wegovy pill\" led to average weight reduction of 16.6% after 64 weeks, Novo Nordisk said.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5aecf1018feea9f9e9b1f6b83bb7b3ac",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WEGOVY PILL DELIVERS 16.6% WEIGHT REDUCTION IN 64 WEEKS ⚡️\n\n- Novo Nordisk's Wegovy pill achieves significant 16.6% weight loss 🏋️‍♂️\n- Results intensify competition in the oral obesity drug market 🌟\n- Promising trial data boosts confidence in Wegovy's effectiveness ✅\n\nTAKEAWAY: Novo Nordisk's Wegovy pill shows impressive 16.6% weight reduction after 64 weeks, raising the bar in the oral obesity drug market.",
+      "exported_at": "2025-09-18T05:27:40.046789",
       "continuous_session": true
     }
   ]
