@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T09:31:57.770858",
-    "total_articles": 1315,
-    "new_articles_in_last_fetch": 1315,
+    "created_at": "2025-09-18T09:42:10.682632",
+    "total_articles": 1316,
+    "new_articles_in_last_fetch": 1316,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -17089,6 +17089,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCK FUTURES EDGE UP AFTER FED RATE CUT 📈\n\n- Stock futures rise slightly post-Fed decision 🚀\n- Wednesday saw volatile trading before rate cut ⚠️\n- Fed cuts benchmark rate by 0.25 percentage points ✅\n\nTAKEAWAY: Stock futures show a slight uptick following the Fed's rate cut, amidst a backdrop of volatile trading and market anticipation.",
       "exported_at": "2025-09-18T09:31:57.676390",
+      "continuous_session": true
+    },
+    {
+      "title": "JPMorgan used AI to break down the Fed decision. It indicates the most dovish bent in years",
+      "link": "https://www.cnbc.com/2025/09/18/fed-powell-turned-most-dovish-since-2021-jpmorgan-ai-analysis.html",
+      "summary": "Using AI to study language in the central bank's statement and later remarks by Chair Powell, the bank decided the Fed is the most dovish it's been since 2021.",
+      "published": "Thu, 18 Sep 2025 13:36:26 GMT",
+      "content": "Using AI to study language in the central bank's statement and later remarks by Chair Powell, the bank decided the Fed is the most dovish it's been since 2021.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d09e51318b09803315454128f8edbe66",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JPMORGAN'S AI DECIPHERS FED DECISION: MOST DOVISH BENT IN YEARS 🤖\n\n- JPMorgan's AI analyzes Fed's language, Chair Powell's remarks 🧠\n- Concludes Fed displays most dovish stance since 2021 🕊️\n- AI study reveals significant shift in central bank's tone 📉\n\nTAKEAWAY: JPMorgan's AI analysis unveils a notable dovish shift in the Fed's stance, signaling potential impacts on markets and economy.",
+      "exported_at": "2025-09-18T09:42:10.577792",
       "continuous_session": true
     }
   ]
