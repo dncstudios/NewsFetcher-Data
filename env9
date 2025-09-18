@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T17:51:45.635683",
-    "total_articles": 1380,
-    "new_articles_in_last_fetch": 1380,
+    "created_at": "2025-09-18T18:01:58.036204",
+    "total_articles": 1381,
+    "new_articles_in_last_fetch": 1381,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -17934,6 +17934,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: DAVID LETTERMAN SLAMS JIMMY KIMMEL SUSPENSION AS 'RIDICULOUS' 🚨\n\n- ABC suspends \"Jimmy Kimmel Live!\" show indefinitely 🚫\n- Suspension due to host's comments on Charlie Kirk's alleged killer 💬\n- David Letterman criticizes suspension as 'ridiculous' 👀\n- Jimmy Kimmel faces consequences for controversial remarks 💥\n\nTAKEAWAY: David Letterman criticizes ABC's decision to suspend \"Jimmy Kimmel Live!\" indefinitely, sparking debate over freedom of speech and consequences for controversial remarks.",
       "exported_at": "2025-09-18T17:51:45.529676",
+      "continuous_session": true
+    },
+    {
+      "title": "Comcast spinoff Versant reports declining annual profit as it prepares to go public",
+      "link": "https://www.cnbc.com/2025/09/18/comcast-versant-annual-profit-public.html",
+      "summary": "Versant will trade on the Nasdaq under the ticker \"VSNT\" after its separation from Comcast.",
+      "published": "Thu, 18 Sep 2025 21:53:21 GMT",
+      "content": "Versant will trade on the Nasdaq under the ticker \"VSNT\" after its separation from Comcast.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0e8a3ee154bf40e20da95ee47d649bb0",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: VERSANT'S ANNUAL PROFIT DECLINES AHEAD OF NASDAQ DEBUT 📉\n\n- Versant's annual profit drops before Nasdaq listing 📉\n- Spinoff from Comcast, to trade under \"VSNT\" ticker 🔄\n- Company prepares for public debut amidst profit decline 📈\n\nTAKEAWAY: Versant faces declining annual profit as it gears up for its Nasdaq debut after separating from Comcast.",
+      "exported_at": "2025-09-18T18:01:57.942561",
       "continuous_session": true
     }
   ]
