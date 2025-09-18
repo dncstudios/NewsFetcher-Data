@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T12:20:22.005991",
-    "total_articles": 1338,
-    "new_articles_in_last_fetch": 1338,
+    "created_at": "2025-09-18T12:25:30.419838",
+    "total_articles": 1339,
+    "new_articles_in_last_fetch": 1339,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -17388,6 +17388,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCK FUTURES EDGE UP AFTER FED RATE CUT 📈\n\n- Stock futures rise slightly post-Fed decision 🚀\n- Wednesday saw volatile trading before rate cut ⚠️\n- Fed cuts benchmark rate by 0.25 percentage points ✅\n\nTAKEAWAY: Stock futures show a slight uptick following the Fed's rate cut, amidst a backdrop of volatile trading and market anticipation.",
       "exported_at": "2025-09-18T12:20:21.898880",
+      "continuous_session": true
+    },
+    {
+      "title": "Netskope opens at $23 after cybersecurity firm prices shares at top of range",
+      "link": "https://www.cnbc.com/2025/09/18/netskope-ipo-stock-nasdaq-ntsk.html",
+      "summary": "Netskope is the latest IPO debut amid a revival in market activity following a years-long drought",
+      "published": "Thu, 18 Sep 2025 16:14:21 GMT",
+      "content": "Netskope is the latest IPO debut amid a revival in market activity following a years-long drought",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "08b069be60447b813c64c531be318f7f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NETSKOPE IPO OPENS STRONG AT $23 🚀\n\n- Netskope's IPO opens at $23 after pricing shares at top of range\n- Debut reflects market revival after years-long drought 🔥\n- Strong investor interest shown in cybersecurity firm\n\nTAKEAWAY: Netskope's strong IPO opening at $23, pricing shares at the top range, signals a revival in market activity amidst investor interest in the cybersecurity industry.",
+      "exported_at": "2025-09-18T12:25:30.321355",
       "continuous_session": true
     }
   ]
