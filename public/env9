@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T15:54:39.213380",
-    "total_articles": 1367,
-    "new_articles_in_last_fetch": 1367,
+    "created_at": "2025-09-18T15:59:45.139990",
+    "total_articles": 1369,
+    "new_articles_in_last_fetch": 1369,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -17765,6 +17765,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CROWDSTRIKE'S 10-YEAR VISION SENDS CYBERSECURITY STOCK SOARING 🚀\n\n- CrowdStrike's CEO unveils long-term growth strategy 💡\n- Executives map out multiyear plan for company expansion 📈\n- Investor day presentation ignites investor confidence 🔥\n- Company's stock price surges following the event 📈\n- CrowdStrike aims for sustained growth and success in the future ✅\n\nTAKEAWAY: CrowdStrike's ambitious 10-year vision outlined during the investor day fuels investor confidence, leading to a significant surge in the cybersecurity stock price.",
       "exported_at": "2025-09-18T15:54:39.109601",
+      "continuous_session": true
+    },
+    {
+      "title": "Hyundai outlines ambitious U.S. growth plans weeks after ICE immigration raid at battery plant",
+      "link": "https://www.cnbc.com/2025/09/18/2025-hyundai-investor-event.html",
+      "summary": "Hyundai is increasing its revenue expectations for 2025, despite ongoing U.S. tariffs causing the automaker to lower its expected operating profit for the year.",
+      "published": "Thu, 18 Sep 2025 19:56:52 GMT",
+      "content": "Hyundai is increasing its revenue expectations for 2025, despite ongoing U.S. tariffs causing the automaker to lower its expected operating profit for the year.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7ada00842060bc9048b9e2deb96d9ba8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: HYUNDAI ADJUSTS FULL-YEAR FORECAST AMID TARIFFS 🚀\n\n- Hyundai raises revenue forecast for 2025 📈\n- U.S. tariffs lead to lower expected operating profit for the year ⚠️\n- Company addresses forecast adjustments at investor day 💼\n\nTAKEAWAY: Hyundai's strategic move to adjust forecasts amidst U.S. tariffs showcases resilience and adaptability, setting the stage for long-term growth.",
+      "exported_at": "2025-09-18T15:59:45.049184",
+      "continuous_session": true
+    },
+    {
+      "title": "CrowdStrike looks out nearly a decade at its investor day, and the cybersecurity stock soars",
+      "link": "https://www.cnbc.com/2025/09/18/crowdstrike-looks-out-10-years-at-its-investor-day-and-the-cybersecurity-stock-soared.html",
+      "summary": "George Kurtz, co-founder and CEO of CrowdStrike, and other company executives presented a multiyear path to growth.",
+      "published": "Thu, 18 Sep 2025 19:54:45 GMT",
+      "content": "George Kurtz, co-founder and CEO of CrowdStrike, and other company executives presented a multiyear path to growth.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e4972b7cc9ae6ab0d0317d5c792ed0eb",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CROWDSTRIKE'S 10-YEAR VISION SENDS CYBERSECURITY STOCK SOARING 🚀\n\n- CrowdStrike's CEO unveils long-term growth strategy 💡\n- Executives map out multiyear plan for company expansion 📈\n- Investor day presentation ignites investor confidence 🔥\n- Company's stock price surges following the event 📈\n- CrowdStrike aims for sustained growth and success in the future ✅\n\nTAKEAWAY: CrowdStrike's ambitious 10-year vision outlined during the investor day fuels investor confidence, leading to a significant surge in the cybersecurity stock price.",
+      "exported_at": "2025-09-18T15:59:45.049261",
       "continuous_session": true
     }
   ]
