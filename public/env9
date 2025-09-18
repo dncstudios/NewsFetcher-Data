@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T03:40:56.893083",
-    "total_articles": 1288,
-    "new_articles_in_last_fetch": 1288,
+    "created_at": "2025-09-18T04:21:33.431562",
+    "total_articles": 1289,
+    "new_articles_in_last_fetch": 1289,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -16739,6 +16739,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: EUROPEAN MARKETS SET TO RISE AS TRADERS DIGEST FED RATE CUT 🚀\n\n- European stocks poised for a positive opening 📈\n- Traders analyzing impact of U.S. Federal Reserve's rate cut ✅\n- Market sentiment leaning towards higher open 🌟\n- Potential optimism in European markets today 🚀\n- Fed's decision influencing global market trends 🔍\n- Investors closely monitoring European market movements 💼\n\nTAKEAWAY: European markets show signs of positivity as traders evaluate the implications of the recent U.S. Federal Reserve rate cut, setting the stage for potential market optimism.",
       "exported_at": "2025-09-18T03:40:56.802564",
+      "continuous_session": true
+    },
+    {
+      "title": "The pomp and pageantry ends as Trump&apos;s state visit gets down to business",
+      "link": "https://www.cnbc.com/2025/09/18/trumps-state-visit-gets-down-to-business-as-he-heads-to-meet-starmer.html",
+      "summary": "Trump is  heading to Chequers, the official country residence of Prime Minister Keir Starmer, for talks with the British leader and business delegations.",
+      "published": "Thu, 18 Sep 2025 08:20:24 GMT",
+      "content": "Trump is  heading to Chequers, the official country residence of Prime Minister Keir Starmer, for talks with the British leader and business delegations.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4c881f365472ff8612639be43ee8ea8f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP'S STATE VISIT TRANSITIONS TO BUSINESS TALKS 🚀\n\n- Trump shifts focus to business discussions at Chequers 🤝\n- Meeting with UK PM Keir Starmer and business delegations 🇬🇧\n- Transition from pomp and pageantry to serious talks 💼\n\nTAKEAWAY: Trump's state visit moves from ceremonial events to crucial business discussions at Chequers, signaling a shift towards substantive talks with UK leaders and business delegates.",
+      "exported_at": "2025-09-18T04:21:33.332641",
       "continuous_session": true
     }
   ]
