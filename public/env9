@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T10:58:46.083181",
-    "total_articles": 1328,
-    "new_articles_in_last_fetch": 1328,
+    "created_at": "2025-09-18T11:24:12.309917",
+    "total_articles": 1331,
+    "new_articles_in_last_fetch": 1331,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -17258,6 +17258,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TREASURY, IRS FINALIZE RULE FOR 401(K) CATCH-UP CONTRIBUTIONS 🚀\n\n- New Secure 2.0 rule for 401(k) catch-up contributions set by IRS, Treasury ✅\n- Impact on higher earners significant, key changes to be aware of 🔍\n- Catch-up contributions aim to boost retirement savings for older workers 💰\n- Rules finalized to enhance retirement security for individuals 📈\n- Higher earners advised to stay informed on new regulations 🧐\n\nTAKEAWAY: IRS and Treasury's Secure 2.0 rule for 401(k) catch-up contributions brings key changes impacting higher earners, emphasizing retirement security and the need for awareness.",
       "exported_at": "2025-09-18T10:58:45.997667",
+      "continuous_session": true
+    },
+    {
+      "title": "Hyundai outlines ambitious growth plans during first U.S. investor day despite lowering 2025 profit forecast",
+      "link": "https://www.cnbc.com/2025/09/18/2025-hyundai-investor-event.html",
+      "summary": "Hyundai is increasing its revenue expectations for 2025, despite ongoing U.S. tariffs causing the automaker to lower its expected operating profit for the year.",
+      "published": "Thu, 18 Sep 2025 15:12:31 GMT",
+      "content": "Hyundai is increasing its revenue expectations for 2025, despite ongoing U.S. tariffs causing the automaker to lower its expected operating profit for the year.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "44530682d33803acc85d2d9187dea3a8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: HYUNDAI ADJUSTS FULL-YEAR FORECAST AMID TARIFFS 🚀\n\n- Hyundai raises revenue forecast for 2025 📈\n- U.S. tariffs lead to lower expected operating profit for the year ⚠️\n- Company addresses forecast adjustments at investor day 💼\n\nTAKEAWAY: Hyundai's strategic move to adjust forecasts amidst U.S. tariffs showcases resilience and adaptability, setting the stage for long-term growth.",
+      "exported_at": "2025-09-18T11:24:12.234315",
+      "continuous_session": true
+    },
+    {
+      "title": "Stifel says there&apos;s &apos;considerable upside&apos; still left in rallying shares of Wynn Resorts",
+      "link": "https://www.cnbc.com/2025/09/18/stifel-says-theres-considerable-upside-still-left-in-rallying-shares-of-wynn-resorts.html",
+      "summary": "Stifel, which has a buy rating on Wynn, raised its price target.",
+      "published": "Thu, 18 Sep 2025 15:22:25 GMT",
+      "content": "Stifel, which has a buy rating on Wynn, raised its price target.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6c5dd409642600a2b24ae895669c6c15",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STIFEL PREDICTS 'CONSIDERABLE UPSIDE' FOR WYNN RESORTS SHARES 🚀\n\n- Stifel upgrades Wynn Resorts, sees more growth ahead 🔝\n- Buy rating maintained with a boosted price target 📈\n- Investors anticipate further rally in Wynn shares 💼\n\nTAKEAWAY: Stifel's optimistic outlook on Wynn Resorts signals potential for significant growth, fueling investor confidence in the company's shares.",
+      "exported_at": "2025-09-18T11:24:12.234419",
+      "continuous_session": true
+    },
+    {
+      "title": "Why the rich are propping up car sales",
+      "link": "https://www.cnbc.com/2025/09/18/car-sales-rich-vehicles.html",
+      "summary": "While the average Americans have a hard time paying their loans or get new ones, automakers and dealers are posting record profits. And its thanks to the rich.",
+      "published": "Thu, 18 Sep 2025 15:00:01 GMT",
+      "content": "While the average Americans have a hard time paying their loans or get new ones, automakers and dealers are posting record profits. And its thanks to the rich.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1bc11eefe78e5e287107151e219be7f2",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WHY THE RICH ARE DRIVING CAR SALES 🚀\n\n- Automakers & dealers see record profits amid loan struggles 💰\n- Rich individuals boosting car sales in the market 📈\n- Average Americans facing loan payment challenges 📉\n- Wealthy consumers driving the success in the automotive sector 🚗\n- Disparity between rich and average Americans impacting industry 🌟\n\nTAKEAWAY: The automotive industry thrives as the rich drive car sales, while average Americans struggle with loan payments, highlighting a growing wealth gap.",
+      "exported_at": "2025-09-18T11:24:12.234443",
       "continuous_session": true
     }
   ]
