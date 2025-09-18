@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T05:27:40.146467",
-    "total_articles": 1293,
-    "new_articles_in_last_fetch": 1293,
+    "created_at": "2025-09-18T05:32:48.370376",
+    "total_articles": 1294,
+    "new_articles_in_last_fetch": 1294,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -16804,6 +16804,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WEGOVY PILL DELIVERS 16.6% WEIGHT REDUCTION IN 64 WEEKS ⚡️\n\n- Novo Nordisk's Wegovy pill achieves significant 16.6% weight loss 🏋️‍♂️\n- Results intensify competition in the oral obesity drug market 🌟\n- Promising trial data boosts confidence in Wegovy's effectiveness ✅\n\nTAKEAWAY: Novo Nordisk's Wegovy pill shows impressive 16.6% weight reduction after 64 weeks, raising the bar in the oral obesity drug market.",
       "exported_at": "2025-09-18T05:27:40.046789",
+      "continuous_session": true
+    },
+    {
+      "title": "Workday CEO says AI is a &apos;tailwind&apos; for the enterprise software company",
+      "link": "https://www.cnbc.com/2025/09/17/workday-ceo-says-ai-is-a-tailwind-for-the-enterprise-software-company.html",
+      "summary": "Workday CEO Carl Eschenbach told CNBC's Jim Cramer on Wednesday that the rise of artificial intelligence is positive for his company.",
+      "published": "Thu, 18 Sep 2025 00:34:49 GMT",
+      "content": "Workday CEO Carl Eschenbach told CNBC's Jim Cramer on Wednesday that the rise of artificial intelligence is positive for his company.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "171037259ca34d705d592dd1729bd7e5",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AI BOOSTS WORKDAY'S GROWTH 🚀\n\n- Workday CEO sees AI as a positive force for the company 💪\n- Carl Eschenbach shares optimism with CNBC's Jim Cramer 🎤\n- Embracing AI helps Workday stay ahead in enterprise software 📈\n\nTAKEAWAY: Workday's CEO views artificial intelligence as a powerful driver propelling the company's growth in the competitive enterprise software market.",
+      "exported_at": "2025-09-18T05:32:48.286170",
       "continuous_session": true
     }
   ]
