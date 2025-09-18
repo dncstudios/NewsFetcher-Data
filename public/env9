@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T02:04:35.230051",
-    "total_articles": 1286,
-    "new_articles_in_last_fetch": 1286,
+    "created_at": "2025-09-18T02:19:50.517806",
+    "total_articles": 1287,
+    "new_articles_in_last_fetch": 1287,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -16713,6 +16713,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: HUAWEI UNVEILS 'WORLD'S MOST POWERFUL' AI CHIP CLUSTER 🚀\n\n- Huawei set to launch supercluster next year 💥\n- AI chip cluster aims to rival Nvidia's dominance 🎯\n- Huawei challenges Nvidia in the Chinese market 🇨🇳\n\nTAKEAWAY: Huawei's upcoming AI chip cluster poses a significant challenge to Nvidia's dominance in China, setting the stage for fierce competition in the tech industry.",
       "exported_at": "2025-09-18T02:04:35.136151",
+      "continuous_session": true
+    },
+    {
+      "title": "Wegovy pill offers &apos;significant&apos; weight reduction, Novo Nordisk says, as oral obesity drug race intensifies",
+      "link": "https://www.cnbc.com/2025/09/18/novo-nordisk-flags-wegovy-pill-weight-loss-in-line-with-injection.html",
+      "summary": "Trial results showed the \"Wegovy pill\" led to average weight reduction of 16.6% after 64 weeks, Novo Nordisk said.",
+      "published": "Thu, 18 Sep 2025 06:16:52 GMT",
+      "content": "Trial results showed the \"Wegovy pill\" led to average weight reduction of 16.6% after 64 weeks, Novo Nordisk said.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b8573570e8e7dda004f174d0898fab0d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WEGOVY PILL DELIVERS 16.6% WEIGHT REDUCTION IN 64 WEEKS ⚡️\n\n- Novo Nordisk's Wegovy pill achieves significant 16.6% weight loss 🏋️‍♂️\n- Results intensify competition in the oral obesity drug market 🌟\n- Promising trial data boosts confidence in Wegovy's effectiveness ✅\n\nTAKEAWAY: Novo Nordisk's Wegovy pill shows impressive 16.6% weight reduction after 64 weeks, raising the bar in the oral obesity drug market.",
+      "exported_at": "2025-09-18T02:19:50.428177",
       "continuous_session": true
     }
   ]
