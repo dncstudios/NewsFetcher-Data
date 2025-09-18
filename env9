@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T17:26:20.403402",
-    "total_articles": 1379,
-    "new_articles_in_last_fetch": 1379,
+    "created_at": "2025-09-18T17:51:45.635683",
+    "total_articles": 1380,
+    "new_articles_in_last_fetch": 1380,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -17921,6 +17921,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: KEVIN DURANT'S ADVICE FOR NBA ROOKIES 🏀\n\n- Durant shares wisdom from 18-year NBA journey 🌟\n- Offers advice on following in his footsteps 🛤️\n- Provides insight into his future plans 🔮\n\nTAKEAWAY: NBA superstar Kevin Durant shares valuable advice and a peek into his future with aspiring rookies, inspiring them to carve their own paths to success.",
       "exported_at": "2025-09-18T17:26:20.297663",
+      "continuous_session": true
+    },
+    {
+      "title": "David Letterman calls Jimmy Kimmel suspension &apos;ridiculous&apos;",
+      "link": "https://www.cnbc.com/2025/09/18/jimmy-kimmel-kirk-colbert-letterman-trump.html",
+      "summary": "ABC pulled the \"Jimmy Kimmel Live!\" show off the air indefinitely over comments its host made about the alleged killer of Charlie Kirk.",
+      "published": "Thu, 18 Sep 2025 21:49:06 GMT",
+      "content": "ABC pulled the \"Jimmy Kimmel Live!\" show off the air indefinitely over comments its host made about the alleged killer of Charlie Kirk.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f283be3787824e8b50d48bea129c6436",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DAVID LETTERMAN SLAMS JIMMY KIMMEL SUSPENSION AS 'RIDICULOUS' 🚨\n\n- ABC suspends \"Jimmy Kimmel Live!\" show indefinitely 🚫\n- Suspension due to host's comments on Charlie Kirk's alleged killer 💬\n- David Letterman criticizes suspension as 'ridiculous' 👀\n- Jimmy Kimmel faces consequences for controversial remarks 💥\n\nTAKEAWAY: David Letterman criticizes ABC's decision to suspend \"Jimmy Kimmel Live!\" indefinitely, sparking debate over freedom of speech and consequences for controversial remarks.",
+      "exported_at": "2025-09-18T17:51:45.529676",
       "continuous_session": true
     }
   ]
