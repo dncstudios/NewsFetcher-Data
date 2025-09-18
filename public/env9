@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T10:02:36.917938",
-    "total_articles": 1320,
-    "new_articles_in_last_fetch": 1320,
+    "created_at": "2025-09-18T10:07:45.264336",
+    "total_articles": 1321,
+    "new_articles_in_last_fetch": 1321,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -17154,6 +17154,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ATTORNEYS GENERAL PUSH BACK AGAINST TRUMP'S LOAN FORGIVENESS RULE ⚠️\n\n- Trump's rule change may limit eligibility for Loan Forgiveness ⚖️\n- Attorneys general stand against proposed regulation 🛑\n- Public Service Loan Forgiveness criteria at risk of narrowing 📉\n\nTAKEAWAY: Attorneys general challenge Trump's rule change aiming to restrict eligibility for Public Service Loan Forgiveness, sparking a legal battle.",
       "exported_at": "2025-09-18T10:02:36.831582",
+      "continuous_session": true
+    },
+    {
+      "title": "Microsoft to spend $4 billion on second Wisconsin data center",
+      "link": "https://www.cnbc.com/2025/09/18/microsoft-wisconsin-data-center.html",
+      "summary": "Microsoft is rushing to meet artificial intelligence computing needs of OpenAI and other clients.",
+      "published": "Thu, 18 Sep 2025 14:03:18 GMT",
+      "content": "Microsoft is rushing to meet artificial intelligence computing needs of OpenAI and other clients.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2fc2a35d5b9fa16fdaf221ba58ad2abd",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MICROSOFT INVESTS $4 BILLION IN WISCONSIN DATA CENTER 🚀\n\n- $4 billion allocated to build second data center in Wisconsin 💰\n- Move aims to support AI computing demands for OpenAI and clients 🤖\n- Microsoft accelerates efforts to meet growing technology needs ⚡️\n\nTAKEAWAY: Microsoft's $4 billion investment in a new Wisconsin data center underscores its commitment to meeting the rising demand for AI computing, positioning itself as a leader in the tech industry.",
+      "exported_at": "2025-09-18T10:07:45.184400",
       "continuous_session": true
     }
   ]
