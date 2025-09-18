@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T08:25:49.278539",
-    "total_articles": 1308,
-    "new_articles_in_last_fetch": 1308,
+    "created_at": "2025-09-18T08:41:08.694997",
+    "total_articles": 1312,
+    "new_articles_in_last_fetch": 1312,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -16999,6 +16999,57 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NIKE RECEIVES OUTPERFORM RATING FROM RBC 🚀\n\n- RBC upgrades Nike on organizational overhaul 🔄\n- Expected boost from upcoming product refresh 🚀\n- Outperform rating indicates positive outlook 📈\n\nTAKEAWAY: RBC's outperform rating for Nike highlights the anticipated positive impact of its organizational changes and upcoming product refresh on the stock.",
       "exported_at": "2025-09-18T08:25:49.203039",
+      "continuous_session": true
+    },
+    {
+      "title": "Hassett says Fed made &apos;prudent call,&apos; signaling White House OK with quarter-point cut",
+      "link": "https://www.cnbc.com/2025/09/18/hassett-says-fed-made-prudent-call-signaling-white-house-ok-with-quarter-point-cut.html",
+      "summary": "In a CNBC interview Thursday, Hassett noted that the administration, and new Fed Governor Stephen Miran, had been pushing for a bigger reduction.",
+      "published": "Thu, 18 Sep 2025 12:35:47 GMT",
+      "content": "In a CNBC interview Thursday, Hassett noted that the administration, and new Fed Governor Stephen Miran, had been pushing for a bigger reduction.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fb350fbecc7690e27b57620b723161bd",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: HASSETT APPROVES FED'S \"PRUDENT CALL\" ON RATE CUT 🚀\n\n- Hassett praises Fed's decision as wise and cautious ✅\n- White House signals approval for quarter-point rate cut ✅\n- Administration and new Fed Governor pushed for a larger reduction 📈\n\nTAKEAWAY: Hassett's endorsement of the Fed's cautious rate cut signals White House approval, despite push for a larger reduction.",
+      "exported_at": "2025-09-18T08:41:08.639537",
+      "continuous_session": true
+    },
+    {
+      "title": "Here are Thursday&apos;s biggest analyst calls: Nvidia, Apple, Meta, Coinbase, Alphabet, Nike, CSX, Abercrombie &amp; Fitch &amp; more",
+      "link": "https://www.cnbc.com/2025/09/18/biggest-stock-analyst-calls-like-nvidia.html",
+      "summary": "Here are Thursday's biggest calls on Wall Street.",
+      "published": "Thu, 18 Sep 2025 12:34:27 GMT",
+      "content": "Here are Thursday's biggest calls on Wall Street.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "dbcbe7fda32cf7870eb18172827a3c92",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "exported_at": "2025-09-18T08:41:08.639604",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest premarket moves: Intel, Novo Nordisk, Bullish, Cracker Barrel and more",
+      "link": "https://www.cnbc.com/2025/09/18/stocks-making-the-biggest-premarket-moves-intc-nvda-nvo-blsh-cbrl.html",
+      "summary": "These are some of the stocks posting the largest moves in the premarket.",
+      "published": "Thu, 18 Sep 2025 12:31:50 GMT",
+      "content": "These are some of the stocks posting the largest moves in the premarket.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "75194c2c3b70a1a835468f0bcf2ef3a2",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS WITH MAJOR PREMARKET MOVEMENTS 🚀\n\n- Intel, Novo Nordisk, Bullish, Cracker Barrel show significant premarket activity\n- Investors eyeing these stocks for potential trading opportunities 📈\n- Market participants monitoring early trading to capitalize on movements\n\nTAKEAWAY: Intel, Novo Nordisk, Bullish, and Cracker Barrel are among the key stocks experiencing notable premarket shifts, attracting attention from investors looking for trading prospects.",
+      "exported_at": "2025-09-18T08:41:08.639612",
+      "continuous_session": true
+    },
+    {
+      "title": "Oracle&apos;s Larry Ellison made his $365 billion fortune by breaking every rule of wealth management",
+      "link": "https://www.cnbc.com/2025/09/18/larry-ellison-365-billion-fortune-wealth-management.html",
+      "summary": "Larry Ellison's fortune is built on mountains of leverage and risk, allowing him to borrow against his shares and raise cash without giving up control.",
+      "published": "Thu, 18 Sep 2025 12:27:48 GMT",
+      "content": "Larry Ellison's fortune is built on mountains of leverage and risk, allowing him to borrow against his shares and raise cash without giving up control.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d3468da7b17f5e47b042fda267b60a0b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ORACLE'S LARRY ELLISON: MASTERING WEALTH CREATION 🚀\n\n- Ellison's $365 billion fortune defies traditional wealth management rules 📈\n- Built on leveraging shares for cash without losing control 💪\n- Risk-taking strategy sets him apart in the finance world 🔥\n\nTAKEAWAY: Larry Ellison's unconventional approach of leveraging shares and taking risks has propelled him to a massive $365 billion fortune, challenging traditional wealth management practices.",
+      "exported_at": "2025-09-18T08:41:08.639620",
       "continuous_session": true
     }
   ]
