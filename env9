@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T21:05:21.034032",
-    "total_articles": 1281,
-    "new_articles_in_last_fetch": 1281,
+    "created_at": "2025-09-17T21:25:41.025231",
+    "total_articles": 1282,
+    "new_articles_in_last_fetch": 1282,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -16648,6 +16648,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ASIA-PACIFIC MARKETS MIXED AFTER FED RATE CUT 🌏\n\n- Markets trade mixed post-Fed rate cut announcement 📉📈\n- Bank of Japan begins two-day policy meeting 🇯🇵\n- Economists predict Japan to maintain policy rates ✅\n- Uncertainty looms over upcoming policy decisions 🤔\n- Investors cautious amid mixed market movements ⚠️\n- Asia-Pacific markets react to global economic changes 🌍\n\nTAKEAWAY: Asia-Pacific markets show mixed reactions post-Fed rate cut, with investors closely monitoring the Bank of Japan's upcoming policy decisions for potential market shifts.",
       "exported_at": "2025-09-17T21:05:20.938869",
+      "continuous_session": true
+    },
+    {
+      "title": "Spirit CEO says struggling airline will slash flights, braces employees for more job cuts",
+      "link": "https://www.cnbc.com/2025/09/17/spirit-ceo-flight-cuts.html",
+      "summary": "Spirit is slashing its November schedule by 25% and is bracing staff for more job cuts.",
+      "published": "Thu, 18 Sep 2025 01:20:57 GMT",
+      "content": "Spirit is slashing its November schedule by 25% and is bracing staff for more job cuts.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ddda147a4a254d91cb42362f44881f79",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SPIRIT AIRLINE SLASHES FLIGHTS, PREPARES FOR JOB CUTS 🚨\n\n- Spirit cuts November schedule by 25% to overcome challenges ✈️\n- Employees warned about potential job reductions ahead 💼\n- Company takes proactive measures to navigate difficulties\n\nTAKEAWAY: Spirit Airlines takes decisive action by reducing flights and preparing for further job cuts to address current challenges.",
+      "exported_at": "2025-09-17T21:25:40.941289",
       "continuous_session": true
     }
   ]
