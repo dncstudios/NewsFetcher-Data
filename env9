@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T13:06:19.031354",
-    "total_articles": 1346,
-    "new_articles_in_last_fetch": 1346,
+    "created_at": "2025-09-18T13:11:27.778655",
+    "total_articles": 1347,
+    "new_articles_in_last_fetch": 1347,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -17492,6 +17492,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SEPTEMBER TO REMEMBER OR CALM BEFORE THE STORM? MY YEAR-END MARKET PREDICTION 📈\n\n- Uncertainty looms over market performance in Q4 🌩️\n- Investors anticipate defining factors for year-end trends 📈\n- Volatility expected as market reacts to upcoming events 📊\n- Analysts predict mixed sentiments leading to varied outcomes 🔄\n- Q4 performance hinges on economic indicators and geopolitical events 🌍\n- Market sentiment remains cautious with potential for surprises ⚠️\n\nTAKEAWAY: The final quarter of the year is poised for volatility and mixed sentiments as investors await defining factors to shape market trends.",
       "exported_at": "2025-09-18T13:06:18.934195",
+      "continuous_session": true
+    },
+    {
+      "title": "Meta product chief Chris Cox says smart glasses are the future of computing",
+      "link": "https://www.cnbc.com/2025/09/18/meta-ray-ban-glasses-chris-cox.html",
+      "summary": "The $799 Meta Ray-Ban Display AI glasses were revealed on Wednesday.",
+      "published": "Thu, 18 Sep 2025 16:58:29 GMT",
+      "content": "The $799 Meta Ray-Ban Display AI glasses were revealed on Wednesday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c8c85dd5536a341335b71c7302ed5fd0",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: META'S CHRIS COX PREDICTS SMART GLASSES AS FUTURE OF COMPUTING 🚀\n\n- Meta unveils $799 Ray-Ban Display AI glasses 💰👓\n- Chris Cox emphasizes smart glasses as computing future 🌟\n- Meta's innovation aims to revolutionize tech industry 🌐\n- The Meta Ray-Ban glasses hint at upcoming tech trends 🔮\n\nTAKEAWAY: Meta's Chris Cox believes smart glasses like the $799 Ray-Ban Display AI glasses will lead the future of computing, sparking innovation and shaping tech trends.",
+      "exported_at": "2025-09-18T13:11:27.677670",
       "continuous_session": true
     }
   ]
