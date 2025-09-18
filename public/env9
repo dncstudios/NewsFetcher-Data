@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T02:19:50.517806",
-    "total_articles": 1287,
-    "new_articles_in_last_fetch": 1287,
+    "created_at": "2025-09-18T03:40:56.893083",
+    "total_articles": 1288,
+    "new_articles_in_last_fetch": 1288,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -16726,6 +16726,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WEGOVY PILL DELIVERS 16.6% WEIGHT REDUCTION IN 64 WEEKS ⚡️\n\n- Novo Nordisk's Wegovy pill achieves significant 16.6% weight loss 🏋️‍♂️\n- Results intensify competition in the oral obesity drug market 🌟\n- Promising trial data boosts confidence in Wegovy's effectiveness ✅\n\nTAKEAWAY: Novo Nordisk's Wegovy pill shows impressive 16.6% weight reduction after 64 weeks, raising the bar in the oral obesity drug market.",
       "exported_at": "2025-09-18T02:19:50.428177",
+      "continuous_session": true
+    },
+    {
+      "title": "European markets open higher as traders assess Fed interest rate cut",
+      "link": "https://www.cnbc.com/2025/09/18/european-markets-on-thurs-sept-18-stoxx-600-ftse-dax-boe-decision.html",
+      "summary": "European stocks are expected to open higher on Thursday as traders digest the U.S. Federal Reserve's rate cut on Wednesday.",
+      "published": "Thu, 18 Sep 2025 07:37:58 GMT",
+      "content": "European stocks are expected to open higher on Thursday as traders digest the U.S. Federal Reserve's rate cut on Wednesday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c651431bd1c91b6c37c67ad8ee5d587f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: EUROPEAN MARKETS SET TO RISE AS TRADERS DIGEST FED RATE CUT 🚀\n\n- European stocks poised for a positive opening 📈\n- Traders analyzing impact of U.S. Federal Reserve's rate cut ✅\n- Market sentiment leaning towards higher open 🌟\n- Potential optimism in European markets today 🚀\n- Fed's decision influencing global market trends 🔍\n- Investors closely monitoring European market movements 💼\n\nTAKEAWAY: European markets show signs of positivity as traders evaluate the implications of the recent U.S. Federal Reserve rate cut, setting the stage for potential market optimism.",
+      "exported_at": "2025-09-18T03:40:56.802564",
       "continuous_session": true
     }
   ]
