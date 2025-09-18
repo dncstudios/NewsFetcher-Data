@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T10:07:45.264336",
-    "total_articles": 1321,
-    "new_articles_in_last_fetch": 1321,
+    "created_at": "2025-09-18T10:23:01.975917",
+    "total_articles": 1322,
+    "new_articles_in_last_fetch": 1322,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -17167,6 +17167,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: MICROSOFT INVESTS $4 BILLION IN WISCONSIN DATA CENTER 🚀\n\n- $4 billion allocated to build second data center in Wisconsin 💰\n- Move aims to support AI computing demands for OpenAI and clients 🤖\n- Microsoft accelerates efforts to meet growing technology needs ⚡️\n\nTAKEAWAY: Microsoft's $4 billion investment in a new Wisconsin data center underscores its commitment to meeting the rising demand for AI computing, positioning itself as a leader in the tech industry.",
       "exported_at": "2025-09-18T10:07:45.184400",
+      "continuous_session": true
+    },
+    {
+      "title": "Goldman raises price target on Tesla but still sees the stock declining",
+      "link": "https://www.cnbc.com/2025/09/18/goldman-raises-price-target-on-tesla-but-still-sees-the-stock-declining.html",
+      "summary": "Tesla's growth outlook could provide some support for its shares, though they may still come down a bit from current levels, according to Goldman Sachs.",
+      "published": "Thu, 18 Sep 2025 14:04:43 GMT",
+      "content": "Tesla's growth outlook could provide some support for its shares, though they may still come down a bit from current levels, according to Goldman Sachs.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "930c31f4addac89d577e07c37392dd0d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GOLDMAN BOOSTS TESLA PRICE TARGET DESPITE PREDICTED DECLINE 🚀\n\n- Goldman increases Tesla price target \n- Growth outlook could offer stock support 📈\n- Stock likely to dip despite target raise ⬇️\n\nTAKEAWAY: Goldman's price target increase for Tesla suggests optimism in growth potential, but still predicts a decline in stock value.",
+      "exported_at": "2025-09-18T10:23:01.890210",
       "continuous_session": true
     }
   ]
