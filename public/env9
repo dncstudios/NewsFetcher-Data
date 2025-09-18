@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T07:34:56.357200",
-    "total_articles": 1305,
-    "new_articles_in_last_fetch": 1305,
+    "created_at": "2025-09-18T08:05:24.983520",
+    "total_articles": 1306,
+    "new_articles_in_last_fetch": 1306,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -16960,6 +16960,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: INTEL SOARS 30% AFTER NVIDIA'S $5 BILLION INVESTMENT 🚀\n\n- Nvidia to inject $5 billion into Intel for data center, PC collaboration 💰\n- Intel's stock surges by 30% following the investment news 📈\n- Collaboration aims to boost Intel's position in chipmaking industry 🚀\n- Nvidia's support expected to enhance Intel's product offerings 🔥\n- Deal signifies a strategic partnership between two tech giants ✅\n\nTAKEAWAY: Intel's stock skyrockets by 30% as Nvidia announces a $5 billion investment, setting the stage for a powerful collaboration in data centers and PCs.",
       "exported_at": "2025-09-18T07:34:56.281699",
+      "continuous_session": true
+    },
+    {
+      "title": "A big buying opportunity in this health insurance giant after a sharp decline",
+      "link": "https://www.cnbc.com/2025/09/18/a-big-buying-opportunity-in-this-health-insurance-giant-after-a-sharp-decline.html",
+      "summary": "Frank Holland breaks down what traders are watching ahead of the new session.",
+      "published": "Thu, 18 Sep 2025 11:56:32 GMT",
+      "content": "Frank Holland breaks down what traders are watching ahead of the new session.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d9b784e679dad5381bbc7361bf4a8438",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: A BIG BUYING OPPORTUNITY IN HEALTH INSURANCE GIANT AFTER SHARP DECLINE 📉\n\n- Health insurance giant sees significant drop in value 📉\n- Traders eyeing potential buying opportunity 🧐\n- Frank Holland analyzes market trends for upcoming session 💼\n\nTAKEAWAY: Despite a sharp decline, the health insurance giant presents a lucrative buying opportunity for traders, as market experts like Frank Holland provide valuable insights for the upcoming session.",
+      "exported_at": "2025-09-18T08:05:24.894128",
       "continuous_session": true
     }
   ]
