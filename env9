@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T19:38:25.269074",
-    "total_articles": 1384,
-    "new_articles_in_last_fetch": 1384,
+    "created_at": "2025-09-18T19:58:47.096995",
+    "total_articles": 1386,
+    "new_articles_in_last_fetch": 1386,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -17986,6 +17986,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: DAVID LETTERMAN SLAMS JIMMY KIMMEL SUSPENSION AS 'RIDICULOUS' 🚨\n\n- ABC suspends \"Jimmy Kimmel Live!\" show indefinitely 🚫\n- Suspension due to host's comments on Charlie Kirk's alleged killer 💬\n- David Letterman criticizes suspension as 'ridiculous' 👀\n- Jimmy Kimmel faces consequences for controversial remarks 💥\n\nTAKEAWAY: David Letterman criticizes ABC's decision to suspend \"Jimmy Kimmel Live!\" indefinitely, sparking debate over freedom of speech and consequences for controversial remarks.",
       "exported_at": "2025-09-18T19:38:25.180556",
+      "continuous_session": true
+    },
+    {
+      "title": "Asia-Pacific markets set for higher open as investors await Bank of Japan decision",
+      "link": "https://www.cnbc.com/2025/09/19/asia-pacific-markets-nikkei-225-kospi-bank-of-japan.html",
+      "summary": "The Reuters poll of economists expects the BOJ to keep its benchmark policy rate at 0.5%.",
+      "published": "Thu, 18 Sep 2025 23:52:25 GMT",
+      "content": "The Reuters poll of economists expects the BOJ to keep its benchmark policy rate at 0.5%.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ece16936a1f933f4c23707096495195a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASIA-PACIFIC MARKETS BRACE FOR BOJ DECISION 🚀\n\n- Investors anticipate Bank of Japan to maintain 0.5% policy rate 🏦\n- Analysts predict stable market opening in the Asia-Pacific region 🌏\n- BOJ's decision to influence investor sentiment and market direction 📈\n\nTAKEAWAY: Asia-Pacific markets await the Bank of Japan's decision on the benchmark policy rate, with expectations of a stable market opening and potential impacts on investor sentiment.",
+      "exported_at": "2025-09-18T19:58:47.003471",
+      "continuous_session": true
+    },
+    {
+      "title": "Japan core inflation rate dips to lowest since November 2024 as expected",
+      "link": "https://www.cnbc.com/2025/09/19/japan-core-inflation-rate-dips-to-lowest-since-november-2024-as-expected.html",
+      "summary": "The \"core-core\" inflation rate, which strips out prices of both fresh food and energy and is closely monitored by the BOJ, was at 3.3%, down from 3.4% in July.",
+      "published": "Thu, 18 Sep 2025 23:40:17 GMT",
+      "content": "The \"core-core\" inflation rate, which strips out prices of both fresh food and energy and is closely monitored by the BOJ, was at 3.3%, down from 3.4% in July.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "14a576de84080b26cea8a6c15b0a3c9d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JAPAN'S CORE INFLATION HITS LOWEST LEVEL SINCE NOVEMBER 2024 📉\n\n- Japan's core inflation rate drops to 3.3% in August\n- \"Core-core\" inflation excludes fresh food and energy prices\n- BOJ closely monitors this indicator\n- August's rate down from 3.4% in July\n\nTAKEAWAY: Japan's core inflation rate hits a low not seen since November 2024, signaling potential challenges for the economy ahead.",
+      "exported_at": "2025-09-18T19:58:47.003535",
       "continuous_session": true
     }
   ]
