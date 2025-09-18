@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T11:54:51.994919",
-    "total_articles": 1336,
-    "new_articles_in_last_fetch": 1336,
+    "created_at": "2025-09-18T12:00:00.415103",
+    "total_articles": 1337,
+    "new_articles_in_last_fetch": 1337,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -17362,6 +17362,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BEST STOCK ALERT: TRAVEL GIANT SET FOR BREAKOUT 🚀\n\n- Travel giant shows potential breakout opportunity 📈\n- Analysts predict better entry points in the near future 🔍\n- Josh and Sean eye opportunity to add Best Stock at lower prices 💰\n\nTAKEAWAY: Keep a close watch on this travel giant as it gears up for a potential breakout, offering a chance for strategic entry points in the near future.",
       "exported_at": "2025-09-18T11:54:51.898717",
+      "continuous_session": true
+    },
+    {
+      "title": "September Monthly Meeting: Jim Cramer reveals how to play stocks in the final months of 2025",
+      "link": "https://www.cnbc.com/search/?query=September%20Monthly%20Meeting:%20Jim%20Cramer%20reveals%20how%20to%20play%20stocks%20in%20the%20final%20months%20of%202025",
+      "summary": "There will be no Morning Meeting on September 18. Join Jim Cramer for the September Monthly Meeting on September 18 at 12 pm ET.During the September Monthly Meeting of the CNBC Investing Club, Jim considers all the crosscurrents in the market from the Fed and interest rates to China and tariffs and everything in between.",
+      "published": "Thu, 18 Sep 2025 13:39:01 GMT",
+      "content": "There will be no Morning Meeting on September 18. Join Jim Cramer for the September Monthly Meeting on September 18 at 12 pm ET.During the September Monthly Meeting of the CNBC Investing Club, Jim considers all the crosscurrents in the market from the Fed and interest rates to China and tariffs and everything in between.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "97181231b99da8dfcbf1badf8fe4c417",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SEPTEMBER MONTHLY MEETING: JIM CRAMER'S INSIGHTS FOR END OF 2025 🚀\n\n- Jim Cramer shares stock strategies for final months of 2025 📈\n- No Morning Meeting on September 18, but Monthly Meeting at 12 pm ET 🚫\n- CNBC Investing Club's event discusses market challenges and opportunities 💡\n- Focus on Fed, interest rates, China, tariffs, and market dynamics ⚖️\n- Gain insights on navigating market crosscurrents with Jim Cramer 🌊\n- Learn how to position stocks effectively for year-end performance 🎯\n\nTAKEAWAY: Join Jim Cramer at the September Monthly Meeting to get expert advice on playing stocks in the dynamic market environment of late 2025.",
+      "exported_at": "2025-09-18T12:00:00.312871",
       "continuous_session": true
     }
   ]
