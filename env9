@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T07:19:35.033473",
-    "total_articles": 1302,
-    "new_articles_in_last_fetch": 1302,
+    "created_at": "2025-09-18T07:29:49.410641",
+    "total_articles": 1304,
+    "new_articles_in_last_fetch": 1304,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -16921,6 +16921,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: INTEL SOARS 30% AFTER NVIDIA'S $5B INVESTMENT 🚀\n\n- Nvidia to invest $5 billion in troubled Intel 💰\n- Deal includes co-development of data center and PC products 💻\n- Intel recently took on U.S. government as an investor 🇺🇸\n\nTAKEAWAY: Intel's stock skyrockets as Nvidia's $5 billion investment and partnership for product development signals a promising turnaround for the chipmaker.",
       "exported_at": "2025-09-18T07:19:34.948074",
+      "continuous_session": true
+    },
+    {
+      "title": "Intel surges 30% after Nvidia says it will invest $5 billion in chipmaker, co-develop data centers and PCs",
+      "link": "https://www.cnbc.com/2025/09/18/intel-nvidia-investment.html",
+      "summary": "Nvidia said it will invest $5 billion in Intel as part of a deal to co-develop data center and PC products with the troubled chipmaker.",
+      "published": "Thu, 18 Sep 2025 11:27:28 GMT",
+      "content": "Nvidia said it will invest $5 billion in Intel as part of a deal to co-develop data center and PC products with the troubled chipmaker.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7c88c381ce7a9ab076a07995cd42d8ce",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: INTEL SOARS 30% AFTER NVIDIA'S $5 BILLION INVESTMENT 🚀\n\n- Nvidia to inject $5 billion into Intel for data center, PC collaboration 💰\n- Intel's stock surges by 30% following the investment news 📈\n- Collaboration aims to boost Intel's position in chipmaking industry 🚀\n- Nvidia's support expected to enhance Intel's product offerings 🔥\n- Deal signifies a strategic partnership between two tech giants ✅\n\nTAKEAWAY: Intel's stock skyrockets by 30% as Nvidia announces a $5 billion investment, setting the stage for a powerful collaboration in data centers and PCs.",
+      "exported_at": "2025-09-18T07:29:49.308891",
+      "continuous_session": true
+    },
+    {
+      "title": "Olive Garden owner Darden Restaurants disappoints on earnings but hikes sales outlook",
+      "link": "https://www.cnbc.com/2025/09/18/darden-restaurants-dri-q1-2026-earnings.html",
+      "summary": "Olive Garden owner Darden Restaurants missed fiscal 2026 first quarter earnings estimates but raised its fiscal 2026 forecast for revenue growth.",
+      "published": "Thu, 18 Sep 2025 11:27:44 GMT",
+      "content": "Olive Garden owner Darden Restaurants missed fiscal 2026 first quarter earnings estimates but raised its fiscal 2026 forecast for revenue growth.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "92866b939cf5f18bac233a1a9aadf1f1",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DARDEN RESTAURANTS FALLS SHORT ON EARNINGS BUT BOOSTS SALES OUTLOOK 📉📈\n\n- Darden Restaurants misses Q1 earnings expectations 📉\n- Fiscal 2026 revenue forecast upgraded by Darden 📈\n- Market disappointed with earnings miss 💔\n- Optimism grows with raised revenue outlook 🌟\n- Darden Restaurants remains confident in future growth 💪\n- Investors focus on positive revenue forecast 🎯\n\nTAKEAWAY: Darden Restaurants disappoints on earnings but sparks optimism by raising its sales outlook for fiscal 2026, maintaining confidence in future growth.",
+      "exported_at": "2025-09-18T07:29:49.308978",
       "continuous_session": true
     }
   ]
