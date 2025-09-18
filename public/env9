@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T12:25:30.419838",
-    "total_articles": 1339,
-    "new_articles_in_last_fetch": 1339,
+    "created_at": "2025-09-18T12:30:40.797461",
+    "total_articles": 1341,
+    "new_articles_in_last_fetch": 1341,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -17401,6 +17401,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NETSKOPE IPO OPENS STRONG AT $23 🚀\n\n- Netskope's IPO opens at $23 after pricing shares at top of range\n- Debut reflects market revival after years-long drought 🔥\n- Strong investor interest shown in cybersecurity firm\n\nTAKEAWAY: Netskope's strong IPO opening at $23, pricing shares at the top range, signals a revival in market activity amidst investor interest in the cybersecurity industry.",
       "exported_at": "2025-09-18T12:25:30.321355",
+      "continuous_session": true
+    },
+    {
+      "title": "David Tepper says don&apos;t fight the Fed, and investors don&apos;t plan to",
+      "link": "https://www.cnbc.com/2025/09/18/david-tepper-says-dont-fight-the-fed-and-investors-dont-plan-to.html",
+      "summary": "Wednesday's Fed decision told Wall Street the central bank will be more dovish overall going forward.",
+      "published": "Thu, 18 Sep 2025 16:25:20 GMT",
+      "content": "Wednesday's Fed decision told Wall Street the central bank will be more dovish overall going forward.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "87f2ab405957f4ea98be63f4728249d8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DAVID TEPPER'S ADVICE: DON'T FIGHT THE FED 🚀\n\n- Tepper advises investors to align with the Fed's dovish stance ✅\n- Wall Street responds positively to the Fed's more dovish outlook 📈\n- Investors show readiness to follow the central bank's lead 💪\n\nTAKEAWAY: David Tepper's wise counsel to investors to not go against the Federal Reserve's dovish approach resonates well, signaling alignment in the market.",
+      "exported_at": "2025-09-18T12:30:40.693913",
+      "continuous_session": true
+    },
+    {
+      "title": "How much homeowners pay in property taxes in every U.S. state—in one map",
+      "link": "https://www.cnbc.com/2025/09/18/how-much-homeowners-pay-in-property-taxes-in-every-us-state.html",
+      "summary": "Property tax bills can differ by thousands of dollars depending on where you live—here’s how they stack up in all 50 states.",
+      "published": "Thu, 18 Sep 2025 15:53:48 GMT",
+      "content": "Property tax bills can differ by thousands of dollars depending on where you live—here’s how they stack up in all 50 states.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4bb2f4f1cfa28f8af03f93b1c9f10f8d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PROPERTY TAX DISPARITIES ACROSS U.S. STATES REVEALED 🏠\n\n- Property tax bills vary by thousands across all 50 states 🌎\n- Residents face different tax burdens based on location 📍\n- Some states have significantly higher property tax rates 💰\n\nTAKEAWAY: Property tax bills show significant disparities across U.S. states, impacting homeowners' financial burdens and location choices.",
+      "exported_at": "2025-09-18T12:30:40.694001",
       "continuous_session": true
     }
   ]
