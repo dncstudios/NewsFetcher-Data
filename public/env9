@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T01:34:06.739350",
-    "total_articles": 1285,
-    "new_articles_in_last_fetch": 1285,
+    "created_at": "2025-09-18T02:04:35.230051",
+    "total_articles": 1286,
+    "new_articles_in_last_fetch": 1286,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -16700,6 +16700,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: EUROPEAN MARKETS SET TO RISE AS TRADERS DIGEST FED RATE CUT 🚀\n\n- European stocks poised for a positive opening 📈\n- Traders analyzing impact of U.S. Federal Reserve's rate cut ✅\n- Market sentiment leaning towards higher open 🌟\n- Potential optimism in European markets today 🚀\n- Fed's decision influencing global market trends 🔍\n- Investors closely monitoring European market movements 💼\n\nTAKEAWAY: European markets show signs of positivity as traders evaluate the implications of the recent U.S. Federal Reserve rate cut, setting the stage for potential market optimism.",
       "exported_at": "2025-09-18T01:34:06.652047",
+      "continuous_session": true
+    },
+    {
+      "title": "Huawei touts &apos;world’s most powerful&apos; AI chip cluster as Nvidia&apos;s China challenges mount",
+      "link": "https://www.cnbc.com/2025/09/18/huawei-atlas-950-960-ai-chip-cluster-node-processor-nvidia-china-us-rtx-blackwell.html",
+      "summary": "The company said it plans to launch the new supercluster as soon as next year.",
+      "published": "Thu, 18 Sep 2025 06:03:41 GMT",
+      "content": "The company said it plans to launch the new supercluster as soon as next year.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "353ca44fe23dd933ea884061d4b33971",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: HUAWEI UNVEILS 'WORLD'S MOST POWERFUL' AI CHIP CLUSTER 🚀\n\n- Huawei set to launch supercluster next year 💥\n- AI chip cluster aims to rival Nvidia's dominance 🎯\n- Huawei challenges Nvidia in the Chinese market 🇨🇳\n\nTAKEAWAY: Huawei's upcoming AI chip cluster poses a significant challenge to Nvidia's dominance in China, setting the stage for fierce competition in the tech industry.",
+      "exported_at": "2025-09-18T02:04:35.136151",
       "continuous_session": true
     }
   ]
