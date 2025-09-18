@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T06:33:43.474165",
-    "total_articles": 1296,
-    "new_articles_in_last_fetch": 1296,
+    "created_at": "2025-09-18T07:04:16.520114",
+    "total_articles": 1300,
+    "new_articles_in_last_fetch": 1300,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -16843,6 +16843,58 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: COLD SHOULDER: BEIJING FREEZES NVIDIA'S ACCESS TO CHINESE MARKET ❄️\n\n- Beijing blocks Nvidia's entry into Chinese market ❌\n- Reflects China's trust in local chip makers 🇨🇳💪\n- Trade posturing evident in the move 💼\n- Nvidia faces challenges gaining market share in China 📉\n- Chinese chip makers gaining confidence 📈\n- Industry experts analyze Beijing's strategic move 🧐\n\nTAKEAWAY: Beijing's decision to freeze Nvidia's access to the Chinese market showcases China's support for local chip makers and its strategic trade posturing, posing challenges for Nvidia's market expansion.",
       "exported_at": "2025-09-18T06:33:43.375407",
+      "continuous_session": true
+    },
+    {
+      "title": "American Express unveils refreshed Platinum card with $895 annual fee, upping the ante in luxury cards",
+      "link": "https://www.cnbc.com/2025/09/18/american-express-platinum-card-refresh-895-fee-3500-perks.html",
+      "summary": "American Express' move highlights an arms race of sorts when it comes to catering to wealthy consumers. JPMorgan and Citi released updated or new cards recently.",
+      "published": "Thu, 18 Sep 2025 11:00:01 GMT",
+      "content": "American Express' move highlights an arms race of sorts when it comes to catering to wealthy consumers. JPMorgan and Citi released updated or new cards recently.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ebc56245bf5b4be9053bc9946d4dd346",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AMERICAN EXPRESS RAISES LUXURY CARD STAKES WITH $895 ANNUAL FEE 🚀\n\n- American Express introduces refreshed Platinum card for elite consumers 💳\n- Annual fee now at $895, setting a new benchmark in luxury card market 💸\n- JPMorgan and Citi also revamp or launch high-end cards 🆕\n- Competition intensifies among top financial institutions for affluent clientele 💼\n- Arms race evident in catering to the needs of wealthy consumers 🏦\n- Luxury card market witnessing a surge in premium offerings 🌟\n\nTAKEAWAY: American Express' bold move to increase the annual fee for the Platinum card signals a competitive shift in the luxury card market, with other financial giants like JPMorgan and Citi also vying for the attention of affluent customers.",
+      "exported_at": "2025-09-18T07:04:16.433079",
+      "continuous_session": true
+    },
+    {
+      "title": "RBC upgrades CSX, says Union Pacific-Norfolk Southern bodes well for the railroad stock",
+      "link": "https://www.cnbc.com/2025/09/18/rbc-upgrades-csx-says-union-pacific-norfolk-southern-bodes-well-for-the-railroad-stock.html",
+      "summary": "The firm upgraded the rail transportation giant to outperform from sector perform.",
+      "published": "Thu, 18 Sep 2025 10:59:34 GMT",
+      "content": "The firm upgraded the rail transportation giant to outperform from sector perform.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0a6ff7b562657109cb1568c6dd7fac74",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: RBC UPGRADES CSX ON UNION PACIFIC-NORFOLK SOUTHERN MERGER POTENTIAL 🚀\n\n- RBC raises CSX to outperform from sector perform 📈\n- Upgrade based on Union Pacific-Norfolk Southern prospects 🚆\n- Union Pacific-Norfolk Southern merger seen as beneficial 💰\n- Positive outlook for CSX in the railroad stock sector 🌟\n\nTAKEAWAY: RBC's upgrade of CSX driven by the potential merger of Union Pacific-Norfolk Southern, signaling a positive outlook for the railroad stock.",
+      "exported_at": "2025-09-18T07:04:16.433137",
+      "continuous_session": true
+    },
+    {
+      "title": "Covid shot access, coverage at stake as RFK Jr.&apos;s hand-picked vaccine panel convenes",
+      "link": "https://www.cnbc.com/2025/09/18/covid-shot-access-coverage-at-stake-as-rfk-jrs-vaccine-panel-meets-.html",
+      "summary": "Some experts warn that weakening recommendations for Covid vaccines and other shots could make it harder for some people to access jabs and have them covered.",
+      "published": "Thu, 18 Sep 2025 11:00:01 GMT",
+      "content": "Some experts warn that weakening recommendations for Covid vaccines and other shots could make it harder for some people to access jabs and have them covered.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a64cd35505f85603b80978d36d66eba1",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: RFK JR.'S VACCINE PANEL RAISES CONCERNS ON COVID SHOT ACCESS ⚠️\n\n- Panel's vaccine recommendations could impact jab access 🌍\n- Warning: changes may affect coverage for Covid shots 💉\n- Concerns rise over potential barriers to vaccine access 🚧\n\nTAKEAWAY: RFK Jr.'s vaccine panel convening raises concerns as weakening recommendations may hinder Covid shot access and coverage.",
+      "exported_at": "2025-09-18T07:04:16.433145",
+      "continuous_session": true
+    },
+    {
+      "title": "Bank of England holds rates steady, with a further 2025 cut hanging in the balance",
+      "link": "https://www.cnbc.com/2025/09/18/bank-of-england-holds-rates-further-cut-in-2025-hangs-in-the-balance.html",
+      "summary": "The central bank kept rates at 4% as economists look ahead to the next meeting in November.",
+      "published": "Thu, 18 Sep 2025 11:01:53 GMT",
+      "content": "The central bank kept rates at 4% as economists look ahead to the next meeting in November.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "81c928bc7149de1ddc07d92744495acd",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BANK OF ENGLAND HOLDS RATES STEADY, 2025 CUT LOOMS ⚠️\n\n- Bank of England maintains rates at 4% ✅\n- Economists eye November meeting for potential cut ⚡️\n- Future rate decision in 2025 hangs in the balance ⚠️\n\nTAKEAWAY: Bank of England's steady rates create anticipation for a possible cut in 2025, keeping economists on their toes for the upcoming meeting in November.",
+      "exported_at": "2025-09-18T07:04:16.433153",
       "continuous_session": true
     }
   ]
