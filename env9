@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T18:37:34.776468",
-    "total_articles": 1383,
-    "new_articles_in_last_fetch": 1383,
+    "created_at": "2025-09-18T19:38:25.269074",
+    "total_articles": 1384,
+    "new_articles_in_last_fetch": 1384,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -17973,6 +17973,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NVIDIA SPLURGES $900M+ TO ACQUIRE ENFABRICA CEO & TECH 🚀\n\n- Nvidia invests over $900 million to hire Enfabrica CEO & team\n- Deal includes licensing Enfabrica's cutting-edge AI technology\n- Acquisition mirrors Meta and Google's acquihires strategy\n\nTAKEAWAY: Nvidia's bold move to acquire Enfabrica's CEO, team, and technology for over $900 million showcases their commitment to innovation and strategic growth in the AI industry.",
       "exported_at": "2025-09-18T18:37:34.691973",
+      "continuous_session": true
+    },
+    {
+      "title": "Stephen Colbert supports Jimmy Kimmel, calls Trump an &apos;autocrat&apos;",
+      "link": "https://www.cnbc.com/2025/09/18/jimmy-kimmel-kirk-colbert-letterman-trump.html",
+      "summary": "ABC pulled the \"Jimmy Kimmel Live!\" show off the air indefinitely over comments its host made about the alleged killer of Charlie Kirk.",
+      "published": "Thu, 18 Sep 2025 23:33:49 GMT",
+      "content": "ABC pulled the \"Jimmy Kimmel Live!\" show off the air indefinitely over comments its host made about the alleged killer of Charlie Kirk.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9a123b6c4b6788cb6b4bdd3572d5e083",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DAVID LETTERMAN SLAMS JIMMY KIMMEL SUSPENSION AS 'RIDICULOUS' 🚨\n\n- ABC suspends \"Jimmy Kimmel Live!\" show indefinitely 🚫\n- Suspension due to host's comments on Charlie Kirk's alleged killer 💬\n- David Letterman criticizes suspension as 'ridiculous' 👀\n- Jimmy Kimmel faces consequences for controversial remarks 💥\n\nTAKEAWAY: David Letterman criticizes ABC's decision to suspend \"Jimmy Kimmel Live!\" indefinitely, sparking debate over freedom of speech and consequences for controversial remarks.",
+      "exported_at": "2025-09-18T19:38:25.180556",
       "continuous_session": true
     }
   ]
