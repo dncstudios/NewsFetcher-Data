@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T10:48:28.450365",
-    "total_articles": 1324,
-    "new_articles_in_last_fetch": 1324,
+    "created_at": "2025-09-18T10:58:46.083181",
+    "total_articles": 1328,
+    "new_articles_in_last_fetch": 1328,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -17206,6 +17206,58 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ATTORNEYS GENERAL FIGHT TRUMP'S LOAN FORGIVENESS RULE ⚠️\n\n- 250+ organizations unite against Trump's loan forgiveness restriction 🤝\n- Proposed regulation may limit eligibility for Public Service Loan Forgiveness ❌\n- Attorneys general join forces to oppose Trump-era rule 🛑\n\nTAKEAWAY: Attorneys general and numerous organizations push back against Trump's proposed rule that could restrict eligibility for Public Service Loan Forgiveness.",
       "exported_at": "2025-09-18T10:48:28.359181",
+      "continuous_session": true
+    },
+    {
+      "title": "Coinbase CEO says banks are fighting stablecoin rewards with &apos;boogeyman&apos; issues",
+      "link": "https://www.cnbc.com/2025/09/18/stablecoin-rewards-crypto-banks-coinbase.html",
+      "summary": "Coinbase CEO Brian Armstrong said banks should have to \"compete on a level playing field in crypto.\"",
+      "published": "Thu, 18 Sep 2025 14:51:14 GMT",
+      "content": "Coinbase CEO Brian Armstrong said banks should have to \"compete on a level playing field in crypto.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "afb465cf8b23821fddfa8c1381bd63d9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: COINBASE CEO CALLS OUT BANKS' OPPOSITION TO STABLECOIN REWARDS ⚠️\n\n- Armstrong challenges banks to compete fairly in the crypto space 💪\n- Banks criticized for creating unnecessary obstacles for stablecoin rewards 🛑\n- Coinbase CEO advocates for a level playing field in the financial sector 🌐\n\nTAKEAWAY: Coinbase CEO Armstrong confronts banks for hindering stablecoin rewards, emphasizing the importance of fair competition in the crypto industry.",
+      "exported_at": "2025-09-18T10:58:45.997560",
+      "continuous_session": true
+    },
+    {
+      "title": "Using options to protect against short-term weakness in AMD",
+      "link": "https://www.cnbc.com/2025/09/18/using-options-to-protect-against-short-term-weakness-in-amd.html",
+      "summary": "Options trader Michael Khouw breaks down a covered put options strategy.",
+      "published": "Thu, 18 Sep 2025 14:57:38 GMT",
+      "content": "Options trader Michael Khouw breaks down a covered put options strategy.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "089136ad975f4b6a1572697584c3d6d4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: USING OPTIONS TO SHIELD AGAINST SHORT-TERM WEAKNESS IN AMD 🔒\n\n- Options trader Michael Khouw unveils covered put strategy 📉\n- Strategy aims to safeguard against short-term AMD weakness 💪\n- Covered put options provide downside protection 🛡️\n- Khouw's breakdown offers insight into risk mitigation 📉\n- AMD investors can utilize options for short-term defense 🛠️\n\nTAKEAWAY: Michael Khouw's covered put options strategy empowers investors to shield against short-term weakness in AMD, offering valuable risk management insights.",
+      "exported_at": "2025-09-18T10:58:45.997636",
+      "continuous_session": true
+    },
+    {
+      "title": "Olive Garden owner Darden Restaurants disappoints on earnings but hikes sales outlook",
+      "link": "https://www.cnbc.com/2025/09/18/darden-restaurants-dri-q1-2026-earnings.html",
+      "summary": "Olive Garden owner Darden Restaurants missed fiscal 2026 first-quarter earnings estimates but raised its fiscal 2026 forecast for revenue growth.",
+      "published": "Thu, 18 Sep 2025 14:58:27 GMT",
+      "content": "Olive Garden owner Darden Restaurants missed fiscal 2026 first-quarter earnings estimates but raised its fiscal 2026 forecast for revenue growth.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "37a49e9a9d977c0f47e86fe3ce925e65",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DARDEN RESTAURANTS DISAPPOINTS ON EARNINGS BUT RAISES SALES OUTLOOK 📉🔥\n\n- Darden Restaurants misses Q1 earnings expectations 💸\n- Fiscal 2026 revenue forecast upgraded by Darden 📈\n- Earnings fall short, but sales outlook shines bright 💡\n- Darden stays optimistic for future revenue growth 🌟\n- Mixed results: missed earnings but boosted revenue outlook 🔄\n- Fiscal 2026 looking promising for Darden Restaurants 🍽️📈\n\nTAKEAWAY: Darden Restaurants faces an earnings setback in Q1 but shows resilience by raising its sales outlook for fiscal 2026, signaling confidence in future growth.",
+      "exported_at": "2025-09-18T10:58:45.997649",
+      "continuous_session": true
+    },
+    {
+      "title": "Treasury, IRS finalize rule for 401(k) catch-up contributions. What it means for higher earners",
+      "link": "https://www.cnbc.com/2025/09/18/treasury-irs-finalize-rule-401k-catch-up-contributions.html",
+      "summary": "The IRS and Treasury finalized a Secure 2.0 rule for catch-up contributions for 401(k) and other plans. Here are the key things higher earners need to know.",
+      "published": "Thu, 18 Sep 2025 14:49:02 GMT",
+      "content": "The IRS and Treasury finalized a Secure 2.0 rule for catch-up contributions for 401(k) and other plans. Here are the key things higher earners need to know.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "713719ba8cf63d9dc69f235982398af2",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TREASURY, IRS FINALIZE RULE FOR 401(K) CATCH-UP CONTRIBUTIONS 🚀\n\n- New Secure 2.0 rule for 401(k) catch-up contributions set by IRS, Treasury ✅\n- Impact on higher earners significant, key changes to be aware of 🔍\n- Catch-up contributions aim to boost retirement savings for older workers 💰\n- Rules finalized to enhance retirement security for individuals 📈\n- Higher earners advised to stay informed on new regulations 🧐\n\nTAKEAWAY: IRS and Treasury's Secure 2.0 rule for 401(k) catch-up contributions brings key changes impacting higher earners, emphasizing retirement security and the need for awareness.",
+      "exported_at": "2025-09-18T10:58:45.997667",
       "continuous_session": true
     }
   ]
