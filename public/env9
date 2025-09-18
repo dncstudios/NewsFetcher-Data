@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T16:10:00.266500",
-    "total_articles": 1373,
-    "new_articles_in_last_fetch": 1373,
+    "created_at": "2025-09-18T16:15:09.257798",
+    "total_articles": 1374,
+    "new_articles_in_last_fetch": 1374,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -17843,6 +17843,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NETSKOPE IPO OPENS STRONG AT $23 🚀\n\n- Netskope's IPO opens at $23 after pricing shares at top of range\n- Debut reflects market revival after years-long drought 🔥\n- Strong investor interest shown in cybersecurity firm\n\nTAKEAWAY: Netskope's strong IPO opening at $23, pricing shares at the top range, signals a revival in market activity amidst investor interest in the cybersecurity industry.",
       "exported_at": "2025-09-18T16:10:00.186101",
+      "continuous_session": true
+    },
+    {
+      "title": "FedEx stock rises on better-than-expected earnings",
+      "link": "https://www.cnbc.com/2025/09/18/fedex-fdx-q1-2026-earnings.html",
+      "summary": "FedEx beat on the top and bottom lines in its first fiscal quarter earnings report on Thursday.",
+      "published": "Thu, 18 Sep 2025 20:11:52 GMT",
+      "content": "FedEx beat on the top and bottom lines in its first fiscal quarter earnings report on Thursday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "31a804e27a5d575515ca45a98dd89e62",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FEDEX STOCK SOARS ON SURPRISING EARNINGS BEAT 🚀\n\n- FedEx surpasses expectations in Q1 earnings report 📈\n- Exceeds projections for both revenue and profit 💰\n- Investors react positively to the strong performance 📈\n- First fiscal quarter results contribute to stock rise 🚀\n- Market responds favorably to FedEx's earnings beat ✅\n\nTAKEAWAY: FedEx's impressive first fiscal quarter earnings report leads to a surge in stock prices, exceeding market expectations and pleasing investors.",
+      "exported_at": "2025-09-18T16:15:09.161905",
       "continuous_session": true
     }
   ]
