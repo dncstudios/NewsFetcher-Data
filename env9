@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T14:38:05.779027",
-    "total_articles": 1356,
-    "new_articles_in_last_fetch": 1356,
+    "created_at": "2025-09-18T14:53:23.975312",
+    "total_articles": 1358,
+    "new_articles_in_last_fetch": 1358,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -17622,6 +17622,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BANK STOCKS SURGE AS FED CUTS RATES 🚀\n\n- Wells Fargo predicts bank stocks to rise post-Fed rate cut 📈\n- Historical trends show bank rally after rate cuts ✅\n- Market anticipates positive momentum in coming months 📊\n\nTAKEAWAY: Bank stocks are poised to surge after the Federal Reserve's recent rate cut, following historical patterns of rally post-rate cuts.",
       "exported_at": "2025-09-18T14:38:05.685469",
+      "continuous_session": true
+    },
+    {
+      "title": "Nvidia CEO Huang says $5 billion stake in rival Intel will be &apos;an incredible investment&apos;",
+      "link": "https://www.cnbc.com/2025/09/18/nvidias-huang-calls-5-billion-intel-stake-an-incredible-investment.html",
+      "summary": "\"We're going to become a very large customer of Intel CPUs, and we're going to be a large supplier of GPU chiplets into Intel\" chips, Huang said.",
+      "published": "Thu, 18 Sep 2025 18:44:46 GMT",
+      "content": "\"We're going to become a very large customer of Intel CPUs, and we're going to be a large supplier of GPU chiplets into Intel\" chips, Huang said.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d5149df35c6f5de251b36387a69f6aa9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NVIDIA CEO HUANG BETS $5B ON INTEL STAKE 🚀\n\n- NVIDIA to invest $5 billion in rival Intel 💰\n- Plans to be a major buyer of Intel CPUs 🖥️\n- Will supply GPU chiplets for Intel chips 🚀\n\nTAKEAWAY: NVIDIA's CEO Huang sees the $5 billion stake in Intel as a strategic move, aiming to strengthen both companies' positions in the market.",
+      "exported_at": "2025-09-18T14:53:23.878420",
+      "continuous_session": true
+    },
+    {
+      "title": "Nvidia throws Intel a lifeline that should be a boon to investors in both chipmakers",
+      "link": "https://www.cnbc.com/2025/09/18/nvidia-throws-intel-a-lifeline-that-should-be-a-boon-to-investors-in-both-chipmakers.html",
+      "summary": "CNBC's Jim Cramer believes Nvidia's investment and tech partnership with Intel is significant.",
+      "published": "Thu, 18 Sep 2025 18:43:29 GMT",
+      "content": "CNBC's Jim Cramer believes Nvidia's investment and tech partnership with Intel is significant.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b56ea8952ec2244078fa55cd37af0c95",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NVIDIA & INTEL'S GAME-CHANGING PARTNERSHIP SET TO BOOST INVESTORS 🚀\n\n- Nvidia's investment in Intel viewed as major by CNBC's Jim Cramer 💡\n- Partnership expected to benefit investors in both chip giants 📈\n- Collaboration likely to drive growth and innovation in the industry 🌟\n\nTAKEAWAY: Nvidia's strategic investment and tech partnership with Intel are poised to bring significant benefits to investors of both companies, propelling growth and innovation in the chip industry.",
+      "exported_at": "2025-09-18T14:53:23.878516",
       "continuous_session": true
     }
   ]
