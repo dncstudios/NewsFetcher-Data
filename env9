@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T14:22:44.709378",
-    "total_articles": 1354,
-    "new_articles_in_last_fetch": 1354,
+    "created_at": "2025-09-18T14:32:57.193634",
+    "total_articles": 1355,
+    "new_articles_in_last_fetch": 1355,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -17596,6 +17596,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ROBOTIC BEEHIVES WITH AI SAVING BEES FROM CLIMATE CHANGE 🤖🐝\n\n- Beewise's AI-powered beehive shields bees from climate change effects\n- Vital bee populations facing rapid decline worldwide 📉\n- Innovative technology aims to combat bee colony losses\n\nTAKEAWAY: Beewise's groundbreaking robotic beehive equipped with AI is revolutionizing beekeeping by safeguarding bee populations against the threats of climate change.",
       "exported_at": "2025-09-18T14:22:44.620369",
+      "continuous_session": true
+    },
+    {
+      "title": "The stock market could see nearly 50% upside if investor allocations reach dot-com bubble levels",
+      "link": "https://www.cnbc.com/2025/09/18/stocks-could-see-50percent-upside-if-investor-allocations-track-1990s-bubble.html",
+      "summary": "The equity allocation of nonbank investors is \"significantly\" below the roughly 55% global allocation seen in 2000, JPMorgan found.",
+      "published": "Thu, 18 Sep 2025 18:28:02 GMT",
+      "content": "The equity allocation of nonbank investors is \"significantly\" below the roughly 55% global allocation seen in 2000, JPMorgan found.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "756f1e107a6ccd407f19ff8494ac15ff",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK MARKET SET FOR 50% UPSIDE IF INVESTOR ALLOCATIONS REACH DOT-COM LEVELS 🚀\n\n- Nonbank investors' equity allocation much lower than 55% in 2000 💼\n- JPMorgan predicts nearly 50% market growth if allocations increase 📈\n- Potential for significant market surge with higher investor allocations 💥\n\nTAKEAWAY: The stock market could experience a massive 50% surge if investor allocations reach levels seen during the dot-com bubble, as suggested by JPMorgan.",
+      "exported_at": "2025-09-18T14:32:57.098176",
       "continuous_session": true
     }
   ]
