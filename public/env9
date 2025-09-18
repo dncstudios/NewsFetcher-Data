@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T18:07:07.153810",
-    "total_articles": 1382,
-    "new_articles_in_last_fetch": 1382,
+    "created_at": "2025-09-18T18:37:34.776468",
+    "total_articles": 1383,
+    "new_articles_in_last_fetch": 1383,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -17960,6 +17960,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCK FUTURES STABLE AFTER MARKET HITS ALL-TIME HIGHS 📈\n\n- Major averages surged to record highs on Thursday 🚀\n- Stock futures show minimal movement post-rally ✅\n- Market maintains stability after recent highs ⚖️\n\nTAKEAWAY: Despite hitting all-time highs, stock futures remain steady, indicating market stability post-rally.",
       "exported_at": "2025-09-18T18:07:07.065574",
+      "continuous_session": true
+    },
+    {
+      "title": "Nvidia just spent over $900 million to hire Enfabrica CEO, license AI startup&apos;s technology",
+      "link": "https://www.cnbc.com/2025/09/18/nvidia-spent-over-900-million-on-enfabrica-ceo-ai-startup-technology.html",
+      "summary": "In a deal reminiscent of acquihires by Meta and Google, Nvidia hired Enfabrica's CEO and other employees of the startup, and licensed its technology.",
+      "published": "Thu, 18 Sep 2025 22:23:04 GMT",
+      "content": "In a deal reminiscent of acquihires by Meta and Google, Nvidia hired Enfabrica's CEO and other employees of the startup, and licensed its technology.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0f3e7a439f259e27fb01c7f435057099",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NVIDIA SPLURGES $900M+ TO ACQUIRE ENFABRICA CEO & TECH 🚀\n\n- Nvidia invests over $900 million to hire Enfabrica CEO & team\n- Deal includes licensing Enfabrica's cutting-edge AI technology\n- Acquisition mirrors Meta and Google's acquihires strategy\n\nTAKEAWAY: Nvidia's bold move to acquire Enfabrica's CEO, team, and technology for over $900 million showcases their commitment to innovation and strategic growth in the AI industry.",
+      "exported_at": "2025-09-18T18:37:34.691973",
       "continuous_session": true
     }
   ]
