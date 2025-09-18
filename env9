@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T13:11:27.778655",
-    "total_articles": 1347,
-    "new_articles_in_last_fetch": 1347,
+    "created_at": "2025-09-18T13:41:56.707458",
+    "total_articles": 1348,
+    "new_articles_in_last_fetch": 1348,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -17505,6 +17505,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: META'S CHRIS COX PREDICTS SMART GLASSES AS FUTURE OF COMPUTING 🚀\n\n- Meta unveils $799 Ray-Ban Display AI glasses 💰👓\n- Chris Cox emphasizes smart glasses as computing future 🌟\n- Meta's innovation aims to revolutionize tech industry 🌐\n- The Meta Ray-Ban glasses hint at upcoming tech trends 🔮\n\nTAKEAWAY: Meta's Chris Cox believes smart glasses like the $799 Ray-Ban Display AI glasses will lead the future of computing, sparking innovation and shaping tech trends.",
       "exported_at": "2025-09-18T13:11:27.677670",
+      "continuous_session": true
+    },
+    {
+      "title": "The stock market could see nearly 50% upside if investor allocations reach dotcom bubble levels",
+      "link": "https://www.cnbc.com/2025/09/18/stocks-could-see-50percent-upside-if-investor-allocations-track-1990s-bubble.html",
+      "summary": "The equity allocation of non-bank investors is \"significantly\" below the roughly 55% global allocation seen in 2000, JPMorgan found.",
+      "published": "Thu, 18 Sep 2025 17:31:51 GMT",
+      "content": "The equity allocation of non-bank investors is \"significantly\" below the roughly 55% global allocation seen in 2000, JPMorgan found.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "969f65b8dc58d1ca26f6a3583871d869",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK MARKET COULD SEE 50% UPSIDE WITH INVESTOR ALLOCATIONS 🚀\n\n- Non-bank investors hold equity below 55% global allocation in 2000\n- JPMorgan report suggests potential for nearly 50% market growth\n- Historical data indicates room for significant upside momentum 📈\n- Increased investor allocations could drive market to dotcom levels 💥\n\nTAKEAWAY: According to JPMorgan, if investor allocations reach dotcom bubble levels, the stock market could potentially see nearly 50% upside growth. 🔥",
+      "exported_at": "2025-09-18T13:41:56.623408",
       "continuous_session": true
     }
   ]
