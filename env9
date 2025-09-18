@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T19:39:01.224411",
-    "total_articles": 1277,
-    "new_articles_in_last_fetch": 1277,
+    "created_at": "2025-09-17T20:14:32.817847",
+    "total_articles": 1278,
+    "new_articles_in_last_fetch": 1278,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -16596,6 +16596,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NETSKOPE IPO PRICED AT $19, VALUED AT $7.3 BILLION 🚀\n\n- Netskope's IPO prices at $19, valuing the company at $7.3 billion 💸\n- Revival in the IPO market after a long drought 📈\n- Recent notable debuts from CoreWeave, Circle, and Figma 💥\n\nTAKEAWAY: Netskope's successful IPO pricing at $19, valuing the company at $7.3 billion, aligns with the thriving revival in the IPO market alongside debuts from other prominent companies.",
       "exported_at": "2025-09-17T19:39:01.126528",
+      "continuous_session": true
+    },
+    {
+      "title": "Asia-Pacific markets trade mixed after Fed cut rates as expected",
+      "link": "https://www.cnbc.com/2025/09/18/asia-pacific-markets-fed-cut-rates-as-expected-nikkei-225-hang-seng-index-kospi-nifty-50.html",
+      "summary": "The Bank of Japan is kick-starting its two-day policy meeting, where it is expected by most economists to keep policy rates steady.",
+      "published": "Thu, 18 Sep 2025 00:13:59 GMT",
+      "content": "The Bank of Japan is kick-starting its two-day policy meeting, where it is expected by most economists to keep policy rates steady.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "58ef82610b44d6ff420549fa4d45b18f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASIA-PACIFIC MARKETS MIXED AFTER FED RATE CUT 🌏\n\n- Markets trade mixed post-Fed rate cut announcement 📉📈\n- Bank of Japan begins two-day policy meeting 🇯🇵\n- Economists predict Japan to maintain policy rates ✅\n- Uncertainty looms over upcoming policy decisions 🤔\n- Investors cautious amid mixed market movements ⚠️\n- Asia-Pacific markets react to global economic changes 🌍\n\nTAKEAWAY: Asia-Pacific markets show mixed reactions post-Fed rate cut, with investors closely monitoring the Bank of Japan's upcoming policy decisions for potential market shifts.",
+      "exported_at": "2025-09-17T20:14:32.730908",
       "continuous_session": true
     }
   ]
