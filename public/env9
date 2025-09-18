@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T10:33:12.064815",
-    "total_articles": 1323,
-    "new_articles_in_last_fetch": 1323,
+    "created_at": "2025-09-18T10:48:28.450365",
+    "total_articles": 1324,
+    "new_articles_in_last_fetch": 1324,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -17193,6 +17193,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCK FUTURES EDGE UP AFTER FED RATE CUT 📈\n\n- Stock futures rise slightly post-Fed decision 🚀\n- Wednesday saw volatile trading before rate cut ⚠️\n- Fed cuts benchmark rate by 0.25 percentage points ✅\n\nTAKEAWAY: Stock futures show a slight uptick following the Fed's rate cut, amidst a backdrop of volatile trading and market anticipation.",
       "exported_at": "2025-09-18T10:33:11.980198",
+      "continuous_session": true
+    },
+    {
+      "title": "Attorneys general, advocates oppose Trump&apos;s rule narrowing eligibility for Public Service Loan Forgiveness",
+      "link": "https://www.cnbc.com/2025/09/18/public-service-loan-forgiveness-rule-opposed-by-attorneys-general.html",
+      "summary": "Attorneys general and more than 250 organizations oppose the Trump-era proposed regulation that could narrow eligibility for Public Service Loan Forgiveness.",
+      "published": "Thu, 18 Sep 2025 14:46:14 GMT",
+      "content": "Attorneys general and more than 250 organizations oppose the Trump-era proposed regulation that could narrow eligibility for Public Service Loan Forgiveness.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5729e04dbb1047ebb63bf01c8f96b108",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ATTORNEYS GENERAL FIGHT TRUMP'S LOAN FORGIVENESS RULE ⚠️\n\n- 250+ organizations unite against Trump's loan forgiveness restriction 🤝\n- Proposed regulation may limit eligibility for Public Service Loan Forgiveness ❌\n- Attorneys general join forces to oppose Trump-era rule 🛑\n\nTAKEAWAY: Attorneys general and numerous organizations push back against Trump's proposed rule that could restrict eligibility for Public Service Loan Forgiveness.",
+      "exported_at": "2025-09-18T10:48:28.359181",
       "continuous_session": true
     }
   ]
