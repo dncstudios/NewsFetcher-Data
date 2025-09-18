@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T16:30:31.978455",
-    "total_articles": 1378,
-    "new_articles_in_last_fetch": 1378,
+    "created_at": "2025-09-18T17:26:20.403402",
+    "total_articles": 1379,
+    "new_articles_in_last_fetch": 1379,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -17908,6 +17908,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SANTOLI'S MARKET WRAP-UP: RECORD HIGHS, FED RESPONSE 🚀\n\n- All indexes hit record highs, S&P 500 slightly below peak 📈\n- Market response upbeat, but not euphoric 🎉\n- Investors optimistic despite S&P 500 off its highs\n\nTAKEAWAY: Market hits record highs with an optimistic response to the Fed, although not quite reaching euphoria.",
       "exported_at": "2025-09-18T16:30:31.936743",
+      "continuous_session": true
+    },
+    {
+      "title": "What Kevin Durant would tell an NBA rookie who wants to follow in his footsteps",
+      "link": "https://www.cnbc.com/2025/09/18/kevin-durants-advice-for-nba-rookie-who-wants-to-follow-his-footsteps.html",
+      "summary": "Kevin Durant has paved his own path during 18 years in the NBA, and offered advice and a glimpse into his future at CNBC Sport and Boardroom's Game Plan.",
+      "published": "Thu, 18 Sep 2025 20:56:55 GMT",
+      "content": "Kevin Durant has paved his own path during 18 years in the NBA, and offered advice and a glimpse into his future at CNBC Sport and Boardroom's Game Plan.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ae053fedd6526c42199977e5a13195c1",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: KEVIN DURANT'S ADVICE FOR NBA ROOKIES 🏀\n\n- Durant shares wisdom from 18-year NBA journey 🌟\n- Offers advice on following in his footsteps 🛤️\n- Provides insight into his future plans 🔮\n\nTAKEAWAY: NBA superstar Kevin Durant shares valuable advice and a peek into his future with aspiring rookies, inspiring them to carve their own paths to success.",
+      "exported_at": "2025-09-18T17:26:20.297663",
       "continuous_session": true
     }
   ]
