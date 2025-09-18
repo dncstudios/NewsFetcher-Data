@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T15:29:09.141414",
-    "total_articles": 1364,
-    "new_articles_in_last_fetch": 1364,
+    "created_at": "2025-09-18T15:39:21.119698",
+    "total_articles": 1365,
+    "new_articles_in_last_fetch": 1365,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -17726,6 +17726,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: HYUNDAI ADJUSTS FULL-YEAR FORECAST AMID TARIFFS 🚀\n\n- Hyundai raises revenue forecast for 2025 📈\n- U.S. tariffs lead to lower expected operating profit for the year ⚠️\n- Company addresses forecast adjustments at investor day 💼\n\nTAKEAWAY: Hyundai's strategic move to adjust forecasts amidst U.S. tariffs showcases resilience and adaptability, setting the stage for long-term growth.",
       "exported_at": "2025-09-18T15:29:09.037098",
+      "continuous_session": true
+    },
+    {
+      "title": "Ted Leonsis still pursuing MLB, MLS teams to further build out Washington, D.C., sports empire",
+      "link": "https://www.cnbc.com/2025/09/18/ted-leonsis-washington-dc-capitals-wizards-sports-valuations.html",
+      "summary": "Washington Capitals and Wizards owner Ted Leonsis has long pursued a MLB team, something he said he is not giving up on.",
+      "published": "Thu, 18 Sep 2025 19:33:11 GMT",
+      "content": "Washington Capitals and Wizards owner Ted Leonsis has long pursued a MLB team, something he said he is not giving up on.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "346fc547e21cff58a93a97f624fc4ef2",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TED LEONSIS EYES MLB, MLS TEAMS TO EXPAND D.C. SPORTS EMPIRE 🚀\n\n- Leonsis persists in MLB pursuit, determined to add team in Washington ⚾\n- Vision extends to MLS team acquisition for D.C. sports empire 🌟\n- Washington Capitals & Wizards owner remains resolute in MLB goal 💪\n\nTAKEAWAY: Ted Leonsis continues his relentless pursuit of MLB and MLS teams to enhance his Washington, D.C. sports empire, showcasing unwavering determination and ambition.",
+      "exported_at": "2025-09-18T15:39:21.028080",
       "continuous_session": true
     }
   ]
