@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T09:42:10.682632",
-    "total_articles": 1316,
-    "new_articles_in_last_fetch": 1316,
+    "created_at": "2025-09-18T09:47:16.923287",
+    "total_articles": 1317,
+    "new_articles_in_last_fetch": 1317,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -17102,6 +17102,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JPMORGAN'S AI DECIPHERS FED DECISION: MOST DOVISH BENT IN YEARS 🤖\n\n- JPMorgan's AI analyzes Fed's language, Chair Powell's remarks 🧠\n- Concludes Fed displays most dovish stance since 2021 🕊️\n- AI study reveals significant shift in central bank's tone 📉\n\nTAKEAWAY: JPMorgan's AI analysis unveils a notable dovish shift in the Fed's stance, signaling potential impacts on markets and economy.",
       "exported_at": "2025-09-18T09:42:10.577792",
+      "continuous_session": true
+    },
+    {
+      "title": "Intel surges 24% as Nvidia to invest $5 billion in chipmaker, co-develop data center and PC chips",
+      "link": "https://www.cnbc.com/2025/09/18/intel-nvidia-investment.html",
+      "summary": "Nvidia said it will invest $5 billion in Intel as part of a deal to co-develop data center and PC products with the troubled chipmaker.",
+      "published": "Thu, 18 Sep 2025 13:45:30 GMT",
+      "content": "Nvidia said it will invest $5 billion in Intel as part of a deal to co-develop data center and PC products with the troubled chipmaker.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2630cb79f779c4c596bc14ddcc9c70e9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: INTEL SOARS 30% AFTER NVIDIA'S $5 BILLION INVESTMENT 🚀\n\n- Nvidia to inject $5 billion into Intel for data center, PC collaboration 💰\n- Intel's stock surges by 30% following the investment news 📈\n- Collaboration aims to boost Intel's position in chipmaking industry 🚀\n- Nvidia's support expected to enhance Intel's product offerings 🔥\n- Deal signifies a strategic partnership between two tech giants ✅\n\nTAKEAWAY: Intel's stock skyrockets by 30% as Nvidia announces a $5 billion investment, setting the stage for a powerful collaboration in data centers and PCs.",
+      "exported_at": "2025-09-18T09:47:16.826334",
       "continuous_session": true
     }
   ]
