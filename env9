@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T12:40:50.955942",
-    "total_articles": 1343,
-    "new_articles_in_last_fetch": 1343,
+    "created_at": "2025-09-18T13:06:19.031354",
+    "total_articles": 1346,
+    "new_articles_in_last_fetch": 1346,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -17453,6 +17453,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCK FUTURES EDGE UP AFTER FED RATE CUT 📈\n\n- Stock futures rise slightly post-Fed decision 🚀\n- Wednesday saw volatile trading before rate cut ⚠️\n- Fed cuts benchmark rate by 0.25 percentage points ✅\n\nTAKEAWAY: Stock futures show a slight uptick following the Fed's rate cut, amidst a backdrop of volatile trading and market anticipation.",
       "exported_at": "2025-09-18T12:40:50.852187",
+      "continuous_session": true
+    },
+    {
+      "title": "Google adds Gemini to Chrome for all users in push to bolster AI search",
+      "link": "https://www.cnbc.com/2025/09/18/google-gemini-chrome-ai-search.html",
+      "summary": "AI has changed the competitive landscape in search, with OpenAI, Perplexity and Anthropic all diving into the space.",
+      "published": "Thu, 18 Sep 2025 17:00:01 GMT",
+      "content": "AI has changed the competitive landscape in search, with OpenAI, Perplexity and Anthropic all diving into the space.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7a6d2fa5e41f537d93e06b5b393cc4be",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GOOGLE INTEGRATES GEMINI INTO CHROME TO BOOST AI SEARCH 🚀\n\n- Google incorporates Gemini into Chrome for all users 🌐\n- AI transforms search competition with OpenAI, Perplexity, Anthropic 🤖\n- Push to enhance AI capabilities in search results 🔍\n\nTAKEAWAY: Google's integration of Gemini into Chrome aims to strengthen AI search capabilities, amid increasing competition in the search landscape.",
+      "exported_at": "2025-09-18T13:06:18.934106",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves midday: Intel, Novo Nordisk, Bullish, Allstate &amp; more",
+      "link": "https://www.cnbc.com/2025/09/18/stocks-making-the-biggest-moves-midday-intc-nvo-blsh-all.html",
+      "summary": "These are the stocks posting the largest moves midday.",
+      "published": "Thu, 18 Sep 2025 16:52:31 GMT",
+      "content": "These are the stocks posting the largest moves midday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e907fbd3b5048b9c86fff27827293148",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS MAKING BIGGEST MIDDAY MOVES 🚀\n\n- Intel and Novo Nordisk among top performers 📈\n- Bullish market sentiment driving stock prices up ⚡️\n- Allstate showing significant midday gains 💰\n- Investors closely monitoring market movements 📊\n\nTAKEAWAY: Intel, Novo Nordisk, and Allstate are leading midday stock performers, driven by bullish market sentiment and closely watched by investors.",
+      "exported_at": "2025-09-18T13:06:18.934178",
+      "continuous_session": true
+    },
+    {
+      "title": "September to remember or calm before the storm? My year-end market prediction",
+      "link": "https://www.cnbc.com/2025/09/18/september-to-remember-or-calm-before-the-storm-cramers-year-end-market-prediction.html",
+      "summary": "So, what will define the market in the final quarter of the year?",
+      "published": "Thu, 18 Sep 2025 16:56:48 GMT",
+      "content": "So, what will define the market in the final quarter of the year?",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7bc2534673d898e4d725849d3f4b1dc5",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SEPTEMBER TO REMEMBER OR CALM BEFORE THE STORM? MY YEAR-END MARKET PREDICTION 📈\n\n- Uncertainty looms over market performance in Q4 🌩️\n- Investors anticipate defining factors for year-end trends 📈\n- Volatility expected as market reacts to upcoming events 📊\n- Analysts predict mixed sentiments leading to varied outcomes 🔄\n- Q4 performance hinges on economic indicators and geopolitical events 🌍\n- Market sentiment remains cautious with potential for surprises ⚠️\n\nTAKEAWAY: The final quarter of the year is poised for volatility and mixed sentiments as investors await defining factors to shape market trends.",
+      "exported_at": "2025-09-18T13:06:18.934195",
       "continuous_session": true
     }
   ]
