@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T08:15:37.282132",
-    "total_articles": 1307,
-    "new_articles_in_last_fetch": 1307,
+    "created_at": "2025-09-18T08:25:49.278539",
+    "total_articles": 1308,
+    "new_articles_in_last_fetch": 1308,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -16986,6 +16986,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ALPHABET SET TO SOAR AFTER COURT WIN, SAYS PIPER SANDLER 🚀\n\n- Google's recent antitrust ruling boosts Alphabet shares 📈\n- Piper Sandler predicts removal of overhang on Alphabet stock ✅\n- Favorable court decision expected to drive further gains 🚀\n\nTAKEAWAY: Alphabet's favorable court ruling in Google's antitrust case is projected to propel the company's shares higher, according to Piper Sandler.",
       "exported_at": "2025-09-18T08:15:37.207511",
+      "continuous_session": true
+    },
+    {
+      "title": "Nike gets an upgrade from RBC, which says organizational and product refresh will boost stock",
+      "link": "https://www.cnbc.com/2025/09/18/nike-gets-an-upgrade-from-rbc-which-says-organizational-and-product-refresh-will-boost-stock.html",
+      "summary": "Nike received an outperform rating from RBC due to its planned product refresh and recent organizational structure overhaul.",
+      "published": "Thu, 18 Sep 2025 12:22:58 GMT",
+      "content": "Nike received an outperform rating from RBC due to its planned product refresh and recent organizational structure overhaul.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "697aeff31dfcd99de4045ca1b7a9de8a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NIKE RECEIVES OUTPERFORM RATING FROM RBC 🚀\n\n- RBC upgrades Nike on organizational overhaul 🔄\n- Expected boost from upcoming product refresh 🚀\n- Outperform rating indicates positive outlook 📈\n\nTAKEAWAY: RBC's outperform rating for Nike highlights the anticipated positive impact of its organizational changes and upcoming product refresh on the stock.",
+      "exported_at": "2025-09-18T08:25:49.203039",
       "continuous_session": true
     }
   ]
