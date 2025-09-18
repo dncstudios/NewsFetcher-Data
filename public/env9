@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T14:58:32.089652",
-    "total_articles": 1359,
-    "new_articles_in_last_fetch": 1359,
+    "created_at": "2025-09-18T15:08:50.549155",
+    "total_articles": 1363,
+    "new_articles_in_last_fetch": 1363,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -17661,6 +17661,58 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP SUPPORTS SUSPENSION OF JIMMY KIMMEL'S SHOW 🚨\n\n- Trump praises Jimmy Kimmel's show suspension 🔥\n- Kimmel's comments on accused murderer sparked controversy ⚠️\n- Trump hints at pulling network licenses if they're 'against' him 🚀\n\nTAKEAWAY: Trump's support for Jimmy Kimmel's show suspension and his veiled threat to pull network licenses signal his stance against criticism and controversies.",
       "exported_at": "2025-09-18T14:58:31.985504",
+      "continuous_session": true
+    },
+    {
+      "title": "CrowdStrike pops 12% on upbeat long-term guidance at investor day",
+      "link": "https://www.cnbc.com/2025/09/18/crowdstrike-investor-day-stock.html",
+      "summary": "The cybersecurity firm shared strong long-term guidance this week and announced plans to buy AI security company Pangea.",
+      "published": "Thu, 18 Sep 2025 19:02:54 GMT",
+      "content": "The cybersecurity firm shared strong long-term guidance this week and announced plans to buy AI security company Pangea.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "50785b00161b8333a0f66c927a2dce3b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CROWDSTRIKE SURGES 12% ON BULLISH GUIDANCE 🚀\n\n- CrowdStrike's stock jumps 12% post investor day 📈\n- Company unveils optimistic long-term guidance 🎯\n- Plans acquisition of AI security firm Pangea 💡\n- Positive market response to cybersecurity outlook 🔒\n- Investor day highlights growth potential and strategy 📈\n- Upbeat sentiment drives stock momentum 🚀\n\nTAKEAWAY: CrowdStrike's 12% surge reflects investor confidence in the cybersecurity firm's bullish long-term guidance and strategic acquisitions.",
+      "exported_at": "2025-09-18T15:08:50.442004",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump&apos;s pressure on the media is mounting with Kimmel sidelined &apos;indefinitely&apos;",
+      "link": "https://www.cnbc.com/2025/09/18/jimmy-kimmel-trump-pressure-on-the-media-mounting.html",
+      "summary": "Kimmel's hiatus is drawing comparisons to CBS' cancellation of \"The Late Show With Stephen Colbert\" and raising questions about the protection of free speech.",
+      "published": "Thu, 18 Sep 2025 18:04:51 GMT",
+      "content": "Kimmel's hiatus is drawing comparisons to CBS' cancellation of \"The Late Show With Stephen Colbert\" and raising questions about the protection of free speech.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "293b0938a8e153d7a2eb22f1caef7346",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP'S MEDIA PRESSURE RISES AS KIMMEL SIDELINED INDEFINITELY 🚨\n\n- Kimmel's hiatus sparks concerns on free speech protection 🗣️\n- Parallels drawn to CBS canceling \"The Late Show With Stephen Colbert\" 📺\n- Trump's pressure on media under scrutiny 🧐\n\nTAKEAWAY: Kimmel's indefinite hiatus fuels discussions on free speech protection amidst mounting pressure on media by Trump.",
+      "exported_at": "2025-09-18T15:08:50.442073",
+      "continuous_session": true
+    },
+    {
+      "title": "SEC revises rules that paves way for new spot crypto ETFs: CNBC Crypto World",
+      "link": "https://www.cnbc.com/video/2025/09/18/sec-revises-rules-that-paves-way-for-new-spot-crypto-etfs-cnbc-crypto-world.html",
+      "summary": "On today's episode of CNBC Crypto World, digital currencies rise following the Fed's decision to cut interest rates by a quarter point. New spot crypto ETFs launch for trading after the SEC changes a rule to streamline listings. Also, Thomas Perfumo, a global economist at Kraken, shares his outlook on bitcoin and new crypto-tied ETFs entering the market.",
+      "published": "Thu, 18 Sep 2025 19:00:02 GMT",
+      "content": "On today's episode of CNBC Crypto World, digital currencies rise following the Fed's decision to cut interest rates by a quarter point. New spot crypto ETFs launch for trading after the SEC changes a rule to streamline listings. Also, Thomas Perfumo, a global economist at Kraken, shares his outlook on bitcoin and new crypto-tied ETFs entering the market.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "195b90dced0f9810f690cd4e64d4ded6",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SEC REVISES RULES FOR NEW SPOT CRYPTO ETFs 🚀\n\n- Digital currencies surge post Fed's rate cut decision 📈\n- SEC rule change leads to launch of spot crypto ETFs 🚀\n- Thomas Perfumo from Kraken discusses bitcoin outlook 💬\n- New crypto-tied ETFs enter the market for trading 📈\n- Market anticipates impact of streamlined ETF listings 🤔\n\nTAKEAWAY: SEC's rule revision for spot crypto ETFs sparks market excitement and sets the stage for new trading opportunities in the digital currency space.",
+      "exported_at": "2025-09-18T15:08:50.442087",
+      "continuous_session": true
+    },
+    {
+      "title": "New York will soon send its &apos;first-ever inflation refund&apos; checks to taxpayers. Here’s who qualifies",
+      "link": "https://www.cnbc.com/2025/09/18/inflation-refund-checks-new-york.html",
+      "summary": "Over 8 million taxpayers are slated to receive one-time ‘inflation refund’ checks from the state of New York.",
+      "published": "Thu, 18 Sep 2025 18:55:11 GMT",
+      "content": "Over 8 million taxpayers are slated to receive one-time ‘inflation refund’ checks from the state of New York.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "95fbb27ba4535852b98d23447bffcf16",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NEW YORK'S FIRST-EVER 'INFLATION REFUND' CHECKS TO TAXPAYERS 🚀\n\n- 8 million New York taxpayers to get one-time 'inflation refund' checks 💸\n- State issues refunds due to increased inflation impact on residents 📈\n- Qualifying taxpayers set to benefit from the initiative 💰\n\nTAKEAWAY: New York's groundbreaking 'inflation refund' initiative will provide relief to 8 million taxpayers impacted by rising inflation, benefiting qualifying residents.",
+      "exported_at": "2025-09-18T15:08:50.442103",
       "continuous_session": true
     }
   ]
