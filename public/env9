@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T15:39:21.119698",
-    "total_articles": 1365,
-    "new_articles_in_last_fetch": 1365,
+    "created_at": "2025-09-18T15:49:30.955206",
+    "total_articles": 1366,
+    "new_articles_in_last_fetch": 1366,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -17739,6 +17739,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TED LEONSIS EYES MLB, MLS TEAMS TO EXPAND D.C. SPORTS EMPIRE 🚀\n\n- Leonsis persists in MLB pursuit, determined to add team in Washington ⚾\n- Vision extends to MLS team acquisition for D.C. sports empire 🌟\n- Washington Capitals & Wizards owner remains resolute in MLB goal 💪\n\nTAKEAWAY: Ted Leonsis continues his relentless pursuit of MLB and MLS teams to enhance his Washington, D.C. sports empire, showcasing unwavering determination and ambition.",
       "exported_at": "2025-09-18T15:39:21.028080",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump&apos;s pressure on the media is mounting, with Kimmel sidelined &apos;indefinitely&apos;",
+      "link": "https://www.cnbc.com/2025/09/18/jimmy-kimmel-trump-pressure-on-the-media-mounting.html",
+      "summary": "Kimmel's hiatus is drawing comparisons to CBS' cancellation of \"The Late Show With Stephen Colbert\" and raising questions about the protection of free speech.",
+      "published": "Thu, 18 Sep 2025 19:46:14 GMT",
+      "content": "Kimmel's hiatus is drawing comparisons to CBS' cancellation of \"The Late Show With Stephen Colbert\" and raising questions about the protection of free speech.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c23c51bf2cd5ad534444a7de985bee71",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP'S MEDIA PRESSURE RISES AS KIMMEL SIDELINED INDEFINITELY 🚨\n\n- Kimmel's hiatus sparks concerns on free speech protection 🗣️\n- Parallels drawn to CBS canceling \"The Late Show With Stephen Colbert\" 📺\n- Trump's pressure on media under scrutiny 🧐\n\nTAKEAWAY: Kimmel's indefinite hiatus fuels discussions on free speech protection amidst mounting pressure on media by Trump.",
+      "exported_at": "2025-09-18T15:49:30.848981",
       "continuous_session": true
     }
   ]
