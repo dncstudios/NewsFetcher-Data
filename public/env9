@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-17T23:17:12.141691",
-    "total_articles": 1283,
-    "new_articles_in_last_fetch": 1283,
+    "created_at": "2025-09-18T00:18:02.033773",
+    "total_articles": 1284,
+    "new_articles_in_last_fetch": 1284,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -16674,6 +16674,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SEC CLEARS PATH FOR CRYPTO SPOT ETFs 🚀\n\n- SEC introduces new listing rules for crypto spot ETFs 📈\n- Move aligns with Trump's agenda to mainstream crypto assets 💪\n- Regulations aim to boost investor confidence in crypto market ✅\n\nTAKEAWAY: SEC's new listing rules for crypto spot ETFs signal a significant step towards mainstream adoption, in line with Trump's administration agenda.",
       "exported_at": "2025-09-17T23:17:12.047398",
+      "continuous_session": true
+    },
+    {
+      "title": "ABC pulls Jimmy Kimmel show off air &apos;indefinitely&apos; over Charlie Kirk comments",
+      "link": "https://www.cnbc.com/2025/09/17/charlie-kirk-jimmy-kimmel-abc-disney.html",
+      "summary": "Jimmy Kimmel suggested that Tyler Robinson, the man accused of killing Charlie Kirk, was aligned with President Donald Trump's MAGA movement.",
+      "published": "Thu, 18 Sep 2025 04:14:42 GMT",
+      "content": "Jimmy Kimmel suggested that Tyler Robinson, the man accused of killing Charlie Kirk, was aligned with President Donald Trump's MAGA movement.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d97650c0de818b211c0b69411743ed55",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ABC PULLS 'JIMMY KIMMEL LIVE' OFF AIR INDEFINITELY ⚠️\n\n- ABC takes show off air over Jimmy Kimmel's controversial comments\n- Kimmel suggested accused killer aligned with Trump's MAGA movement\n- Network faces backlash for remarks linking Tyler Robinson to Charlie Kirk\n\nTAKEAWAY: ABC's decision to suspend 'Jimmy Kimmel Live' indefinitely follows controversial remarks linking accused killer to Trump's MAGA movement.",
+      "exported_at": "2025-09-18T00:18:01.937930",
       "continuous_session": true
     }
   ]
