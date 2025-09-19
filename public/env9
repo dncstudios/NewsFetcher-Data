@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-19T00:07:18.908676",
-    "total_articles": 1393,
-    "new_articles_in_last_fetch": 1393,
+    "created_at": "2025-09-19T01:33:31.994097",
+    "total_articles": 1394,
+    "new_articles_in_last_fetch": 1394,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -18103,6 +18103,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ASIA-PACIFIC MARKETS BRACE FOR BOJ DECISION 🚀\n\n- Investors anticipate Bank of Japan to maintain 0.5% policy rate 🏦\n- Analysts predict stable market opening in the Asia-Pacific region 🌏\n- BOJ's decision to influence investor sentiment and market direction 📈\n\nTAKEAWAY: Asia-Pacific markets await the Bank of Japan's decision on the benchmark policy rate, with expectations of a stable market opening and potential impacts on investor sentiment.",
       "exported_at": "2025-09-19T00:07:18.812628",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump’s visit sparks $200 billion investment into Britain. It&apos;s unclear what the money will achieve",
+      "link": "https://www.cnbc.com/2025/09/19/trump-state-visit-how-will-150-billion-investment-benefit-britain.html",
+      "summary": "One market watcher described the announcements made during Trump's state visit to Britain as \"flawless,\" but stressed the need for caution.",
+      "published": "Fri, 19 Sep 2025 05:25:25 GMT",
+      "content": "One market watcher described the announcements made during Trump's state visit to Britain as \"flawless,\" but stressed the need for caution.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d4513746fe8924fa696d746a9aecb439",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP'S VISIT SPARKS $200 BILLION INVESTMENT INTO BRITAIN 🚀\n\n- $200 billion investment poured into Britain post-Trump visit 💰\n- Market watcher praises flawless announcements made 🌟\n- Caution advised despite the massive investment influx ⚠️\n\nTAKEAWAY: Trump's visit to Britain ignites a massive $200 billion investment wave, but caution is advised on the outcomes of this influx.",
+      "exported_at": "2025-09-19T01:33:31.893760",
       "continuous_session": true
     }
   ]
