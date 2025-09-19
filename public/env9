@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-19T02:59:49.962431",
-    "total_articles": 1397,
-    "new_articles_in_last_fetch": 1397,
+    "created_at": "2025-09-19T03:15:06.525192",
+    "total_articles": 1398,
+    "new_articles_in_last_fetch": 1398,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -18155,6 +18155,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: APPLE iPHONE 17 LAUNCHES GLOBALLY AMID CHINA AND AI STRATEGY QUESTIONS 🚀\n\n- Global frenzy at Apple stores for iPhone 17 release 🌎📱\n- Uncertainty lingers over Apple's China market presence 🇨🇳❓\n- Questions arise about Apple's Artificial Intelligence strategy 🧠❓\n- Apple fans eager to get their hands on latest tech 🤩\n- Strong initial demand for iPhone 17 reported 📈💪\n- Market watching closely for Apple's next moves 🧐📊\n\nTAKEAWAY: The global launch of Apple's iPhone 17 sparks excitement, but concerns over China market and AI strategy raise questions about the tech giant's future direction.",
       "exported_at": "2025-09-19T02:59:49.866052",
+      "continuous_session": true
+    },
+    {
+      "title": "TikTok potential deal sends ByteDance valuation higher as investor conviction deepens",
+      "link": "https://www.cnbc.com/2025/09/19/bytedance-valuation-trends-higher-with-tiktok-deal-raising-optimism-.html",
+      "summary": "ByteDance has gained traction among investors this year amid a renewed rally in Chinese tech stocks and Beijing's pledge to support the private sector.",
+      "published": "Fri, 19 Sep 2025 07:03:17 GMT",
+      "content": "ByteDance has gained traction among investors this year amid a renewed rally in Chinese tech stocks and Beijing's pledge to support the private sector.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e55f51812c05e584d47d56160a781e67",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TIKTOK DEAL BOOSTS BYTEDANCE VALUATION 🚀\n\n- ByteDance valuation surges on TikTok potential deal 📈\n- Investor confidence grows with Chinese tech stock rally 🇨🇳\n- Beijing's support for private sector boosts ByteDance 🎯\n\nTAKEAWAY: ByteDance's rising valuation from the TikTok deal showcases growing investor confidence in Chinese tech stocks, fueled by Beijing's backing of the private sector.",
+      "exported_at": "2025-09-19T03:15:06.417864",
       "continuous_session": true
     }
   ]
