@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-19T11:38:17.834827",
-    "total_articles": 1434,
-    "new_articles_in_last_fetch": 1434,
+    "created_at": "2025-09-19T11:43:26.189261",
+    "total_articles": 1435,
+    "new_articles_in_last_fetch": 1435,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -18633,6 +18633,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRADE WAR TARIFF HACKING: RETAILERS LOWER PRICES WITH WHOLESALE MIDDLEMEN ⚡️\n\n- Retailers adopt tariff arbitrage to offer near-wholesale prices 🛍️\n- Strategy aims to mitigate impact of trade war on consumer costs 💰\n- Luxury and mass-market retailers both leveraging this approach 🌟\n- Wholesale middlemen help maintain competitive consumer prices 🛒\n- Tariff arbitrage strategy gaining popularity in retail distribution 📈\n\nTAKEAWAY: Retailers are creatively using wholesale middlemen and tariff arbitrage to keep consumer prices down amidst the trade war, ensuring competitive pricing across luxury and mass-market segments.",
       "exported_at": "2025-09-19T11:38:17.817412",
+      "continuous_session": true
+    },
+    {
+      "title": "Intel could be finding its footing after big Nvidia deal. An options trade to ride out more gains",
+      "link": "https://www.cnbc.com/2025/09/19/intel-could-be-finding-its-footing-after-big-nvidia-deal-an-options-trade-to-ride-out-more-gains.html",
+      "summary": "With the \"Intel Put\" in place, Jeff Kilburg thinks selling a put to finance an upside call to allow for further upside retracement is a logical approach.",
+      "published": "Fri, 19 Sep 2025 15:35:47 GMT",
+      "content": "With the \"Intel Put\" in place, Jeff Kilburg thinks selling a put to finance an upside call to allow for further upside retracement is a logical approach.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "792620244468abb0ec2beeb2892c510d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: INTEL REBOUNDS AFTER NVIDIA DEAL: OPTIONS STRATEGY FOR GROWTH 🚀\n\n- Jeff Kilburg suggests selling put to finance upside call 📈\n- Strategy aims for further upside retracement 🌟\n- \"Intel Put\" in place to navigate market dynamics 🔄\n\nTAKEAWAY: Intel's strategic options trade post-Nvidia deal signals a potential rebound, offering a structured approach for growth.",
+      "exported_at": "2025-09-19T11:43:26.172036",
       "continuous_session": true
     }
   ]
