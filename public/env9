@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-19T08:55:23.588370",
-    "total_articles": 1414,
-    "new_articles_in_last_fetch": 1414,
+    "created_at": "2025-09-19T09:05:38.306634",
+    "total_articles": 1416,
+    "new_articles_in_last_fetch": 1416,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -18374,6 +18374,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRADE WAR TARIFF HACKING: RETAILERS LOWER PRICES WITH WHOLESALE MIDDLEMEN ⚡️\n\n- Retailers adopt tariff arbitrage to offer near-wholesale prices 🛍️\n- Strategy aims to mitigate impact of trade war on consumer costs 💰\n- Luxury and mass-market retailers both leveraging this approach 🌟\n- Wholesale middlemen help maintain competitive consumer prices 🛒\n- Tariff arbitrage strategy gaining popularity in retail distribution 📈\n\nTAKEAWAY: Retailers are creatively using wholesale middlemen and tariff arbitrage to keep consumer prices down amidst the trade war, ensuring competitive pricing across luxury and mass-market segments.",
       "exported_at": "2025-09-19T08:55:23.570428",
+      "continuous_session": true
+    },
+    {
+      "title": "SEC to propose rule change on Trump&apos;s call to end quarterly earnings reporting, says Chair Atkins",
+      "link": "https://www.cnbc.com/2025/09/19/sec-to-propose-rule-change-on-trumps-call-to-end-quarterly-earnings-reporting-says-chair-atkins.html",
+      "summary": "Atkins said if the rule change is approved, it will be left to companies to decide whether they switch to semiannual or stay with quarterly.",
+      "published": "Fri, 19 Sep 2025 13:04:52 GMT",
+      "content": "Atkins said if the rule change is approved, it will be left to companies to decide whether they switch to semiannual or stay with quarterly.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "838b50d6e54770a7fb7ca54d436780c4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SEC PROPOSES RULE CHANGE ON ENDING QUARTERLY EARNINGS REPORTING ⚡️\n\n- SEC considers allowing companies to choose between semiannual or quarterly reporting 📊\n- Chair Atkins hints at upcoming rule change approval ✅\n- Potential shift could give companies flexibility in reporting frequency 🔄\n\nTAKEAWAY: SEC's proposed rule change on quarterly earnings reporting offers companies the choice between semiannual or quarterly, providing flexibility and adaptability in financial disclosures.",
+      "exported_at": "2025-09-19T09:05:38.288631",
+      "continuous_session": true
+    },
+    {
+      "title": "Treasury, IRS release key details about Trump’s ‘no tax on tips’ deduction",
+      "link": "https://www.cnbc.com/2025/09/19/treasury-details-trumps-no-tax-on-tips.html",
+      "summary": "The Treasury has issued proposed regulations with more details about Trump’s “no tax on tips” deduction. Here are the key things for workers to know.",
+      "published": "Fri, 19 Sep 2025 13:00:01 GMT",
+      "content": "The Treasury has issued proposed regulations with more details about Trump’s “no tax on tips” deduction. Here are the key things for workers to know.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c4499557af0524a542cd1b26e4a3da08",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TREASURY, IRS UNVEIL TRUMP'S 'NO TAX ON TIPS' DEDUCTION DETAILS 🚀\n\n- Treasury releases proposed regulations on the tip deduction 💡\n- Workers get more clarity on Trump's tax initiative ✅\n- Key details aim to benefit employees 💰\n- IRS collaborates with Treasury for comprehensive guidelines 🤝\n- Initiative designed to reduce tax burdens on tip income 📉\n- Workers urged to stay informed on the deduction changes 🧠\n\nTAKEAWAY: The Treasury and IRS collaboration unveils crucial details on Trump's 'no tax on tips' deduction, benefiting workers with reduced tax burdens and increased clarity.",
+      "exported_at": "2025-09-19T09:05:38.288661",
       "continuous_session": true
     }
   ]
