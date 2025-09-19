@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T20:03:53.222460",
-    "total_articles": 1387,
-    "new_articles_in_last_fetch": 1387,
+    "created_at": "2025-09-18T20:08:59.213443",
+    "total_articles": 1388,
+    "new_articles_in_last_fetch": 1388,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -18025,6 +18025,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JAPAN'S CORE INFLATION HITS LOWEST LEVEL SINCE NOVEMBER 2024 📉\n\n- Japan's core inflation rate drops to 3.3% in August\n- \"Core-core\" inflation excludes fresh food and energy prices\n- BOJ closely monitors this indicator\n- August's rate down from 3.4% in July\n\nTAKEAWAY: Japan's core inflation rate hits a low not seen since November 2024, signaling potential challenges for the economy ahead.",
       "exported_at": "2025-09-18T20:03:53.119620",
+      "continuous_session": true
+    },
+    {
+      "title": "Stephen Colbert defends Jimmy Kimmel, calls Trump an &apos;autocrat&apos;",
+      "link": "https://www.cnbc.com/2025/09/18/jimmy-kimmel-kirk-colbert-letterman-trump.html",
+      "summary": "ABC pulled the \"Jimmy Kimmel Live!\" show off the air indefinitely over comments its host made about the alleged killer of Charlie Kirk.",
+      "published": "Fri, 19 Sep 2025 00:08:21 GMT",
+      "content": "ABC pulled the \"Jimmy Kimmel Live!\" show off the air indefinitely over comments its host made about the alleged killer of Charlie Kirk.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "16e566312255afca94a3fb120bc79447",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DAVID LETTERMAN SLAMS JIMMY KIMMEL SUSPENSION AS 'RIDICULOUS' 🚨\n\n- ABC suspends \"Jimmy Kimmel Live!\" show indefinitely 🚫\n- Suspension due to host's comments on Charlie Kirk's alleged killer 💬\n- David Letterman criticizes suspension as 'ridiculous' 👀\n- Jimmy Kimmel faces consequences for controversial remarks 💥\n\nTAKEAWAY: David Letterman criticizes ABC's decision to suspend \"Jimmy Kimmel Live!\" indefinitely, sparking debate over freedom of speech and consequences for controversial remarks.",
+      "exported_at": "2025-09-18T20:08:59.120416",
       "continuous_session": true
     }
   ]
