@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-19T09:41:20.414575",
-    "total_articles": 1423,
-    "new_articles_in_last_fetch": 1423,
+    "created_at": "2025-09-19T09:56:36.640396",
+    "total_articles": 1424,
+    "new_articles_in_last_fetch": 1424,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -18490,6 +18490,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TESLA UPGRADED BY BAIRD AFTER UNVEILING AMBITIOUS PRODUCT TARGETS 🚀\n\n- Baird upgrades Tesla stock rating post $1 trillion CEO pay package 💰\n- Elon Musk's ambitious roadmap impresses investors 🌟\n- Tesla sets \"lofty\" product targets for future growth 📈\n\nTAKEAWAY: Tesla's upgraded rating from Baird reflects investor confidence in Elon Musk's visionary roadmap and the company's ambitious product targets for future growth.",
       "exported_at": "2025-09-19T09:41:20.397336",
+      "continuous_session": true
+    },
+    {
+      "title": "Tesla gets upgrade from Baird as EV maker sets &apos;lofty&apos; product targets",
+      "link": "https://www.cnbc.com/2025/09/19/tesla-gets-upgrade-from-baird-as-ev-maker-sets-lofty-product-targets.html",
+      "summary": "Tesla notched an upgraded stock rating from Baird following its unveiling of a nearly $1 trillion pay package for CEO Elon Musk.",
+      "published": "Fri, 19 Sep 2025 13:56:02 GMT",
+      "content": "Tesla notched an upgraded stock rating from Baird following its unveiling of a nearly $1 trillion pay package for CEO Elon Musk.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "bb92535031b98f051fcea06e1baefde8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TESLA UPGRADED BY BAIRD AS CEO SETS 'LOFTY' GOALS 🚀\n\n- Baird upgrades Tesla stock rating post $1 trillion CEO pay package 💰\n- Elon Musk unveils ambitious product targets 🎯\n- Tesla's stock rating boosted by Baird's confidence ✅\n- CEO Musk's goals contribute to positive outlook 🚀\n- Baird impressed by Tesla's ambitious vision ⚡️\n- Upgrade follows CEO Musk's strategic moves 🔥\n\nTAKEAWAY: Tesla receives a stock upgrade from Baird as CEO Elon Musk sets ambitious product targets, fueling confidence and excitement in the company's future.",
+      "exported_at": "2025-09-19T09:56:36.622262",
       "continuous_session": true
     }
   ]
