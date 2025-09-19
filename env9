@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-19T06:22:59.433132",
-    "total_articles": 1402,
-    "new_articles_in_last_fetch": 1402,
+    "created_at": "2025-09-19T06:28:08.510962",
+    "total_articles": 1403,
+    "new_articles_in_last_fetch": 1403,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -18220,6 +18220,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: RAY DALIO PREDICTS GOLD & NON-FIAT CURRENCIES TO SHINE BRIGHTER 🌟\n\n- Dalio warns all currencies may lose value 💰\n- Gold & non-fiat currencies seen as stronger money havens 🪙\n- Investors urged to consider alternative stores of value ✨\n\nTAKEAWAY: Ray Dalio's forecast of gold and non-fiat currencies as robust stores of value highlights a shift in investor mindset amidst rising U.S. debt concerns.",
       "exported_at": "2025-09-19T06:22:59.326297",
+      "continuous_session": true
+    },
+    {
+      "title": "Walmart’s Marketplace boom: How lax vetting came with identity theft and fakes",
+      "link": "https://www.cnbc.com/2025/09/19/walmart-marketplace-fakes-scams-investigation.html",
+      "summary": "Walmart’s marketplace is booming, but the strategy poses risks as a CNBC investigation found  lax vetting contributed to fraud and fakes on the site.",
+      "published": "Fri, 19 Sep 2025 10:22:26 GMT",
+      "content": "Walmart’s marketplace is booming, but the strategy poses risks as a CNBC investigation found  lax vetting contributed to fraud and fakes on the site.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7c40121ab269942b179c0e08ed335c1b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WALMART'S MARKETPLACE BOOM RAISES FRAUD RISKS ⚠️\n\n- Walmart's marketplace sees booming growth 📈\n- CNBC investigation reveals lax vetting on the site 🕵️‍♂️\n- Fraud and fake products increase due to vetting issues 🔍\n- Risks emerge with the marketplace strategy 💥\n- Customers face identity theft risks from fraudulent sellers 🛡️\n- Walmart needs to tighten vetting procedures to combat fraud 🔒\n\nTAKEAWAY: Walmart's marketplace success is shadowed by fraud risks due to lax vetting, urging the need for tighter procedures to protect customers.",
+      "exported_at": "2025-09-19T06:28:08.412259",
       "continuous_session": true
     }
   ]
