@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-19T05:27:02.089809",
-    "total_articles": 1401,
-    "new_articles_in_last_fetch": 1401,
+    "created_at": "2025-09-19T06:22:59.433132",
+    "total_articles": 1402,
+    "new_articles_in_last_fetch": 1402,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -18207,6 +18207,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JIM CRAMER UNVEILS BIG TECH'S MARKET DOMINANCE 🚀\n\n- CNBC's Jim Cramer highlights Big Tech's unparalleled market influence\n- Cramer discusses the exceptional power certain tech giants hold\n- Big Tech companies stand out with their unmatched market position\n\nTAKEAWAY: Jim Cramer sheds light on the distinctive market dominance of Big Tech, showcasing their unparalleled power and influence.",
       "exported_at": "2025-09-19T05:27:01.995522",
+      "continuous_session": true
+    },
+    {
+      "title": "Ray Dalio says gold, non-fiat currencies will be stronger stores of value as U.S. debt mounts",
+      "link": "https://www.cnbc.com/2025/09/19/ray-dalio-says-gold-non-fiat-currencies-will-be-stronger-stores-of-value-as-us-debt-mounts.html",
+      "summary": "The veteran investor warned that all currencies risk losing their appeal as store of value, making gold and non-fiat currencies stronger repository of money.",
+      "published": "Fri, 19 Sep 2025 10:13:51 GMT",
+      "content": "The veteran investor warned that all currencies risk losing their appeal as store of value, making gold and non-fiat currencies stronger repository of money.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7e4b71ee2d8939dbb862d45fc2c7c4f0",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: RAY DALIO PREDICTS GOLD & NON-FIAT CURRENCIES TO SHINE BRIGHTER 🌟\n\n- Dalio warns all currencies may lose value 💰\n- Gold & non-fiat currencies seen as stronger money havens 🪙\n- Investors urged to consider alternative stores of value ✨\n\nTAKEAWAY: Ray Dalio's forecast of gold and non-fiat currencies as robust stores of value highlights a shift in investor mindset amidst rising U.S. debt concerns.",
+      "exported_at": "2025-09-19T06:22:59.326297",
       "continuous_session": true
     }
   ]
