@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-19T08:34:52.293754",
-    "total_articles": 1409,
-    "new_articles_in_last_fetch": 1409,
+    "created_at": "2025-09-19T08:40:00.413629",
+    "total_articles": 1410,
+    "new_articles_in_last_fetch": 1410,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -18311,6 +18311,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP, XI AIM TO SAVE TIKTOK IN U.S. 🚀\n\n- Trump, Xi in talks to finalize TikTok deal 🤝\n- Deal crucial to prevent TikTok shutdown in U.S. 🛑\n- Anticipation high for agreement outcome 📈\n\nTAKEAWAY: President Trump and Xi Jinping's discussions to finalize a TikTok deal aim to prevent the app from shutting down in the U.S., fueling anticipation for the agreement's outcome.",
       "exported_at": "2025-09-19T08:34:52.276017",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest premarket moves: FedEx, Intel, Lennar, Apple and more",
+      "link": "https://www.cnbc.com/2025/09/19/stocks-making-the-biggest-premarket-moves-fdx-intc-len-aapl.html",
+      "summary": "See which stocks are posting big moves before the bell.",
+      "published": "Fri, 19 Sep 2025 12:25:57 GMT",
+      "content": "See which stocks are posting big moves before the bell.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fc1cb9f7b6f916ecbdb1ecea926e8a4b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS MAKING BIGGEST PREMARKET MOVES: FEDEX, INTEL, LENNAR, APPLE 🚀\n\n- FedEx, Intel, Lennar, Apple among top movers 📈\n- Pre-market activity indicates significant shifts ⚡️\n- Investors eyeing early indicators for market trends 🔍\n- Volatility expected as key players show movement 🌪️\n\nTAKEAWAY: Early premarket moves from FedEx, Intel, Lennar, and Apple highlight potential market shifts, sparking investor interest and signaling potential volatility ahead.",
+      "exported_at": "2025-09-19T08:40:00.396215",
       "continuous_session": true
     }
   ]
