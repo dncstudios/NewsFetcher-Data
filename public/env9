@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-19T18:16:02.003769",
-    "total_articles": 1480,
-    "new_articles_in_last_fetch": 1480,
+    "created_at": "2025-09-19T19:01:42.522256",
+    "total_articles": 1482,
+    "new_articles_in_last_fetch": 1482,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -19231,6 +19231,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP TO IMPOSE $100K FEE ON H-1B VISAS ⚠️\n\n- New $100,000 application fee for H-1B worker visas 🌐\n- Decision made by U.S. President Donald Trump 🇺🇸\n- Aimed at increasing costs for hiring foreign workers 💸\n- Fee intended to prioritize American workers ⚖️\n- White House official confirms upcoming policy change ✅\n\nTAKEAWAY: Trump's plan to implement a hefty $100,000 fee on H-1B visas aims to boost costs for hiring foreign workers and prioritize American employees.",
       "exported_at": "2025-09-19T18:16:01.898046",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump to impose $100,000 fee per year for H-1B visas, in likely blow to tech",
+      "link": "https://www.cnbc.com/2025/09/19/trump-overhaul-h-1b-visa.html",
+      "summary": "U.S. President Donald Trump plans to introduce a new $100,000 application fee for H-1B worker visas, according to a White House official.",
+      "published": "Fri, 19 Sep 2025 22:56:44 GMT",
+      "content": "U.S. President Donald Trump plans to introduce a new $100,000 application fee for H-1B worker visas, according to a White House official.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5488e0ca45dd5f500fb3f3b2454770f9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP TO IMPOSE $100K FEE ON H-1B VISAS ⚠️\n\n- New $100,000 application fee for H-1B worker visas 🌐\n- Decision made by U.S. President Donald Trump 🇺🇸\n- Aimed at increasing costs for hiring foreign workers 💸\n- Fee intended to prioritize American workers ⚖️\n- White House official confirms upcoming policy change ✅\n\nTAKEAWAY: Trump's plan to implement a hefty $100,000 fee on H-1B visas aims to boost costs for hiring foreign workers and prioritize American employees.",
+      "exported_at": "2025-09-19T19:01:42.421973",
+      "continuous_session": true
+    },
+    {
+      "title": "Cramer&apos;s week ahead: New inflation data and earnings from Micron and Costco",
+      "link": "https://www.cnbc.com/2025/09/19/cramers-week-ahead-new-inflation-data-earnings-micron-and-costco.html",
+      "summary": "CNBC's Jim Cramer on Friday walked investors through next week on Wall Street.",
+      "published": "Fri, 19 Sep 2025 22:35:59 GMT",
+      "content": "CNBC's Jim Cramer on Friday walked investors through next week on Wall Street.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "67bbcae951fe4921b843119f69aec21f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CRAMER'S INSIGHTS: NEW INFLATION DATA & MICRON, COSTCO EARNINGS 🚀\n\n- Anticipation for fresh inflation figures 📊\n- Market focus on Micron and Costco earnings reports 💰\n- Investors eager for Jim Cramer's Wall Street guidance 🎯\n\nTAKEAWAY: Brace for a week filled with market-moving events as new inflation data, and Micron and Costco earnings reports take center stage with Jim Cramer's expert insights.",
+      "exported_at": "2025-09-19T19:01:42.422036",
       "continuous_session": true
     }
   ]
