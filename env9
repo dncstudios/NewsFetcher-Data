@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-19T07:49:10.635041",
-    "total_articles": 1406,
-    "new_articles_in_last_fetch": 1406,
+    "created_at": "2025-09-19T08:09:31.046168",
+    "total_articles": 1408,
+    "new_articles_in_last_fetch": 1408,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -18272,6 +18272,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: 3 SMART STRATEGIES TO PAY DOWN DEBT AFTER FED'S RATE CUT 🚀\n\n- Lower interest rates may benefit borrowers 💰\n- Strategy 1: Focus on high-interest debt first 🔍\n- Strategy 2: Consider debt consolidation options 🔄\n- Strategy 3: Increase payments to reduce debt faster 💪\n\nTAKEAWAY: The Fed's rate cut opens opportunities for borrowers to tackle debt strategically, focusing on high-interest debt, considering consolidation, and accelerating payments for faster debt reduction.",
       "exported_at": "2025-09-19T07:49:10.617897",
+      "continuous_session": true
+    },
+    {
+      "title": "New Grayscale ETF holds multiple cryptocurrencies together, combining bitcoin, Solana and others",
+      "link": "https://www.cnbc.com/2025/09/19/new-grayscale-etf-holds-multiple-cryptocurrencies-together-combining-bitcoin-solana-and-others.html",
+      "summary": "The Grayscale CoinDesk Crypto 5 ETF bundles together the five largest and most liquid digital assets — bitcoin, ether, XRP, Solana, and Cardano.",
+      "published": "Fri, 19 Sep 2025 12:06:58 GMT",
+      "content": "The Grayscale CoinDesk Crypto 5 ETF bundles together the five largest and most liquid digital assets — bitcoin, ether, XRP, Solana, and Cardano.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "da60bf42445872b9c4d4cd6238db6d02",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GRAYSCALE'S NEW ETF COMBINES BITCOIN, SOLANA, AND MORE! 🚀\n\n- Grayscale CoinDesk Crypto 5 ETF merges top 5 digital assets\n- Includes bitcoin, ether, XRP, Solana, and Cardano 💰\n- Offers exposure to diverse and liquid crypto assets 🌐\n- Investors benefit from a single investment in multiple cryptos 💼\n- ETF simplifies crypto investment with diversified portfolio 🔄\n- Provides a convenient option to access various digital assets ✅\n\nTAKEAWAY: Grayscale's innovative ETF offers investors a simplified and diversified way to access the top cryptocurrencies, including bitcoin, Solana, and more. 🚀",
+      "exported_at": "2025-09-19T08:09:31.029147",
+      "continuous_session": true
+    },
+    {
+      "title": "Southern California Edison, others reach settlement to recover $2 billion tied to wildfires",
+      "link": "https://www.cnbc.com/2025/09/19/southern-california-edison-others-reach-settlement-to-recover-2-billion-tied-to-wildfires.html",
+      "summary": "Southern California Edison reached a settlement with several intervenors to allow the utility to recover about $2 billion of losses tied to wildfires.",
+      "published": "Fri, 19 Sep 2025 11:59:40 GMT",
+      "content": "Southern California Edison reached a settlement with several intervenors to allow the utility to recover about $2 billion of losses tied to wildfires.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a1f10e3938cbaadb305e76858f22e4ed",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SOUTHERN CALIFORNIA EDISON SECURES $2 BILLION SETTLEMENT FOR WILDFIRE LOSSES 🚀\n\n- Settlement reached with intervenors for $2 billion recovery 🔥\n- Funds linked to losses from devastating wildfires in California 🌲\n- Positive impact on Southern California Edison's financial health ✅\n- Agreement demonstrates progress in resolving wildfire-related issues 📊\n- Boost in investor confidence expected after successful settlement 📈\n\nTAKEAWAY: Southern California Edison's $2 billion settlement for wildfire losses signifies a positive step forward, boosting financial health and investor confidence.",
+      "exported_at": "2025-09-19T08:09:31.029169",
       "continuous_session": true
     }
   ]
