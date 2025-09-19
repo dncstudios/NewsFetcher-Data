@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-19T09:36:08.839143",
-    "total_articles": 1419,
-    "new_articles_in_last_fetch": 1419,
+    "created_at": "2025-09-19T09:41:20.414575",
+    "total_articles": 1423,
+    "new_articles_in_last_fetch": 1423,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -18439,6 +18439,57 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCK FUTURES STABLE AFTER MARKET HITS ALL-TIME HIGHS 📈\n\n- Major averages surged to record highs on Thursday 🚀\n- Stock futures show minimal movement post-rally ✅\n- Market maintains stability after recent highs ⚖️\n\nTAKEAWAY: Despite hitting all-time highs, stock futures remain steady, indicating market stability post-rally.",
       "exported_at": "2025-09-19T09:36:08.821475",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks rise, Russell 2000 hits fresh record as Wall Street heads for strong weekly gains: Live updates",
+      "link": "https://www.cnbc.com/2025/09/18/stock-market-today-live-updates.html",
+      "summary": "Stocks rose Friday following a winning session that sent indexes to new records as the Federal Reserve's decision to cut interest rates set in investors' minds.",
+      "published": "Fri, 19 Sep 2025 13:39:02 GMT",
+      "content": "Stocks rose Friday following a winning session that sent indexes to new records as the Federal Reserve's decision to cut interest rates set in investors' minds.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "70904238decc1a79d1a4de1f4cbe106e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS SURGE, RUSSELL 2000 HITS RECORD HIGH 🚀\n\n- Wall Street sees strong weekly gains 📈\n- Indexes hit new records after interest rate cut 📊\n- Investors optimistic about market performance 🔥\n- Federal Reserve's decision boosts confidence ✅\n- Russell 2000 hits fresh all-time high 🚀\n\nTAKEAWAY: Wall Street celebrates as stocks surge to new heights, driven by optimism and Federal Reserve's interest rate cut, setting the stage for a promising week.",
+      "exported_at": "2025-09-19T09:41:20.397315",
+      "continuous_session": true
+    },
+    {
+      "title": "Small caps were a popular trade into the Fed rate cut — and it&apos;s working",
+      "link": "https://www.cnbc.com/2025/09/19/small-caps-were-a-popular-trade-into-the-fed-rate-cut-and-its-working.html",
+      "summary": "Things have been looking good for small-cap stocks of late.",
+      "published": "Fri, 19 Sep 2025 13:34:13 GMT",
+      "content": "Things have been looking good for small-cap stocks of late.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "50f2aa88d7a0da8be83565082959228e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SMALL CAPS SHINE AMID FED RATE CUT 🚀\n\n- Small caps trending positively post-Fed rate cut ✅\n- Investors favor small-cap stocks recently 📈\n- Small caps showing promising performance 🌟\n\nTAKEAWAY: Small-cap stocks are thriving post-Fed rate cut, becoming a popular choice for investors seeking promising performance.",
+      "exported_at": "2025-09-19T09:41:20.397329",
+      "continuous_session": true
+    },
+    {
+      "title": "Here are Friday&apos;s biggest analyst calls: Nvidia, Apple, Tesla, Intel, Micron, UPS, Stellantis, Toast, CoreWeave and more",
+      "link": "https://www.cnbc.com/2025/09/19/friday-stocks-by-analyst-calls-like-nvidia.html",
+      "summary": "Here are Friday's biggest calls on Wall Street.",
+      "published": "Fri, 19 Sep 2025 13:36:52 GMT",
+      "content": "Here are Friday's biggest calls on Wall Street.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2f3c3be8745d018c9495b278c7b742db",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "exported_at": "2025-09-19T09:41:20.397333",
+      "continuous_session": true
+    },
+    {
+      "title": "Tesla gets upgrade from Baird as EV maker sets &apos;lofty&apos; product targets",
+      "link": "https://www.cnbc.com/2025/09/19/tesla-gets-upgrade-from-baird-as-ev-maker-sets-lofty-product-targets.html",
+      "summary": "Tesla notched an upgraded stock rating from Baird following its unveiling of a nearly $1 trillion pay package for CEO Elon Musk that included an ambitious road map for its businesses.",
+      "published": "Fri, 19 Sep 2025 13:24:01 GMT",
+      "content": "Tesla notched an upgraded stock rating from Baird following its unveiling of a nearly $1 trillion pay package for CEO Elon Musk that included an ambitious road map for its businesses.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2d6928593e70ffb4daf92c0667684b15",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TESLA UPGRADED BY BAIRD AFTER UNVEILING AMBITIOUS PRODUCT TARGETS 🚀\n\n- Baird upgrades Tesla stock rating post $1 trillion CEO pay package 💰\n- Elon Musk's ambitious roadmap impresses investors 🌟\n- Tesla sets \"lofty\" product targets for future growth 📈\n\nTAKEAWAY: Tesla's upgraded rating from Baird reflects investor confidence in Elon Musk's visionary roadmap and the company's ambitious product targets for future growth.",
+      "exported_at": "2025-09-19T09:41:20.397336",
       "continuous_session": true
     }
   ]
