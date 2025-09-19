@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-19T12:44:30.169674",
-    "total_articles": 1441,
-    "new_articles_in_last_fetch": 1441,
+    "created_at": "2025-09-19T12:54:42.331998",
+    "total_articles": 1443,
+    "new_articles_in_last_fetch": 1443,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -18724,6 +18724,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JIM CRAMER'S TOP STOCK PICK WITH A WARNING SIGNAL ⚠️\n\n- Jim Cramer reveals new favorite stock during \"Morning Meeting\" 🌟\n- Market risk highlighted by Cramer in his latest analysis ⚠️\n- Stay tuned for Cramer's insights on market trends and opportunities 🔍\n\nTAKEAWAY: Jim Cramer unveils his top stock pick while cautioning investors about potential risks in the market, offering valuable insights for navigating the current landscape.",
       "exported_at": "2025-09-19T12:44:30.062505",
+      "continuous_session": true
+    },
+    {
+      "title": "Top Amazon reseller Pattern opens at $13.50 in Nasdaq debut after IPO raised $300 million",
+      "link": "https://www.cnbc.com/2025/09/19/amazon-reseller-pattern-debuts-on-nasdaq-after-ipo-raised-300-million.html",
+      "summary": "The Utah-based company ranks No. 2 among the top U.S. sellers on Amazon's third-party marketplace.",
+      "published": "Fri, 19 Sep 2025 16:49:39 GMT",
+      "content": "The Utah-based company ranks No. 2 among the top U.S. sellers on Amazon's third-party marketplace.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5a323427231b84400ca7f94b3009efb7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PATTERN IPO OPENS STRONG ON NASDAQ DEBUT 🚀\n\n- Pattern debuts on Nasdaq at $13.50 post $300M IPO 🎉\n- Utah-based firm is Amazon's 2nd top U.S. third-party seller 🥈\n- Strong market entry showcases investor confidence 💪\n\nTAKEAWAY: Pattern's successful Nasdaq debut after a $300 million IPO reflects strong market interest and confidence in the Amazon reseller.",
+      "exported_at": "2025-09-19T12:54:42.257279",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves midday: Brighthouse Financial, Lennar, Apple, FedEx &amp; more",
+      "link": "https://www.cnbc.com/2025/09/19/stocks-making-the-biggest-moves-midday-bhf-len-aapl-fdx.html",
+      "summary": "These are the stocks posting the largest moves midday.",
+      "published": "Fri, 19 Sep 2025 16:48:30 GMT",
+      "content": "These are the stocks posting the largest moves midday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4d3e6590dcf82e78def53428e02afa3a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS MAKING BIGGEST MIDDAY MOVES 🚀\n\n- Intel and Novo Nordisk among top performers 📈\n- Bullish market sentiment driving stock prices up ⚡️\n- Allstate showing significant midday gains 💰\n- Investors closely monitoring market movements 📊\n\nTAKEAWAY: Intel, Novo Nordisk, and Allstate are leading midday stock performers, driven by bullish market sentiment and closely watched by investors.",
+      "exported_at": "2025-09-19T12:54:42.257361",
       "continuous_session": true
     }
   ]
