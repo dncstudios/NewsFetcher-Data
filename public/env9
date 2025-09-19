@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-19T15:58:39.454153",
-    "total_articles": 1468,
-    "new_articles_in_last_fetch": 1468,
+    "created_at": "2025-09-19T16:03:46.007464",
+    "total_articles": 1470,
+    "new_articles_in_last_fetch": 1470,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -19075,6 +19075,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP TO IMPOSE $100K FEE ON H-1B VISAS ⚠️\n\n- New $100,000 application fee for H-1B worker visas 🌐\n- Decision made by U.S. President Donald Trump 🇺🇸\n- Aimed at increasing costs for hiring foreign workers 💸\n- Fee intended to prioritize American workers ⚖️\n- White House official confirms upcoming policy change ✅\n\nTAKEAWAY: Trump's plan to implement a hefty $100,000 fee on H-1B visas aims to boost costs for hiring foreign workers and prioritize American employees.",
       "exported_at": "2025-09-19T15:58:39.343793",
+      "continuous_session": true
+    },
+    {
+      "title": "Dow, S&amp;P 500 close at fresh records, log big gains for the week after Fed rate cut: Live updates",
+      "link": "https://www.cnbc.com/2025/09/18/stock-market-today-live-updates.html",
+      "summary": "Stocks rose Friday following a winning session that sent indexes to new records as the Federal Reserve's decision to cut interest rates set in investors' minds.",
+      "published": "Fri, 19 Sep 2025 20:01:10 GMT",
+      "content": "Stocks rose Friday following a winning session that sent indexes to new records as the Federal Reserve's decision to cut interest rates set in investors' minds.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4f34486b1f8d0d35a9613dece9f10728",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS SURGE, RUSSELL 2000 HITS RECORD HIGH 🚀\n\n- Wall Street sees strong weekly gains 📈\n- Indexes hit new records after interest rate cut 📊\n- Investors optimistic about market performance 🔥\n- Federal Reserve's decision boosts confidence ✅\n- Russell 2000 hits fresh all-time high 🚀\n\nTAKEAWAY: Wall Street celebrates as stocks surge to new heights, driven by optimism and Federal Reserve's interest rate cut, setting the stage for a promising week.",
+      "exported_at": "2025-09-19T16:03:45.902926",
+      "continuous_session": true
+    },
+    {
+      "title": "StubHub&apos;s stock plunges 10% in third day on NYSE as post-IPO slump deepens",
+      "link": "https://www.cnbc.com/2025/09/19/stubhub-shares-stumble-for-third-day-as-post-ipo-slump-deepens.html",
+      "summary": "StubHub shares fell for a third straight day after the company's IPO, a contrast to other recent debuts like Klarna, Figma and Circle.",
+      "published": "Fri, 19 Sep 2025 20:02:58 GMT",
+      "content": "StubHub shares fell for a third straight day after the company's IPO, a contrast to other recent debuts like Klarna, Figma and Circle.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7f616108e35262d2ad2da91804444a50",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STUBHUB SHARES SLUMP FOR THIRD DAY POST-IPO 📉\n\n- StubHub shares drop for the third consecutive day 📉\n- Contrast to recent successful IPOs like Klarna, Figma, and Circle 💥\n- Investors observe a deepening post-IPO slump 📉\n\nTAKEAWAY: StubHub's shares face a challenging start post-IPO, in contrast to recent successful debuts of other companies.",
+      "exported_at": "2025-09-19T16:03:45.902997",
       "continuous_session": true
     }
   ]
