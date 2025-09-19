@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-19T06:28:08.510962",
-    "total_articles": 1403,
-    "new_articles_in_last_fetch": 1403,
+    "created_at": "2025-09-19T07:44:01.292541",
+    "total_articles": 1404,
+    "new_articles_in_last_fetch": 1404,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -18233,6 +18233,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WALMART'S MARKETPLACE BOOM RAISES FRAUD RISKS ⚠️\n\n- Walmart's marketplace sees booming growth 📈\n- CNBC investigation reveals lax vetting on the site 🕵️‍♂️\n- Fraud and fake products increase due to vetting issues 🔍\n- Risks emerge with the marketplace strategy 💥\n- Customers face identity theft risks from fraudulent sellers 🛡️\n- Walmart needs to tighten vetting procedures to combat fraud 🔒\n\nTAKEAWAY: Walmart's marketplace success is shadowed by fraud risks due to lax vetting, urging the need for tighter procedures to protect customers.",
       "exported_at": "2025-09-19T06:28:08.412259",
+      "continuous_session": true
+    },
+    {
+      "title": "Now that the Fed cut rates, should you refinance? Experts weigh in",
+      "link": "https://www.cnbc.com/2025/09/19/fed-rate-cut-when-to-refinance-a-mortgage-car-loan-student-loan.html",
+      "summary": "The Fed's long-awaited rate cut could bring some borrowing costs down, which may be good news for consumers hoping to refinance.",
+      "published": "Fri, 19 Sep 2025 11:35:01 GMT",
+      "content": "The Fed's long-awaited rate cut could bring some borrowing costs down, which may be good news for consumers hoping to refinance.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f7bb4bf80547df41159471a91851c187",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SHOULD YOU REFINANCE AFTER THE FED RATE CUT? 🏡\n\n- Fed's rate cut may lower borrowing costs for refinancing 💰\n- Experts suggest considering refinancing options now 📉\n- Consumers could benefit from reduced interest rates 📉\n\nTAKEAWAY: With the recent Fed rate cut, consumers should explore refinancing options to potentially lower borrowing costs. 🏠",
+      "exported_at": "2025-09-19T07:44:01.274396",
       "continuous_session": true
     }
   ]
