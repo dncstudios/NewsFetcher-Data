@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-19T13:25:26.077181",
-    "total_articles": 1448,
-    "new_articles_in_last_fetch": 1448,
+    "created_at": "2025-09-19T13:30:37.276012",
+    "total_articles": 1451,
+    "new_articles_in_last_fetch": 1451,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -18815,6 +18815,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TOP ANALYST FORECASTS RUSSELL 2000 GROWTH, SAYS 'DON'T FIGHT THE FED' 🚀\n\n- DeSanctis raises forecast for Russell 2000 after recent highs 📈\n- Small-cap stocks expected to continue upward trend 📈\n- Analyst DeSanctis sees potential for further gains ahead 💪\n- Advice: 'Don't fight the Fed' when it comes to small caps 🏛️\n- Market optimism surrounds small-cap stocks 🌟\n- Jefferies' DeSanctis predicts bright future for small-cap market 🌞\n\nTAKEAWAY: Jefferies' top analyst DeSanctis predicts further growth for the Russell 2000 and advises investors to align with the Fed for potential gains in small-cap stocks.",
       "exported_at": "2025-09-19T13:25:25.978418",
+      "continuous_session": true
+    },
+    {
+      "title": "Judge tosses Trump&apos;s $15 billion suit against NY Times as &apos;improper,&apos; allows refiling",
+      "link": "https://www.cnbc.com/2025/09/19/trump-new-york-times-lawsuit-merryday.html",
+      "summary": "Judge Steven Merryday noted that President Trump's defamation lawsuit against The New York Times \"consumes\" 85 pages.",
+      "published": "Fri, 19 Sep 2025 17:28:51 GMT",
+      "content": "Judge Steven Merryday noted that President Trump's defamation lawsuit against The New York Times \"consumes\" 85 pages.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f89ce9d890aeae85f78bd508e4873057",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JUDGE DISMISSES TRUMP'S $15B SUIT VS NY TIMES 🚫\n\n- Judge Merryday deems Trump's lawsuit against NYT \"improper\" ❌\n- Lawsuit devours 85 pages, but gets thrown out 🗑️\n- Trump can refile the suit after the dismissal ✅\n\nTAKEAWAY: Trump's $15 billion lawsuit against The New York Times gets dismissed by Judge Merryday as \"improper,\" allowing for a potential refiling in the future.",
+      "exported_at": "2025-09-19T13:30:37.182873",
+      "continuous_session": true
+    },
+    {
+      "title": "Fed Governor Miran says he did not tell Trump how he would vote on rates this week",
+      "link": "https://www.cnbc.com/2025/09/19/fed-gov-miran-says-he-did-not-tell-trump-how-he-would-vote-on-rates-this-week.html",
+      "summary": "Federal Reserve Governor Stephen Miran spoke to CNBC on Friday.",
+      "published": "Fri, 19 Sep 2025 17:29:41 GMT",
+      "content": "Federal Reserve Governor Stephen Miran spoke to CNBC on Friday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "41f382802bb6181d31fafe16add0265a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FED GOVERNOR MIRAN STAYS MUM ON RATE VOTE TO TRUMP 🚫\n\n- Miran keeps vote on rates this week under wraps 🤐\n- No disclosure made to Trump about decision 💬\n- Federal Reserve Governor talks to CNBC on Friday 📺\n\nTAKEAWAY: Fed Governor Miran maintains secrecy on rate vote to Trump, sparking intrigue and speculation in the financial world.",
+      "exported_at": "2025-09-19T13:30:37.182943",
+      "continuous_session": true
+    },
+    {
+      "title": "Senate rejects both parties&apos; bills to avoid a shutdown, leaving next steps uncertain",
+      "link": "https://www.cnbc.com/2025/09/19/house-passes-gop-bill-to-avert-a-shutdown-but-senate-looks-likely-to-reject-it.html",
+      "summary": "Democrats in the Senate rejected a House GOP proposal to keep funds flowing through Nov. 21, while Republicans scuttled a competing Democratic bill with health care provisions.",
+      "published": "Fri, 19 Sep 2025 17:29:44 GMT",
+      "content": "Democrats in the Senate rejected a House GOP proposal to keep funds flowing through Nov. 21, while Republicans scuttled a competing Democratic bill with health care provisions.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ea741e27b6c3192fdcccd93de6cbecf1",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SENATE REJECTS BILLS TO AVOID SHUTDOWN, LEAVING UNCERTAINTY ⚠️\n\n- Senate Democrats block GOP bill for funds through Nov. 21 🛑\n- Republicans reject Democratic bill with health care provisions 🚫\n- Next steps for budget resolution remain unclear 🤷‍♂️\n\nTAKEAWAY: Senate's rejection of bills to avoid a shutdown creates uncertainty on the path forward for budget resolution.",
+      "exported_at": "2025-09-19T13:30:37.182958",
       "continuous_session": true
     }
   ]
