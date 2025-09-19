@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-19T09:05:38.306634",
-    "total_articles": 1416,
-    "new_articles_in_last_fetch": 1416,
+    "created_at": "2025-09-19T09:10:43.708690",
+    "total_articles": 1417,
+    "new_articles_in_last_fetch": 1417,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -18400,6 +18400,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TREASURY, IRS UNVEIL TRUMP'S 'NO TAX ON TIPS' DEDUCTION DETAILS 🚀\n\n- Treasury releases proposed regulations on the tip deduction 💡\n- Workers get more clarity on Trump's tax initiative ✅\n- Key details aim to benefit employees 💰\n- IRS collaborates with Treasury for comprehensive guidelines 🤝\n- Initiative designed to reduce tax burdens on tip income 📉\n- Workers urged to stay informed on the deduction changes 🧠\n\nTAKEAWAY: The Treasury and IRS collaboration unveils crucial details on Trump's 'no tax on tips' deduction, benefiting workers with reduced tax burdens and increased clarity.",
       "exported_at": "2025-09-19T09:05:38.288661",
+      "continuous_session": true
+    },
+    {
+      "title": "Fed&apos;s Kashkari advocates two more rate cuts this year as he sees limited tariff impact on inflation",
+      "link": "https://www.cnbc.com/2025/09/19/kashkari-advocates-two-more-rate-cuts-this-year-as-he-sees-limited-tariff-impact-on-inflation.html",
+      "summary": "Minneapolis Federal Reserve President Neel Kashkari spoke Friday on CNBC's \"Squawk Box.\"",
+      "published": "Fri, 19 Sep 2025 13:05:48 GMT",
+      "content": "Minneapolis Federal Reserve President Neel Kashkari spoke Friday on CNBC's \"Squawk Box.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5491ea6568702a9001c2dd6010dae938",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: KASHKARI PUSHES FOR 2 RATE CUTS DESPITE LIMITED TARIFF IMPACT 🚀\n\n- Neel Kashkari urges two more rate cuts in 2019 📉\n- Sees minimal tariff effect on inflation 📉\n- Advocates for proactive monetary policy 🎯\n- Addressing concerns on economic growth ⚠️\n- Speaks on CNBC's \"Squawk Box\" 💬\n\nTAKEAWAY: Neel Kashkari's call for two rate cuts this year, citing limited tariff impact on inflation, emphasizes the need for proactive monetary policies to support economic growth.",
+      "exported_at": "2025-09-19T09:10:43.691690",
       "continuous_session": true
     }
   ]
