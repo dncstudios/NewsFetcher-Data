@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-19T11:17:52.321484",
-    "total_articles": 1430,
-    "new_articles_in_last_fetch": 1430,
+    "created_at": "2025-09-19T11:23:02.849265",
+    "total_articles": 1433,
+    "new_articles_in_last_fetch": 1433,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -18581,6 +18581,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: HOUSE PASSES GOP BILL TO AVERT SHUTDOWN, SENATE LIKELY TO REJECT ⚠️\n\n- Republican bill aims to prevent government shutdown at month-end\n- Bill buys 7 more weeks for parties to negotiate and find solutions\n- Senate expected to reject the bill despite House approval\n- Potential uncertainty looms over government funding situation\n\nTAKEAWAY: The House's passage of the GOP bill to avert a shutdown buys time for negotiations, but Senate rejection may lead to uncertainty in government funding.",
       "exported_at": "2025-09-19T11:17:52.303212",
+      "continuous_session": true
+    },
+    {
+      "title": "Walmart&apos;s lax vetting helped fuel a Marketplace boom, but came with fakes and frauds",
+      "link": "https://www.cnbc.com/2025/09/19/walmart-marketplace-fakes-scams-investigation.html",
+      "summary": "Walmart’s marketplace is booming, but the strategy poses risks as a CNBC investigation found  lax vetting contributed to fraud and fakes on the site.",
+      "published": "Fri, 19 Sep 2025 15:17:42 GMT",
+      "content": "Walmart’s marketplace is booming, but the strategy poses risks as a CNBC investigation found  lax vetting contributed to fraud and fakes on the site.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "73f43349d33d25faf4dae75faf508a0a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WALMART'S MARKETPLACE BOOM RAISES FRAUD RISKS ⚠️\n\n- Walmart's marketplace sees booming growth 📈\n- CNBC investigation reveals lax vetting on the site 🕵️‍♂️\n- Fraud and fake products increase due to vetting issues 🔍\n- Risks emerge with the marketplace strategy 💥\n- Customers face identity theft risks from fraudulent sellers 🛡️\n- Walmart needs to tighten vetting procedures to combat fraud 🔒\n\nTAKEAWAY: Walmart's marketplace success is shadowed by fraud risks due to lax vetting, urging the need for tighter procedures to protect customers.",
+      "exported_at": "2025-09-19T11:23:02.832152",
+      "continuous_session": true
+    },
+    {
+      "title": "Fed Governor Miran says he did not tell Trump how he would vote on rates this week",
+      "link": "https://www.cnbc.com/2025/09/19/fed-gov-miran-says-he-did-not-tell-trump-how-he-would-vote-on-rates-this-week.html",
+      "summary": "Federal Reserve Governor Stephen Miran spoke Friday to CNBC.",
+      "published": "Fri, 19 Sep 2025 15:20:54 GMT",
+      "content": "Federal Reserve Governor Stephen Miran spoke Friday to CNBC.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "46177719a01b25dbe144f89f37e4d75c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FED GOVERNOR MIRAN ON RATES VOTE: DIDN'T DISCLOSE TO TRUMP ⚠️\n\n- Miran clarifies not discussing rate vote with Trump 🤝\n- Communication with CNBC reveals stance on rates ❗\n- Fed Governor's transparency on decision-making process 💡\n\nTAKEAWAY: Fed Governor Miran's transparency on rates vote decision-making process emphasizes independence and clarity in communication.",
+      "exported_at": "2025-09-19T11:23:02.832169",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump, Xi hold call on TikTok deal",
+      "link": "https://www.cnbc.com/2025/09/19/trump-xi-tiktok-call.html",
+      "summary": "President Donald Trump and Chinese leader Xi Jinping held a much-anticipated call aimed at finalizing a deal to keep TikTok from going dark in the U.S.",
+      "published": "Fri, 19 Sep 2025 15:19:41 GMT",
+      "content": "President Donald Trump and Chinese leader Xi Jinping held a much-anticipated call aimed at finalizing a deal to keep TikTok from going dark in the U.S.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f04486466e287f7b168b3356eccf4c90",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP, XI DISCUSS TIKTOK DEAL 🚀\n\n- Trump and Xi aim to finalize TikTok deal to prevent shutdown 📱\n- Call crucial to keeping TikTok operational in the U.S. 🇺🇸\n- Deal negotiation between U.S. and China at a critical stage 🔍\n\nTAKEAWAY: Trump and Xi's call signifies a crucial step towards securing a deal to keep TikTok operational in the U.S., avoiding potential shutdown.",
+      "exported_at": "2025-09-19T11:23:02.832174",
       "continuous_session": true
     }
   ]
