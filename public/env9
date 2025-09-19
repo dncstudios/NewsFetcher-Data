@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T21:14:57.138359",
-    "total_articles": 1390,
-    "new_articles_in_last_fetch": 1390,
+    "created_at": "2025-09-19T00:02:13.086133",
+    "total_articles": 1392,
+    "new_articles_in_last_fetch": 1392,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -18064,6 +18064,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FED CUT SPARKS ASIA'S EASING WAVE 🚀\n\n- Fed's easing likely to trigger more easing in select Asian nations 🌏\n- Countries with internal challenges may follow suit 📉\n- Asian economies brace for potential rate adjustments 📈\n\nTAKEAWAY: The Fed's recent easing sets the stage for a potential wave of rate cuts in Asia, especially in countries facing internal economic pressures.",
       "exported_at": "2025-09-18T21:14:57.042750",
+      "continuous_session": true
+    },
+    {
+      "title": "&apos;Tonight, we are all Jimmy Kimmel,&apos; Stephen Colbert says, calling Trump an &apos;autocrat&apos;",
+      "link": "https://www.cnbc.com/2025/09/18/jimmy-kimmel-kirk-colbert-letterman-trump.html",
+      "summary": "ABC pulled the \"Jimmy Kimmel Live!\" show off the air indefinitely over comments its host made about the alleged killer of Charlie Kirk.",
+      "published": "Fri, 19 Sep 2025 04:01:33 GMT",
+      "content": "ABC pulled the \"Jimmy Kimmel Live!\" show off the air indefinitely over comments its host made about the alleged killer of Charlie Kirk.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f6faba0cb0943863fdcfaf1092f9f8da",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DAVID LETTERMAN SLAMS JIMMY KIMMEL SUSPENSION AS 'RIDICULOUS' 🚨\n\n- ABC suspends \"Jimmy Kimmel Live!\" show indefinitely 🚫\n- Suspension due to host's comments on Charlie Kirk's alleged killer 💬\n- David Letterman criticizes suspension as 'ridiculous' 👀\n- Jimmy Kimmel faces consequences for controversial remarks 💥\n\nTAKEAWAY: David Letterman criticizes ABC's decision to suspend \"Jimmy Kimmel Live!\" indefinitely, sparking debate over freedom of speech and consequences for controversial remarks.",
+      "exported_at": "2025-09-19T00:02:12.994611",
+      "continuous_session": true
+    },
+    {
+      "title": "BOJ holds rates as Japan core inflation dips to lowest since November 2024",
+      "link": "https://www.cnbc.com/2025/09/19/japan-core-inflation-rate-dips-to-lowest-since-november-2024-as-expected.html",
+      "summary": "The \"core-core\" inflation rate, which strips out prices of both fresh food and energy and is closely monitored by the BOJ, was at 3.3%, down from 3.4% in July.",
+      "published": "Fri, 19 Sep 2025 04:00:59 GMT",
+      "content": "The \"core-core\" inflation rate, which strips out prices of both fresh food and energy and is closely monitored by the BOJ, was at 3.3%, down from 3.4% in July.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "48a5cabfbf25f26bee9ba57e8c7c2b53",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JAPAN'S CORE INFLATION HITS LOWEST LEVEL SINCE NOVEMBER 2024 📉\n\n- Japan's core inflation rate drops to 3.3% in August\n- \"Core-core\" inflation excludes fresh food and energy prices\n- BOJ closely monitors this indicator\n- August's rate down from 3.4% in July\n\nTAKEAWAY: Japan's core inflation rate hits a low not seen since November 2024, signaling potential challenges for the economy ahead.",
+      "exported_at": "2025-09-19T00:02:12.994671",
       "continuous_session": true
     }
   ]
