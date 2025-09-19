@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-19T15:07:32.622777",
-    "total_articles": 1462,
-    "new_articles_in_last_fetch": 1462,
+    "created_at": "2025-09-19T15:22:51.248980",
+    "total_articles": 1464,
+    "new_articles_in_last_fetch": 1464,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -18997,6 +18997,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: INVESTORS RUSH BACK TO BIG TECH AMID PRODUCTIVE TRUMP-XI TALKS 🚀\n\n- Big Tech sees surge in investor interest 📈\n- Productive discussions between Trump and Xi boost market sentiment 🤝\n- Investing Club's Homestretch delivers timely afternoon updates ⏰\n\nTAKEAWAY: Investor interest in Big Tech rebounds as positive Trump-Xi talks and Investing Club's Homestretch updates drive market optimism.",
       "exported_at": "2025-09-19T15:07:32.513609",
+      "continuous_session": true
+    },
+    {
+      "title": "RFK Jr.&apos;s vaccine panel weakens Covid shot recommendations, calling it an individual decision",
+      "link": "https://www.cnbc.com/2025/09/19/rfk-jr-vaccine-panel-covid-shot-recommendations.html",
+      "summary": "The group also voted to emphasize that the Covid vaccine is beneficial for those at high risk of severe illness from the disease.",
+      "published": "Fri, 19 Sep 2025 19:16:37 GMT",
+      "content": "The group also voted to emphasize that the Covid vaccine is beneficial for those at high risk of severe illness from the disease.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d81c7af85856c42e8707f24f8b7f6c4f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: RFK JR.'S VACCINE PANEL WEAKENS COVID SHOT RECOMMENDATIONS 🚨\n\n- Panel shifts focus to individual choice for Covid shots 💉\n- Emphasizes vaccine benefits for high-risk groups 🎯\n- Decision may impact public perception of Covid vaccines 🤔\n\nTAKEAWAY: RFK Jr.'s vaccine panel's move to make Covid shots an individual decision and highlight benefits for high-risk groups could influence public attitudes towards vaccination.",
+      "exported_at": "2025-09-19T15:22:51.136844",
+      "continuous_session": true
+    },
+    {
+      "title": "Coinbase CEO Brian Armstrong says NBA star Kevin Durant recovered his account: CNBC Crypto World",
+      "link": "https://www.cnbc.com/video/2025/09/19/coinbase-ceo-brian-armstrong-says-nba-star-kevin-durant-recovered-account-cnbc-crypto-world.html",
+      "summary": "On today's episode of CNBC Crypto World, major cryptocurrencies end the week in the red. Plus, Coinbase CEO Brian Armstrong says NBA Star Kevin Durant has regained access to his bitcoin, years after getting locked out of his account. And, Andrew McCormick, head of eToro U.S., discuses how meetings on Capitol Hill pushing for crypto legislation went this week.",
+      "published": "Fri, 19 Sep 2025 19:00:01 GMT",
+      "content": "On today's episode of CNBC Crypto World, major cryptocurrencies end the week in the red. Plus, Coinbase CEO Brian Armstrong says NBA Star Kevin Durant has regained access to his bitcoin, years after getting locked out of his account. And, Andrew McCormick, head of eToro U.S., discuses how meetings on Capitol Hill pushing for crypto legislation went this week.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e9e0addab5557f890f2434b6a185f35b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: COINBASE CEO: KEVIN DURANT RECOVERS BITCOIN ACCOUNT 🚀\n\n- Major cryptocurrencies close the week in the red 📉\n- NBA star Kevin Durant regains access to his locked bitcoin account 🔓\n- Brian Armstrong reveals Durant's account recovery after years 🕰️\n- Andrew McCormick from eToro U.S. updates on Capitol Hill crypto legislation talks 💬\n- Market reacts to the news with interest and speculation 🧐\n\nTAKEAWAY: Coinbase CEO Brian Armstrong's announcement of NBA star Kevin Durant recovering his bitcoin account generates excitement and interest in the crypto market.",
+      "exported_at": "2025-09-19T15:22:51.136915",
       "continuous_session": true
     }
   ]
