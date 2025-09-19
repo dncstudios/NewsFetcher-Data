@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-19T04:36:13.337231",
-    "total_articles": 1399,
-    "new_articles_in_last_fetch": 1399,
+    "created_at": "2025-09-19T05:27:02.089809",
+    "total_articles": 1401,
+    "new_articles_in_last_fetch": 1401,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -18181,6 +18181,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TIKTOK DEAL BOOSTS BYTEDANCE VALUATION 🚀\n\n- ByteDance valuation surges on TikTok potential deal 📈\n- Investor confidence grows with Chinese tech stock rally 🇨🇳\n- Beijing's support for private sector boosts ByteDance 🎯\n\nTAKEAWAY: ByteDance's rising valuation from the TikTok deal showcases growing investor confidence in Chinese tech stocks, fueled by Beijing's backing of the private sector.",
       "exported_at": "2025-09-19T04:36:13.231656",
+      "continuous_session": true
+    },
+    {
+      "title": "Kennedy&apos;s advisory panel recommends new restrictions on MMRV vaccines",
+      "link": "https://www.cnbc.com/2025/09/18/kennedy-advisers-vote-to-change-mmrv-vaccine-use-in-children-.html",
+      "summary": "U.S. vaccine advisers voted on Thursday to change the use of one of two key childhood vaccines under review, another step in U.S. Health Secretary Robert F. Kennedy's push to rewrite U.S. immunization policy",
+      "published": "Thu, 18 Sep 2025 22:54:56 GMT",
+      "content": "U.S. vaccine advisers voted on Thursday to change the use of one of two key childhood vaccines under review, another step in U.S. Health Secretary Robert F. Kennedy's push to rewrite U.S. immunization policy",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c1ea4efafac0196a8ce0576ef6604599",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: KENNEDY'S PANEL RECOMMENDS NEW RESTRICTIONS ON MMRV VACCINES 🚨\n\n- U.S. vaccine advisers vote to alter use of key childhood vaccine\n- Advisory panel change aligns with Health Secretary Kennedy's push\n- Potential rewrite of U.S. immunization policy in progress\n\nTAKEAWAY: Kennedy's advisory panel's recommendation for new restrictions on MMRV vaccines signals a potential shift in U.S. immunization policy, aligning with Health Secretary Kennedy's agenda.",
+      "exported_at": "2025-09-19T05:27:01.995444",
+      "continuous_session": true
+    },
+    {
+      "title": "Jim Cramer explains tech megacaps&apos; unique place in the market",
+      "link": "https://www.cnbc.com/2025/09/18/jim-cramer-explains-tech-megacaps-unique-place-in-the-market.html",
+      "summary": "CNBC's Jim Cramer on Thursday explained why he thinks certain Big Tech names wield unique power in the market.",
+      "published": "Thu, 18 Sep 2025 22:36:57 GMT",
+      "content": "CNBC's Jim Cramer on Thursday explained why he thinks certain Big Tech names wield unique power in the market.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "717ca1239b75976dfaa43304b99a4f28",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JIM CRAMER UNVEILS BIG TECH'S MARKET DOMINANCE 🚀\n\n- CNBC's Jim Cramer highlights Big Tech's unparalleled market influence\n- Cramer discusses the exceptional power certain tech giants hold\n- Big Tech companies stand out with their unmatched market position\n\nTAKEAWAY: Jim Cramer sheds light on the distinctive market dominance of Big Tech, showcasing their unparalleled power and influence.",
+      "exported_at": "2025-09-19T05:27:01.995522",
       "continuous_session": true
     }
   ]
