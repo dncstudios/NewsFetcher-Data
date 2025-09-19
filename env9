@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-19T17:45:28.298325",
-    "total_articles": 1477,
-    "new_articles_in_last_fetch": 1477,
+    "created_at": "2025-09-19T17:55:41.542979",
+    "total_articles": 1478,
+    "new_articles_in_last_fetch": 1478,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -19192,6 +19192,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JUDGE DISMISSES TRUMP'S $15B SUIT AGAINST NY TIMES 🚫\n\n- Judge Merryday deems Trump's lawsuit against NY Times \"improper\"\n- Suit can be refiled after being thrown out\n- Lawsuit \"consumes\" a hefty 85 pages\n\nTAKEAWAY: Trump's $15 billion lawsuit against NY Times faces a setback as judge labels it \"improper,\" highlighting the legal battle's complexity.",
       "exported_at": "2025-09-19T17:45:28.215276",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump says &apos;I&apos;m winning&apos; after judge tosses his $15 billion NY Times lawsuit",
+      "link": "https://www.cnbc.com/2025/09/19/trump-new-york-times-lawsuit-merryday.html",
+      "summary": "Judge Steven Merryday noted that Trump's defamation lawsuit against The New York Times \"consumes\" 85 pages.",
+      "published": "Fri, 19 Sep 2025 21:55:05 GMT",
+      "content": "Judge Steven Merryday noted that Trump's defamation lawsuit against The New York Times \"consumes\" 85 pages.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "435fd8464c8c332991774a9eaaef4ef6",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JUDGE DISMISSES TRUMP'S $15B SUIT AGAINST NY TIMES 🚫\n\n- Judge Merryday deems Trump's lawsuit against NY Times \"improper\"\n- Suit can be refiled after being thrown out\n- Lawsuit \"consumes\" a hefty 85 pages\n\nTAKEAWAY: Trump's $15 billion lawsuit against NY Times faces a setback as judge labels it \"improper,\" highlighting the legal battle's complexity.",
+      "exported_at": "2025-09-19T17:55:41.432795",
       "continuous_session": true
     }
   ]
