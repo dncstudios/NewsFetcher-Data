@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-19T18:10:56.045555",
-    "total_articles": 1479,
-    "new_articles_in_last_fetch": 1479,
+    "created_at": "2025-09-19T18:16:02.003769",
+    "total_articles": 1480,
+    "new_articles_in_last_fetch": 1480,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -19218,6 +19218,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP TO IMPOSE $100K FEE ON H-1B VISAS ⚠️\n\n- New $100,000 application fee for H-1B worker visas 🌐\n- Decision made by U.S. President Donald Trump 🇺🇸\n- Aimed at increasing costs for hiring foreign workers 💸\n- Fee intended to prioritize American workers ⚖️\n- White House official confirms upcoming policy change ✅\n\nTAKEAWAY: Trump's plan to implement a hefty $100,000 fee on H-1B visas aims to boost costs for hiring foreign workers and prioritize American employees.",
       "exported_at": "2025-09-19T18:10:55.932041",
+      "continuous_session": true
+    },
+    {
+      "title": "President Trump to impose $100,000 fee for H-1B worker visas, White House says",
+      "link": "https://www.cnbc.com/2025/09/19/trump-overhaul-h-1b-visa.html",
+      "summary": "U.S. President Donald Trump plans to introduce a new $100,000 application fee for H-1B worker visas, according to a White House official.",
+      "published": "Fri, 19 Sep 2025 22:11:55 GMT",
+      "content": "U.S. President Donald Trump plans to introduce a new $100,000 application fee for H-1B worker visas, according to a White House official.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "127b594a4a70ad263de4bca2e33b7288",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP TO IMPOSE $100K FEE ON H-1B VISAS ⚠️\n\n- New $100,000 application fee for H-1B worker visas 🌐\n- Decision made by U.S. President Donald Trump 🇺🇸\n- Aimed at increasing costs for hiring foreign workers 💸\n- Fee intended to prioritize American workers ⚖️\n- White House official confirms upcoming policy change ✅\n\nTAKEAWAY: Trump's plan to implement a hefty $100,000 fee on H-1B visas aims to boost costs for hiring foreign workers and prioritize American employees.",
+      "exported_at": "2025-09-19T18:16:01.898046",
       "continuous_session": true
     }
   ]
