@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-19T15:02:21.849697",
-    "total_articles": 1459,
-    "new_articles_in_last_fetch": 1459,
+    "created_at": "2025-09-19T15:07:32.622777",
+    "total_articles": 1462,
+    "new_articles_in_last_fetch": 1462,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -18958,6 +18958,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FORMER DISNEY CEO EISNER SUPPORTS JIMMY KIMMEL, SLAMS FCC INTIMIDATION 🚀\n\n- Ex-Disney CEO Eisner stands behind Jimmy Kimmel amid FCC pressure 💪\n- ABC criticized for yielding to FCC Chairman Brendan Carr's influence 🤨\n- Eisner condemns FCC's attempt to intimidate ABC over Kimmel's content 🚫\n\nTAKEAWAY: Former Disney CEO Eisner's support for Jimmy Kimmel and criticism of FCC's intimidation tactics highlight the ongoing battle between media freedom and regulatory pressure.",
       "exported_at": "2025-09-19T15:02:21.749636",
+      "continuous_session": true
+    },
+    {
+      "title": "Steve Bannon floats idea of Bessent running both Treasury and the Fed",
+      "link": "https://www.cnbc.com/2025/09/19/steve-bannon-floats-idea-of-bessent-running-both-treasury-and-the-fed.html",
+      "summary": "White House confidante Steve Bannon has an unusual solution for who should take over as Federal Reserve Chair Jerome Powell next year.",
+      "published": "Fri, 19 Sep 2025 18:39:12 GMT",
+      "content": "White House confidante Steve Bannon has an unusual solution for who should take over as Federal Reserve Chair Jerome Powell next year.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8eb11e9f3ec0058f500846b64da06028",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STEVE BANNON'S UNCONVENTIONAL PLAN FOR TREASURY AND FED 🚀\n\n- Bannon suggests Bessent should lead Treasury and the Fed 🤯\n- Proposal challenges traditional roles in key financial institutions 💼\n- Potential impact on economic policies and financial markets 📈\n\nTAKEAWAY: Steve Bannon's proposal to have Bessent head both Treasury and the Fed could disrupt conventional norms in financial leadership, potentially shaping economic policies and market dynamics.",
+      "exported_at": "2025-09-19T15:07:32.513418",
+      "continuous_session": true
+    },
+    {
+      "title": "Gas is expected to get cheaper this fall: It&apos;s looking good &apos;for motorists in most areas,&apos; one expert says",
+      "link": "https://www.cnbc.com/2025/09/19/gas-expected-to-get-cheaper-this-fall.html",
+      "summary": "Gas prices, which typically decline in the latter half of the year, could fall to around $3 per gallon sometime in October, one expert says.",
+      "published": "Fri, 19 Sep 2025 17:25:13 GMT",
+      "content": "Gas prices, which typically decline in the latter half of the year, could fall to around $3 per gallon sometime in October, one expert says.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b7c3f576802623b0717db2b4d2639f23",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GAS PRICES SET TO DROP THIS FALL 🚀\n\n- Gas prices expected to decrease, hitting $3 per gallon in October ⬇️\n- Fall typically sees a decline in gas prices 🍂\n- Positive outlook for motorists in most areas 🚗💰\n\nTAKEAWAY: Get ready for cheaper gas this fall as prices are anticipated to drop, benefiting motorists across many regions.",
+      "exported_at": "2025-09-19T15:07:32.513583",
+      "continuous_session": true
+    },
+    {
+      "title": "Why investors are rushing back to Big Tech — plus, productive Trump-Xi talks",
+      "link": "https://www.cnbc.com/2025/09/19/why-investors-are-rushing-back-to-big-tech-plus-productive-trump-xi-talks.html",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "published": "Fri, 19 Sep 2025 18:43:51 GMT",
+      "content": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "88be92916fb7e64e5ebdd61b11e8b0e4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: INVESTORS RUSH BACK TO BIG TECH AMID PRODUCTIVE TRUMP-XI TALKS 🚀\n\n- Big Tech sees surge in investor interest 📈\n- Productive discussions between Trump and Xi boost market sentiment 🤝\n- Investing Club's Homestretch delivers timely afternoon updates ⏰\n\nTAKEAWAY: Investor interest in Big Tech rebounds as positive Trump-Xi talks and Investing Club's Homestretch updates drive market optimism.",
+      "exported_at": "2025-09-19T15:07:32.513609",
       "continuous_session": true
     }
   ]
