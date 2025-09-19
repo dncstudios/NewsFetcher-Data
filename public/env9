@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-19T16:24:07.948581",
-    "total_articles": 1472,
-    "new_articles_in_last_fetch": 1472,
+    "created_at": "2025-09-19T16:29:16.628070",
+    "total_articles": 1473,
+    "new_articles_in_last_fetch": 1473,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -19127,6 +19127,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP THREATENS BROADCAST STATION LICENSES: IMPACT & PROCESS ⚠️\n\n- Networks like ABC, CBS, NBC, and Fox rely on government licenses 📡\n- Licensing system crucial for over-the-air spectrum access 🌐\n- Trump's threat raises concerns about potential implications 🤔\n\nTAKEAWAY: Trump's warning to broadcasters about their licenses raises uncertainty about the future of network access and operations.",
       "exported_at": "2025-09-19T16:24:07.853886",
+      "continuous_session": true
+    },
+    {
+      "title": "Santoli&apos;s Friday market wrap-up: Upward drift in tech heavyweights keeps big-cap indexes churning to new records",
+      "link": "https://www.cnbc.com/2025/09/19/santolis-friday-market-wrap-up-gains-in-leading-techs-power-new-highs.html",
+      "summary": "The majority of the market took a breather after bulls got most of what they were hoping for this week.",
+      "published": "Fri, 19 Sep 2025 20:20:05 GMT",
+      "content": "The majority of the market took a breather after bulls got most of what they were hoping for this week.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7547bd002e0682a851289378318394b7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SANTOLI'S FRIDAY MARKET WRAP-UP: TECH HEAVYWEIGHTS DRIVE BIG-CAP INDEXES TO NEW RECORDS 🚀\n\n- Tech giants lead big-cap indexes to new highs 📈\n- Market pauses after meeting bullish expectations 🐂\n- Upward drift in tech sector fuels record-breaking streak 💪\n- Majority of market takes a breather after strong week 💤\n- Bulls satisfied with positive outcomes 🐃\n- Investors anticipate continued upward momentum 🔥\n\nTAKEAWAY: Tech heavyweights propel big-cap indexes to new records, satisfying bullish expectations and fueling anticipation for further growth.",
+      "exported_at": "2025-09-19T16:29:16.513877",
       "continuous_session": true
     }
   ]
