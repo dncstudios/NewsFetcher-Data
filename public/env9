@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-19T08:09:31.046168",
-    "total_articles": 1408,
-    "new_articles_in_last_fetch": 1408,
+    "created_at": "2025-09-19T08:34:52.293754",
+    "total_articles": 1409,
+    "new_articles_in_last_fetch": 1409,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -18298,6 +18298,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SOUTHERN CALIFORNIA EDISON SECURES $2 BILLION SETTLEMENT FOR WILDFIRE LOSSES 🚀\n\n- Settlement reached with intervenors for $2 billion recovery 🔥\n- Funds linked to losses from devastating wildfires in California 🌲\n- Positive impact on Southern California Edison's financial health ✅\n- Agreement demonstrates progress in resolving wildfire-related issues 📊\n- Boost in investor confidence expected after successful settlement 📈\n\nTAKEAWAY: Southern California Edison's $2 billion settlement for wildfire losses signifies a positive step forward, boosting financial health and investor confidence.",
       "exported_at": "2025-09-19T08:09:31.029169",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump, Xi call on TikTok deal underway",
+      "link": "https://www.cnbc.com/2025/09/19/trump-xi-tiktok-call.html",
+      "summary": "President Donald Trump and Chinese leader Xi Jinping began a much-anticipated call aimed at finalizing a deal to keep TikTok from going dark in the U.S.",
+      "published": "Fri, 19 Sep 2025 12:33:24 GMT",
+      "content": "President Donald Trump and Chinese leader Xi Jinping began a much-anticipated call aimed at finalizing a deal to keep TikTok from going dark in the U.S.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f766b3495fdbba67106c9dcea197cf0a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP, XI AIM TO SAVE TIKTOK IN U.S. 🚀\n\n- Trump, Xi in talks to finalize TikTok deal 🤝\n- Deal crucial to prevent TikTok shutdown in U.S. 🛑\n- Anticipation high for agreement outcome 📈\n\nTAKEAWAY: President Trump and Xi Jinping's discussions to finalize a TikTok deal aim to prevent the app from shutting down in the U.S., fueling anticipation for the agreement's outcome.",
+      "exported_at": "2025-09-19T08:34:52.276017",
       "continuous_session": true
     }
   ]
