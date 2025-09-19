@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-19T09:10:43.708690",
-    "total_articles": 1417,
-    "new_articles_in_last_fetch": 1417,
+    "created_at": "2025-09-19T09:15:51.590207",
+    "total_articles": 1418,
+    "new_articles_in_last_fetch": 1418,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -18413,6 +18413,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: KASHKARI PUSHES FOR 2 RATE CUTS DESPITE LIMITED TARIFF IMPACT 🚀\n\n- Neel Kashkari urges two more rate cuts in 2019 📉\n- Sees minimal tariff effect on inflation 📉\n- Advocates for proactive monetary policy 🎯\n- Addressing concerns on economic growth ⚠️\n- Speaks on CNBC's \"Squawk Box\" 💬\n\nTAKEAWAY: Neel Kashkari's call for two rate cuts this year, citing limited tariff impact on inflation, emphasizes the need for proactive monetary policies to support economic growth.",
       "exported_at": "2025-09-19T09:10:43.691690",
+      "continuous_session": true
+    },
+    {
+      "title": "10-year Treasury yield hits 2-week high despite Fed rate cut this week",
+      "link": "https://www.cnbc.com/2025/09/19/us-treasury-yields-investors-weigh-the-state-of-the-us-economy.html",
+      "summary": "Investors are assessing the health of the U.S. economy after the Federal Reserve cut interest rates for the first time this year.",
+      "published": "Fri, 19 Sep 2025 13:01:10 GMT",
+      "content": "Investors are assessing the health of the U.S. economy after the Federal Reserve cut interest rates for the first time this year.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "30ea20314105bc68428e1a0070151f78",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 10-YEAR TREASURY YIELD SURGES DESPITE FED RATE CUT 📈\n\n- 10-year Treasury yield reaches 2-week high post Fed rate cut\n- Investors analyze U.S. economy's strength post interest rate slash\n- Federal Reserve's first rate cut this year triggers market scrutiny\n\nTAKEAWAY: Despite the Fed's rate cut, the 10-year Treasury yield spikes, prompting investors to evaluate the U.S. economy's resilience.",
+      "exported_at": "2025-09-19T09:15:51.573405",
       "continuous_session": true
     }
   ]
