@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-19T12:54:42.331998",
-    "total_articles": 1443,
-    "new_articles_in_last_fetch": 1443,
+    "created_at": "2025-09-19T12:59:51.288392",
+    "total_articles": 1444,
+    "new_articles_in_last_fetch": 1444,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -18750,6 +18750,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCKS MAKING BIGGEST MIDDAY MOVES 🚀\n\n- Intel and Novo Nordisk among top performers 📈\n- Bullish market sentiment driving stock prices up ⚡️\n- Allstate showing significant midday gains 💰\n- Investors closely monitoring market movements 📊\n\nTAKEAWAY: Intel, Novo Nordisk, and Allstate are leading midday stock performers, driven by bullish market sentiment and closely watched by investors.",
       "exported_at": "2025-09-19T12:54:42.257361",
+      "continuous_session": true
+    },
+    {
+      "title": "Jim Cramer&apos;s message on Apple: It&apos;s time to get more bullish on this stock",
+      "link": "https://www.cnbc.com/2025/09/19/jim-cramer-message-on-apple-its-time-to-get-more-bullish-on-this-stock.html",
+      "summary": "Early signs of iPhone 17 demand, coupled with upbeat remarks from Apple CEO Tim Cook himself, show that analysts ought to raise their estimates.",
+      "published": "Fri, 19 Sep 2025 16:57:43 GMT",
+      "content": "Early signs of iPhone 17 demand, coupled with upbeat remarks from Apple CEO Tim Cook himself, show that analysts ought to raise their estimates.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c326652aeece8a1963a6a562b76e3e6a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JIM CRAMER'S BULLISH MESSAGE ON APPLE: TIME TO INVEST 🚀\n\n- Early iPhone 17 demand signals positivity 📈\n- Apple CEO Tim Cook's upbeat comments boost confidence ✅\n- Analysts urged to revise estimates higher 📈\n- Potential for increased stock value on the horizon 🚀\n\nTAKEAWAY: Positive indicators like early iPhone 17 demand and encouraging remarks from Tim Cook suggest it's prime time to consider investing in Apple.",
+      "exported_at": "2025-09-19T12:59:51.196886",
       "continuous_session": true
     }
   ]
