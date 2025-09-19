@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-19T12:59:51.288392",
-    "total_articles": 1444,
-    "new_articles_in_last_fetch": 1444,
+    "created_at": "2025-09-19T13:05:01.818333",
+    "total_articles": 1446,
+    "new_articles_in_last_fetch": 1446,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -18763,6 +18763,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JIM CRAMER'S BULLISH MESSAGE ON APPLE: TIME TO INVEST 🚀\n\n- Early iPhone 17 demand signals positivity 📈\n- Apple CEO Tim Cook's upbeat comments boost confidence ✅\n- Analysts urged to revise estimates higher 📈\n- Potential for increased stock value on the horizon 🚀\n\nTAKEAWAY: Positive indicators like early iPhone 17 demand and encouraging remarks from Tim Cook suggest it's prime time to consider investing in Apple.",
       "exported_at": "2025-09-19T12:59:51.196886",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves midday: Brighthouse Financial, Lennar, Apple, FedEx and more",
+      "link": "https://www.cnbc.com/2025/09/19/stocks-making-the-biggest-moves-midday-bhf-len-aapl-fdx.html",
+      "summary": "These are the stocks posting the largest moves in midday trading.",
+      "published": "Fri, 19 Sep 2025 17:01:20 GMT",
+      "content": "These are the stocks posting the largest moves in midday trading.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5313ec36a71063c0a2ae520932d64047",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS MAKING THE BIGGEST MOVES MIDDAY 🚀\n\n- Brighthouse Financial, Lennar, Apple, FedEx lead midday trading 📈\n- Significant fluctuations observed in stock prices 📊\n- Investors closely monitoring market movements 🧐\n\nTAKEAWAY: Brighthouse Financial, Lennar, Apple, FedEx, and other major stocks are experiencing significant midday trading shifts, attracting investors' attention.",
+      "exported_at": "2025-09-19T13:05:01.709653",
+      "continuous_session": true
+    },
+    {
+      "title": "Wall Street bets on chip boom are getting more concentrated, and it could be good thing for investors",
+      "link": "https://www.cnbc.com/2025/09/19/chip-stocks-ai-tech-investing-etfs.html",
+      "summary": "AI and Nvidia's stock success have made the chip sector one of the market's most closely watched. There's an increasing number of ways to invest with ETFs.",
+      "published": "Fri, 19 Sep 2025 16:44:22 GMT",
+      "content": "AI and Nvidia's stock success have made the chip sector one of the market's most closely watched. There's an increasing number of ways to invest with ETFs.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "84b5ff7356ea9756ac8fa7edad9b3e1b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WALL STREET'S FOCUS ON CHIP BOOM GROWS STRONGER 🚀\n\n- AI and Nvidia drive chip sector to the spotlight 🌟\n- Investors eye chip sector with heightened interest 👀\n- ETFs offer diverse ways to invest in the chip boom 💰\n\nTAKEAWAY: Wall Street's intensified focus on the chip boom signals potential opportunities for investors, with ETFs providing diverse investment avenues in this flourishing sector.",
+      "exported_at": "2025-09-19T13:05:01.709726",
       "continuous_session": true
     }
   ]
