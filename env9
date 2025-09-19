@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-18T20:24:13.233034",
-    "total_articles": 1389,
-    "new_articles_in_last_fetch": 1389,
+    "created_at": "2025-09-18T21:14:57.138359",
+    "total_articles": 1390,
+    "new_articles_in_last_fetch": 1390,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -18051,6 +18051,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ASIA-PACIFIC MARKETS BRACE FOR BOJ DECISION 🚀\n\n- Investors anticipate Bank of Japan to maintain 0.5% policy rate 🏦\n- Analysts predict stable market opening in the Asia-Pacific region 🌏\n- BOJ's decision to influence investor sentiment and market direction 📈\n\nTAKEAWAY: Asia-Pacific markets await the Bank of Japan's decision on the benchmark policy rate, with expectations of a stable market opening and potential impacts on investor sentiment.",
       "exported_at": "2025-09-18T20:24:13.130302",
+      "continuous_session": true
+    },
+    {
+      "title": "Fed cut sets stage for Asia’s next easing wave amid trade strains",
+      "link": "https://www.cnbc.com/2025/09/19/fed-cut-sets-stage-for-asias-next-easing-wave-amid-trade-strains.html",
+      "summary": "The Fed's easing may prompt further easing in some Asian countries, particularly those facing greater domestic headwinds.",
+      "published": "Fri, 19 Sep 2025 01:09:25 GMT",
+      "content": "The Fed's easing may prompt further easing in some Asian countries, particularly those facing greater domestic headwinds.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b8abbd4b882836f9aec5c061a659c449",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FED CUT SPARKS ASIA'S EASING WAVE 🚀\n\n- Fed's easing likely to trigger more easing in select Asian nations 🌏\n- Countries with internal challenges may follow suit 📉\n- Asian economies brace for potential rate adjustments 📈\n\nTAKEAWAY: The Fed's recent easing sets the stage for a potential wave of rate cuts in Asia, especially in countries facing internal economic pressures.",
+      "exported_at": "2025-09-18T21:14:57.042750",
       "continuous_session": true
     }
   ]
