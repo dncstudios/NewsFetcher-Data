@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-19T14:21:43.965571",
-    "total_articles": 1458,
-    "new_articles_in_last_fetch": 1458,
+    "created_at": "2025-09-19T15:02:21.849697",
+    "total_articles": 1459,
+    "new_articles_in_last_fetch": 1459,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -18945,6 +18945,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCKS SURGE, RUSSELL 2000 HITS RECORD HIGH 🚀\n\n- Wall Street sees strong weekly gains 📈\n- Indexes hit new records after interest rate cut 📊\n- Investors optimistic about market performance 🔥\n- Federal Reserve's decision boosts confidence ✅\n- Russell 2000 hits fresh all-time high 🚀\n\nTAKEAWAY: Wall Street celebrates as stocks surge to new heights, driven by optimism and Federal Reserve's interest rate cut, setting the stage for a promising week.",
       "exported_at": "2025-09-19T14:21:43.847196",
+      "continuous_session": true
+    },
+    {
+      "title": "Former Disney CEO Eisner backs Jimmy Kimmel, blasts FCC &apos;intimidation&apos; of ABC",
+      "link": "https://www.cnbc.com/2025/09/19/jimmy-kimmel-disney-eisner-fcc-abc.html",
+      "summary": "Disney and ABC have faced criticism for bowing to pressure from Federal Communications Commission Chairman Brendan Carr in benching Jimmy Kimmel.",
+      "published": "Fri, 19 Sep 2025 18:58:21 GMT",
+      "content": "Disney and ABC have faced criticism for bowing to pressure from Federal Communications Commission Chairman Brendan Carr in benching Jimmy Kimmel.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ece9689c4f82692651af5b3213bb2f53",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FORMER DISNEY CEO EISNER SUPPORTS JIMMY KIMMEL, SLAMS FCC INTIMIDATION 🚀\n\n- Ex-Disney CEO Eisner stands behind Jimmy Kimmel amid FCC pressure 💪\n- ABC criticized for yielding to FCC Chairman Brendan Carr's influence 🤨\n- Eisner condemns FCC's attempt to intimidate ABC over Kimmel's content 🚫\n\nTAKEAWAY: Former Disney CEO Eisner's support for Jimmy Kimmel and criticism of FCC's intimidation tactics highlight the ongoing battle between media freedom and regulatory pressure.",
+      "exported_at": "2025-09-19T15:02:21.749636",
       "continuous_session": true
     }
   ]
