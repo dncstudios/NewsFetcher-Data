@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-19T13:10:11.813084",
-    "total_articles": 1447,
-    "new_articles_in_last_fetch": 1447,
+    "created_at": "2025-09-19T13:25:26.077181",
+    "total_articles": 1448,
+    "new_articles_in_last_fetch": 1448,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -18802,6 +18802,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TOP ANALYST FORECASTS RUSSELL 2000 GROWTH, SAYS 'DON'T FIGHT THE FED' 🚀\n\n- DeSanctis raises forecast for Russell 2000 after recent highs 📈\n- Small-cap stocks expected to continue upward trend 📈\n- Analyst DeSanctis sees potential for further gains ahead 💪\n- Advice: 'Don't fight the Fed' when it comes to small caps 🏛️\n- Market optimism surrounds small-cap stocks 🌟\n- Jefferies' DeSanctis predicts bright future for small-cap market 🌞\n\nTAKEAWAY: Jefferies' top analyst DeSanctis predicts further growth for the Russell 2000 and advises investors to align with the Fed for potential gains in small-cap stocks.",
       "exported_at": "2025-09-19T13:10:11.737675",
+      "continuous_session": true
+    },
+    {
+      "title": "Top small-cap analyst DeSanctis raises forecast for Russell 2000, saying &apos;don&apos;t fight the Fed&apos;",
+      "link": "https://www.cnbc.com/2025/09/19/top-small-cap-analyst-desanctis-raises-forecast-for-the-russell-2000-saying-dont-fight-the-fed.html",
+      "summary": "Small-cap stocks may see even more gains in their future after hitting recent highs this week, according to Jefferies' Steven DeSanctis.",
+      "published": "Fri, 19 Sep 2025 17:22:42 GMT",
+      "content": "Small-cap stocks may see even more gains in their future after hitting recent highs this week, according to Jefferies' Steven DeSanctis.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d698a7a1a1e0773217d2bc47e5c06c91",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TOP ANALYST FORECASTS RUSSELL 2000 GROWTH, SAYS 'DON'T FIGHT THE FED' 🚀\n\n- DeSanctis raises forecast for Russell 2000 after recent highs 📈\n- Small-cap stocks expected to continue upward trend 📈\n- Analyst DeSanctis sees potential for further gains ahead 💪\n- Advice: 'Don't fight the Fed' when it comes to small caps 🏛️\n- Market optimism surrounds small-cap stocks 🌟\n- Jefferies' DeSanctis predicts bright future for small-cap market 🌞\n\nTAKEAWAY: Jefferies' top analyst DeSanctis predicts further growth for the Russell 2000 and advises investors to align with the Fed for potential gains in small-cap stocks.",
+      "exported_at": "2025-09-19T13:25:25.978418",
       "continuous_session": true
     }
   ]
