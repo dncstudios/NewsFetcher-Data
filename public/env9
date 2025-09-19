@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-19T13:56:07.279249",
-    "total_articles": 1453,
-    "new_articles_in_last_fetch": 1453,
+    "created_at": "2025-09-19T14:01:14.601659",
+    "total_articles": 1454,
+    "new_articles_in_last_fetch": 1454,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -18880,6 +18880,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ELON MUSK'S xAI RAISES $10B AT $200B VALUATION 🚀\n\n- xAI secures $10B in funding, valuing company at $200B 💰\n- Musk recently raised $10B at $150B valuation 📈\n- Impressive $50B increase in valuation within weeks 🔥\n\nTAKEAWAY: Elon Musk's xAI secures substantial funding, skyrocketing its valuation to $200 billion, marking a remarkable $50 billion increase in just weeks.",
       "exported_at": "2025-09-19T13:56:07.160696",
+      "continuous_session": true
+    },
+    {
+      "title": "Elon Musk&apos;s xAI raising $10 billion at $200 billion valuation: sources",
+      "link": "https://www.cnbc.com/2025/09/19/musks-xai-10-billion-at-200-billion-valuation.html",
+      "summary": "The fundraising comes weeks after Musk raised $10 billion in debt and equity at what was believed to be a roughly $150 billion valuation, according to Faber.",
+      "published": "Fri, 19 Sep 2025 17:56:11 GMT",
+      "content": "The fundraising comes weeks after Musk raised $10 billion in debt and equity at what was believed to be a roughly $150 billion valuation, according to Faber.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "69c4a43ca2d367fb64ba19741ffd6ad1",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ELON MUSK'S xAI RAISES $10B AT $200B VALUATION 🚀\n\n- xAI secures $10B in funding, valuing company at $200B 💰\n- Musk recently raised $10B at $150B valuation 📈\n- Impressive $50B increase in valuation within weeks 🔥\n\nTAKEAWAY: Elon Musk's xAI secures substantial funding, skyrocketing its valuation to $200 billion, marking a remarkable $50 billion increase in just weeks.",
+      "exported_at": "2025-09-19T14:01:14.485099",
       "continuous_session": true
     }
   ]
