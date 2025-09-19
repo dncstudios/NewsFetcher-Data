@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-19T02:03:58.016119",
-    "total_articles": 1395,
-    "new_articles_in_last_fetch": 1395,
+    "created_at": "2025-09-19T02:54:43.488506",
+    "total_articles": 1396,
+    "new_articles_in_last_fetch": 1396,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -18129,6 +18129,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ASIA-PACIFIC MARKETS BRACE FOR BOJ DECISION 🚀\n\n- Investors anticipate Bank of Japan to maintain 0.5% policy rate 🏦\n- Analysts predict stable market opening in the Asia-Pacific region 🌏\n- BOJ's decision to influence investor sentiment and market direction 📈\n\nTAKEAWAY: Asia-Pacific markets await the Bank of Japan's decision on the benchmark policy rate, with expectations of a stable market opening and potential impacts on investor sentiment.",
       "exported_at": "2025-09-19T02:03:57.911170",
+      "continuous_session": true
+    },
+    {
+      "title": "Apple iPhone 17 goes on sale globally as questions remain over China market and AI strategy",
+      "link": "https://www.cnbc.com/2025/09/19/apple-iphone-17-launch-sale-globally-china-market-and-ai-strategy.html",
+      "summary": "People around the world flocked to Apple stores on Friday morning to pick up the new generation of iPhones.",
+      "published": "Fri, 19 Sep 2025 06:44:35 GMT",
+      "content": "People around the world flocked to Apple stores on Friday morning to pick up the new generation of iPhones.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a9061d5aeb22bd7f9dd6ca3710778a52",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: APPLE iPHONE 17 LAUNCHES GLOBALLY AMID CHINA AND AI STRATEGY QUESTIONS 🚀\n\n- Global frenzy at Apple stores for iPhone 17 release 🌎📱\n- Uncertainty lingers over Apple's China market presence 🇨🇳❓\n- Questions arise about Apple's Artificial Intelligence strategy 🧠❓\n- Apple fans eager to get their hands on latest tech 🤩\n- Strong initial demand for iPhone 17 reported 📈💪\n- Market watching closely for Apple's next moves 🧐📊\n\nTAKEAWAY: The global launch of Apple's iPhone 17 sparks excitement, but concerns over China market and AI strategy raise questions about the tech giant's future direction.",
+      "exported_at": "2025-09-19T02:54:43.403789",
       "continuous_session": true
     }
   ]
