@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-19T17:30:13.004480",
-    "total_articles": 1476,
-    "new_articles_in_last_fetch": 1476,
+    "created_at": "2025-09-19T17:45:28.298325",
+    "total_articles": 1477,
+    "new_articles_in_last_fetch": 1477,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -19179,6 +19179,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: KEVIN DURANT REGAINS ACCESS TO COINBASE BITCOIN ACCOUNT 🚀\n\n- Durant recovers access to his long-lost Coinbase account 🎉\n- Account holds valuable bitcoins after years of inaccessible 📈\n- His regained access highlights the importance of secure crypto storage 🔒\n\nTAKEAWAY: Kevin Durant's successful recovery of his Coinbase bitcoin account showcases the significance of secure crypto storage and the potential value of long-lost assets.",
       "exported_at": "2025-09-19T17:30:12.898605",
+      "continuous_session": true
+    },
+    {
+      "title": "Judge tosses Trump&apos;s $15 billion suit against NY Times as &apos;improper,&apos; allows refiling",
+      "link": "https://www.cnbc.com/2025/09/19/trump-new-york-times-lawsuit-merryday.html",
+      "summary": "Judge Steven Merryday noted that Trump's defamation lawsuit against The New York Times \"consumes\" 85 pages.",
+      "published": "Fri, 19 Sep 2025 21:42:04 GMT",
+      "content": "Judge Steven Merryday noted that Trump's defamation lawsuit against The New York Times \"consumes\" 85 pages.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a8a7f41f04606f70d34b729ffa1436e7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JUDGE DISMISSES TRUMP'S $15B SUIT AGAINST NY TIMES 🚫\n\n- Judge Merryday deems Trump's lawsuit against NY Times \"improper\"\n- Suit can be refiled after being thrown out\n- Lawsuit \"consumes\" a hefty 85 pages\n\nTAKEAWAY: Trump's $15 billion lawsuit against NY Times faces a setback as judge labels it \"improper,\" highlighting the legal battle's complexity.",
+      "exported_at": "2025-09-19T17:45:28.215276",
       "continuous_session": true
     }
   ]
