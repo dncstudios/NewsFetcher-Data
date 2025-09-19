@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-19T00:02:13.086133",
-    "total_articles": 1392,
-    "new_articles_in_last_fetch": 1392,
+    "created_at": "2025-09-19T00:07:18.908676",
+    "total_articles": 1393,
+    "new_articles_in_last_fetch": 1393,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -18090,6 +18090,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JAPAN'S CORE INFLATION HITS LOWEST LEVEL SINCE NOVEMBER 2024 📉\n\n- Japan's core inflation rate drops to 3.3% in August\n- \"Core-core\" inflation excludes fresh food and energy prices\n- BOJ closely monitors this indicator\n- August's rate down from 3.4% in July\n\nTAKEAWAY: Japan's core inflation rate hits a low not seen since November 2024, signaling potential challenges for the economy ahead.",
       "exported_at": "2025-09-19T00:02:12.994671",
+      "continuous_session": true
+    },
+    {
+      "title": "Japan&apos;s Nikkei 225 hits record for second straight day; BOJ keeps interest rate steady",
+      "link": "https://www.cnbc.com/2025/09/19/asia-pacific-markets-nikkei-225-kospi-bank-of-japan.html",
+      "summary": "The Reuters poll of economists expects the BOJ to keep its benchmark policy rate at 0.5%.",
+      "published": "Fri, 19 Sep 2025 04:05:32 GMT",
+      "content": "The Reuters poll of economists expects the BOJ to keep its benchmark policy rate at 0.5%.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "57eb4214d45609788dd416405d05090b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASIA-PACIFIC MARKETS BRACE FOR BOJ DECISION 🚀\n\n- Investors anticipate Bank of Japan to maintain 0.5% policy rate 🏦\n- Analysts predict stable market opening in the Asia-Pacific region 🌏\n- BOJ's decision to influence investor sentiment and market direction 📈\n\nTAKEAWAY: Asia-Pacific markets await the Bank of Japan's decision on the benchmark policy rate, with expectations of a stable market opening and potential impacts on investor sentiment.",
+      "exported_at": "2025-09-19T00:07:18.812628",
       "continuous_session": true
     }
   ]
