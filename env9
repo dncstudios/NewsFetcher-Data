@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-19T16:03:46.007464",
-    "total_articles": 1470,
-    "new_articles_in_last_fetch": 1470,
+    "created_at": "2025-09-19T16:08:51.990777",
+    "total_articles": 1471,
+    "new_articles_in_last_fetch": 1471,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -19101,6 +19101,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STUBHUB SHARES SLUMP FOR THIRD DAY POST-IPO 📉\n\n- StubHub shares drop for the third consecutive day 📉\n- Contrast to recent successful IPOs like Klarna, Figma, and Circle 💥\n- Investors observe a deepening post-IPO slump 📉\n\nTAKEAWAY: StubHub's shares face a challenging start post-IPO, in contrast to recent successful debuts of other companies.",
       "exported_at": "2025-09-19T16:03:45.902997",
+      "continuous_session": true
+    },
+    {
+      "title": "Inside the fakes and scams on Walmart.com",
+      "link": "https://www.cnbc.com/2025/09/19/walmart-marketplace-fakes-scams-investigation.html",
+      "summary": "Walmart's marketplace is booming, but the strategy poses risks as a CNBC investigation found  lax vetting contributed to fraud and fakes on the site.",
+      "published": "Fri, 19 Sep 2025 20:08:22 GMT",
+      "content": "Walmart's marketplace is booming, but the strategy poses risks as a CNBC investigation found  lax vetting contributed to fraud and fakes on the site.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8cfac8ed26288f7ac14177d76c370cca",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WALMART'S MARKETPLACE BOOM FUELED BY LAX VETTING RISKS ⚠️\n\n- Walmart's marketplace surges despite lax vetting risks 📈\n- CNBC finds fraud and fakes due to vetting loopholes 🕵️‍♂️\n- Booming strategy faces challenges with counterfeit products 🔍\n- Lax vetting raises concerns over marketplace integrity ⚠️\n- Walmart's growth overshadowed by risks of fraud and counterfeit 🛍️\n- CNBC investigation highlights dangers of loose vetting policies 🔍\n\nTAKEAWAY: Walmart's marketplace success is shadowed by risks of fraud and fakes due to lax vetting policies, challenging its integrity and growth potential.",
+      "exported_at": "2025-09-19T16:08:51.873798",
       "continuous_session": true
     }
   ]
