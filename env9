@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-19T16:08:51.990777",
-    "total_articles": 1471,
-    "new_articles_in_last_fetch": 1471,
+    "created_at": "2025-09-19T16:24:07.948581",
+    "total_articles": 1472,
+    "new_articles_in_last_fetch": 1472,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -19114,6 +19114,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WALMART'S MARKETPLACE BOOM FUELED BY LAX VETTING RISKS ⚠️\n\n- Walmart's marketplace surges despite lax vetting risks 📈\n- CNBC finds fraud and fakes due to vetting loopholes 🕵️‍♂️\n- Booming strategy faces challenges with counterfeit products 🔍\n- Lax vetting raises concerns over marketplace integrity ⚠️\n- Walmart's growth overshadowed by risks of fraud and counterfeit 🛍️\n- CNBC investigation highlights dangers of loose vetting policies 🔍\n\nTAKEAWAY: Walmart's marketplace success is shadowed by risks of fraud and fakes due to lax vetting policies, challenging its integrity and growth potential.",
       "exported_at": "2025-09-19T16:08:51.873798",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump is threatening broadcast station licenses – what that means, and how it all works",
+      "link": "https://www.cnbc.com/2025/09/19/trump-threatening-broadcast-station-licenses-explained.html",
+      "summary": "Networks like Disney's ABC, Paramount Skydance's CBS, Comcast Corp.'s NBC and Fox Corp.'s Fox are part of a system beholden to licensing over-the-air spectrum from the government.",
+      "published": "Fri, 19 Sep 2025 20:19:19 GMT",
+      "content": "Networks like Disney's ABC, Paramount Skydance's CBS, Comcast Corp.'s NBC and Fox Corp.'s Fox are part of a system beholden to licensing over-the-air spectrum from the government.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f7b4d8274d5bb7e10a2ddabc992b06eb",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP THREATENS BROADCAST STATION LICENSES: IMPACT & PROCESS ⚠️\n\n- Networks like ABC, CBS, NBC, and Fox rely on government licenses 📡\n- Licensing system crucial for over-the-air spectrum access 🌐\n- Trump's threat raises concerns about potential implications 🤔\n\nTAKEAWAY: Trump's warning to broadcasters about their licenses raises uncertainty about the future of network access and operations.",
+      "exported_at": "2025-09-19T16:24:07.853886",
       "continuous_session": true
     }
   ]
