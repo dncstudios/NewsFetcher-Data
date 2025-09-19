@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-19T16:29:16.628070",
-    "total_articles": 1473,
-    "new_articles_in_last_fetch": 1473,
+    "created_at": "2025-09-19T16:39:28.552083",
+    "total_articles": 1474,
+    "new_articles_in_last_fetch": 1474,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -19140,6 +19140,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SANTOLI'S FRIDAY MARKET WRAP-UP: TECH HEAVYWEIGHTS DRIVE BIG-CAP INDEXES TO NEW RECORDS 🚀\n\n- Tech giants lead big-cap indexes to new highs 📈\n- Market pauses after meeting bullish expectations 🐂\n- Upward drift in tech sector fuels record-breaking streak 💪\n- Majority of market takes a breather after strong week 💤\n- Bulls satisfied with positive outcomes 🐃\n- Investors anticipate continued upward momentum 🔥\n\nTAKEAWAY: Tech heavyweights propel big-cap indexes to new records, satisfying bullish expectations and fueling anticipation for further growth.",
       "exported_at": "2025-09-19T16:29:16.513877",
+      "continuous_session": true
+    },
+    {
+      "title": "Navan, corporate travel and expense startup, files for initial public offering",
+      "link": "https://www.cnbc.com/2025/09/19/navan-files-for-ipo-public-offering.html",
+      "summary": "Business travel and expense startup Navan has filed for an initial public offering, reporting an annual revenue rate surpassing $600 million.",
+      "published": "Fri, 19 Sep 2025 20:36:07 GMT",
+      "content": "Business travel and expense startup Navan has filed for an initial public offering, reporting an annual revenue rate surpassing $600 million.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "39554123b5ecdcd54ca778d1282d65c5",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NAVAN FILES FOR IPO WITH $600M+ ANNUAL REVENUE RATE 🚀\n\n- Navan, corporate travel startup, files for IPO 🛫\n- Annual revenue rate exceeds $600 million 💰\n- Company aims to go public to expand operations 🌎\n- IPO filing indicates strong financial performance 📈\n- Navan positioned for growth in the travel sector 🚀\n\nTAKEAWAY: Navan's IPO filing with a revenue rate exceeding $600 million showcases strong financial performance and signals growth opportunities in the corporate travel industry.",
+      "exported_at": "2025-09-19T16:39:28.442816",
       "continuous_session": true
     }
   ]
