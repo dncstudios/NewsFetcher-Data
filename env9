@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-19T08:45:05.789104",
-    "total_articles": 1412,
-    "new_articles_in_last_fetch": 1412,
+    "created_at": "2025-09-19T08:50:14.494926",
+    "total_articles": 1413,
+    "new_articles_in_last_fetch": 1413,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -18348,6 +18348,19 @@
       "hash": "e012d895147283c0e02827475b4e9dd8",
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "exported_at": "2025-09-19T08:45:05.772031",
+      "continuous_session": true
+    },
+    {
+      "title": "Kashkari advocates two more rate cuts this year as he sees limited tariff impact on inflation",
+      "link": "https://www.cnbc.com/2025/09/19/kashkari-advocates-two-more-rate-cuts-this-year-as-he-sees-limited-tariff-impact-on-inflation.html",
+      "summary": "Minneapolis Federal Reserve President Neel Kashkari spoke Friday on CNBC's \"Squawk Box.\"",
+      "published": "Fri, 19 Sep 2025 12:47:39 GMT",
+      "content": "Minneapolis Federal Reserve President Neel Kashkari spoke Friday on CNBC's \"Squawk Box.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3b0d88609f7bb540e89374d926505b9a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: KASHKARI PUSHES FOR 2 RATE CUTS DESPITE LIMITED TARIFF IMPACT 🚀\n\n- Neel Kashkari urges two more rate cuts in 2019 📉\n- Sees minimal tariff effect on inflation 📉\n- Advocates for proactive monetary policy 🎯\n- Addressing concerns on economic growth ⚠️\n- Speaks on CNBC's \"Squawk Box\" 💬\n\nTAKEAWAY: Neel Kashkari's call for two rate cuts this year, citing limited tariff impact on inflation, emphasizes the need for proactive monetary policies to support economic growth.",
+      "exported_at": "2025-09-19T08:50:14.478211",
       "continuous_session": true
     }
   ]
