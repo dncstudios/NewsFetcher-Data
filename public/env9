@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-19T19:01:42.522256",
-    "total_articles": 1482,
-    "new_articles_in_last_fetch": 1482,
+    "created_at": "2025-09-19T19:16:59.791051",
+    "total_articles": 1483,
+    "new_articles_in_last_fetch": 1483,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -19257,6 +19257,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CRAMER'S INSIGHTS: NEW INFLATION DATA & MICRON, COSTCO EARNINGS 🚀\n\n- Anticipation for fresh inflation figures 📊\n- Market focus on Micron and Costco earnings reports 💰\n- Investors eager for Jim Cramer's Wall Street guidance 🎯\n\nTAKEAWAY: Brace for a week filled with market-moving events as new inflation data, and Micron and Costco earnings reports take center stage with Jim Cramer's expert insights.",
       "exported_at": "2025-09-19T19:01:42.422036",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump is threatening broadcast station licenses — what that means, and how it all works",
+      "link": "https://www.cnbc.com/2025/09/19/trump-threatening-broadcast-station-licenses-explained.html",
+      "summary": "Networks such as Disney's ABC, Paramount Skydance's CBS, Comcast Corp.'s NBC and Fox Corp.'s Fox must have an over-the-air spectrum license from the government.",
+      "published": "Fri, 19 Sep 2025 23:16:21 GMT",
+      "content": "Networks such as Disney's ABC, Paramount Skydance's CBS, Comcast Corp.'s NBC and Fox Corp.'s Fox must have an over-the-air spectrum license from the government.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "19e788fb50dcd63b0922fc5cb07b5b2d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP THREATENS BROADCAST STATION LICENSES: IMPACT & PROCESS ⚠️\n\n- Networks like ABC, CBS, NBC, and Fox need govt over-the-air spectrum licenses 📡\n- Trump's threat raises concerns about potential license revocation 🤔\n- Uncertainty looms over the consequences for major broadcasting networks 📺\n\nTAKEAWAY: Trump's threat to broadcast station licenses creates uncertainty and potential risks for major networks like ABC, CBS, NBC, and Fox.",
+      "exported_at": "2025-09-19T19:16:59.678626",
       "continuous_session": true
     }
   ]
