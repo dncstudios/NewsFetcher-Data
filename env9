@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-19T15:22:51.248980",
-    "total_articles": 1464,
-    "new_articles_in_last_fetch": 1464,
+    "created_at": "2025-09-19T15:33:04.338498",
+    "total_articles": 1465,
+    "new_articles_in_last_fetch": 1465,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -19023,6 +19023,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: COINBASE CEO: KEVIN DURANT RECOVERS BITCOIN ACCOUNT 🚀\n\n- Major cryptocurrencies close the week in the red 📉\n- NBA star Kevin Durant regains access to his locked bitcoin account 🔓\n- Brian Armstrong reveals Durant's account recovery after years 🕰️\n- Andrew McCormick from eToro U.S. updates on Capitol Hill crypto legislation talks 💬\n- Market reacts to the news with interest and speculation 🧐\n\nTAKEAWAY: Coinbase CEO Brian Armstrong's announcement of NBA star Kevin Durant recovering his bitcoin account generates excitement and interest in the crypto market.",
       "exported_at": "2025-09-19T15:22:51.136915",
+      "continuous_session": true
+    },
+    {
+      "title": "StubHub shares stumble for third day as post-IPO slump deepens",
+      "link": "https://www.cnbc.com/2025/09/19/stubhub-shares-stumble-for-third-day-as-post-ipo-slump-deepens.html",
+      "summary": "StubHub shares fell for a third straight day after the company's IPO, a contrast to other recent debuts like Klarna, Figma and Circle.",
+      "published": "Fri, 19 Sep 2025 19:28:13 GMT",
+      "content": "StubHub shares fell for a third straight day after the company's IPO, a contrast to other recent debuts like Klarna, Figma and Circle.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6c24b3a5681f385642e324fe2a43b2e7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STUBHUB SHARES SLUMP FOR THIRD DAY POST-IPO 📉\n\n- StubHub shares drop for the third consecutive day 📉\n- Contrast to recent successful IPOs like Klarna, Figma, and Circle 💥\n- Investors observe a deepening post-IPO slump 📉\n\nTAKEAWAY: StubHub's shares face a challenging start post-IPO, in contrast to recent successful debuts of other companies.",
+      "exported_at": "2025-09-19T15:33:04.224966",
       "continuous_session": true
     }
   ]
