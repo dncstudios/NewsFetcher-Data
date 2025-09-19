@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-19T03:15:06.525192",
-    "total_articles": 1398,
-    "new_articles_in_last_fetch": 1398,
+    "created_at": "2025-09-19T04:36:13.337231",
+    "total_articles": 1399,
+    "new_articles_in_last_fetch": 1399,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -18168,6 +18168,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TIKTOK DEAL BOOSTS BYTEDANCE VALUATION 🚀\n\n- ByteDance valuation surges on TikTok potential deal 📈\n- Investor confidence grows with Chinese tech stock rally 🇨🇳\n- Beijing's support for private sector boosts ByteDance 🎯\n\nTAKEAWAY: ByteDance's rising valuation from the TikTok deal showcases growing investor confidence in Chinese tech stocks, fueled by Beijing's backing of the private sector.",
       "exported_at": "2025-09-19T03:15:06.417864",
+      "continuous_session": true
+    },
+    {
+      "title": "Potential TikTok deal boosts ByteDance valuation as investor confidence grows",
+      "link": "https://www.cnbc.com/2025/09/19/bytedance-valuation-trends-higher-with-tiktok-deal-raising-optimism-.html",
+      "summary": "ByteDance has gained traction among investors this year amid a renewed rally in Chinese tech stocks and Beijing's pledge to support the private sector.",
+      "published": "Fri, 19 Sep 2025 08:35:57 GMT",
+      "content": "ByteDance has gained traction among investors this year amid a renewed rally in Chinese tech stocks and Beijing's pledge to support the private sector.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ecca2ccc6278ba61cae818dd7b381e35",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TIKTOK DEAL BOOSTS BYTEDANCE VALUATION 🚀\n\n- ByteDance valuation surges on TikTok potential deal 📈\n- Investor confidence grows with Chinese tech stock rally 🇨🇳\n- Beijing's support for private sector boosts ByteDance 🎯\n\nTAKEAWAY: ByteDance's rising valuation from the TikTok deal showcases growing investor confidence in Chinese tech stocks, fueled by Beijing's backing of the private sector.",
+      "exported_at": "2025-09-19T04:36:13.231656",
       "continuous_session": true
     }
   ]
