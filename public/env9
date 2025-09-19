@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-19T08:40:00.413629",
-    "total_articles": 1410,
-    "new_articles_in_last_fetch": 1410,
+    "created_at": "2025-09-19T08:45:05.789104",
+    "total_articles": 1412,
+    "new_articles_in_last_fetch": 1412,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -18324,6 +18324,30 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCKS MAKING BIGGEST PREMARKET MOVES: FEDEX, INTEL, LENNAR, APPLE 🚀\n\n- FedEx, Intel, Lennar, Apple among top movers 📈\n- Pre-market activity indicates significant shifts ⚡️\n- Investors eyeing early indicators for market trends 🔍\n- Volatility expected as key players show movement 🌪️\n\nTAKEAWAY: Early premarket moves from FedEx, Intel, Lennar, and Apple highlight potential market shifts, sparking investor interest and signaling potential volatility ahead.",
       "exported_at": "2025-09-19T08:40:00.396215",
+      "continuous_session": true
+    },
+    {
+      "title": "Here are Friday&apos;s biggest analyst calls: Nvidia, Apple, Tesla, Intel, Micron, UPS, Stellantis, Toast, CoreWeave &amp; more",
+      "link": "https://www.cnbc.com/2025/09/19/friday-stocks-by-analyst-calls-like-nvidia.html",
+      "summary": "Here are Friday's biggest calls on Wall Street.",
+      "published": "Fri, 19 Sep 2025 12:19:32 GMT",
+      "content": "Here are Friday's biggest calls on Wall Street.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ec69da1e1fff56621d9ee17d1d682bfb",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "exported_at": "2025-09-19T08:45:05.772016",
+      "continuous_session": true
+    },
+    {
+      "title": "Jim Cramer&apos;s top 10 things to watch in the stock market Friday",
+      "link": "https://www.cnbc.com/2025/09/19/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday.html",
+      "summary": "The iPhone 17 and Air go on sale today.",
+      "published": "Fri, 19 Sep 2025 12:37:43 GMT",
+      "content": "The iPhone 17 and Air go on sale today.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e012d895147283c0e02827475b4e9dd8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "exported_at": "2025-09-19T08:45:05.772031",
       "continuous_session": true
     }
   ]
