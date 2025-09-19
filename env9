@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-19T10:01:46.932126",
-    "total_articles": 1426,
-    "new_articles_in_last_fetch": 1426,
+    "created_at": "2025-09-19T10:42:22.824063",
+    "total_articles": 1429,
+    "new_articles_in_last_fetch": 1429,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -18529,6 +18529,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: RFK JR.'S VACCINE PANEL DELAYS VOTE ON HEPATITIS B SHOT ⚠️\n\n- Panel reviews 1991 recommendation on delaying babies' 1st hep B shot\n- Advisory Committee on Immunization Practices mulls revision\n- Uncertainty surrounds decision to postpone vote\n\nTAKEAWAY: RFK Jr.'s vaccine panel postpones vote on delaying babies' first hepatitis B shot, raising uncertainty about potential revisions to a long-standing recommendation.",
       "exported_at": "2025-09-19T10:01:46.914234",
+      "continuous_session": true
+    },
+    {
+      "title": "Paramount Skydance bid for Warner Bros. Discovery could be in the range of $22 to $24 per share, sources say",
+      "link": "https://www.cnbc.com/2025/09/19/paramount-skydance-warner-bros-discovery-bid-update.html",
+      "summary": "Faber reported Friday a formal bid could be about 70% to 80% cash, backed by Larry Ellison, the father of Paramount Skydance CEO David Ellison.",
+      "published": "Fri, 19 Sep 2025 14:34:53 GMT",
+      "content": "Faber reported Friday a formal bid could be about 70% to 80% cash, backed by Larry Ellison, the father of Paramount Skydance CEO David Ellison.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "881b15d42a765caa6c9cca0ea27370fb",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PARAMOUNT SKYDANCE EYES WARNER BROS. DISCOVERY WITH $22-$24/SHARE BID 🚀\n\n- Bid potential: $22-$24 per share for Warner Bros. Discovery 💰\n- Expected bid structure: 70%-80% cash, rest undisclosed 💸\n- Larry Ellison, father of CEO David Ellison, backing the bid 💪\n- Bid could shake up entertainment industry dynamics 🎬\n- Paramount Skydance aims for major acquisition 🌟\n- Sources reveal bid details, creating buzz in the market 📈\n\nTAKEAWAY: Paramount Skydance's potential bid for Warner Bros. Discovery at $22-$24 per share, backed by Larry Ellison, generates excitement and could reshape the entertainment landscape.",
+      "exported_at": "2025-09-19T10:42:22.806204",
+      "continuous_session": true
+    },
+    {
+      "title": "This chipmaker equipment stock could be a big beneficiary of Nvidia-Intel deal, says BofA",
+      "link": "https://www.cnbc.com/2025/09/19/this-chipmaker-equipment-stock-could-be-a-big-beneficiary-of-nvidia-intel-deal-says-bofa.html",
+      "summary": "ASML is poised to grow as semiconductor equipment demand picks up, particularly following Nvidia and Intel's $5 billion deal, according to Bank of America.",
+      "published": "Fri, 19 Sep 2025 14:38:57 GMT",
+      "content": "ASML is poised to grow as semiconductor equipment demand picks up, particularly following Nvidia and Intel's $5 billion deal, according to Bank of America.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b73ae70d5cd6be1fd90580dbdd44d1fc",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASML SET TO SURGE ON NVIDIA-INTEL DEAL BOOST 🚀\n\n- ASML positioned to benefit from increased semiconductor equipment demand\n- BofA predicts growth post $5 billion Nvidia-Intel deal\n- ASML likely to capitalize on industry upswing\n\nTAKEAWAY: ASML's potential surge fueled by the Nvidia-Intel deal signals a promising future amidst rising semiconductor equipment demand.",
+      "exported_at": "2025-09-19T10:42:22.806232",
+      "continuous_session": true
+    },
+    {
+      "title": "Trade war &apos;tariff hacking&apos;: Retailers get creative with consumer prices, but it could draw scrutiny",
+      "link": "https://www.cnbc.com/2025/09/19/trade-war-tariffs-consumer-prices-inflation-retail.html",
+      "summary": "From luxury goods to mass-market items, retail distributors are using a tariff arbitrage strategy to get consumers closer to wholesale prices.",
+      "published": "Fri, 19 Sep 2025 14:38:17 GMT",
+      "content": "From luxury goods to mass-market items, retail distributors are using a tariff arbitrage strategy to get consumers closer to wholesale prices.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "41f5b97358359c99e3bb144f27ebf122",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRADE WAR TARIFF HACKING: RETAILERS LOWER PRICES WITH WHOLESALE MIDDLEMEN ⚡️\n\n- Retailers adopt tariff arbitrage to offer near-wholesale prices 🛍️\n- Strategy aims to mitigate impact of trade war on consumer costs 💰\n- Luxury and mass-market retailers both leveraging this approach 🌟\n- Wholesale middlemen help maintain competitive consumer prices 🛒\n- Tariff arbitrage strategy gaining popularity in retail distribution 📈\n\nTAKEAWAY: Retailers are creatively using wholesale middlemen and tariff arbitrage to keep consumer prices down amidst the trade war, ensuring competitive pricing across luxury and mass-market segments.",
+      "exported_at": "2025-09-19T10:42:22.806237",
       "continuous_session": true
     }
   ]
