@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-19T17:09:55.145804",
-    "total_articles": 1475,
-    "new_articles_in_last_fetch": 1475,
+    "created_at": "2025-09-19T17:30:13.004480",
+    "total_articles": 1476,
+    "new_articles_in_last_fetch": 1476,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -19166,6 +19166,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NAVAN FILES FOR IPO WITH $600M+ ANNUAL REVENUE RATE 🚀\n\n- Navan, corporate travel startup, files for IPO 🛫\n- Annual revenue rate exceeds $600 million 💰\n- Company aims to go public to expand operations 🌎\n- IPO filing indicates strong financial performance 📈\n- Navan positioned for growth in the travel sector 🚀\n\nTAKEAWAY: Navan's IPO filing with a revenue rate exceeding $600 million showcases strong financial performance and signals growth opportunities in the corporate travel industry.",
       "exported_at": "2025-09-19T17:09:55.031811",
+      "continuous_session": true
+    },
+    {
+      "title": "Kevin Durant has access restored to his Coinbase bitcoin account, after years of being locked out",
+      "link": "https://www.cnbc.com/2025/09/19/bitcoin-coinbase-kevin-durant-nba-password.html",
+      "summary": "Kevin Durant has regained access to his Coinbase account containing bitcoins.",
+      "published": "Fri, 19 Sep 2025 21:27:49 GMT",
+      "content": "Kevin Durant has regained access to his Coinbase account containing bitcoins.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "140120aa4eb144cdbeee212fcb796dd2",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: KEVIN DURANT REGAINS ACCESS TO COINBASE BITCOIN ACCOUNT 🚀\n\n- Durant recovers access to his long-lost Coinbase account 🎉\n- Account holds valuable bitcoins after years of inaccessible 📈\n- His regained access highlights the importance of secure crypto storage 🔒\n\nTAKEAWAY: Kevin Durant's successful recovery of his Coinbase bitcoin account showcases the significance of secure crypto storage and the potential value of long-lost assets.",
+      "exported_at": "2025-09-19T17:30:12.898605",
       "continuous_session": true
     }
   ]
