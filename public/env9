@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-19T07:44:01.292541",
-    "total_articles": 1404,
-    "new_articles_in_last_fetch": 1404,
+    "created_at": "2025-09-19T07:49:10.635041",
+    "total_articles": 1406,
+    "new_articles_in_last_fetch": 1406,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -18246,6 +18246,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SHOULD YOU REFINANCE AFTER THE FED RATE CUT? 🏡\n\n- Fed's rate cut may lower borrowing costs for refinancing 💰\n- Experts suggest considering refinancing options now 📉\n- Consumers could benefit from reduced interest rates 📉\n\nTAKEAWAY: With the recent Fed rate cut, consumers should explore refinancing options to potentially lower borrowing costs. 🏠",
       "exported_at": "2025-09-19T07:44:01.274396",
+      "continuous_session": true
+    },
+    {
+      "title": "Intel gets a downgrade from Citi, which says Nvidia partnership impact will be limited",
+      "link": "https://www.cnbc.com/2025/09/19/intel-gets-a-downgrade-from-citi-which-says-nvidia-partnership-impact-will-be-limited.html",
+      "summary": "Intel is poised to fall as it struggles to compete with rivals, despite securing a $5 billion investment pledge from Nvidia, according to Citi.",
+      "published": "Fri, 19 Sep 2025 11:45:57 GMT",
+      "content": "Intel is poised to fall as it struggles to compete with rivals, despite securing a $5 billion investment pledge from Nvidia, according to Citi.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8687839e0fe06dd1dcf5e3d830782f06",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: INTEL DOWNGRADED BY CITI AMID LIMITED IMPACT OF NVIDIA PARTNERSHIP 🚨\n\n- Citi downgrades Intel due to limited impact of Nvidia deal 💔\n- Intel faces competition challenges despite $5 billion Nvidia investment 💰\n- Struggles to stay competitive with industry rivals 📉\n- Uncertainty looms over Intel's future growth prospects 🤷‍♂️\n\nTAKEAWAY: Despite securing a significant investment from Nvidia, Intel faces challenges and a downgrade by Citi due to limited expected impact from the partnership.",
+      "exported_at": "2025-09-19T07:49:10.617876",
+      "continuous_session": true
+    },
+    {
+      "title": "3 smart ways to pay down debt after the Fed’s rate cut",
+      "link": "https://www.cnbc.com/2025/09/19/fed-rate-cut-how-to-pay-down-debt.html",
+      "summary": "With the Federal Reserve cutting interest rates, some borrowers may see lower rates. Here are three strategies to pay down debt.",
+      "published": "Fri, 19 Sep 2025 11:45:01 GMT",
+      "content": "With the Federal Reserve cutting interest rates, some borrowers may see lower rates. Here are three strategies to pay down debt.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ab71765548632f04d82933c7569f28fe",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 3 SMART STRATEGIES TO PAY DOWN DEBT AFTER FED'S RATE CUT 🚀\n\n- Lower interest rates may benefit borrowers 💰\n- Strategy 1: Focus on high-interest debt first 🔍\n- Strategy 2: Consider debt consolidation options 🔄\n- Strategy 3: Increase payments to reduce debt faster 💪\n\nTAKEAWAY: The Fed's rate cut opens opportunities for borrowers to tackle debt strategically, focusing on high-interest debt, considering consolidation, and accelerating payments for faster debt reduction.",
+      "exported_at": "2025-09-19T07:49:10.617897",
       "continuous_session": true
     }
   ]
