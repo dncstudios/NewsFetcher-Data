@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-19T10:42:22.824063",
-    "total_articles": 1429,
-    "new_articles_in_last_fetch": 1429,
+    "created_at": "2025-09-19T11:17:52.321484",
+    "total_articles": 1430,
+    "new_articles_in_last_fetch": 1430,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -18568,6 +18568,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRADE WAR TARIFF HACKING: RETAILERS LOWER PRICES WITH WHOLESALE MIDDLEMEN ⚡️\n\n- Retailers adopt tariff arbitrage to offer near-wholesale prices 🛍️\n- Strategy aims to mitigate impact of trade war on consumer costs 💰\n- Luxury and mass-market retailers both leveraging this approach 🌟\n- Wholesale middlemen help maintain competitive consumer prices 🛒\n- Tariff arbitrage strategy gaining popularity in retail distribution 📈\n\nTAKEAWAY: Retailers are creatively using wholesale middlemen and tariff arbitrage to keep consumer prices down amidst the trade war, ensuring competitive pricing across luxury and mass-market segments.",
       "exported_at": "2025-09-19T10:42:22.806237",
+      "continuous_session": true
+    },
+    {
+      "title": "House passes GOP bill to avert a shutdown, but Senate looks likely to reject it",
+      "link": "https://www.cnbc.com/2025/09/19/house-passes-gop-bill-to-avert-a-shutdown-but-senate-looks-likely-to-reject-it.html",
+      "summary": "The Republican bill would keep the government from shutting down at the end of this month, buying another seven weeks for the parties to negotiate.",
+      "published": "Fri, 19 Sep 2025 15:08:33 GMT",
+      "content": "The Republican bill would keep the government from shutting down at the end of this month, buying another seven weeks for the parties to negotiate.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4a7141786edde461abd1ddfd15bdd687",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: HOUSE PASSES GOP BILL TO AVERT SHUTDOWN, SENATE LIKELY TO REJECT ⚠️\n\n- Republican bill aims to prevent government shutdown at month-end\n- Bill buys 7 more weeks for parties to negotiate and find solutions\n- Senate expected to reject the bill despite House approval\n- Potential uncertainty looms over government funding situation\n\nTAKEAWAY: The House's passage of the GOP bill to avert a shutdown buys time for negotiations, but Senate rejection may lead to uncertainty in government funding.",
+      "exported_at": "2025-09-19T11:17:52.303212",
       "continuous_session": true
     }
   ]
