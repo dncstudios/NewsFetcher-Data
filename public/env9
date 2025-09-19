@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-19T11:23:02.849265",
-    "total_articles": 1433,
-    "new_articles_in_last_fetch": 1433,
+    "created_at": "2025-09-19T11:38:17.834827",
+    "total_articles": 1434,
+    "new_articles_in_last_fetch": 1434,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -18620,6 +18620,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP, XI DISCUSS TIKTOK DEAL 🚀\n\n- Trump and Xi aim to finalize TikTok deal to prevent shutdown 📱\n- Call crucial to keeping TikTok operational in the U.S. 🇺🇸\n- Deal negotiation between U.S. and China at a critical stage 🔍\n\nTAKEAWAY: Trump and Xi's call signifies a crucial step towards securing a deal to keep TikTok operational in the U.S., avoiding potential shutdown.",
       "exported_at": "2025-09-19T11:23:02.832174",
+      "continuous_session": true
+    },
+    {
+      "title": "Trade war &apos;tariff hacking&apos;: Retailers get creative with consumer shipping strategies, but it could draw scrutiny",
+      "link": "https://www.cnbc.com/2025/09/19/trade-war-tariffs-consumer-prices-inflation-retail.html",
+      "summary": "From luxury goods to mass-market items, retail distributors are using a tariff arbitrage strategy to get consumers closer to wholesale prices.",
+      "published": "Fri, 19 Sep 2025 15:36:18 GMT",
+      "content": "From luxury goods to mass-market items, retail distributors are using a tariff arbitrage strategy to get consumers closer to wholesale prices.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6e6ac696763caee9d94e13e80d464693",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRADE WAR TARIFF HACKING: RETAILERS LOWER PRICES WITH WHOLESALE MIDDLEMEN ⚡️\n\n- Retailers adopt tariff arbitrage to offer near-wholesale prices 🛍️\n- Strategy aims to mitigate impact of trade war on consumer costs 💰\n- Luxury and mass-market retailers both leveraging this approach 🌟\n- Wholesale middlemen help maintain competitive consumer prices 🛒\n- Tariff arbitrage strategy gaining popularity in retail distribution 📈\n\nTAKEAWAY: Retailers are creatively using wholesale middlemen and tariff arbitrage to keep consumer prices down amidst the trade war, ensuring competitive pricing across luxury and mass-market segments.",
+      "exported_at": "2025-09-19T11:38:17.817412",
       "continuous_session": true
     }
   ]
