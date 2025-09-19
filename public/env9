@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-19T09:56:36.640396",
-    "total_articles": 1424,
-    "new_articles_in_last_fetch": 1424,
+    "created_at": "2025-09-19T10:01:46.932126",
+    "total_articles": 1426,
+    "new_articles_in_last_fetch": 1426,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -18503,6 +18503,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TESLA UPGRADED BY BAIRD AS CEO SETS 'LOFTY' GOALS 🚀\n\n- Baird upgrades Tesla stock rating post $1 trillion CEO pay package 💰\n- Elon Musk unveils ambitious product targets 🎯\n- Tesla's stock rating boosted by Baird's confidence ✅\n- CEO Musk's goals contribute to positive outlook 🚀\n- Baird impressed by Tesla's ambitious vision ⚡️\n- Upgrade follows CEO Musk's strategic moves 🔥\n\nTAKEAWAY: Tesla receives a stock upgrade from Baird as CEO Elon Musk sets ambitious product targets, fueling confidence and excitement in the company's future.",
       "exported_at": "2025-09-19T09:56:36.622262",
+      "continuous_session": true
+    },
+    {
+      "title": "Apple CEO Tim Cook says iPhone price hikes are not tied to tariffs",
+      "link": "https://www.cnbc.com/2025/09/19/apple-ceo-tim-cook-iphone-price-increase-tariffs.html",
+      "summary": "Apple CEO Tim Cook said the latest iPhone price hikes aren't connected to President Donald Trump's sweeping tariff plans.",
+      "published": "Fri, 19 Sep 2025 13:52:25 GMT",
+      "content": "Apple CEO Tim Cook said the latest iPhone price hikes aren't connected to President Donald Trump's sweeping tariff plans.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6a1387616a8282124cd24625943ecf8c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: APPLE CEO TIM COOK DENIES IPHONE PRICE HIKES LINKED TO TARIFFS 🚫\n\n- Tim Cook clarifies iPhone price increases not due to Trump's tariffs 📱\n- Denies connection between tariff plans and recent iPhone cost adjustments 🔍\n- Cook emphasizes independent reasons for pricing strategy 🎯\n\nTAKEAWAY: Apple CEO Tim Cook dismisses any correlation between iPhone price hikes and President Trump's tariff policies, citing separate reasons for the adjustments.",
+      "exported_at": "2025-09-19T10:01:46.914202",
+      "continuous_session": true
+    },
+    {
+      "title": "RFK Jr.&apos;s vaccine panel postpones vote on whether to delay babies&apos; first hepatitis B shot",
+      "link": "https://www.cnbc.com/2025/09/19/rfk-jrs-vaccine-panel-postpones-vote-on-hepatitis-b-shot-for-babies.html",
+      "summary": "The Advisory Committee on Immunization Practices is considering revising a recommendation that has been in place since 1991.",
+      "published": "Fri, 19 Sep 2025 13:47:29 GMT",
+      "content": "The Advisory Committee on Immunization Practices is considering revising a recommendation that has been in place since 1991.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "474730eb9002f5985e980fa89b8bdae3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: RFK JR.'S VACCINE PANEL DELAYS VOTE ON HEPATITIS B SHOT ⚠️\n\n- Panel reviews 1991 recommendation on delaying babies' 1st hep B shot\n- Advisory Committee on Immunization Practices mulls revision\n- Uncertainty surrounds decision to postpone vote\n\nTAKEAWAY: RFK Jr.'s vaccine panel postpones vote on delaying babies' first hepatitis B shot, raising uncertainty about potential revisions to a long-standing recommendation.",
+      "exported_at": "2025-09-19T10:01:46.914234",
       "continuous_session": true
     }
   ]
