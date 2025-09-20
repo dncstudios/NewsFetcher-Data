@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-19T19:16:59.791051",
-    "total_articles": 1483,
-    "new_articles_in_last_fetch": 1483,
+    "created_at": "2025-09-19T21:28:46.121481",
+    "total_articles": 1484,
+    "new_articles_in_last_fetch": 1484,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -19270,6 +19270,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP THREATENS BROADCAST STATION LICENSES: IMPACT & PROCESS ⚠️\n\n- Networks like ABC, CBS, NBC, and Fox need govt over-the-air spectrum licenses 📡\n- Trump's threat raises concerns about potential license revocation 🤔\n- Uncertainty looms over the consequences for major broadcasting networks 📺\n\nTAKEAWAY: Trump's threat to broadcast station licenses creates uncertainty and potential risks for major networks like ABC, CBS, NBC, and Fox.",
       "exported_at": "2025-09-19T19:16:59.678626",
+      "continuous_session": true
+    },
+    {
+      "title": "Luxury face cream from a pizza parlor: Inside fraud on Walmart.com",
+      "link": "https://www.cnbc.com/2025/09/19/walmart-marketplace-fakes-scams-investigation.html",
+      "summary": "Walmart's marketplace is booming, but the strategy poses risks as a CNBC investigation found  lax vetting contributed to fraud and fakes on the site.",
+      "published": "Sat, 20 Sep 2025 01:25:37 GMT",
+      "content": "Walmart's marketplace is booming, but the strategy poses risks as a CNBC investigation found  lax vetting contributed to fraud and fakes on the site.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "20eb64e06f810df275fd75d2a6df11c7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WALMART'S MARKETPLACE BOOM FUELED BY LAX VETTING RISKS ⚠️\n\n- Walmart's marketplace surges despite lax vetting risks 📈\n- CNBC finds fraud and fakes due to vetting loopholes 🕵️‍♂️\n- Booming strategy faces challenges with counterfeit products 🔍\n- Lax vetting raises concerns over marketplace integrity ⚠️\n- Walmart's growth overshadowed by risks of fraud and counterfeit 🛍️\n- CNBC investigation highlights dangers of loose vetting policies 🔍\n\nTAKEAWAY: Walmart's marketplace success is shadowed by risks of fraud and fakes due to lax vetting policies, challenging its integrity and growth potential.",
+      "exported_at": "2025-09-19T21:28:46.022525",
       "continuous_session": true
     }
   ]
