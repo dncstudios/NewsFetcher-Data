@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-20T09:34:20.824441",
-    "total_articles": 1500,
-    "new_articles_in_last_fetch": 1500,
+    "created_at": "2025-09-20T10:20:02.960904",
+    "total_articles": 1502,
+    "new_articles_in_last_fetch": 1502,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -19491,6 +19491,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: THE FED CUTS INTEREST RATE, YET LONG-TERM RATES RISE 🚨\n\n- Fed reduces short-term rates, but 10- and 30-year Treasury yields increase 📈\n- Unexpected rise in long-term rates affects mortgages 🏠\n- Discrepancy between short and long-term rates raises concerns ⚠️\n\nTAKEAWAY: Despite the Fed's interest rate cut, long-term rates, impacting mortgages, unexpectedly rose, causing concern and signaling market complexity.",
       "exported_at": "2025-09-20T09:34:20.710622",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump wields ‘golden share’ to halt U.S. Steel plant shutdown, WSJ reports",
+      "link": "https://www.cnbc.com/2025/09/20/trump-golden-share-us-steel.html",
+      "summary": "The intervention marked Trump's first use of so-called \"golden share\" rights, a condition of the $14.1 billion takeover cleared in June.",
+      "published": "Sat, 20 Sep 2025 14:14:45 GMT",
+      "content": "The intervention marked Trump's first use of so-called \"golden share\" rights, a condition of the $14.1 billion takeover cleared in June.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9e4f39f852908b8fdfac953d4cb8d0ac",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP'S 'GOLDEN SHARE' SAVES U.S. STEEL PLANT 🚀\n\n- Trump's intervention halts U.S. Steel plant shutdown 🛑\n- First use of \"golden share\" rights post $14.1B takeover 💰\n- WSJ reports Trump's decisive action in plant rescue 📰\n\nTAKEAWAY: Trump's strategic move with the \"golden share\" rescues U.S. Steel plant, showcasing his proactive approach to economic decisions.",
+      "exported_at": "2025-09-20T10:20:02.890936",
+      "continuous_session": true
+    },
+    {
+      "title": "Blackstone $135 billion bet on the U.K. is raising eyebrows",
+      "link": "https://www.cnbc.com/2025/09/19/blackstone-135-billion-bet-on-the-uk-is-raising-eyebrows.html",
+      "summary": "The asset management giant shared more detail with CNBC about where it will allocate the capital.",
+      "published": "Sat, 20 Sep 2025 14:16:21 GMT",
+      "content": "The asset management giant shared more detail with CNBC about where it will allocate the capital.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "184550fed564cb60f8065ba71420a91a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BLACKSTONE'S $135B BET ON THE U.K. RAISES EYEBROWS 🚀\n\n- Blackstone makes a massive $135-billion investment in the U.K. 🇬🇧\n- Asset management giant reveals allocation details to CNBC 💼\n- Market watchers intrigued by Blackstone's bold move 🧐\n- Speculation rises on potential impact of investment 💡\n- U.K. economy set to receive significant boost from Blackstone 💰\n- Blackstone's move draws attention and curiosity from investors 🌟\n\nTAKEAWAY: Blackstone's $135 billion investment in the U.K. captures market attention and raises speculation on its potential impact, signaling confidence in the U.K. economy.",
+      "exported_at": "2025-09-20T10:20:02.891011",
       "continuous_session": true
     }
   ]
