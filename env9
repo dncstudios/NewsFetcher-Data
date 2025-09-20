@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-20T10:25:13.056228",
-    "total_articles": 1504,
-    "new_articles_in_last_fetch": 1504,
+    "created_at": "2025-09-20T12:31:57.020804",
+    "total_articles": 1506,
+    "new_articles_in_last_fetch": 1506,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -19543,6 +19543,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: UV RAYS SNEAK IN THROUGH WINDOWS: DERMATOLOGIST WARNS ⚠️\n\n- Sun exposure possible near windows, even indoors ☀️\n- Dermatologist Dr. Adam Friedman warns of hidden UV risks 🌞\n- Important to stay protected even indoors 🏠\n\nTAKEAWAY: Sun exposure through windows is a silent threat. Protect yourself indoors to prevent UV damage.",
       "exported_at": "2025-09-20T10:25:12.939425",
+      "continuous_session": true
+    },
+    {
+      "title": "Big Tech companies, foreign governments scramble after Trump slaps $100,000 annual fee on H-1B visas",
+      "link": "https://www.cnbc.com/2025/09/20/trump-h-1b-visa-tech-foreign-governments.html",
+      "summary": "The announcement to impose a $100,000 annual fee on H-1B visas sent shockwaves through corporate America.",
+      "published": "Sat, 20 Sep 2025 16:28:47 GMT",
+      "content": "The announcement to impose a $100,000 annual fee on H-1B visas sent shockwaves through corporate America.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "00b378933570643f230136459fedc1ac",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BIG TECH & GOVTS REEL AS TRUMP IMPOSES $100K H-1B VISA FEE 💥\n\n- Big Tech & foreign govts react to $100K H-1B visa fee 🌐\n- Shockwaves ripple through corporate America 🌊\n- Companies scramble to navigate new visa cost 💸\n- Uncertainty looms over H-1B visa landscape 🤷‍♂️\n- Visa fee sparks concern and urgency in the tech industry 🔥\n- Foreign governments evaluate impact on their nationals abroad 🌍\n\nTAKEAWAY: Trump's $100,000 annual fee on H-1B visas triggers chaos in corporate America and tech sectors worldwide, fueling uncertainty and urgency.",
+      "exported_at": "2025-09-20T12:31:56.917632",
+      "continuous_session": true
+    },
+    {
+      "title": "Look inside: 24-year-old American pays just $238 to rent her apartment in the Japanese countryside",
+      "link": "https://www.cnbc.com/2025/09/20/american-japan-chiba-prefecture-apartment-tour-unlocked.html",
+      "summary": "Lexi Smith lives in a one-bedroom apartment in the Chiba Prefecture on Japan's eastern Pacific coast.",
+      "published": "Sat, 20 Sep 2025 16:00:02 GMT",
+      "content": "Lexi Smith lives in a one-bedroom apartment in the Chiba Prefecture on Japan's eastern Pacific coast.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "722475aad2e49c7850ab4213225a45e5",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: INSIDE SCOOP: AMERICAN PAYS $238 FOR JAPANESE COUNTRYSIDE APARTMENT 🏡\n\n- Lexi Smith's one-bedroom Chiba apartment costs her only $238 💸\n- Located in Japan's serene countryside 🌳\n- Chiba Prefecture sits on the eastern Pacific coast 🌊\n\nTAKEAWAY: Living the dream, Lexi Smith enjoys a picturesque Japanese countryside apartment for a steal at just $238.",
+      "exported_at": "2025-09-20T12:31:56.917736",
       "continuous_session": true
     }
   ]
