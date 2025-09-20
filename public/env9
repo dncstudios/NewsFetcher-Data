@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-20T09:24:03.658758",
-    "total_articles": 1498,
-    "new_articles_in_last_fetch": 1498,
+    "created_at": "2025-09-20T09:29:12.418916",
+    "total_articles": 1499,
+    "new_articles_in_last_fetch": 1499,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -19465,6 +19465,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WALL STREET EYEING BIG TRADE AFTER FED RATE CUT: COMMODITIES 🚀\n\n- JPMorgan predicts strong returns for commodities post Fed rate cut 💰\n- Conditions ripe for success: solid economic growth, decreasing inflation 📈\n- Wall Street intrigued by potential gains in commodities market 🤑\n\nTAKEAWAY: Wall Street sees a lucrative opportunity in commodities following the Fed rate cut, fueled by favorable economic conditions and JPMorgan's positive outlook.",
       "exported_at": "2025-09-20T09:24:03.538066",
+      "continuous_session": true
+    },
+    {
+      "title": "Intel among most overbought stocks on Wall Street after soaring this week",
+      "link": "https://www.cnbc.com/2025/09/20/intel-among-most-overbought-stocks-on-wall-street-after-soaring-this-week.html",
+      "summary": "Intel is one of the most overbought stocks on Wall Street after its $5 billion Nvidia deal, leaving it vulnerable to a pullback, a CNBC screener tool showed.",
+      "published": "Sat, 20 Sep 2025 13:20:17 GMT",
+      "content": "Intel is one of the most overbought stocks on Wall Street after its $5 billion Nvidia deal, leaving it vulnerable to a pullback, a CNBC screener tool showed.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a8af296aeeb3194441374a6f83b8b1bb",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: INTEL SOARS AFTER $5B NVIDIA DEAL, NOW AMONG MOST OVERBOUGHT STOCKS 🚀\n\n- Intel's stock overbought on Wall Street post $5B Nvidia deal 💰\n- Vulnerable to potential pullback due to soaring prices 📉\n- CNBC screener tool highlights Intel's overbought status 📈\n\nTAKEAWAY: Intel's recent surge post $5 billion Nvidia deal has propelled it to one of the most overbought stocks on Wall Street, potentially signaling vulnerability to a pullback.",
+      "exported_at": "2025-09-20T09:29:12.301086",
       "continuous_session": true
     }
   ]
