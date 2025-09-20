@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-20T12:31:57.020804",
-    "total_articles": 1506,
-    "new_articles_in_last_fetch": 1506,
+    "created_at": "2025-09-20T12:42:09.264105",
+    "total_articles": 1507,
+    "new_articles_in_last_fetch": 1507,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -19569,6 +19569,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: INSIDE SCOOP: AMERICAN PAYS $238 FOR JAPANESE COUNTRYSIDE APARTMENT 🏡\n\n- Lexi Smith's one-bedroom Chiba apartment costs her only $238 💸\n- Located in Japan's serene countryside 🌳\n- Chiba Prefecture sits on the eastern Pacific coast 🌊\n\nTAKEAWAY: Living the dream, Lexi Smith enjoys a picturesque Japanese countryside apartment for a steal at just $238.",
       "exported_at": "2025-09-20T12:31:56.917736",
+      "continuous_session": true
+    },
+    {
+      "title": "Jimmy Kimmel’s fate at ABC still up in air as talks with Disney reportedly continue",
+      "link": "https://www.cnbc.com/2025/09/20/jimmy-kimmel-disney-abc-trump-fcc.html",
+      "summary": "The late-night host is in discussions with Disney and ABC about the conditions under which his show could return to air, according to Variety.",
+      "published": "Sat, 20 Sep 2025 16:39:36 GMT",
+      "content": "The late-night host is in discussions with Disney and ABC about the conditions under which his show could return to air, according to Variety.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "068f45ed476c73dd48573239e912d9b1",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JIMMY KIMMEL'S FUTURE WITH ABC IN LIMBO 🚨\n\n- Talks ongoing between Jimmy Kimmel, Disney, and ABC 💬\n- Conditions for show's return being negotiated 🤝\n- Uncertainty surrounds Kimmel's late-night show fate 🌌\n\nTAKEAWAY: Jimmy Kimmel's future with ABC hangs in uncertainty as negotiations persist, keeping fans on the edge of their seats.",
+      "exported_at": "2025-09-20T12:42:09.139911",
       "continuous_session": true
     }
   ]
