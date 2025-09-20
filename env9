@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-20T12:42:09.264105",
-    "total_articles": 1507,
-    "new_articles_in_last_fetch": 1507,
+    "created_at": "2025-09-20T15:09:12.549637",
+    "total_articles": 1508,
+    "new_articles_in_last_fetch": 1508,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -19582,6 +19582,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JIMMY KIMMEL'S FUTURE WITH ABC IN LIMBO 🚨\n\n- Talks ongoing between Jimmy Kimmel, Disney, and ABC 💬\n- Conditions for show's return being negotiated 🤝\n- Uncertainty surrounds Kimmel's late-night show fate 🌌\n\nTAKEAWAY: Jimmy Kimmel's future with ABC hangs in uncertainty as negotiations persist, keeping fans on the edge of their seats.",
       "exported_at": "2025-09-20T12:42:09.139911",
+      "continuous_session": true
+    },
+    {
+      "title": "Don&apos;t ignore this red flag behavior in a relationship, social psychologist says: It could hurt your &apos;self-esteem and sense of self&apos;",
+      "link": "https://www.cnbc.com/2025/09/20/psychologist-dont-ignore-this-red-flag-behavior-in-a-relationship.html",
+      "summary": "Respect is fundamental in a healthy relationship, says social psychologist Sara Nasserzadeh.",
+      "published": "Sat, 20 Sep 2025 18:00:01 GMT",
+      "content": "Respect is fundamental in a healthy relationship, says social psychologist Sara Nasserzadeh.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2e24c4b117fca737362c7718754d9802",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DON'T IGNORE THIS RED FLAG BEHAVIOR IN RELATIONSHIPS, PSYCHOLOGIST WARNS ⚠️\n\n- Sara Nasserzadeh emphasizes respect as crucial in relationships 💔\n- Red flag behaviors can damage self-esteem and sense of self 🚩\n- Ignoring warning signs can lead to long-term harm 🚫\n\nTAKEAWAY: Social psychologist Sara Nasserzadeh highlights the importance of recognizing red flag behavior in relationships to prevent harm to self-esteem and sense of self.",
+      "exported_at": "2025-09-20T15:09:12.420415",
       "continuous_session": true
     }
   ]
