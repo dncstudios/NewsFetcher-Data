@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-20T15:09:12.549637",
-    "total_articles": 1508,
-    "new_articles_in_last_fetch": 1508,
+    "created_at": "2025-09-20T15:34:35.025114",
+    "total_articles": 1509,
+    "new_articles_in_last_fetch": 1509,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -19595,6 +19595,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: DON'T IGNORE THIS RED FLAG BEHAVIOR IN RELATIONSHIPS, PSYCHOLOGIST WARNS ⚠️\n\n- Sara Nasserzadeh emphasizes respect as crucial in relationships 💔\n- Red flag behaviors can damage self-esteem and sense of self 🚩\n- Ignoring warning signs can lead to long-term harm 🚫\n\nTAKEAWAY: Social psychologist Sara Nasserzadeh highlights the importance of recognizing red flag behavior in relationships to prevent harm to self-esteem and sense of self.",
       "exported_at": "2025-09-20T15:09:12.420415",
+      "continuous_session": true
+    },
+    {
+      "title": "Big Tech companies, foreign governments scramble after Trump slaps $100,000 fee on H-1B visas",
+      "link": "https://www.cnbc.com/2025/09/20/trump-h-1b-visa-tech-foreign-governments.html",
+      "summary": "The announcement to impose a $100,000 annual fee on H-1B visas sent shockwaves through corporate America.",
+      "published": "Sat, 20 Sep 2025 19:31:11 GMT",
+      "content": "The announcement to impose a $100,000 annual fee on H-1B visas sent shockwaves through corporate America.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ee86a0f90e7340dadb1db8b3700aa7c1",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BIG TECH & GOVTS REEL AS TRUMP IMPOSES $100K H-1B VISA FEE 💥\n\n- Big Tech & foreign govts react to $100K H-1B visa fee 🌐\n- Shockwaves ripple through corporate America 🌊\n- Companies scramble to navigate new visa cost 💸\n- Uncertainty looms over H-1B visa landscape 🤷‍♂️\n- Visa fee sparks concern and urgency in the tech industry 🔥\n- Foreign governments evaluate impact on their nationals abroad 🌍\n\nTAKEAWAY: Trump's $100,000 annual fee on H-1B visas triggers chaos in corporate America and tech sectors worldwide, fueling uncertainty and urgency.",
+      "exported_at": "2025-09-20T15:34:34.932736",
       "continuous_session": true
     }
   ]
