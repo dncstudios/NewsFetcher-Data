@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-20T09:29:12.418916",
-    "total_articles": 1499,
-    "new_articles_in_last_fetch": 1499,
+    "created_at": "2025-09-20T09:34:20.824441",
+    "total_articles": 1500,
+    "new_articles_in_last_fetch": 1500,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -19478,6 +19478,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: INTEL SOARS AFTER $5B NVIDIA DEAL, NOW AMONG MOST OVERBOUGHT STOCKS 🚀\n\n- Intel's stock overbought on Wall Street post $5B Nvidia deal 💰\n- Vulnerable to potential pullback due to soaring prices 📉\n- CNBC screener tool highlights Intel's overbought status 📈\n\nTAKEAWAY: Intel's recent surge post $5 billion Nvidia deal has propelled it to one of the most overbought stocks on Wall Street, potentially signaling vulnerability to a pullback.",
       "exported_at": "2025-09-20T09:29:12.301086",
+      "continuous_session": true
+    },
+    {
+      "title": "The Fed cut its interest rate, but long-term rates — including those on mortgages — went higher",
+      "link": "https://www.cnbc.com/2025/09/20/the-fed-cut-its-interest-rate-but-mortgage-costs-went-higher.html",
+      "summary": "Ten- and 30-year Treasury yields rose this week after the central bank cut its short-term interest rate.",
+      "published": "Sat, 20 Sep 2025 13:25:24 GMT",
+      "content": "Ten- and 30-year Treasury yields rose this week after the central bank cut its short-term interest rate.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8a67f74be3e69f3b1839e9bbd6e917f5",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: THE FED CUTS INTEREST RATE, YET LONG-TERM RATES RISE 🚨\n\n- Fed reduces short-term rates, but 10- and 30-year Treasury yields increase 📈\n- Unexpected rise in long-term rates affects mortgages 🏠\n- Discrepancy between short and long-term rates raises concerns ⚠️\n\nTAKEAWAY: Despite the Fed's interest rate cut, long-term rates, impacting mortgages, unexpectedly rose, causing concern and signaling market complexity.",
+      "exported_at": "2025-09-20T09:34:20.710622",
       "continuous_session": true
     }
   ]
