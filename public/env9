@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-20T05:15:15.228816",
-    "total_articles": 1490,
-    "new_articles_in_last_fetch": 1490,
+    "created_at": "2025-09-20T07:32:07.421255",
+    "total_articles": 1491,
+    "new_articles_in_last_fetch": 1491,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -19361,6 +19361,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CYBERATTACK HITS EUROPEAN AIRPORTS, DELAYS FLIGHTS ⚠️\n\n- Heathrow, Brussels, Berlin airports impacted by cyberattack ✈️🔓\n- Operations disrupted, leading to flight delays and cancellations 🚧✈️\n- Passengers facing inconvenience due to the cyber incident 🧳🛑\n\nTAKEAWAY: Cyberattack wreaks havoc on European airports like Heathrow and Brussels, causing disruptions and inconvenience for travelers.",
       "exported_at": "2025-09-20T05:15:15.109615",
+      "continuous_session": true
+    },
+    {
+      "title": "Car shoppers — following one rule can help keep costs down, CFP says",
+      "link": "https://www.cnbc.com/2025/09/20/how-the-20-4-10-car-shopping-rule-works.html",
+      "summary": "The 20-4-10 rule shows how much money a car shopper to put up front on a purchase, how long a loan should be and how much they should spend each month.",
+      "published": "Sat, 20 Sep 2025 11:30:01 GMT",
+      "content": "The 20-4-10 rule shows how much money a car shopper to put up front on a purchase, how long a loan should be and how much they should spend each month.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fa0c8907ad5ac8b003d2b927d9b77ab1",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CAR SHOPPERS, LISTEN UP! 🚗\n\n- Follow the 20-4-10 rule for car purchases 📊\n- Rule dictates upfront payment, loan duration, monthly spending 💰\n- Helps keep costs down and manage finances efficiently ✅\n\nTAKEAWAY: By adhering to the 20-4-10 rule, car shoppers can make informed decisions, reduce expenses, and maintain financial stability.",
+      "exported_at": "2025-09-20T07:32:07.315584",
       "continuous_session": true
     }
   ]
