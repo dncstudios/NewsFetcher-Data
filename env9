@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-20T03:59:06.497991",
-    "total_articles": 1488,
-    "new_articles_in_last_fetch": 1488,
+    "created_at": "2025-09-20T05:10:06.432697",
+    "total_articles": 1489,
+    "new_articles_in_last_fetch": 1489,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -19335,6 +19335,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BLACKSTONE'S $135B BET ON THE U.K. RAISES EYEBROWS 🚀\n\n- Blackstone makes a massive $135-billion investment in the U.K. 🇬🇧\n- Asset management giant reveals allocation details to CNBC 💼\n- Market watchers intrigued by Blackstone's bold move 🧐\n- Speculation rises on potential impact of investment 💡\n- U.K. economy set to receive significant boost from Blackstone 💰\n- Blackstone's move draws attention and curiosity from investors 🌟\n\nTAKEAWAY: Blackstone's $135 billion investment in the U.K. captures market attention and raises speculation on its potential impact, signaling confidence in the U.K. economy.",
       "exported_at": "2025-09-20T03:59:06.392234",
+      "continuous_session": true
+    },
+    {
+      "title": "Russian jets enter Estonia&apos;s airspace in latest test for NATO",
+      "link": "https://www.cnbc.com/2025/09/20/russian-jets-enter-estonias-airspace-in-latest-test-for-nato.html",
+      "summary": "\"Today's violation, during which three fighter jets entered our airspace, is unprecedentedly brazen,\" Estonia's Foreign Minister Margus Tsahkna said.",
+      "published": "Sat, 20 Sep 2025 09:04:50 GMT",
+      "content": "\"Today's violation, during which three fighter jets entered our airspace, is unprecedentedly brazen,\" Estonia's Foreign Minister Margus Tsahkna said.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "643ce87b4c0367e2f9e0f72100e8fb08",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: RUSSIAN JETS BREACH ESTONIA'S AIRSPACE 🚨\n\n- 3 Russian fighter jets violate Estonia's airspace\n- Estonia's Foreign Minister calls breach \"unprecedentedly brazen\"\n- Incident poses a significant test for NATO's response\n- Tensions rise as Russia challenges NATO's security\n- Heightened alert as airspace violation triggers concerns\n- NATO faces pressure to address Russia's aggressive actions\n\nTAKEAWAY: Russian jets crossing into Estonia's airspace pose a bold challenge, testing NATO's response and escalating tensions in the region.",
+      "exported_at": "2025-09-20T05:10:06.317718",
       "continuous_session": true
     }
   ]
