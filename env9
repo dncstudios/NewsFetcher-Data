@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-20T03:53:58.122719",
-    "total_articles": 1487,
-    "new_articles_in_last_fetch": 1487,
+    "created_at": "2025-09-20T03:59:06.497991",
+    "total_articles": 1488,
+    "new_articles_in_last_fetch": 1488,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -19322,6 +19322,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WORK SMARTER, NOT HARDER: CAN AI FIGHT BURNOUT? ⚠️\n\n- AI offers solutions for burnout in various industries 🤖\n- Concerns arise about AI's impact on work-life balance ⚠️\n- Balancing AI benefits with potential drawbacks is crucial 💡\n\nTAKEAWAY: While AI presents promising solutions for combating burnout, caution is needed to ensure it enhances rather than hinders work-life balance.",
       "exported_at": "2025-09-20T03:53:58.032293",
+      "continuous_session": true
+    },
+    {
+      "title": "Blackstone $135-billion bet on the U.K. is raising eyebrows",
+      "link": "https://www.cnbc.com/2025/09/19/blackstone-135-billion-bet-on-the-uk-is-raising-eyebrows.html",
+      "summary": "The asset management giant shared more detail with CNBC about where it will allocate the capital.",
+      "published": "Fri, 19 Sep 2025 13:19:46 GMT",
+      "content": "The asset management giant shared more detail with CNBC about where it will allocate the capital.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a05c8d9c603cad2f1059342911af7d14",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BLACKSTONE'S $135B BET ON THE U.K. RAISES EYEBROWS 🚀\n\n- Blackstone makes a massive $135-billion investment in the U.K. 🇬🇧\n- Asset management giant reveals allocation details to CNBC 💼\n- Market watchers intrigued by Blackstone's bold move 🧐\n- Speculation rises on potential impact of investment 💡\n- U.K. economy set to receive significant boost from Blackstone 💰\n- Blackstone's move draws attention and curiosity from investors 🌟\n\nTAKEAWAY: Blackstone's $135 billion investment in the U.K. captures market attention and raises speculation on its potential impact, signaling confidence in the U.K. economy.",
+      "exported_at": "2025-09-20T03:59:06.392234",
       "continuous_session": true
     }
   ]
