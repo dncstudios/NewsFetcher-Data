@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-19T21:28:46.121481",
-    "total_articles": 1484,
-    "new_articles_in_last_fetch": 1484,
+    "created_at": "2025-09-20T03:53:58.122719",
+    "total_articles": 1487,
+    "new_articles_in_last_fetch": 1487,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -19283,6 +19283,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WALMART'S MARKETPLACE BOOM FUELED BY LAX VETTING RISKS ⚠️\n\n- Walmart's marketplace surges despite lax vetting risks 📈\n- CNBC finds fraud and fakes due to vetting loopholes 🕵️‍♂️\n- Booming strategy faces challenges with counterfeit products 🔍\n- Lax vetting raises concerns over marketplace integrity ⚠️\n- Walmart's growth overshadowed by risks of fraud and counterfeit 🛍️\n- CNBC investigation highlights dangers of loose vetting policies 🔍\n\nTAKEAWAY: Walmart's marketplace success is shadowed by risks of fraud and fakes due to lax vetting policies, challenging its integrity and growth potential.",
       "exported_at": "2025-09-19T21:28:46.022525",
+      "continuous_session": true
+    },
+    {
+      "title": "From shopping carts to superchips: Alibaba rediscovers edge with bold billion-dollar AI pivot",
+      "link": "https://www.cnbc.com/2025/09/20/once-an-e-commerce-giant-alibaba-bets-future-on-billion-dollar-ai-overhaul.html",
+      "summary": "Once best known for e-commerce, Alibaba this month has ramped up its AI investments across robotics and related businesses.",
+      "published": "Sat, 20 Sep 2025 07:16:35 GMT",
+      "content": "Once best known for e-commerce, Alibaba this month has ramped up its AI investments across robotics and related businesses.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b28fec9b3f41c9509dee927a4acea94d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ALIBABA'S BILLION-DOLLAR AI PIVOT IGNITES NEW GROWTH 🔥\n\n- Alibaba shifts focus to AI investments in robotics 🤖\n- Bold move from e-commerce giant to explore new ventures 💪\n- Billion-dollar commitment to AI signals confidence in future 🚀\n- Redefining boundaries with strategic pivot into technology ⚡️\n- Diversification from e-commerce to AI for sustainable growth 🌱\n\nTAKEAWAY: Alibaba's pivot towards billion-dollar AI investments in robotics marks a strategic shift, showcasing confidence in future growth beyond traditional e-commerce.",
+      "exported_at": "2025-09-20T03:53:58.032133",
+      "continuous_session": true
+    },
+    {
+      "title": "Top European finance chiefs warn of &apos;casino&apos; behavior in private credit",
+      "link": "https://www.cnbc.com/2025/09/20/top-european-finance-chiefs-warn-of-casino-behavior-in-private-credit.html",
+      "summary": "Oliver Bate, chief executive of Allianz, warned of \"uncontrolled private lending\" — and of risks to the financial system akin to the financial crisis.",
+      "published": "Sat, 20 Sep 2025 07:11:01 GMT",
+      "content": "Oliver Bate, chief executive of Allianz, warned of \"uncontrolled private lending\" — and of risks to the financial system akin to the financial crisis.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "55de8db76fdcf0c69e9150777b38e9c3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TOP EUROPEAN FINANCE CHIEFS SOUND ALARM ON PRIVATE CREDIT RISKS ⚠️\n\n- Allianz CEO, Oliver Bate, cautions against uncontrolled private lending 💰\n- Risks to financial system compared to the 2008 financial crisis 📉\n- Warning of potential 'casino' behavior in private credit market 🎲\n\nTAKEAWAY: European finance leaders raise concerns over uncontrolled private lending, highlighting risks similar to the financial crisis.",
+      "exported_at": "2025-09-20T03:53:58.032275",
+      "continuous_session": true
+    },
+    {
+      "title": "Working smarter, not harder: AI could help fight burnout — but is it?",
+      "link": "https://www.cnbc.com/2025/09/20/working-smarter-not-harder-how-ai-could-help-fight-burnout-.html",
+      "summary": "Burnout is a growing concern across industries. Artificial intelligence is quietly changing the game, but not always for the better.",
+      "published": "Sat, 20 Sep 2025 07:11:52 GMT",
+      "content": "Burnout is a growing concern across industries. Artificial intelligence is quietly changing the game, but not always for the better.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f0342d38f1ecac15eeaffd4800d4c45d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WORK SMARTER, NOT HARDER: CAN AI FIGHT BURNOUT? ⚠️\n\n- AI offers solutions for burnout in various industries 🤖\n- Concerns arise about AI's impact on work-life balance ⚠️\n- Balancing AI benefits with potential drawbacks is crucial 💡\n\nTAKEAWAY: While AI presents promising solutions for combating burnout, caution is needed to ensure it enhances rather than hinders work-life balance.",
+      "exported_at": "2025-09-20T03:53:58.032293",
       "continuous_session": true
     }
   ]
