@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-20T08:43:14.628920",
-    "total_articles": 1493,
-    "new_articles_in_last_fetch": 1493,
+    "created_at": "2025-09-20T08:48:23.503653",
+    "total_articles": 1494,
+    "new_articles_in_last_fetch": 1494,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -19400,6 +19400,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: PRESSURE MOUNTS ON DISNEY OVER KIMMEL SUSPENSION ⚠️\n\n- Protests outside studios and celebs threaten ties 📢\n- Political pressure from both Republicans and Democrats ⚖️\n- Calls for boycott spread amidst controversy ⚠️\n\nTAKEAWAY: Disney is under intense scrutiny with protests, political pressure, and boycott calls over the Kimmel suspension, facing challenges from various fronts.",
       "exported_at": "2025-09-20T08:43:14.521020",
+      "continuous_session": true
+    },
+    {
+      "title": "Hands-on with the Meta Ray-Ban Display glasses",
+      "link": "https://www.cnbc.com/2025/09/20/hands-on-with-the-meta-ray-ban-display-glasses.html",
+      "summary": "CNBC tries out the $799 Meta Ray-Ban Display glasses that Mark Zuckerberg debuted during the social media company's annual Connect event.",
+      "published": "Sat, 20 Sep 2025 12:00:01 GMT",
+      "content": "CNBC tries out the $799 Meta Ray-Ban Display glasses that Mark Zuckerberg debuted during the social media company's annual Connect event.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "29e0f2f7b894f48ff20fa1676224dcc5",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: META RAY-BAN DISPLAY GLASSES: CNBC'S HANDS-ON REVIEW 🚀\n\n- CNBC tests $799 Meta Ray-Ban Display glasses\n- Glasses debuted by Mark Zuckerberg at Connect event\n- Hands-on experience with the latest tech innovation\n\nTAKEAWAY: CNBC provides an exclusive review of the $799 Meta Ray-Ban Display glasses, offering insights into the latest tech innovation by Mark Zuckerberg.",
+      "exported_at": "2025-09-20T08:48:23.387307",
       "continuous_session": true
     }
   ]
