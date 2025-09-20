@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-20T16:45:40.271963",
-    "total_articles": 1511,
-    "new_articles_in_last_fetch": 1511,
+    "created_at": "2025-09-20T17:36:27.355660",
+    "total_articles": 1512,
+    "new_articles_in_last_fetch": 1512,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -19634,6 +19634,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP AIDE DENIES JIMMY KIMMEL SUSPENSION DUE TO WH PRESSURE ⚠️\n\n- WH press sec denies Kimmel's suspension linked to Trump admin 🚫\n- Karoline Leavitt refutes claims of WH pressuring Kimmel's show 🤔\n\nTAKEAWAY: White House denies involvement in Jimmy Kimmel's suspension, addressing speculations of administration pressure.",
       "exported_at": "2025-09-20T16:45:40.159833",
+      "continuous_session": true
+    },
+    {
+      "title": "White House says TikTok&apos;s algorithm and data will be controlled &apos;by America&apos; in new deal",
+      "link": "https://www.cnbc.com/2025/09/20/trump-china-tiktok-deal.html",
+      "summary": "White House press secretary Karoline Leavitt on Saturday said that she was \"100% confident\" that the deal between the U.S. and China is finalized.",
+      "published": "Sat, 20 Sep 2025 21:35:06 GMT",
+      "content": "White House press secretary Karoline Leavitt on Saturday said that she was \"100% confident\" that the deal between the U.S. and China is finalized.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1929bc8ec40bb05081bcd0c22fcf6018",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WHITE HOUSE SECURES CONTROL OVER TIKTOK'S ALGORITHM & DATA 🚀\n\n- White House confirms full control of TikTok's algorithm and data 🛡️\n- Press secretary Leavitt expresses 100% confidence in finalized deal 💯\n- U.S. gains authority to oversee crucial aspects of TikTok's operations ✅\n\nTAKEAWAY: The White House's assurance of controlling TikTok's algorithm and data marks a significant milestone in the U.S.-China deal, ensuring greater oversight and security.",
+      "exported_at": "2025-09-20T17:36:27.246162",
       "continuous_session": true
     }
   ]
