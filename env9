@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-20T08:48:23.503653",
-    "total_articles": 1494,
-    "new_articles_in_last_fetch": 1494,
+    "created_at": "2025-09-20T09:18:52.146744",
+    "total_articles": 1495,
+    "new_articles_in_last_fetch": 1495,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -19413,6 +19413,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: META RAY-BAN DISPLAY GLASSES: CNBC'S HANDS-ON REVIEW 🚀\n\n- CNBC tests $799 Meta Ray-Ban Display glasses\n- Glasses debuted by Mark Zuckerberg at Connect event\n- Hands-on experience with the latest tech innovation\n\nTAKEAWAY: CNBC provides an exclusive review of the $799 Meta Ray-Ban Display glasses, offering insights into the latest tech innovation by Mark Zuckerberg.",
       "exported_at": "2025-09-20T08:48:23.387307",
+      "continuous_session": true
+    },
+    {
+      "title": "The 10 U.S. cities where incomes are growing the fastest—4 are in California",
+      "link": "https://www.cnbc.com/2025/09/20/us-cities-where-incomes-are-growing-the-fastest.html",
+      "summary": "Though the median household income went up by just 1% nationwide in 2024, incomes grew much faster in some major cities.",
+      "published": "Sat, 20 Sep 2025 13:00:01 GMT",
+      "content": "Though the median household income went up by just 1% nationwide in 2024, incomes grew much faster in some major cities.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "cd54530130f77f59a90dff2469f3018c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: THE 10 FASTEST-GROWING U.S. CITIES FOR INCOMES 🚀\n\n- Median household income increased by just 1% nationwide in 2024 📈\n- Some major cities experienced significantly faster income growth 💸\n- 4 out of the top 10 cities with the fastest income growth are in California 🌴\n\nTAKEAWAY: While the national median household income rose modestly, certain U.S. cities, particularly in California, saw substantial income growth, highlighting regional economic disparities.",
+      "exported_at": "2025-09-20T09:18:52.032047",
       "continuous_session": true
     }
   ]
