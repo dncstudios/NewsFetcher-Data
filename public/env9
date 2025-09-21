@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-21T12:47:51.487730",
-    "total_articles": 1534,
-    "new_articles_in_last_fetch": 1534,
+    "created_at": "2025-09-21T13:13:16.097224",
+    "total_articles": 1535,
+    "new_articles_in_last_fetch": 1535,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -19933,6 +19933,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP TO LEAD HONORING CHARLIE KIRK AT ARIZONA SERVICE 🚀\n\n- President Trump honors conservative activist Charlie Kirk 🎯\n- High-profile \"Make America Great Again\" members present ⚡️\n- Tribute event held in Arizona 🌵\n- Kirk recognized for contributions to the conservative movement ✅\n- Trump leads in paying respects to Kirk 🔥\n- Event showcases unity within conservative circles ⚡️\n\nTAKEAWAY: President Trump's leadership in honoring Charlie Kirk highlights unity and recognition within the conservative movement, showcasing a high-profile tribute event in Arizona.",
       "exported_at": "2025-09-21T12:47:51.366999",
+      "continuous_session": true
+    },
+    {
+      "title": "‘Catfish’ star Nēv Schulman shares the No. 1 skill he&apos;s taking from the show to his new career as a real estate agent",
+      "link": "https://www.cnbc.com/2025/09/21/catfish-host-nev-schulman-skills-real-estate-agent.html",
+      "summary": "Nēv Schulman has been hosting the hit MTV show \"Catfish: The TV Show\" since 2012. He started working as a New York City real estate agent in August.",
+      "published": "Sun, 21 Sep 2025 16:00:01 GMT",
+      "content": "Nēv Schulman has been hosting the hit MTV show \"Catfish: The TV Show\" since 2012. He started working as a New York City real estate agent in August.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8a0b7a773b04426fabefa217a17e360a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NĒV SCHULMAN'S TRANSITION FROM \"CATFISH\" TO REAL ESTATE 🏠\n\n- Schulman shifts from hosting \"Catfish\" to real estate 🔄\n- Showcasing skills from TV to excel in new career 💼\n- New York City real estate agent since August 2021 🗽\n\nTAKEAWAY: Nēv Schulman seamlessly transitions from hosting \"Catfish\" to excelling in his new career as a real estate agent in New York City, utilizing skills acquired from the show.",
+      "exported_at": "2025-09-21T13:13:15.981036",
       "continuous_session": true
     }
   ]
