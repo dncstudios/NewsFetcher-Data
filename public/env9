@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-21T10:05:21.903023",
-    "total_articles": 1529,
-    "new_articles_in_last_fetch": 1529,
+    "created_at": "2025-09-21T11:31:35.458807",
+    "total_articles": 1531,
+    "new_articles_in_last_fetch": 1531,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -19868,6 +19868,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: 'CHEAPER IS NOT BETTER': AVOID THESE 3 MISTAKES TO MAXIMIZE REWARDS CARDS 💳\n\n- Value over cost: Modest fee cards offer significant benefits 💰\n- Expert advice from The Points Guy founder Brian Kelly ✅\n- Mistake 1: Ignoring rewards card value for cheaper options ⚠️\n- Mistake 2: Not leveraging benefits of modest fee cards 🚨\n- Mistake 3: Missing out on maximizing rewards card perks 💸\n\nTAKEAWAY: To fully benefit from rewards cards, prioritize value over cost, leverage benefits, and maximize perks for optimal gains.",
       "exported_at": "2025-09-21T10:05:21.794004",
+      "continuous_session": true
+    },
+    {
+      "title": "Looking to invest more in their friendships, some are opening shared bank accounts",
+      "link": "https://www.cnbc.com/2025/09/21/friends-shared-bank-accounts.html",
+      "summary": "In a world where most people make financial decisions in isolation, practicing \"financial intimacy\" with friends can help strengthen those relationships.",
+      "published": "Sun, 21 Sep 2025 15:19:23 GMT",
+      "content": "In a world where most people make financial decisions in isolation, practicing \"financial intimacy\" with friends can help strengthen those relationships.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "eacd66c4ed811e8b6c519ae1d43264c8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: INVESTING IN FRIENDSHIPS: THE RISE OF SHARED BANK ACCOUNTS 💸\n\n- Trend of shared bank accounts to deepen friendships 🌟\n- \"Financial intimacy\" enhances bonds between friends 💪\n- Departing from traditional isolated financial decisions 💼\n- Strengthening relationships through joint financial planning 💰\n- Creating trust and transparency in money matters 💎\n\nTAKEAWAY: Shared bank accounts are fostering \"financial intimacy\" among friends, enhancing trust, transparency, and strengthening relationships in a unique way.",
+      "exported_at": "2025-09-21T11:31:35.356086",
+      "continuous_session": true
+    },
+    {
+      "title": "Chronic stress can age you, expert says: These 4 tips can help you decompress and live a longer, healthier life",
+      "link": "https://www.cnbc.com/2025/09/21/4-tips-to-help-you-de-stress-and-live-a-longer-healthier-life.html",
+      "summary": "On a recent episode of 10% Happier with Dan Harris, stress and optimal aging expert Elissa Epel discussed what chronic stress can do to the body.",
+      "published": "Sun, 21 Sep 2025 15:00:01 GMT",
+      "content": "On a recent episode of 10% Happier with Dan Harris, stress and optimal aging expert Elissa Epel discussed what chronic stress can do to the body.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0ca105e5c16ea910d8e7b32f865fd043",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CHRONIC STRESS CAN AGE YOU, EXPERT WARNS: 4 TIPS TO DECOMPRESS ⚡️\n\n- Chronic stress accelerates aging process, says expert\n- Expert Elissa Epel highlights negative impact on body\n- Tips shared to decompress and enhance longevity\n- Learn how to manage stress for a longer, healthier life 🧘‍♂️\n\nTAKEAWAY: Expert Elissa Epel warns about the aging effects of chronic stress and offers crucial tips to decompress and improve overall well-being.",
+      "exported_at": "2025-09-21T11:31:35.356149",
       "continuous_session": true
     }
   ]
