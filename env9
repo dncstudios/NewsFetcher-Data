@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-21T03:49:24.366751",
-    "total_articles": 1514,
-    "new_articles_in_last_fetch": 1514,
+    "created_at": "2025-09-21T05:15:37.238545",
+    "total_articles": 1515,
+    "new_articles_in_last_fetch": 1515,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -19673,6 +19673,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: GLOBAL WEEK AHEAD: THERE'S HOPE FOR EUROPE'S COMEBACK 🚀\n\n- CNBC evaluates Europe's economic recovery progress 📈\n- Focus on determining the resilience of Europe's economic revival 🌍\n- Assessing if Europe can maintain its upward momentum 💪\n- Unveiling insights on the current state of Europe's economic comeback 🧐\n\nTAKEAWAY: Europe's economic recovery is under scrutiny as CNBC hits the road to gauge its strength and potential for sustained growth.",
       "exported_at": "2025-09-21T03:49:24.266786",
+      "continuous_session": true
+    },
+    {
+      "title": "What we know about the cyberattack that hit major European airports",
+      "link": "https://www.cnbc.com/2025/09/21/what-we-know-about-the-cyberattack-that-hit-major-european-airports.html",
+      "summary": "Brussels Airport said it expected heavy disruption and flight cancellations into Sunday as a result of the cyberattack.",
+      "published": "Sun, 21 Sep 2025 09:13:03 GMT",
+      "content": "Brussels Airport said it expected heavy disruption and flight cancellations into Sunday as a result of the cyberattack.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4d74e49083f46ab8ce4b7c1c72016ca7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CYBERATTACK HITS MAJOR EUROPEAN AIRPORTS 🚨\n\n- Brussels Airport anticipates severe disruption post-cyberattack ✈️\n- Flight cancellations expected to continue until Sunday 🛑\n- Cyberattack causes chaos and uncertainty for travelers 🌐\n\nTAKEAWAY: A cyberattack on major European airports leads to significant disruptions, flight cancellations, and uncertainty for travelers.",
+      "exported_at": "2025-09-21T05:15:37.120432",
       "continuous_session": true
     }
   ]
