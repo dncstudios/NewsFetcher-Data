@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-21T09:34:40.937472",
-    "total_articles": 1525,
-    "new_articles_in_last_fetch": 1525,
+    "created_at": "2025-09-21T09:39:51.241885",
+    "total_articles": 1527,
+    "new_articles_in_last_fetch": 1527,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -19816,6 +19816,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: UK, CANADA, AUSTRALIA RECOGNIZE PALESTINIAN STATE 🚀\n\n- Major shift in foreign policy by UK, Canada, Australia 🌍\n- More European nations and U.S. allies to follow suit ✅\n- Global anticipation for upcoming recognitions 🌏\n\nTAKEAWAY: Recognition of a Palestinian state by UK, Canada, and Australia sparks a global wave of support, with more countries expected to follow suit.",
       "exported_at": "2025-09-21T09:34:40.818539",
+      "continuous_session": true
+    },
+    {
+      "title": "37-year-old quit her sales job to start a wedding vow writing business—now it brings in over $8,000 a month: &apos;My clients value human storytelling&apos;",
+      "link": "https://www.cnbc.com/2025/09/21/37-year-old-quit-her-job-to-start-a-wedding-vow-writing-businessit-brings-in-over-8k-a-month.html",
+      "summary": "Katelyn Peterson left her career in sales to start a business writing wedding vows and speeches for tongue-tied couples. Today, it brings in six figures.",
+      "published": "Sun, 21 Sep 2025 13:25:02 GMT",
+      "content": "Katelyn Peterson left her career in sales to start a business writing wedding vows and speeches for tongue-tied couples. Today, it brings in six figures.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "886e2f9dcf80d834c2957bd58aac4cbe",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 37-YEAR-OLD ENTREPRENEUR TURNS WEDDING VOW PASSION INTO $8K/MONTH SUCCESS 🚀\n\n- Katelyn Peterson quits sales job for wedding vow writing biz 💍\n- Business now rakes in over $8,000 monthly 💰\n- Peterson's clients appreciate personalized human stories 📜\n- Former sales career transformed into six-figure success 💼💸\n\nTAKEAWAY: Katelyn Peterson's bold career shift from sales to wedding vow writing not only brings in impressive monthly revenue but also highlights the value of personal storytelling in business success.",
+      "exported_at": "2025-09-21T09:39:51.124616",
+      "continuous_session": true
+    },
+    {
+      "title": "I&apos;ve studied over 200 kids—the ones with &apos;exceptional&apos; social skills have parents who do 9 things early on",
+      "link": "https://www.cnbc.com/2025/09/21/child-psychologist-parents-who-raise-kids-with-exceptional-social-skills-do-9-things.html",
+      "summary": "Want your kids to be emotionally intelligent with good people skills? Child psychologist Reem Raouda has studied more than 200 child-parent relationships. Based on her research, she's identified the nine things successful parents do to raise kids with strong social skills.",
+      "published": "Sun, 21 Sep 2025 13:34:14 GMT",
+      "content": "Want your kids to be emotionally intelligent with good people skills? Child psychologist Reem Raouda has studied more than 200 child-parent relationships. Based on her research, she's identified the nine things successful parents do to raise kids with strong social skills.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "24a82662ceed22a1c46a8bb7fcded535",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: RAISE SOCIAL SUPERSTARS: 9 SECRETS FROM PARENTING PRODIGIES 🌟\n\n- Child psychologist reveals 9 key parenting tactics for social success \n- Study of 200+ kids links 'exceptional' social skills to early parenting habits\n- Importance of emotional intelligence and people skills highlighted \n\nTAKEAWAY: Unlock the secrets to raising socially adept children by implementing these 9 proven parenting strategies early on, as revealed by child psychologist Reem Raouda's research on over 200 child-parent relationships.",
+      "exported_at": "2025-09-21T09:39:51.124681",
       "continuous_session": true
     }
   ]
