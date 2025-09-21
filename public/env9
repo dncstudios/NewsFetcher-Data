@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-21T17:31:59.763588",
-    "total_articles": 1539,
-    "new_articles_in_last_fetch": 1539,
+    "created_at": "2025-09-21T18:07:39.910617",
+    "total_articles": 1540,
+    "new_articles_in_last_fetch": 1540,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -19998,6 +19998,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SOUTH KOREA'S PRESIDENT LEE WARNS OF FINANCIAL CRISIS 🚨\n\n- President Lee warns US investment demands could trigger 1997-like crisis\n- South Korea at risk of economic turmoil if current US demands accepted\n- Lee Jae Myung cautions against potential consequences of US demands\n\nTAKEAWAY: President Lee's cautionary statements on US investment demands highlight the risk of a financial crisis akin to the 1997 meltdown if accepted, raising concerns about South Korea's economic stability.",
       "exported_at": "2025-09-21T17:31:59.631783",
+      "continuous_session": true
+    },
+    {
+      "title": "Stock futures are little changed after Dow, S&amp;P 500 hit fresh records: Live updates",
+      "link": "https://www.cnbc.com/2025/09/21/stock-market-today-live-updates.html",
+      "summary": "Wall Street is coming off a strong week for the major averages after the Federal Reserve cut interest rates.",
+      "published": "Sun, 21 Sep 2025 22:02:39 GMT",
+      "content": "Wall Street is coming off a strong week for the major averages after the Federal Reserve cut interest rates.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "95dc79bdaf776ad34b3cb82db0df5b98",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK FUTURES HOLD STEADY AFTER RECORD HIGHS 📈\n\n- Dow and S&P 500 reach new records 🌟\n- Market stability post-Fed rate cut 📉✅\n- Wall Street gears up for another week 📊\n- Investors eyeing market performance 🧐🔍\n\nTAKEAWAY: Stock futures remain steady after Dow and S&P 500 achieve new record highs, following a strong week post-Fed interest rate cut.",
+      "exported_at": "2025-09-21T18:07:39.788768",
       "continuous_session": true
     }
   ]
