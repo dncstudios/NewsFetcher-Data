@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-21T07:07:10.474252",
-    "total_articles": 1517,
-    "new_articles_in_last_fetch": 1517,
+    "created_at": "2025-09-21T07:42:40.586308",
+    "total_articles": 1518,
+    "new_articles_in_last_fetch": 1518,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -19712,6 +19712,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP URGES ATTORNEY GENERAL TO PROSECUTE POLITICAL FOES ⚠️\n\n- Trump pressures Attorney General Bondi to prosecute opponents\n- Former defense attorney appointed to lead prosecutor's office\n- Controversy surrounds Trump's interference in legal matters\n\nTAKEAWAY: Trump's public push for legal action against his political rivals raises concerns about interference and misuse of power.",
       "exported_at": "2025-09-21T07:07:10.364255",
+      "continuous_session": true
+    },
+    {
+      "title": "Some premium travel rewards credit cards now cost over $500 per year. What to know before you apply",
+      "link": "https://www.cnbc.com/2025/09/21/how-to-maximize-travel-credit-card-benefits-with-high-annual-fees.html",
+      "summary": "American Express was the latest credit card company to increase the annual fee for a premium rewards card. Here’s what to consider before signing up.",
+      "published": "Sun, 21 Sep 2025 11:30:01 GMT",
+      "content": "American Express was the latest credit card company to increase the annual fee for a premium rewards card. Here’s what to consider before signing up.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "104eb5e5c40d692977b26b484780d6c5",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PREMIUM TRAVEL REWARDS CARDS SURPASS $500 ANNUAL FEE ⚠️\n\n- American Express raises fees for premium rewards cards 💳\n- Cost over $500/year - a growing trend in credit cards 💸\n- Consider benefits vs. fees before applying ✅\n- Evaluate perks like travel insurance, lounge access 🏖️\n- Calculate rewards, bonuses to justify annual cost 🎯\n- Check for hidden fees, restrictions in the fine print ⚠️\n\nTAKEAWAY: With premium travel rewards credit cards exceeding $500 per year, carefully weigh benefits against costs to make an informed decision before applying.",
+      "exported_at": "2025-09-21T07:42:40.484687",
       "continuous_session": true
     }
   ]
