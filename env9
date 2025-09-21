@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-21T07:02:01.352408",
-    "total_articles": 1516,
-    "new_articles_in_last_fetch": 1516,
+    "created_at": "2025-09-21T07:07:10.474252",
+    "total_articles": 1517,
+    "new_articles_in_last_fetch": 1517,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -19699,6 +19699,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: U.S. HOUSE LAWMAKERS VISIT CHINA TO STABILIZE TIES 🚀\n\n- Rare visit by House lawmakers to China since 2019 🇨🇳\n- Aim to stabilize US-China relations 🤝\n- Delegation's visit on Sunday signifies diplomatic efforts 🔍\n- House of Representatives takes proactive steps for dialogue ✅\n- Important move to address global economic and political challenges 🌍\n- Focus on enhancing communication and understanding between nations 🌐\n\nTAKEAWAY: The rare visit by U.S. House lawmakers to China marks a significant step towards stabilizing relations and fostering dialogue between the two nations, addressing global challenges through communication and understanding.",
       "exported_at": "2025-09-21T07:02:01.251789",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump publicly pushes Attorney General Pam Bondi to prosecute his political foes",
+      "link": "https://www.cnbc.com/2025/09/21/trump-pam-bondi-prosecute-political-foes.html",
+      "summary": "The president also named his former defense attorney late Saturday to replace the head of a key prosecutor’s office he forced out a day earlier.",
+      "published": "Sun, 21 Sep 2025 11:05:59 GMT",
+      "content": "The president also named his former defense attorney late Saturday to replace the head of a key prosecutor’s office he forced out a day earlier.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "288b6b0fc58238fca5484fe96ac8631a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP URGES ATTORNEY GENERAL TO PROSECUTE POLITICAL FOES ⚠️\n\n- Trump pressures Attorney General Bondi to prosecute opponents\n- Former defense attorney appointed to lead prosecutor's office\n- Controversy surrounds Trump's interference in legal matters\n\nTAKEAWAY: Trump's public push for legal action against his political rivals raises concerns about interference and misuse of power.",
+      "exported_at": "2025-09-21T07:07:10.364255",
       "continuous_session": true
     }
   ]
