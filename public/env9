@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-21T08:48:58.548823",
-    "total_articles": 1524,
-    "new_articles_in_last_fetch": 1524,
+    "created_at": "2025-09-21T09:34:40.937472",
+    "total_articles": 1525,
+    "new_articles_in_last_fetch": 1525,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -19803,6 +19803,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP & MAGA TO HONOR CHARLIE KIRK AT ARIZONA MEMORIAL 🚀\n\n- Trump & MAGA movement to honor conservative activist Charlie Kirk 🌟\n- Tribute event scheduled for Sunday in Arizona 🗓️\n- Kirk recognized for his contributions to the conservative movement 🏆\n\nTAKEAWAY: President Trump and the MAGA movement are set to honor conservative activist Charlie Kirk in Arizona, highlighting his contributions to the conservative cause.",
       "exported_at": "2025-09-21T08:48:58.444310",
+      "continuous_session": true
+    },
+    {
+      "title": "UK, Canada and Australia formally recognize a Palestinian state, breaking with the U.S.",
+      "link": "https://www.cnbc.com/2025/09/21/uk-recognizes-palestinian-state.html",
+      "summary": "The announcements marked a significant shift in foreign policy, with several other European nations and U.S. allies set to follow suit in the coming days.",
+      "published": "Sun, 21 Sep 2025 13:32:45 GMT",
+      "content": "The announcements marked a significant shift in foreign policy, with several other European nations and U.S. allies set to follow suit in the coming days.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "cb3e7f8fa952169543277d9fcc9fb67d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: UK, CANADA, AUSTRALIA RECOGNIZE PALESTINIAN STATE 🚀\n\n- Major shift in foreign policy by UK, Canada, Australia 🌍\n- More European nations and U.S. allies to follow suit ✅\n- Global anticipation for upcoming recognitions 🌏\n\nTAKEAWAY: Recognition of a Palestinian state by UK, Canada, and Australia sparks a global wave of support, with more countries expected to follow suit.",
+      "exported_at": "2025-09-21T09:34:40.818539",
       "continuous_session": true
     }
   ]
