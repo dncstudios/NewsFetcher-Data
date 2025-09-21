@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-21T05:15:37.238545",
-    "total_articles": 1515,
-    "new_articles_in_last_fetch": 1515,
+    "created_at": "2025-09-21T07:02:01.352408",
+    "total_articles": 1516,
+    "new_articles_in_last_fetch": 1516,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -19686,6 +19686,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CYBERATTACK HITS MAJOR EUROPEAN AIRPORTS 🚨\n\n- Brussels Airport anticipates severe disruption post-cyberattack ✈️\n- Flight cancellations expected to continue until Sunday 🛑\n- Cyberattack causes chaos and uncertainty for travelers 🌐\n\nTAKEAWAY: A cyberattack on major European airports leads to significant disruptions, flight cancellations, and uncertainty for travelers.",
       "exported_at": "2025-09-21T05:15:37.120432",
+      "continuous_session": true
+    },
+    {
+      "title": "U.S. House lawmakers make rare China visit to stabilize ties",
+      "link": "https://www.cnbc.com/2025/09/21/us-house-lawmakers-make-rare-china-visit-to-stabilise-ties.html",
+      "summary": "The visit on Sunday was the first House of Representatives delegation to visit China since 2019.",
+      "published": "Sun, 21 Sep 2025 10:51:23 GMT",
+      "content": "The visit on Sunday was the first House of Representatives delegation to visit China since 2019.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "be9302e67f66975a08eb6532d9f71992",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: U.S. HOUSE LAWMAKERS VISIT CHINA TO STABILIZE TIES 🚀\n\n- Rare visit by House lawmakers to China since 2019 🇨🇳\n- Aim to stabilize US-China relations 🤝\n- Delegation's visit on Sunday signifies diplomatic efforts 🔍\n- House of Representatives takes proactive steps for dialogue ✅\n- Important move to address global economic and political challenges 🌍\n- Focus on enhancing communication and understanding between nations 🌐\n\nTAKEAWAY: The rare visit by U.S. House lawmakers to China marks a significant step towards stabilizing relations and fostering dialogue between the two nations, addressing global challenges through communication and understanding.",
+      "exported_at": "2025-09-21T07:02:01.251789",
       "continuous_session": true
     }
   ]
