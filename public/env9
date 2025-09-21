@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-20T17:36:27.355660",
-    "total_articles": 1512,
-    "new_articles_in_last_fetch": 1512,
+    "created_at": "2025-09-21T03:49:24.366751",
+    "total_articles": 1514,
+    "new_articles_in_last_fetch": 1514,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -19647,6 +19647,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WHITE HOUSE SECURES CONTROL OVER TIKTOK'S ALGORITHM & DATA 🚀\n\n- White House confirms full control of TikTok's algorithm and data 🛡️\n- Press secretary Leavitt expresses 100% confidence in finalized deal 💯\n- U.S. gains authority to oversee crucial aspects of TikTok's operations ✅\n\nTAKEAWAY: The White House's assurance of controlling TikTok's algorithm and data marks a significant milestone in the U.S.-China deal, ensuring greater oversight and security.",
       "exported_at": "2025-09-20T17:36:27.246162",
+      "continuous_session": true
+    },
+    {
+      "title": "30-year-old billionaire college dropout recommends at least one year in higher education",
+      "link": "https://www.cnbc.com/2025/09/21/this-billionaire-dropped-out-of-college.html",
+      "summary": "Billionaire Lucy Guo says college is the best place to network: \"You're going to meet the smartest people in college.\"",
+      "published": "Sun, 21 Sep 2025 07:42:55 GMT",
+      "content": "Billionaire Lucy Guo says college is the best place to network: \"You're going to meet the smartest people in college.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "112f59625b9b03866652e68fd7d5965a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 30-YEAR-OLD BILLIONAIRE DROPOUT'S SURPRISING COLLEGE ADVICE 🌟\n\n- Lucy Guo advises spending at least one year in college 🎓\n- College offers unparalleled networking opportunities 💼\n- Guo emphasizes meeting brilliant minds in higher education 🧠\n\nTAKEAWAY: Despite being a billionaire college dropout, Lucy Guo recommends spending time in higher education for valuable networking experiences and meeting intelligent individuals.",
+      "exported_at": "2025-09-21T03:49:24.266717",
+      "continuous_session": true
+    },
+    {
+      "title": "Global week ahead: There&apos;s hope for Europe&apos;s comeback",
+      "link": "https://www.cnbc.com/2025/09/21/global-week-ahead-theres-hope-for-europes-comeback.html",
+      "summary": "CNBC is on the road this week to assess if Europe's economic recovery is intact.",
+      "published": "Sun, 21 Sep 2025 07:43:08 GMT",
+      "content": "CNBC is on the road this week to assess if Europe's economic recovery is intact.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "61b05d5bf86e9c3b53f52b30ca78b07c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GLOBAL WEEK AHEAD: THERE'S HOPE FOR EUROPE'S COMEBACK 🚀\n\n- CNBC evaluates Europe's economic recovery progress 📈\n- Focus on determining the resilience of Europe's economic revival 🌍\n- Assessing if Europe can maintain its upward momentum 💪\n- Unveiling insights on the current state of Europe's economic comeback 🧐\n\nTAKEAWAY: Europe's economic recovery is under scrutiny as CNBC hits the road to gauge its strength and potential for sustained growth.",
+      "exported_at": "2025-09-21T03:49:24.266786",
       "continuous_session": true
     }
   ]
