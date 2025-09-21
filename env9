@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-21T18:38:06.832010",
-    "total_articles": 1541,
-    "new_articles_in_last_fetch": 1541,
+    "created_at": "2025-09-21T19:13:37.015513",
+    "total_articles": 1542,
+    "new_articles_in_last_fetch": 1542,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -20024,6 +20024,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP TO LEAD HONORING CHARLIE KIRK AT ARIZONA SERVICE 🚀\n\n- President Trump honors conservative activist Charlie Kirk 🎯\n- High-profile \"Make America Great Again\" members present ⚡️\n- Tribute event held in Arizona 🌵\n- Kirk recognized for contributions to the conservative movement ✅\n- Trump leads in paying respects to Kirk 🔥\n- Event showcases unity within conservative circles ⚡️\n\nTAKEAWAY: President Trump's leadership in honoring Charlie Kirk highlights unity and recognition within the conservative movement, showcasing a high-profile tribute event in Arizona.",
       "exported_at": "2025-09-21T18:38:06.779564",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump officials praise Charlie Kirk&apos;s faith and his mark on the conservative movement",
+      "link": "https://www.cnbc.com/2025/09/21/trump-and-maga-movement-will-honor-charlie-kirk-at-arizona-memorial.html",
+      "summary": "President Donald Trump and prominent members of his \"Make America Great Again\" movement were paying tribute Sunday to conservative activist Charlie Kirk.",
+      "published": "Sun, 21 Sep 2025 23:10:45 GMT",
+      "content": "President Donald Trump and prominent members of his \"Make America Great Again\" movement were paying tribute Sunday to conservative activist Charlie Kirk.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a32874dd01c537654ff4a2d243d2bfd4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP TO LEAD HONORING CHARLIE KIRK AT ARIZONA SERVICE 🚀\n\n- President Trump honors conservative activist Charlie Kirk 🎯\n- High-profile \"Make America Great Again\" members present ⚡️\n- Tribute event held in Arizona 🌵\n- Kirk recognized for contributions to the conservative movement ✅\n- Trump leads in paying respects to Kirk 🔥\n- Event showcases unity within conservative circles ⚡️\n\nTAKEAWAY: President Trump's leadership in honoring Charlie Kirk highlights unity and recognition within the conservative movement, showcasing a high-profile tribute event in Arizona.",
+      "exported_at": "2025-09-21T19:13:36.895109",
       "continuous_session": true
     }
   ]
