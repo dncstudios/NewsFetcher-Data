@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-21T07:52:53.570906",
-    "total_articles": 1519,
-    "new_articles_in_last_fetch": 1519,
+    "created_at": "2025-09-21T08:08:12.404740",
+    "total_articles": 1521,
+    "new_articles_in_last_fetch": 1521,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -19738,6 +19738,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: THESE 5 STOCKS PRIMED FOR GROWTH AFTER FED RATE CUT 🚀\n\n- Bank of America tips 5 stocks with high growth potential 📈\n- Stocks expected to surge as interest rates decrease ⬇️\n- Potential for significant upside after Fed rate cut 🔥\n\nTAKEAWAY: Bank of America's selection of 5 stocks poised for growth post-Fed rate cut signals potential for significant returns.",
       "exported_at": "2025-09-21T07:52:53.452560",
+      "continuous_session": true
+    },
+    {
+      "title": "Apple takes control of all core chips in iPhone Air with new architecture to prioritize AI",
+      "link": "https://www.cnbc.com/2025/09/21/apple-now-controls-all-core-iphone-chips-prioritizing-ai-workloads.html",
+      "summary": "Apple is quietly taking control of all the core chips in iPhone with new architecture to prioritize AI workloads on its most advanced chip, the A19 Pro.",
+      "published": "Sun, 21 Sep 2025 12:00:01 GMT",
+      "content": "Apple is quietly taking control of all the core chips in iPhone with new architecture to prioritize AI workloads on its most advanced chip, the A19 Pro.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5129eac688d676ae821819e37e7f4e07",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: APPLE DOMINATES iPHONE AIR WITH NEW AI-FOCUSED CHIP ARCHITECTURE 🚀\n\n- Apple seizes control of core chips for iPhone Air 📱\n- New architecture prioritizes AI tasks on A19 Pro chip 💡\n- Move aims to enhance AI capabilities on iPhones 🌟\n- Strategy strengthens Apple's chip design prowess 💪\n- Focus on AI aligns with growing tech trends 🔝\n- Apple's shift may set new industry standards 📈\n\nTAKEAWAY: Apple's strategic move to prioritize AI on its core chips for iPhone Air signals a bold step towards enhancing AI capabilities and potentially setting new industry benchmarks.",
+      "exported_at": "2025-09-21T08:08:12.296548",
+      "continuous_session": true
+    },
+    {
+      "title": "Buffett&apos;s Berkshire totally exits its profitable stake in Chinese EV maker bought because of Munger",
+      "link": "https://www.cnbc.com/2025/09/21/buffett-munger-byd-exits-stake.html",
+      "summary": "Berkshire Hathaway has completed exited its extremely profitable equity investment in the Chinese electric vehicle maker BYD.",
+      "published": "Sun, 21 Sep 2025 12:03:20 GMT",
+      "content": "Berkshire Hathaway has completed exited its extremely profitable equity investment in the Chinese electric vehicle maker BYD.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "dcb83b9ee29d2bd6d75e8afce4a5db22",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BUFFETT'S BERKSHIRE EXITS PROFITABLE STAKE IN CHINESE EV MAKER 🚀\n\n- Berkshire Hathaway sells off entire stake in Chinese EV maker BYD 📉\n- Investment made based on recommendation from Charlie Munger 🤝\n- BYD stake marked as highly profitable for Berkshire Hathaway 💰\n\nTAKEAWAY: Berkshire Hathaway's exit from BYD, driven by Charlie Munger's recommendation, marks a significant move in their investment strategy, showcasing their agility in the market.",
+      "exported_at": "2025-09-21T08:08:12.296611",
       "continuous_session": true
     }
   ]
