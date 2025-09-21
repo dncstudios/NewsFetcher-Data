@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-21T16:15:47.300794",
-    "total_articles": 1537,
-    "new_articles_in_last_fetch": 1537,
+    "created_at": "2025-09-21T17:21:46.373935",
+    "total_articles": 1538,
+    "new_articles_in_last_fetch": 1538,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -19972,6 +19972,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SCHUMER URGES TRUMP TO NEGOTIATE WITH DEMOCRATS AS SHUTDOWN LOOMS ⚠️\n\n- Senate rejects funding proposals, shutdown risk rises 📉\n- Government faces potential lapse without funding deal ⏰\n- Schumer pushes for negotiations to avert shutdown 🤝\n\nTAKEAWAY: With the government facing a shutdown as funding proposals are rejected, Schumer urges Trump to negotiate with Democrats to prevent a lapse.",
       "exported_at": "2025-09-21T16:15:47.200724",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump administration reportedly plans to link autism to Tylenol use during pregnancy",
+      "link": "https://www.cnbc.com/2025/09/21/trump-admin-reportedly-set-to-link-autism-to-tylenol-use-in-pregnancy.html",
+      "summary": "Federal health officials also are expected to highlight leucovorin as a potential autism treatment, according to The Washington Post.",
+      "published": "Sun, 21 Sep 2025 21:17:27 GMT",
+      "content": "Federal health officials also are expected to highlight leucovorin as a potential autism treatment, according to The Washington Post.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7eab03af8034a5ed8d9361bf99373b7f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP ADMIN LINKS AUTISM TO TYLENOL USE DURING PREGNANCY 🚨\n\n- Trump administration to connect autism to Tylenol use in pregnancy 👶\n- Federal health officials to suggest leucovorin as autism treatment 🌟\n- The Washington Post reports on the upcoming changes 🔍\n\nTAKEAWAY: The Trump administration's plan to associate autism with Tylenol use during pregnancy and propose leucovorin as a treatment could reshape autism discourse.",
+      "exported_at": "2025-09-21T17:21:46.267072",
       "continuous_session": true
     }
   ]
