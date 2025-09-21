@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-21T08:08:12.404740",
-    "total_articles": 1521,
-    "new_articles_in_last_fetch": 1521,
+    "created_at": "2025-09-21T08:13:23.117784",
+    "total_articles": 1523,
+    "new_articles_in_last_fetch": 1523,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -19764,6 +19764,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BUFFETT'S BERKSHIRE EXITS PROFITABLE STAKE IN CHINESE EV MAKER 🚀\n\n- Berkshire Hathaway sells off entire stake in Chinese EV maker BYD 📉\n- Investment made based on recommendation from Charlie Munger 🤝\n- BYD stake marked as highly profitable for Berkshire Hathaway 💰\n\nTAKEAWAY: Berkshire Hathaway's exit from BYD, driven by Charlie Munger's recommendation, marks a significant move in their investment strategy, showcasing their agility in the market.",
       "exported_at": "2025-09-21T08:08:12.296611",
+      "continuous_session": true
+    },
+    {
+      "title": "China isn&apos;t begging for Nvidia anymore. Here are homegrown tech plays to watch",
+      "link": "https://www.cnbc.com/2025/09/21/china-isnt-begging-nvidia-anymore-watch-homegrown-tech-plays-instead.html",
+      "summary": "Perhaps the biggest outcome of the latest U.S.-China trade talks is China's greater confidence in its homegrown technology.",
+      "published": "Sun, 21 Sep 2025 11:55:26 GMT",
+      "content": "Perhaps the biggest outcome of the latest U.S.-China trade talks is China's greater confidence in its homegrown technology.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a52845e7f2895b8b98b5f9fb79fbf40d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CHINA'S TECH CONFIDENCE SURGES AFTER U.S. TRADE TALKS 🚀\n\n- China no longer reliant on Nvidia post U.S.-China trade talks 🇨🇳\n- Confidence in domestic tech sector grows significantly 📈\n- Shift towards homegrown technology evident in China's strategy 💪\n- Emerging local tech players in focus as China's tech autonomy rises 🎯\n- China's tech industry evolving rapidly post trade talks ⚡️\n- Homegrown tech companies poised to lead in China's market 🚀\n\nTAKEAWAY: China's tech independence strengthens as it shifts focus to homegrown tech companies post U.S.-China trade talks, signaling a new era for the country's tech sector.",
+      "exported_at": "2025-09-21T08:13:23.012284",
+      "continuous_session": true
+    },
+    {
+      "title": "GE Vernova rode the AI boom to the top of the stock market. Why Wall Street believes the rally isn’t over",
+      "link": "https://www.cnbc.com/2025/09/21/ge-vernova-gev-ai-data-center-gas-nuclear-wind-grid.html",
+      "summary": "GE Vernova has shot to the top of the stock market on AI data center demand since spinning off from General Electric.",
+      "published": "Sun, 21 Sep 2025 11:53:55 GMT",
+      "content": "GE Vernova has shot to the top of the stock market on AI data center demand since spinning off from General Electric.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c3fd5b5831fc619f356af0f7d9bd56f3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GE VERNOVA LEADS STOCK MARKET AMID AI BOOM 🚀\n\n- GE Vernova tops stock market fueled by AI data center demand 📈\n- Strong performance post spin-off from General Electric 🔥\n- Wall Street optimistic, believes rally to continue 📊\n- AI boom propels GE Vernova's success in stock market 🚀\n- Company's position strengthened in the market 🏆\n- Market anticipates sustained growth for GE Vernova ✅\n\nTAKEAWAY: GE Vernova's rise in the stock market due to AI data center demand post-spinoff from General Electric has Wall Street optimistic about a continued rally.",
+      "exported_at": "2025-09-21T08:13:23.012382",
       "continuous_session": true
     }
   ]
