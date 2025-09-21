@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-21T17:21:46.373935",
-    "total_articles": 1538,
-    "new_articles_in_last_fetch": 1538,
+    "created_at": "2025-09-21T17:31:59.763588",
+    "total_articles": 1539,
+    "new_articles_in_last_fetch": 1539,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -19985,6 +19985,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP ADMIN LINKS AUTISM TO TYLENOL USE DURING PREGNANCY 🚨\n\n- Trump administration to connect autism to Tylenol use in pregnancy 👶\n- Federal health officials to suggest leucovorin as autism treatment 🌟\n- The Washington Post reports on the upcoming changes 🔍\n\nTAKEAWAY: The Trump administration's plan to associate autism with Tylenol use during pregnancy and propose leucovorin as a treatment could reshape autism discourse.",
       "exported_at": "2025-09-21T17:21:46.267072",
+      "continuous_session": true
+    },
+    {
+      "title": "South Korea&apos;s President Lee says U.S. investment demands would spark a financial crisis",
+      "link": "https://www.cnbc.com/2025/09/21/south-koreas-president-lee-trump-investment-financial-crisis.html",
+      "summary": "South Korea's economy could fall into crises rivaling its 1997 meltdown if the government accepts current U.S. demands, President Lee Jae Myung told Reuters.",
+      "published": "Sun, 21 Sep 2025 21:29:56 GMT",
+      "content": "South Korea's economy could fall into crises rivaling its 1997 meltdown if the government accepts current U.S. demands, President Lee Jae Myung told Reuters.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f3fc1dce2634d33f646290091d4ffd9d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SOUTH KOREA'S PRESIDENT LEE WARNS OF FINANCIAL CRISIS 🚨\n\n- President Lee warns US investment demands could trigger 1997-like crisis\n- South Korea at risk of economic turmoil if current US demands accepted\n- Lee Jae Myung cautions against potential consequences of US demands\n\nTAKEAWAY: President Lee's cautionary statements on US investment demands highlight the risk of a financial crisis akin to the 1997 meltdown if accepted, raising concerns about South Korea's economic stability.",
+      "exported_at": "2025-09-21T17:31:59.631783",
       "continuous_session": true
     }
   ]
