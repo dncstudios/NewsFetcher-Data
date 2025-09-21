@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-21T10:00:12.451543",
-    "total_articles": 1528,
-    "new_articles_in_last_fetch": 1528,
+    "created_at": "2025-09-21T10:05:21.903023",
+    "total_articles": 1529,
+    "new_articles_in_last_fetch": 1529,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -19855,6 +19855,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WEEK IN REVIEW: STOCKS SOAR, FED CUTS RATES, TECH GIANTS SHINE 🚀\n\n- Stock market hits record highs 📈\n- Federal Reserve announces rate cut ⚡️\n- CrowdStrike, Nvidia, and Apple in the spotlight 🌟\n\nTAKEAWAY: A week of soaring stock market records, Fed rate cuts, and standout performances by tech giants like CrowdStrike, Nvidia, and Apple.",
       "exported_at": "2025-09-21T10:00:12.353663",
+      "continuous_session": true
+    },
+    {
+      "title": "&apos;Cheaper is not better&apos;: Avoid these 3 mistakes to get the full value of your rewards card, from a credit expert",
+      "link": "https://www.cnbc.com/2025/09/21/rewards-credit-card-mistakes.html",
+      "summary": "Just about anyone can reap the benefits of cards that come with a modest fee, says The Points Guy founder Brian Kelly.",
+      "published": "Sun, 21 Sep 2025 14:00:01 GMT",
+      "content": "Just about anyone can reap the benefits of cards that come with a modest fee, says The Points Guy founder Brian Kelly.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "257a8a89328a6dd1a0e9155ee560cf9e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 'CHEAPER IS NOT BETTER': AVOID THESE 3 MISTAKES TO MAXIMIZE REWARDS CARDS 💳\n\n- Value over cost: Modest fee cards offer significant benefits 💰\n- Expert advice from The Points Guy founder Brian Kelly ✅\n- Mistake 1: Ignoring rewards card value for cheaper options ⚠️\n- Mistake 2: Not leveraging benefits of modest fee cards 🚨\n- Mistake 3: Missing out on maximizing rewards card perks 💸\n\nTAKEAWAY: To fully benefit from rewards cards, prioritize value over cost, leverage benefits, and maximize perks for optimal gains.",
+      "exported_at": "2025-09-21T10:05:21.794004",
       "continuous_session": true
     }
   ]
