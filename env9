@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-21T16:10:38.972672",
-    "total_articles": 1536,
-    "new_articles_in_last_fetch": 1536,
+    "created_at": "2025-09-21T16:15:47.300794",
+    "total_articles": 1537,
+    "new_articles_in_last_fetch": 1537,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -19959,6 +19959,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP TO LEAD HONORING CHARLIE KIRK AT ARIZONA SERVICE 🚀\n\n- President Trump honors conservative activist Charlie Kirk 🎯\n- High-profile \"Make America Great Again\" members present ⚡️\n- Tribute event held in Arizona 🌵\n- Kirk recognized for contributions to the conservative movement ✅\n- Trump leads in paying respects to Kirk 🔥\n- Event showcases unity within conservative circles ⚡️\n\nTAKEAWAY: President Trump's leadership in honoring Charlie Kirk highlights unity and recognition within the conservative movement, showcasing a high-profile tribute event in Arizona.",
       "exported_at": "2025-09-21T16:10:38.850615",
+      "continuous_session": true
+    },
+    {
+      "title": "Schumer presses Trump to negotiate with Democrats as government shutdown deadline nears",
+      "link": "https://www.cnbc.com/2025/09/21/trump-schumer-government-shutdown-funding-.html",
+      "summary": "The Senate last week rejected proposals to keep the government funded at least temporarily,  raising the possibility of a lapse.",
+      "published": "Sun, 21 Sep 2025 20:12:58 GMT",
+      "content": "The Senate last week rejected proposals to keep the government funded at least temporarily,  raising the possibility of a lapse.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0b38c68b54e5add0cfaf2ae3bf41cce1",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SCHUMER URGES TRUMP TO NEGOTIATE WITH DEMOCRATS AS SHUTDOWN LOOMS ⚠️\n\n- Senate rejects funding proposals, shutdown risk rises 📉\n- Government faces potential lapse without funding deal ⏰\n- Schumer pushes for negotiations to avert shutdown 🤝\n\nTAKEAWAY: With the government facing a shutdown as funding proposals are rejected, Schumer urges Trump to negotiate with Democrats to prevent a lapse.",
+      "exported_at": "2025-09-21T16:15:47.200724",
       "continuous_session": true
     }
   ]
