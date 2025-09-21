@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-21T08:13:23.117784",
-    "total_articles": 1523,
-    "new_articles_in_last_fetch": 1523,
+    "created_at": "2025-09-21T08:48:58.548823",
+    "total_articles": 1524,
+    "new_articles_in_last_fetch": 1524,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -19790,6 +19790,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: GE VERNOVA LEADS STOCK MARKET AMID AI BOOM 🚀\n\n- GE Vernova tops stock market fueled by AI data center demand 📈\n- Strong performance post spin-off from General Electric 🔥\n- Wall Street optimistic, believes rally to continue 📊\n- AI boom propels GE Vernova's success in stock market 🚀\n- Company's position strengthened in the market 🏆\n- Market anticipates sustained growth for GE Vernova ✅\n\nTAKEAWAY: GE Vernova's rise in the stock market due to AI data center demand post-spinoff from General Electric has Wall Street optimistic about a continued rally.",
       "exported_at": "2025-09-21T08:13:23.012382",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump and MAGA movement will honor Charlie Kirk at Arizona memorial",
+      "link": "https://www.cnbc.com/2025/09/21/trump-and-maga-movement-will-honor-charlie-kirk-at-arizona-memorial.html",
+      "summary": "President Donald Trump and members of his \"Make America Great Again\" movement will pay tribute Sunday to conservative activist Charlie Kirk.",
+      "published": "Sun, 21 Sep 2025 12:45:07 GMT",
+      "content": "President Donald Trump and members of his \"Make America Great Again\" movement will pay tribute Sunday to conservative activist Charlie Kirk.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9ae7d202b8e281cc6fff4210bd545d5e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP & MAGA TO HONOR CHARLIE KIRK AT ARIZONA MEMORIAL 🚀\n\n- Trump & MAGA movement to honor conservative activist Charlie Kirk 🌟\n- Tribute event scheduled for Sunday in Arizona 🗓️\n- Kirk recognized for his contributions to the conservative movement 🏆\n\nTAKEAWAY: President Trump and the MAGA movement are set to honor conservative activist Charlie Kirk in Arizona, highlighting his contributions to the conservative cause.",
+      "exported_at": "2025-09-21T08:48:58.444310",
       "continuous_session": true
     }
   ]
