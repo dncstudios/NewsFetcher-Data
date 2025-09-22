@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T00:23:12.455174",
-    "total_articles": 1550,
-    "new_articles_in_last_fetch": 1550,
+    "created_at": "2025-09-22T00:53:38.959995",
+    "total_articles": 1551,
+    "new_articles_in_last_fetch": 1551,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -20141,6 +20141,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: LUXSHARE SURGES 10% ON OPENAI HARDWARE DEAL 🚀\n\n- Luxshare's shares soar 10% post announcement 📈\n- Deal with OpenAI to manufacture consumer AI device 🤖\n- Chinese device assembler's stock sees significant increase 💰\n\nTAKEAWAY: Luxshare's shares skyrocketed 10% on news of a partnership with OpenAI to develop a consumer AI device, showcasing investor confidence in the company's future prospects.",
       "exported_at": "2025-09-22T00:23:12.343633",
+      "continuous_session": true
+    },
+    {
+      "title": "Asia markets trade mixed as China holds loan prime rates steady for fourth month",
+      "link": "https://www.cnbc.com/2025/09/22/asia-pacific-markets-nikkei-225-hang-seng-china-loan-prime-rate-decision.html",
+      "summary": "China kept its loan prime rates unchanged for the fourth month in a row as expected, even after the Fed lowered its rates by 25 basis points last week.",
+      "published": "Mon, 22 Sep 2025 04:51:38 GMT",
+      "content": "China kept its loan prime rates unchanged for the fourth month in a row as expected, even after the Fed lowered its rates by 25 basis points last week.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "91a01c37fbcc0ff60df08e6ae43dd53b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASIA-PACIFIC MARKETS RISE AS CHINA HOLDS LENDING RATES 🚀\n\n- China maintains loan prime rates for 4th consecutive month 📈\n- Contrast with Fed's recent 25 basis point rate cut 🔍\n- Market confidence boosts Asia-Pacific stocks 📈\n- Investors optimistic about stable Chinese economy 🇨🇳\n- China's decision in line with market expectations ✅\n- Fed's rate cut impact yet to be seen in China's economy ⚠️\n\nTAKEAWAY: China's steady stance on lending rates boosts market confidence, while Asia-Pacific markets rise in anticipation of a stable Chinese economy despite the recent Fed rate cut.",
+      "exported_at": "2025-09-22T00:53:38.836429",
       "continuous_session": true
     }
   ]
