@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T07:55:39.527417",
-    "total_articles": 1572,
-    "new_articles_in_last_fetch": 1572,
+    "created_at": "2025-09-22T08:00:49.452443",
+    "total_articles": 1573,
+    "new_articles_in_last_fetch": 1573,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -20427,6 +20427,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: THE REAL DRIVER BEHIND STOCKS TRADING AT ALL-TIME HIGHS, REVEALED 🚀\n\n- Strategist reveals key factor propelling stocks to record levels 📈\n- Traders focus on upcoming session for market insights 🧐\n- Frank Holland dissects the driving forces behind stock surge 💡\n\nTAKEAWAY: Understanding the true catalyst behind stocks reaching all-time highs provides valuable insights for traders navigating the market.",
       "exported_at": "2025-09-22T07:55:39.413248",
+      "continuous_session": true
+    },
+    {
+      "title": "T-Mobile names telecom veteran Srini Gopalan as CEO",
+      "link": "https://www.cnbc.com/2025/09/22/t-mobile-names-srini-gopalan-as-ceo.html",
+      "summary": "T-Mobile's current chief operating officer, Srinivasan Gopalan, will take over from Mike Sievert as the next CEO effective Nov. 1, the company said.",
+      "published": "Mon, 22 Sep 2025 11:57:53 GMT",
+      "content": "T-Mobile's current chief operating officer, Srinivasan Gopalan, will take over from Mike Sievert as the next CEO effective Nov. 1, the company said.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "aec57978fb1be6a8cfa122d0f6b27555",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: T-MOBILE APPOINTS SRINI GOPALAN AS CEO 🚀\n\n- Srinivasan Gopalan to become T-Mobile's new CEO on Nov. 1 📅\n- Gopalan replaces Mike Sievert as the chief executive 🔁\n- Transition from COO to CEO for telecom veteran Gopalan 📈\n- Sievert's tenure as CEO comes to an end with this move ⌛\n- Gopalan set to lead T-Mobile into the next phase of growth 📈\n- T-Mobile aims for strategic leadership under Gopalan's guidance 🎯\n\nTAKEAWAY: With Srini Gopalan taking the reins as T-Mobile's new CEO, the company anticipates strategic growth and evolution under his seasoned leadership.",
+      "exported_at": "2025-09-22T08:00:49.333823",
       "continuous_session": true
     }
   ]
