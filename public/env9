@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T15:25:26.527599",
-    "total_articles": 1630,
-    "new_articles_in_last_fetch": 1630,
+    "created_at": "2025-09-22T15:40:44.749260",
+    "total_articles": 1632,
+    "new_articles_in_last_fetch": 1632,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -21181,6 +21181,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: DA IN ABC STATION SHOOTING EYES JIMMY KIMMEL SUSPENSION 🚨\n\n- Shooting at ABC's Sacramento affiliate linked to Jimmy Kimmel suspension 🔗\n- ABC suspends Kimmel for comments on Charlie Kirk killing 💬\n- Disney subsidiary faces aftermath of controversial suspension ⚠️\n- Sacramento DA investigates shooting incident 🕵️‍♂️\n- Connection between suspension, shooting raises questions ❓\n- Details emerge on events leading to tragic incident 📰\n\nTAKEAWAY: The DA's investigation into the ABC station shooting sheds light on the aftermath of Jimmy Kimmel's suspension, sparking questions and concerns about the events.",
       "exported_at": "2025-09-22T15:25:26.398034",
+      "continuous_session": true
+    },
+    {
+      "title": "Supreme Court lets Trump fire FTC&apos;s Slaughter for now",
+      "link": "https://www.cnbc.com/2025/09/22/trump-ftc-supreme-court-slaughter.html",
+      "summary": "The Supreme Court allowed President Donald Trump to remove Rebecca Slaughter as a member of the Federal Trade Commission while the justices consider her case.",
+      "published": "Mon, 22 Sep 2025 19:34:41 GMT",
+      "content": "The Supreme Court allowed President Donald Trump to remove Rebecca Slaughter as a member of the Federal Trade Commission while the justices consider her case.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c7db5a7f081d83cf8f5f67bed613719c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SUPREME COURT ALLOWS TRUMP TO REMOVE FTC'S SLAUGHTER ⚠️\n\n- Trump can dismiss Rebecca Slaughter from FTC amid ongoing case\n- Decision pending as Supreme Court reviews Slaughter's removal\n- Uncertainty looms over Slaughter's future at the Federal Trade Commission\n\nTAKEAWAY: The Supreme Court's decision to permit Trump to remove Rebecca Slaughter from the FTC introduces uncertainty about her position while the case is under review.",
+      "exported_at": "2025-09-22T15:40:44.634178",
+      "continuous_session": true
+    },
+    {
+      "title": "Disney says &apos;Jimmy Kimmel Live&apos; will return to ABC on Tuesday",
+      "link": "https://www.cnbc.com/2025/09/22/disney-abc-jimmy-kimmel-return.html",
+      "summary": "Disney said in a statement Monday that \"Jimmy Kimmel Live!\" will return to its ABC broadcast on Tuesday.",
+      "published": "Mon, 22 Sep 2025 19:38:11 GMT",
+      "content": "Disney said in a statement Monday that \"Jimmy Kimmel Live!\" will return to its ABC broadcast on Tuesday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f2efdce3ea54cbd0a89dce168f2b9c57",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DISNEY ANNOUNCES RETURN OF 'JIMMY KIMMEL LIVE' TO ABC 🚀\n\n- 'Jimmy Kimmel Live!' resumes ABC broadcast tomorrow 📺\n- Disney confirms show's comeback in official statement 💬\n\nTAKEAWAY: Exciting news as 'Jimmy Kimmel Live!' makes a triumphant return to ABC, bringing laughter and entertainment back to our screens!",
+      "exported_at": "2025-09-22T15:40:44.634240",
       "continuous_session": true
     }
   ]
