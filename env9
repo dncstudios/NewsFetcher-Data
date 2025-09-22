@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T14:29:20.190490",
-    "total_articles": 1624,
-    "new_articles_in_last_fetch": 1624,
+    "created_at": "2025-09-22T15:09:59.266153",
+    "total_articles": 1626,
+    "new_articles_in_last_fetch": 1626,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -21103,6 +21103,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JUDGE OVERTURNS TRUMP BLOCK, ORSTED RESUMES OFFSHORE WIND FARM 🚀\n\n- Orsted authorized to resume Revolution Wind construction ⚡️\n- Interior Department's Aug. 22 halt order reversed 🔄\n- Offshore wind farm located near Rhode Island, Connecticut 🌊\n- Legal battle resolved in favor of Orsted 🏆\n- Construction progress expected to pick up pace 📈\n\nTAKEAWAY: Orsted's victory in resuming construction on Revolution Wind after a legal battle signifies progress and momentum in the renewable energy sector.",
       "exported_at": "2025-09-22T14:29:20.075530",
+      "continuous_session": true
+    },
+    {
+      "title": "Pfizer just paid a lot of cash to catch up in the GLP race. Why its stock is higher",
+      "link": "https://www.cnbc.com/2025/09/22/pfizer-just-paid-a-lot-of-cash-to-catch-up-in-the-glp-race-why-its-stock-is-higher.html",
+      "summary": "Pfizer is spending more than $7 billion to buy biotech Metsera to try to catch cup in the obesity drug market.",
+      "published": "Mon, 22 Sep 2025 19:01:25 GMT",
+      "content": "Pfizer is spending more than $7 billion to buy biotech Metsera to try to catch cup in the obesity drug market.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d3af3a99821dd3f84520e214e91c4e65",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PFIZER'S $7B MOVE TO DOMINATE GLP RACE 🚀\n\n- Pfizer invests $7B in Metsera biotech acquisition 💰\n- Strategic move to dominate obesity drug market 🏆\n- Aim to catch up with competitors in GLP race 🏃\n- Market responds positively with Pfizer stock rise 📈\n- Increased investor confidence in Pfizer's future 🎯\n\nTAKEAWAY: Pfizer's bold $7 billion investment in acquiring Metsera signals a strategic move to dominate the obesity drug market, boosting investor confidence and driving up their stock price.",
+      "exported_at": "2025-09-22T15:09:59.131104",
+      "continuous_session": true
+    },
+    {
+      "title": "The generational opportunity in muni bonds is ‘slipping away’ as yields fall and supply dwindles, strategist says",
+      "link": "https://www.cnbc.com/2025/09/22/generational-opportunity-in-muni-bonds-is-slipping-away-strategist-says-.html",
+      "summary": "Investors who want to snap up attractive income on municipal bonds may not want to wait much longer, according to strategist Tom Kozlik.",
+      "published": "Mon, 22 Sep 2025 19:03:54 GMT",
+      "content": "Investors who want to snap up attractive income on municipal bonds may not want to wait much longer, according to strategist Tom Kozlik.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "06b9ba8714d15ac7cc83e83e8dcb2fe3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: THE GENERATIONAL OPPORTUNITY IN MUNI BONDS SLIPPING AWAY 🚀\n\n- Muni bond yields dropping, supply decreasing 📉\n- Strategist Tom Kozlik warns investors not to delay ⏰\n- Opportunity for attractive income may vanish soon 💸\n- Urgency to act before opportunity diminishes 🚨\n- Muni bond market facing dwindling supply and falling yields ⚠️\n- Investors advised to seize the moment for muni bond investments ✅\n\nTAKEAWAY: Strategist Tom Kozlik alerts investors to act swiftly as the window of opportunity for attractive income on municipal bonds may close soon.",
+      "exported_at": "2025-09-22T15:09:59.131170",
       "continuous_session": true
     }
   ]
