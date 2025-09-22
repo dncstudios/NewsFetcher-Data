@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T07:45:27.013469",
-    "total_articles": 1571,
-    "new_articles_in_last_fetch": 1571,
+    "created_at": "2025-09-22T07:55:39.527417",
+    "total_articles": 1572,
+    "new_articles_in_last_fetch": 1572,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -20414,6 +20414,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: DAN IVES BOOSTS APPLE PRICE TARGET TO WALL STREET'S PEAK 🚀\n\n- Apple's target price raised, signaling over 25% upside 📈\n- Strong demand for iPhone 17 drives optimistic forecast 📱\n- Ives' move sets the highest target for Apple on Wall Street 🥇\n\nTAKEAWAY: Dan Ives' bullish outlook on Apple, driven by robust iPhone 17 demand, propels the tech giant to new heights with a target price surge.",
       "exported_at": "2025-09-22T07:45:26.907739",
+      "continuous_session": true
+    },
+    {
+      "title": "The real driver for stocks trading at all-time highs, according to this strategist",
+      "link": "https://www.cnbc.com/2025/09/22/the-real-driver-for-stocks-trading-at-all-time-highs-according-to-this-investor.html",
+      "summary": "Frank Holland breaks down what traders are watching ahead of the new session.",
+      "published": "Mon, 22 Sep 2025 11:54:27 GMT",
+      "content": "Frank Holland breaks down what traders are watching ahead of the new session.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8dddb3af7b8f192785867bea6d91af71",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: THE REAL DRIVER BEHIND STOCKS TRADING AT ALL-TIME HIGHS, REVEALED 🚀\n\n- Strategist reveals key factor propelling stocks to record levels 📈\n- Traders focus on upcoming session for market insights 🧐\n- Frank Holland dissects the driving forces behind stock surge 💡\n\nTAKEAWAY: Understanding the true catalyst behind stocks reaching all-time highs provides valuable insights for traders navigating the market.",
+      "exported_at": "2025-09-22T07:55:39.413248",
       "continuous_session": true
     }
   ]
