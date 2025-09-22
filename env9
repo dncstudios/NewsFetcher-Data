@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T12:47:01.383709",
-    "total_articles": 1607,
-    "new_articles_in_last_fetch": 1607,
+    "created_at": "2025-09-22T12:57:17.918922",
+    "total_articles": 1610,
+    "new_articles_in_last_fetch": 1610,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -20882,6 +20882,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: THE STOCK MARKET SHAKES UP OVER GOVERNMENT SHUTDOWN CONCERNS ⚠️\n\n- Investors and strategists worried about the economic impact 📉\n- Funding dispute raises concerns in the market 🚨\n- Economic backdrop now weakest since 1990 💔\n\nTAKEAWAY: The stock market faces uncertainty as concerns rise over the economic impact of the current government shutdown, deviating from its usual indifference towards such events.",
       "exported_at": "2025-09-22T12:47:01.253261",
+      "continuous_session": true
+    },
+    {
+      "title": "Apple&apos;s stock turns positive for the year after iPhone 17 launch",
+      "link": "https://www.cnbc.com/2025/09/22/apples-stock-turns-positive-for-year-after-iphone-17-launch-.html",
+      "summary": "Apple's stock has turned green for the year after the company released new iPhone, Apple Watch, and AirPods models on Friday.",
+      "published": "Mon, 22 Sep 2025 16:56:42 GMT",
+      "content": "Apple's stock has turned green for the year after the company released new iPhone, Apple Watch, and AirPods models on Friday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "649b7a56d7bfe4e3305b5fe582e57d20",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: APPLE STOCK TURNS GREEN AFTER IPHONE 17 LAUNCH 🚀\n\n- Apple stock rises after new iPhone, Watch, AirPods release 📈\n- Positive turnaround for Apple stock in the year 🍏💰\n- New product launches boost investor confidence 📈🚀\n- Excitement surrounds iPhone 17, Watch, and AirPods models 📱⌚🎧\n- Company's stock performance linked to product releases 📈💼\n- Increased investor interest in Apple following latest launches 🔝💸\n\nTAKEAWAY: Apple's stock sees a positive shift as new iPhone, Watch, and AirPods models drive investor confidence and excitement in the market.",
+      "exported_at": "2025-09-22T12:57:17.791607",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves midday: Oracle, Apple, Metsera, Compass, Kenvue and more",
+      "link": "https://www.cnbc.com/2025/09/22/stocks-making-the-biggest-midday-moves-orcl-aapl-mtsr-comp-kvue-and-more.html",
+      "summary": "See which stocks are posting big moves in midday trading.",
+      "published": "Mon, 22 Sep 2025 16:49:24 GMT",
+      "content": "See which stocks are posting big moves in midday trading.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "184bb17c5aa588c29ed162b62182a824",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS MAKING BIG MOVES MIDDAY: ORACLE, APPLE, METSERA, COMPASS, KENVUE 🚀\n\n- Oracle, Apple, Metsera, Compass, Kenvue show significant midday trading activity 📈\n- Market watchers eyeing these stocks for potential growth opportunities 🧐\n- Investors tracking fluctuations in Oracle, Apple, Metsera, Compass, Kenvue 📊\n- Midday trading reveals dynamic movements in these key companies 🔄\n- Volatility in stock prices of Oracle, Apple, Metsera, Compass, Kenvue observed 📈📉\n- High trading volumes and price changes seen in Oracle, Apple, Metsera, Compass, Kenvue 📊🔍\n\nTAKEAWAY: Oracle, Apple, Metsera, Compass, and Kenvue are captivating investor attention with their significant midday trading activities, offering potential opportunities for profit.",
+      "exported_at": "2025-09-22T12:57:17.791672",
+      "continuous_session": true
+    },
+    {
+      "title": "Nobel Prize winners call for binding international &apos;red lines&apos; on AI",
+      "link": "https://www.cnbc.com/2025/09/22/nobel-prize-winners-call-for-binding-international-red-lines-on-ai.html",
+      "summary": "Signatories include \"godfathers of AI,\" famous authors, scientists and Nobel Prize winners from nearly every category.",
+      "published": "Mon, 22 Sep 2025 16:36:26 GMT",
+      "content": "Signatories include \"godfathers of AI,\" famous authors, scientists and Nobel Prize winners from nearly every category.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d9a7358553494006c08d0310dcb1febf",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NOBEL PRIZE WINNERS CALL FOR BINDING INTERNATIONAL 'RED LINES' ON AI 🚀\n\n- \"Godfathers of AI\" and Nobel laureates unite for AI regulations 🌐\n- Diverse group includes renowned authors and scientists 📚🔬\n- Global call for enforceable boundaries in Artificial Intelligence 🌍\n\nTAKEAWAY: Nobel Prize winners and AI pioneers advocate for enforceable global regulations to set boundaries in the realm of Artificial Intelligence.",
+      "exported_at": "2025-09-22T12:57:17.791689",
       "continuous_session": true
     }
   ]
