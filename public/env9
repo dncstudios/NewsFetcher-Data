@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T04:01:36.714100",
-    "total_articles": 1558,
-    "new_articles_in_last_fetch": 1558,
+    "created_at": "2025-09-22T05:22:44.294464",
+    "total_articles": 1559,
+    "new_articles_in_last_fetch": 1559,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -20245,6 +20245,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: INDIAN TECH STOCKS PLUNGE 3% AS TRUMP HIKES H-1B VISA FEES ⚠️\n\n- Indian tech stocks drop by nearly 3% post Trump's visa fee hike 📉\n- Trump's move may prompt Indian firms to offshore more U.S. staff 💼\n- CEO of Emmer Capital Partners highlights potential impact 💬\n\nTAKEAWAY: Trump's hefty H-1B visa fees cause Indian tech stocks to plummet, raising concerns about offshoring U.S. employees.",
       "exported_at": "2025-09-22T04:01:36.595357",
+      "continuous_session": true
+    },
+    {
+      "title": "Adani Power surges 20% after stock split, group shares rally on partial SEBI clearance",
+      "link": "https://www.cnbc.com/2025/09/22/adani-power-surges-20percent-after-stock-split-shares-rally-on-partial-sebi-clearance.html",
+      "summary": "Adani Power stock has risen more than 20% as its 1 for 5 stock split becomes effective today.",
+      "published": "Mon, 22 Sep 2025 07:13:33 GMT",
+      "content": "Adani Power stock has risen more than 20% as its 1 for 5 stock split becomes effective today.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8ffc750114e0eb775a3f968416970a6e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ADANI POWER SURGES 20% POST STOCK SPLIT 🚀\n\n- Adani Power stock climbs over 20% due to 1 for 5 stock split 📈\n- Group shares rally after receiving partial SEBI clearance 🔥\n- Effective split boosts investor confidence ✅\n- Stock split aims to make shares more affordable for retail investors 🎯\n\nTAKEAWAY: Adani Power's impressive surge post-stock split and SEBI clearance signals renewed investor confidence and accessibility in the market.",
+      "exported_at": "2025-09-22T05:22:44.189800",
       "continuous_session": true
     }
   ]
