@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T13:33:12.657536",
-    "total_articles": 1616,
-    "new_articles_in_last_fetch": 1616,
+    "created_at": "2025-09-22T13:43:23.243193",
+    "total_articles": 1618,
+    "new_articles_in_last_fetch": 1618,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -20999,6 +20999,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JUDGE OVERTURNS TRUMP BLOCK, ORSTED RESUMES OFFSHORE WIND FARM 🚀\n\n- Orsted authorized to resume Revolution Wind construction ⚡️\n- Interior Department's Aug. 22 halt order reversed 🔄\n- Offshore wind farm located near Rhode Island, Connecticut 🌊\n- Legal battle resolved in favor of Orsted 🏆\n- Construction progress expected to pick up pace 📈\n\nTAKEAWAY: Orsted's victory in resuming construction on Revolution Wind after a legal battle signifies progress and momentum in the renewable energy sector.",
       "exported_at": "2025-09-22T13:33:12.529827",
+      "continuous_session": true
+    },
+    {
+      "title": "Judge allows Orsted to resume construction on wind farm blocked by Trump administration",
+      "link": "https://www.cnbc.com/2025/09/22/judge-orsted-revolution-wind-trump.html",
+      "summary": "The Interior Department had ordered Orsted on Aug. 22 to halt construction on Revolution Wind off the coast of Rhode Island and Connecticut.",
+      "published": "Mon, 22 Sep 2025 17:41:54 GMT",
+      "content": "The Interior Department had ordered Orsted on Aug. 22 to halt construction on Revolution Wind off the coast of Rhode Island and Connecticut.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "919cfb4bbb64ea8376c3df9693b45678",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JUDGE OVERTURNS TRUMP BLOCK, ORSTED RESUMES OFFSHORE WIND FARM 🚀\n\n- Orsted authorized to resume Revolution Wind construction ⚡️\n- Interior Department's Aug. 22 halt order reversed 🔄\n- Offshore wind farm located near Rhode Island, Connecticut 🌊\n- Legal battle resolved in favor of Orsted 🏆\n- Construction progress expected to pick up pace 📈\n\nTAKEAWAY: Orsted's victory in resuming construction on Revolution Wind after a legal battle signifies progress and momentum in the renewable energy sector.",
+      "exported_at": "2025-09-22T13:43:23.122642",
+      "continuous_session": true
+    },
+    {
+      "title": "NYC mayor candidate Mamdani withdraws from ABC town hall over Jimmy Kimmel suspension",
+      "link": "https://www.cnbc.com/2025/09/22/jimmy-kimmel-abc-mamdani-hollywood-charlie-kirk.html",
+      "summary": "A slew of Academy Award winners and other Hollywood celebrities signed a letter organized by the ACLU backing Jimmy Kimmel.",
+      "published": "Mon, 22 Sep 2025 17:41:23 GMT",
+      "content": "A slew of Academy Award winners and other Hollywood celebrities signed a letter organized by the ACLU backing Jimmy Kimmel.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2d315e008344c493f7fa26e0f73509d9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NYC MAYOR CANDIDATE MAMDANI WITHDRAWS FROM WABC TOWN HALL 🚨\n\n- Mamdani withdraws over Jimmy Kimmel suspension controversy\n- Letter organized by ACLU supported by Hollywood celebrities 🌟\n- Kimmel's suspension receives backing from Academy Award winners 🎬\n\nTAKEAWAY: Mamdani's withdrawal from the town hall adds to the controversy surrounding Jimmy Kimmel's suspension, as Hollywood celebrities show support through an ACLU-organized letter.",
+      "exported_at": "2025-09-22T13:43:23.122710",
       "continuous_session": true
     }
   ]
