@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T06:34:02.540334",
-    "total_articles": 1563,
-    "new_articles_in_last_fetch": 1563,
+    "created_at": "2025-09-22T06:39:09.053288",
+    "total_articles": 1564,
+    "new_articles_in_last_fetch": 1564,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -20310,6 +20310,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: GLOBAL TALENT HUBS THRIVE AFTER TRUMP'S H-1B VISA FEE HIKE 🚀\n\n- Six-figure H-1B visa fee sparks opportunity in talent hubs\n- Companies reevaluate reliance on H-1B program for top talent\n- Shift towards global talent hubs accelerates post-fee increase\n\nTAKEAWAY: Trump's H-1B visa fee hike prompts a shift towards global talent hubs, offering new opportunities for companies to access top talent.",
       "exported_at": "2025-09-22T06:34:02.419900",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump’s $100,000 H-1B fee sparks a global race to grab top talent",
+      "link": "https://www.cnbc.com/2025/09/22/h-1b-visa-what-trumps-100000-fee-means-for-top-global-talent-hubs.html",
+      "summary": "The six-figure H-1B visa fee has jolted companies that have long relied on the program to bring in top global talent.",
+      "published": "Mon, 22 Sep 2025 10:36:29 GMT",
+      "content": "The six-figure H-1B visa fee has jolted companies that have long relied on the program to bring in top global talent.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d0398fa5e23ecfae130fb569b7437d1b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GLOBAL TALENT HUBS THRIVE AFTER TRUMP'S H-1B VISA FEE HIKE 🚀\n\n- Six-figure H-1B visa fee sparks opportunity in talent hubs\n- Companies reevaluate reliance on H-1B program for top talent\n- Shift towards global talent hubs accelerates post-fee increase\n\nTAKEAWAY: Trump's H-1B visa fee hike prompts a shift towards global talent hubs, offering new opportunities for companies to access top talent.",
+      "exported_at": "2025-09-22T06:39:08.938844",
       "continuous_session": true
     }
   ]
