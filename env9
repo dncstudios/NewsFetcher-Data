@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T01:14:00.817681",
-    "total_articles": 1553,
-    "new_articles_in_last_fetch": 1553,
+    "created_at": "2025-09-22T02:25:01.256880",
+    "total_articles": 1554,
+    "new_articles_in_last_fetch": 1554,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -20180,6 +20180,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: EUROPE'S IPO UPTICK SPARKS HOPES OF A MUCH NEEDED REBOUND 🚀\n\n- Recent surge in European IPO activity ignites optimism 🌟\n- Companies lining up for public listings after slow period ⏰\n- Rumors swirl around potential IPOs boosting market sentiment 💬\n\nTAKEAWAY: Europe's revitalized IPO market brings hope for a much-needed rebound, signaling renewed investor confidence and market activity.",
       "exported_at": "2025-09-22T01:14:00.702029",
+      "continuous_session": true
+    },
+    {
+      "title": "Europe markets set for mixed open as investors assess Trump’s visa crackdown",
+      "link": "https://www.cnbc.com/2025/09/22/europe-markets-tech-stocks-in-focus-after-trumps-visa-crackdown.html",
+      "summary": "European stocks were set to open mixed on Monday morning.",
+      "published": "Mon, 22 Sep 2025 06:22:22 GMT",
+      "content": "European stocks were set to open mixed on Monday morning.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4938e25849d06e8c2dbd29dffad8a4dd",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: EUROPE MARKETS MIXED AT OPEN AS INVESTORS ASSESS TRUMP VISA CRACKDOWN 📉\n\n- European stocks show mixed opening on Monday 📈📉\n- Investors assessing impact of Trump's visa crackdown 🤔\n- Market direction uncertain in the early trading session ⚠️\n\nTAKEAWAY: European markets open with a mix of optimism and caution as investors analyze the implications of Trump's visa crackdown.",
+      "exported_at": "2025-09-22T02:25:01.129082",
       "continuous_session": true
     }
   ]
