@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T10:13:49.427739",
-    "total_articles": 1589,
-    "new_articles_in_last_fetch": 1589,
+    "created_at": "2025-09-22T10:29:07.902546",
+    "total_articles": 1591,
+    "new_articles_in_last_fetch": 1591,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -20648,6 +20648,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ST. LOUIS FED PRESIDENT CAUTIOUS ON FURTHER RATE CUTS ⚠️\n\n- St. Louis Fed President supports recent rate cut ✅\n- Musalem sees \"limited room\" for additional cuts ⚠️\n- Wary about going much further with interest rate cuts ⚠️\n\nTAKEAWAY: St. Louis Fed President Musalem cautiously supports recent rate cuts but expresses concerns about further reductions, citing limited room for maneuver.",
       "exported_at": "2025-09-22T10:13:49.303318",
+      "continuous_session": true
+    },
+    {
+      "title": "Eric Jackson, who led Opendoor meme rip, has a new pick he calls the &apos;Shopify of mortgages&apos;",
+      "link": "https://www.cnbc.com/2025/09/22/eric-jackson-who-led-opendoor-meme-rip-has-a-new-pick-he-calls-the-shopify-of-mortgages.html",
+      "summary": "The EMJ Capital founder called Better Home \"the Shopify of mortgages\" and said the company is rebuilding a $15 trillion industry from scratch with AI.",
+      "published": "Mon, 22 Sep 2025 14:20:29 GMT",
+      "content": "The EMJ Capital founder called Better Home \"the Shopify of mortgages\" and said the company is rebuilding a $15 trillion industry from scratch with AI.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d6dc600c4030642fc6e123e349b8ade1",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ERIC JACKSON'S NEXT BIG PICK: MEET THE 'SHOPIFY OF MORTGAGES' 🚀\n\n- EMJ Capital founder compares Better Home to Shopify 🏪\n- Better Home aims to revolutionize a $15 trillion industry with AI 🤖\n- Eric Jackson's endorsement boosts Better Home's potential 💪\n\nTAKEAWAY: Eric Jackson's bold comparison of Better Home to Shopify highlights the disruptive potential of the company in reshaping the mortgage industry with AI technology.",
+      "exported_at": "2025-09-22T10:29:07.791520",
+      "continuous_session": true
+    },
+    {
+      "title": "A &apos;short strangle&apos; options trade for a stock trapped in a trading range",
+      "link": "https://www.cnbc.com/2025/09/22/a-short-strangle-options-trade-for-a-stock-trapped-in-a-trading-range.html",
+      "summary": "Michael Khouw goes through the basics of a strangle options trade and how this software stock could be a good candidate for one.",
+      "published": "Mon, 22 Sep 2025 14:27:00 GMT",
+      "content": "Michael Khouw goes through the basics of a strangle options trade and how this software stock could be a good candidate for one.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0a22efd72b6b34307b261f5c059dbc16",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: A 'SHORT STRANGLE' STRATEGY TO PROFIT FROM TRADING RANGE 📈\n\n- Michael Khouw explains the basics of a strangle options trade 📊\n- Strategy suitable for a software stock stuck in a trading range 📉\n- Potential candidate for a profitable short strangle trade 💰\n\nTAKEAWAY: Learn how a 'short strangle' options strategy can capitalize on a software stock's trading range, as explained by Michael Khouw.",
+      "exported_at": "2025-09-22T10:29:07.791585",
       "continuous_session": true
     }
   ]
