@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T15:20:17.265836",
-    "total_articles": 1629,
-    "new_articles_in_last_fetch": 1629,
+    "created_at": "2025-09-22T15:25:26.527599",
+    "total_articles": 1630,
+    "new_articles_in_last_fetch": 1630,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -21168,6 +21168,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JUDGE OVERTURNS TRUMP BLOCK, ORSTED RESUMES OFFSHORE WIND FARM 🚀\n\n- Orsted authorized to resume Revolution Wind construction ⚡️\n- Interior Department's Aug. 22 halt order reversed 🔄\n- Offshore wind farm located near Rhode Island, Connecticut 🌊\n- Legal battle resolved in favor of Orsted 🏆\n- Construction progress expected to pick up pace 📈\n\nTAKEAWAY: Orsted's victory in resuming construction on Revolution Wind after a legal battle signifies progress and momentum in the renewable energy sector.",
       "exported_at": "2025-09-22T15:20:17.144249",
+      "continuous_session": true
+    },
+    {
+      "title": "DA in ABC station shooting eyes Jimmy Kimmel suspension, Trump book and Epstein note",
+      "link": "https://www.cnbc.com/2025/09/22/jimmy-kimmel-abc-sacramento-shooting-epstein-kirk.html",
+      "summary": "The shooting at ABC's Sacramento affiliate occurred after the Disney subsidiary ABC suspended Jimmy Kimmel for comments about the killing of Charlie Kirk.",
+      "published": "Mon, 22 Sep 2025 19:19:53 GMT",
+      "content": "The shooting at ABC's Sacramento affiliate occurred after the Disney subsidiary ABC suspended Jimmy Kimmel for comments about the killing of Charlie Kirk.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9f440eeed4c1913d4627199de215e10a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DA IN ABC STATION SHOOTING EYES JIMMY KIMMEL SUSPENSION 🚨\n\n- Shooting at ABC's Sacramento affiliate linked to Jimmy Kimmel suspension 🔗\n- ABC suspends Kimmel for comments on Charlie Kirk killing 💬\n- Disney subsidiary faces aftermath of controversial suspension ⚠️\n- Sacramento DA investigates shooting incident 🕵️‍♂️\n- Connection between suspension, shooting raises questions ❓\n- Details emerge on events leading to tragic incident 📰\n\nTAKEAWAY: The DA's investigation into the ABC station shooting sheds light on the aftermath of Jimmy Kimmel's suspension, sparking questions and concerns about the events.",
+      "exported_at": "2025-09-22T15:25:26.398034",
       "continuous_session": true
     }
   ]
