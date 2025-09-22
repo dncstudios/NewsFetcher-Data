@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T09:27:47.705382",
-    "total_articles": 1582,
-    "new_articles_in_last_fetch": 1582,
+    "created_at": "2025-09-22T09:32:54.129459",
+    "total_articles": 1583,
+    "new_articles_in_last_fetch": 1583,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -20557,6 +20557,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JIM CRAMER'S TOP 10 STOCK MARKET WATCHLIST MONDAY 🚀\n\n- Wall Street anticipates a modestly lower open today ⚠️\n- Investors eye key indicators and market trends 📈\n- Volatility expected as market sentiment shifts ⚠️🔥\n- Focus on sector performance and global influences 🌍\n- Tech stocks under scrutiny for market direction 📉\n- Potential impact of economic data releases 🔍\n- Monitoring any breaking news or geopolitical events 🌐\n- Analyst recommendations may sway investor decisions 📈\n- Keep an eye on pre-market trading activity 📊\n\nTAKEAWAY: Stay alert for market shifts and sector performances as investors closely monitor key indicators and global influences on a potentially volatile trading day.",
       "exported_at": "2025-09-22T09:27:47.578654",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks fall to start the week after Dow, S&amp;P 500 hit fresh records: Live updates",
+      "link": "https://www.cnbc.com/2025/09/21/stock-market-today-live-updates.html",
+      "summary": "Wall Street is coming off a strong week for the major averages after the Federal Reserve cut interest rates.",
+      "published": "Mon, 22 Sep 2025 13:30:31 GMT",
+      "content": "Wall Street is coming off a strong week for the major averages after the Federal Reserve cut interest rates.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0a7f72f1307091994a89e7bafcd84cbc",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK FUTURES HOLD STEADY AFTER RECORD HIGHS 📈\n\n- Dow and S&P 500 reach new records 🌟\n- Market stability post-Fed rate cut 📉✅\n- Wall Street gears up for another week 📊\n- Investors eyeing market performance 🧐🔍\n\nTAKEAWAY: Stock futures remain steady after Dow and S&P 500 achieve new record highs, following a strong week post-Fed interest rate cut.",
+      "exported_at": "2025-09-22T09:32:54.017861",
       "continuous_session": true
     }
   ]
