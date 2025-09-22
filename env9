@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T08:31:27.850328",
-    "total_articles": 1576,
-    "new_articles_in_last_fetch": 1576,
+    "created_at": "2025-09-22T08:36:43.882432",
+    "total_articles": 1578,
+    "new_articles_in_last_fetch": 1578,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -20479,6 +20479,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ORACLE APPOINTS CLAY MAGOUYRK AND MIKE SICILIA AS CO-CEOs 🚀\n\n- Clay Magouyrk and Mike Sicilia named co-CEOs of Oracle 🌟\n- Promoted from presidents of cloud infrastructure and industries 📈\n- Announcement made by Oracle on Monday 🗓️\n- Strategic move to drive growth and innovation 🚀\n- New leadership structure aims to strengthen company's position 💪\n- Magouyrk and Sicilia to lead Oracle together as co-CEOs 🤝\n\nTAKEAWAY: Oracle's appointment of Clay Magouyrk and Mike Sicilia as co-CEOs signals a strategic move to boost growth and innovation, strengthening the company's leadership structure.",
       "exported_at": "2025-09-22T08:31:27.726272",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest premarket moves: Metsera, Compass, Kenvue, Fox and more",
+      "link": "https://www.cnbc.com/2025/09/22/stocks-making-the-biggest-premarket-moves-mtsr-comp-kvue-foxa.html",
+      "summary": "See which stocks are posting big moves before the bell.",
+      "published": "Mon, 22 Sep 2025 12:31:49 GMT",
+      "content": "See which stocks are posting big moves before the bell.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "390ed43cb999850e889555e14a996ff2",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS SURGING BEFORE OPEN: METSERA, COMPASS, KENVUE, FOX 🚀\n\n- Metsera, Compass, Kenvue, Fox among top premarket movers 📈\n- Investors eyeing stocks showing significant premarket movement 🔍\n- Early indicators suggest potential volatility at market open 💥\n\nTAKEAWAY: Metsera, Compass, Kenvue, and Fox are leading premarket movers, signaling potential volatility and investor interest before the market opens.",
+      "exported_at": "2025-09-22T08:36:43.753145",
+      "continuous_session": true
+    },
+    {
+      "title": "Morgan Stanley upgrades ASML, says AI tailwinds will boost the stock",
+      "link": "https://www.cnbc.com/2025/09/22/morgan-stanley-upgrades-asml-says-ai-tailwinds-will-boost-the-stock.html",
+      "summary": "The investment firm upgraded ASML to overweight from equal weight.",
+      "published": "Mon, 22 Sep 2025 12:29:02 GMT",
+      "content": "The investment firm upgraded ASML to overweight from equal weight.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fddd7341ae54844b61125ff0f84c983e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MORGAN STANLEY UPGRADES ASML, AI TAILWINDS TO BOOST STOCK 🚀\n\n- ASML upgraded to overweight from equal weight by Morgan Stanley 📈\n- Analysts anticipate AI tailwinds to propel ASML stock 🌟\n\nTAKEAWAY: Morgan Stanley's upgrade of ASML, fueled by AI tailwinds, signals a positive outlook for the stock's future growth potential.",
+      "exported_at": "2025-09-22T08:36:43.753211",
       "continuous_session": true
     }
   ]
