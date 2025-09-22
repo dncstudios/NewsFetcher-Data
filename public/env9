@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T08:41:55.556960",
-    "total_articles": 1579,
-    "new_articles_in_last_fetch": 1579,
+    "created_at": "2025-09-22T09:02:17.310320",
+    "total_articles": 1580,
+    "new_articles_in_last_fetch": 1580,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -20518,6 +20518,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: MONDAY'S HOTTEST ANALYST CALLS: NVIDIA, APPLE, NETFLIX, TESLA, META 🚀\n\n- Wall Street's top analyst picks for Monday revealed 🔍\n- Companies under the spotlight: Nvidia, Apple, Netflix, Tesla 🎯\n- Analyst recommendations impact Meta, Amazon, Nike, Micron, GM 📊\n\nTAKEAWAY: Explore Wall Street's latest analyst calls on major companies like Nvidia, Apple, and Tesla for potential investment opportunities. 🌟",
       "exported_at": "2025-09-22T08:41:55.452598",
+      "continuous_session": true
+    },
+    {
+      "title": "Pfizer boosts obesity drug prospects with $7.3 billion deal to buy Metsera",
+      "link": "https://www.cnbc.com/2025/09/22/pfizer-to-buy-weight-loss-drug-developer-metsera.html",
+      "summary": "Metsera, founded in 2022, brings a pipeline of both oral and injectable treatments with different targets that could boost Pfizer's odds of entering the market.",
+      "published": "Mon, 22 Sep 2025 12:59:20 GMT",
+      "content": "Metsera, founded in 2022, brings a pipeline of both oral and injectable treatments with different targets that could boost Pfizer's odds of entering the market.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7445f26a0ea87030d1dfa9ac29ff8bce",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PFIZER BOOSTS OBESITY DRUG PROSPECTS WITH $7.3B METSERA DEAL 🚀\n\n- Pfizer acquires Metsera for $7.3 billion 💰\n- Metsera founded in 2022, offers oral/injectable obesity treatments\n- Deal to enhance Pfizer's chances in the obesity drug market 📈\n- Metsera's pipeline includes treatments with varied targets\n- Pfizer aims to strengthen its position in the market ✅\n- Acquisition signals Pfizer's strategic growth move 🌟\n\nTAKEAWAY: Pfizer's $7.3 billion acquisition of Metsera propels its obesity drug prospects, boosting its market position with a diverse treatment pipeline.",
+      "exported_at": "2025-09-22T09:02:17.203344",
       "continuous_session": true
     }
   ]
