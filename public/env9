@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T12:26:29.098467",
-    "total_articles": 1603,
-    "new_articles_in_last_fetch": 1603,
+    "created_at": "2025-09-22T12:36:45.097412",
+    "total_articles": 1605,
+    "new_articles_in_last_fetch": 1605,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -20830,6 +20830,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BEST ENERGY STOCKS: UNVEILING A TOP PERFORMER 🚀\n\n- Josh Brown and Sean Russo analyze energy sector trends 📈\n- Revealing a top-performing energy stock on their Best Stocks list 💪\n- Highlighting the best-in-class name for potential investors 🌟\n\nTAKEAWAY: Dive into the energy sector with expert analysis from Josh Brown and Sean Russo, uncovering a top performer and best-in-class name for potential investors.",
       "exported_at": "2025-09-22T12:26:28.974928",
+      "continuous_session": true
+    },
+    {
+      "title": "Nvidia plans to invest up to $100 billion in OpenAI as part of data center buildout",
+      "link": "https://www.cnbc.com/2025/09/22/nvidia-openai-data-center.html",
+      "summary": "In an interview with CNBC, Nvidia CEO Jensen Huang said his company's project with OpenAI is equivalent to between 4 million and 5 million GPUs.",
+      "published": "Mon, 22 Sep 2025 16:33:10 GMT",
+      "content": "In an interview with CNBC, Nvidia CEO Jensen Huang said his company's project with OpenAI is equivalent to between 4 million and 5 million GPUs.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6bd80e35db71b6b3fab38ff8e68471b2",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NVIDIA TO INVEST $100B IN OPENAI FOR DATA CENTER EXPANSION 🚀\n\n- Nvidia CEO plans up to $100 billion investment in OpenAI 💰\n- Project includes 4-5 million GPUs for data center buildout 🖥️\n- Partnership aims to boost AI capabilities and innovation 🧠\n- CNBC interview reveals strategic focus on OpenAI collaboration 🎯\n\nTAKEAWAY: Nvidia's massive investment in OpenAI signals a strategic move to enhance AI capabilities and innovation through a significant data center expansion.",
+      "exported_at": "2025-09-22T12:36:44.969436",
+      "continuous_session": true
+    },
+    {
+      "title": "Here&apos;s everything Trump is changing with H-1B visas",
+      "link": "https://www.cnbc.com/2025/09/22/everything-trump-is-changing-with-h1b-visas.html",
+      "summary": "President Donald Trump raised the fee for an H-1B visa to $100,000 on Friday, leaving companies scrambling to respond.",
+      "published": "Mon, 22 Sep 2025 16:20:22 GMT",
+      "content": "President Donald Trump raised the fee for an H-1B visa to $100,000 on Friday, leaving companies scrambling to respond.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a5d7198a92135ffa4ff983bbacb6b749",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP RAISES H-1B VISA FEE TO $100,000 🚀\n\n- H-1B visa fee increased to $100,000 💸\n- Companies face challenges adapting to fee hike 🤯\n- Trump's move creates urgency in visa application process ⏰\n\nTAKEAWAY: President Trump's decision to raise the H-1B visa fee to $100,000 has significant implications for companies and visa applicants, prompting quick adjustments and responses.",
+      "exported_at": "2025-09-22T12:36:44.969517",
       "continuous_session": true
     }
   ]
