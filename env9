@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T06:39:09.053288",
-    "total_articles": 1564,
-    "new_articles_in_last_fetch": 1564,
+    "created_at": "2025-09-22T06:49:21.244808",
+    "total_articles": 1565,
+    "new_articles_in_last_fetch": 1565,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -20323,6 +20323,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: GLOBAL TALENT HUBS THRIVE AFTER TRUMP'S H-1B VISA FEE HIKE 🚀\n\n- Six-figure H-1B visa fee sparks opportunity in talent hubs\n- Companies reevaluate reliance on H-1B program for top talent\n- Shift towards global talent hubs accelerates post-fee increase\n\nTAKEAWAY: Trump's H-1B visa fee hike prompts a shift towards global talent hubs, offering new opportunities for companies to access top talent.",
       "exported_at": "2025-09-22T06:39:08.938844",
+      "continuous_session": true
+    },
+    {
+      "title": "Build-A-Bear Workshop is a bright spot in retail even with tariffs, dwindling mall traffic",
+      "link": "https://www.cnbc.com/2025/09/22/build-a-bear-workshop-stock-revenue.html",
+      "summary": "Even as the retail industry faces headwinds, Build-A-Bear Workshop is riding on its momentum borne out of nostalgia, legacy branding and diversifying.",
+      "published": "Mon, 22 Sep 2025 10:30:01 GMT",
+      "content": "Even as the retail industry faces headwinds, Build-A-Bear Workshop is riding on its momentum borne out of nostalgia, legacy branding and diversifying.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "62953b93ed446fd7a5c0d19912739c26",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BUILD-A-BEAR WORKSHOP SHINES AMID RETAIL CHALLENGES 🌟\n\n- Build-A-Bear defies retail struggles with nostalgia-driven momentum 🧸\n- Legacy branding and diversification fuel Build-A-Bear's success 🌈\n- Tariffs and declining mall traffic fail to hamper Build-A-Bear's growth 📈\n\nTAKEAWAY: Despite retail challenges, Build-A-Bear Workshop stands out through its nostalgic appeal, strong brand legacy, and successful diversification strategies.",
+      "exported_at": "2025-09-22T06:49:21.134271",
       "continuous_session": true
     }
   ]
