@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T09:43:14.529192",
-    "total_articles": 1587,
-    "new_articles_in_last_fetch": 1587,
+    "created_at": "2025-09-22T09:53:28.523966",
+    "total_articles": 1588,
+    "new_articles_in_last_fetch": 1588,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -20622,6 +20622,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: PSYCHOLOGIST'S GUIDE: MASTER THE ART OF SHUTTING DOWN UNSOLICITED ADVICE 🚀\n\n- Dr. Zahrai's wisdom: power in how you receive advice 🧠\n- 5 phrases to gracefully decline unsolicited advice 🙅\n- Master the art of setting boundaries with tact ✅\n- Take control of conversations with assertive responses 🔥\n- Empower yourself by choosing how to engage with advice 🌟\n\nTAKEAWAY: Dr. Shadé Zahrai's expert advice equips you with the tools to gracefully shut down unsolicited advice and take control of your interactions.",
       "exported_at": "2025-09-22T09:43:14.409601",
+      "continuous_session": true
+    },
+    {
+      "title": "Fed cuts will &apos;take a bite out of savings,&apos; CFP says. But there&apos;s still time to lock in higher rates",
+      "link": "https://www.cnbc.com/2025/09/22/fed-rate-cuts-best-cash-returns.html",
+      "summary": "The Federal Reserve's latest quarter-point rate cut could be just the start. But savers can still earn competitive returns on cash, experts say.",
+      "published": "Mon, 22 Sep 2025 13:51:44 GMT",
+      "content": "The Federal Reserve's latest quarter-point rate cut could be just the start. But savers can still earn competitive returns on cash, experts say.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8c9257af6c0d1054bfa5626be0770d0e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FED RATE CUTS IMPACT ON SAVINGS: TIME TO LOCK IN HIGHER RATES ⚠️\n\n- Federal Reserve's quarter-point rate cut may signal more cuts ahead 📉\n- Savers advised to secure competitive returns before rates drop further 💰\n- Opportunity to lock in higher rates still available to savers ⏳\n\nTAKEAWAY: The Federal Reserve's rate cut may impact savings, but savers can still take advantage of higher rates before potential future cuts.",
+      "exported_at": "2025-09-22T09:53:28.407092",
       "continuous_session": true
     }
   ]
