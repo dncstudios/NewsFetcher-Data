@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T08:16:10.328325",
-    "total_articles": 1575,
-    "new_articles_in_last_fetch": 1575,
+    "created_at": "2025-09-22T08:31:27.850328",
+    "total_articles": 1576,
+    "new_articles_in_last_fetch": 1576,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -20466,6 +20466,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCKS SURGING BEFORE OPEN: METSERA, COMPASS, KENVUE, FOX 🚀\n\n- Metsera, Compass, Kenvue, Fox among top premarket movers 📈\n- Investors eyeing stocks showing significant premarket movement 🔍\n- Early indicators suggest potential volatility at market open 💥\n\nTAKEAWAY: Metsera, Compass, Kenvue, and Fox are leading premarket movers, signaling potential volatility and investor interest before the market opens.",
       "exported_at": "2025-09-22T08:16:10.240957",
+      "continuous_session": true
+    },
+    {
+      "title": "Oracle names Clay Magouyrk and Mike Sicilia as co-CEOs",
+      "link": "https://www.cnbc.com/2025/09/22/oracle-names-co-ceos.html",
+      "summary": "Oracle is promoting its presidents of cloud infrastructure, Clay Magouyrk, and industries, Mike Sicilia, to co-CEOs, the company announced Monday.",
+      "published": "Mon, 22 Sep 2025 12:30:58 GMT",
+      "content": "Oracle is promoting its presidents of cloud infrastructure, Clay Magouyrk, and industries, Mike Sicilia, to co-CEOs, the company announced Monday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b4e1bf2c2d08691c60789d0baace533a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ORACLE APPOINTS CLAY MAGOUYRK AND MIKE SICILIA AS CO-CEOs 🚀\n\n- Clay Magouyrk and Mike Sicilia named co-CEOs of Oracle 🌟\n- Promoted from presidents of cloud infrastructure and industries 📈\n- Announcement made by Oracle on Monday 🗓️\n- Strategic move to drive growth and innovation 🚀\n- New leadership structure aims to strengthen company's position 💪\n- Magouyrk and Sicilia to lead Oracle together as co-CEOs 🤝\n\nTAKEAWAY: Oracle's appointment of Clay Magouyrk and Mike Sicilia as co-CEOs signals a strategic move to boost growth and innovation, strengthening the company's leadership structure.",
+      "exported_at": "2025-09-22T08:31:27.726272",
       "continuous_session": true
     }
   ]
