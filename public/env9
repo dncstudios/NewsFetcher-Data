@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T00:53:38.959995",
-    "total_articles": 1551,
-    "new_articles_in_last_fetch": 1551,
+    "created_at": "2025-09-22T01:14:00.817681",
+    "total_articles": 1553,
+    "new_articles_in_last_fetch": 1553,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -20154,6 +20154,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ASIA-PACIFIC MARKETS RISE AS CHINA HOLDS LENDING RATES 🚀\n\n- China maintains loan prime rates for 4th consecutive month 📈\n- Contrast with Fed's recent 25 basis point rate cut 🔍\n- Market confidence boosts Asia-Pacific stocks 📈\n- Investors optimistic about stable Chinese economy 🇨🇳\n- China's decision in line with market expectations ✅\n- Fed's rate cut impact yet to be seen in China's economy ⚠️\n\nTAKEAWAY: China's steady stance on lending rates boosts market confidence, while Asia-Pacific markets rise in anticipation of a stable Chinese economy despite the recent Fed rate cut.",
       "exported_at": "2025-09-22T00:53:38.836429",
+      "continuous_session": true
+    },
+    {
+      "title": "Hedge fund bears are scaling back Kering short positions as new CEO plots resurgence",
+      "link": "https://www.cnbc.com/2025/09/22/hedge-fund-bears-are-scaling-back-kering-short-positions-as-new-ceo-plots-resurgence.html",
+      "summary": "Short sellers retreat as luxury group rallies amid group shake-up",
+      "published": "Mon, 22 Sep 2025 05:07:50 GMT",
+      "content": "Short sellers retreat as luxury group rallies amid group shake-up",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "881cce7a642727b6c9da806d9d96bfef",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: HEDGE FUND BEARS RETREAT FROM KERING SHORTS AMID CEO RESURGENCE 🚀\n\n- Short sellers reduce Kering short positions 📉\n- Luxury group rallies during company shake-up 🔥\n- New CEO's strategies lead to positive market response ✅\n- Hedge funds optimistic about Kering's future prospects 📈\n\nTAKEAWAY: With short sellers scaling back and the luxury group rallying under a new CEO, Kering's resurgence is gaining momentum in the market.",
+      "exported_at": "2025-09-22T01:14:00.701961",
+      "continuous_session": true
+    },
+    {
+      "title": "Europe’s IPO uptick sparks hopes of a much needed rebound",
+      "link": "https://www.cnbc.com/2025/09/22/europes-ipo-uptick-sparks-hopes-of-a-much-needed-rebound.html",
+      "summary": "After a sluggish period for public listings in Europe, a slew of companies have either recently floated or are rumored to be eyeing an IPO in the region.",
+      "published": "Mon, 22 Sep 2025 05:07:58 GMT",
+      "content": "After a sluggish period for public listings in Europe, a slew of companies have either recently floated or are rumored to be eyeing an IPO in the region.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "029c2b46f8abab0739ddc07ff4407a03",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: EUROPE'S IPO UPTICK SPARKS HOPES OF A MUCH NEEDED REBOUND 🚀\n\n- Recent surge in European IPO activity ignites optimism 🌟\n- Companies lining up for public listings after slow period ⏰\n- Rumors swirl around potential IPOs boosting market sentiment 💬\n\nTAKEAWAY: Europe's revitalized IPO market brings hope for a much-needed rebound, signaling renewed investor confidence and market activity.",
+      "exported_at": "2025-09-22T01:14:00.702029",
       "continuous_session": true
     }
   ]
