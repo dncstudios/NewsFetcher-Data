@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T11:04:51.182569",
-    "total_articles": 1594,
-    "new_articles_in_last_fetch": 1594,
+    "created_at": "2025-09-22T11:25:11.598576",
+    "total_articles": 1596,
+    "new_articles_in_last_fetch": 1596,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -20713,6 +20713,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TIKTOK DEAL EXCLUDES 'GOLDEN SHARE' OR U.S. EQUITY 🚫\n\n- Trump's golden share in U.S. Steel and Intel equity not part of TikTok deal\n- Administration clarifies no special privileges for U.S. in TikTok agreement\n- Trump's stake in U.S. Steel and Intel separate from TikTok negotiations\n\nTAKEAWAY: The TikTok deal under the Trump administration won't involve a 'golden share' or equity for the U.S., distinct from Trump's existing stakes in U.S. Steel and Intel.",
       "exported_at": "2025-09-22T11:04:51.073374",
+      "continuous_session": true
+    },
+    {
+      "title": "Hedge funds were huge buyers of financial stocks after the Fed&apos;s first rate cut of 2025",
+      "link": "https://www.cnbc.com/2025/09/22/hedge-funds-bought-financial-stocks-after-feds-first-rate-cut-of-2025.html",
+      "summary": "The notional net buying in financials ranked in the 98th percentile for the past five years, Goldman Sachs said.",
+      "published": "Mon, 22 Sep 2025 15:12:06 GMT",
+      "content": "The notional net buying in financials ranked in the 98th percentile for the past five years, Goldman Sachs said.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f988675c3028aa30f73313d8bff655f0",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: HEDGE FUNDS BULLISH ON FINANCIAL STOCKS AFTER FED RATE CUT 🚀\n\n- Hedge funds heavily bought financial stocks post-Fed rate cut 📈\n- Notional net buying in financials at 98th percentile in 5 years 📊\n- Goldman Sachs report highlights strong bullish sentiment 📈\n\nTAKEAWAY: Hedge funds showed exceptional confidence in financial stocks post-Fed rate cut, with notable buying activity reaching a 5-year high, signaling a bullish outlook.",
+      "exported_at": "2025-09-22T11:25:11.466810",
+      "continuous_session": true
+    },
+    {
+      "title": "Better Home &amp; Finance shares more than double after Eric Jackson of Opendoor fame recommends it",
+      "link": "https://www.cnbc.com/2025/09/22/eric-jackson-who-led-opendoor-meme-rip-has-a-new-pick-he-calls-the-shopify-of-mortgages.html",
+      "summary": "The EMJ Capital founder called Better Home \"the Shopify of mortgages\" and said the company is rebuilding a $15 trillion industry from scratch with AI.",
+      "published": "Mon, 22 Sep 2025 15:24:12 GMT",
+      "content": "The EMJ Capital founder called Better Home \"the Shopify of mortgages\" and said the company is rebuilding a $15 trillion industry from scratch with AI.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e9cf5ac775491023170fd4354a3d8742",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ERIC JACKSON'S NEXT BIG PICK: MEET THE 'SHOPIFY OF MORTGAGES' 🚀\n\n- EMJ Capital founder compares Better Home to Shopify 🏪\n- Better Home aims to revolutionize a $15 trillion industry with AI 🤖\n- Eric Jackson's endorsement boosts Better Home's potential 💪\n\nTAKEAWAY: Eric Jackson's bold comparison of Better Home to Shopify highlights the disruptive potential of the company in reshaping the mortgage industry with AI technology.",
+      "exported_at": "2025-09-22T11:25:11.466878",
       "continuous_session": true
     }
   ]
