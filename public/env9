@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T18:23:21.541798",
-    "total_articles": 1640,
-    "new_articles_in_last_fetch": 1640,
+    "created_at": "2025-09-22T18:28:28.183316",
+    "total_articles": 1641,
+    "new_articles_in_last_fetch": 1641,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -21311,6 +21311,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCK FUTURES STAGNANT AFTER 3-DAY WIN STREAK FOR S&P 500 📉\n\n- S&P 500 sees 3-day winning streak, but futures show little movement 📉\n- Uncertainty looms over the sustainability of AI trade in U.S. equities 🤔\n- Risks linked to high market valuations raise concerns ⚠️\n\nTAKEAWAY: Despite a recent winning streak for the S&P 500, stagnant stock futures and doubts about the sustainability of AI trade highlight uncertainties and risks in the market.",
       "exported_at": "2025-09-22T18:23:21.425713",
+      "continuous_session": true
+    },
+    {
+      "title": "India feels the sting as Trump slaps $100,000 fee on H-1B visas",
+      "link": "https://www.cnbc.com/2025/09/22/how-india-will-feel-the-sting-of-trumps-h-1b-visa-fee-hike.html",
+      "summary": "Investors shed shares of IT outsourcing firms of all sizes, including Infosys, Tech Mahindra, Wipro, HCL Technologies and Tata Consultancy Services.",
+      "published": "Mon, 22 Sep 2025 11:07:13 GMT",
+      "content": "Investors shed shares of IT outsourcing firms of all sizes, including Infosys, Tech Mahindra, Wipro, HCL Technologies and Tata Consultancy Services.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2ac7aecf77188933bb6f66f098fe82c3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: INDIA BRACES FOR TRUMP'S H-1B VISA FEE HIKE 🚨\n\n- IT outsourcing giants like Infosys, Wipro, & TCS face investor sell-off 📉\n- Trump's fee increase on H-1B visas impacts India's tech sector 🇮🇳\n- Uncertainty surrounds the future of Indian IT firms 🤔\n\nTAKEAWAY: Trump's H-1B visa fee hike rattles India's tech industry as major players like Infosys and Tata Consultancy Services see investor sell-off.",
+      "exported_at": "2025-09-22T18:28:28.051570",
       "continuous_session": true
     }
   ]
