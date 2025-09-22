@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T15:40:44.749260",
-    "total_articles": 1632,
-    "new_articles_in_last_fetch": 1632,
+    "created_at": "2025-09-22T16:01:06.592671",
+    "total_articles": 1633,
+    "new_articles_in_last_fetch": 1633,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -21207,6 +21207,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: DISNEY ANNOUNCES RETURN OF 'JIMMY KIMMEL LIVE' TO ABC 🚀\n\n- 'Jimmy Kimmel Live!' resumes ABC broadcast tomorrow 📺\n- Disney confirms show's comeback in official statement 💬\n\nTAKEAWAY: Exciting news as 'Jimmy Kimmel Live!' makes a triumphant return to ABC, bringing laughter and entertainment back to our screens!",
       "exported_at": "2025-09-22T15:40:44.634240",
+      "continuous_session": true
+    },
+    {
+      "title": "Disney says &apos;Jimmy Kimmel Live&apos; will return to ABC on Tuesday",
+      "link": "https://www.cnbc.com/2025/09/22/disney-abc-jimmy-kimmel-return.html",
+      "summary": "ABC had pulled Kimmel's show after he made comments linking the alleged killer of conservative activist Charlie Kirk to President Donald Trump's MAGA movement.",
+      "published": "Mon, 22 Sep 2025 20:00:11 GMT",
+      "content": "ABC had pulled Kimmel's show after he made comments linking the alleged killer of conservative activist Charlie Kirk to President Donald Trump's MAGA movement.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "187599fae2556eb636f71cbc95701898",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DISNEY ANNOUNCES RETURN OF 'JIMMY KIMMEL LIVE' TO ABC 🚀\n\n- 'Jimmy Kimmel Live' to resume airing on ABC next Tuesday ✅\n- Show was temporarily removed due to controversial comments 🔥\n- Comments tied alleged killer to President Trump's MAGA movement ⚠️\n\nTAKEAWAY: 'Jimmy Kimmel Live' is set to make a comeback on ABC after a temporary hiatus due to controversial remarks, creating buzz among viewers.",
+      "exported_at": "2025-09-22T16:01:06.468068",
       "continuous_session": true
     }
   ]
