@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T05:27:55.922868",
-    "total_articles": 1560,
-    "new_articles_in_last_fetch": 1560,
+    "created_at": "2025-09-22T05:33:07.316538",
+    "total_articles": 1561,
+    "new_articles_in_last_fetch": 1561,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -20271,6 +20271,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: HERE ARE THE 3 BIG THINGS SHAPING THE STOCK MARKET NEXT WEEK 🚀\n\n- Housing data release anticipated for market impact 🏡\n- Fed's preferred inflation gauge to influence investor sentiment 💰\n- Costco earnings report key focus for market performance 📈\n\nTAKEAWAY: Keep an eye on housing data, inflation indicators, and Costco earnings next week as they drive market movements and investor decisions.",
       "exported_at": "2025-09-22T05:27:55.794200",
+      "continuous_session": true
+    },
+    {
+      "title": "Club nation: Why Costco, Sam&apos;s Club and BJ&apos;s are opening new stores and gaining members",
+      "link": "https://www.cnbc.com/2025/09/20/costco-sams-club-and-bjs-open-new-stores-and-gain-members-.html",
+      "summary": "Club retailers have drawn in shoppers with faster online options, eye-catching merchandise and cheap meals along with low-priced and bulk items.",
+      "published": "Sat, 20 Sep 2025 12:00:01 GMT",
+      "content": "Club retailers have drawn in shoppers with faster online options, eye-catching merchandise and cheap meals along with low-priced and bulk items.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d947b50bfb846519b843b1ab7c0fc6a8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CLUB NATION RETAILERS EXPAND: COSTCO, SAM'S CLUB, BJ'S ON THE RISE 🚀\n\n- Costco, Sam's Club, BJ's attract members with online speed ⚡️\n- Eye-catching products and affordable meals lure in shoppers 🛍️🍔\n- Focus on low prices and bulk items boosts membership ✅\n- Expansion strategy includes opening new stores 🏬\n- Increased member base contributes to growth 📈\n- Online options and attractive merchandise drive success 🎯\n\nTAKEAWAY: Club retailers like Costco, Sam's Club, and BJ's are expanding and gaining members by offering fast online services, appealing products, affordable dining options, and competitive pricing on bulk items.",
+      "exported_at": "2025-09-22T05:33:07.216864",
       "continuous_session": true
     }
   ]
