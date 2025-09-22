@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T06:49:21.244808",
-    "total_articles": 1565,
-    "new_articles_in_last_fetch": 1565,
+    "created_at": "2025-09-22T07:14:48.535361",
+    "total_articles": 1567,
+    "new_articles_in_last_fetch": 1567,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -20336,6 +20336,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BUILD-A-BEAR WORKSHOP SHINES AMID RETAIL CHALLENGES 🌟\n\n- Build-A-Bear defies retail struggles with nostalgia-driven momentum 🧸\n- Legacy branding and diversification fuel Build-A-Bear's success 🌈\n- Tariffs and declining mall traffic fail to hamper Build-A-Bear's growth 📈\n\nTAKEAWAY: Despite retail challenges, Build-A-Bear Workshop stands out through its nostalgic appeal, strong brand legacy, and successful diversification strategies.",
       "exported_at": "2025-09-22T06:49:21.134271",
+      "continuous_session": true
+    },
+    {
+      "title": "Family offices are still keen on direct deals but retreat from startup, early-stage investing",
+      "link": "https://www.cnbc.com/2025/09/22/family-offices-direct-investing-private-equity-citi-survey.html",
+      "summary": "Seven out of 10 family offices make direct investments in private companies, and nearly half of them doubled down in 2025, per a new Citi survey.",
+      "published": "Mon, 22 Sep 2025 11:00:01 GMT",
+      "content": "Seven out of 10 family offices make direct investments in private companies, and nearly half of them doubled down in 2025, per a new Citi survey.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f5677fc88b08c82c7d3f6653d371410c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FAMILY OFFICES SHIFT FOCUS TO DIRECT INVESTMENTS, LESS ON STARTUPS 📉\n\n- 70% of family offices invest directly in private firms 🌟\n- 50% increased direct investments in 2025 💰\n- Trend shows retreat from startup and early-stage investing 📉\n\nTAKEAWAY: Family offices pivot towards direct investments in private companies, reducing focus on startups and early-stage investments.",
+      "exported_at": "2025-09-22T07:14:48.419508",
+      "continuous_session": true
+    },
+    {
+      "title": "ETFs vs. mutual funds: Key differences for investors",
+      "link": "https://www.cnbc.com/2025/09/22/etfs-vs-mutual-funds-key-differences-for-investors.html",
+      "summary": "Exchange-traded funds and mutual funds are similar but have various pros and cons for investors.",
+      "published": "Mon, 22 Sep 2025 11:00:01 GMT",
+      "content": "Exchange-traded funds and mutual funds are similar but have various pros and cons for investors.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "edbd2677c295e4d9a33a93fc08d04ca9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ETFs VS. MUTUAL FUNDS: KNOW THE KEY DIFFERENCES 📊\n\n- ETFs trade on exchanges like stocks 📈\n- Mutual funds are priced once a day after market close 🌙\n- ETFs usually have lower expense ratios 💰\n- Mutual funds are actively managed, potentially higher fees 💸\n- Both offer diversification but with different structures 🔄\n\nTAKEAWAY: Understanding the differences between ETFs and mutual funds is crucial for investors to make informed decisions based on their financial goals and risk tolerance.",
+      "exported_at": "2025-09-22T07:14:48.419578",
       "continuous_session": true
     }
   ]
