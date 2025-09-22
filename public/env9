@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T19:19:17.294002",
-    "total_articles": 1643,
-    "new_articles_in_last_fetch": 1643,
+    "created_at": "2025-09-22T19:24:26.901743",
+    "total_articles": 1644,
+    "new_articles_in_last_fetch": 1644,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -21350,6 +21350,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: INDIA'S $18B BET ON CHIP POWERHOUSE 🚀\n\n- India invests $18 billion to attract global chip companies 💰\n- Dream of semiconductor self-sufficiency drives heavy investment 🌟\n- Success in attracting global chip players has been mixed 🎢\n\nTAKEAWAY: India's ambitious $18 billion investment to become a chip powerhouse showcases determination, but uneven success raises challenges.",
       "exported_at": "2025-09-22T19:19:17.185993",
+      "continuous_session": true
+    },
+    {
+      "title": "Here&apos;s everything Trump said he&apos;s changing about H-1B visas",
+      "link": "https://www.cnbc.com/2025/09/22/everything-trump-is-changing-with-h1b-visas.html",
+      "summary": "President Donald Trump announced Friday that the fee that employers must pay for an H-1B visa will be raised to $100,000.",
+      "published": "Mon, 22 Sep 2025 23:19:02 GMT",
+      "content": "President Donald Trump announced Friday that the fee that employers must pay for an H-1B visa will be raised to $100,000.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f34d996e0b4170e66b9e4dc5446ecb97",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP RAISES H-1B VISA FEE TO $100,000 🚀\n\n- H-1B visa fee increased to $100,000 by Trump 💸\n- Employers face higher costs for hiring foreign workers 🌏\n- Trump aims to limit H-1B visa abuse and protect American jobs 🇺🇸\n- Impact on tech industry and companies hiring skilled foreign workers 📈\n- New policy sparks debate on immigration and economic implications 💬\n- Potential challenges for businesses relying on H-1B visas ⚠️\n\nTAKEAWAY: Trump's decision to raise H-1B visa fees to $100,000 aims to curb abuse, protect American jobs, but sparks debate and poses challenges for businesses relying on skilled foreign workers.",
+      "exported_at": "2025-09-22T19:24:26.772030",
       "continuous_session": true
     }
   ]
