@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T03:25:51.915713",
-    "total_articles": 1555,
-    "new_articles_in_last_fetch": 1555,
+    "created_at": "2025-09-22T03:31:00.303807",
+    "total_articles": 1556,
+    "new_articles_in_last_fetch": 1556,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -20206,6 +20206,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: EUROPE MARKETS MIXED AT OPEN AS INVESTORS ASSESS TRUMP VISA CRACKDOWN 📉\n\n- European stocks show mixed opening on Monday 📈📉\n- Investors assessing impact of Trump's visa crackdown 🤔\n- Market direction uncertain in the early trading session ⚠️\n\nTAKEAWAY: European markets open with a mix of optimism and caution as investors analyze the implications of Trump's visa crackdown.",
       "exported_at": "2025-09-22T03:25:51.798135",
+      "continuous_session": true
+    },
+    {
+      "title": "Porsche shares shed 7% after cutting outlook",
+      "link": "https://www.cnbc.com/2025/09/22/europe-markets-tech-stocks-in-focus-after-trumps-visa-crackdown.html",
+      "summary": "Auto stocks notched some of the biggest losses in early deals.",
+      "published": "Mon, 22 Sep 2025 07:25:53 GMT",
+      "content": "Auto stocks notched some of the biggest losses in early deals.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f95df563fc3132d1795ea73591ca4dc2",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PORSCHE SHARES PLUMMET 7% AS OUTLOOK SLASHED 📉\n\n- Porsche shares tumble by 7% post outlook reduction\n- Auto stocks experience significant losses in early trading 📉\n- Market reacts negatively to Porsche's revised outlook\n\nTAKEAWAY: Porsche's shares drop by 7% following a cut in outlook, contributing to significant losses in the auto sector.",
+      "exported_at": "2025-09-22T03:31:00.211551",
       "continuous_session": true
     }
   ]
