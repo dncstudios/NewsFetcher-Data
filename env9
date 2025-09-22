@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-21T19:49:10.233899",
-    "total_articles": 1543,
-    "new_articles_in_last_fetch": 1543,
+    "created_at": "2025-09-21T20:14:32.084105",
+    "total_articles": 1544,
+    "new_articles_in_last_fetch": 1544,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -20050,6 +20050,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ASIA-PACIFIC MARKETS AWAIT CHINA'S LOAN PRIME RATE DECISION 🚀\n\n- China likely to maintain loan prime rates: Reuters poll 📊\n- Anticipation stirs in Asia-Pacific markets 🌏\n- Investors await China's decision for market direction 🔍\n\nTAKEAWAY: Asia-Pacific markets are on edge as they anticipate China's upcoming loan prime rate decision, which could influence market trends.",
       "exported_at": "2025-09-21T19:49:10.135581",
+      "continuous_session": true
+    },
+    {
+      "title": "Asia-Pacific markets rise ahead of China&apos;s loan prime rate decision",
+      "link": "https://www.cnbc.com/2025/09/22/asia-pacific-markets-nikkei-225-hang-seng-china-loan-prime-rate-decision.html",
+      "summary": "China is expected to leave the loan prime rates unchanged, according to a Reuters poll.",
+      "published": "Mon, 22 Sep 2025 00:14:08 GMT",
+      "content": "China is expected to leave the loan prime rates unchanged, according to a Reuters poll.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e8632014a6eb14c4af538ef7796305e9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASIA-PACIFIC MARKETS AWAIT CHINA'S LOAN PRIME RATE DECISION 🚀\n\n- China likely to maintain loan prime rates: Reuters poll 📊\n- Anticipation stirs in Asia-Pacific markets 🌏\n- Investors await China's decision for market direction 🔍\n\nTAKEAWAY: Asia-Pacific markets are on edge as they anticipate China's upcoming loan prime rate decision, which could influence market trends.",
+      "exported_at": "2025-09-21T20:14:31.967707",
       "continuous_session": true
     }
   ]
