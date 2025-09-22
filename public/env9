@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T18:58:56.655333",
-    "total_articles": 1642,
-    "new_articles_in_last_fetch": 1642,
+    "created_at": "2025-09-22T19:19:17.294002",
+    "total_articles": 1643,
+    "new_articles_in_last_fetch": 1643,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -21337,6 +21337,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JIM CRAMER'S TOP BARGAIN STOCKS TO BUY AS S&P 500 SOARS 🚀\n\n- T-Mobile, Dollar Tree, Caterpillar, and Dell recommended by Cramer 💡\n- These stocks identified as growth opportunities at a reasonable price 📈\n- Jim Cramer believes there are still bargains in the S&P 500 💰\n\nTAKEAWAY: Jim Cramer suggests grabbing opportunities in T-Mobile, Dollar Tree, Caterpillar, and Dell as they offer growth potential at a good value amidst the S&P 500's rise.",
       "exported_at": "2025-09-22T18:58:56.525049",
+      "continuous_session": true
+    },
+    {
+      "title": "India is betting $18 billion to build a chip powerhouse. Here’s what it means",
+      "link": "https://www.cnbc.com/2025/09/23/india-is-betting-18-billion-to-build-a-chip-powerhouse-heres-what-it-means.html",
+      "summary": "India dreams of being self-sufficient in terms of semiconductors has seen it invest heavily to attract global chip companies. But success has been uneven.",
+      "published": "Mon, 22 Sep 2025 23:18:52 GMT",
+      "content": "India dreams of being self-sufficient in terms of semiconductors has seen it invest heavily to attract global chip companies. But success has been uneven.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1e69b026a78438269c0194f10124df06",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: INDIA'S $18B BET ON CHIP POWERHOUSE 🚀\n\n- India invests $18 billion to attract global chip companies 💰\n- Dream of semiconductor self-sufficiency drives heavy investment 🌟\n- Success in attracting global chip players has been mixed 🎢\n\nTAKEAWAY: India's ambitious $18 billion investment to become a chip powerhouse showcases determination, but uneven success raises challenges.",
+      "exported_at": "2025-09-22T19:19:17.185993",
       "continuous_session": true
     }
   ]
