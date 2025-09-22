@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T17:22:19.869898",
-    "total_articles": 1637,
-    "new_articles_in_last_fetch": 1637,
+    "created_at": "2025-09-22T17:37:38.723079",
+    "total_articles": 1639,
+    "new_articles_in_last_fetch": 1639,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -21272,6 +21272,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: DA IN ABC STATION SHOOTING EYES JIMMY KIMMEL SUSPENSION 🚨\n\n- Shooting at ABC's Sacramento affiliate linked to Jimmy Kimmel suspension 🔗\n- ABC suspends Kimmel for comments on Charlie Kirk killing 💬\n- Disney subsidiary faces aftermath of controversial suspension ⚠️\n- Sacramento DA investigates shooting incident 🕵️‍♂️\n- Connection between suspension, shooting raises questions ❓\n- Details emerge on events leading to tragic incident 📰\n\nTAKEAWAY: The DA's investigation into the ABC station shooting sheds light on the aftermath of Jimmy Kimmel's suspension, sparking questions and concerns about the events.",
       "exported_at": "2025-09-22T17:22:19.742877",
+      "continuous_session": true
+    },
+    {
+      "title": "Santoli&apos;s Monday market wrap-up: Rotation and megacap-tech momentum enough to lift S&amp;P 500",
+      "link": "https://www.cnbc.com/2025/09/22/santolis-monday-market-wrap-up-rotation-and-tech-momentum-lift-sp-500.html",
+      "summary": "An Nvidia/OpenAI $100 billion investment in AI capacity sent related stocks flying and more than offset the fatigue evident in the broader market.",
+      "published": "Mon, 22 Sep 2025 20:21:33 GMT",
+      "content": "An Nvidia/OpenAI $100 billion investment in AI capacity sent related stocks flying and more than offset the fatigue evident in the broader market.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d97ce475123281253dc485d094f8b716",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SANTOLI'S MONDAY MARKET WRAP-UP: ROTATION LIFTS S&P 500 🚀\n\n- Nvidia/OpenAI's $100B AI investment ignites related stocks 🔥\n- Megacap-tech momentum counteracts market fatigue 💪\n- S&P 500 lifted by sector rotation and tech surge 📈\n\nTAKEAWAY: Despite market fatigue, the S&P 500 gets a boost from sector rotation and megacap-tech momentum, fueled by Nvidia/OpenAI's $100 billion AI investment.",
+      "exported_at": "2025-09-22T17:37:38.601534",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump to meet top Democrats as their health care demands fuel government shutdown risk",
+      "link": "https://www.cnbc.com/2025/09/22/trump-schumer-jeffries-government-funding-.html",
+      "summary": "Sen. Chuck Schumer urged President Donald Trump to meet with congressional Democratic leaders to negotiate a way out of the government funding stalemate.",
+      "published": "Mon, 22 Sep 2025 21:10:07 GMT",
+      "content": "Sen. Chuck Schumer urged President Donald Trump to meet with congressional Democratic leaders to negotiate a way out of the government funding stalemate.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1a14fc4e2d4696b8323a5a3ac07e7d83",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP TO MEET TOP DEMOCRATS AMID GOVERNMENT SHUTDOWN RISK ⚠️\n\n- Sen. Schumer pushes for negotiations to avoid funding standoff\n- Democrats demand healthcare provisions in funding discussions\n- Meeting aims to find resolution to prevent government shutdown\n\nTAKEAWAY: Trump's upcoming meeting with top Democrats seeks to address healthcare demands and avert a potential government shutdown.",
+      "exported_at": "2025-09-22T17:37:38.601610",
       "continuous_session": true
     }
   ]
