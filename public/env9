@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T07:14:48.535361",
-    "total_articles": 1567,
-    "new_articles_in_last_fetch": 1567,
+    "created_at": "2025-09-22T07:19:57.448047",
+    "total_articles": 1568,
+    "new_articles_in_last_fetch": 1568,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -20362,6 +20362,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ETFs VS. MUTUAL FUNDS: KNOW THE KEY DIFFERENCES 📊\n\n- ETFs trade on exchanges like stocks 📈\n- Mutual funds are priced once a day after market close 🌙\n- ETFs usually have lower expense ratios 💰\n- Mutual funds are actively managed, potentially higher fees 💸\n- Both offer diversification but with different structures 🔄\n\nTAKEAWAY: Understanding the differences between ETFs and mutual funds is crucial for investors to make informed decisions based on their financial goals and risk tolerance.",
       "exported_at": "2025-09-22T07:14:48.419578",
+      "continuous_session": true
+    },
+    {
+      "title": "Pfizer to buy weight-loss drug developer Metsera in $7.3 billion deal",
+      "link": "https://www.cnbc.com/2025/09/22/pfizer-to-buy-weight-loss-drug-developer-metsera.html",
+      "summary": "Pfizer said on Monday it would acquire weight-loss drug developer Metsera in a deal valued up to $7.3 billion.",
+      "published": "Mon, 22 Sep 2025 11:16:19 GMT",
+      "content": "Pfizer said on Monday it would acquire weight-loss drug developer Metsera in a deal valued up to $7.3 billion.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "251ebfad70a06bff1d50f25f7a27423f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PFIZER ACQUIRES METSERA IN $7.3 BILLION DEAL 🚀\n\n- Pfizer to buy weight-loss drug developer Metsera 💊\n- Acquisition deal valued at up to $7.3 billion 💰\n- Strategic move to expand Pfizer's pharmaceutical portfolio 📈\n- Metsera known for innovative weight-loss treatments 🌟\n- Deal signals Pfizer's focus on health and wellness market 🎯\n- Expected to enhance Pfizer's position in the pharmaceutical industry ✅\n\nTAKEAWAY: Pfizer's acquisition of Metsera in a $7.3 billion deal underscores its commitment to growth and innovation in the health and wellness sector, strengthening its position in the pharmaceutical industry.",
+      "exported_at": "2025-09-22T07:19:57.325459",
       "continuous_session": true
     }
   ]
