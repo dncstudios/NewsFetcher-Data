@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T14:08:52.064713",
-    "total_articles": 1621,
-    "new_articles_in_last_fetch": 1621,
+    "created_at": "2025-09-22T14:19:04.897123",
+    "total_articles": 1622,
+    "new_articles_in_last_fetch": 1622,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -21064,6 +21064,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WATCH OUT FOR THESE RED FLAGS WHEN CHOOSING A FINANCIAL ADVISOR ⚠️\n\n- Key to financial success: choosing the right advisor 🎯\n- Experts warn about crucial red flags to avoid 🚨\n- Ensure advisor's qualifications, experience, and reputation ✅\n- Beware of advisors with conflicts of interest or high fees ⚠️\n- Look for transparency, clear communication, and trustworthiness 🌟\n\nTAKEAWAY: Selecting a financial advisor is critical for long-term financial health; watch out for red flags like conflicts of interest and lack of transparency.",
       "exported_at": "2025-09-22T14:08:51.945990",
+      "continuous_session": true
+    },
+    {
+      "title": "The charts on this telehealth stock point to strong gains ahead, according to Katie Stockton",
+      "link": "https://www.cnbc.com/2025/09/22/the-charts-on-this-telehealth-stock-point-to-strong-gains-ahead-according-to-katie-stockton.html",
+      "summary": "Katie Stockton breaks down the technical outlook on this telehealth name.",
+      "published": "Mon, 22 Sep 2025 18:13:44 GMT",
+      "content": "Katie Stockton breaks down the technical outlook on this telehealth name.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a79d227398f9a83fb6faa0fc815a509f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: KATIE STOCKTON PREDICTS STRONG GAINS AHEAD FOR TELEHEALTH STOCK 🚀\n\n- Technical charts signal positive trajectory for telehealth stock 📈\n- Katie Stockton's analysis points towards upcoming strong gains 💪\n- Market outlook suggests bullish momentum for telehealth sector 📊\n- Investors anticipate potential growth in telehealth industry 🌱\n- Positive projections align with increasing demand for telehealth services ✅\n- Katie Stockton's insights provide confidence in the stock's future performance 🔥\n\nTAKEAWAY: With Katie Stockton's analysis highlighting strong gains ahead, investors are optimistic about the future of this telehealth stock amidst a growing industry demand.",
+      "exported_at": "2025-09-22T14:19:04.788470",
       "continuous_session": true
     }
   ]
