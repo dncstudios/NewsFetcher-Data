@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-21T21:15:24.344726",
-    "total_articles": 1545,
-    "new_articles_in_last_fetch": 1545,
+    "created_at": "2025-09-21T21:35:45.682653",
+    "total_articles": 1546,
+    "new_articles_in_last_fetch": 1546,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -20076,6 +20076,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CHINA MAINTAINS LENDING RATES DESPITE FED CUT 🚀\n\n- People's Bank of China keeps 1-year LPR at 3.0%\n- 5-year LPR remains unchanged at 3.5%\n- Decision aligns with expectations post-Fed rate cut\n- Maintaining stability amid global economic shifts ✅\n- Indicates confidence in current economic conditions 📊\n- Reflects strategic approach to monetary policy ⚡️\n\nTAKEAWAY: China's decision to leave benchmark lending rates unchanged showcases confidence in its economic stability amidst global uncertainties, highlighting a strategic and steady monetary policy approach.",
       "exported_at": "2025-09-21T21:15:24.252095",
+      "continuous_session": true
+    },
+    {
+      "title": "Asia-Pacific markets rise as China keeps benchmark lending rates unchanged",
+      "link": "https://www.cnbc.com/2025/09/22/asia-pacific-markets-nikkei-225-hang-seng-china-loan-prime-rate-decision.html",
+      "summary": "China kept its loan prime rates unchanged for the fourth month in a row as expected, even after the Fed lowered its rates by 25 basis points last week.",
+      "published": "Mon, 22 Sep 2025 01:34:25 GMT",
+      "content": "China kept its loan prime rates unchanged for the fourth month in a row as expected, even after the Fed lowered its rates by 25 basis points last week.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e757eac864660021424225133667bf77",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASIA-PACIFIC MARKETS RISE AS CHINA HOLDS LENDING RATES 🚀\n\n- China maintains loan prime rates for 4th consecutive month 📈\n- Contrast with Fed's recent 25 basis point rate cut 🔍\n- Market confidence boosts Asia-Pacific stocks 📈\n- Investors optimistic about stable Chinese economy 🇨🇳\n- China's decision in line with market expectations ✅\n- Fed's rate cut impact yet to be seen in China's economy ⚠️\n\nTAKEAWAY: China's steady stance on lending rates boosts market confidence, while Asia-Pacific markets rise in anticipation of a stable Chinese economy despite the recent Fed rate cut.",
+      "exported_at": "2025-09-21T21:35:45.556598",
       "continuous_session": true
     }
   ]
