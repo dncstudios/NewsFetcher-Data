@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-21T22:56:59.484129",
-    "total_articles": 1549,
-    "new_articles_in_last_fetch": 1549,
+    "created_at": "2025-09-22T00:23:12.455174",
+    "total_articles": 1550,
+    "new_articles_in_last_fetch": 1550,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -20128,6 +20128,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: 🚀 WOMAN TRIPLES INCOME TO $220,000/YR WITH FRACTIONAL WORK! 🌟\n\n- Rachael De Foe, 31, leaves PR job to be own boss 💼\n- Income soars to $220,000/yr as a fractional worker 💰\n- Ditched 9 to 5 grind for freedom and higher earnings 📈\n\nTAKEAWAY: Rachael De Foe's bold move to become a fractional worker tripled her income to $220,000/year, showcasing the power of flexibility and entrepreneurship.",
       "exported_at": "2025-09-21T22:56:59.367072",
+      "continuous_session": true
+    },
+    {
+      "title": "Apple-supplier Luxshare shares pop 10% on report of OpenAI hardware deal",
+      "link": "https://www.cnbc.com/2025/09/22/apple-supplier-luxshare-shares-pop-10percent-on-report-of-openai-hardware-deal.html",
+      "summary": "Luxshare saw its shares jump about 10% following a report that the Chinese device assembler had signed a deal with OpenAI to produce a consumer AI device.",
+      "published": "Mon, 22 Sep 2025 04:20:18 GMT",
+      "content": "Luxshare saw its shares jump about 10% following a report that the Chinese device assembler had signed a deal with OpenAI to produce a consumer AI device.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9bd1c0f7fe859c0b72a728586dd702ca",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: LUXSHARE SURGES 10% ON OPENAI HARDWARE DEAL 🚀\n\n- Luxshare's shares soar 10% post announcement 📈\n- Deal with OpenAI to manufacture consumer AI device 🤖\n- Chinese device assembler's stock sees significant increase 💰\n\nTAKEAWAY: Luxshare's shares skyrocketed 10% on news of a partnership with OpenAI to develop a consumer AI device, showcasing investor confidence in the company's future prospects.",
+      "exported_at": "2025-09-22T00:23:12.343633",
       "continuous_session": true
     }
   ]
