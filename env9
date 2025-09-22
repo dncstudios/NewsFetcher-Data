@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T05:33:07.316538",
-    "total_articles": 1561,
-    "new_articles_in_last_fetch": 1561,
+    "created_at": "2025-09-22T06:03:34.190646",
+    "total_articles": 1562,
+    "new_articles_in_last_fetch": 1562,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -20284,6 +20284,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CLUB NATION RETAILERS EXPAND: COSTCO, SAM'S CLUB, BJ'S ON THE RISE 🚀\n\n- Costco, Sam's Club, BJ's attract members with online speed ⚡️\n- Eye-catching products and affordable meals lure in shoppers 🛍️🍔\n- Focus on low prices and bulk items boosts membership ✅\n- Expansion strategy includes opening new stores 🏬\n- Increased member base contributes to growth 📈\n- Online options and attractive merchandise drive success 🎯\n\nTAKEAWAY: Club retailers like Costco, Sam's Club, and BJ's are expanding and gaining members by offering fast online services, appealing products, affordable dining options, and competitive pricing on bulk items.",
       "exported_at": "2025-09-22T05:33:07.216864",
+      "continuous_session": true
+    },
+    {
+      "title": "Stock futures fall to start the week after Dow, S&amp;P 500 hit fresh records: Live updates",
+      "link": "https://www.cnbc.com/2025/09/21/stock-market-today-live-updates.html",
+      "summary": "Wall Street is coming off a strong week for the major averages after the Federal Reserve cut interest rates.",
+      "published": "Mon, 22 Sep 2025 10:01:34 GMT",
+      "content": "Wall Street is coming off a strong week for the major averages after the Federal Reserve cut interest rates.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d22e1fd439efcd5f39e75817fd3fa05e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK FUTURES HOLD STEADY AFTER RECORD HIGHS 📈\n\n- Dow and S&P 500 reach new records 🌟\n- Market stability post-Fed rate cut 📉✅\n- Wall Street gears up for another week 📊\n- Investors eyeing market performance 🧐🔍\n\nTAKEAWAY: Stock futures remain steady after Dow and S&P 500 achieve new record highs, following a strong week post-Fed interest rate cut.",
+      "exported_at": "2025-09-22T06:03:34.073234",
       "continuous_session": true
     }
   ]
