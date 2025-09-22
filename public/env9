@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T09:07:27.053566",
-    "total_articles": 1581,
-    "new_articles_in_last_fetch": 1581,
+    "created_at": "2025-09-22T09:27:47.705382",
+    "total_articles": 1582,
+    "new_articles_in_last_fetch": 1582,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -20544,6 +20544,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: MORGAN STANLEY UPGRADES APPLIED MATERIALS, PREDICTS 10% UPSIDE 🚀\n\n- Morgan Stanley boosts Applied Materials rating 📈\n- Sees 10% potential growth in the semiconductor market 💰\n- Confidence surges in Wafer Fab Equipment sector 📊\n- Wall Street investment bank optimistic about the industry 🌟\n- Upgraded rating signifies increased faith in Applied Materials 🔝\n- Strong support for semiconductor market's future growth 📈\n\nTAKEAWAY: Morgan Stanley's upgraded rating for Applied Materials signals a bullish outlook, with a predicted 10% upside potential in the semiconductor market.",
       "exported_at": "2025-09-22T09:07:26.923841",
+      "continuous_session": true
+    },
+    {
+      "title": "Jim Cramer&apos;s top 10 things to watch in the stock market Monday",
+      "link": "https://www.cnbc.com/2025/09/22/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
+      "summary": "Wall Street was heading for a modestly lower open this morning.",
+      "published": "Mon, 22 Sep 2025 13:23:24 GMT",
+      "content": "Wall Street was heading for a modestly lower open this morning.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "07d460de4a4f0a57d1a83c3aa115ae42",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JIM CRAMER'S TOP 10 STOCK MARKET WATCHLIST MONDAY 🚀\n\n- Wall Street anticipates a modestly lower open today ⚠️\n- Investors eye key indicators and market trends 📈\n- Volatility expected as market sentiment shifts ⚠️🔥\n- Focus on sector performance and global influences 🌍\n- Tech stocks under scrutiny for market direction 📉\n- Potential impact of economic data releases 🔍\n- Monitoring any breaking news or geopolitical events 🌐\n- Analyst recommendations may sway investor decisions 📈\n- Keep an eye on pre-market trading activity 📊\n\nTAKEAWAY: Stay alert for market shifts and sector performances as investors closely monitor key indicators and global influences on a potentially volatile trading day.",
+      "exported_at": "2025-09-22T09:27:47.578654",
       "continuous_session": true
     }
   ]
