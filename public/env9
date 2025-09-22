@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T08:36:43.882432",
-    "total_articles": 1578,
-    "new_articles_in_last_fetch": 1578,
+    "created_at": "2025-09-22T08:41:55.556960",
+    "total_articles": 1579,
+    "new_articles_in_last_fetch": 1579,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -20505,6 +20505,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: MORGAN STANLEY UPGRADES ASML, AI TAILWINDS TO BOOST STOCK 🚀\n\n- ASML upgraded to overweight from equal weight by Morgan Stanley 📈\n- Analysts anticipate AI tailwinds to propel ASML stock 🌟\n\nTAKEAWAY: Morgan Stanley's upgrade of ASML, fueled by AI tailwinds, signals a positive outlook for the stock's future growth potential.",
       "exported_at": "2025-09-22T08:36:43.753211",
+      "continuous_session": true
+    },
+    {
+      "title": "Here are Monday&apos;s biggest analyst calls: Nvidia, Apple, Netflix, Tesla, Meta, Amazon, Nike, Micron, GM &amp; more",
+      "link": "https://www.cnbc.com/2025/09/22/mondays-big-analyst-calls-nvidia-apple-netflix-nike-gm-more.html",
+      "summary": "Here are the biggest calls on Wall Street on Monday.",
+      "published": "Mon, 22 Sep 2025 12:36:00 GMT",
+      "content": "Here are the biggest calls on Wall Street on Monday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b92944beb51c55da3a8f91590d2089af",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MONDAY'S HOTTEST ANALYST CALLS: NVIDIA, APPLE, NETFLIX, TESLA, META 🚀\n\n- Wall Street's top analyst picks for Monday revealed 🔍\n- Companies under the spotlight: Nvidia, Apple, Netflix, Tesla 🎯\n- Analyst recommendations impact Meta, Amazon, Nike, Micron, GM 📊\n\nTAKEAWAY: Explore Wall Street's latest analyst calls on major companies like Nvidia, Apple, and Tesla for potential investment opportunities. 🌟",
+      "exported_at": "2025-09-22T08:41:55.452598",
       "continuous_session": true
     }
   ]
