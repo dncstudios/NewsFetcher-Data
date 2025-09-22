@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T12:00:55.866410",
-    "total_articles": 1599,
-    "new_articles_in_last_fetch": 1599,
+    "created_at": "2025-09-22T12:11:08.254085",
+    "total_articles": 1601,
+    "new_articles_in_last_fetch": 1601,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -20778,6 +20778,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: INCOMES PLUMMET IN 7 MAJOR US CITIES IN 2024 📉\n\n- National median income slightly up, but 7 cities see declines 📉\n- Income drop raises concerns about economic disparities 📉⚠️\n- Struggle for financial stability in specific urban areas 🏙️\n- National average growth overshadowed by city-level losses ⚠️\n- 7 cities facing income decline challenge economic recovery 🌆\n- Income disparity within the US continues to widen ⚠️\n\nTAKEAWAY: Despite a slight national increase, the income decline in 7 major US cities highlights growing economic disparities and challenges in achieving financial stability.",
       "exported_at": "2025-09-22T12:00:55.754847",
+      "continuous_session": true
+    },
+    {
+      "title": "Fed Governor Stephen Miran pushes case for central bank to slash key interest rate",
+      "link": "https://www.cnbc.com/2025/09/22/fed-governor-stephen-miran-pushes-case-for-central-bank-to-slash-key-interest-rate.html",
+      "summary": "Miran outlined the reasons why he thinks the Fed's benchmark interest rate is far too high and should be lowered aggressively.",
+      "published": "Mon, 22 Sep 2025 16:01:27 GMT",
+      "content": "Miran outlined the reasons why he thinks the Fed's benchmark interest rate is far too high and should be lowered aggressively.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a112180e9fc219200ff0c439fb3f6a26",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FED GOVERNOR PUSHES FOR AGGRESSIVE RATE CUT 🚀\n\n- Fed Governor Miran advocates slashing high benchmark interest rate\n- Calls for aggressive reduction to stimulate economic growth 📈\n- Miran highlights reasons for significant rate decrease\n\nTAKEAWAY: Fed Governor Miran's push for a substantial interest rate cut aims to boost economic growth and spark positive market reactions.",
+      "exported_at": "2025-09-22T12:11:08.134183",
+      "continuous_session": true
+    },
+    {
+      "title": "S&amp;P 500 scales to fresh record high as new week of trading begins: Live updates",
+      "link": "https://www.cnbc.com/2025/09/21/stock-market-today-live-updates.html",
+      "summary": "Wall Street is coming off a strong week for the major averages after the Federal Reserve cut interest rates.",
+      "published": "Mon, 22 Sep 2025 16:06:44 GMT",
+      "content": "Wall Street is coming off a strong week for the major averages after the Federal Reserve cut interest rates.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f1eb864c7c4a5bbd1b31be27e74f0476",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK FUTURES HOLD STEADY AFTER RECORD HIGHS 📈\n\n- Dow and S&P 500 reach new records 🌟\n- Market stability post-Fed rate cut 📉✅\n- Wall Street gears up for another week 📊\n- Investors eyeing market performance 🧐🔍\n\nTAKEAWAY: Stock futures remain steady after Dow and S&P 500 achieve new record highs, following a strong week post-Fed interest rate cut.",
+      "exported_at": "2025-09-22T12:11:08.134248",
       "continuous_session": true
     }
   ]
