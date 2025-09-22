@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T10:49:28.395465",
-    "total_articles": 1592,
-    "new_articles_in_last_fetch": 1592,
+    "created_at": "2025-09-22T10:59:41.265523",
+    "total_articles": 1593,
+    "new_articles_in_last_fetch": 1593,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -20687,6 +20687,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: 🚀 MOLSON COORS APPOINTS INSIDER RAHUL GOYAL AS NEW CEO 🍻\n\n- Rahul Goyal to take over as CEO from retiring Gavin Hattersley\n- Goyal, an insider, appointed to lead Molson Coors\n- Transition planned as Hattersley retires this year\n\nTAKEAWAY: Molson Coors energizes its leadership with the appointment of insider Rahul Goyal as the new CEO, ensuring a smooth transition as Gavin Hattersley steps down.",
       "exported_at": "2025-09-22T10:49:28.275718",
+      "continuous_session": true
+    },
+    {
+      "title": "Nvidia, Macy&apos;s see big sales by execs as market soars to record highs",
+      "link": "https://www.cnbc.com/2025/09/22/nvidia-and-macys-saw-big-sales-by-execs-last-week-as-market-soared-to-record-highs.html",
+      "summary": "The stock market scaled to record levels recently, leading some executives at major corporations to cash in.",
+      "published": "Mon, 22 Sep 2025 14:55:22 GMT",
+      "content": "The stock market scaled to record levels recently, leading some executives at major corporations to cash in.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "333792da50975402aff1e9de0e4927b3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NVIDIA AND MACY'S EXECUTIVES CASH IN AS MARKET SOARS 🚀\n\n- Stock market hits record highs, prompting execs to sell shares 💰\n- Executives at Nvidia and Macy's capitalize on market surge 📈\n- Market performance incentivizes corporate leaders to cash out 💸\n\nTAKEAWAY: As the market reaches record highs, executives at Nvidia and Macy's capitalize on the surge by selling shares, showcasing confidence in market performance.",
+      "exported_at": "2025-09-22T10:59:41.161908",
       "continuous_session": true
     }
   ]
