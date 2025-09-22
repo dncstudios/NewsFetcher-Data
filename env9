@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T08:00:49.452443",
-    "total_articles": 1573,
-    "new_articles_in_last_fetch": 1573,
+    "created_at": "2025-09-22T08:16:10.328325",
+    "total_articles": 1575,
+    "new_articles_in_last_fetch": 1575,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -20440,6 +20440,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: T-MOBILE APPOINTS SRINI GOPALAN AS CEO 🚀\n\n- Srinivasan Gopalan to become T-Mobile's new CEO on Nov. 1 📅\n- Gopalan replaces Mike Sievert as the chief executive 🔁\n- Transition from COO to CEO for telecom veteran Gopalan 📈\n- Sievert's tenure as CEO comes to an end with this move ⌛\n- Gopalan set to lead T-Mobile into the next phase of growth 📈\n- T-Mobile aims for strategic leadership under Gopalan's guidance 🎯\n\nTAKEAWAY: With Srini Gopalan taking the reins as T-Mobile's new CEO, the company anticipates strategic growth and evolution under his seasoned leadership.",
       "exported_at": "2025-09-22T08:00:49.333823",
+      "continuous_session": true
+    },
+    {
+      "title": "Saudi defense pact with Pakistan unlikely to disrupt oil flows to India, source says",
+      "link": "https://www.cnbc.com/2025/09/22/saudi-defense-pact-with-pakistan-unlikely-to-disrupt-oil-flows-to-india-source-says.html",
+      "summary": "India, which has been in conflict with neighboring Pakistan for decades, is one of the world's largest crude consumers and a key customer for Saudi Arabia.",
+      "published": "Mon, 22 Sep 2025 12:06:14 GMT",
+      "content": "India, which has been in conflict with neighboring Pakistan for decades, is one of the world's largest crude consumers and a key customer for Saudi Arabia.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c087b62dbe2acf2da59a2b236aa7860c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SAUDI-PAKISTAN DEFENSE PACT UNLIKELY TO AFFECT INDIA'S OIL SUPPLY 🛡️\n\n- India, a major crude consumer, maintains key Saudi oil ties 🛢️\n- Saudi-Pakistan defense pact unlikely to disrupt oil flows 🛏️\n- India remains vital customer for Saudi Arabia's oil exports 🌏\n\nTAKEAWAY: Despite Saudi-Pakistan defense pact, India's oil supply from Saudi Arabia seems secure, maintaining stability in global oil flows.",
+      "exported_at": "2025-09-22T08:16:10.240885",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest premarket moves: Metsera, Compass, Kenvue, Fox &amp; more",
+      "link": "https://www.cnbc.com/2025/09/22/stocks-making-the-biggest-premarket-moves-mtsr-comp-kvue-foxa.html",
+      "summary": "See which stocks are posting big moves before the bell.",
+      "published": "Mon, 22 Sep 2025 12:10:54 GMT",
+      "content": "See which stocks are posting big moves before the bell.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8c63859008799231dce59c83eb8ce3fd",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS SURGING BEFORE OPEN: METSERA, COMPASS, KENVUE, FOX 🚀\n\n- Metsera, Compass, Kenvue, Fox among top premarket movers 📈\n- Investors eyeing stocks showing significant premarket movement 🔍\n- Early indicators suggest potential volatility at market open 💥\n\nTAKEAWAY: Metsera, Compass, Kenvue, and Fox are leading premarket movers, signaling potential volatility and investor interest before the market opens.",
+      "exported_at": "2025-09-22T08:16:10.240957",
       "continuous_session": true
     }
   ]
