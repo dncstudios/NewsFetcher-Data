@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T03:41:13.353502",
-    "total_articles": 1557,
-    "new_articles_in_last_fetch": 1557,
+    "created_at": "2025-09-22T04:01:36.714100",
+    "total_articles": 1558,
+    "new_articles_in_last_fetch": 1558,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -20232,6 +20232,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: INDIA BRACES FOR TRUMP'S H-1B VISA FEE HIKE 🚨\n\n- IT outsourcing giants like Infosys, Wipro, & TCS face investor sell-off 📉\n- Trump's fee increase on H-1B visas impacts India's tech sector 🇮🇳\n- Uncertainty surrounds the future of Indian IT firms 🤔\n\nTAKEAWAY: Trump's H-1B visa fee hike rattles India's tech industry as major players like Infosys and Tata Consultancy Services see investor sell-off.",
       "exported_at": "2025-09-22T03:41:13.248519",
+      "continuous_session": true
+    },
+    {
+      "title": "Indian tech stocks slump nearly 3% after Trump imposes hefty H-1B visa fees",
+      "link": "https://www.cnbc.com/2025/09/22/asia-pacific-markets-nikkei-225-hang-seng-china-loan-prime-rate-decision.html",
+      "summary": "The new fees could push Indian companies to offshore more employees who are in the U.S., said Manishi Raychaudhuri, CEO of Emmer Capital Partners.",
+      "published": "Mon, 22 Sep 2025 07:58:42 GMT",
+      "content": "The new fees could push Indian companies to offshore more employees who are in the U.S., said Manishi Raychaudhuri, CEO of Emmer Capital Partners.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d68ef0a8670a243463d4dd5580f8f2d9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: INDIAN TECH STOCKS PLUNGE 3% AS TRUMP HIKES H-1B VISA FEES ⚠️\n\n- Indian tech stocks drop by nearly 3% post Trump's visa fee hike 📉\n- Trump's move may prompt Indian firms to offshore more U.S. staff 💼\n- CEO of Emmer Capital Partners highlights potential impact 💬\n\nTAKEAWAY: Trump's hefty H-1B visa fees cause Indian tech stocks to plummet, raising concerns about offshoring U.S. employees.",
+      "exported_at": "2025-09-22T04:01:36.595357",
       "continuous_session": true
     }
   ]
