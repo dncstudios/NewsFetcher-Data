@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T05:22:44.294464",
-    "total_articles": 1559,
-    "new_articles_in_last_fetch": 1559,
+    "created_at": "2025-09-22T05:27:55.922868",
+    "total_articles": 1560,
+    "new_articles_in_last_fetch": 1560,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -20258,6 +20258,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ADANI POWER SURGES 20% POST STOCK SPLIT 🚀\n\n- Adani Power stock climbs over 20% due to 1 for 5 stock split 📈\n- Group shares rally after receiving partial SEBI clearance 🔥\n- Effective split boosts investor confidence ✅\n- Stock split aims to make shares more affordable for retail investors 🎯\n\nTAKEAWAY: Adani Power's impressive surge post-stock split and SEBI clearance signals renewed investor confidence and accessibility in the market.",
       "exported_at": "2025-09-22T05:22:44.189800",
+      "continuous_session": true
+    },
+    {
+      "title": "Here are the 3 big things we&apos;re watching in the stock market in the week ahead",
+      "link": "https://www.cnbc.com/2025/09/21/here-are-the-3-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+      "summary": "Housing data, the Fed's preferred inflation gauge and Costco earnings are big events on our radar.",
+      "published": "Sun, 21 Sep 2025 22:55:32 GMT",
+      "content": "Housing data, the Fed's preferred inflation gauge and Costco earnings are big events on our radar.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2af713cebe9379a65630962d057970e4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: HERE ARE THE 3 BIG THINGS SHAPING THE STOCK MARKET NEXT WEEK 🚀\n\n- Housing data release anticipated for market impact 🏡\n- Fed's preferred inflation gauge to influence investor sentiment 💰\n- Costco earnings report key focus for market performance 📈\n\nTAKEAWAY: Keep an eye on housing data, inflation indicators, and Costco earnings next week as they drive market movements and investor decisions.",
+      "exported_at": "2025-09-22T05:27:55.794200",
       "continuous_session": true
     }
   ]
