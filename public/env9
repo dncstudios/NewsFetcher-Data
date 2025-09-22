@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T09:02:17.310320",
-    "total_articles": 1580,
-    "new_articles_in_last_fetch": 1580,
+    "created_at": "2025-09-22T09:07:27.053566",
+    "total_articles": 1581,
+    "new_articles_in_last_fetch": 1581,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -20531,6 +20531,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: PFIZER BOOSTS OBESITY DRUG PROSPECTS WITH $7.3B METSERA DEAL 🚀\n\n- Pfizer acquires Metsera for $7.3 billion 💰\n- Metsera founded in 2022, offers oral/injectable obesity treatments\n- Deal to enhance Pfizer's chances in the obesity drug market 📈\n- Metsera's pipeline includes treatments with varied targets\n- Pfizer aims to strengthen its position in the market ✅\n- Acquisition signals Pfizer's strategic growth move 🌟\n\nTAKEAWAY: Pfizer's $7.3 billion acquisition of Metsera propels its obesity drug prospects, boosting its market position with a diverse treatment pipeline.",
       "exported_at": "2025-09-22T09:02:17.203344",
+      "continuous_session": true
+    },
+    {
+      "title": "Morgan Stanley raises Applied Materials rating, sees another 10% upside",
+      "link": "https://www.cnbc.com/2025/09/22/morgan-stanley-upgrades-applied-materials-sees-another-10percent-upside.html",
+      "summary": "The Wall Street investment bank is more confident in the semiconductor Wafer Fab Equipment market.",
+      "published": "Mon, 22 Sep 2025 13:05:27 GMT",
+      "content": "The Wall Street investment bank is more confident in the semiconductor Wafer Fab Equipment market.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "12b0e7cf1bf93d3ae02b5f407de40f35",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MORGAN STANLEY UPGRADES APPLIED MATERIALS, PREDICTS 10% UPSIDE 🚀\n\n- Morgan Stanley boosts Applied Materials rating 📈\n- Sees 10% potential growth in the semiconductor market 💰\n- Confidence surges in Wafer Fab Equipment sector 📊\n- Wall Street investment bank optimistic about the industry 🌟\n- Upgraded rating signifies increased faith in Applied Materials 🔝\n- Strong support for semiconductor market's future growth 📈\n\nTAKEAWAY: Morgan Stanley's upgraded rating for Applied Materials signals a bullish outlook, with a predicted 10% upside potential in the semiconductor market.",
+      "exported_at": "2025-09-22T09:07:26.923841",
       "continuous_session": true
     }
   ]
