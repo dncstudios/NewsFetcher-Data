@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T12:11:08.254085",
-    "total_articles": 1601,
-    "new_articles_in_last_fetch": 1601,
+    "created_at": "2025-09-22T12:26:29.098467",
+    "total_articles": 1603,
+    "new_articles_in_last_fetch": 1603,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -20804,6 +20804,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCK FUTURES HOLD STEADY AFTER RECORD HIGHS 📈\n\n- Dow and S&P 500 reach new records 🌟\n- Market stability post-Fed rate cut 📉✅\n- Wall Street gears up for another week 📊\n- Investors eyeing market performance 🧐🔍\n\nTAKEAWAY: Stock futures remain steady after Dow and S&P 500 achieve new record highs, following a strong week post-Fed interest rate cut.",
       "exported_at": "2025-09-22T12:11:08.134248",
+      "continuous_session": true
+    },
+    {
+      "title": "Apple&apos;s stock turns positive for year after iPhone 17 launch",
+      "link": "https://www.cnbc.com/2025/09/22/apples-stock-turns-positive-for-year-after-iphone-17-launch-.html",
+      "summary": "Apple's stock has turned green for the year after the company released new iPhones, Apple Watch, and AirPods models on Friday.",
+      "published": "Mon, 22 Sep 2025 16:10:04 GMT",
+      "content": "Apple's stock has turned green for the year after the company released new iPhones, Apple Watch, and AirPods models on Friday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f8e717488659e14e1b699522853c1839",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: APPLE STOCK SURGES AFTER IPHONE 17 LAUNCH 🚀\n\n- Apple stock turns positive for the year 📈\n- New iPhones, Apple Watch, AirPods models released 📱⌚🎧\n- Positive market reaction to latest product launches 💥\n\nTAKEAWAY: Apple's stock soars as new iPhone 17, Apple Watch, and AirPods models drive positive market sentiment, turning the stock positive for the year.",
+      "exported_at": "2025-09-22T12:26:28.974775",
+      "continuous_session": true
+    },
+    {
+      "title": "Best Stocks: A look at our energy stocks, including an A+ name",
+      "link": "https://www.cnbc.com/2025/09/22/best-stocks-a-look-at-our-energy-stocks-including-an-a-name.html",
+      "summary": "Josh Brown and Sean Russo take a look at the energy sector, including a best-in-class name that's on their Best Stocks list.",
+      "published": "Mon, 22 Sep 2025 16:06:38 GMT",
+      "content": "Josh Brown and Sean Russo take a look at the energy sector, including a best-in-class name that's on their Best Stocks list.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d2fa2bcd3231fce756b32c0428ae0e09",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BEST ENERGY STOCKS: UNVEILING A TOP PERFORMER 🚀\n\n- Josh Brown and Sean Russo analyze energy sector trends 📈\n- Revealing a top-performing energy stock on their Best Stocks list 💪\n- Highlighting the best-in-class name for potential investors 🌟\n\nTAKEAWAY: Dive into the energy sector with expert analysis from Josh Brown and Sean Russo, uncovering a top performer and best-in-class name for potential investors.",
+      "exported_at": "2025-09-22T12:26:28.974928",
       "continuous_session": true
     }
   ]
