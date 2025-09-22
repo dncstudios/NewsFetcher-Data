@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T18:28:28.183316",
-    "total_articles": 1641,
-    "new_articles_in_last_fetch": 1641,
+    "created_at": "2025-09-22T18:58:56.655333",
+    "total_articles": 1642,
+    "new_articles_in_last_fetch": 1642,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -21324,6 +21324,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: INDIA BRACES FOR TRUMP'S H-1B VISA FEE HIKE 🚨\n\n- IT outsourcing giants like Infosys, Wipro, & TCS face investor sell-off 📉\n- Trump's fee increase on H-1B visas impacts India's tech sector 🇮🇳\n- Uncertainty surrounds the future of Indian IT firms 🤔\n\nTAKEAWAY: Trump's H-1B visa fee hike rattles India's tech industry as major players like Infosys and Tata Consultancy Services see investor sell-off.",
       "exported_at": "2025-09-22T18:28:28.051570",
+      "continuous_session": true
+    },
+    {
+      "title": "Jim Cramer names inexpensive stocks worth buying as the S&amp;P 500 heads higher",
+      "link": "https://www.cnbc.com/2025/09/22/jim-cramer-sp500-undervalued-stocks.html",
+      "summary": "Jim Cramer says there are still bargains in the S&amp;P 500, highlighting names like T-Mobile, Dollar Tree, Caterpillar and Dell as growth at value.",
+      "published": "Mon, 22 Sep 2025 22:46:56 GMT",
+      "content": "Jim Cramer says there are still bargains in the S&amp;P 500, highlighting names like T-Mobile, Dollar Tree, Caterpillar and Dell as growth at value.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0ced3995da7eff1d3c675f34e3cca076",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JIM CRAMER'S TOP BARGAIN STOCKS TO BUY AS S&P 500 SOARS 🚀\n\n- T-Mobile, Dollar Tree, Caterpillar, and Dell recommended by Cramer 💡\n- These stocks identified as growth opportunities at a reasonable price 📈\n- Jim Cramer believes there are still bargains in the S&P 500 💰\n\nTAKEAWAY: Jim Cramer suggests grabbing opportunities in T-Mobile, Dollar Tree, Caterpillar, and Dell as they offer growth potential at a good value amidst the S&P 500's rise.",
+      "exported_at": "2025-09-22T18:58:56.525049",
       "continuous_session": true
     }
   ]
