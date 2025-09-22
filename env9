@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T13:07:35.577383",
-    "total_articles": 1612,
-    "new_articles_in_last_fetch": 1612,
+    "created_at": "2025-09-22T13:12:45.727400",
+    "total_articles": 1614,
+    "new_articles_in_last_fetch": 1614,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -20947,6 +20947,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NYC MAYOR CANDIDATE MAMDANI WITHDRAWS FROM WABC TOWN HALL 🚨\n\n- Mamdani withdraws over Jimmy Kimmel suspension controversy\n- Letter organized by ACLU supported by Hollywood celebrities 🌟\n- Kimmel's suspension receives backing from Academy Award winners 🎬\n\nTAKEAWAY: Mamdani's withdrawal from the town hall adds to the controversy surrounding Jimmy Kimmel's suspension, as Hollywood celebrities show support through an ACLU-organized letter.",
       "exported_at": "2025-09-22T13:07:35.518978",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump&apos;s $100,000 visa plan could hit these companies the hardest",
+      "link": "https://www.cnbc.com/2025/09/22/trumps-100000-visa-plan-could-hit-these-companies-the-hardest.html",
+      "summary": "Baird looked at consulting and professional services firms with the highest average number of H-1B visa approvals.",
+      "published": "Mon, 22 Sep 2025 17:05:13 GMT",
+      "content": "Baird looked at consulting and professional services firms with the highest average number of H-1B visa approvals.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "154d0969e561b1fe931466d7b5e98967",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP'S $100,000 VISA PLAN: IMPACT ON TOP FIRMS 🚨\n\n- Baird analyzes firms with highest H-1B visa approvals 📊\n- Companies in consulting, professional services most affected 📉\n- Trump's $100,000 visa plan could hit these firms hard 💥\n\nTAKEAWAY: Trump's proposed $100,000 visa plan may heavily impact consulting and professional services firms with high H-1B visa approvals, leading to potential challenges ahead.",
+      "exported_at": "2025-09-22T13:12:45.603635",
+      "continuous_session": true
+    },
+    {
+      "title": "Nike&apos;s new activewear line with Skims is set to launch this week. Here&apos;s why it matters",
+      "link": "https://www.cnbc.com/2025/09/22/nikeskims-activewear-line-to-launch-this-week.html",
+      "summary": "Nike and Skims have teamed up to create a new activewear line that'll debut with three core collections beginning on Sept. 26.",
+      "published": "Mon, 22 Sep 2025 17:07:04 GMT",
+      "content": "Nike and Skims have teamed up to create a new activewear line that'll debut with three core collections beginning on Sept. 26.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ef3e6a4fcf288028bcfcd32883e3d5c4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NIKE X SKIMS ACTIVWEAR LINE LAUNCHING THIS WEEK 🚀\n\n- Nike partners with Skims for new activewear line 🤝\n- Debuting on Sept. 26 with three core collections 💥\n- Collaboration set to shake up the activewear market 🔥\n- Excitement builds as launch date approaches 🌟\n- Anticipated to combine style and functionality seamlessly ✨\n\nTAKEAWAY: Nike's collaboration with Skims for a new activewear line is poised to revolutionize the market, blending fashion and performance effortlessly.",
+      "exported_at": "2025-09-22T13:12:45.603703",
       "continuous_session": true
     }
   ]
