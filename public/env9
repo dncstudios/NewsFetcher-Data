@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T11:40:29.649367",
-    "total_articles": 1597,
-    "new_articles_in_last_fetch": 1597,
+    "created_at": "2025-09-22T11:50:42.474577",
+    "total_articles": 1598,
+    "new_articles_in_last_fetch": 1598,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -20752,6 +20752,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRADERS EYE JOBLESS CLAIMS OVER CORE PCE INFLATION REPORT 📊\n\n- Traders prioritize jobless claims data over core PCE report 🎯\n- Jay Woods sees jobless claims as crucial for market impact 💡\n- Focus shifts from conventional wisdom to jobless claims 🔄\n\nTAKEAWAY: Traders shift focus to jobless claims as the key economic number this week, diverging from the typical emphasis on core PCE inflation report.",
       "exported_at": "2025-09-22T11:40:29.523979",
+      "continuous_session": true
+    },
+    {
+      "title": "Watch new Fed Governor Stephen Miran speak live on the economy and interest rates",
+      "link": "https://www.cnbc.com/2025/09/22/watch-new-fed-governor-stephen-miran-speak-live-on-the-economy-and-interest-rates.html",
+      "summary": "Miran speaks Monday to the Economic Club of New York to explain his views on the economy and monetary policy.",
+      "published": "Mon, 22 Sep 2025 15:45:02 GMT",
+      "content": "Miran speaks Monday to the Economic Club of New York to explain his views on the economy and monetary policy.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8921c6806ccbdd22cc0ffce60853ddf4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WATCH NEW FED GOVERNOR STEPHEN MIRAN SPEAK LIVE ON ECONOMY AND RATES 🚀\n\n- Fed Governor Miran addresses Economic Club of New York 🗽\n- Miran's insights on economy and monetary policy revealed 💡\n- Event happening on Monday, don't miss it! 📅\n- Discussion likely includes interest rates and economic outlook 🔍\n- Attendees await Miran's perspective on current economic climate 🌐\n- Insights expected to impact market sentiment and future policies 📈\n\nTAKEAWAY: Fed Governor Stephen Miran's speech at the Economic Club of New York is anticipated to provide valuable insights on the economy and monetary policy, potentially influencing market dynamics and future decisions.",
+      "exported_at": "2025-09-22T11:50:42.345988",
       "continuous_session": true
     }
   ]
