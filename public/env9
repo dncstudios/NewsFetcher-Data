@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T11:25:11.598576",
-    "total_articles": 1596,
-    "new_articles_in_last_fetch": 1596,
+    "created_at": "2025-09-22T11:40:29.649367",
+    "total_articles": 1597,
+    "new_articles_in_last_fetch": 1597,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -20739,6 +20739,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ERIC JACKSON'S NEXT BIG PICK: MEET THE 'SHOPIFY OF MORTGAGES' 🚀\n\n- EMJ Capital founder compares Better Home to Shopify 🏪\n- Better Home aims to revolutionize a $15 trillion industry with AI 🤖\n- Eric Jackson's endorsement boosts Better Home's potential 💪\n\nTAKEAWAY: Eric Jackson's bold comparison of Better Home to Shopify highlights the disruptive potential of the company in reshaping the mortgage industry with AI technology.",
       "exported_at": "2025-09-22T11:25:11.466878",
+      "continuous_session": true
+    },
+    {
+      "title": "Traders believe one economic number is the most important this week — plus a tech name with big upside",
+      "link": "https://www.cnbc.com/2025/09/22/traders-believe-one-economic-number-is-the-most-important-this-week-plus-a-tech-name-with-big-upside.html",
+      "summary": "The conventional wisdom is to watch the core PCE inflation report Friday, but Jay Woods believes the jobless claims report is the more important one for markets.",
+      "published": "Mon, 22 Sep 2025 15:36:07 GMT",
+      "content": "The conventional wisdom is to watch the core PCE inflation report Friday, but Jay Woods believes the jobless claims report is the more important one for markets.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "67db4001fe44b602fba84dbe2994b327",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRADERS EYE JOBLESS CLAIMS OVER CORE PCE INFLATION REPORT 📊\n\n- Traders prioritize jobless claims data over core PCE report 🎯\n- Jay Woods sees jobless claims as crucial for market impact 💡\n- Focus shifts from conventional wisdom to jobless claims 🔄\n\nTAKEAWAY: Traders shift focus to jobless claims as the key economic number this week, diverging from the typical emphasis on core PCE inflation report.",
+      "exported_at": "2025-09-22T11:40:29.523979",
       "continuous_session": true
     }
   ]
