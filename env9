@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T11:50:42.474577",
-    "total_articles": 1598,
-    "new_articles_in_last_fetch": 1598,
+    "created_at": "2025-09-22T12:00:55.866410",
+    "total_articles": 1599,
+    "new_articles_in_last_fetch": 1599,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -20765,6 +20765,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WATCH NEW FED GOVERNOR STEPHEN MIRAN SPEAK LIVE ON ECONOMY AND RATES 🚀\n\n- Fed Governor Miran addresses Economic Club of New York 🗽\n- Miran's insights on economy and monetary policy revealed 💡\n- Event happening on Monday, don't miss it! 📅\n- Discussion likely includes interest rates and economic outlook 🔍\n- Attendees await Miran's perspective on current economic climate 🌐\n- Insights expected to impact market sentiment and future policies 📈\n\nTAKEAWAY: Fed Governor Stephen Miran's speech at the Economic Club of New York is anticipated to provide valuable insights on the economy and monetary policy, potentially influencing market dynamics and future decisions.",
       "exported_at": "2025-09-22T11:50:42.345988",
+      "continuous_session": true
+    },
+    {
+      "title": "Incomes fell in 7 major US cities in 2024—where Americans earned less",
+      "link": "https://www.cnbc.com/2025/09/22/incomes-fell-in-7-major-us-cities-in-2024where-americans-earned-less.html",
+      "summary": "While the national median income only rose a little from 2023 to 2024, incomes actually declined in 7 major U.S. cities.",
+      "published": "Mon, 22 Sep 2025 15:45:58 GMT",
+      "content": "While the national median income only rose a little from 2023 to 2024, incomes actually declined in 7 major U.S. cities.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8abb2842a487ba3cce317ee44c0f8d13",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: INCOMES PLUMMET IN 7 MAJOR US CITIES IN 2024 📉\n\n- National median income slightly up, but 7 cities see declines 📉\n- Income drop raises concerns about economic disparities 📉⚠️\n- Struggle for financial stability in specific urban areas 🏙️\n- National average growth overshadowed by city-level losses ⚠️\n- 7 cities facing income decline challenge economic recovery 🌆\n- Income disparity within the US continues to widen ⚠️\n\nTAKEAWAY: Despite a slight national increase, the income decline in 7 major US cities highlights growing economic disparities and challenges in achieving financial stability.",
+      "exported_at": "2025-09-22T12:00:55.754847",
       "continuous_session": true
     }
   ]
