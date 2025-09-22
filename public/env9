@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T09:32:54.129459",
-    "total_articles": 1583,
-    "new_articles_in_last_fetch": 1583,
+    "created_at": "2025-09-22T09:43:14.529192",
+    "total_articles": 1587,
+    "new_articles_in_last_fetch": 1587,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -20570,6 +20570,58 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCK FUTURES HOLD STEADY AFTER RECORD HIGHS 📈\n\n- Dow and S&P 500 reach new records 🌟\n- Market stability post-Fed rate cut 📉✅\n- Wall Street gears up for another week 📊\n- Investors eyeing market performance 🧐🔍\n\nTAKEAWAY: Stock futures remain steady after Dow and S&P 500 achieve new record highs, following a strong week post-Fed interest rate cut.",
       "exported_at": "2025-09-22T09:32:54.017861",
+      "continuous_session": true
+    },
+    {
+      "title": "Here are Monday&apos;s biggest analyst calls: Nvidia, Apple, Netflix, Tesla, Meta, Amazon, Nike, Micron, GM and more",
+      "link": "https://www.cnbc.com/2025/09/22/mondays-big-analyst-calls-nvidia-apple-netflix-nike-gm-more.html",
+      "summary": "Here are the biggest calls on Wall Street on Monday.",
+      "published": "Mon, 22 Sep 2025 13:40:42 GMT",
+      "content": "Here are the biggest calls on Wall Street on Monday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a6ea80db09eb350aa2c05ff005965d7f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MONDAY'S HOTTEST ANALYST CALLS: NVIDIA, APPLE, NETFLIX, TESLA, META 🚀\n\n- Wall Street's top analyst picks for Monday revealed 🔍\n- Companies under the spotlight: Nvidia, Apple, Netflix, Tesla 🎯\n- Analyst recommendations impact Meta, Amazon, Nike, Micron, GM 📊\n\nTAKEAWAY: Explore Wall Street's latest analyst calls on major companies like Nvidia, Apple, and Tesla for potential investment opportunities. 🌟",
+      "exported_at": "2025-09-22T09:43:14.409450",
+      "continuous_session": true
+    },
+    {
+      "title": "Goldman Sachs raises S&amp;P 500 target for year-end",
+      "link": "https://www.cnbc.com/2025/09/22/goldman-sachs-raises-sp-500-target-for-year-end.html",
+      "summary": "The Federal Reserve lowering its benchmark interest rate last week has Goldman Sachs more excited about stocks heading into the final quarter of the year.",
+      "published": "Mon, 22 Sep 2025 13:33:04 GMT",
+      "content": "The Federal Reserve lowering its benchmark interest rate last week has Goldman Sachs more excited about stocks heading into the final quarter of the year.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "cfea03a6f1a1e84a601560f2fc751df4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GOLDMAN SACHS RAISES S&P 500 TARGET FOR YEAR-END 🚀\n\n- Federal Reserve's rate cut boosts Goldman Sachs' stock enthusiasm 📈\n- S&P 500 target increased due to lowered benchmark interest rate ✅\n- Goldman Sachs bullish on stocks for the final quarter 📈\n- Market optimism grows with revised year-end target 🚀\n- Federal Reserve's move impacts Goldman Sachs' stock outlook ⚡️\n- Increased excitement for stocks as year-end approaches 🎉\n\nTAKEAWAY: Goldman Sachs' raised S&P 500 target for year-end reflects increased optimism and excitement for stocks following the Federal Reserve's interest rate cut.",
+      "exported_at": "2025-09-22T09:43:14.409543",
+      "continuous_session": true
+    },
+    {
+      "title": "Piper Sandler raises Tesla price target to $500, says it can fight off China competitors with AI lead",
+      "link": "https://www.cnbc.com/2025/09/22/piper-sandler-raises-tesla-price-target-to-500-says-it-can-fight-off-china-competitors-with-ai-lead.html",
+      "summary": "Piper Sandler raised its price target for Tesla to $500 from $400, citing the EV maker's lead in AI as a catalyst for its growth.",
+      "published": "Mon, 22 Sep 2025 13:30:39 GMT",
+      "content": "Piper Sandler raised its price target for Tesla to $500 from $400, citing the EV maker's lead in AI as a catalyst for its growth.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5455dbc0acb860e61d57152028103956",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PIPER SANDLER BOOSTS TESLA PRICE TARGET TO $500 🚀\n\n- Piper Sandler raises Tesla's price target from $400 to $500 📈\n- Attributes Tesla's growth potential to its AI leadership 🤖\n- Sees Tesla capable of fending off Chinese competitors 🔥\n\nTAKEAWAY: Piper Sandler's increased price target for Tesla to $500 reflects confidence in the company's AI edge and ability to compete against Chinese rivals.",
+      "exported_at": "2025-09-22T09:43:14.409586",
+      "continuous_session": true
+    },
+    {
+      "title": "Psychology expert: Use these 5 phrases to shut down unsolicited advice every time",
+      "link": "https://www.cnbc.com/2025/09/22/psychology-expert-use-these-5-phrases-to-shut-down-unsolicited-advice.html",
+      "summary": "\"Advice will always come, whether you want it to or not,\" writes Dr. Shadé Zahrai. \"Your power lies in how you receive it.\"",
+      "published": "Mon, 22 Sep 2025 13:30:01 GMT",
+      "content": "\"Advice will always come, whether you want it to or not,\" writes Dr. Shadé Zahrai. \"Your power lies in how you receive it.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "526a7758092f70bdc897ddb38d145da3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PSYCHOLOGIST'S GUIDE: MASTER THE ART OF SHUTTING DOWN UNSOLICITED ADVICE 🚀\n\n- Dr. Zahrai's wisdom: power in how you receive advice 🧠\n- 5 phrases to gracefully decline unsolicited advice 🙅\n- Master the art of setting boundaries with tact ✅\n- Take control of conversations with assertive responses 🔥\n- Empower yourself by choosing how to engage with advice 🌟\n\nTAKEAWAY: Dr. Shadé Zahrai's expert advice equips you with the tools to gracefully shut down unsolicited advice and take control of your interactions.",
+      "exported_at": "2025-09-22T09:43:14.409601",
       "continuous_session": true
     }
   ]
