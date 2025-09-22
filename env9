@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T13:43:23.243193",
-    "total_articles": 1618,
-    "new_articles_in_last_fetch": 1618,
+    "created_at": "2025-09-22T14:08:52.064713",
+    "total_articles": 1621,
+    "new_articles_in_last_fetch": 1621,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -21025,6 +21025,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NYC MAYOR CANDIDATE MAMDANI WITHDRAWS FROM WABC TOWN HALL 🚨\n\n- Mamdani withdraws over Jimmy Kimmel suspension controversy\n- Letter organized by ACLU supported by Hollywood celebrities 🌟\n- Kimmel's suspension receives backing from Academy Award winners 🎬\n\nTAKEAWAY: Mamdani's withdrawal from the town hall adds to the controversy surrounding Jimmy Kimmel's suspension, as Hollywood celebrities show support through an ACLU-organized letter.",
       "exported_at": "2025-09-22T13:43:23.122710",
+      "continuous_session": true
+    },
+    {
+      "title": "&apos;We need the smartest people&apos;: Nvidia, OpenAI CEOs react to Trump&apos;s H-1B visa fee",
+      "link": "https://www.cnbc.com/2025/09/22/nvidia-openai-ceos-huang-altman-trump-h1b-visas.html",
+      "summary": "\"We want all the brightest minds to come to the U.S. and remember immigration is the foundation of the American Dream,\" Nvidia CEO Jensen Huang said Monday.",
+      "published": "Mon, 22 Sep 2025 17:45:03 GMT",
+      "content": "\"We want all the brightest minds to come to the U.S. and remember immigration is the foundation of the American Dream,\" Nvidia CEO Jensen Huang said Monday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "87b942e261d639854a403c0f4a3e6ee0",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NVIDIA AND OPENAI CEOS EMBRACE IMMIGRATION FOR BRIGHT MINDS 🌟\n\n- Nvidia CEO supports brightest minds coming to the U.S. 🇺🇸\n- Immigration highlighted as the cornerstone of the American Dream 🌟\n- OpenAI CEOs echo sentiments on attracting top talent ✨\n\nTAKEAWAY: Nvidia and OpenAI CEOs advocate for welcoming top talent to the U.S., emphasizing immigration as vital for innovation and the American Dream.",
+      "exported_at": "2025-09-22T14:08:51.945911",
+      "continuous_session": true
+    },
+    {
+      "title": "Bad Bunny concerts boost Puerto Rico GDP by $400 million, estimates Wells Fargo, boosting this stock",
+      "link": "https://www.cnbc.com/2025/09/22/bad-bunny-concerts-boost-puerto-rico-gdp-by-400-million-estimates-wells-fargo.html",
+      "summary": "Puerto Rico's local economy got a massive boost from Bad Bunny's Bad Bunny's 31-date residency, giving Popular a lift as well, according to Wells Fargo.",
+      "published": "Mon, 22 Sep 2025 18:00:01 GMT",
+      "content": "Puerto Rico's local economy got a massive boost from Bad Bunny's Bad Bunny's 31-date residency, giving Popular a lift as well, according to Wells Fargo.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2349071d9af54783249e7cfab33bcccb",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BAD BUNNY CONCERTS BOOST PUERTO RICO GDP BY $400 MILLION, WELLS FARGO ESTIMATES 🚀\n\n- Bad Bunny's 31-date residency uplifts Puerto Rico's economy 🇵🇷\n- Wells Fargo estimates GDP boost of $400 million 💸\n- Popular stock surges due to the concert's economic impact 📈\n- Local economy benefits significantly from the concert series 🎶\n- Bad Bunny's residency creates a ripple effect on Puerto Rico's GDP 🌊\n\nTAKEAWAY: Bad Bunny's concerts not only entertain but also significantly boost Puerto Rico's GDP, leading to a surge in Popular's stock value. 🚀",
+      "exported_at": "2025-09-22T14:08:51.945977",
+      "continuous_session": true
+    },
+    {
+      "title": "These are the red flags to watch out for when picking a financial advisor, experts say",
+      "link": "https://www.cnbc.com/2025/09/22/red-flags-to-watch-out-for-when-picking-a-financial-advisor.html",
+      "summary": "Finding the right advisor is key to your long-term financial wellbeing. Here's what to look for — and what to avoid.",
+      "published": "Mon, 22 Sep 2025 17:48:34 GMT",
+      "content": "Finding the right advisor is key to your long-term financial wellbeing. Here's what to look for — and what to avoid.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "136341c27020d04f508a8baed232dd48",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WATCH OUT FOR THESE RED FLAGS WHEN CHOOSING A FINANCIAL ADVISOR ⚠️\n\n- Key to financial success: choosing the right advisor 🎯\n- Experts warn about crucial red flags to avoid 🚨\n- Ensure advisor's qualifications, experience, and reputation ✅\n- Beware of advisors with conflicts of interest or high fees ⚠️\n- Look for transparency, clear communication, and trustworthiness 🌟\n\nTAKEAWAY: Selecting a financial advisor is critical for long-term financial health; watch out for red flags like conflicts of interest and lack of transparency.",
+      "exported_at": "2025-09-22T14:08:51.945990",
       "continuous_session": true
     }
   ]
