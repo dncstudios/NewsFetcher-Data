@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-21T21:51:02.634908",
-    "total_articles": 1548,
-    "new_articles_in_last_fetch": 1548,
+    "created_at": "2025-09-21T22:56:59.484129",
+    "total_articles": 1549,
+    "new_articles_in_last_fetch": 1549,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -20115,6 +20115,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ASIA-PACIFIC MARKETS RISE AS CHINA HOLDS LENDING RATES 🚀\n\n- China maintains loan prime rates for 4th consecutive month 📈\n- Contrast with Fed's recent 25 basis point rate cut 🔍\n- Market confidence boosts Asia-Pacific stocks 📈\n- Investors optimistic about stable Chinese economy 🇨🇳\n- China's decision in line with market expectations ✅\n- Fed's rate cut impact yet to be seen in China's economy ⚠️\n\nTAKEAWAY: China's steady stance on lending rates boosts market confidence, while Asia-Pacific markets rise in anticipation of a stable Chinese economy despite the recent Fed rate cut.",
       "exported_at": "2025-09-21T21:51:02.516424",
+      "continuous_session": true
+    },
+    {
+      "title": "She tripled her income to $220,000 a year by leaving her 9 to 5 for fractional work: ‘I’m never going back to one boss’",
+      "link": "https://www.cnbc.com/2025/09/22/she-tripled-her-income-by-leaving-her-9-to-5-for-fractional-work.html",
+      "summary": "Rachael De Foe, 31, was burned out from her PR job, so she quit to be her own boss. Now, she's tripled her income to $220,000 a year as a fractional worker.",
+      "published": "Mon, 22 Sep 2025 02:51:06 GMT",
+      "content": "Rachael De Foe, 31, was burned out from her PR job, so she quit to be her own boss. Now, she's tripled her income to $220,000 a year as a fractional worker.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0cfa3ff96343b84ba3da2aa6d5d9938b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 🚀 WOMAN TRIPLES INCOME TO $220,000/YR WITH FRACTIONAL WORK! 🌟\n\n- Rachael De Foe, 31, leaves PR job to be own boss 💼\n- Income soars to $220,000/yr as a fractional worker 💰\n- Ditched 9 to 5 grind for freedom and higher earnings 📈\n\nTAKEAWAY: Rachael De Foe's bold move to become a fractional worker tripled her income to $220,000/year, showcasing the power of flexibility and entrepreneurship.",
+      "exported_at": "2025-09-21T22:56:59.367072",
       "continuous_session": true
     }
   ]
