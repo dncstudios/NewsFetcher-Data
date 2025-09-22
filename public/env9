@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T15:15:08.956379",
-    "total_articles": 1627,
-    "new_articles_in_last_fetch": 1627,
+    "created_at": "2025-09-22T15:20:17.265836",
+    "total_articles": 1629,
+    "new_articles_in_last_fetch": 1629,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -21142,6 +21142,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BITCOIN DROPS BELOW $113,000 AMID PROFIT TAKING, GOVERNMENT SHUTDOWN RISK 📉\n\n- Bitcoin falls below $113,000 due to profit taking 💰\n- Government shutdown threat adds pressure 🚨\n- BitGo reveals revenue growth nearly quadrupled this year 📈\n- Ondo Finance CEO talks about new tokenized securities platform 💼\n\nTAKEAWAY: Bitcoin's drop below $113,000, driven by profit taking and government shutdown fears, contrasts with BitGo's impressive revenue growth and Ondo Finance's innovative tokenized securities platform.",
       "exported_at": "2025-09-22T15:15:08.827763",
+      "continuous_session": true
+    },
+    {
+      "title": "White House denies Homan received $50k from undercover FBI agents",
+      "link": "https://www.cnbc.com/2025/09/22/tom-homan-fbi-trump-cash-justice-department.html",
+      "summary": "The White House denied reports that border czar Tom Homan accepted $50,000 in cash last year from undercover FBI agents.",
+      "published": "Mon, 22 Sep 2025 19:07:34 GMT",
+      "content": "The White House denied reports that border czar Tom Homan accepted $50,000 in cash last year from undercover FBI agents.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "79828292791b80b0ce4a891dbe3c8b3e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WHITE HOUSE DENIES HOMAN RECEIVED $50K FROM FBI 🚨\n\n- White House refutes claim of Tom Homan accepting $50k 💸\n- Allegations of cash acceptance from FBI agents denied ❌\n- Border czar Tom Homan's involvement in cash controversy denied 🚫\n\nTAKEAWAY: The White House denies allegations that border czar Tom Homan accepted $50,000 from undercover FBI agents, refuting claims of involvement in a cash controversy.",
+      "exported_at": "2025-09-22T15:20:17.144197",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump&apos;s order to halt offshore wind project overturned, Orsted to restart work soon",
+      "link": "https://www.cnbc.com/2025/09/22/judge-orsted-revolution-wind-trump.html",
+      "summary": "The Interior Department had ordered Orsted on Aug. 22 to halt construction on Revolution Wind off the coast of Rhode Island and Connecticut.",
+      "published": "Mon, 22 Sep 2025 19:15:39 GMT",
+      "content": "The Interior Department had ordered Orsted on Aug. 22 to halt construction on Revolution Wind off the coast of Rhode Island and Connecticut.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "899b10944357fee653fb82e766b4c20a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JUDGE OVERTURNS TRUMP BLOCK, ORSTED RESUMES OFFSHORE WIND FARM 🚀\n\n- Orsted authorized to resume Revolution Wind construction ⚡️\n- Interior Department's Aug. 22 halt order reversed 🔄\n- Offshore wind farm located near Rhode Island, Connecticut 🌊\n- Legal battle resolved in favor of Orsted 🏆\n- Construction progress expected to pick up pace 📈\n\nTAKEAWAY: Orsted's victory in resuming construction on Revolution Wind after a legal battle signifies progress and momentum in the renewable energy sector.",
+      "exported_at": "2025-09-22T15:20:17.144249",
       "continuous_session": true
     }
   ]
