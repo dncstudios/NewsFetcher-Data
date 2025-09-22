@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T14:19:04.897123",
-    "total_articles": 1622,
-    "new_articles_in_last_fetch": 1622,
+    "created_at": "2025-09-22T14:24:13.231017",
+    "total_articles": 1623,
+    "new_articles_in_last_fetch": 1623,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -21077,6 +21077,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: KATIE STOCKTON PREDICTS STRONG GAINS AHEAD FOR TELEHEALTH STOCK 🚀\n\n- Technical charts signal positive trajectory for telehealth stock 📈\n- Katie Stockton's analysis points towards upcoming strong gains 💪\n- Market outlook suggests bullish momentum for telehealth sector 📊\n- Investors anticipate potential growth in telehealth industry 🌱\n- Positive projections align with increasing demand for telehealth services ✅\n- Katie Stockton's insights provide confidence in the stock's future performance 🔥\n\nTAKEAWAY: With Katie Stockton's analysis highlighting strong gains ahead, investors are optimistic about the future of this telehealth stock amidst a growing industry demand.",
       "exported_at": "2025-09-22T14:19:04.788470",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump administration reportedly plans to link autism to Tylenol ingredient use in pregnancy",
+      "link": "https://www.cnbc.com/2025/09/21/trump-admin-reportedly-set-to-link-autism-to-tylenol-use-in-pregnancy.html",
+      "summary": "Federal health officials also are expected to highlight leucovorin, a form of folate, as a potential autism treatment, according to The Washington Post.",
+      "published": "Mon, 22 Sep 2025 18:22:34 GMT",
+      "content": "Federal health officials also are expected to highlight leucovorin, a form of folate, as a potential autism treatment, according to The Washington Post.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4d4c82d30100e10f480b86e67a227149",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP ADMIN LINKS AUTISM TO TYLENOL IN PREGNANCY 🚨\n\n- Tylenol ingredient use in pregnancy may be linked to autism\n- Leucovorin, a form of folate, could be an autism treatment\n- Federal health officials to emphasize these findings ⚠️\n\nTAKEAWAY: Trump administration's reported plan to connect Tylenol use in pregnancy to autism, along with highlighting leucovorin as a treatment, raises awareness about potential health impacts.",
+      "exported_at": "2025-09-22T14:24:13.104035",
       "continuous_session": true
     }
   ]
