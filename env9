@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T12:36:45.097412",
-    "total_articles": 1605,
-    "new_articles_in_last_fetch": 1605,
+    "created_at": "2025-09-22T12:47:01.383709",
+    "total_articles": 1607,
+    "new_articles_in_last_fetch": 1607,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -20856,6 +20856,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP RAISES H-1B VISA FEE TO $100,000 🚀\n\n- H-1B visa fee increased to $100,000 💸\n- Companies face challenges adapting to fee hike 🤯\n- Trump's move creates urgency in visa application process ⏰\n\nTAKEAWAY: President Trump's decision to raise the H-1B visa fee to $100,000 has significant implications for companies and visa applicants, prompting quick adjustments and responses.",
       "exported_at": "2025-09-22T12:36:44.969517",
+      "continuous_session": true
+    },
+    {
+      "title": "Spirit Airlines to furlough 1,800 flight attendants to cut costs in bankruptcy",
+      "link": "https://www.cnbc.com/2025/09/22/spirit-airlines-furlough-flight-attendants-bankruptcy.html",
+      "summary": "Spirit is planning to cut 1,800 flight attendants as it struggles to cut costs in bankruptcy.",
+      "published": "Mon, 22 Sep 2025 16:42:37 GMT",
+      "content": "Spirit is planning to cut 1,800 flight attendants as it struggles to cut costs in bankruptcy.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9f35ed8e34316c5c63bee59571471fcd",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SPIRIT AIRLINES TO FURLOUGH 1,800 FLIGHT ATTENDANTS IN COST-CUTTING MOVE 🚨\n\n- Spirit Airlines plans to cut 1,800 flight attendants amid bankruptcy 💼\n- Cost-cutting measures implemented due to financial struggles 💸\n- Furloughs aimed at reducing expenses during bankruptcy proceedings ✂️\n- Impact expected on flight operations and customer service 🛫\n- Uncertainty looms over the future of affected employees 🌐\n- Spirit Airlines faces challenges in restructuring efforts 🛠️\n\nTAKEAWAY: Spirit Airlines' decision to furlough 1,800 flight attendants as part of cost-cutting measures during bankruptcy reflects the challenges faced in restructuring, impacting operations and employees.",
+      "exported_at": "2025-09-22T12:47:01.253184",
+      "continuous_session": true
+    },
+    {
+      "title": "The stock market usually doesn&apos;t care about government shutdowns. This time may not follow the script",
+      "link": "https://www.cnbc.com/2025/09/22/stock-market-usually-ignores-government-shutdowns-maybe-not-this-time.html",
+      "summary": "The current funding dispute is raising concern among investors and strategists, who say the economic backdrop now is the weakest since 1990.",
+      "published": "Mon, 22 Sep 2025 16:35:53 GMT",
+      "content": "The current funding dispute is raising concern among investors and strategists, who say the economic backdrop now is the weakest since 1990.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "83dcca854ff426fbf997a9389ee1f2e0",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: THE STOCK MARKET SHAKES UP OVER GOVERNMENT SHUTDOWN CONCERNS ⚠️\n\n- Investors and strategists worried about the economic impact 📉\n- Funding dispute raises concerns in the market 🚨\n- Economic backdrop now weakest since 1990 💔\n\nTAKEAWAY: The stock market faces uncertainty as concerns rise over the economic impact of the current government shutdown, deviating from its usual indifference towards such events.",
+      "exported_at": "2025-09-22T12:47:01.253261",
       "continuous_session": true
     }
   ]
