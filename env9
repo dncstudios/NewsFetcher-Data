@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T15:09:59.266153",
-    "total_articles": 1626,
-    "new_articles_in_last_fetch": 1626,
+    "created_at": "2025-09-22T15:15:08.956379",
+    "total_articles": 1627,
+    "new_articles_in_last_fetch": 1627,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -21129,6 +21129,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: THE GENERATIONAL OPPORTUNITY IN MUNI BONDS SLIPPING AWAY 🚀\n\n- Muni bond yields dropping, supply decreasing 📉\n- Strategist Tom Kozlik warns investors not to delay ⏰\n- Opportunity for attractive income may vanish soon 💸\n- Urgency to act before opportunity diminishes 🚨\n- Muni bond market facing dwindling supply and falling yields ⚠️\n- Investors advised to seize the moment for muni bond investments ✅\n\nTAKEAWAY: Strategist Tom Kozlik alerts investors to act swiftly as the window of opportunity for attractive income on municipal bonds may close soon.",
       "exported_at": "2025-09-22T15:09:59.131170",
+      "continuous_session": true
+    },
+    {
+      "title": "Bitcoin drops below $113,000 amid profit taking, risk of government shutdown: CNBC Crypto World",
+      "link": "https://www.cnbc.com/video/2025/09/22/bitcoin-drops-below-113000-amid-profit-taking-risk-government-shutdown-cnbc-crypto-world.html",
+      "summary": "On today's episode of CNBC Crypto World, bitcoin dips below $113,000 amid profit taking and a growing risk of a government shutdown. Plus, crypto custody firm BitGo discloses in an IPO filing that revenue nearly quadrupled so far this year compared to the same time last year. And, Ondo Finance's founder &amp; CEO Nathan Allman discusses the growth of the firm's newly launched tokenized securities platform.",
+      "published": "Mon, 22 Sep 2025 19:00:02 GMT",
+      "content": "On today's episode of CNBC Crypto World, bitcoin dips below $113,000 amid profit taking and a growing risk of a government shutdown. Plus, crypto custody firm BitGo discloses in an IPO filing that revenue nearly quadrupled so far this year compared to the same time last year. And, Ondo Finance's founder &amp; CEO Nathan Allman discusses the growth of the firm's newly launched tokenized securities platform.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a68f596632026b429c90fd46821be2cf",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BITCOIN DROPS BELOW $113,000 AMID PROFIT TAKING, GOVERNMENT SHUTDOWN RISK 📉\n\n- Bitcoin falls below $113,000 due to profit taking 💰\n- Government shutdown threat adds pressure 🚨\n- BitGo reveals revenue growth nearly quadrupled this year 📈\n- Ondo Finance CEO talks about new tokenized securities platform 💼\n\nTAKEAWAY: Bitcoin's drop below $113,000, driven by profit taking and government shutdown fears, contrasts with BitGo's impressive revenue growth and Ondo Finance's innovative tokenized securities platform.",
+      "exported_at": "2025-09-22T15:15:08.827763",
       "continuous_session": true
     }
   ]
