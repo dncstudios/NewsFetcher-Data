@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T16:26:31.107278",
-    "total_articles": 1635,
-    "new_articles_in_last_fetch": 1635,
+    "created_at": "2025-09-22T17:22:19.869898",
+    "total_articles": 1637,
+    "new_articles_in_last_fetch": 1637,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -21246,6 +21246,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCK FUTURES HOLD STEADY AFTER RECORD HIGHS 📈\n\n- Dow and S&P 500 reach new records 🌟\n- Market stability post-Fed rate cut 📉✅\n- Wall Street gears up for another week 📊\n- Investors eyeing market performance 🧐🔍\n\nTAKEAWAY: Stock futures remain steady after Dow and S&P 500 achieve new record highs, following a strong week post-Fed interest rate cut.",
       "exported_at": "2025-09-22T16:26:30.983370",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump admin draws unproven link between autism and Tylenol ingredient use during pregnancy",
+      "link": "https://www.cnbc.com/2025/09/22/trump-autism-tylenol-acetaminophen-pregnancy.html",
+      "summary": "Officials warned pregnant women against using acetaminophen unless they have a fever, and touted a lesser-known drug as a potential treatment for autism.",
+      "published": "Mon, 22 Sep 2025 21:07:16 GMT",
+      "content": "Officials warned pregnant women against using acetaminophen unless they have a fever, and touted a lesser-known drug as a potential treatment for autism.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5f4db24a52b8b3cab2099dab4669fdf7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP ADMIN'S UNPROVEN LINK BETWEEN AUTISM AND TYLENOL INGREDIENT ⚠️\n\n- Officials caution pregnant women on acetaminophen usage 🚫\n- Acetaminophen discouraged for pregnant women without fever ❌\n- Trump admin promotes alternative drug for autism treatment 💊\n- Unsubstantiated connection between autism and Tylenol ingredient 🧐\n\nTAKEAWAY: Trump administration's warning on acetaminophen use during pregnancy due to an unproven link to autism raises concerns and promotes alternative treatments.",
+      "exported_at": "2025-09-22T17:22:19.742808",
+      "continuous_session": true
+    },
+    {
+      "title": "Jimmy Kimmel suspension, Trump book and Epstein note eyed in ABC affiliate shooting case",
+      "link": "https://www.cnbc.com/2025/09/22/jimmy-kimmel-abc-sacramento-shooting-epstein-kirk.html",
+      "summary": "The shooting at ABC's Sacramento affiliate occurred after the Disney subsidiary ABC suspended Jimmy Kimmel for comments about the killing of Charlie Kirk.",
+      "published": "Mon, 22 Sep 2025 21:18:38 GMT",
+      "content": "The shooting at ABC's Sacramento affiliate occurred after the Disney subsidiary ABC suspended Jimmy Kimmel for comments about the killing of Charlie Kirk.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "37547872dc999064fecb3f042ab1db87",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DA IN ABC STATION SHOOTING EYES JIMMY KIMMEL SUSPENSION 🚨\n\n- Shooting at ABC's Sacramento affiliate linked to Jimmy Kimmel suspension 🔗\n- ABC suspends Kimmel for comments on Charlie Kirk killing 💬\n- Disney subsidiary faces aftermath of controversial suspension ⚠️\n- Sacramento DA investigates shooting incident 🕵️‍♂️\n- Connection between suspension, shooting raises questions ❓\n- Details emerge on events leading to tragic incident 📰\n\nTAKEAWAY: The DA's investigation into the ABC station shooting sheds light on the aftermath of Jimmy Kimmel's suspension, sparking questions and concerns about the events.",
+      "exported_at": "2025-09-22T17:22:19.742877",
       "continuous_session": true
     }
   ]
