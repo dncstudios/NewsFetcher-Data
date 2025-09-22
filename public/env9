@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T10:29:07.902546",
-    "total_articles": 1591,
-    "new_articles_in_last_fetch": 1591,
+    "created_at": "2025-09-22T10:49:28.395465",
+    "total_articles": 1592,
+    "new_articles_in_last_fetch": 1592,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -20674,6 +20674,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: A 'SHORT STRANGLE' STRATEGY TO PROFIT FROM TRADING RANGE 📈\n\n- Michael Khouw explains the basics of a strangle options trade 📊\n- Strategy suitable for a software stock stuck in a trading range 📉\n- Potential candidate for a profitable short strangle trade 💰\n\nTAKEAWAY: Learn how a 'short strangle' options strategy can capitalize on a software stock's trading range, as explained by Michael Khouw.",
       "exported_at": "2025-09-22T10:29:07.791585",
+      "continuous_session": true
+    },
+    {
+      "title": "Brewer Molson Coors names insider Rahul Goyal as CEO",
+      "link": "https://www.cnbc.com/2025/09/22/brewer-molson-coors-names-insider-rahul-goyal-as-ceo.html",
+      "summary": "Molson Coors named insider Rahul Goyal as its CEO on Monday, to succeed Gavin Hattersley who retires this year.",
+      "published": "Mon, 22 Sep 2025 14:45:26 GMT",
+      "content": "Molson Coors named insider Rahul Goyal as its CEO on Monday, to succeed Gavin Hattersley who retires this year.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4b8385a04d692e82697e4677b6c947f0",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 🚀 MOLSON COORS APPOINTS INSIDER RAHUL GOYAL AS NEW CEO 🍻\n\n- Rahul Goyal to take over as CEO from retiring Gavin Hattersley\n- Goyal, an insider, appointed to lead Molson Coors\n- Transition planned as Hattersley retires this year\n\nTAKEAWAY: Molson Coors energizes its leadership with the appointment of insider Rahul Goyal as the new CEO, ensuring a smooth transition as Gavin Hattersley steps down.",
+      "exported_at": "2025-09-22T10:49:28.275718",
       "continuous_session": true
     }
   ]
