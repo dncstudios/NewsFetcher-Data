@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T14:24:13.231017",
-    "total_articles": 1623,
-    "new_articles_in_last_fetch": 1623,
+    "created_at": "2025-09-22T14:29:20.190490",
+    "total_articles": 1624,
+    "new_articles_in_last_fetch": 1624,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -21090,6 +21090,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP ADMIN LINKS AUTISM TO TYLENOL IN PREGNANCY 🚨\n\n- Tylenol ingredient use in pregnancy may be linked to autism\n- Leucovorin, a form of folate, could be an autism treatment\n- Federal health officials to emphasize these findings ⚠️\n\nTAKEAWAY: Trump administration's reported plan to connect Tylenol use in pregnancy to autism, along with highlighting leucovorin as a treatment, raises awareness about potential health impacts.",
       "exported_at": "2025-09-22T14:24:13.104035",
+      "continuous_session": true
+    },
+    {
+      "title": "New England wind farm construction to restart after court blocks Trump order to stop work",
+      "link": "https://www.cnbc.com/2025/09/22/judge-orsted-revolution-wind-trump.html",
+      "summary": "The Interior Department had ordered Orsted on Aug. 22 to halt construction on Revolution Wind off the coast of Rhode Island and Connecticut.",
+      "published": "Mon, 22 Sep 2025 18:27:29 GMT",
+      "content": "The Interior Department had ordered Orsted on Aug. 22 to halt construction on Revolution Wind off the coast of Rhode Island and Connecticut.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e5219c5560763316e981bb4f0cb7fff0",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JUDGE OVERTURNS TRUMP BLOCK, ORSTED RESUMES OFFSHORE WIND FARM 🚀\n\n- Orsted authorized to resume Revolution Wind construction ⚡️\n- Interior Department's Aug. 22 halt order reversed 🔄\n- Offshore wind farm located near Rhode Island, Connecticut 🌊\n- Legal battle resolved in favor of Orsted 🏆\n- Construction progress expected to pick up pace 📈\n\nTAKEAWAY: Orsted's victory in resuming construction on Revolution Wind after a legal battle signifies progress and momentum in the renewable energy sector.",
+      "exported_at": "2025-09-22T14:29:20.075530",
       "continuous_session": true
     }
   ]
