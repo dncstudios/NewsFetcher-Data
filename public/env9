@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-23T15:29:58.515185",
-    "total_articles": 1717,
-    "new_articles_in_last_fetch": 1717,
+    "created_at": "2025-09-23T15:40:09.021435",
+    "total_articles": 1718,
+    "new_articles_in_last_fetch": 1718,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -22312,6 +22312,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BITCOIN STRUGGLES TO MAINTAIN $112,000 LEVEL 📉\n\n- Bitcoin, ether remain stable after slight pullback 🪙\n- JPMorgan CEO Dimon reassures on stablecoins 💰\n- Santiago Roel Santos predicts crypto trends for Q4 🔮\n\nTAKEAWAY: Bitcoin's challenge in maintaining the $112,000 level reflects a cautious market sentiment, while insights from industry leaders provide guidance for the future.",
       "exported_at": "2025-09-23T15:29:58.379041",
+      "continuous_session": true
+    },
+    {
+      "title": "S&amp;P 500 pulls back from record as AI trade in Nvidia fizzles, Powell hints stocks are overvalued: Live updates",
+      "link": "https://www.cnbc.com/2025/09/22/stock-market-today-live-updates.html",
+      "summary": "Questions remain on whether the AI trade can continue powering U.S. equities given the risks tied to elevated market valuations.",
+      "published": "Tue, 23 Sep 2025 19:35:44 GMT",
+      "content": "Questions remain on whether the AI trade can continue powering U.S. equities given the risks tied to elevated market valuations.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "576a60c5842a064f23f457e8e985ea66",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK FUTURES STAGNANT AFTER 3-DAY WIN STREAK FOR S&P 500 📉\n\n- S&P 500 sees 3-day winning streak, but futures show little movement 📉\n- Uncertainty looms over the sustainability of AI trade in U.S. equities 🤔\n- Risks linked to high market valuations raise concerns ⚠️\n\nTAKEAWAY: Despite a recent winning streak for the S&P 500, stagnant stock futures and doubts about the sustainability of AI trade highlight uncertainties and risks in the market.",
+      "exported_at": "2025-09-23T15:40:08.895386",
       "continuous_session": true
     }
   ]
