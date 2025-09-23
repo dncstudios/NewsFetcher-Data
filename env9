@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-23T08:36:35.372026",
-    "total_articles": 1670,
-    "new_articles_in_last_fetch": 1670,
+    "created_at": "2025-09-23T08:51:52.822917",
+    "total_articles": 1671,
+    "new_articles_in_last_fetch": 1671,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -21701,6 +21701,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: EUROPE'S WORK-LIFE BALANCE LURES TALENT AMID H-1B VISA CHANGES 🚀\n\n- Randstad research shows work-life balance gains global significance 📈\n- Employees prioritize balance in career decisions 🎯\n- Europe attracts talent with strong work-life balance offerings 💼\n- Trump's H-1B visa changes impact global talent migration 🌍\n- Work-life balance emerges as a key factor for job seekers 🌟\n\nTAKEAWAY: Europe's emphasis on work-life balance stands out as a powerful magnet for talent amidst shifting global visa policies.",
       "exported_at": "2025-09-23T08:36:35.277381",
+      "continuous_session": true
+    },
+    {
+      "title": "Prediction markets for NFL and other events are already a $200 million business for Robinhood, says Piper Sandler",
+      "link": "https://www.cnbc.com/2025/09/23/prediction-markets-for-nfl-already-a-200-million-business-for-robinhood-says-piper-sandler.html",
+      "summary": "The investment firm, which has an overweight rating on Robinhood, raised its price target on the stock.",
+      "published": "Tue, 23 Sep 2025 12:48:44 GMT",
+      "content": "The investment firm, which has an overweight rating on Robinhood, raised its price target on the stock.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c37762d7d4ee8bffccd104c5593b5c6b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PREDICTION MARKETS BOOMING: ROBINHOOD'S $200M BUSINESS ⚡️\n\n- Robinhood's prediction markets hit $200M, Piper Sandler reports 📈\n- Investment firm raises stock price target, rates Robinhood overweight 🎯\n- Impressive growth in prediction markets boosts Robinhood's value 🚀\n\nTAKEAWAY: Robinhood's prediction markets surge to a $200 million business, driving stock value up as Piper Sandler raises price target and rates the company overweight.",
+      "exported_at": "2025-09-23T08:51:52.693163",
       "continuous_session": true
     }
   ]
