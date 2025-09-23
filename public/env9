@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-23T10:39:02.009400",
-    "total_articles": 1684,
-    "new_articles_in_last_fetch": 1684,
+    "created_at": "2025-09-23T10:44:12.910468",
+    "total_articles": 1687,
+    "new_articles_in_last_fetch": 1687,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -21883,6 +21883,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCK FUTURES STAGNANT AFTER 3-DAY WIN STREAK FOR S&P 500 📉\n\n- S&P 500 sees 3-day winning streak, but futures show little movement 📉\n- Uncertainty looms over the sustainability of AI trade in U.S. equities 🤔\n- Risks linked to high market valuations raise concerns ⚠️\n\nTAKEAWAY: Despite a recent winning streak for the S&P 500, stagnant stock futures and doubts about the sustainability of AI trade highlight uncertainties and risks in the market.",
       "exported_at": "2025-09-23T10:39:01.871085",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump cancels meeting with top Democrats as federal shutdown looms",
+      "link": "https://www.cnbc.com/2025/09/23/trump-democrats-shutdown-schumer-jeffries.html",
+      "summary": "The Democratic leaders, Chuck Schumer and Hakeem Jeffries, and Trump have each asserted that the other would be responsible if the government shuts down.",
+      "published": "Tue, 23 Sep 2025 14:43:44 GMT",
+      "content": "The Democratic leaders, Chuck Schumer and Hakeem Jeffries, and Trump have each asserted that the other would be responsible if the government shuts down.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d41ef74eae5ecd8647f8cfc009f512fc",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP CANCELS DEMOCRATS MEETING AMID SHUTDOWN LOOM 🚨\n\n- Trump scraps meeting with top Democrats over shutdown risk\n- Schumer, Jeffries, and Trump blame each other for potential shutdown\n- Tensions rise as government funding deadline approaches ⚠️\n\nTAKEAWAY: Trump's decision to cancel the meeting with top Democrats escalates tensions as the federal shutdown looms, with blame games adding to uncertainty.",
+      "exported_at": "2025-09-23T10:44:12.779777",
+      "continuous_session": true
+    },
+    {
+      "title": "Tax savings from Trump&apos;s $40,000 SALT deduction limit could be highest in these states",
+      "link": "https://www.cnbc.com/2025/09/23/trump-salt-deduction-limit.html",
+      "summary": "Trump’s ‘big beautiful bill’ increased the SALT deduction to $40,000 for 2025. Here's where taxpayers could see the biggest benefit.",
+      "published": "Tue, 23 Sep 2025 14:35:39 GMT",
+      "content": "Trump’s ‘big beautiful bill’ increased the SALT deduction to $40,000 for 2025. Here's where taxpayers could see the biggest benefit.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e01c08564b99f762c801b5027699e87c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TAX SAVINGS SOAR WITH TRUMP'S $40,000 SALT DEDUCTION LIMIT 🚀\n\n- Trump's bill boosts SALT deduction to $40,000 by 2025 💰\n- Certain states to enjoy highest tax savings 🌟\n- Taxpayers set to benefit from increased deductions 📈\n\nTAKEAWAY: Trump's raised SALT deduction to $40,000 by 2025 will lead to significant tax savings, especially in specific states.",
+      "exported_at": "2025-09-23T10:44:12.779857",
+      "continuous_session": true
+    },
+    {
+      "title": "GAAP vs. non-GAAP earnings: What investors need to know about stock-based pay and adjusted profit",
+      "link": "https://www.cnbc.com/2025/09/23/gaap-vs-non-gaap-earnings-stock-compensation.html",
+      "summary": "Stock-based compensation can inflate adjusted earnings and dilute shareholder returns.",
+      "published": "Tue, 23 Sep 2025 14:35:55 GMT",
+      "content": "Stock-based compensation can inflate adjusted earnings and dilute shareholder returns.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fe5b9291285d7c9228ae5139c80178b0",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GAAP VS. NON-GAAP EARNINGS: UNDERSTANDING STOCK-BASED PAY IMPACT 🚀\n\n- Stock-based pay can boost adjusted earnings 📈\n- Dilution of shareholder returns possible due to stock-based compensation 💸\n- Investors should consider impact on profitability metrics 📊\n\nTAKEAWAY: Understanding the effects of stock-based pay on earnings is crucial for investors to make informed decisions and assess true profitability.",
+      "exported_at": "2025-09-23T10:44:12.779871",
       "continuous_session": true
     }
   ]
