@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-23T03:51:38.112429",
-    "total_articles": 1652,
-    "new_articles_in_last_fetch": 1652,
+    "created_at": "2025-09-23T03:56:46.245014",
+    "total_articles": 1653,
+    "new_articles_in_last_fetch": 1653,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -21467,6 +21467,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: EUROPEAN STOCKS POISED TO RISE AS WALL STREET HITS NEW HIGHS 🚀\n\n- U.S. stocks soar post Nvidia's $100B OpenAI investment 💰\n- European markets expected to follow Wall Street's lead 📈\n- Nvidia's massive investment boosts market sentiment 🚀\n- Investors anticipate positive momentum in European stocks 📊\n\nTAKEAWAY: European stocks are likely to surge as they take cues from Wall Street's record-breaking performance fueled by Nvidia's significant investment in OpenAI.",
       "exported_at": "2025-09-23T03:51:37.982191",
+      "continuous_session": true
+    },
+    {
+      "title": "U.K. home improvement firm Kingfisher surges 18% after lifting outlook",
+      "link": "https://www.cnbc.com/2025/09/23/european-stocks-set-to-rise-after-wall-street-sets-fresh-records.html",
+      "summary": "European stocks were broadly higher at the open on Tuesday.",
+      "published": "Tue, 23 Sep 2025 07:54:06 GMT",
+      "content": "European stocks were broadly higher at the open on Tuesday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3fe2353b23ffc192c0bf59bff47305ad",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: KINGFISHER SURGES 18% ON UPLIFTED OUTLOOK 🚀\n\n- U.K. home improvement firm Kingfisher's stock jumps 18%\n- Lifts outlook, boosting investor confidence 📈\n- European stocks show overall positive trend at opening 🌍\n\nTAKEAWAY: Kingfisher's impressive 18% surge following an uplifted outlook showcases strong investor faith, while European markets start positively.",
+      "exported_at": "2025-09-23T03:56:46.112421",
       "continuous_session": true
     }
   ]
