@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-23T12:31:34.364086",
-    "total_articles": 1701,
-    "new_articles_in_last_fetch": 1701,
+    "created_at": "2025-09-23T12:41:47.539344",
+    "total_articles": 1702,
+    "new_articles_in_last_fetch": 1702,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -22104,6 +22104,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCK FUTURES STAGNANT AFTER 3-DAY WIN STREAK FOR S&P 500 📉\n\n- S&P 500 sees 3-day winning streak, but futures show little movement 📉\n- Uncertainty looms over the sustainability of AI trade in U.S. equities 🤔\n- Risks linked to high market valuations raise concerns ⚠️\n\nTAKEAWAY: Despite a recent winning streak for the S&P 500, stagnant stock futures and doubts about the sustainability of AI trade highlight uncertainties and risks in the market.",
       "exported_at": "2025-09-23T12:31:34.229917",
+      "continuous_session": true
+    },
+    {
+      "title": "Powell says slowing labor market prompted rate cut, sees &apos;challenging situation&apos; ahead",
+      "link": "https://www.cnbc.com/2025/09/23/powell-says-slowing-labor-market-prompted-rate-cut-sees-challenging-situation-ahead.html",
+      "summary": "Powell said Tuesday that weakness in the labor market is outweighing concerns about stubborn inflation.",
+      "published": "Tue, 23 Sep 2025 16:35:01 GMT",
+      "content": "Powell said Tuesday that weakness in the labor market is outweighing concerns about stubborn inflation.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1cb33755a60b3844eee2ee31d30f9c2b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: POWELL SIGNALS RATE CUT AMID LABOR MARKET WOES ⚠️\n\n- Labor market weakness leads Powell to consider rate cut 📉\n- Concerns shift from stubborn inflation to challenging situation ahead 🔄\n- Powell emphasizes the impact of slowing job growth on economy 💼\n\nTAKEAWAY: Powell's focus on labor market weakness prompts considerations for a rate cut amidst concerns of a challenging future ahead.",
+      "exported_at": "2025-09-23T12:41:47.408042",
       "continuous_session": true
     }
   ]
