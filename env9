@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-23T18:53:13.284372",
-    "total_articles": 1726,
-    "new_articles_in_last_fetch": 1726,
+    "created_at": "2025-09-23T19:13:31.010925",
+    "total_articles": 1727,
+    "new_articles_in_last_fetch": 1727,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -22429,6 +22429,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JIMMY KIMMEL BACK IN ACTION: FANS REJOICE OUTSIDE LA STUDIO 🚀\n\n- \"Jimmy Kimmel Live!\" resumes after ABC suspension ✅\n- Fans eagerly await Kimmel's return in LA 🎉\n- Studio buzzes with excitement for Tuesday's show 🌟\n\nTAKEAWAY: Jimmy Kimmel's return to late-night TV sparks joy among fans as he resumes his show after a brief hiatus.",
       "exported_at": "2025-09-23T18:53:13.189071",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump UN escalator snafu: White House wants investigation of sudden stop",
+      "link": "https://www.cnbc.com/2025/09/23/trump-un-ga-speech.html",
+      "summary": "President Donald Trump, in a United Nations speech that lasted nearly an hour, criticized member nations on migration and called climate change a \"con job.\"",
+      "published": "Tue, 23 Sep 2025 23:09:07 GMT",
+      "content": "President Donald Trump, in a United Nations speech that lasted nearly an hour, criticized member nations on migration and called climate change a \"con job.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "90b61fd908dca74cdec10fd5cc2d2183",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP CRITICIZES UN MEMBERS IN HOUR-LONG SPEECH 🚨\n\n- Trump voices disappointment over not securing UN renovations contract 🏗️\n- Criticizes member nations on migration policies 🌍\n- Denounces climate change as a \"con job\" 🌡️\n- Speech lasted nearly an hour 🕒\n- Trump's strong opinions on global issues highlighted 🗣️\n\nTAKEAWAY: Trump's lengthy UN speech showcases his strong opinions on global issues, including criticisms of member nations on migration and climate change denial.",
+      "exported_at": "2025-09-23T19:13:30.887755",
       "continuous_session": true
     }
   ]
