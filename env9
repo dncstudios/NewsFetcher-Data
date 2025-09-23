@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-23T11:09:41.977171",
-    "total_articles": 1689,
-    "new_articles_in_last_fetch": 1689,
+    "created_at": "2025-09-23T11:14:52.448909",
+    "total_articles": 1691,
+    "new_articles_in_last_fetch": 1691,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -21948,6 +21948,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP CANCELS MEETING WITH DEMOCRATS AMID LOOMING SHUTDOWN 🚨\n\n- Trump cancels meeting with top Democrats over looming shutdown\n- Sen. Schumer and Rep. Jeffries blame Trump for potential shutdown\n- Democrats warn Trump about consequences of failed deal\n\nTAKEAWAY: Trump's cancellation of the meeting with Democrats raises concerns about a potential government shutdown, with blame being placed on him by key Democratic figures.",
       "exported_at": "2025-09-23T11:09:41.846698",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump cancels meeting with top Democrats as government shutdown looms",
+      "link": "https://www.cnbc.com/2025/09/23/trump-democrats-shutdown-schumer-jeffries.html",
+      "summary": "New York Democrats Sen. Chuck Schumer and Rep. Hakeem Jeffries say Trump will take the blame for a federal government shutdown if a deal can't be reached.",
+      "published": "Tue, 23 Sep 2025 15:11:07 GMT",
+      "content": "New York Democrats Sen. Chuck Schumer and Rep. Hakeem Jeffries say Trump will take the blame for a federal government shutdown if a deal can't be reached.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fd4299a3114b10ae7ee6cd7beec49fc7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP CANCELS DEMOCRATS MEETING AMID SHUTDOWN LOOM 🚨\n\n- Trump cancels crucial meeting with top Democrats 🚫\n- Democrats warn Trump will be blamed for government shutdown 📉\n- Tension escalates as deal remains elusive ⚠️\n\nTAKEAWAY: The cancellation of the meeting between Trump and top Democrats heightens tension as the threat of a government shutdown looms, with blame games intensifying.",
+      "exported_at": "2025-09-23T11:14:52.331173",
+      "continuous_session": true
+    },
+    {
+      "title": "Nexstar-owned ABC affiliates won&apos;t show Kimmel&apos;s return Tuesday, joining Sinclair in preempting program",
+      "link": "https://www.cnbc.com/2025/09/23/kimmel-abc-nexstar-sinclair-fcc.html",
+      "summary": "Nexstar Media Group said it would join Sinclair's ABC affiliate stations in preempting the return of \"Jimmy Kimmel Live!\" on Tuesday.",
+      "published": "Tue, 23 Sep 2025 15:06:39 GMT",
+      "content": "Nexstar Media Group said it would join Sinclair's ABC affiliate stations in preempting the return of \"Jimmy Kimmel Live!\" on Tuesday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f5996f61e4ad448831c1eaa0856180df",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NEXSTAR & SINCLAIR ABC AFFILIATES PREEMPT JIMMY KIMMEL'S RETURN 🚫\n\n- Nexstar Media Group follows Sinclair in preempting \"Jimmy Kimmel Live!\"\n- ABC affiliates to skip airing Kimmel's show on Tuesday 📺\n- Decision impacts viewers of Nexstar-owned stations 📉\n- Preemption of Kimmel's return raises questions and concerns ❓⚠️\n\nTAKEAWAY: Nexstar and Sinclair ABC affiliates opting out of airing Jimmy Kimmel's return on Tuesday sparks curiosity and disappointment among viewers.",
+      "exported_at": "2025-09-23T11:14:52.331251",
       "continuous_session": true
     }
   ]
