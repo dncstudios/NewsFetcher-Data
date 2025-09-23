@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-23T10:33:56.061631",
-    "total_articles": 1683,
-    "new_articles_in_last_fetch": 1683,
+    "created_at": "2025-09-23T10:39:02.009400",
+    "total_articles": 1684,
+    "new_articles_in_last_fetch": 1684,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -21870,6 +21870,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AMAZON SHUTTING DOWN FRESH GROCERY STORES IN UK 🚨\n\n- Amazon to close all Fresh grocery stores in the UK 🛒\n- Significant changes in the company's grocery business 🔄\n- Focus on trimming brick-and-mortar store footprint 🏬\n- Shift towards enhancing online grocery services 📦\n- Rapidly evolving strategies in the grocery sector 🔄\n- Adaptation to changing consumer preferences in the market 🛍️\n\nTAKEAWAY: Amazon's decision to close its Fresh grocery stores in the UK showcases its strategic shift towards online grocery services, reflecting the evolving consumer landscape and market dynamics.",
       "exported_at": "2025-09-23T10:33:55.933438",
+      "continuous_session": true
+    },
+    {
+      "title": "S&amp;P 500 is little changed, hits record for a fourth day in a row: Live updates",
+      "link": "https://www.cnbc.com/2025/09/22/stock-market-today-live-updates.html",
+      "summary": "Questions remain on whether the AI trade can continue powering U.S. equities given the risks tied to elevated market valuations.",
+      "published": "Tue, 23 Sep 2025 14:36:41 GMT",
+      "content": "Questions remain on whether the AI trade can continue powering U.S. equities given the risks tied to elevated market valuations.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "da8375e075f075825f1051aeeaf82ca1",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK FUTURES STAGNANT AFTER 3-DAY WIN STREAK FOR S&P 500 📉\n\n- S&P 500 sees 3-day winning streak, but futures show little movement 📉\n- Uncertainty looms over the sustainability of AI trade in U.S. equities 🤔\n- Risks linked to high market valuations raise concerns ⚠️\n\nTAKEAWAY: Despite a recent winning streak for the S&P 500, stagnant stock futures and doubts about the sustainability of AI trade highlight uncertainties and risks in the market.",
+      "exported_at": "2025-09-23T10:39:01.871085",
       "continuous_session": true
     }
   ]
