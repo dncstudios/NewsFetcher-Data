@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-23T10:44:12.910468",
-    "total_articles": 1687,
-    "new_articles_in_last_fetch": 1687,
+    "created_at": "2025-09-23T10:49:19.224861",
+    "total_articles": 1688,
+    "new_articles_in_last_fetch": 1688,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -21922,6 +21922,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: GAAP VS. NON-GAAP EARNINGS: UNDERSTANDING STOCK-BASED PAY IMPACT 🚀\n\n- Stock-based pay can boost adjusted earnings 📈\n- Dilution of shareholder returns possible due to stock-based compensation 💸\n- Investors should consider impact on profitability metrics 📊\n\nTAKEAWAY: Understanding the effects of stock-based pay on earnings is crucial for investors to make informed decisions and assess true profitability.",
       "exported_at": "2025-09-23T10:44:12.779871",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump cancels meeting with top Democrats as government shutdown looms",
+      "link": "https://www.cnbc.com/2025/09/23/trump-democrats-shutdown-schumer-jeffries.html",
+      "summary": "The Democratic leaders, Chuck Schumer and Hakeem Jeffries, and Trump have each asserted that the other would be responsible if the government shuts down.",
+      "published": "Tue, 23 Sep 2025 14:44:06 GMT",
+      "content": "The Democratic leaders, Chuck Schumer and Hakeem Jeffries, and Trump have each asserted that the other would be responsible if the government shuts down.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "dffdeb290c14d6f91155ba0bc946d352",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP CANCELS DEMOCRATS MEETING AMID SHUTDOWN LOOM 🚨\n\n- Trump scraps meeting with top Democrats over shutdown risk\n- Schumer, Jeffries, and Trump blame each other for potential shutdown\n- Tensions rise as government funding deadline approaches ⚠️\n\nTAKEAWAY: Trump's decision to cancel the meeting with top Democrats escalates tensions as the federal shutdown looms, with blame games adding to uncertainty.",
+      "exported_at": "2025-09-23T10:49:19.107154",
       "continuous_session": true
     }
   ]
