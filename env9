@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-23T15:09:37.357992",
-    "total_articles": 1716,
-    "new_articles_in_last_fetch": 1716,
+    "created_at": "2025-09-23T15:29:58.515185",
+    "total_articles": 1717,
+    "new_articles_in_last_fetch": 1717,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -22299,6 +22299,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JIM CRAMER: EVERYBODY SHOULD BUY BOEING NOW! 🚀\n\n- Boeing's shares rise on reports of final U.S.-China jet order talks 📈\n- Positive momentum as negotiations near completion 🚀\n- Potential huge boost for Boeing's revenue and market position 💰\n- Jim Cramer advocates for investors to seize this opportunity 💡\n- Bull case for Boeing coming into clear focus 🎯\n- Excitement builds around the potential massive jet order ⚡️\n\nTAKEAWAY: With Boeing's shares rising and a potential massive order on the horizon, now is the time for investors to capitalize on this opportunity highlighted by Jim Cramer.",
       "exported_at": "2025-09-23T15:09:37.207777",
+      "continuous_session": true
+    },
+    {
+      "title": "Bitcoin struggles to maintain $112,000 level: CNBC Crypto World",
+      "link": "https://www.cnbc.com/video/2025/09/23/bitcoin-struggles-to-maintain-112000-level-cnbc-crypto-world.html",
+      "summary": "On today's episode of CNBC Crypto World, bitcoin and ether are little changed after a pullback to start the week. Plus, JPMorgan CEO Jamie Dimon says stablecoins don't pose a threat to banks. And, Santiago Roel Santos of Inversion breaks down where crypto is going in Q4.",
+      "published": "Tue, 23 Sep 2025 19:12:15 GMT",
+      "content": "On today's episode of CNBC Crypto World, bitcoin and ether are little changed after a pullback to start the week. Plus, JPMorgan CEO Jamie Dimon says stablecoins don't pose a threat to banks. And, Santiago Roel Santos of Inversion breaks down where crypto is going in Q4.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5b1ae6a39dc70cea1cb08613fd86b70a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BITCOIN STRUGGLES TO MAINTAIN $112,000 LEVEL 📉\n\n- Bitcoin, ether remain stable after slight pullback 🪙\n- JPMorgan CEO Dimon reassures on stablecoins 💰\n- Santiago Roel Santos predicts crypto trends for Q4 🔮\n\nTAKEAWAY: Bitcoin's challenge in maintaining the $112,000 level reflects a cautious market sentiment, while insights from industry leaders provide guidance for the future.",
+      "exported_at": "2025-09-23T15:29:58.379041",
       "continuous_session": true
     }
   ]
