@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-23T05:28:20.063570",
-    "total_articles": 1658,
-    "new_articles_in_last_fetch": 1658,
+    "created_at": "2025-09-23T05:43:37.462033",
+    "total_articles": 1659,
+    "new_articles_in_last_fetch": 1659,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -21545,6 +21545,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: 🚀 NIKE JOINS OUR TEAM FOR A TURNAROUND JOURNEY\n\n- Investing Club welcomes Nike to the lineup 🙌\n- Nike embarks on a turnaround journey 🔄\n- Stay tuned for the Homestretch update on Nike's progress 🔍\n- Actionable insights for the last hour of trading 📈\n- Expect exciting developments in Nike's performance ⚡️\n\nTAKEAWAY: Nike's addition to the Investing Club's lineup signals a promising turnaround journey, with actionable insights in the Homestretch update for the last hour of trading.",
       "exported_at": "2025-09-23T05:28:19.939777",
+      "continuous_session": true
+    },
+    {
+      "title": "Startups and founders could be hardest hit by $100,000 H-1B visas",
+      "link": "https://www.cnbc.com/2025/09/23/startups-and-founders-could-be-hardest-hit-by-100000-h-1b-visas.html",
+      "summary": "Startups across the U.S. have been left worrying about the implications of potential hefty fees on H-1B visas.",
+      "published": "Tue, 23 Sep 2025 09:33:26 GMT",
+      "content": "Startups across the U.S. have been left worrying about the implications of potential hefty fees on H-1B visas.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3163f4958ed31832a2cca561b4ffad47",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STARTUPS BRACE FOR IMPACT OF $100,000 H-1B VISAS 💥\n\n- Startups fear financial burden of $100,000 H-1B visa fees 💸\n- Concerns rise over implications for founders and employees 📉\n- Uncertainty looms over the future of startup innovation 🌐\n\nTAKEAWAY: Startups and founders face mounting concerns over the financial impact of proposed $100,000 H-1B visa fees, potentially jeopardizing innovation and growth.",
+      "exported_at": "2025-09-23T05:43:37.336075",
       "continuous_session": true
     }
   ]
