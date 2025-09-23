@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-23T07:20:06.663379",
-    "total_articles": 1663,
-    "new_articles_in_last_fetch": 1663,
+    "created_at": "2025-09-23T07:30:19.067881",
+    "total_articles": 1664,
+    "new_articles_in_last_fetch": 1664,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -21610,6 +21610,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SECRET SERVICE THWARTS TELECOM THREAT NEAR UN 🚨\n\n- Secret Service dismantles network threatening cell service in NYC 📵\n- Telecom threat aimed at government officials under investigation 🔍\n- Network discovered as part of Secret Service probe 🕵️‍♂️\n\nTAKEAWAY: Secret Service's swift action in dismantling the telecom threat near the UN prevents potential disruption of cell service in NYC, ensuring security for government officials.",
       "exported_at": "2025-09-23T07:20:06.548202",
+      "continuous_session": true
+    },
+    {
+      "title": "Asset manager Brookfield just struck a deal that will give it an edge in AI, analysts say",
+      "link": "https://www.cnbc.com/2025/09/23/asset-manager-brookfield-just-struck-a-deal-that-will-give-it-an-edge-in-ai-analysts-say.html",
+      "summary": "\"We see scope for humanoid robots to increase operating margins of portfolio companies across the Brookfield ecosystem,\" Morgan Stanley said.",
+      "published": "Tue, 23 Sep 2025 11:27:47 GMT",
+      "content": "\"We see scope for humanoid robots to increase operating margins of portfolio companies across the Brookfield ecosystem,\" Morgan Stanley said.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "346431a8b1c2b7900990926702503bde",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BROOKFIELD'S AI DEAL SET TO BOOST OPERATING MARGINS, SAYS ANALYSTS 🚀\n\n- Brookfield's deal to leverage AI for higher operating margins 💰\n- Morgan Stanley anticipates humanoid robots enhancing portfolio companies 🤖\n- AI integration expected to give Brookfield a competitive edge 🌟\n\nTAKEAWAY: Analysts believe Brookfield's AI deal will drive efficiency and profitability, setting the stage for enhanced competitiveness in the market.",
+      "exported_at": "2025-09-23T07:30:18.937976",
       "continuous_session": true
     }
   ]
