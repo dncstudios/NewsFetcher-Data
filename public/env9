@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-23T12:41:47.539344",
-    "total_articles": 1702,
-    "new_articles_in_last_fetch": 1702,
+    "created_at": "2025-09-23T13:02:06.357325",
+    "total_articles": 1703,
+    "new_articles_in_last_fetch": 1703,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -22117,6 +22117,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: POWELL SIGNALS RATE CUT AMID LABOR MARKET WOES ⚠️\n\n- Labor market weakness leads Powell to consider rate cut 📉\n- Concerns shift from stubborn inflation to challenging situation ahead 🔄\n- Powell emphasizes the impact of slowing job growth on economy 💼\n\nTAKEAWAY: Powell's focus on labor market weakness prompts considerations for a rate cut amidst concerns of a challenging future ahead.",
       "exported_at": "2025-09-23T12:41:47.408042",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves midday: Firefly Aerospace, AutoZone, Sempra, Halliburton and more",
+      "link": "https://www.cnbc.com/2025/09/23/stocks-making-the-biggest-moves-midday-fly-azo-sre-hal.html",
+      "summary": "These are the stocks posting the largest moves in midday trading.",
+      "published": "Tue, 23 Sep 2025 16:58:53 GMT",
+      "content": "These are the stocks posting the largest moves in midday trading.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "722105e628f97ce3b56e4a12648f0312",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS MAKING BIG MOVES MIDDAY 🚀\n\n- Firefly Aerospace, AutoZone, Sempra, Halliburton show significant midday shifts\n- Market sees notable volatility and movement in stock prices\n- Investors closely monitoring these companies for trading opportunities\n\nTAKEAWAY: Firefly Aerospace, AutoZone, Sempra, Halliburton, and others are experiencing substantial midday stock movements, attracting investors seeking trading opportunities in a volatile market.",
+      "exported_at": "2025-09-23T13:02:06.235546",
       "continuous_session": true
     }
   ]
