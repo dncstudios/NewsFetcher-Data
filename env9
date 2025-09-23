@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-23T09:27:27.193934",
-    "total_articles": 1673,
-    "new_articles_in_last_fetch": 1673,
+    "created_at": "2025-09-23T09:32:38.606080",
+    "total_articles": 1676,
+    "new_articles_in_last_fetch": 1676,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -21740,6 +21740,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: THE TOP 10 STOCK MARKET WATCHES FOR TUESDAY 🚀\n\n- Nvidia shares dip slightly despite hitting record high 📉\n- Market eyes OpenAI impact on Nvidia's future 🧐\n- Investors analyze Nvidia's growth potential 📈\n- OpenAI announcement influences Nvidia's stock performance 💡\n\nTAKEAWAY: Nvidia's record high close post-OpenAI announcement triggers market interest and investor scrutiny, impacting stock performance.",
       "exported_at": "2025-09-23T09:27:27.063693",
+      "continuous_session": true
+    },
+    {
+      "title": "Morgan Stanley close to offering crypto trading though E-Trade, calls it ‘tip of the iceberg’",
+      "link": "https://www.cnbc.com/2025/09/23/morgan-stanley-crypto-trading-e-trade-next-year.html",
+      "summary": "Morgan Stanley, which relies more on wealth management than its peers, is poised to be an early adopter in crypto trading, custody and tokenized assets.",
+      "published": "Tue, 23 Sep 2025 13:26:12 GMT",
+      "content": "Morgan Stanley, which relies more on wealth management than its peers, is poised to be an early adopter in crypto trading, custody and tokenized assets.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a6bf624286b6382b4637c11b5913c266",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MORGAN STANLEY LEADING THE WAY IN CRYPTO TRADING WITH E-TRADE 🚀\n\n- Morgan Stanley to offer crypto trading, custody, & tokenized assets 🌐💰\n- Focus on wealth management gives them a competitive edge 💼✨\n- Positioned as an early adopter in the crypto space 🥇🔝\n- E-Trade partnership seen as just the beginning 🌱💎\n- Embracing digital assets as part of their future strategy 💹🚀\n- Expanding services to cater to evolving investor demands 💡📈\n\nTAKEAWAY: Morgan Stanley's move into crypto trading through E-Trade signifies the start of a new era in digital asset adoption in traditional finance.",
+      "exported_at": "2025-09-23T09:32:38.474713",
+      "continuous_session": true
+    },
+    {
+      "title": "&apos;Animal spirits&apos; measure signals a market pullback could be near",
+      "link": "https://www.cnbc.com/2025/09/23/animal-spirits-measure-signals-a-market-pullback-could-be-near.html",
+      "summary": "A look under the surface of the S&amp;P 500 may belies the benchmark continuing to run to fresh records.",
+      "published": "Tue, 23 Sep 2025 13:25:01 GMT",
+      "content": "A look under the surface of the S&amp;P 500 may belies the benchmark continuing to run to fresh records.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b7798a58558e8e169863bb1df153ea12",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 'ANIMAL SPIRITS' SIGNAL MARKET PULLBACK NEARING 🚨\n\n- S&P 500 shows signs of a potential pullback 📉\n- Market may not continue breaking records 📉\n- 'Animal spirits' measure hints at looming downturn 🐾\n\nTAKEAWAY: The S&P 500's 'animal spirits' signal a possible market pullback, indicating caution for investors as record-breaking streaks may pause.",
+      "exported_at": "2025-09-23T09:32:38.474789",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks are little changed after 3-day win streak for S&amp;P 500: Live updates",
+      "link": "https://www.cnbc.com/2025/09/22/stock-market-today-live-updates.html",
+      "summary": "Questions remain on whether the AI trade can continue powering U.S. equities given the risks tied to elevated market valuations.",
+      "published": "Tue, 23 Sep 2025 13:31:00 GMT",
+      "content": "Questions remain on whether the AI trade can continue powering U.S. equities given the risks tied to elevated market valuations.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c63bd3d0519421956fb0d4ea4fa17c68",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK FUTURES STAGNANT AFTER 3-DAY WIN STREAK FOR S&P 500 📉\n\n- S&P 500 sees 3-day winning streak, but futures show little movement 📉\n- Uncertainty looms over the sustainability of AI trade in U.S. equities 🤔\n- Risks linked to high market valuations raise concerns ⚠️\n\nTAKEAWAY: Despite a recent winning streak for the S&P 500, stagnant stock futures and doubts about the sustainability of AI trade highlight uncertainties and risks in the market.",
+      "exported_at": "2025-09-23T09:32:38.474804",
       "continuous_session": true
     }
   ]
