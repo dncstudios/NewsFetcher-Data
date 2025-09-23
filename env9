@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-23T13:02:06.357325",
-    "total_articles": 1703,
-    "new_articles_in_last_fetch": 1703,
+    "created_at": "2025-09-23T13:07:16.720882",
+    "total_articles": 1704,
+    "new_articles_in_last_fetch": 1704,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -22130,6 +22130,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCKS MAKING BIG MOVES MIDDAY 🚀\n\n- Firefly Aerospace, AutoZone, Sempra, Halliburton show significant midday shifts\n- Market sees notable volatility and movement in stock prices\n- Investors closely monitoring these companies for trading opportunities\n\nTAKEAWAY: Firefly Aerospace, AutoZone, Sempra, Halliburton, and others are experiencing substantial midday stock movements, attracting investors seeking trading opportunities in a volatile market.",
       "exported_at": "2025-09-23T13:02:06.235546",
+      "continuous_session": true
+    },
+    {
+      "title": "Eli Lilly to build $6.5 billion Texas manufacturing facility for obesity pill, other drugs",
+      "link": "https://www.cnbc.com/2025/09/23/eli-lilly-plans-6point5-billion-texas-manufacturing-plant-for-obesity-pill.html",
+      "summary": "More production capacity for the obesity pill is crucial as Eli Lilly races to bring it to market and tries to maintain its dominance in the GLP-1 market.",
+      "published": "Tue, 23 Sep 2025 17:00:27 GMT",
+      "content": "More production capacity for the obesity pill is crucial as Eli Lilly races to bring it to market and tries to maintain its dominance in the GLP-1 market.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b972970a16fc25cfc42f353323cd4195",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ELI LILLY INVESTS $6.5B IN TEXAS FACILITY FOR OBESITY PILL 🚀\n\n- Eli Lilly to construct Texas plant for obesity pill and other drugs\n- Facility aims to boost production capacity for crucial obesity pill\n- Move essential for Lilly to lead in GLP-1 market\n- Investment signals commitment to market dominance\n- Texas facility vital for meeting market demands\n- Lilly racing to launch obesity pill amidst competition\n- Strategic move to ensure market leadership in GLP-1 sector\n\nTAKEAWAY: Eli Lilly's $6.5 billion investment in a Texas manufacturing plant highlights its dedication to market leadership, boosting production for the crucial obesity pill and securing dominance in the competitive GLP-1 market.",
+      "exported_at": "2025-09-23T13:07:16.595054",
       "continuous_session": true
     }
   ]
