@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-23T11:50:39.458195",
-    "total_articles": 1695,
-    "new_articles_in_last_fetch": 1695,
+    "created_at": "2025-09-23T12:00:53.665617",
+    "total_articles": 1697,
+    "new_articles_in_last_fetch": 1697,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -22026,6 +22026,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: YOUNG ADULTS EMBRACE 'FINANCIAL NIHILISM' WITH RISKY CRYPTO, STOCK BETS 🚀\n\n- Young adults opt for high-risk crypto, stocks over traditional investments 📈\n- Shift from conventional strategies due to unattainable American dream 🇺🇸\n- Embracing 'financial nihilism' as a response to economic challenges 💸\n- Trend reflects disillusionment with traditional financial paths 🛤️\n- Seeking higher returns in unconventional investment avenues 💰\n- Young investors challenge status quo with bold financial moves 🔥\n\nTAKEAWAY: Faced with economic hurdles, young adults pivot to risky crypto and stock investments, redefining traditional financial norms.",
       "exported_at": "2025-09-23T11:50:39.320583",
+      "continuous_session": true
+    },
+    {
+      "title": "Bitcoin could soon have a big global buyer that has shunned it up to this point",
+      "link": "https://www.cnbc.com/2025/09/23/bitcoin-could-soon-have-a-big-global-buyer-that-has-shunned-it-up-to-this-point.html",
+      "summary": "The creation of a U.S. strategic bitcoin reserve in March, when President Donald Trump signed an executive order, could serve as a key catalyst for a shift.",
+      "published": "Tue, 23 Sep 2025 15:58:11 GMT",
+      "content": "The creation of a U.S. strategic bitcoin reserve in March, when President Donald Trump signed an executive order, could serve as a key catalyst for a shift.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7512bb72fc5169ad3f321fff4785a544",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BITCOIN SET TO GAIN A MAJOR GLOBAL BUYER 🌍\n\n- U.S. strategic bitcoin reserve created in March by President Trump 🇺🇸\n- Executive order signals a potential shift in Bitcoin adoption 📈\n- Big opportunity for Bitcoin as a global asset class emerges 💰\n\nTAKEAWAY: The establishment of a U.S. strategic bitcoin reserve under President Trump's executive order could mark a significant turning point for Bitcoin's global adoption.",
+      "exported_at": "2025-09-23T12:00:53.540959",
+      "continuous_session": true
+    },
+    {
+      "title": "Cramer is considering taking profits in one of our bank stocks as sector soars",
+      "link": "https://www.cnbc.com/2025/09/23/cramer-is-considering-taking-profits-in-one-of-our-banks-as-sector-soars.html",
+      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "published": "Tue, 23 Sep 2025 15:50:00 GMT",
+      "content": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b635427f47f44b827b9f4bf40d488956",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CRAMER CONSIDERS BANK STOCK PROFITS AS SECTOR SOARS 🚀\n\n- Cramer mulls profit-taking in bank stock amidst sector surge\n- Investing Club's \"Morning Meeting\" daily at 10:20 a.m. ET ⏰\n\nTAKEAWAY: Cramer contemplates capitalizing on bank stock gains amid the sector's upward momentum, discussed during the Investing Club's daily \"Morning Meeting\" at 10:20 a.m. ET.",
+      "exported_at": "2025-09-23T12:00:53.541058",
       "continuous_session": true
     }
   ]
