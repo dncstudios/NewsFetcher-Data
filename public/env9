@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-23T08:21:16.618479",
-    "total_articles": 1668,
-    "new_articles_in_last_fetch": 1668,
+    "created_at": "2025-09-23T08:36:35.372026",
+    "total_articles": 1670,
+    "new_articles_in_last_fetch": 1670,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -21675,6 +21675,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JPMORGAN PREDICTS U.S. GDP GROWTH TO CRAWL 🚨\n\n- U.S. GDP growth to slow significantly in next two quarters 📉\n- JPMorgan forecasts economic activity decline by end of 2025 📉\n- Anticipated slowdown expected to extend into early 2026 📉\n\nTAKEAWAY: JPMorgan's forecast warns of a significant slowdown in U.S. GDP growth over the next two quarters, affecting economic activity into 2026.",
       "exported_at": "2025-09-23T08:21:16.482988",
+      "continuous_session": true
+    },
+    {
+      "title": "Chinese EV giant BYD says it has a backup plan if it&apos;s cut off from Nvidia chips",
+      "link": "https://www.cnbc.com/2025/09/23/chinas-byd-says-it-has-a-backup-plan-if-cut-off-from-nvidia-chips.html",
+      "summary": "BYD executive Stella Li said BYD has not been told to stop using any Nvidia products.",
+      "published": "Tue, 23 Sep 2025 12:25:46 GMT",
+      "content": "BYD executive Stella Li said BYD has not been told to stop using any Nvidia products.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a2703e71a97756a0323e9d9603346838",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BYD'S BACKUP PLAN READY IF CUT OFF FROM NVIDIA CHIPS ⚡️\n\n- BYD executive Stella Li confirms no directive to stop using Nvidia chips ✅\n- BYD prepared with a backup plan in case of Nvidia chip supply disruption ⚠️\n- Nvidia's chips crucial for BYD's electric vehicles 🚗🔋\n- BYD's strategy to mitigate risks and ensure continuity 📈🔒\n- Potential impact on BYD's production and growth if Nvidia chips supply halted ⚡️📉\n\nTAKEAWAY: BYD's proactive approach to potential Nvidia chip supply disruptions showcases resilience and strategic planning in ensuring continued operations and growth in the EV market.",
+      "exported_at": "2025-09-23T08:36:35.277335",
+      "continuous_session": true
+    },
+    {
+      "title": "Europe&apos;s work-life balance a key talent draw as Trump revamps H-1B visa",
+      "link": "https://www.cnbc.com/2025/09/23/europes-work-life-balance-could-be-key-in-trumps-h-1b-visa-shake-up.html",
+      "summary": "Research from recruitment company Randstad suggests work-life balance has soared in importance for employees worldwide.",
+      "published": "Tue, 23 Sep 2025 12:27:17 GMT",
+      "content": "Research from recruitment company Randstad suggests work-life balance has soared in importance for employees worldwide.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9a2f4009cd8cafe4b4dd584d7a386aa2",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: EUROPE'S WORK-LIFE BALANCE LURES TALENT AMID H-1B VISA CHANGES 🚀\n\n- Randstad research shows work-life balance gains global significance 📈\n- Employees prioritize balance in career decisions 🎯\n- Europe attracts talent with strong work-life balance offerings 💼\n- Trump's H-1B visa changes impact global talent migration 🌍\n- Work-life balance emerges as a key factor for job seekers 🌟\n\nTAKEAWAY: Europe's emphasis on work-life balance stands out as a powerful magnet for talent amidst shifting global visa policies.",
+      "exported_at": "2025-09-23T08:36:35.277381",
       "continuous_session": true
     }
   ]
