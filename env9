@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-23T05:23:09.602973",
-    "total_articles": 1656,
-    "new_articles_in_last_fetch": 1656,
+    "created_at": "2025-09-23T05:28:20.063570",
+    "total_articles": 1658,
+    "new_articles_in_last_fetch": 1658,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -21519,6 +21519,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NVIDIA'S OPENAI $100B DEAL IGNITES CHIP STOCK RALLY 🚀\n\n- Nvidia's $100B OpenAI deal boosts TSMC and SK Hynix stocks 🔥\n- Global chip stock prices surge post Nvidia's partnership with OpenAI 📈\n- Market responds positively to Nvidia's significant deal with OpenAI 💰\n\nTAKEAWAY: Nvidia's massive $100 billion deal with OpenAI sends chip stock prices soaring, reflecting market excitement and confidence in the partnership's potential.",
       "exported_at": "2025-09-23T05:23:09.486090",
+      "continuous_session": true
+    },
+    {
+      "title": "As Apple and Nvidia soar, Jim Cramer makes the case for owning individual stocks",
+      "link": "https://www.cnbc.com/2025/09/22/as-apple-and-nvidia-soar-jim-cramer-says-to-own-individual-stocks.html",
+      "summary": "CNBC's Jim Cramer opined on two of his favorite long-term holdings, Apple and Nvidia.",
+      "published": "Mon, 22 Sep 2025 22:56:57 GMT",
+      "content": "CNBC's Jim Cramer opined on two of his favorite long-term holdings, Apple and Nvidia.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "12c7650014a873103e80f99cb071039c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JIM CRAMER'S FAVORITES APPLE AND NVIDIA SOAR 🚀\n\n- Jim Cramer advocates owning individual stocks like Apple and Nvidia\n- Apple and Nvidia highlighted as his top long-term holdings\n- Both companies experiencing significant growth and market success\n- Cramer's endorsement adds credibility to investing in specific stocks\n- Apple and Nvidia's performance contributing to their soaring success\n- Cramer's positive outlook on individual stocks reinforces investor confidence\n\nTAKEAWAY: Jim Cramer's endorsement of Apple and Nvidia as top long-term holdings boosts investor confidence in owning individual stocks.",
+      "exported_at": "2025-09-23T05:28:19.939698",
+      "continuous_session": true
+    },
+    {
+      "title": "We&apos;re adding Nike to our bullpen as the apparel brand embarks on a turnaround",
+      "link": "https://www.cnbc.com/2025/09/22/were-adding-nike-to-bullpen-as-apparel-brand-embarks-on-a-turnaround.html",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "published": "Mon, 22 Sep 2025 18:49:40 GMT",
+      "content": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2b61210e38320fb3edd2dc72836eaa39",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 🚀 NIKE JOINS OUR TEAM FOR A TURNAROUND JOURNEY\n\n- Investing Club welcomes Nike to the lineup 🙌\n- Nike embarks on a turnaround journey 🔄\n- Stay tuned for the Homestretch update on Nike's progress 🔍\n- Actionable insights for the last hour of trading 📈\n- Expect exciting developments in Nike's performance ⚡️\n\nTAKEAWAY: Nike's addition to the Investing Club's lineup signals a promising turnaround journey, with actionable insights in the Homestretch update for the last hour of trading.",
+      "exported_at": "2025-09-23T05:28:19.939777",
       "continuous_session": true
     }
   ]
