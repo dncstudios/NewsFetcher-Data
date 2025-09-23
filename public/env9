@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-23T14:49:12.859269",
-    "total_articles": 1713,
-    "new_articles_in_last_fetch": 1713,
+    "created_at": "2025-09-23T15:04:27.032882",
+    "total_articles": 1714,
+    "new_articles_in_last_fetch": 1714,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -22260,6 +22260,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: RYAN ROUTH GUILTY IN TRUMP GOLF COURSE ASSASSINATION ATTEMPT 🚨\n\n- Ryan Routh convicted for attempting to shoot Trump in Florida ⚠️\n- Assassination attempt took place on Trump's golf course 🏌️‍♂️\n- Incident occurred a year ago, leading to Routh's conviction 🔒\n\nTAKEAWAY: Ryan Routh's guilty verdict in the assassination attempt on Donald Trump at his Florida golf course highlights the severity of the incident and the consequences faced by the perpetrator.",
       "exported_at": "2025-09-23T14:49:12.736460",
+      "continuous_session": true
+    },
+    {
+      "title": "Ryan Routh tried to stab himself with a pen after guilty verdict in Trump assassination attempt trial",
+      "link": "https://www.cnbc.com/2025/09/23/ryan-routh-found-guilty-in-trump-golf-course-assassination-attempt.html",
+      "summary": "Routh attempted to gun down Donald Trump on his Florida golf course a year ago.",
+      "published": "Tue, 23 Sep 2025 19:03:18 GMT",
+      "content": "Routh attempted to gun down Donald Trump on his Florida golf course a year ago.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6ecbadeeef6c8442f23d1817787d50f1",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: RYAN ROUTH GUILTY IN TRUMP GOLF COURSE ASSASSINATION ATTEMPT 🚨\n\n- Ryan Routh convicted for attempting to shoot Trump in Florida ⚠️\n- Assassination attempt took place on Trump's golf course 🏌️‍♂️\n- Incident occurred a year ago, leading to Routh's conviction 🔒\n\nTAKEAWAY: Ryan Routh's guilty verdict in the assassination attempt on Donald Trump at his Florida golf course highlights the severity of the incident and the consequences faced by the perpetrator.",
+      "exported_at": "2025-09-23T15:04:26.915201",
       "continuous_session": true
     }
   ]
