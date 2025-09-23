@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-23T14:03:17.482370",
-    "total_articles": 1708,
-    "new_articles_in_last_fetch": 1708,
+    "created_at": "2025-09-23T14:08:26.334362",
+    "total_articles": 1710,
+    "new_articles_in_last_fetch": 1710,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -22195,6 +22195,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AMAZON SHUTS UK FRESH STORES 🚨\n\n- Amazon to close all Fresh grocery stores in UK 🛒\n- Grocery business sees major transformations in recent years 🔄\n- Brick-and-mortar store footprint reduced significantly ✂️\n\nTAKEAWAY: Amazon's decision to close all Fresh grocery stores in the UK reflects the company's strategy shift in the evolving grocery market, emphasizing online presence over physical stores.",
       "exported_at": "2025-09-23T14:03:17.348992",
+      "continuous_session": true
+    },
+    {
+      "title": "This Nvidia derivative is on the verge of a sharp move higher, according to the charts",
+      "link": "https://www.cnbc.com/2025/09/23/this-nvidia-derivative-is-on-the-verge-of-a-sharp-move-higher-according-to-the-charts.html",
+      "summary": "Todd Gordon goes through the charts on this tech stock.",
+      "published": "Tue, 23 Sep 2025 17:30:27 GMT",
+      "content": "Todd Gordon goes through the charts on this tech stock.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fc519fb18934d25db75ddb62957402bf",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NVIDIA DERIVATIVE SET FOR A BULLISH SURGE 🚀\n\n- Analyst Todd Gordon predicts sharp upward movement 📈\n- Charts indicate potential for significant gains 💰\n- Market experts anticipate positive trajectory 🎯\n\nTAKEAWAY: NVIDIA's derivative shows promising signs of a substantial bullish surge based on Todd Gordon's analysis and chart indicators.",
+      "exported_at": "2025-09-23T14:08:26.263522",
+      "continuous_session": true
+    },
+    {
+      "title": "Microsoft tanks AI power stocks, plus Eli Lilly expands manufacturing (again)",
+      "link": "https://www.cnbc.com/2025/09/23/microsoft-tanks-ai-power-stocks-plus-eli-lilly-expands-manufacturing-again.html",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "published": "Tue, 23 Sep 2025 17:58:41 GMT",
+      "content": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c411c4e9a1ca2683d388637711231ce1",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 🚀 NIKE JOINS OUR TEAM FOR A TURNAROUND JOURNEY\n\n- Investing Club welcomes Nike to the lineup 🙌\n- Nike embarks on a turnaround journey 🔄\n- Stay tuned for the Homestretch update on Nike's progress 🔍\n- Actionable insights for the last hour of trading 📈\n- Expect exciting developments in Nike's performance ⚡️\n\nTAKEAWAY: Nike's addition to the Investing Club's lineup signals a promising turnaround journey, with actionable insights in the Homestretch update for the last hour of trading.",
+      "exported_at": "2025-09-23T14:08:26.263616",
       "continuous_session": true
     }
   ]
