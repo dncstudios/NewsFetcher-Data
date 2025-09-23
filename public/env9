@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-23T05:43:37.462033",
-    "total_articles": 1659,
-    "new_articles_in_last_fetch": 1659,
+    "created_at": "2025-09-23T07:04:49.997718",
+    "total_articles": 1662,
+    "new_articles_in_last_fetch": 1662,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -21558,6 +21558,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STARTUPS BRACE FOR IMPACT OF $100,000 H-1B VISAS 💥\n\n- Startups fear financial burden of $100,000 H-1B visa fees 💸\n- Concerns rise over implications for founders and employees 📉\n- Uncertainty looms over the future of startup innovation 🌐\n\nTAKEAWAY: Startups and founders face mounting concerns over the financial impact of proposed $100,000 H-1B visa fees, potentially jeopardizing innovation and growth.",
       "exported_at": "2025-09-23T05:43:37.336075",
+      "continuous_session": true
+    },
+    {
+      "title": "Crypto startup Zerohash raises $104 million from Morgan Stanley, SoFi, Apollo and others",
+      "link": "https://www.cnbc.com/2025/09/23/startup-zerohash-raises-104million-morgan-stanley-sofi-apollo.html",
+      "summary": "Zerohash is among a wave of firms taking advantage of the more favorable regulatory environment for cryptocurrencies under President Donald Trump.",
+      "published": "Tue, 23 Sep 2025 11:00:01 GMT",
+      "content": "Zerohash is among a wave of firms taking advantage of the more favorable regulatory environment for cryptocurrencies under President Donald Trump.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "efe9dda47800660210e33bd15ae8ef8b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CRYPTO STARTUP ZEROHASH RAISES $104 MILLION FROM TOP INVESTORS 🚀\n\n- Zerohash secures $104 million from Morgan Stanley, SoFi, Apollo 🌟\n- Riding the wave of favorable crypto regulations under Trump 🌊\n- Shows growing confidence in the cryptocurrency market 💪\n- Investment signals trust in Zerohash's potential and vision 💼\n- Joining a league of firms benefitting from regulatory shifts 📈\n- Zerohash's funding milestone reflects industry optimism 🚀\n\nTAKEAWAY: Zerohash's $104 million raise from prestigious investors showcases confidence in their vision and highlights the growing opportunities in the evolving cryptocurrency landscape.",
+      "exported_at": "2025-09-23T07:04:49.865240",
+      "continuous_session": true
+    },
+    {
+      "title": "Amazon faces off against FTC over &apos;deceptive&apos; Prime program",
+      "link": "https://www.cnbc.com/2025/09/23/amazon-faces-off-against-ftc-over-deceptive-prime-program.html",
+      "summary": "The FTC complaint alleges Amazon \"tricked and trapped\" consumers into signing up for Prime, then making it too complicated to cancel their membership.",
+      "published": "Tue, 23 Sep 2025 11:00:01 GMT",
+      "content": "The FTC complaint alleges Amazon \"tricked and trapped\" consumers into signing up for Prime, then making it too complicated to cancel their membership.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4e93f85eb5e0cf4be593904e070fa666",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AMAZON LOCKS HORNS WITH FTC OVER 'DECEPTIVE' PRIME PROGRAM 🚨\n\n- FTC accuses Amazon of deceiving Prime members 🕵️‍♂️\n- Complaint claims Amazon made canceling Prime difficult 🛑\n- Allegations suggest Amazon 'tricked and trapped' consumers 🪤\n- Legal battle intensifies between Amazon and FTC ⚖️\n- Prime program under scrutiny for deceptive practices 🧐\n\nTAKEAWAY: Amazon faces a legal showdown with the FTC over allegations of deceptive practices within its Prime program, raising concerns about consumer protection.",
+      "exported_at": "2025-09-23T07:04:49.865298",
+      "continuous_session": true
+    },
+    {
+      "title": "Tom Brady joins wellness company Aescape, bringing his longevity protocols to massage robots",
+      "link": "https://www.cnbc.com/2025/09/23/tom-brady-robotics-massage-company-aescape.html",
+      "summary": "Tom Brady struck a partnership with robotic massage device maker Aescape to provide the company with exclusive rights to his recovery and longevity protocols.",
+      "published": "Tue, 23 Sep 2025 11:00:01 GMT",
+      "content": "Tom Brady struck a partnership with robotic massage device maker Aescape to provide the company with exclusive rights to his recovery and longevity protocols.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9ee11e8a1c0bf6bf852397362a48bc96",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TOM BRADY TEAMS UP WITH AESCAPE FOR LONGEVITY PROTOCOLS 🚀\n\n- Tom Brady partners with Aescape for exclusive use of his protocols\n- Aescape gains access to Brady's recovery and longevity secrets\n- Collaboration aims to enhance Aescape's massage robots with Brady's expertise\n\nTAKEAWAY: Tom Brady's partnership with Aescape to integrate his recovery and longevity protocols into massage robots is set to revolutionize wellness technology.",
+      "exported_at": "2025-09-23T07:04:49.865321",
       "continuous_session": true
     }
   ]
