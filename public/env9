@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-23T03:41:27.312044",
-    "total_articles": 1651,
-    "new_articles_in_last_fetch": 1651,
+    "created_at": "2025-09-23T03:51:38.112429",
+    "total_articles": 1652,
+    "new_articles_in_last_fetch": 1652,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -21454,6 +21454,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ORSTED SHARES SOAR 7% AFTER U.S. COURT LIFTS TRUMP PROJECT BLOCK 🚀\n\n- Orsted's shares surge following U.S. court decision 📈\n- Block lifted on Revolution Wind project 🌬️\n- Company can now resume work on the project 🏗️\n\nTAKEAWAY: Orsted's stock spikes by 7% as the U.S. court overturns the block on the Revolution Wind project, allowing the company to continue its work.",
       "exported_at": "2025-09-23T03:41:27.196667",
+      "continuous_session": true
+    },
+    {
+      "title": "U.K. home improvement firm Kingfisher surges 18% after lifting outlook",
+      "link": "https://www.cnbc.com/2025/09/23/european-stocks-set-to-rise-after-wall-street-sets-fresh-records.html",
+      "summary": "U.S. stocks rallied on Monday, after news that Nvidia plans to invest up to $100 billion in OpenAI.",
+      "published": "Tue, 23 Sep 2025 07:50:06 GMT",
+      "content": "U.S. stocks rallied on Monday, after news that Nvidia plans to invest up to $100 billion in OpenAI.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "138cc19288a807f37a6974de6c858c4e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: EUROPEAN STOCKS POISED TO RISE AS WALL STREET HITS NEW HIGHS 🚀\n\n- U.S. stocks soar post Nvidia's $100B OpenAI investment 💰\n- European markets expected to follow Wall Street's lead 📈\n- Nvidia's massive investment boosts market sentiment 🚀\n- Investors anticipate positive momentum in European stocks 📊\n\nTAKEAWAY: European stocks are likely to surge as they take cues from Wall Street's record-breaking performance fueled by Nvidia's significant investment in OpenAI.",
+      "exported_at": "2025-09-23T03:51:37.982191",
       "continuous_session": true
     }
   ]
