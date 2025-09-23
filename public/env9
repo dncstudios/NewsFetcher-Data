@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-22T19:24:26.901743",
-    "total_articles": 1644,
-    "new_articles_in_last_fetch": 1644,
+    "created_at": "2025-09-23T01:24:15.929055",
+    "total_articles": 1646,
+    "new_articles_in_last_fetch": 1646,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -21363,6 +21363,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP RAISES H-1B VISA FEE TO $100,000 🚀\n\n- H-1B visa fee increased to $100,000 by Trump 💸\n- Employers face higher costs for hiring foreign workers 🌏\n- Trump aims to limit H-1B visa abuse and protect American jobs 🇺🇸\n- Impact on tech industry and companies hiring skilled foreign workers 📈\n- New policy sparks debate on immigration and economic implications 💬\n- Potential challenges for businesses relying on H-1B visas ⚠️\n\nTAKEAWAY: Trump's decision to raise H-1B visa fees to $100,000 aims to curb abuse, protect American jobs, but sparks debate and poses challenges for businesses relying on skilled foreign workers.",
       "exported_at": "2025-09-22T19:24:26.772030",
+      "continuous_session": true
+    },
+    {
+      "title": "What Europe can learn from Sweden&apos;s booming IPO market",
+      "link": "https://www.cnbc.com/2025/09/23/what-europe-can-learn-from-swedens-booming-ipo-market.html",
+      "summary": "Culture, a supportive regulatory environment, and a large domestic capital pool are helping companies of all sizes to go public, say experts.",
+      "published": "Tue, 23 Sep 2025 05:09:36 GMT",
+      "content": "Culture, a supportive regulatory environment, and a large domestic capital pool are helping companies of all sizes to go public, say experts.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "beabc81876e447e5b832ff6a0ed1529e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WHAT EUROPE CAN LEARN FROM SWEDEN'S BOOMING IPO MARKET 🚀\n\n- Sweden's IPO market booming due to culture and regulatory support 📈\n- Experts credit large domestic capital pool for IPO success 💰\n- Companies of all sizes benefit from Sweden's IPO-friendly environment ✅\n\nTAKEAWAY: Sweden's successful IPO market showcases the power of culture, regulation, and domestic capital in driving company growth and public offerings.",
+      "exported_at": "2025-09-23T01:24:15.784275",
+      "continuous_session": true
+    },
+    {
+      "title": "Fashion boss touts resilience as key leadership trait as industry battles tariff uncertainty",
+      "link": "https://www.cnbc.com/2025/09/23/british-fashion-council-ceo-laura-weir-touts-resilience-as-tariffs-weigh.html",
+      "summary": "British Fashion Council CEO Laura Weir told CNBC during London Fashion Week that tariffs are affecting designers' ability to be commercially successful.",
+      "published": "Tue, 23 Sep 2025 05:12:11 GMT",
+      "content": "British Fashion Council CEO Laura Weir told CNBC during London Fashion Week that tariffs are affecting designers' ability to be commercially successful.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "170473fd7dd368a25f47aeadc3e76079",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FASHION LEADERSHIP IN TARIFF TURMOIL 🚀\n\n- British Fashion Council CEO emphasizes resilience in industry challenges\n- Tariffs impact designers' commercial success, creating uncertainty ⚠️\n- Laura Weir highlights importance of navigating turbulent times ✅\n\nTAKEAWAY: In the face of tariff uncertainties, resilience emerges as a crucial leadership trait for fashion industry players like Laura Weir, guiding them through challenges towards success.",
+      "exported_at": "2025-09-23T01:24:15.784348",
       "continuous_session": true
     }
   ]
