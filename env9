@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-23T11:14:52.448909",
-    "total_articles": 1691,
-    "new_articles_in_last_fetch": 1691,
+    "created_at": "2025-09-23T11:20:01.585955",
+    "total_articles": 1692,
+    "new_articles_in_last_fetch": 1692,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -21974,6 +21974,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NEXSTAR & SINCLAIR ABC AFFILIATES PREEMPT JIMMY KIMMEL'S RETURN 🚫\n\n- Nexstar Media Group follows Sinclair in preempting \"Jimmy Kimmel Live!\"\n- ABC affiliates to skip airing Kimmel's show on Tuesday 📺\n- Decision impacts viewers of Nexstar-owned stations 📉\n- Preemption of Kimmel's return raises questions and concerns ❓⚠️\n\nTAKEAWAY: Nexstar and Sinclair ABC affiliates opting out of airing Jimmy Kimmel's return on Tuesday sparks curiosity and disappointment among viewers.",
       "exported_at": "2025-09-23T11:14:52.331251",
+      "continuous_session": true
+    },
+    {
+      "title": "Nexstar-owned ABC affiliates won&apos;t show Kimmel&apos;s return Tuesday, joining Sinclair in preempting program",
+      "link": "https://www.cnbc.com/2025/09/23/kimmel-abc-nexstar-sinclair-fcc.html",
+      "summary": "Nexstar Media Group said it would join Sinclair's ABC-affiliate stations in preempting the return of \"Jimmy Kimmel Live!\" on Tuesday.",
+      "published": "Tue, 23 Sep 2025 15:15:21 GMT",
+      "content": "Nexstar Media Group said it would join Sinclair's ABC-affiliate stations in preempting the return of \"Jimmy Kimmel Live!\" on Tuesday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "001bb28dd13b6df4f83aff25738cf273",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NEXSTAR JOINS SINCLAIR IN PREEMPTING KIMMEL'S RETURN 🚫\n\n- Nexstar Media Group follows Sinclair in preempting \"Jimmy Kimmel Live!\"\n- ABC affiliates under Nexstar won't air Kimmel's return on Tuesday 📺\n- Decision to preempt Kimmel's show impacts ABC-affiliate stations\n\nTAKEAWAY: Nexstar Media Group's move to preempt \"Jimmy Kimmel Live!\" aligns with Sinclair, affecting ABC affiliates and viewership.",
+      "exported_at": "2025-09-23T11:20:01.450029",
       "continuous_session": true
     }
   ]
