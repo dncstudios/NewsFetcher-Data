@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-23T08:51:52.822917",
-    "total_articles": 1671,
-    "new_articles_in_last_fetch": 1671,
+    "created_at": "2025-09-23T09:27:27.193934",
+    "total_articles": 1673,
+    "new_articles_in_last_fetch": 1673,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -21714,6 +21714,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: PREDICTION MARKETS BOOMING: ROBINHOOD'S $200M BUSINESS ⚡️\n\n- Robinhood's prediction markets hit $200M, Piper Sandler reports 📈\n- Investment firm raises stock price target, rates Robinhood overweight 🎯\n- Impressive growth in prediction markets boosts Robinhood's value 🚀\n\nTAKEAWAY: Robinhood's prediction markets surge to a $200 million business, driving stock value up as Piper Sandler raises price target and rates the company overweight.",
       "exported_at": "2025-09-23T08:51:52.693163",
+      "continuous_session": true
+    },
+    {
+      "title": "Chicago Fed President Goolsbee says officials have to be careful not to get too aggressive with rate cuts",
+      "link": "https://www.cnbc.com/2025/09/23/chicago-fed-president-goolsbee-says-officials-have-to-be-careful-not-to-get-too-aggressive-with-rate-cuts.html",
+      "summary": "The policymaker told CNBC that further moves would depend on economic progress.",
+      "published": "Tue, 23 Sep 2025 13:19:43 GMT",
+      "content": "The policymaker told CNBC that further moves would depend on economic progress.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5269643536d8f04c5eee25da184fddb7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CHICAGO FED'S GOOLSBEE CAUTIONS AGAINST AGGRESSIVE RATE CUTS ⚠️\n\n- Goolsbee warns against excessive rate cuts, stresses caution ⚠️\n- Chicago Fed President emphasizes the need for economic progress 📈\n- Future rate decisions to be based on economic conditions 📊\n\nTAKEAWAY: Chicago Fed President Goolsbee advises prudence in rate cuts, linking future decisions to economic advancements.",
+      "exported_at": "2025-09-23T09:27:27.063620",
+      "continuous_session": true
+    },
+    {
+      "title": "The top 10 things we&apos;re watching in the stock market Tuesday",
+      "link": "https://www.cnbc.com/2025/09/23/the-top-10-things-were-watching-in-the-stock-market-tuesday.html",
+      "summary": "Nvidia shares were modestly lower this morning after closing at a record high on the OpenAI announcement.",
+      "published": "Tue, 23 Sep 2025 13:19:12 GMT",
+      "content": "Nvidia shares were modestly lower this morning after closing at a record high on the OpenAI announcement.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "14a09436e7e99d3b6cc542866ba39bf4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: THE TOP 10 STOCK MARKET WATCHES FOR TUESDAY 🚀\n\n- Nvidia shares dip slightly despite hitting record high 📉\n- Market eyes OpenAI impact on Nvidia's future 🧐\n- Investors analyze Nvidia's growth potential 📈\n- OpenAI announcement influences Nvidia's stock performance 💡\n\nTAKEAWAY: Nvidia's record high close post-OpenAI announcement triggers market interest and investor scrutiny, impacting stock performance.",
+      "exported_at": "2025-09-23T09:27:27.063693",
       "continuous_session": true
     }
   ]
