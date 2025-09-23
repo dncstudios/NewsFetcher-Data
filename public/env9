@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-23T12:26:28.098503",
-    "total_articles": 1700,
-    "new_articles_in_last_fetch": 1700,
+    "created_at": "2025-09-23T12:31:34.364086",
+    "total_articles": 1701,
+    "new_articles_in_last_fetch": 1701,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -22091,6 +22091,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCKS MAKING BIG MOVES MIDDAY 🚀\n\n- Firefly Aerospace, AutoZone, Sempra, Halliburton show significant midday shifts\n- Market sees notable volatility and movement in stock prices\n- Investors closely monitoring these companies for trading opportunities\n\nTAKEAWAY: Firefly Aerospace, AutoZone, Sempra, Halliburton, and others are experiencing substantial midday stock movements, attracting investors seeking trading opportunities in a volatile market.",
       "exported_at": "2025-09-23T12:26:27.959842",
+      "continuous_session": true
+    },
+    {
+      "title": "S&amp;P 500 retreats from record, led by AI names Nvidia and Oracle: Live updates",
+      "link": "https://www.cnbc.com/2025/09/22/stock-market-today-live-updates.html",
+      "summary": "Questions remain on whether the AI trade can continue powering U.S. equities given the risks tied to elevated market valuations.",
+      "published": "Tue, 23 Sep 2025 16:30:11 GMT",
+      "content": "Questions remain on whether the AI trade can continue powering U.S. equities given the risks tied to elevated market valuations.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5f3272ba0e1bc1e15716f54b4be17dc8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK FUTURES STAGNANT AFTER 3-DAY WIN STREAK FOR S&P 500 📉\n\n- S&P 500 sees 3-day winning streak, but futures show little movement 📉\n- Uncertainty looms over the sustainability of AI trade in U.S. equities 🤔\n- Risks linked to high market valuations raise concerns ⚠️\n\nTAKEAWAY: Despite a recent winning streak for the S&P 500, stagnant stock futures and doubts about the sustainability of AI trade highlight uncertainties and risks in the market.",
+      "exported_at": "2025-09-23T12:31:34.229917",
       "continuous_session": true
     }
   ]
