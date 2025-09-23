@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-23T16:56:26.535596",
-    "total_articles": 1722,
-    "new_articles_in_last_fetch": 1722,
+    "created_at": "2025-09-23T17:06:39.612548",
+    "total_articles": 1723,
+    "new_articles_in_last_fetch": 1723,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -22377,6 +22377,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SANTOLI'S TUESDAY MARKET WRAP-UP: S&P 500 PULLS BACK AS AI TRADE REEVALUATED 🚨\n\n- S&P 500 dips from record highs amidst AI trade reconsideration\n- Investor concerns rise over Nvidia-OpenAI partnership\n- Doubts surface on overcapacity and partnership overlaps\n- Stock market takes a hit amid reevaluation of vendor relationships\n- Uncertainty looms over the future of AI trade dynamics\n\nTAKEAWAY: Investor skepticism around the Nvidia-OpenAI partnership leads to S&P 500 pullback, signaling a reevaluation of AI trade dynamics and vendor relationships.",
       "exported_at": "2025-09-23T16:56:26.412442",
+      "continuous_session": true
+    },
+    {
+      "title": "OpenAI&apos;s first data center in $500B Stargate project is open in Texas, with sites coming in New Mexico and Ohio",
+      "link": "https://www.cnbc.com/2025/09/23/openai-first-data-center-in-500-billion-stargate-project-up-in-texas.html",
+      "summary": "OpenAI and Oracle are betting big on America's AI future, bringing online the flagship site of the $500 billion Stargate program in Abilene, Texas.",
+      "published": "Tue, 23 Sep 2025 21:00:01 GMT",
+      "content": "OpenAI and Oracle are betting big on America's AI future, bringing online the flagship site of the $500 billion Stargate program in Abilene, Texas.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b71c43ddae5bd78e3e044a8363470737",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: OPENAI LAUNCHES $500B STARGATE DATA CENTER 🚀\n\n- OpenAI unveils first data center in Texas 🏢\n- Stargate project to expand to New Mexico and Ohio 🌐\n- Partnership with Oracle signals a major AI investment 💰\n- Flagship site in Abilene marks the beginning of a huge initiative 🌟\n- $500 billion project aims to revolutionize AI in America 🇺🇸\n\nTAKEAWAY: OpenAI's inauguration of the Stargate data center in Texas, with plans to expand further, sets the stage for a massive $500 billion AI transformation in the United States with Oracle's backing.",
+      "exported_at": "2025-09-23T17:06:39.481229",
       "continuous_session": true
     }
   ]
