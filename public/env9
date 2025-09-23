@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-23T11:40:25.236912",
-    "total_articles": 1694,
-    "new_articles_in_last_fetch": 1694,
+    "created_at": "2025-09-23T11:50:39.458195",
+    "total_articles": 1695,
+    "new_articles_in_last_fetch": 1695,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -22013,6 +22013,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NVIDIA'S OPENAI INVESTMENT BOOSTS MARKET, RAISES BUBBLE CONCERNS 🚀⚠️\n\n- Nvidia's investment in OpenAI positively impacts the market 📈\n- Concerns arise over potential bubble due to the deal 🤔\n- Market experts caution about vendor financing dynamics 💰\n\nTAKEAWAY: Nvidia's substantial investment in OpenAI has fueled market optimism, yet caution flags are raised regarding potential bubble risks associated with the deal.",
       "exported_at": "2025-09-23T11:40:25.110078",
+      "continuous_session": true
+    },
+    {
+      "title": "Young adults embrace &apos;financial nihilism&apos; with risky crypto, stock bets as American dream feels unattainable",
+      "link": "https://www.cnbc.com/2025/09/23/young-people-crypto-meme-stocks-options-risk-financial-nihilism.html",
+      "summary": "Young people are pushing typical investing strategies to the side, instead favoring higher-risk alternatives.",
+      "published": "Tue, 23 Sep 2025 15:43:21 GMT",
+      "content": "Young people are pushing typical investing strategies to the side, instead favoring higher-risk alternatives.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "10e3ebc11b9c90b79ba6b9a6323e54c5",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: YOUNG ADULTS EMBRACE 'FINANCIAL NIHILISM' WITH RISKY CRYPTO, STOCK BETS 🚀\n\n- Young adults opt for high-risk crypto, stocks over traditional investments 📈\n- Shift from conventional strategies due to unattainable American dream 🇺🇸\n- Embracing 'financial nihilism' as a response to economic challenges 💸\n- Trend reflects disillusionment with traditional financial paths 🛤️\n- Seeking higher returns in unconventional investment avenues 💰\n- Young investors challenge status quo with bold financial moves 🔥\n\nTAKEAWAY: Faced with economic hurdles, young adults pivot to risky crypto and stock investments, redefining traditional financial norms.",
+      "exported_at": "2025-09-23T11:50:39.320583",
       "continuous_session": true
     }
   ]
