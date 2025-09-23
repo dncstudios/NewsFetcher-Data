@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-23T14:44:03.930116",
-    "total_articles": 1712,
-    "new_articles_in_last_fetch": 1712,
+    "created_at": "2025-09-23T14:49:12.859269",
+    "total_articles": 1713,
+    "new_articles_in_last_fetch": 1713,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -22247,6 +22247,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: DISNEY INCREASES STREAMING PACKAGE PRICES 🚀\n\n- Disney raises subscription prices by $2 to $3 💰\n- Price hikes announced on Tuesday 🗓️\n- Impact on subscriber growth and revenue potential ⚡️📈\n\nTAKEAWAY: Disney's decision to increase streaming package prices could boost revenue but may impact subscriber growth.",
       "exported_at": "2025-09-23T14:44:03.793173",
+      "continuous_session": true
+    },
+    {
+      "title": "Ryan Routh found guilty in Trump golf course assassination attempt",
+      "link": "https://www.cnbc.com/2025/09/23/ryan-routh-found-guilty-in-trump-golf-course-assassination-attempt.html",
+      "summary": "Routh attempted to gun down Donald Trump on his Florida golf course a year ago.",
+      "published": "Tue, 23 Sep 2025 18:42:53 GMT",
+      "content": "Routh attempted to gun down Donald Trump on his Florida golf course a year ago.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "134673c1162d43959ff13deb7927ec33",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: RYAN ROUTH GUILTY IN TRUMP GOLF COURSE ASSASSINATION ATTEMPT 🚨\n\n- Ryan Routh convicted for attempting to shoot Trump in Florida ⚠️\n- Assassination attempt took place on Trump's golf course 🏌️‍♂️\n- Incident occurred a year ago, leading to Routh's conviction 🔒\n\nTAKEAWAY: Ryan Routh's guilty verdict in the assassination attempt on Donald Trump at his Florida golf course highlights the severity of the incident and the consequences faced by the perpetrator.",
+      "exported_at": "2025-09-23T14:49:12.736460",
       "continuous_session": true
     }
   ]
