@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-23T16:20:47.820584",
-    "total_articles": 1720,
-    "new_articles_in_last_fetch": 1720,
+    "created_at": "2025-09-23T16:36:05.319546",
+    "total_articles": 1721,
+    "new_articles_in_last_fetch": 1721,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -22351,6 +22351,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP BELIEVES UKRAINE CAN REGAIN ALL TERRITORY FROM RUSSIA 🚀\n\n- Trump's optimism after meeting Zelenskyy at UN 🤝\n- Major shift in stance towards Ukraine's territorial reclamation 🇺🇦\n- Statement posted on Truth Social platform for transparency 🔍\n- Signals potential support for Ukraine in conflict with Russia 💪\n- Shift creates global speculation and anticipation 🌍\n- Trump's new stance raises questions about future actions 🤔\n\nTAKEAWAY: Trump's newfound belief in Ukraine's ability to reclaim territory from Russia marks a significant shift, sparking global speculation about potential future support and actions.",
       "exported_at": "2025-09-23T16:20:47.682552",
+      "continuous_session": true
+    },
+    {
+      "title": "Micron beats on earnings as company sales rise 46% on AI boom",
+      "link": "https://www.cnbc.com/2025/09/23/micron-mu-q4-2025-earnings-report.html",
+      "summary": "Micron reported better-than-expected earnings and revenue on Tuesday as well as a robust forecast for the current quarter.",
+      "published": "Tue, 23 Sep 2025 20:25:24 GMT",
+      "content": "Micron reported better-than-expected earnings and revenue on Tuesday as well as a robust forecast for the current quarter.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d9bcca7906133bae73c5ef5ca1b0ddcc",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MICRON SHINES WITH 46% SALES RISE ON AI BOOM 🚀\n\n- Micron surpasses earnings and revenue expectations 💰\n- Company sales surge by a whopping 46% 📈\n- Robust forecast announced for the current quarter 🌟\n- Positive outlook fueled by the AI industry boom 🤖\n- Strong performance signals Micron's market resilience 💪\n- Investor confidence likely to grow after stellar results ✅\n\nTAKEAWAY: Micron's impressive sales growth, exceeded expectations, and robust forecast driven by the AI boom showcase its strength in the market, likely boosting investor confidence.",
+      "exported_at": "2025-09-23T16:36:05.216731",
       "continuous_session": true
     }
   ]
