@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-23T01:24:15.929055",
-    "total_articles": 1646,
-    "new_articles_in_last_fetch": 1646,
+    "created_at": "2025-09-23T01:29:24.292369",
+    "total_articles": 1647,
+    "new_articles_in_last_fetch": 1647,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -21389,6 +21389,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FASHION LEADERSHIP IN TARIFF TURMOIL 🚀\n\n- British Fashion Council CEO emphasizes resilience in industry challenges\n- Tariffs impact designers' commercial success, creating uncertainty ⚠️\n- Laura Weir highlights importance of navigating turbulent times ✅\n\nTAKEAWAY: In the face of tariff uncertainties, resilience emerges as a crucial leadership trait for fashion industry players like Laura Weir, guiding them through challenges towards success.",
       "exported_at": "2025-09-23T01:24:15.784348",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump-Xi meeting likely to happen &apos;early next year,&apos; says U.S. ambassador to China",
+      "link": "https://www.cnbc.com/2025/09/23/trump-xi-meeting-likely-to-happen-early-next-year-says-ambassador.html",
+      "summary": "U.S. Ambassador to China David Perdue spoke during a press conference with a group of U.S. lawmakers on a rare visit to Beijing — the first since 2019",
+      "published": "Tue, 23 Sep 2025 05:23:13 GMT",
+      "content": "U.S. Ambassador to China David Perdue spoke during a press conference with a group of U.S. lawmakers on a rare visit to Beijing — the first since 2019",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "574539a7882398e1099da72dfb09e663",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP-XI SHOWDOWN SET FOR EARLY NEXT YEAR 🚀\n\n- U.S. Ambassador Perdue hints at Trump-Xi meeting in Beijing 🤝\n- Meeting to take place early next year for historic talks 🗓️\n- Rare visit marks first time since 2019 for U.S. lawmakers in Beijing 🇨🇳\n\nTAKEAWAY: Anticipation builds as U.S. Ambassador Perdue suggests a historic Trump-Xi meeting in Beijing early next year, signaling potential for significant talks.",
+      "exported_at": "2025-09-23T01:29:24.200346",
       "continuous_session": true
     }
   ]
