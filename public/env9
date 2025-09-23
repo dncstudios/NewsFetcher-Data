@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-23T05:12:51.669361",
-    "total_articles": 1654,
-    "new_articles_in_last_fetch": 1654,
+    "created_at": "2025-09-23T05:18:00.260510",
+    "total_articles": 1655,
+    "new_articles_in_last_fetch": 1655,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -21493,6 +21493,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: OECD BOOSTS U.S. AND GLOBAL GROWTH FORECAST 🚀\n\n- OECD raises growth forecast due to surprising economic resilience\n- Many economies outperforming initial expectations 📈\n- U.S. and global growth outlook lifted by positive economic trends\n- Strong performance leads to optimistic forecast revisions\n- Resilient economies contribute to brighter economic outlook ✨\n\nTAKEAWAY: The OECD's upward revision of U.S. and global growth forecasts reflects the surprising resilience of many economies, signaling a positive trend in economic performance.",
       "exported_at": "2025-09-23T05:12:51.535563",
+      "continuous_session": true
+    },
+    {
+      "title": "Altman, Huang and the last-minute negotiations that sealed the $100 billion OpenAI-Nvidia deal",
+      "link": "https://www.cnbc.com/2025/09/23/altman-huang-negotiations-that-sealed-100-billion-openai-nvidia-deal.html",
+      "summary": "The $100 billion deal between Nvidia and OpenAI was struck under the pressure of a looming deadline during President Trump's U.K. trip.",
+      "published": "Tue, 23 Sep 2025 08:03:39 GMT",
+      "content": "The $100 billion deal between Nvidia and OpenAI was struck under the pressure of a looming deadline during President Trump's U.K. trip.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a1f8ce8a0d7be43ee128b3a103d48b8a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ALTMAN, HUANG SEAL $100B OPENAI-NVIDIA DEAL UNDER TRUMP'S U.K. TRIP ⚡️\n\n- Last-minute negotiations secure $100B Nvidia-OpenAI deal 💰\n- Deal pressure mounts during Trump's U.K. visit 🇬🇧\n- Altman, Huang lead negotiations to a successful close ✅\n\nTAKEAWAY: Altman and Huang's swift action under pressure during Trump's U.K. trip seals the $100 billion Nvidia-OpenAI deal, showcasing effective negotiation skills.",
+      "exported_at": "2025-09-23T05:18:00.157069",
       "continuous_session": true
     }
   ]
