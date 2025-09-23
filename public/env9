@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-23T13:17:32.689363",
-    "total_articles": 1705,
-    "new_articles_in_last_fetch": 1705,
+    "created_at": "2025-09-23T13:32:47.129294",
+    "total_articles": 1706,
+    "new_articles_in_last_fetch": 1706,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -22156,6 +22156,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FED CHIEF POWELL WARNS OF ELEVATED ASSET PRICES 🚨\n\n- Powell warns of highly valued stock prices 📈\n- Asset prices, including stocks, at elevated levels ⚠️\n- Caution raised over high valuation of risk instruments 💰\n\nTAKEAWAY: Fed Chief Powell's warning about elevated asset prices, particularly stocks, raises caution over high valuations in the market.",
       "exported_at": "2025-09-23T13:17:32.553540",
+      "continuous_session": true
+    },
+    {
+      "title": "S&amp;P 500 retreats from record as AI trade in Nvidia fizzles, Powell hints stocks are overvalued: Live updates",
+      "link": "https://www.cnbc.com/2025/09/22/stock-market-today-live-updates.html",
+      "summary": "Questions remain on whether the AI trade can continue powering U.S. equities given the risks tied to elevated market valuations.",
+      "published": "Tue, 23 Sep 2025 17:32:03 GMT",
+      "content": "Questions remain on whether the AI trade can continue powering U.S. equities given the risks tied to elevated market valuations.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e293fa4bb4e4248701508eabad894d3d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK FUTURES STAGNANT AFTER 3-DAY WIN STREAK FOR S&P 500 📉\n\n- S&P 500 sees 3-day winning streak, but futures show little movement 📉\n- Uncertainty looms over the sustainability of AI trade in U.S. equities 🤔\n- Risks linked to high market valuations raise concerns ⚠️\n\nTAKEAWAY: Despite a recent winning streak for the S&P 500, stagnant stock futures and doubts about the sustainability of AI trade highlight uncertainties and risks in the market.",
+      "exported_at": "2025-09-23T13:32:46.988116",
       "continuous_session": true
     }
   ]
