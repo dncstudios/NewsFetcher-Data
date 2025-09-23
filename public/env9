@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-23T09:48:02.287354",
-    "total_articles": 1679,
-    "new_articles_in_last_fetch": 1679,
+    "created_at": "2025-09-23T10:08:25.741248",
+    "total_articles": 1681,
+    "new_articles_in_last_fetch": 1681,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -21818,6 +21818,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCK FUTURES STAGNANT AFTER 3-DAY WIN STREAK FOR S&P 500 📉\n\n- S&P 500 sees 3-day winning streak, but futures show little movement 📉\n- Uncertainty looms over the sustainability of AI trade in U.S. equities 🤔\n- Risks linked to high market valuations raise concerns ⚠️\n\nTAKEAWAY: Despite a recent winning streak for the S&P 500, stagnant stock futures and doubts about the sustainability of AI trade highlight uncertainties and risks in the market.",
       "exported_at": "2025-09-23T09:48:02.177060",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump says no meeting with top Democrats on shutdown &apos;could possibly be productive&apos;",
+      "link": "https://www.cnbc.com/2025/09/23/trump-democrats-shutdown-schumer-jeffries.html",
+      "summary": "President Donald Trump appeared to cancel a meeting with the two top Democrats in Congress, just days before the government is set to shut down.",
+      "published": "Tue, 23 Sep 2025 14:06:13 GMT",
+      "content": "President Donald Trump appeared to cancel a meeting with the two top Democrats in Congress, just days before the government is set to shut down.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8a27f17f2f8c6926275743ce4f1e7f76",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP CANCELS MEETING WITH TOP DEMOCRATS BEFORE GOVERNMENT SHUTDOWN ⚠️\n\n- Trump cancels meeting with top Democrats in Congress 🚫\n- Move comes just days before potential government shutdown ⏳\n- Uncertainty looms over budget negotiations 🤔\n- Democrats express disappointment over canceled meeting 💔\n\nTAKEAWAY: Trump's decision to cancel the meeting with top Democrats raises concerns about the looming government shutdown and the future of budget negotiations.",
+      "exported_at": "2025-09-23T10:08:25.616748",
+      "continuous_session": true
+    },
+    {
+      "title": "Single-family rent growth is starting to show new weakness",
+      "link": "https://www.cnbc.com/2025/09/23/single-family-rent-growth-is-starting-to-show-new-weakness.html",
+      "summary": "Rent growth has now fallen below the lower end of the 10-year average range of pre-pandemic growth.",
+      "published": "Tue, 23 Sep 2025 13:55:15 GMT",
+      "content": "Rent growth has now fallen below the lower end of the 10-year average range of pre-pandemic growth.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "642d98bce7487fc1b6e786e317969cb2",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SINGLE-FAMILY RENT GROWTH WEAKENS ⚠️\n\n- Rent growth dips below pre-pandemic levels 📉\n- Current rates fall below 10-year average range 📊\n- Signs of new weakness in single-family rental market ⚠️\n\nTAKEAWAY: Single-family rent growth shows concerning weakness, dropping below pre-pandemic levels and 10-year averages, signaling a challenging market ahead.",
+      "exported_at": "2025-09-23T10:08:25.616811",
       "continuous_session": true
     }
   ]
