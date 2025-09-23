@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-23T05:18:00.260510",
-    "total_articles": 1655,
-    "new_articles_in_last_fetch": 1655,
+    "created_at": "2025-09-23T05:23:09.602973",
+    "total_articles": 1656,
+    "new_articles_in_last_fetch": 1656,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -21506,6 +21506,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ALTMAN, HUANG SEAL $100B OPENAI-NVIDIA DEAL UNDER TRUMP'S U.K. TRIP ⚡️\n\n- Last-minute negotiations secure $100B Nvidia-OpenAI deal 💰\n- Deal pressure mounts during Trump's U.K. visit 🇬🇧\n- Altman, Huang lead negotiations to a successful close ✅\n\nTAKEAWAY: Altman and Huang's swift action under pressure during Trump's U.K. trip seals the $100 billion Nvidia-OpenAI deal, showcasing effective negotiation skills.",
       "exported_at": "2025-09-23T05:18:00.157069",
+      "continuous_session": true
+    },
+    {
+      "title": "Nvidia and OpenAI&apos;s $100-billion deal sparks global chip stock rally",
+      "link": "https://www.cnbc.com/2025/09/23/nvidia-openai-deal-sparks-global-chip-stock-rally.html",
+      "summary": "Key Nvidia-linked stocks including TSMC and SK Hynix were higher after the $100 billion OpenAI deal.",
+      "published": "Tue, 23 Sep 2025 09:18:20 GMT",
+      "content": "Key Nvidia-linked stocks including TSMC and SK Hynix were higher after the $100 billion OpenAI deal.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "660fd504ece9a6d4e4f265dc5ddd5f60",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NVIDIA'S OPENAI $100B DEAL IGNITES CHIP STOCK RALLY 🚀\n\n- Nvidia's $100B OpenAI deal boosts TSMC and SK Hynix stocks 🔥\n- Global chip stock prices surge post Nvidia's partnership with OpenAI 📈\n- Market responds positively to Nvidia's significant deal with OpenAI 💰\n\nTAKEAWAY: Nvidia's massive $100 billion deal with OpenAI sends chip stock prices soaring, reflecting market excitement and confidence in the partnership's potential.",
+      "exported_at": "2025-09-23T05:23:09.486090",
       "continuous_session": true
     }
   ]
