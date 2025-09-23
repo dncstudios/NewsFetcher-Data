@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-23T07:04:49.997718",
-    "total_articles": 1662,
-    "new_articles_in_last_fetch": 1662,
+    "created_at": "2025-09-23T07:20:06.663379",
+    "total_articles": 1663,
+    "new_articles_in_last_fetch": 1663,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -21597,6 +21597,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TOM BRADY TEAMS UP WITH AESCAPE FOR LONGEVITY PROTOCOLS 🚀\n\n- Tom Brady partners with Aescape for exclusive use of his protocols\n- Aescape gains access to Brady's recovery and longevity secrets\n- Collaboration aims to enhance Aescape's massage robots with Brady's expertise\n\nTAKEAWAY: Tom Brady's partnership with Aescape to integrate his recovery and longevity protocols into massage robots is set to revolutionize wellness technology.",
       "exported_at": "2025-09-23T07:04:49.865321",
+      "continuous_session": true
+    },
+    {
+      "title": "Secret Service dismantles telecom threat around UN capable of crippling cell service in NYC",
+      "link": "https://www.cnbc.com/2025/09/23/secret-service-dismantles-telecom-threat-around-un-capable-of-crippling-cell-service-in-nyc.html",
+      "summary": "The network was uncovered as part of a Secret Service investigation into telecommunications threats targeting government officials, according to investigators.",
+      "published": "Tue, 23 Sep 2025 11:13:09 GMT",
+      "content": "The network was uncovered as part of a Secret Service investigation into telecommunications threats targeting government officials, according to investigators.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "82546e332031bd00c68a1f65c295800e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SECRET SERVICE THWARTS TELECOM THREAT NEAR UN 🚨\n\n- Secret Service dismantles network threatening cell service in NYC 📵\n- Telecom threat aimed at government officials under investigation 🔍\n- Network discovered as part of Secret Service probe 🕵️‍♂️\n\nTAKEAWAY: Secret Service's swift action in dismantling the telecom threat near the UN prevents potential disruption of cell service in NYC, ensuring security for government officials.",
+      "exported_at": "2025-09-23T07:20:06.548202",
       "continuous_session": true
     }
   ]
