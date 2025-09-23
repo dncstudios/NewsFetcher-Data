@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-23T07:55:47.002726",
-    "total_articles": 1666,
-    "new_articles_in_last_fetch": 1666,
+    "created_at": "2025-09-23T08:00:55.535577",
+    "total_articles": 1667,
+    "new_articles_in_last_fetch": 1667,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -21649,6 +21649,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NVIDIA'S OPENAI $100B DEAL IGNITES CHIP STOCK RALLY 🚀\n\n- Nvidia's $100B OpenAI deal boosts TSMC and SK Hynix stocks 🔥\n- Global chip stock prices surge post Nvidia's partnership with OpenAI 📈\n- Market responds positively to Nvidia's significant deal with OpenAI 💰\n\nTAKEAWAY: Nvidia's massive $100 billion deal with OpenAI sends chip stock prices soaring, reflecting market excitement and confidence in the partnership's potential.",
       "exported_at": "2025-09-23T07:55:46.874713",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: Firefly Aerospace, AutoZone, Kenvue &amp; more",
+      "link": "https://www.cnbc.com/2025/09/23/stocks-making-the-biggest-moves-premarket-fly-azo-kvue.html",
+      "summary": "These are the stocks posting the largest moves in early trading.",
+      "published": "Tue, 23 Sep 2025 11:55:07 GMT",
+      "content": "These are the stocks posting the largest moves in early trading.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "af41b00270f6cbf1c48eb441688c6811",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS SURGING PREMARKET: FIREFLY AEROSPACE, AUTOZONE, KENVUE & MORE 🚀\n\n- Firefly Aerospace's stock soars premarket 🚀\n- AutoZone shows significant movement ahead of market open 🔥\n- Kenvue's stock making big waves in early trading 🌊\n\nTAKEAWAY: Firefly Aerospace, AutoZone, and Kenvue are among the top stocks experiencing notable premarket surges, hinting at potential market excitement.",
+      "exported_at": "2025-09-23T08:00:55.406548",
       "continuous_session": true
     }
   ]
