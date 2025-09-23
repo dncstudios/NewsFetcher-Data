@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-23T10:08:25.741248",
-    "total_articles": 1681,
-    "new_articles_in_last_fetch": 1681,
+    "created_at": "2025-09-23T10:18:38.891849",
+    "total_articles": 1682,
+    "new_articles_in_last_fetch": 1682,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -21844,6 +21844,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SINGLE-FAMILY RENT GROWTH WEAKENS ⚠️\n\n- Rent growth dips below pre-pandemic levels 📉\n- Current rates fall below 10-year average range 📊\n- Signs of new weakness in single-family rental market ⚠️\n\nTAKEAWAY: Single-family rent growth shows concerning weakness, dropping below pre-pandemic levels and 10-year averages, signaling a challenging market ahead.",
       "exported_at": "2025-09-23T10:08:25.616811",
+      "continuous_session": true
+    },
+    {
+      "title": "A bullish options trade on this apparel giant that&apos;s showing signs of a recovery",
+      "link": "https://www.cnbc.com/2025/09/23/a-bullish-options-trade-on-this-apparel-giant-thats-showing-signs-of-a-recovery.html",
+      "summary": "Nishant Pant breaks down this bull call spread options trade.",
+      "published": "Tue, 23 Sep 2025 14:06:58 GMT",
+      "content": "Nishant Pant breaks down this bull call spread options trade.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2f697a05607a6c40419e0af343ba3d63",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: A BULLISH OPTIONS PLAY ON APPAREL GIANT SIGNALS RECOVERY 🚀\n\n- Analyst Nishant Pant recommends a bull call spread options trade 📈\n- Trade indicates optimism for the apparel giant's recovery 🌟\n- Strategy involves buying call options at a specific strike price 🔍\n- Pant's breakdown points to positive signals for the company's future 📈\n- Bull call spread signifies a bullish outlook on the stock 📊\n\nTAKEAWAY: Analyst Nishant Pant's bullish options trade on the apparel giant signals optimism and recovery in the company's future.",
+      "exported_at": "2025-09-23T10:18:38.763864",
       "continuous_session": true
     }
   ]
