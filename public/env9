@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-23T12:00:53.665617",
-    "total_articles": 1697,
-    "new_articles_in_last_fetch": 1697,
+    "created_at": "2025-09-23T12:06:02.383762",
+    "total_articles": 1698,
+    "new_articles_in_last_fetch": 1698,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -22052,6 +22052,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CRAMER CONSIDERS BANK STOCK PROFITS AS SECTOR SOARS 🚀\n\n- Cramer mulls profit-taking in bank stock amidst sector surge\n- Investing Club's \"Morning Meeting\" daily at 10:20 a.m. ET ⏰\n\nTAKEAWAY: Cramer contemplates capitalizing on bank stock gains amid the sector's upward momentum, discussed during the Investing Club's daily \"Morning Meeting\" at 10:20 a.m. ET.",
       "exported_at": "2025-09-23T12:00:53.541058",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump gripes he didn&apos;t get UN renovations contract in speech to General Assembly",
+      "link": "https://www.cnbc.com/2025/09/23/trump-un-ga-speech.html",
+      "summary": "President Donald Trump, in a United Nations speech that lasted nearly an hour, criticized member nations on migration and called climate change a \"con job.\"",
+      "published": "Tue, 23 Sep 2025 16:03:51 GMT",
+      "content": "President Donald Trump, in a United Nations speech that lasted nearly an hour, criticized member nations on migration and called climate change a \"con job.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1d80149dd73172f0140b8181c01fd8f3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP CRITICIZES UN MEMBERS IN HOUR-LONG SPEECH 🚨\n\n- Trump voices disappointment over not securing UN renovations contract 🏗️\n- Criticizes member nations on migration policies 🌍\n- Denounces climate change as a \"con job\" 🌡️\n- Speech lasted nearly an hour 🕒\n- Trump's strong opinions on global issues highlighted 🗣️\n\nTAKEAWAY: Trump's lengthy UN speech showcases his strong opinions on global issues, including criticisms of member nations on migration and climate change denial.",
+      "exported_at": "2025-09-23T12:06:02.265333",
       "continuous_session": true
     }
   ]
