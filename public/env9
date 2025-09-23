@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-23T17:06:39.612548",
-    "total_articles": 1723,
-    "new_articles_in_last_fetch": 1723,
+    "created_at": "2025-09-23T17:21:56.347884",
+    "total_articles": 1725,
+    "new_articles_in_last_fetch": 1725,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -22390,6 +22390,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: OPENAI LAUNCHES $500B STARGATE DATA CENTER 🚀\n\n- OpenAI unveils first data center in Texas 🏢\n- Stargate project to expand to New Mexico and Ohio 🌐\n- Partnership with Oracle signals a major AI investment 💰\n- Flagship site in Abilene marks the beginning of a huge initiative 🌟\n- $500 billion project aims to revolutionize AI in America 🇺🇸\n\nTAKEAWAY: OpenAI's inauguration of the Stargate data center in Texas, with plans to expand further, sets the stage for a massive $500 billion AI transformation in the United States with Oracle's backing.",
       "exported_at": "2025-09-23T17:06:39.481229",
+      "continuous_session": true
+    },
+    {
+      "title": "Tether reportedly seeks lofty $500 billion valuation in capital raise",
+      "link": "https://www.cnbc.com/2025/09/23/tether-reportedly-seeks-lofty-500-billion-valuation-in-capital-raise-.html",
+      "summary": "The crypto company is looking to raise between $15 billion and $20 billion in exchange for a roughly 3% stake through a private placement, the report said.",
+      "published": "Tue, 23 Sep 2025 21:18:39 GMT",
+      "content": "The crypto company is looking to raise between $15 billion and $20 billion in exchange for a roughly 3% stake through a private placement, the report said.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2ff9dc399bb964abc8d50087cd5b6902",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TETHER TARGETS $500 BILLION VALUATION IN CAPITAL RAISE 🚀\n\n- Tether aims for $15-20 billion with 3% stake in private placement 💰\n- Ambitious move to hit a massive $500 billion valuation 💪\n- Crypto company's bold strategy in the competitive market 🔥\n\nTAKEAWAY: Tether's bold move to seek a $500 billion valuation through a significant capital raise showcases their ambitious stance in the competitive crypto market.",
+      "exported_at": "2025-09-23T17:21:56.247019",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump UN escalator snafu: White House wants investigation",
+      "link": "https://www.cnbc.com/2025/09/23/trump-un-ga-speech.html",
+      "summary": "President Donald Trump, in a United Nations speech that lasted nearly an hour, criticized member nations on migration and called climate change a \"con job.\"",
+      "published": "Tue, 23 Sep 2025 21:18:51 GMT",
+      "content": "President Donald Trump, in a United Nations speech that lasted nearly an hour, criticized member nations on migration and called climate change a \"con job.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ef11ec269eaf33f4198b4c3aacaa87ef",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP CRITICIZES UN MEMBERS IN HOUR-LONG SPEECH 🚨\n\n- Trump voices disappointment over not securing UN renovations contract 🏗️\n- Criticizes member nations on migration policies 🌍\n- Denounces climate change as a \"con job\" 🌡️\n- Speech lasted nearly an hour 🕒\n- Trump's strong opinions on global issues highlighted 🗣️\n\nTAKEAWAY: Trump's lengthy UN speech showcases his strong opinions on global issues, including criticisms of member nations on migration and climate change denial.",
+      "exported_at": "2025-09-23T17:21:56.247073",
       "continuous_session": true
     }
   ]
