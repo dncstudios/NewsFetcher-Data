@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-23T16:05:31.175568",
-    "total_articles": 1719,
-    "new_articles_in_last_fetch": 1719,
+    "created_at": "2025-09-23T16:20:47.820584",
+    "total_articles": 1720,
+    "new_articles_in_last_fetch": 1720,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -22338,6 +22338,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCK FUTURES STAGNANT AFTER 3-DAY WIN STREAK FOR S&P 500 📉\n\n- S&P 500 sees 3-day winning streak, but futures show little movement 📉\n- Uncertainty looms over the sustainability of AI trade in U.S. equities 🤔\n- Risks linked to high market valuations raise concerns ⚠️\n\nTAKEAWAY: Despite a recent winning streak for the S&P 500, stagnant stock futures and doubts about the sustainability of AI trade highlight uncertainties and risks in the market.",
       "exported_at": "2025-09-23T16:05:31.044593",
+      "continuous_session": true
+    },
+    {
+      "title": "In major shift, Trump says he now thinks Ukraine can win back all of its territory taken by Russia",
+      "link": "https://www.cnbc.com/2025/09/23/in-major-shift-trump-says-he-now-thinks-ukraine-can-win-back-all-of-its-territory-taken-by-russia.html",
+      "summary": "The president's post on Truth Social came after he met with Ukrainian President Volodymyr Zelenskyy on the sidelines of the United Nations General Assembly in New York.",
+      "published": "Tue, 23 Sep 2025 20:15:58 GMT",
+      "content": "The president's post on Truth Social came after he met with Ukrainian President Volodymyr Zelenskyy on the sidelines of the United Nations General Assembly in New York.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "797179f2e59998cbcb7545f6320331c5",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP BELIEVES UKRAINE CAN REGAIN ALL TERRITORY FROM RUSSIA 🚀\n\n- Trump's optimism after meeting Zelenskyy at UN 🤝\n- Major shift in stance towards Ukraine's territorial reclamation 🇺🇦\n- Statement posted on Truth Social platform for transparency 🔍\n- Signals potential support for Ukraine in conflict with Russia 💪\n- Shift creates global speculation and anticipation 🌍\n- Trump's new stance raises questions about future actions 🤔\n\nTAKEAWAY: Trump's newfound belief in Ukraine's ability to reclaim territory from Russia marks a significant shift, sparking global speculation about potential future support and actions.",
+      "exported_at": "2025-09-23T16:20:47.682552",
       "continuous_session": true
     }
   ]
