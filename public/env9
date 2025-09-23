@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-23T11:20:01.585955",
-    "total_articles": 1692,
-    "new_articles_in_last_fetch": 1692,
+    "created_at": "2025-09-23T11:30:12.109068",
+    "total_articles": 1693,
+    "new_articles_in_last_fetch": 1693,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -21987,6 +21987,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NEXSTAR JOINS SINCLAIR IN PREEMPTING KIMMEL'S RETURN 🚫\n\n- Nexstar Media Group follows Sinclair in preempting \"Jimmy Kimmel Live!\"\n- ABC affiliates under Nexstar won't air Kimmel's return on Tuesday 📺\n- Decision to preempt Kimmel's show impacts ABC-affiliate stations\n\nTAKEAWAY: Nexstar Media Group's move to preempt \"Jimmy Kimmel Live!\" aligns with Sinclair, affecting ABC affiliates and viewership.",
       "exported_at": "2025-09-23T11:20:01.450029",
+      "continuous_session": true
+    },
+    {
+      "title": "Morgan Stanley close to offering crypto trading through E-Trade, calls it ‘tip of the iceberg’",
+      "link": "https://www.cnbc.com/2025/09/23/morgan-stanley-crypto-trading-e-trade-next-year.html",
+      "summary": "Morgan Stanley, which relies more on wealth management than its peers, is poised to be an early adopter in crypto trading, custody and tokenized assets.",
+      "published": "Tue, 23 Sep 2025 15:29:46 GMT",
+      "content": "Morgan Stanley, which relies more on wealth management than its peers, is poised to be an early adopter in crypto trading, custody and tokenized assets.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a89a2e86c08294bb2709d4921e3067bf",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MORGAN STANLEY LEADING THE WAY IN CRYPTO TRADING WITH E-TRADE 🚀\n\n- Morgan Stanley to offer crypto trading, custody, & tokenized assets 🌐💰\n- Focus on wealth management gives them a competitive edge 💼✨\n- Positioned as an early adopter in the crypto space 🥇🔝\n- E-Trade partnership seen as just the beginning 🌱💎\n- Embracing digital assets as part of their future strategy 💹🚀\n- Expanding services to cater to evolving investor demands 💡📈\n\nTAKEAWAY: Morgan Stanley's move into crypto trading through E-Trade signifies the start of a new era in digital asset adoption in traditional finance.",
+      "exported_at": "2025-09-23T11:30:11.971516",
       "continuous_session": true
     }
   ]
