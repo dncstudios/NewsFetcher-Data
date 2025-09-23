@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-23T14:18:39.554059",
-    "total_articles": 1711,
-    "new_articles_in_last_fetch": 1711,
+    "created_at": "2025-09-23T14:44:03.930116",
+    "total_articles": 1712,
+    "new_articles_in_last_fetch": 1712,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -22234,6 +22234,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NVIDIA & OPENAI'S 'MONUMENTAL' DATA CENTER PLAN FACES POWER SUPPLY CHALLENGE ⚠️\n\n- Massive data center plan by Nvidia & OpenAI lacks clear power capacity\n- Uncertainty looms over securing necessary power for the project\n- Power supply challenge poses a significant hurdle for the plan\n\nTAKEAWAY: Nvidia and OpenAI's ambitious data center project faces a major challenge in securing the required power capacity, casting uncertainty over its realization.",
       "exported_at": "2025-09-23T14:18:39.422555",
+      "continuous_session": true
+    },
+    {
+      "title": "Disney raises prices for streaming packages",
+      "link": "https://www.cnbc.com/2025/09/23/disney-plus-new-pricing-streaming-kimmel.html",
+      "summary": "Disney announced price hikes of roughly $2 to $3 for its subscription packages on Tuesday.",
+      "published": "Tue, 23 Sep 2025 18:41:22 GMT",
+      "content": "Disney announced price hikes of roughly $2 to $3 for its subscription packages on Tuesday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a885a99d480dccb8485d01428582c43b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DISNEY INCREASES STREAMING PACKAGE PRICES 🚀\n\n- Disney raises subscription prices by $2 to $3 💰\n- Price hikes announced on Tuesday 🗓️\n- Impact on subscriber growth and revenue potential ⚡️📈\n\nTAKEAWAY: Disney's decision to increase streaming package prices could boost revenue but may impact subscriber growth.",
+      "exported_at": "2025-09-23T14:44:03.793173",
       "continuous_session": true
     }
   ]
