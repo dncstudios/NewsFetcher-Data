@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-23T07:30:19.067881",
-    "total_articles": 1664,
-    "new_articles_in_last_fetch": 1664,
+    "created_at": "2025-09-23T07:40:32.487090",
+    "total_articles": 1665,
+    "new_articles_in_last_fetch": 1665,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -21623,6 +21623,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BROOKFIELD'S AI DEAL SET TO BOOST OPERATING MARGINS, SAYS ANALYSTS 🚀\n\n- Brookfield's deal to leverage AI for higher operating margins 💰\n- Morgan Stanley anticipates humanoid robots enhancing portfolio companies 🤖\n- AI integration expected to give Brookfield a competitive edge 🌟\n\nTAKEAWAY: Analysts believe Brookfield's AI deal will drive efficiency and profitability, setting the stage for enhanced competitiveness in the market.",
       "exported_at": "2025-09-23T07:30:18.937976",
+      "continuous_session": true
+    },
+    {
+      "title": "EU, WHO counter Trump&apos;s warnings on autism and pregnancy",
+      "link": "https://www.cnbc.com/2025/09/23/eu-who-counter-trumps-warnings-on-autism-and-pregnancy.html",
+      "summary": "European Union and British health agencies confirmed the safety of paracetamol during pregnancy, disputing U.S. President Donald Trump who linked it to autism.",
+      "published": "Tue, 23 Sep 2025 11:37:49 GMT",
+      "content": "European Union and British health agencies confirmed the safety of paracetamol during pregnancy, disputing U.S. President Donald Trump who linked it to autism.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "653cc5c7f2ae3ca8767c48b7ef7824fe",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: EU & WHO DISPUTE TRUMP'S AUTISM-PREGNANCY WARNING 🚫\n\n- EU & UK health agencies affirm safety of paracetamol during pregnancy ✅\n- Trump's claim linking paracetamol to autism contradicted 🚫\n- WHO stands against Trump's warning on autism-pregnancy link 🚨\n\nTAKEAWAY: EU, WHO, & UK health agencies contradict Trump's autism-pregnancy warning, affirming paracetamol's safety during pregnancy.",
+      "exported_at": "2025-09-23T07:40:32.354658",
       "continuous_session": true
     }
   ]
