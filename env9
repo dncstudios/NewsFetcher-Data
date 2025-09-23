@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-23T16:36:05.319546",
-    "total_articles": 1721,
-    "new_articles_in_last_fetch": 1721,
+    "created_at": "2025-09-23T16:56:26.535596",
+    "total_articles": 1722,
+    "new_articles_in_last_fetch": 1722,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -22364,6 +22364,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: MICRON SHINES WITH 46% SALES RISE ON AI BOOM 🚀\n\n- Micron surpasses earnings and revenue expectations 💰\n- Company sales surge by a whopping 46% 📈\n- Robust forecast announced for the current quarter 🌟\n- Positive outlook fueled by the AI industry boom 🤖\n- Strong performance signals Micron's market resilience 💪\n- Investor confidence likely to grow after stellar results ✅\n\nTAKEAWAY: Micron's impressive sales growth, exceeded expectations, and robust forecast driven by the AI boom showcase its strength in the market, likely boosting investor confidence.",
       "exported_at": "2025-09-23T16:36:05.216731",
+      "continuous_session": true
+    },
+    {
+      "title": "Santoli&apos;s Tuesday market wrap-up: S&amp;P 500 pulls back from record highs as investors rethink the AI trade",
+      "link": "https://www.cnbc.com/2025/09/23/santolis-tuesday-market-wrap-up-sp-500-pulls-back-from-record-highs-as-investors-rethink-the-ai-trade.html",
+      "summary": "Stocks took a hit as investors questioned the Nvidia-OpenAI partnership, wondering about overcapacity and overlapping partnerships and vendor relationships.",
+      "published": "Tue, 23 Sep 2025 20:42:11 GMT",
+      "content": "Stocks took a hit as investors questioned the Nvidia-OpenAI partnership, wondering about overcapacity and overlapping partnerships and vendor relationships.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "964abfe90a44c82697056591b5f22b66",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SANTOLI'S TUESDAY MARKET WRAP-UP: S&P 500 PULLS BACK AS AI TRADE REEVALUATED 🚨\n\n- S&P 500 dips from record highs amidst AI trade reconsideration\n- Investor concerns rise over Nvidia-OpenAI partnership\n- Doubts surface on overcapacity and partnership overlaps\n- Stock market takes a hit amid reevaluation of vendor relationships\n- Uncertainty looms over the future of AI trade dynamics\n\nTAKEAWAY: Investor skepticism around the Nvidia-OpenAI partnership leads to S&P 500 pullback, signaling a reevaluation of AI trade dynamics and vendor relationships.",
+      "exported_at": "2025-09-23T16:56:26.412442",
       "continuous_session": true
     }
   ]
