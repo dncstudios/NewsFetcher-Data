@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-24T07:04:25.282908",
-    "total_articles": 1752,
-    "new_articles_in_last_fetch": 1752,
+    "created_at": "2025-09-24T07:29:50.557314",
+    "total_articles": 1753,
+    "new_articles_in_last_fetch": 1753,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -22766,6 +22766,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP'S H-1B VISA CHANGES THREATEN STARTUPS ⚠️\n\n- Trump's H-1B changes may deter startups from top global talent 🌍\n- Fear of losing talent could push workers to other countries 🚀\n- Uncertainty looms over the impact on startup growth 🤔\n\nTAKEAWAY: Trump's H-1B visa changes could potentially hinder startup success by deterring foreign talent and driving them to seek opportunities elsewhere.",
       "exported_at": "2025-09-24T07:04:25.151844",
+      "continuous_session": true
+    },
+    {
+      "title": "Fed Chair Powell just had his &apos;irrational exuberance&apos; moment, Ed Yardeni says",
+      "link": "https://www.cnbc.com/2025/09/24/fed-chair-powell-just-had-his-irrational-exuberance-moment-ed-yardeni-says.html",
+      "summary": "Jerome Powell gave Alan Greenspan vibes with his latest comments, according to Ed Yardeni.",
+      "published": "Wed, 24 Sep 2025 11:26:28 GMT",
+      "content": "Jerome Powell gave Alan Greenspan vibes with his latest comments, according to Ed Yardeni.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "44ad0f7a6800496d0d896f91c3e356df",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FED CHAIR POWELL CHANNELS GREENSPAN'S 'IRRATIONAL EXUBERANCE' MOMENT ⚠️\n\n- Powell's recent comments reminiscent of Alan Greenspan's stance 🧐\n- Analyst Ed Yardeni draws parallels between Powell and Greenspan 💡\n\nTAKEAWAY: Ed Yardeni suggests that Fed Chair Powell's recent comments echo Alan Greenspan's \"irrational exuberance\" moment, sparking interest and speculation in the financial world.",
+      "exported_at": "2025-09-24T07:29:50.420088",
       "continuous_session": true
     }
   ]
