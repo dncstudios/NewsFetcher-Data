@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-24T05:42:57.951069",
-    "total_articles": 1744,
-    "new_articles_in_last_fetch": 1744,
+    "created_at": "2025-09-24T06:03:19.121313",
+    "total_articles": 1745,
+    "new_articles_in_last_fetch": 1745,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -22662,6 +22662,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP BELIEVES UKRAINE CAN RECLAIM TERRITORY FROM RUSSIA 🚀\n\n- Trump expresses confidence in Ukraine reclaiming territory from Russia\n- Statement follows meeting with Ukrainian President Zelenskyy at UN General Assembly\n- President's announcement made on Truth Social platform\n- Optimism for Ukraine's territorial recovery evident\n- Trump's bold claim sparks global interest\n- Potential implications on US-Russia relations under scrutiny\n\nTAKEAWAY: Trump's public declaration of belief in Ukraine's territorial recovery from Russia on Truth Social ignites global interest and speculation on US foreign policy shifts.",
       "exported_at": "2025-09-24T05:42:57.814033",
+      "continuous_session": true
+    },
+    {
+      "title": "NFL wants to accelerate TV rights renegotiations to as early as next year, Commissioner Goodell says",
+      "link": "https://www.cnbc.com/2025/09/24/nfl-tv-rights-renegotiations-accelerated-roger-goodell.html",
+      "summary": "The NFL would need agreement from its media partners — Disney, Comcast's NBCUniversal, Paramount, Amazon and Fox — to start discussions earlier than planned.",
+      "published": "Wed, 24 Sep 2025 10:00:01 GMT",
+      "content": "The NFL would need agreement from its media partners — Disney, Comcast's NBCUniversal, Paramount, Amazon and Fox — to start discussions earlier than planned.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "dc2079657a2db59e3a5d9863e2dde930",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NFL TO SPEED UP TV RIGHTS RENEGOTIATIONS 🚀\n\n- NFL aims to begin TV rights renegotiations sooner 📺\n- Agreement required from media partners like Disney, Fox 🤝\n- Commissioner Goodell pushes for accelerated talks ⚡️\n\nTAKEAWAY: NFL plans to fast-track TV rights renegotiations with major partners like Disney and Fox, aiming for earlier discussions under Commissioner Goodell's guidance.",
+      "exported_at": "2025-09-24T06:03:18.994336",
       "continuous_session": true
     }
   ]
