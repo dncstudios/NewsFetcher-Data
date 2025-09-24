@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-24T04:52:12.696643",
-    "total_articles": 1743,
-    "new_articles_in_last_fetch": 1743,
+    "created_at": "2025-09-24T05:42:57.951069",
+    "total_articles": 1744,
+    "new_articles_in_last_fetch": 1744,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -22649,6 +22649,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: EUROPE LOSING ITS EDGE TO U.S.? ASSET MANAGERS' INSIGHTS REVEALED 🚀\n\n- 10 Europe-based asset managers share views on continent's performance\n- American assets seen revitalizing, challenging Europe's dominance\n- Insights shed light on shifting dynamics between Europe and U.S.\n\nTAKEAWAY: Asset managers' insights suggest Europe may be losing its edge to the U.S. as American assets revitalize and challenge Europe's dominance.",
       "exported_at": "2025-09-24T04:52:12.556426",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump says he now thinks Ukraine can win back all territory taken by Russia",
+      "link": "https://www.cnbc.com/2025/09/23/in-major-shift-trump-says-he-now-thinks-ukraine-can-win-back-all-of-its-territory-taken-by-russia.html",
+      "summary": "The president posted on Truth Social after he met with Ukrainian President Volodymyr Zelenskyy on the sidelines of the United Nations General Assembly in New York.",
+      "published": "Wed, 24 Sep 2025 09:42:13 GMT",
+      "content": "The president posted on Truth Social after he met with Ukrainian President Volodymyr Zelenskyy on the sidelines of the United Nations General Assembly in New York.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "dd809452aaf4b673b7416bf617c065a4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP BELIEVES UKRAINE CAN RECLAIM TERRITORY FROM RUSSIA 🚀\n\n- Trump expresses confidence in Ukraine reclaiming territory from Russia\n- Statement follows meeting with Ukrainian President Zelenskyy at UN General Assembly\n- President's announcement made on Truth Social platform\n- Optimism for Ukraine's territorial recovery evident\n- Trump's bold claim sparks global interest\n- Potential implications on US-Russia relations under scrutiny\n\nTAKEAWAY: Trump's public declaration of belief in Ukraine's territorial recovery from Russia on Truth Social ignites global interest and speculation on US foreign policy shifts.",
+      "exported_at": "2025-09-24T05:42:57.814033",
       "continuous_session": true
     }
   ]
