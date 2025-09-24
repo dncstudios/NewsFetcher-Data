@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-24T06:18:40.185986",
-    "total_articles": 1748,
-    "new_articles_in_last_fetch": 1748,
+    "created_at": "2025-09-24T07:04:25.282908",
+    "total_articles": 1752,
+    "new_articles_in_last_fetch": 1752,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -22714,6 +22714,58 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: OPENAI LAUNCHES $500B STARGATE DATA CENTER 🚀\n\n- OpenAI unveils first data center in Texas 🏢\n- Stargate project to expand to New Mexico and Ohio 🌐\n- Partnership with Oracle signals a major AI investment 💰\n- Flagship site in Abilene marks the beginning of a huge initiative 🌟\n- $500 billion project aims to revolutionize AI in America 🇺🇸\n\nTAKEAWAY: OpenAI's inauguration of the Stargate data center in Texas, with plans to expand further, sets the stage for a massive $500 billion AI transformation in the United States with Oracle's backing.",
       "exported_at": "2025-09-24T06:18:40.047050",
+      "continuous_session": true
+    },
+    {
+      "title": "S&amp;P 500 futures rebound slightly after Micron restores some confidence in tech trade: Live updates",
+      "link": "https://www.cnbc.com/2025/09/23/stock-market-today-live-updates.html",
+      "summary": "The S&amp;P 500 on Tuesday snapped its three-day win streak and closed in the red after it had reached a new all-time intraday high earlier in the session.",
+      "published": "Wed, 24 Sep 2025 11:02:36 GMT",
+      "content": "The S&amp;P 500 on Tuesday snapped its three-day win streak and closed in the red after it had reached a new all-time intraday high earlier in the session.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d2a3d155175b5ec28595d6ef5a73c255",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK FUTURES STAGNATE AS S&P 500 DIPS FROM RECORD HIGHS 📉\n\n- S&P 500 ends red after hitting new all-time intraday high 📉\n- Stock futures show minimal movement post record-high pullback 📊\n- Tuesday breaks S&P 500's three-day winning streak 📉\n- Market sees slight change following the previous session's volatility 📉\n\nTAKEAWAY: Stock futures remain stable as the S&P 500 retreats from record highs, signaling a pause in the recent bullish momentum.",
+      "exported_at": "2025-09-24T07:04:25.151744",
+      "continuous_session": true
+    },
+    {
+      "title": "Mortgage demand stalls after mini refinance boom",
+      "link": "https://www.cnbc.com/2025/09/24/mortgage-demand-stalls-after-mini-refinance-boom.html",
+      "summary": "After a massive 58% weekly surge in refinance demand the week before, mortgage demand stalled again last week, even though interest rates fell further.",
+      "published": "Wed, 24 Sep 2025 11:00:01 GMT",
+      "content": "After a massive 58% weekly surge in refinance demand the week before, mortgage demand stalled again last week, even though interest rates fell further.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7704e15d97a0afdc293eb8ea440ce06e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MORTGAGE DEMAND STALLS AFTER MINI REFINANCE BOOM 🚫\n\n- Refinance demand surged 58% in the previous week 📈\n- Despite falling interest rates, mortgage demand stalled \n- Market experiences fluctuations in demand ⚠️\n\nTAKEAWAY: Mortgage demand sees a halt after a significant surge in refinancing, showing market fluctuations despite lower interest rates.",
+      "exported_at": "2025-09-24T07:04:25.151817",
+      "continuous_session": true
+    },
+    {
+      "title": "American workers feel stuck in their jobs. It may be costing them, and the economy",
+      "link": "https://www.cnbc.com/2025/09/24/why-workers-feel-stuck.html",
+      "summary": "Experts say fears of inflation, layoffs and a cooling economy drive this trend of people feeling stuck in their jobs.",
+      "published": "Wed, 24 Sep 2025 11:00:01 GMT",
+      "content": "Experts say fears of inflation, layoffs and a cooling economy drive this trend of people feeling stuck in their jobs.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ded1aa642259e8b19553ba22a1f13d2e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AMERICAN WORKERS FEEL STUCK IN JOBS, COSTING ECONOMY ⚠️\n\n- Workers' fears of inflation, layoffs, and economic slowdown trap them\n- Feeling stuck in jobs hampers personal growth and economic productivity\n- Experts suggest broader implications on the overall economy 📉\n- Lack of job mobility may hinder innovation and progress 🛑\n- Economic impact of workers feeling trapped remains a concern 🧐\n\nTAKEAWAY: American workers' sense of being stuck in their jobs due to fears of inflation and layoffs not only impacts personal growth but also poses risks to the broader economy in terms of innovation and productivity.",
+      "exported_at": "2025-09-24T07:04:25.151833",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump&apos;s H-1B visa changes could &apos;kneecap startups,&apos; drive talent elsewhere, experts say",
+      "link": "https://www.cnbc.com/2025/09/24/trumps-h-1b-visa-changes-could-kneecap-startups-experts-say.html",
+      "summary": "Experts say President Donald Trump's changes to the H-1B program could deter startups from securing top foreign talent and drive those workers elsewhere.",
+      "published": "Wed, 24 Sep 2025 11:00:01 GMT",
+      "content": "Experts say President Donald Trump's changes to the H-1B program could deter startups from securing top foreign talent and drive those workers elsewhere.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f1f694aeea72b21eab542523c43361ff",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP'S H-1B VISA CHANGES THREATEN STARTUPS ⚠️\n\n- Trump's H-1B changes may deter startups from top global talent 🌍\n- Fear of losing talent could push workers to other countries 🚀\n- Uncertainty looms over the impact on startup growth 🤔\n\nTAKEAWAY: Trump's H-1B visa changes could potentially hinder startup success by deterring foreign talent and driving them to seek opportunities elsewhere.",
+      "exported_at": "2025-09-24T07:04:25.151844",
       "continuous_session": true
     }
   ]
