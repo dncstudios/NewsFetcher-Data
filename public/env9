@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-24T07:40:03.431662",
-    "total_articles": 1754,
-    "new_articles_in_last_fetch": 1754,
+    "created_at": "2025-09-24T08:10:30.215408",
+    "total_articles": 1755,
+    "new_articles_in_last_fetch": 1755,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -22792,6 +22792,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: LUXURY BRANDS EMBRACE LABUBU FOR YOUNGER SHOPPERS 🚀\n\n- Moynat launches $2,500 handbags featuring Labubus 🎨\n- Character collaborations boost Omega and Jimmy Choo sales 📈\n- Luxury brands tap into younger market with Labubu charm ✨\n\nTAKEAWAY: Labubu's charm proves lucrative as luxury brands like Moynat, Omega, and Jimmy Choo embrace character collaborations to attract younger shoppers, boosting sales.",
       "exported_at": "2025-09-24T07:40:03.307878",
+      "continuous_session": true
+    },
+    {
+      "title": "S&amp;P 500 futures bounce slightly as Nvidia shares rebound: Live updates",
+      "link": "https://www.cnbc.com/2025/09/23/stock-market-today-live-updates.html",
+      "summary": "The S&amp;P 500 on Tuesday snapped its three-day win streak and closed in the red after it had reached a new all-time intraday high earlier in the session.",
+      "published": "Wed, 24 Sep 2025 12:05:56 GMT",
+      "content": "The S&amp;P 500 on Tuesday snapped its three-day win streak and closed in the red after it had reached a new all-time intraday high earlier in the session.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8c2b070095ad05c81ad76d365aadd975",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK FUTURES STAGNATE AS S&P 500 DIPS FROM RECORD HIGHS 📉\n\n- S&P 500 ends red after hitting new all-time intraday high 📉\n- Stock futures show minimal movement post record-high pullback 📊\n- Tuesday breaks S&P 500's three-day winning streak 📉\n- Market sees slight change following the previous session's volatility 📉\n\nTAKEAWAY: Stock futures remain stable as the S&P 500 retreats from record highs, signaling a pause in the recent bullish momentum.",
+      "exported_at": "2025-09-24T08:10:30.091015",
       "continuous_session": true
     }
   ]
