@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-24T08:36:03.782046",
-    "total_articles": 1758,
-    "new_articles_in_last_fetch": 1758,
+    "created_at": "2025-09-24T08:41:12.829948",
+    "total_articles": 1760,
+    "new_articles_in_last_fetch": 1760,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -22843,6 +22843,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AI MASTERS LEVEL III OF CFA EXAM IN MINUTES 🚀\n\n- AI conquers toughest CFA exam level swiftly 💪\n- Overcomes essay questions that were challenging 📝\n- Previous limits shattered with AI's success 🌟\n\nTAKEAWAY: AI's rapid mastery of Level III of the CFA exam showcases its evolving capabilities, breaking previous boundaries and raising the bar for future applications.",
       "exported_at": "2025-09-24T08:36:03.653435",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: Alibaba, Micron, Lithium Americas, Oracle and more",
+      "link": "https://www.cnbc.com/2025/09/24/stocks-making-the-biggest-moves-premarket-alibaba-millerknoll-oracle-and-more.html",
+      "summary": "These are the stocks posting the largest moves in premarket trading.",
+      "published": "Wed, 24 Sep 2025 12:36:04 GMT",
+      "content": "These are the stocks posting the largest moves in premarket trading.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "758be7e6afc4444a27bb078c4df465f1",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS MAKING BIGGEST PREMARKET MOVES: ALIBABA, MICRON, LITHIUM AMERICAS 🚀\n\n- Alibaba, Micron, Lithium Americas among top premarket movers 📈\n- Market buzz around premarket trading activities 🐝\n- Investors eyeing early movement of Oracle and other stocks ✅\n\nTAKEAWAY: Keep a close watch on premarket activities of Alibaba, Micron, and Lithium Americas as they lead the pack in early trading.",
+      "exported_at": "2025-09-24T08:41:12.691293",
+      "continuous_session": true
+    },
+    {
+      "title": "How luxury brands are tapping into the Labubu craze",
+      "link": "https://www.cnbc.com/2025/09/24/luxury-labubu-moynat-loewe-tiffany-omega.html",
+      "summary": "Labubus will grace $2,500 handbags by Moynat this fall. These character collaborations have paid off for other luxury labels like Omega and Jimmy Choo.",
+      "published": "Wed, 24 Sep 2025 12:38:32 GMT",
+      "content": "Labubus will grace $2,500 handbags by Moynat this fall. These character collaborations have paid off for other luxury labels like Omega and Jimmy Choo.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0a6e49acb3bc86aae188229f823b098a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: LUXURY BRANDS EMBRACE LABUBU FOR YOUNGER SHOPPERS 🚀\n\n- Moynat launches $2,500 handbags featuring Labubus 🎨\n- Character collaborations boost Omega and Jimmy Choo sales 📈\n- Luxury brands tap into younger market with Labubu charm ✨\n\nTAKEAWAY: Labubu's charm proves lucrative as luxury brands like Moynat, Omega, and Jimmy Choo embrace character collaborations to attract younger shoppers, boosting sales.",
+      "exported_at": "2025-09-24T08:41:12.691370",
       "continuous_session": true
     }
   ]
