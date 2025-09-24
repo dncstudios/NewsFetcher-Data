@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-23T23:47:25.596245",
-    "total_articles": 1732,
-    "new_articles_in_last_fetch": 1732,
+    "created_at": "2025-09-24T00:48:18.814896",
+    "total_articles": 1733,
+    "new_articles_in_last_fetch": 1733,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -22507,6 +22507,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JIMMY KIMMEL RETURNS STRONG AFTER ABC SUSPENSION 🚀\n\n- \"Jimmy Kimmel Live!\" back on air after ABC suspension ✨\n- Show suspended by Disney's ABC network for about a week ⏳\n\nTAKEAWAY: Jimmy Kimmel bounces back on \"Jimmy Kimmel Live!\" after ABC suspension, addressing seriousness and moving forward with strength.",
       "exported_at": "2025-09-23T23:47:25.460005",
+      "continuous_session": true
+    },
+    {
+      "title": "Alibaba shares rise over 6% after CEO unveils plans to boost AI spending",
+      "link": "https://www.cnbc.com/2025/09/24/alibaba-shares-rise-over-6percent-after-ceo-unveils-new-ai-products-and-spending-plans.html",
+      "summary": "Alibaba shares surged to their highest point since 2021 after it announced plans to boost spending on artificial intelligence and unveiled new AI products.",
+      "published": "Wed, 24 Sep 2025 04:44:11 GMT",
+      "content": "Alibaba shares surged to their highest point since 2021 after it announced plans to boost spending on artificial intelligence and unveiled new AI products.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5309a4738a4bc11af5668371152afcb2",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ALIBABA SURGES 6% ON AI SPENDING BOOST 🚀\n\n- Alibaba stock hits highest point since 2021 📈\n- CEO announces plans to increase AI spending 💸\n- Unveils new AI products to drive growth 🤖\n- Market responds positively to the news 📈\n- Shares rise over 6% on the announcement 🚀\n- Investors show confidence in Alibaba's AI strategy ✅\n\nTAKEAWAY: Alibaba's stock skyrockets as CEO's AI spending boost and new product unveilings ignite investor confidence in the company's growth potential.",
+      "exported_at": "2025-09-24T00:48:18.674129",
       "continuous_session": true
     }
   ]
