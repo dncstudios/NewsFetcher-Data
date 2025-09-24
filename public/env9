@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-24T09:01:41.714393",
-    "total_articles": 1763,
-    "new_articles_in_last_fetch": 1763,
+    "created_at": "2025-09-24T09:11:54.163150",
+    "total_articles": 1765,
+    "new_articles_in_last_fetch": 1765,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -22908,6 +22908,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP'S SHIFT IN VACCINE RECOMMENDATIONS: WHAT YOU NEED TO KNOW 🚨\n\n- Trump administration alters Covid, childhood vaccine guidance 🩺\n- Health experts advise Americans on securing desired vaccines 💉\n- Americans urged to navigate new recommendations with care 🧐\n\nTAKEAWAY: The Trump administration's changes in Covid and childhood vaccine recommendations prompt Americans to seek guidance from health experts to secure the vaccines they need.",
       "exported_at": "2025-09-24T09:01:41.586852",
+      "continuous_session": true
+    },
+    {
+      "title": "NFL Commissioner Roger Goodell says league could renegotiate media deals as soon as 2026",
+      "link": "https://www.cnbc.com/2025/09/24/nfl-tv-rights-renegotiations-accelerated-roger-goodell.html",
+      "summary": "The NFL would need agreement from its media partners — Disney, Comcast's NBCUniversal, Paramount, Amazon and Fox — to start discussions earlier than planned.",
+      "published": "Wed, 24 Sep 2025 13:10:59 GMT",
+      "content": "The NFL would need agreement from its media partners — Disney, Comcast's NBCUniversal, Paramount, Amazon and Fox — to start discussions earlier than planned.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9b2fa933dcf2a0a3e66148aa7f3e015a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NFL TO SPEED UP TV RIGHTS RENEGOTIATIONS 🚀\n\n- NFL aims to begin TV rights renegotiations sooner 📺\n- Agreement required from media partners like Disney, Fox 🤝\n- Commissioner Goodell pushes for accelerated talks ⚡️\n\nTAKEAWAY: NFL plans to fast-track TV rights renegotiations with major partners like Disney and Fox, aiming for earlier discussions under Commissioner Goodell's guidance.",
+      "exported_at": "2025-09-24T09:11:54.022369",
+      "continuous_session": true
+    },
+    {
+      "title": "Shooting at Dallas ICE detention facility leaves &apos;multiple injuries and fatalities&apos;: Noem",
+      "link": "https://www.cnbc.com/2025/09/24/ice-shooting-dallas-noem.html",
+      "summary": "\"The shooter is deceased by a self-inflicted gun shot wound,\" Noem said in an X post confirming the attack.",
+      "published": "Wed, 24 Sep 2025 13:06:37 GMT",
+      "content": "\"The shooter is deceased by a self-inflicted gun shot wound,\" Noem said in an X post confirming the attack.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "386807e496cc2a490684daeebcfebab2",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SHOOTING AT DALLAS ICE DETENTION FACILITY LEAVES MULTIPLE INJURIES AND FATALITIES 🚨\n\n- Gunman at Dallas ICE facility dies from self-inflicted gunshot 🧳\n- Noem confirms attack with reports of injuries and fatalities 💔\n- Details reveal a tragic and devastating incident in Dallas 🏢\n\nTAKEAWAY: Tragic shooting incident at Dallas ICE detention facility results in multiple injuries and fatalities, with the gunman taking his own life.",
+      "exported_at": "2025-09-24T09:11:54.022476",
       "continuous_session": true
     }
   ]
