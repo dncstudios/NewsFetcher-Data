@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-24T07:29:50.557314",
-    "total_articles": 1753,
-    "new_articles_in_last_fetch": 1753,
+    "created_at": "2025-09-24T07:40:03.431662",
+    "total_articles": 1754,
+    "new_articles_in_last_fetch": 1754,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -22779,6 +22779,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FED CHAIR POWELL CHANNELS GREENSPAN'S 'IRRATIONAL EXUBERANCE' MOMENT ⚠️\n\n- Powell's recent comments reminiscent of Alan Greenspan's stance 🧐\n- Analyst Ed Yardeni draws parallels between Powell and Greenspan 💡\n\nTAKEAWAY: Ed Yardeni suggests that Fed Chair Powell's recent comments echo Alan Greenspan's \"irrational exuberance\" moment, sparking interest and speculation in the financial world.",
       "exported_at": "2025-09-24T07:29:50.420088",
+      "continuous_session": true
+    },
+    {
+      "title": "Cute sells: How luxury brands are embracing Labubu and other characters to court younger shoppers",
+      "link": "https://www.cnbc.com/2025/09/24/luxury-labubu-moynat-loewe-tiffany-omega.html",
+      "summary": "Labubus will grace $2,500 handbags by Moynat this fall. These character collaborations have paid off for other luxury labels like Omega and Jimmy Choo.",
+      "published": "Wed, 24 Sep 2025 11:30:01 GMT",
+      "content": "Labubus will grace $2,500 handbags by Moynat this fall. These character collaborations have paid off for other luxury labels like Omega and Jimmy Choo.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "764ca61aeebcc06b60a7c8872ab6b322",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: LUXURY BRANDS EMBRACE LABUBU FOR YOUNGER SHOPPERS 🚀\n\n- Moynat launches $2,500 handbags featuring Labubus 🎨\n- Character collaborations boost Omega and Jimmy Choo sales 📈\n- Luxury brands tap into younger market with Labubu charm ✨\n\nTAKEAWAY: Labubu's charm proves lucrative as luxury brands like Moynat, Omega, and Jimmy Choo embrace character collaborations to attract younger shoppers, boosting sales.",
+      "exported_at": "2025-09-24T07:40:03.307878",
       "continuous_session": true
     }
   ]
