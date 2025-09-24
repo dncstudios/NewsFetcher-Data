@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-23T19:13:31.010925",
-    "total_articles": 1727,
-    "new_articles_in_last_fetch": 1727,
+    "created_at": "2025-09-23T20:29:36.576693",
+    "total_articles": 1729,
+    "new_articles_in_last_fetch": 1729,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -22442,6 +22442,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP CRITICIZES UN MEMBERS IN HOUR-LONG SPEECH 🚨\n\n- Trump voices disappointment over not securing UN renovations contract 🏗️\n- Criticizes member nations on migration policies 🌍\n- Denounces climate change as a \"con job\" 🌡️\n- Speech lasted nearly an hour 🕒\n- Trump's strong opinions on global issues highlighted 🗣️\n\nTAKEAWAY: Trump's lengthy UN speech showcases his strong opinions on global issues, including criticisms of member nations on migration and climate change denial.",
       "exported_at": "2025-09-23T19:13:30.887755",
+      "continuous_session": true
+    },
+    {
+      "title": "Stock futures are little changed after S&amp;P 500 pulls back from record highs: Live updates",
+      "link": "https://www.cnbc.com/2025/09/23/stock-market-today-live-updates.html",
+      "summary": "The S&amp;P 500 on Tuesday snapped its three-day win streak and closed in the red after it had reached a new all-time intraday high earlier in the session.",
+      "published": "Tue, 23 Sep 2025 23:32:42 GMT",
+      "content": "The S&amp;P 500 on Tuesday snapped its three-day win streak and closed in the red after it had reached a new all-time intraday high earlier in the session.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "bc5f7f388984a5c8113822c16b0ee2f5",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK FUTURES STAGNATE AS S&P 500 DIPS FROM RECORD HIGHS 📉\n\n- S&P 500 ends red after hitting new all-time intraday high 📉\n- Stock futures show minimal movement post record-high pullback 📊\n- Tuesday breaks S&P 500's three-day winning streak 📉\n- Market sees slight change following the previous session's volatility 📉\n\nTAKEAWAY: Stock futures remain stable as the S&P 500 retreats from record highs, signaling a pause in the recent bullish momentum.",
+      "exported_at": "2025-09-23T20:29:36.450586",
+      "continuous_session": true
+    },
+    {
+      "title": "Asia markets track Wall Street declines after U.S. Fed chair suggests stocks are overvalued",
+      "link": "https://www.cnbc.com/2025/09/24/asia-markets-nikkei-225-nifty-50-kospi.html",
+      "summary": "U.S. Federal Reserve Chair Jerome Powell also signaled that the rate-cutting path wasn't clear and that the central bank faces a \"challenging situation.\"",
+      "published": "Wed, 24 Sep 2025 00:10:13 GMT",
+      "content": "U.S. Federal Reserve Chair Jerome Powell also signaled that the rate-cutting path wasn't clear and that the central bank faces a \"challenging situation.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f9709b9a1668cdf13dcecaed54426183",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASIA MARKETS SLUMP AS POWELL WARNS OF OVERVALUED STOCKS 🚨\n\n- Asia markets mirror Wall Street's decline 📉\n- U.S. Fed Chair Powell warns of stock overvaluation 📉\n- Powell hints at unclear rate-cutting path 🤔\n- Federal Reserve faces a \"challenging situation\" ⚠️\n\nTAKEAWAY: Asia markets tumble as Powell's warnings of overvalued stocks and uncertain rate-cutting path create a challenging situation for the Federal Reserve.",
+      "exported_at": "2025-09-23T20:29:36.450655",
       "continuous_session": true
     }
   ]
