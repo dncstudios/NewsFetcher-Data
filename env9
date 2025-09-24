@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-24T08:46:24.823442",
-    "total_articles": 1762,
-    "new_articles_in_last_fetch": 1762,
+    "created_at": "2025-09-24T09:01:41.714393",
+    "total_articles": 1763,
+    "new_articles_in_last_fetch": 1763,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -22895,6 +22895,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WEALTH FIRM EXPANDS INTO ART AND LUXURY AIRCRAFT MARKET 🚀\n\n- Corient taps into global market trends for wealthy investors ✈️\n- Diversification strategy targets art and luxury aircraft sectors 🎨\n- Globalization opens new investment avenues for Corient clients 🌍\n- Company capitalizes on opportunities beyond traditional stocks 💰\n- Strategic move aims to cater to wealthy clients seeking luxury assets 🌟\n\nTAKEAWAY: Corient's expansion into art and luxury aircraft reflects a strategic shift to capitalize on global opportunities beyond traditional investments, catering to the affluent seeking diverse assets.",
       "exported_at": "2025-09-24T08:46:24.682635",
+      "continuous_session": true
+    },
+    {
+      "title": "The Trump administration is changing Covid, childhood vaccine recommendations – here’s what it means for you",
+      "link": "https://www.cnbc.com/2025/09/24/how-to-get-covid-mmrv-hepatitisb-vaccines.html",
+      "summary": "Several health experts say there are steps Americans can take to navigate the new guidance and try to secure the vaccines they or their children want or need.",
+      "published": "Wed, 24 Sep 2025 13:00:01 GMT",
+      "content": "Several health experts say there are steps Americans can take to navigate the new guidance and try to secure the vaccines they or their children want or need.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ae5d2c890bd1b23208d4b0d4a79cb781",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP'S SHIFT IN VACCINE RECOMMENDATIONS: WHAT YOU NEED TO KNOW 🚨\n\n- Trump administration alters Covid, childhood vaccine guidance 🩺\n- Health experts advise Americans on securing desired vaccines 💉\n- Americans urged to navigate new recommendations with care 🧐\n\nTAKEAWAY: The Trump administration's changes in Covid and childhood vaccine recommendations prompt Americans to seek guidance from health experts to secure the vaccines they need.",
+      "exported_at": "2025-09-24T09:01:41.586852",
       "continuous_session": true
     }
   ]
