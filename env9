@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-24T09:11:54.163150",
-    "total_articles": 1765,
-    "new_articles_in_last_fetch": 1765,
+    "created_at": "2025-09-24T09:22:09.525112",
+    "total_articles": 1767,
+    "new_articles_in_last_fetch": 1767,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -22934,6 +22934,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SHOOTING AT DALLAS ICE DETENTION FACILITY LEAVES MULTIPLE INJURIES AND FATALITIES 🚨\n\n- Gunman at Dallas ICE facility dies from self-inflicted gunshot 🧳\n- Noem confirms attack with reports of injuries and fatalities 💔\n- Details reveal a tragic and devastating incident in Dallas 🏢\n\nTAKEAWAY: Tragic shooting incident at Dallas ICE detention facility results in multiple injuries and fatalities, with the gunman taking his own life.",
       "exported_at": "2025-09-24T09:11:54.022476",
+      "continuous_session": true
+    },
+    {
+      "title": "Lithium Americas soars 65% as Trump administration seeks equity stake in Canadian miner",
+      "link": "https://www.cnbc.com/2025/09/24/lithium-americas-lac-equity-stake-trump-stock.html",
+      "summary": "It is the latest move by the White House to take direct ownership in the U.S. critical mineral supply chain.",
+      "published": "Wed, 24 Sep 2025 13:21:22 GMT",
+      "content": "It is the latest move by the White House to take direct ownership in the U.S. critical mineral supply chain.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "58d716e229772a11e8bf3e6222d926e2",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: LITHIUM AMERICAS SURGES 65% AS TRUMP EYES EQUITY STAKE 🚀\n\n- Trump admin aims for equity stake in Canadian miner 🇨🇦\n- White House strategy to secure US mineral supply chain ✅\n- Lithium Americas stock price skyrockets by 65% 📈\n- Move signals US interest in critical minerals sector 🔥\n- Major boost for Lithium Americas investors ⚡️\n- White House's direct ownership plans create market excitement 🚨\n\nTAKEAWAY: Trump administration's interest in an equity stake propels Lithium Americas stock by 65%, signaling a strategic move to secure the US mineral supply chain.",
+      "exported_at": "2025-09-24T09:22:09.392478",
+      "continuous_session": true
+    },
+    {
+      "title": "Two U.S. senators urge Tinder parent to act against dating scams on its apps",
+      "link": "https://www.cnbc.com/2025/09/24/two-us-senators-urge-tinder-parent-to-act-against-dating-scams-on-its-apps.html",
+      "summary": "Democratic Senator Maggie Hassan and Republican Senator Marsha Blackburn asked Match CEO Spencer Rascoff in a letter to address dating fraud across its platform.",
+      "published": "Wed, 24 Sep 2025 12:57:37 GMT",
+      "content": "Democratic Senator Maggie Hassan and Republican Senator Marsha Blackburn asked Match CEO Spencer Rascoff in a letter to address dating fraud across its platform.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "57350fdc8b209693dc1a3b3ff277a488",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: U.S. SENATORS PUSH TINDER PARENT TO TACKLE DATING SCAMS ⚠️\n\n- Senators Hassan and Blackburn call for action on dating fraud\n- Match CEO urged to address scams across platform\n- Bipartisan effort demands accountability from Match\n\nTAKEAWAY: Senators demand Match CEO to take action against dating scams, emphasizing the need for accountability and fraud prevention on Tinder's platform.",
+      "exported_at": "2025-09-24T09:22:09.392546",
       "continuous_session": true
     }
   ]
