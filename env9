@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-24T00:48:18.814896",
-    "total_articles": 1733,
-    "new_articles_in_last_fetch": 1733,
+    "created_at": "2025-09-24T01:03:36.492352",
+    "total_articles": 1734,
+    "new_articles_in_last_fetch": 1734,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -22520,6 +22520,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ALIBABA SURGES 6% ON AI SPENDING BOOST 🚀\n\n- Alibaba stock hits highest point since 2021 📈\n- CEO announces plans to increase AI spending 💸\n- Unveils new AI products to drive growth 🤖\n- Market responds positively to the news 📈\n- Shares rise over 6% on the announcement 🚀\n- Investors show confidence in Alibaba's AI strategy ✅\n\nTAKEAWAY: Alibaba's stock skyrockets as CEO's AI spending boost and new product unveilings ignite investor confidence in the company's growth potential.",
       "exported_at": "2025-09-24T00:48:18.674129",
+      "continuous_session": true
+    },
+    {
+      "title": "Sam Altman on OpenAI&apos;s $850 billion in planned buildouts: &apos;People are worried. I totally get that&apos;",
+      "link": "https://www.cnbc.com/2025/09/23/sam-altman-openais-850-billion-in-planned-buildouts-bubble-concern.html",
+      "summary": "OpenAI CEO Sam Altman announced a sweeping 17-gigawatt buildout of compute across multiple sites in partnership with Oracle, Nvidia, and SoftBank.",
+      "published": "Wed, 24 Sep 2025 04:58:12 GMT",
+      "content": "OpenAI CEO Sam Altman announced a sweeping 17-gigawatt buildout of compute across multiple sites in partnership with Oracle, Nvidia, and SoftBank.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6b949dab5d8adef65d70d221a11c1d4e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SAM ALTMAN UNVEILS OPENAI'S $850B BUILDOUT PLAN 🚀\n\n- OpenAI plans $850B compute buildout with Oracle, Nvidia, SoftBank 🌐\n- 17-gigawatt project to span multiple sites 🏗️\n- Sam Altman acknowledges public concerns about the ambitious plan 💬\n- Partnership with industry giants highlights massive scale ⚡️\n- Project set to revolutionize AI capabilities and technologies 💡\n\nTAKEAWAY: OpenAI's groundbreaking $850 billion buildout plan in collaboration with tech giants signals a major leap forward in AI capabilities, despite public apprehension.",
+      "exported_at": "2025-09-24T01:03:36.364226",
       "continuous_session": true
     }
   ]
