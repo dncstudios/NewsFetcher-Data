@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-23T22:26:13.611532",
-    "total_articles": 1730,
-    "new_articles_in_last_fetch": 1730,
+    "created_at": "2025-09-23T22:51:36.278299",
+    "total_articles": 1731,
+    "new_articles_in_last_fetch": 1731,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -22481,6 +22481,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JIMMY KIMMEL BACK IN ACTION: FANS REJOICE OUTSIDE LA STUDIO 🚀\n\n- \"Jimmy Kimmel Live!\" resumes after ABC suspension ✅\n- Fans eagerly await Kimmel's return in LA 🎉\n- Studio buzzes with excitement for Tuesday's show 🌟\n\nTAKEAWAY: Jimmy Kimmel's return to late-night TV sparks joy among fans as he resumes his show after a brief hiatus.",
       "exported_at": "2025-09-23T22:26:13.481413",
+      "continuous_session": true
+    },
+    {
+      "title": "Tether CEO confirms major capital raise at a reported $500 billion valuation",
+      "link": "https://www.cnbc.com/2025/09/23/tether-reportedly-seeks-lofty-500-billion-valuation-in-capital-raise-.html",
+      "summary": "The crypto company is looking to raise between $15 billion and $20 billion in exchange for a roughly 3% stake through a private placement, the report said.",
+      "published": "Wed, 24 Sep 2025 02:50:37 GMT",
+      "content": "The crypto company is looking to raise between $15 billion and $20 billion in exchange for a roughly 3% stake through a private placement, the report said.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f98da8547cf85277d48ec967aada6e45",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TETHER TARGETS $500 BILLION VALUATION IN CAPITAL RAISE 🚀\n\n- Tether aims for $15-20 billion with 3% stake in private placement 💰\n- Ambitious move to hit a massive $500 billion valuation 💪\n- Crypto company's bold strategy in the competitive market 🔥\n\nTAKEAWAY: Tether's bold move to seek a $500 billion valuation through a significant capital raise showcases their ambitious stance in the competitive crypto market.",
+      "exported_at": "2025-09-23T22:51:36.144132",
       "continuous_session": true
     }
   ]
