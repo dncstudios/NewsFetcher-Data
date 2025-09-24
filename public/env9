@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-24T04:26:44.210080",
-    "total_articles": 1741,
-    "new_articles_in_last_fetch": 1741,
+    "created_at": "2025-09-24T04:47:03.141624",
+    "total_articles": 1742,
+    "new_articles_in_last_fetch": 1742,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -22624,6 +22624,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ALIBABA SHARES SURGE 9% IN U.S. PREMARKET AS CEO BOOSTS AI SPENDING 🚀\n\n- Alibaba's shares soar 9% in U.S. premarket trading 📈\n- CEO Eddie Wu unveils plans to ramp up AI spending 💸\n- Focus on AI models and infrastructure development 🔍\n- Market reacts positively to Alibaba's strategic move 🎯\n- Increased AI investment signals long-term growth vision 🌱\n- CEO's announcement boosts investor confidence 📈\n\nTAKEAWAY: Alibaba's ambitious increase in AI spending under CEO Eddie Wu's leadership propels its shares up by 9% in U.S. premarket trading, reflecting market optimism and confidence in the company's future growth prospects.",
       "exported_at": "2025-09-24T04:26:44.078457",
+      "continuous_session": true
+    },
+    {
+      "title": "European defense stocks rally after Trump comments on Ukraine; Saab adds 5%",
+      "link": "https://www.cnbc.com/2025/09/24/europe-markets-sept-24-ftse-100-stoxx-600-trump-shifts-on-ukraine.html",
+      "summary": "European shares edged lower on Wednesday.",
+      "published": "Wed, 24 Sep 2025 08:46:47 GMT",
+      "content": "European shares edged lower on Wednesday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e91a4f600f9e23f56e6683b103a48316",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "exported_at": "2025-09-24T04:47:03.025954",
       "continuous_session": true
     }
   ]
