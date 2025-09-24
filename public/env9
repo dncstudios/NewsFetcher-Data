@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-24T06:03:19.121313",
-    "total_articles": 1745,
-    "new_articles_in_last_fetch": 1745,
+    "created_at": "2025-09-24T06:08:29.704434",
+    "total_articles": 1747,
+    "new_articles_in_last_fetch": 1747,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -22675,6 +22675,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NFL TO SPEED UP TV RIGHTS RENEGOTIATIONS 🚀\n\n- NFL aims to begin TV rights renegotiations sooner 📺\n- Agreement required from media partners like Disney, Fox 🤝\n- Commissioner Goodell pushes for accelerated talks ⚡️\n\nTAKEAWAY: NFL plans to fast-track TV rights renegotiations with major partners like Disney and Fox, aiming for earlier discussions under Commissioner Goodell's guidance.",
       "exported_at": "2025-09-24T06:03:18.994336",
+      "continuous_session": true
+    },
+    {
+      "title": "S&amp;P 500 futures rise after a losing session on Wall Street: Live updates",
+      "link": "https://www.cnbc.com/2025/09/23/stock-market-today-live-updates.html",
+      "summary": "The S&amp;P 500 on Tuesday snapped its three-day win streak and closed in the red after it had reached a new all-time intraday high earlier in the session.",
+      "published": "Wed, 24 Sep 2025 10:07:33 GMT",
+      "content": "The S&amp;P 500 on Tuesday snapped its three-day win streak and closed in the red after it had reached a new all-time intraday high earlier in the session.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ecbb7979139f4c3a29e94a2bfd8f4dd4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK FUTURES STAGNATE AS S&P 500 DIPS FROM RECORD HIGHS 📉\n\n- S&P 500 ends red after hitting new all-time intraday high 📉\n- Stock futures show minimal movement post record-high pullback 📊\n- Tuesday breaks S&P 500's three-day winning streak 📉\n- Market sees slight change following the previous session's volatility 📉\n\nTAKEAWAY: Stock futures remain stable as the S&P 500 retreats from record highs, signaling a pause in the recent bullish momentum.",
+      "exported_at": "2025-09-24T06:08:29.571000",
+      "continuous_session": true
+    },
+    {
+      "title": "Defense stocks rally as Trump, in a major shift, says Ukraine can win back territory from Russia",
+      "link": "https://www.cnbc.com/2025/09/24/defense-stocks-rally-as-trump-says-kyiv-can-win-back-all-of-ukraine.html",
+      "summary": "Ukrainian President Volodymyr Zelenskyy has welcomed U.S. President Donald Trump's latest comments.",
+      "published": "Wed, 24 Sep 2025 10:00:16 GMT",
+      "content": "Ukrainian President Volodymyr Zelenskyy has welcomed U.S. President Donald Trump's latest comments.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c8331fc347a7e9fdc2903b8d7628e3a9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DEFENSE STOCKS SURGE AS TRUMP BACKS UKRAINE'S TERRITORIAL CLAIMS 🚀\n\n- Trump's unexpected support boosts defense industry confidence 📈\n- Market reacts positively to potential increase in defense spending 💰\n- Zelenskyy praises Trump's shift in stance towards Ukraine 🇺🇦\n- Investors eye opportunities in defense sector amid geopolitical tensions 🌍\n- Defense stocks rally on hopes for Ukraine reclaiming territory from Russia 🚀\n\nTAKEAWAY: Trump's backing of Ukraine's territorial claims fuels a surge in defense stocks, signaling increased market confidence and potential growth opportunities in the sector.",
+      "exported_at": "2025-09-24T06:08:29.571074",
       "continuous_session": true
     }
   ]
