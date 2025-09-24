@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-24T03:35:55.270742",
-    "total_articles": 1739,
-    "new_articles_in_last_fetch": 1739,
+    "created_at": "2025-09-24T04:11:26.201021",
+    "total_articles": 1740,
+    "new_articles_in_last_fetch": 1740,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -22598,6 +22598,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: EUROPEAN STOCKS DIP AS POWELL DEEMS MARKET 'HIGHLY VALUED' 📉\n\n- European shares to open lower following Powell's assessment 💼\n- Powell warns of overvalued equities, impacting market sentiment ⚠️\n- Investors brace for potential downturn in European stock prices 📉\n\nTAKEAWAY: Powell's caution on high market valuations leads to a bearish start for European stocks as investors prepare for potential losses.",
       "exported_at": "2025-09-24T03:35:55.140311",
+      "continuous_session": true
+    },
+    {
+      "title": "Asia markets mixed amid Wall Street declines after U.S. Fed chair suggests stocks are overvalued",
+      "link": "https://www.cnbc.com/2025/09/24/asia-markets-nikkei-225-nifty-50-kospi.html",
+      "summary": "U.S. Federal Reserve Chair Jerome Powell also signaled that the rate-cutting path wasn't clear and that the central bank faces a \"challenging situation.\"",
+      "published": "Wed, 24 Sep 2025 08:06:41 GMT",
+      "content": "U.S. Federal Reserve Chair Jerome Powell also signaled that the rate-cutting path wasn't clear and that the central bank faces a \"challenging situation.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4c6c5fb2fabb7f45f207ac3b72a4d95e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASIA MARKETS SLUMP AS POWELL WARNS OF OVERVALUED STOCKS 🚨\n\n- Asia markets mirror Wall Street's decline 📉\n- U.S. Fed Chair Powell warns of stock overvaluation 📉\n- Powell hints at unclear rate-cutting path 🤔\n- Federal Reserve faces a \"challenging situation\" ⚠️\n\nTAKEAWAY: Asia markets tumble as Powell's warnings of overvalued stocks and uncertain rate-cutting path create a challenging situation for the Federal Reserve.",
+      "exported_at": "2025-09-24T04:11:26.071277",
       "continuous_session": true
     }
   ]
