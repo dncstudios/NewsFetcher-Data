@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-24T02:35:04.618402",
-    "total_articles": 1738,
-    "new_articles_in_last_fetch": 1738,
+    "created_at": "2025-09-24T03:35:55.270742",
+    "total_articles": 1739,
+    "new_articles_in_last_fetch": 1739,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -22585,6 +22585,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: EUROPEAN STOCKS DIP AS POWELL DEEMS MARKET 'HIGHLY VALUED' 📉\n\n- European shares to open lower following Powell's assessment 💼\n- Powell warns of overvalued equities, impacting market sentiment ⚠️\n- Investors brace for potential downturn in European stock prices 📉\n\nTAKEAWAY: Powell's caution on high market valuations leads to a bearish start for European stocks as investors prepare for potential losses.",
       "exported_at": "2025-09-24T02:35:04.480630",
+      "continuous_session": true
+    },
+    {
+      "title": "European defense stocks rally after Trump comments on Ukraine; Saab adds 5%",
+      "link": "https://www.cnbc.com/2025/09/24/europe-markets-sept-24-ftse-100-stoxx-600-trump-shifts-on-ukraine.html",
+      "summary": "European shares are poised to open lower on Wednesday.",
+      "published": "Wed, 24 Sep 2025 07:31:52 GMT",
+      "content": "European shares are poised to open lower on Wednesday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5a9a6630bf364a54c849fcb605eb5dfd",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: EUROPEAN STOCKS DIP AS POWELL DEEMS MARKET 'HIGHLY VALUED' 📉\n\n- European shares to open lower following Powell's assessment 💼\n- Powell warns of overvalued equities, impacting market sentiment ⚠️\n- Investors brace for potential downturn in European stock prices 📉\n\nTAKEAWAY: Powell's caution on high market valuations leads to a bearish start for European stocks as investors prepare for potential losses.",
+      "exported_at": "2025-09-24T03:35:55.140311",
       "continuous_session": true
     }
   ]
