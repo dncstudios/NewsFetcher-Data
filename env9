@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-24T08:41:12.829948",
-    "total_articles": 1760,
-    "new_articles_in_last_fetch": 1760,
+    "created_at": "2025-09-24T08:46:24.823442",
+    "total_articles": 1762,
+    "new_articles_in_last_fetch": 1762,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -22869,6 +22869,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: LUXURY BRANDS EMBRACE LABUBU FOR YOUNGER SHOPPERS 🚀\n\n- Moynat launches $2,500 handbags featuring Labubus 🎨\n- Character collaborations boost Omega and Jimmy Choo sales 📈\n- Luxury brands tap into younger market with Labubu charm ✨\n\nTAKEAWAY: Labubu's charm proves lucrative as luxury brands like Moynat, Omega, and Jimmy Choo embrace character collaborations to attract younger shoppers, boosting sales.",
       "exported_at": "2025-09-24T08:41:12.691370",
+      "continuous_session": true
+    },
+    {
+      "title": "Asking one key question can help you to know who to trust with financial advice",
+      "link": "https://www.cnbc.com/2025/09/24/fiduciary-standard-helps-you-to-know-who-to-trust-with-money-advice.html",
+      "summary": "Wondering about what kind of professional you can trust with financial advice? Finding one that is a fiduciary is a good first step, experts say.",
+      "published": "Wed, 24 Sep 2025 12:40:21 GMT",
+      "content": "Wondering about what kind of professional you can trust with financial advice? Finding one that is a fiduciary is a good first step, experts say.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "24016ef06bcacd73946c668041439682",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASK THIS KEY QUESTION TO FIND TRUSTWORTHY FINANCIAL ADVISORS 🔍\n\n- Look for financial advisors who are fiduciaries 💼\n- Fiduciaries are legally bound to act in clients' best interest ✅\n- Trustworthy advisors prioritize your financial well-being 🌟\n\nTAKEAWAY: Identifying fiduciary financial advisors is crucial as they are legally obligated to prioritize clients' best interests, ensuring trustworthy guidance.",
+      "exported_at": "2025-09-24T08:46:24.682561",
+      "continuous_session": true
+    },
+    {
+      "title": "Not just stocks anymore. Wealth firm caters to global rich with art and luxury aircraft",
+      "link": "https://www.cnbc.com/2025/09/24/not-just-stocks-anymore-wealth-firm-caters-to-global-rich-with-art-and-luxury-aircraft-.html",
+      "summary": "Corient says globalization creates more opportunities for investors.",
+      "published": "Wed, 24 Sep 2025 12:43:54 GMT",
+      "content": "Corient says globalization creates more opportunities for investors.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "546e74a103c2a7a9729a4b02fe250de9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WEALTH FIRM EXPANDS INTO ART AND LUXURY AIRCRAFT MARKET 🚀\n\n- Corient taps into global market trends for wealthy investors ✈️\n- Diversification strategy targets art and luxury aircraft sectors 🎨\n- Globalization opens new investment avenues for Corient clients 🌍\n- Company capitalizes on opportunities beyond traditional stocks 💰\n- Strategic move aims to cater to wealthy clients seeking luxury assets 🌟\n\nTAKEAWAY: Corient's expansion into art and luxury aircraft reflects a strategic shift to capitalize on global opportunities beyond traditional investments, catering to the affluent seeking diverse assets.",
+      "exported_at": "2025-09-24T08:46:24.682635",
       "continuous_session": true
     }
   ]
