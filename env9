@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-23T22:51:36.278299",
-    "total_articles": 1731,
-    "new_articles_in_last_fetch": 1731,
+    "created_at": "2025-09-23T23:47:25.596245",
+    "total_articles": 1732,
+    "new_articles_in_last_fetch": 1732,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -22494,6 +22494,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TETHER TARGETS $500 BILLION VALUATION IN CAPITAL RAISE 🚀\n\n- Tether aims for $15-20 billion with 3% stake in private placement 💰\n- Ambitious move to hit a massive $500 billion valuation 💪\n- Crypto company's bold strategy in the competitive market 🔥\n\nTAKEAWAY: Tether's bold move to seek a $500 billion valuation through a significant capital raise showcases their ambitious stance in the competitive crypto market.",
       "exported_at": "2025-09-23T22:51:36.144132",
+      "continuous_session": true
+    },
+    {
+      "title": "Jimmy Kimmel returns after ABC suspension: &apos;Never my intention to make light&apos; of Charlie Kirk&apos;s murder",
+      "link": "https://www.cnbc.com/2025/09/23/jimmy-kimmel-returns-abc-disney-kirk.html",
+      "summary": "\"Jimmy Kimmel Live!\" returned to air Tuesday night, roughly one week after the late night show was suspended by Disney's ABC broadcast network.",
+      "published": "Wed, 24 Sep 2025 03:46:13 GMT",
+      "content": "\"Jimmy Kimmel Live!\" returned to air Tuesday night, roughly one week after the late night show was suspended by Disney's ABC broadcast network.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c09a078ffbb4eeb72f2d38768764f925",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JIMMY KIMMEL RETURNS STRONG AFTER ABC SUSPENSION 🚀\n\n- \"Jimmy Kimmel Live!\" back on air after ABC suspension ✨\n- Show suspended by Disney's ABC network for about a week ⏳\n\nTAKEAWAY: Jimmy Kimmel bounces back on \"Jimmy Kimmel Live!\" after ABC suspension, addressing seriousness and moving forward with strength.",
+      "exported_at": "2025-09-23T23:47:25.460005",
       "continuous_session": true
     }
   ]
