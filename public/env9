@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-24T04:11:26.201021",
-    "total_articles": 1740,
-    "new_articles_in_last_fetch": 1740,
+    "created_at": "2025-09-24T04:26:44.210080",
+    "total_articles": 1741,
+    "new_articles_in_last_fetch": 1741,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -22611,6 +22611,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ASIA MARKETS SLUMP AS POWELL WARNS OF OVERVALUED STOCKS 🚨\n\n- Asia markets mirror Wall Street's decline 📉\n- U.S. Fed Chair Powell warns of stock overvaluation 📉\n- Powell hints at unclear rate-cutting path 🤔\n- Federal Reserve faces a \"challenging situation\" ⚠️\n\nTAKEAWAY: Asia markets tumble as Powell's warnings of overvalued stocks and uncertain rate-cutting path create a challenging situation for the Federal Reserve.",
       "exported_at": "2025-09-24T04:11:26.071277",
+      "continuous_session": true
+    },
+    {
+      "title": "Alibaba shares jump 9% in U.S. premarket after CEO unveils plans to boost AI spending",
+      "link": "https://www.cnbc.com/2025/09/24/alibaba-shares-rise-over-6percent-after-ceo-unveils-new-ai-products-and-spending-plans.html",
+      "summary": "Alibaba plans to increase spending on AI models and infrastructure development even further, Chief Executive Officer Eddie Wu said Wednesday.",
+      "published": "Wed, 24 Sep 2025 08:22:12 GMT",
+      "content": "Alibaba plans to increase spending on AI models and infrastructure development even further, Chief Executive Officer Eddie Wu said Wednesday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a08c4145d0d25f7a753da72925918de9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ALIBABA SHARES SURGE 9% IN U.S. PREMARKET AS CEO BOOSTS AI SPENDING 🚀\n\n- Alibaba's shares soar 9% in U.S. premarket trading 📈\n- CEO Eddie Wu unveils plans to ramp up AI spending 💸\n- Focus on AI models and infrastructure development 🔍\n- Market reacts positively to Alibaba's strategic move 🎯\n- Increased AI investment signals long-term growth vision 🌱\n- CEO's announcement boosts investor confidence 📈\n\nTAKEAWAY: Alibaba's ambitious increase in AI spending under CEO Eddie Wu's leadership propels its shares up by 9% in U.S. premarket trading, reflecting market optimism and confidence in the company's future growth prospects.",
+      "exported_at": "2025-09-24T04:26:44.078457",
       "continuous_session": true
     }
   ]
