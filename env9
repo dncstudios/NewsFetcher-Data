@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-25T12:46:17.427505",
-    "total_articles": 1805,
-    "new_articles_in_last_fetch": 1805,
+    "created_at": "2025-09-25T12:51:28.468263",
+    "total_articles": 1807,
+    "new_articles_in_last_fetch": 1807,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -23454,6 +23454,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: KEN GRIFFIN SLAMS TRUMP'S CORPORATE DEALS, WARNS AGAINST GOVERNMENT INTERVENTION 🚨\n\n- Griffin criticizes government favoring big firms over fair competition 🛑\n- Warns against picking winners, emphasizes American values 🇺🇸\n- Stresses importance of equal opportunities for all companies 💪\n\nTAKEAWAY: Ken Griffin's strong stance against government favoritism towards large corporations highlights the importance of fair competition and equal opportunities in the business world.",
       "exported_at": "2025-09-25T12:46:17.286848",
+      "continuous_session": true
+    },
+    {
+      "title": "New car sales get surprising boost, for now, as consumers fear tariffs and higher prices",
+      "link": "https://www.cnbc.com/2025/09/25/new-car-sales-see-boost-as-consumers-fear-tariffs-higher-prices.html",
+      "summary": "Cox raised its 2025 new vehicle U.S. sales forecast from a range of 15.6 million to 15.7 million to 16.1 million due to stronger-than-expected demand this year.",
+      "published": "Thu, 25 Sep 2025 16:43:09 GMT",
+      "content": "Cox raised its 2025 new vehicle U.S. sales forecast from a range of 15.6 million to 15.7 million to 16.1 million due to stronger-than-expected demand this year.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1f5b331f3b97c40ef65cf553f0e29668",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SURPRISING BOOST IN NEW CAR SALES AS CONSUMERS FEAR TARIFFS 🚀\n\n- Cox increases 2025 U.S. new vehicle sales forecast to 16.1 million 📈\n- Stronger demand in current year drives the unexpected boost 💥\n- Consumers rush to buy cars amid fears of tariffs and price hikes 🔥\n- Previous forecast ranged from 15.6 million to 15.7 million 📊\n\nTAKEAWAY: Fear of tariffs and higher prices drives a surprising surge in new car sales, prompting an upward revision in sales forecasts by Cox. 🌟",
+      "exported_at": "2025-09-25T12:51:28.321361",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves midday: Mirion Technologies, Freeport-McMoRan, CarMax &amp; more",
+      "link": "https://www.cnbc.com/2025/09/25/stocks-making-the-biggest-moves-midday-mir-fcx-kmx.html",
+      "summary": "These are the stocks posting the largest moves midday.",
+      "published": "Thu, 25 Sep 2025 16:38:37 GMT",
+      "content": "These are the stocks posting the largest moves midday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d8ca6f437a692cf400b8b8be25ab3d82",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS MAKING MIDDAY MOVES: MIRION, FREEPORT-MCMORAN, CARMAX 🚀\n\n- Mirion Technologies, Freeport-McMoRan, CarMax among top movers 📈\n- Market sees significant shifts in midday trading 🔄\n- Investors closely watching these key stocks 🧐\n\nTAKEAWAY: Mirion Technologies, Freeport-McMoRan, and CarMax are among the top movers in midday trading, attracting investors' attention with significant shifts.",
+      "exported_at": "2025-09-25T12:51:28.321463",
       "continuous_session": true
     }
   ]
