@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-25T19:29:00.665630",
-    "total_articles": 1847,
-    "new_articles_in_last_fetch": 1847,
+    "created_at": "2025-09-25T19:39:13.029898",
+    "total_articles": 1848,
+    "new_articles_in_last_fetch": 1848,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -24000,6 +24000,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FRIDAY'S BIG STOCK STORIES: WHAT'S NEXT FOR THE MARKET? 📈\n\n- Stocks see third consecutive day of losses 📉\n- AI-related stocks like Oracle remain under pressure 🔍\n- Market awaits key inflation data on Friday 📊\n\nTAKEAWAY: Losses continue in the stock market, with a focus on AI-related stocks like Oracle, as investors anticipate the impact of upcoming inflation data.",
       "exported_at": "2025-09-25T19:29:00.538868",
+      "continuous_session": true
+    },
+    {
+      "title": "Former FBI Director James Comey indicted on obstruction, false statement charges",
+      "link": "https://www.cnbc.com/2025/09/25/james-comey-indicted-fbi-trump.html",
+      "summary": "President Donald Trump gloated about the filing of criminal charges against James Comey, whom he fired as FBI director in 2017, in his first White House term.",
+      "published": "Thu, 25 Sep 2025 23:38:05 GMT",
+      "content": "President Donald Trump gloated about the filing of criminal charges against James Comey, whom he fired as FBI director in 2017, in his first White House term.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f200641617743756e89d6a6a9e78712f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FORMER FBI DIRECTOR JAMES COMEY INDICTED ON CHARGES 🚨\n\n- James Comey faces obstruction, false statement charges 💼\n- President Trump celebrates criminal charges against Comey 🎉\n- Trump fired Comey during his first term as FBI director 🔥\n\nTAKEAWAY: Former FBI Director James Comey indicted on charges, sparking reactions from President Trump and stirring up controversy.",
+      "exported_at": "2025-09-25T19:39:12.884131",
       "continuous_session": true
     }
   ]
