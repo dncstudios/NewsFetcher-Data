@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-25T12:15:39.898782",
-    "total_articles": 1803,
-    "new_articles_in_last_fetch": 1803,
+    "created_at": "2025-09-25T12:36:00.687585",
+    "total_articles": 1804,
+    "new_articles_in_last_fetch": 1804,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -23428,6 +23428,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: MICROSOFT HALTS CLOUD SERVICES TO ISRAELI MILITARY UNIT 🚫\n\n- Microsoft stops cloud services after Palestinian phone call reports 📞\n- Employees fired for protesting Israeli military cloud service use 🔥\n- Decision follows internal controversy and external pressure ⚠️\n\nTAKEAWAY: Microsoft's bold move to cut off cloud services to an Israeli military unit demonstrates its commitment to ethical considerations and responding to internal dissent.",
       "exported_at": "2025-09-25T12:15:39.759193",
+      "continuous_session": true
+    },
+    {
+      "title": "Ken Griffin say more tariff impact on inflation is still ahead, Fed should be independent",
+      "link": "https://www.cnbc.com/2025/09/25/ken-griffin-say-more-tariff-impact-on-inflation-is-still-ahead-fed-should-be-independent.html",
+      "summary": "Ken Griffin said only about half of the inflationary impact from Trump's wide-spreading levies on U.S. trading partners has passed through the economy.",
+      "published": "Thu, 25 Sep 2025 16:30:53 GMT",
+      "content": "Ken Griffin said only about half of the inflationary impact from Trump's wide-spreading levies on U.S. trading partners has passed through the economy.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c61bd75b40377d6e499f84ad5fe01595",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: KEN GRIFFIN WARNS OF FUTURE TARIFF IMPACT ON INFLATION ⚠️\n\n- Griffin: Half of inflation from Trump's tariffs yet to hit 📈\n- Calls for Fed independence to navigate upcoming challenges 🏛️\n- Warns of lingering effects of wide-spreading levies on economy 💼\n\nTAKEAWAY: Ken Griffin predicts further inflationary impact from Trump's tariffs, emphasizing the need for Fed independence to address upcoming economic challenges.",
+      "exported_at": "2025-09-25T12:36:00.544775",
       "continuous_session": true
     }
   ]
