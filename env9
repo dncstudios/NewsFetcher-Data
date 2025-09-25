@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-25T12:10:31.292725",
-    "total_articles": 1802,
-    "new_articles_in_last_fetch": 1802,
+    "created_at": "2025-09-25T12:15:39.898782",
+    "total_articles": 1803,
+    "new_articles_in_last_fetch": 1803,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -23415,6 +23415,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: THIS OIL REFINER'S BEST STOCK SEES INSIDER BUYING AND POTENTIAL BREAKOUT 🚀\n\n- Insider buying signals confidence in refining giant's future 📈\n- Josh Brown and Sean Russo analyze the company's potential 🧐\n- Market anticipates a possible breakout for the oil refiner 🛢️\n\nTAKEAWAY: Insider buying in this top oil refiner's stock hints at a bright future and potential breakout, attracting market attention.",
       "exported_at": "2025-09-25T12:10:31.190728",
+      "continuous_session": true
+    },
+    {
+      "title": "Microsoft cuts off cloud services to Israeli military unit after report of storing Palestinians&apos; phone calls",
+      "link": "https://www.cnbc.com/2025/09/25/microsoft-cuts-cloud-services-to-israeli-military-after-investigation.html",
+      "summary": "The decision comes after Microsoft fired employees for participating in protests over the use of its cloud services by the Israeli military.",
+      "published": "Thu, 25 Sep 2025 16:13:15 GMT",
+      "content": "The decision comes after Microsoft fired employees for participating in protests over the use of its cloud services by the Israeli military.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8d092bcb8c91760c2834fd2f7d85576d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MICROSOFT HALTS CLOUD SERVICES TO ISRAELI MILITARY UNIT 🚫\n\n- Microsoft stops cloud services after Palestinian phone call reports 📞\n- Employees fired for protesting Israeli military cloud service use 🔥\n- Decision follows internal controversy and external pressure ⚠️\n\nTAKEAWAY: Microsoft's bold move to cut off cloud services to an Israeli military unit demonstrates its commitment to ethical considerations and responding to internal dissent.",
+      "exported_at": "2025-09-25T12:15:39.759193",
       "continuous_session": true
     }
   ]
