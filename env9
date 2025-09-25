@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-25T12:05:22.482359",
-    "total_articles": 1801,
-    "new_articles_in_last_fetch": 1801,
+    "created_at": "2025-09-25T12:10:31.292725",
+    "total_articles": 1802,
+    "new_articles_in_last_fetch": 1802,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -23402,6 +23402,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: DEMOCRATS DOUBLE DOWN ON HEALTH CARE DEMANDS AS GOVERNMENT SHUTDOWN LOOMS ⚠️\n\n- Democrats demand funding legislation to extend ACA's expiring tax credits 🏥\n- ACA's enhanced tax credits set to expire this year 🔒\n- Government shutdown imminent if demands not met 🚨\n\nTAKEAWAY: Democratic leaders push for extending ACA's tax credits, intensifying the showdown with government funding legislation as the deadline nears.",
       "exported_at": "2025-09-25T12:05:22.341535",
+      "continuous_session": true
+    },
+    {
+      "title": "This oil refiner Best Stock is seeing insider buying and could break out",
+      "link": "https://www.cnbc.com/2025/09/25/this-oil-refiner-best-stock-is-seeing-insider-buying-and-could-break-out.html",
+      "summary": "Josh Brown and Sean Russo break down this refining giant.",
+      "published": "Thu, 25 Sep 2025 16:05:33 GMT",
+      "content": "Josh Brown and Sean Russo break down this refining giant.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "af251586cfea64d4ce3e7246d6920a06",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: THIS OIL REFINER'S BEST STOCK SEES INSIDER BUYING AND POTENTIAL BREAKOUT 🚀\n\n- Insider buying signals confidence in refining giant's future 📈\n- Josh Brown and Sean Russo analyze the company's potential 🧐\n- Market anticipates a possible breakout for the oil refiner 🛢️\n\nTAKEAWAY: Insider buying in this top oil refiner's stock hints at a bright future and potential breakout, attracting market attention.",
+      "exported_at": "2025-09-25T12:10:31.190728",
       "continuous_session": true
     }
   ]
