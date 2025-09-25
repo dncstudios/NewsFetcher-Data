@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-25T15:34:51.158760",
-    "total_articles": 1828,
-    "new_articles_in_last_fetch": 1828,
+    "created_at": "2025-09-25T15:45:04.618782",
+    "total_articles": 1829,
+    "new_articles_in_last_fetch": 1829,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -23753,6 +23753,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: QUANTUM COMPUTING: $4 BILLION MARKET IN 5 YEARS, BOFA PREDICTS 🚀\n\n- BofA forecasts quantum computing to hit $4 billion market in 5 years 📈\n- Analyst spotlights pure-play quantum firms and tech giants in the field 🌐\n- Notable players include Big Tech honing in on quantum aspects 💡\n\nTAKEAWAY: BofA's $4 billion quantum computing market prediction fuels excitement as tech giants and pure-play firms dominate the field's evolution.",
       "exported_at": "2025-09-25T15:34:51.019813",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump would &apos;eviscerate&apos; Fed independence with Lisa Cook firing, lawyers tell Supreme Court",
+      "link": "https://www.cnbc.com/2025/09/25/federal-reserve-lisa-cook-trump-scotus.html",
+      "summary": "President Trump has asked the Supreme Court to lift a lower court order blocking him from removing Lisa Cook from the Federal Reserve Board of Governors.",
+      "published": "Thu, 25 Sep 2025 19:41:06 GMT",
+      "content": "President Trump has asked the Supreme Court to lift a lower court order blocking him from removing Lisa Cook from the Federal Reserve Board of Governors.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "053b71767bf8ff71324f5c60fe2d5d57",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP PUSHES TO OUST FED MEMBER DESPITE LEGAL BARRIERS ⚠️\n\n- Trump seeks Supreme Court approval to remove Lisa Cook from Fed\n- Lower court order currently prevents Lisa Cook's removal\n- Legal experts warn of threat to Fed's independence\n- Lisa Cook's firing could jeopardize Fed's autonomy\n- Supreme Court decision crucial for Fed's independence\n- Trump's move raises concerns about political interference\n\nTAKEAWAY: Trump's attempt to remove Lisa Cook from the Federal Reserve Board jeopardizes the institution's independence, sparking legal and political concerns.",
+      "exported_at": "2025-09-25T15:45:04.477782",
       "continuous_session": true
     }
   ]
