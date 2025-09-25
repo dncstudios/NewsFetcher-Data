@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-25T12:51:28.468263",
-    "total_articles": 1807,
-    "new_articles_in_last_fetch": 1807,
+    "created_at": "2025-09-25T13:01:42.866965",
+    "total_articles": 1809,
+    "new_articles_in_last_fetch": 1809,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -23480,6 +23480,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCKS MAKING MIDDAY MOVES: MIRION, FREEPORT-MCMORAN, CARMAX 🚀\n\n- Mirion Technologies, Freeport-McMoRan, CarMax among top movers 📈\n- Market sees significant shifts in midday trading 🔄\n- Investors closely watching these key stocks 🧐\n\nTAKEAWAY: Mirion Technologies, Freeport-McMoRan, and CarMax are among the top movers in midday trading, attracting investors' attention with significant shifts.",
       "exported_at": "2025-09-25T12:51:28.321463",
+      "continuous_session": true
+    },
+    {
+      "title": "Citadel&apos;s Griffin says Apple should not be exempted from tariffs only because it&apos;s &apos;connected&apos;",
+      "link": "https://www.cnbc.com/2025/09/25/citadels-griffin-says-apple-should-not-be-exempted-from-tariffs-only-because-its-connected.html",
+      "summary": "Citadel Founder and CEO Ken Griffin said on Thursday that megacap technology name Apple shouldn't receive any exemption from President Donald Trump's tariffs.",
+      "published": "Thu, 25 Sep 2025 16:58:49 GMT",
+      "content": "Citadel Founder and CEO Ken Griffin said on Thursday that megacap technology name Apple shouldn't receive any exemption from President Donald Trump's tariffs.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1f9226264e11fd1768685e83468ed21f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CITADEL'S GRIFFIN CRITICIZES APPLE'S TARIFF EXEMPTION REQUEST ⚠️\n\n- Citadel CEO opposes Apple's tariff exemption plea 🍏\n- Ken Griffin argues against special treatment for Apple 🚫\n- Trump's tariffs should apply to all, says Griffin 💡\n\nTAKEAWAY: Citadel's Ken Griffin challenges Apple's request for tariff exemptions, advocating for fair treatment under Trump's trade policies.",
+      "exported_at": "2025-09-25T13:01:42.725082",
+      "continuous_session": true
+    },
+    {
+      "title": "The Fed rate cut is not working. Here&apos;s why, and what to do as a stock investor",
+      "link": "https://www.cnbc.com/2025/09/25/the-fed-rate-cut-is-not-working-heres-why-and-what-to-do-as-a-stock-investor.html",
+      "summary": "Another Fed rate cut, another ... rise in interest rates?",
+      "published": "Thu, 25 Sep 2025 16:59:53 GMT",
+      "content": "Another Fed rate cut, another ... rise in interest rates?",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4a7179ca766dbd74e2658fab82d64ea5",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: THE FED RATE CUT BACKFIRES: WHY & WHAT INVESTORS SHOULD DO 🚨\n\n- Fed rate cut results in unexpected rise in interest rates 📈\n- Investors puzzled by lack of desired effect on market 🤔\n- Uncertainty looms over Fed's future monetary policies ⚠️\n\nTAKEAWAY: The recent Fed rate cut has left investors puzzled as interest rates unexpectedly rise, signaling uncertainty in future monetary policies.",
+      "exported_at": "2025-09-25T13:01:42.725151",
       "continuous_session": true
     }
   ]
