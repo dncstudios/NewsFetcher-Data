@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-25T18:17:49.220497",
-    "total_articles": 1841,
-    "new_articles_in_last_fetch": 1841,
+    "created_at": "2025-09-25T18:58:23.930142",
+    "total_articles": 1842,
+    "new_articles_in_last_fetch": 1842,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -23922,6 +23922,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: COSTCO SHINES WITH EARNINGS BEAT AS YOUNGER DEMOGRAPHIC FLOCKS IN 🚀\n\n- Costco surpasses earnings and revenue estimates 📈\n- Younger members attracted by improved products and digital services 💻\n- Strong performance attributed to winning over new demographic segment ✨\n\nTAKEAWAY: Costco's success in exceeding expectations is fueled by its appeal to younger customers through enhanced products and digital offerings, driving growth.",
       "exported_at": "2025-09-25T18:17:49.091606",
+      "continuous_session": true
+    },
+    {
+      "title": "Former FBI Director James Comey indicted",
+      "link": "https://www.cnbc.com/2025/09/25/james-comey-indicted-fbi-trump.html",
+      "summary": "\"No one is above the law,\" Attorney General Pam Bondi wrote in a post on X as news of the indictment of James Comey broke.",
+      "published": "Thu, 25 Sep 2025 22:57:22 GMT",
+      "content": "\"No one is above the law,\" Attorney General Pam Bondi wrote in a post on X as news of the indictment of James Comey broke.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1dc110be3e6673d3b71ea306facfe311",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FORMER FBI DIRECTOR JAMES COMEY INDICTED ⚠️\n\n- Ex-FBI Director James Comey indicted, facing legal action ⚖️\n- Attorney General Pam Bondi emphasizes justice for all 🏛️\n- \"No one is above the law,\" Bondi asserts in response to news 💪\n\nTAKEAWAY: Former FBI Director James Comey faces indictment, highlighting the principle that no one is exempt from the law.",
+      "exported_at": "2025-09-25T18:58:23.803057",
       "continuous_session": true
     }
   ]
