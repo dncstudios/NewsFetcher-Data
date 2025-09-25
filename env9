@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-25T15:09:14.198741",
-    "total_articles": 1825,
-    "new_articles_in_last_fetch": 1825,
+    "created_at": "2025-09-25T15:14:24.168309",
+    "total_articles": 1826,
+    "new_articles_in_last_fetch": 1826,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -23714,6 +23714,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: PROFIT-TAKING HITS AI TRADE AGAIN, INSTAGRAM HITS 3 BILLION USERS 🚀\n\n- AI trade sees profit-taking pressure 📉\n- Instagram's monthly users soar to 3 billion 📈\n- Investing Club's Homestretch offers timely updates ⏰\n\nTAKEAWAY: Profit-taking impacts AI trade while Instagram's user growth hits a milestone, as Investing Club's Homestretch provides crucial trading insights.",
       "exported_at": "2025-09-25T15:09:14.038827",
+      "continuous_session": true
+    },
+    {
+      "title": "Dallas ICE shooter searched &apos;Charlie Kirk Shot Video&apos; before attack: FBI",
+      "link": "https://www.cnbc.com/2025/09/25/dallas-ice-shooter-charlie-kirk-fbi.html",
+      "summary": "ICE shooting gunman Joshua Jahn's search for video about Charlie Kirk, the recently assassinated conservative activist, adds to the evidence about his motive.",
+      "published": "Thu, 25 Sep 2025 19:08:52 GMT",
+      "content": "ICE shooting gunman Joshua Jahn's search for video about Charlie Kirk, the recently assassinated conservative activist, adds to the evidence about his motive.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d3791af6d04535db7a9b158eed5f0402",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DALLAS ICE SHOOTER LINKED TO CHARLIE KIRK VIDEO SEARCH 🚨\n\n- Gunman searched 'Charlie Kirk Shot Video' before ICE attack 🔍\n- FBI finds evidence linking shooter to conservative activist's assassination 🕵️‍♂️\n- Search adds to mounting evidence on shooter's motive 💡\n\nTAKEAWAY: The FBI's discovery of the ICE shooter's search history linking him to the recently assassinated activist Charlie Kirk sheds light on his possible motive.",
+      "exported_at": "2025-09-25T15:14:24.026922",
       "continuous_session": true
     }
   ]
