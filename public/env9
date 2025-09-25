@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-25T16:46:10.827026",
-    "total_articles": 1835,
-    "new_articles_in_last_fetch": 1835,
+    "created_at": "2025-09-25T16:51:20.532716",
+    "total_articles": 1837,
+    "new_articles_in_last_fetch": 1837,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -23844,6 +23844,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: COSTCO SHINES WITH EARNINGS BEAT AS YOUNGER DEMOGRAPHIC FLOCKS IN 🚀\n\n- Costco surpasses earnings and revenue estimates 📈\n- Younger members attracted by improved products and digital services 💻\n- Strong performance attributed to winning over new demographic segment ✨\n\nTAKEAWAY: Costco's success in exceeding expectations is fueled by its appeal to younger customers through enhanced products and digital offerings, driving growth.",
       "exported_at": "2025-09-25T16:46:10.676126",
+      "continuous_session": true
+    },
+    {
+      "title": "Santoli&apos;s Thursday market wrap-up: Few reasons to believe this pullback is the Big One",
+      "link": "https://www.cnbc.com/2025/09/25/santolis-thursday-market-wrap-up-unlikely-this-pullback-is-the-big-one.html",
+      "summary": "The setup entering the week opened the way to some retrenchment: The S&amp;P 500 at its most overbought in 14 months with momentum waning and breadth flagging.",
+      "published": "Thu, 25 Sep 2025 20:17:14 GMT",
+      "content": "The setup entering the week opened the way to some retrenchment: The S&amp;P 500 at its most overbought in 14 months with momentum waning and breadth flagging.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "cb531e1b2ecfb614470652550ce10ee8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SANTOLI'S MARKET WRAP-UP: PULLBACK OR BIG CORRECTION? 📉\n\n- S&P 500 most overbought in 14 months, momentum fading 📉\n- Market shows signs of retrenchment, breadth weakening 📉\n- Uncertainty if pullback signals major correction ⚠️\n\nTAKEAWAY: Despite S&P 500 being overbought and momentum waning, it's uncertain if the current pullback signifies a major market correction.",
+      "exported_at": "2025-09-25T16:51:20.394566",
+      "continuous_session": true
+    },
+    {
+      "title": "Taylor Swift music producer Jack Antonoff slams Live Nation CEO claims of ‘underpriced’ concert tickets",
+      "link": "https://www.cnbc.com/2025/09/25/antonoff-slams-live-nation-ceos-underpriced-concert-claim.html",
+      "summary": "Rapino's comments at the Game Plan conference came just days before the Federal Trade Commission sued Live Nation and its subsidiary Ticketmaster.",
+      "published": "Thu, 25 Sep 2025 20:47:37 GMT",
+      "content": "Rapino's comments at the Game Plan conference came just days before the Federal Trade Commission sued Live Nation and its subsidiary Ticketmaster.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ec3f12f578a547e534e422da3610dfd8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JACK ANTONOFF CRITICIZES LIVE NATION CEO OVER TICKET PRICING REMARKS ⚠️\n\n- Antonoff disputes Rapino's claim of underpriced concert tickets 🚫\n- Rapino's comments made before FTC lawsuit against Live Nation 🚨\n\nTAKEAWAY: Jack Antonoff challenges Live Nation CEO's stance on ticket pricing, amid FTC's lawsuit against the company, raising doubts on ticket cost transparency.",
+      "exported_at": "2025-09-25T16:51:20.394632",
       "continuous_session": true
     }
   ]
