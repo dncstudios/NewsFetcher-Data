@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-25T10:08:12.853423",
-    "total_articles": 1792,
-    "new_articles_in_last_fetch": 1792,
+    "created_at": "2025-09-25T10:23:29.819476",
+    "total_articles": 1793,
+    "new_articles_in_last_fetch": 1793,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -23285,6 +23285,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CNBC SPORT: ROGER GOODELL DISMISSES TOM BRADY CONTROVERSY 🏈\n\n- Goodell denies Brady's conflict of interest rumors 🛑\n- NFL Commissioner stands firm on Brady's integrity 💪\n- No evidence found to support conflict claims 🕵️‍♂️\n- Brady controversy debunked by Goodell's statement 🔍\n- YouTube-NBC collision course speculation continues 🌐\n\nTAKEAWAY: Roger Goodell's firm stance on Tom Brady's integrity dispels conflict rumors, fueling speculation on the YouTube-NBC collision course.",
       "exported_at": "2025-09-25T10:08:12.717300",
+      "continuous_session": true
+    },
+    {
+      "title": "Alphabet may become the biggest company in the world thanks to edge in AI, MoffettNathanson says",
+      "link": "https://www.cnbc.com/2025/09/25/alphabet-may-become-biggest-company-in-the-world-thanks-to-ai-moffettnathanson-says.html",
+      "summary": "Google's cloud growth and search-engine dominance will help it beat AI competitors, boosting Alphabet shares, according to the Wall Street researcher.",
+      "published": "Thu, 25 Sep 2025 14:05:58 GMT",
+      "content": "Google's cloud growth and search-engine dominance will help it beat AI competitors, boosting Alphabet shares, according to the Wall Street researcher.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f91ca54f85995eb919b9642fa67456c0",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ALPHABET SET TO DOMINATE WORLD AS BIGGEST COMPANY THANKS TO AI EDGE 🚀\n\n- Google's cloud growth & search dominance to surpass AI competitors 📈\n- Wall Street researcher predicts Alphabet shares will soar 📈\n- AI advantage propels Alphabet towards global leadership 🌍\n\nTAKEAWAY: Alphabet's edge in AI, fueled by Google's cloud expansion and search dominance, positions it to surpass competitors and become the world's largest company.",
+      "exported_at": "2025-09-25T10:23:29.686370",
       "continuous_session": true
     }
   ]
