@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-25T18:02:29.709453",
-    "total_articles": 1839,
-    "new_articles_in_last_fetch": 1839,
+    "created_at": "2025-09-25T18:07:38.245193",
+    "total_articles": 1840,
+    "new_articles_in_last_fetch": 1840,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -23896,6 +23896,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JUDGE APPROVES $1.5B SETTLEMENT IN ANTHROPIC COPYRIGHT CASE 🚀\n\n- Preliminary approval granted for $1.5 billion settlement 💰\n- Lawsuit accused AI startup of illegal downloads from pirated databases 🤖\n- Authors in case to receive compensation from settlement 💸\n- Significant step towards resolving copyright infringement dispute ✅\n- Settlement amount emphasizes seriousness of copyright violations 📜\n- Legal process progressing positively for authors involved 📈\n\nTAKEAWAY: The preliminary approval of the $1.5 billion settlement marks a significant step towards resolving the Anthropic copyright case, emphasizing the gravity of copyright violations and progress for affected authors.",
       "exported_at": "2025-09-25T18:02:29.562244",
+      "continuous_session": true
+    },
+    {
+      "title": "Stock futures are little changed ahead of key inflation report: Live updates",
+      "link": "https://www.cnbc.com/2025/09/25/stock-market-today-live-updates.html",
+      "summary": "Investors are awaiting the release of August's personal consumption expenditures price index out Friday.",
+      "published": "Thu, 25 Sep 2025 22:03:28 GMT",
+      "content": "Investors are awaiting the release of August's personal consumption expenditures price index out Friday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f6a404e9cc28c67f90f33fd967d57e01",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK FUTURES STABLE BEFORE INFLATION REPORT 📈\n\n- Investors anticipate release of August's personal consumption expenditures index\n- Market remains steady ahead of key inflation data\n- Focus on upcoming price index report for market direction\n\nTAKEAWAY: Stock futures remain stable as investors await the release of August's personal consumption expenditures index, signaling anticipation for market direction based on key inflation data.",
+      "exported_at": "2025-09-25T18:07:38.092200",
       "continuous_session": true
     }
   ]
