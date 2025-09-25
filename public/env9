@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-25T19:08:34.050145",
-    "total_articles": 1843,
-    "new_articles_in_last_fetch": 1843,
+    "created_at": "2025-09-25T19:23:51.900945",
+    "total_articles": 1845,
+    "new_articles_in_last_fetch": 1845,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -23948,6 +23948,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FORMER FBI DIRECTOR JAMES COMEY INDICTED ⚠️\n\n- Ex-FBI Director James Comey indicted, facing legal action ⚖️\n- Attorney General Pam Bondi emphasizes justice for all 🏛️\n- \"No one is above the law,\" Bondi asserts in response to news 💪\n\nTAKEAWAY: Former FBI Director James Comey faces indictment, highlighting the principle that no one is exempt from the law.",
       "exported_at": "2025-09-25T19:08:33.909525",
+      "continuous_session": true
+    },
+    {
+      "title": "Tesla&apos;s continuing sales slump in Europe weighs on stock price",
+      "link": "https://www.cnbc.com/2025/09/25/teslas-continuing-sales-slump-in-europe-weighs-on-stock-price.html",
+      "summary": "Tesla EV registrations in Europe fell by more than 20% year-over-year in August, according to  data from the European Automobile Manufacturers' Association.",
+      "published": "Thu, 25 Sep 2025 23:00:57 GMT",
+      "content": "Tesla EV registrations in Europe fell by more than 20% year-over-year in August, according to  data from the European Automobile Manufacturers' Association.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "bf5cd9325007394fe8a80046291952d4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TESLA'S EUROPEAN SALES SLUMP DRAGS STOCK PRICE ⚠️\n\n- Tesla's EV registrations drop over 20% YoY in Europe 📉\n- Data sourced from European Automobile Manufacturers' Association 📊\n- Decrease in sales impacts Tesla's stock performance 📉\n\nTAKEAWAY: Tesla's significant drop in European sales is affecting its stock price, raising concerns about the company's performance in the region.",
+      "exported_at": "2025-09-25T19:23:51.774428",
+      "continuous_session": true
+    },
+    {
+      "title": "Oil giant BP quietly steps out of the takeover spotlight",
+      "link": "https://www.cnbc.com/2025/09/26/oil-giant-bp-quietly-steps-out-of-the-takeover-spotlight.html",
+      "summary": "Takeover speculation regarding British energy major BP appears to have dried up, with shares of the company up more than 32% since early April.",
+      "published": "Thu, 25 Sep 2025 23:10:51 GMT",
+      "content": "Takeover speculation regarding British energy major BP appears to have dried up, with shares of the company up more than 32% since early April.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3dfe860edfdc10078fcaf318fdd7beae",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: OIL GIANT BP SHIES AWAY FROM TAKEOVER SPOTLIGHT 🚫\n\n- BP's shares surge over 32% since April 📈\n- Takeover rumors surrounding BP fade away 🤫\n- Company remains out of the acquisition limelight 🔦\n\nTAKEAWAY: BP's significant share price increase and absence of takeover talks indicate a shift away from acquisition speculation.",
+      "exported_at": "2025-09-25T19:23:51.774493",
       "continuous_session": true
     }
   ]
