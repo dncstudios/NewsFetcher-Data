@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-25T15:19:33.901260",
-    "total_articles": 1827,
-    "new_articles_in_last_fetch": 1827,
+    "created_at": "2025-09-25T15:34:51.158760",
+    "total_articles": 1828,
+    "new_articles_in_last_fetch": 1828,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -23740,6 +23740,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CRYPTO TREASURY SHARPLINK GAMING EMBRACES ETHEREUM TOKENIZATION 🚀\n\n- SharpLink Gaming to tokenize equity on Ethereum\n- Joining the rising trend of stock tokenization 📈\n- European banks team up for a new stablecoin 💰\n- Hedera's CPO talks UK-US task force for market growth\n- Collaboration to spark innovation in global markets ✨\n\nTAKEAWAY: SharpLink Gaming's move to tokenize shares on Ethereum aligns with the booming trend of stock tokenization, marking a significant step towards embracing digital assets in the financial world.",
       "exported_at": "2025-09-25T15:19:33.756203",
+      "continuous_session": true
+    },
+    {
+      "title": "Quantum computing could be a $4 billion market in 5 years, BofA says. Here are the notable players",
+      "link": "https://www.cnbc.com/2025/09/25/ways-to-play-possible-4-billion-quantum-computing-market-bofa-says-.html",
+      "summary": "One analyst highlighted \"notable\" pure-play quantum computing companies and Big Tech giants that are honing in on various aspects of the field.",
+      "published": "Thu, 25 Sep 2025 19:03:30 GMT",
+      "content": "One analyst highlighted \"notable\" pure-play quantum computing companies and Big Tech giants that are honing in on various aspects of the field.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "444d8706ab778ee06496dda9f06ba7b7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: QUANTUM COMPUTING: $4 BILLION MARKET IN 5 YEARS, BOFA PREDICTS 🚀\n\n- BofA forecasts quantum computing to hit $4 billion market in 5 years 📈\n- Analyst spotlights pure-play quantum firms and tech giants in the field 🌐\n- Notable players include Big Tech honing in on quantum aspects 💡\n\nTAKEAWAY: BofA's $4 billion quantum computing market prediction fuels excitement as tech giants and pure-play firms dominate the field's evolution.",
+      "exported_at": "2025-09-25T15:34:51.019813",
       "continuous_session": true
     }
   ]
