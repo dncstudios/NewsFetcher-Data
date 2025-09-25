@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-25T09:32:25.219539",
-    "total_articles": 1787,
-    "new_articles_in_last_fetch": 1787,
+    "created_at": "2025-09-25T09:37:34.349186",
+    "total_articles": 1788,
+    "new_articles_in_last_fetch": 1788,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -23220,6 +23220,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: S&P 500 FUTURES DROP 3RD DAY, AS ORACLE SLUMPS & YIELDS RISE 📉\n\n- S&P 500 futures decline for third consecutive day 📉\n- Market shifts focus to fading AI trade and Oracle's performance 🤖\n- Oracle's shares fall, impacting market sentiment 📉\n- Yields increase, adding to market volatility 📈\n- Investors keep a close eye on these developments 🧐\n\nTAKEAWAY: S&P 500 futures continue to slide as Oracle's decline and rising yields shift market focus, creating volatility and investor uncertainty.",
       "exported_at": "2025-09-25T09:32:25.083134",
+      "continuous_session": true
+    },
+    {
+      "title": "CarMax stock plummets 20% following &apos;challenging&apos; quarter that missed Wall Street&apos;s expectations",
+      "link": "https://www.cnbc.com/2025/09/25/carmax-stock-plummets-after-missed-wall-streets-expectations.html",
+      "summary": "Shares of Carmax were down double-digits Thursday after the used auto retailer missed Wall Street's quarterly earnings and revenue expectations.",
+      "published": "Thu, 25 Sep 2025 13:36:29 GMT",
+      "content": "Shares of Carmax were down double-digits Thursday after the used auto retailer missed Wall Street's quarterly earnings and revenue expectations.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5e23e8c7e2ff37942e831bb3c448c4e1",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CARMAX STOCK DROPS 20% AFTER TOUGH QUARTER 📉\n\n- CarMax shares plummet 20% after missing Wall Street's expectations 📉\n- Used auto retailer reports challenging quarter 🚨\n- Quarterly earnings and revenue fall short of projections 📊\n\nTAKEAWAY: CarMax faces a tough quarter as its stock drops 20% due to missing Wall Street's expectations for earnings and revenue.",
+      "exported_at": "2025-09-25T09:37:34.220138",
       "continuous_session": true
     }
   ]
