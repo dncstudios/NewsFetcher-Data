@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-25T16:20:41.032655",
-    "total_articles": 1833,
-    "new_articles_in_last_fetch": 1833,
+    "created_at": "2025-09-25T16:41:02.072111",
+    "total_articles": 1834,
+    "new_articles_in_last_fetch": 1834,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -23818,6 +23818,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: DALLAS ICE SHOOTER LINKED TO CHARLIE KIRK VIDEO SEARCH 🚨\n\n- Gunman searched 'Charlie Kirk Shot Video' before ICE attack 🔍\n- FBI finds evidence linking shooter to conservative activist's assassination 🕵️‍♂️\n- Search adds to mounting evidence on shooter's motive 💡\n\nTAKEAWAY: The FBI's discovery of the ICE shooter's search history linking him to the recently assassinated activist Charlie Kirk sheds light on his possible motive.",
       "exported_at": "2025-09-25T16:20:40.900270",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump approves TikTok deal through executive order, Vance says business valued at $14 billion",
+      "link": "https://www.cnbc.com/2025/09/25/trump-approves-tiktok-deal-through-executive-order.html",
+      "summary": "President Donald Trump on Thursday approved a proposed deal that would keep TikTok alive in the U.S.",
+      "published": "Thu, 25 Sep 2025 20:37:09 GMT",
+      "content": "President Donald Trump on Thursday approved a proposed deal that would keep TikTok alive in the U.S.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9b0f1b9c72e8cdef4624a2be341f9f58",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP APPROVES TIKTOK DEAL WORTH $14 BILLION 🚀\n\n- Trump greenlights deal to save TikTok in the U.S. 🇺🇸\n- Business valued at a whopping $14 billion 💰\n- Executive order secures TikTok's future in America ✅\n- Deal approval creates positive momentum for TikTok 🚀\n- Vance confirms the business's significant $14 billion value 💪\n- TikTok's survival in the U.S. now assured ⚡️\n\nTAKEAWAY: Trump's approval of the $14 billion TikTok deal secures the app's future in the U.S., creating positive momentum for the popular platform.",
+      "exported_at": "2025-09-25T16:41:01.927611",
       "continuous_session": true
     }
   ]
