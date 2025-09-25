@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-25T10:03:03.603746",
-    "total_articles": 1791,
-    "new_articles_in_last_fetch": 1791,
+    "created_at": "2025-09-25T10:08:12.853423",
+    "total_articles": 1792,
+    "new_articles_in_last_fetch": 1792,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -23272,6 +23272,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CARMAX STOCK DROPS 20% AFTER TOUGH QUARTER 📉\n\n- CarMax shares plummet 20% after missing Wall Street's expectations 📉\n- Used auto retailer reports challenging quarter 🚨\n- Quarterly earnings and revenue fall short of projections 📊\n\nTAKEAWAY: CarMax faces a tough quarter as its stock drops 20% due to missing Wall Street's expectations for earnings and revenue.",
       "exported_at": "2025-09-25T10:03:03.457525",
+      "continuous_session": true
+    },
+    {
+      "title": "CNBC Sport: NFL’s Roger Goodell on Tom Brady controversy; and a YouTube-NBC collision course",
+      "link": "https://www.cnbc.com/2025/09/25/cnbc-sport-nfls-roger-goodell-tom-brady-controversy.html",
+      "summary": "NFL Commissioner Roger Goodell fundamentally dismissed the notion that Tom Brady had a conflict of interest.",
+      "published": "Thu, 25 Sep 2025 14:00:01 GMT",
+      "content": "NFL Commissioner Roger Goodell fundamentally dismissed the notion that Tom Brady had a conflict of interest.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c790cec54aeb48fa7065f04cd64464cb",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CNBC SPORT: ROGER GOODELL DISMISSES TOM BRADY CONTROVERSY 🏈\n\n- Goodell denies Brady's conflict of interest rumors 🛑\n- NFL Commissioner stands firm on Brady's integrity 💪\n- No evidence found to support conflict claims 🕵️‍♂️\n- Brady controversy debunked by Goodell's statement 🔍\n- YouTube-NBC collision course speculation continues 🌐\n\nTAKEAWAY: Roger Goodell's firm stance on Tom Brady's integrity dispels conflict rumors, fueling speculation on the YouTube-NBC collision course.",
+      "exported_at": "2025-09-25T10:08:12.717300",
       "continuous_session": true
     }
   ]
