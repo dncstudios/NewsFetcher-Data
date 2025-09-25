@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-25T13:01:42.866965",
-    "total_articles": 1809,
-    "new_articles_in_last_fetch": 1809,
+    "created_at": "2025-09-25T13:06:53.229514",
+    "total_articles": 1812,
+    "new_articles_in_last_fetch": 1812,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -23506,6 +23506,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: THE FED RATE CUT BACKFIRES: WHY & WHAT INVESTORS SHOULD DO 🚨\n\n- Fed rate cut results in unexpected rise in interest rates 📈\n- Investors puzzled by lack of desired effect on market 🤔\n- Uncertainty looms over Fed's future monetary policies ⚠️\n\nTAKEAWAY: The recent Fed rate cut has left investors puzzled as interest rates unexpectedly rise, signaling uncertainty in future monetary policies.",
       "exported_at": "2025-09-25T13:01:42.725151",
+      "continuous_session": true
+    },
+    {
+      "title": "Ken Griffin says more tariff impact on inflation is still ahead, Fed should be independent",
+      "link": "https://www.cnbc.com/2025/09/25/ken-griffin-say-more-tariff-impact-on-inflation-is-still-ahead-fed-should-be-independent.html",
+      "summary": "Ken Griffin said only about half of the inflationary impact from Trump's wide-spreading levies on U.S. trading partners has passed through the economy.",
+      "published": "Thu, 25 Sep 2025 17:03:01 GMT",
+      "content": "Ken Griffin said only about half of the inflationary impact from Trump's wide-spreading levies on U.S. trading partners has passed through the economy.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "79aa21871fe27967b446793b5f439a3a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: KEN GRIFFIN WARNS OF FUTURE TARIFF IMPACT ON INFLATION ⚠️\n\n- Griffin: Half of inflation from Trump's tariffs yet to hit 📈\n- Calls for Fed independence to navigate upcoming challenges 🏛️\n- Warns of lingering effects of wide-spreading levies on economy 💼\n\nTAKEAWAY: Ken Griffin predicts further inflationary impact from Trump's tariffs, emphasizing the need for Fed independence to address upcoming economic challenges.",
+      "exported_at": "2025-09-25T13:06:53.088633",
+      "continuous_session": true
+    },
+    {
+      "title": "AI stocks are dragging the market down. The names were &apos;extremely overextended,&apos; says Katie Stockton",
+      "link": "https://www.cnbc.com/2025/09/25/ai-stocks-are-dragging-the-market-down-the-stocks-were-extremely-overextended-says-katie-stockton.html",
+      "summary": "On Thursday, the S&amp;P 500 was down for a third day, following a drop in Oracle.",
+      "published": "Thu, 25 Sep 2025 17:03:12 GMT",
+      "content": "On Thursday, the S&amp;P 500 was down for a third day, following a drop in Oracle.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ecaac000c0fd0003482abec5a110c3c1",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AI STOCKS DRAG MARKET DOWN AS S&P 500 FALLS FOR THIRD DAY 📉\n\n- S&P 500 declines due to drop in Oracle stock 📉\n- AI stocks labeled 'extremely overextended' by Katie Stockton 💥\n- Market dragged down by AI sector performance 📉\n- Oracle's impact felt as S&P 500 falls for third consecutive day 📉\n- Katie Stockton warns of AI stocks being overextended 🚨\n- Market sentiment affected by AI sector struggles 📊\n\nTAKEAWAY: Katie Stockton's warning about overextended AI stocks contributes to market downturn, impacting S&P 500 performance for the third day.",
+      "exported_at": "2025-09-25T13:06:53.088701",
+      "continuous_session": true
+    },
+    {
+      "title": "CarMax stock plummets 20% following &apos;challenging&apos; quarter",
+      "link": "https://www.cnbc.com/2025/09/25/carmax-stock-plummets-after-missed-wall-streets-expectations.html",
+      "summary": "Shares of Carmax were down double digits Thursday after the used auto retailer missed Wall Street's quarterly earnings and revenue expectations.",
+      "published": "Thu, 25 Sep 2025 17:04:35 GMT",
+      "content": "Shares of Carmax were down double digits Thursday after the used auto retailer missed Wall Street's quarterly earnings and revenue expectations.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e510ce9ac6ddc01407045d201c5d3297",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CARMAX STOCK DROPS 20% AFTER TOUGH QUARTER 📉\n\n- CarMax shares plummet 20% after missing earnings expectations 📉\n- Used auto retailer disappoints Wall Street with revenue figures 📉\n- Investors react to CarMax's challenging quarter results 📉\n\nTAKEAWAY: CarMax's stock takes a hit, dropping 20% after failing to meet earnings and revenue expectations, disappointing investors.",
+      "exported_at": "2025-09-25T13:06:53.088715",
       "continuous_session": true
     }
   ]
