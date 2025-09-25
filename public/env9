@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-25T16:41:02.072111",
-    "total_articles": 1834,
-    "new_articles_in_last_fetch": 1834,
+    "created_at": "2025-09-25T16:46:10.827026",
+    "total_articles": 1835,
+    "new_articles_in_last_fetch": 1835,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -23831,6 +23831,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP APPROVES TIKTOK DEAL WORTH $14 BILLION 🚀\n\n- Trump greenlights deal to save TikTok in the U.S. 🇺🇸\n- Business valued at a whopping $14 billion 💰\n- Executive order secures TikTok's future in America ✅\n- Deal approval creates positive momentum for TikTok 🚀\n- Vance confirms the business's significant $14 billion value 💪\n- TikTok's survival in the U.S. now assured ⚡️\n\nTAKEAWAY: Trump's approval of the $14 billion TikTok deal secures the app's future in the U.S., creating positive momentum for the popular platform.",
       "exported_at": "2025-09-25T16:41:01.927611",
+      "continuous_session": true
+    },
+    {
+      "title": "Costco tops earnings, revenue estimates as warehouse club wins over younger members",
+      "link": "https://www.cnbc.com/2025/09/25/costco-cost-q4-2025-earnings.html",
+      "summary": "Costco is drawing younger members with better merchandise and stronger digital offerings.",
+      "published": "Thu, 25 Sep 2025 20:27:29 GMT",
+      "content": "Costco is drawing younger members with better merchandise and stronger digital offerings.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b0899769d0c7c7de9d7c121fd515db89",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: COSTCO SHINES WITH EARNINGS BEAT AS YOUNGER DEMOGRAPHIC FLOCKS IN 🚀\n\n- Costco surpasses earnings and revenue estimates 📈\n- Younger members attracted by improved products and digital services 💻\n- Strong performance attributed to winning over new demographic segment ✨\n\nTAKEAWAY: Costco's success in exceeding expectations is fueled by its appeal to younger customers through enhanced products and digital offerings, driving growth.",
+      "exported_at": "2025-09-25T16:46:10.676126",
       "continuous_session": true
     }
   ]
