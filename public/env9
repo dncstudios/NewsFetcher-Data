@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-25T14:38:39.159945",
-    "total_articles": 1821,
-    "new_articles_in_last_fetch": 1821,
+    "created_at": "2025-09-25T14:43:48.058919",
+    "total_articles": 1822,
+    "new_articles_in_last_fetch": 1822,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -23662,6 +23662,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WE'RE BUYING THE DIP IN A PROMISING HEALTH AND LIFE SCIENCES STOCK 🚀\n\n- Key principle: holding onto value is crucial in investing 💰\n- Opportunity: investing in a health and life sciences stock at a low point 📉\n- Importance of resilience in sticking to investment strategies 💪\n- Overcoming setbacks by staying committed to value 📈\n- Embracing the chance to capitalize on undervalued assets 💡\n\nTAKEAWAY: Staying true to the principle of not giving up on value presents an opportunity to buy into a promising health and life sciences stock at a discounted price, demonstrating the importance of resilience in investing.",
       "exported_at": "2025-09-25T14:38:39.028711",
+      "continuous_session": true
+    },
+    {
+      "title": "Olipop CEO: If I had to start over in my career, I’d prioritize this skillset above all others—it’s not AI",
+      "link": "https://www.cnbc.com/2025/09/25/olipop-ceo-if-i-had-to-start-over-in-my-career-id-prioritize-these-skills.html",
+      "summary": "Ben Goodwin, CEO of Olipop, says he'd foster soft skills, specifically communication and leadership, if he had to restart from square one.",
+      "published": "Thu, 25 Sep 2025 18:18:02 GMT",
+      "content": "Ben Goodwin, CEO of Olipop, says he'd foster soft skills, specifically communication and leadership, if he had to restart from square one.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5fa3a9aaba3e0b7ce50842c430000661",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: OLIPOP CEO'S TOP SKILLSET FOR CAREER SUCCESS REVEALED ⚡️\n\n- Olipop CEO prioritizes soft skills like communication and leadership 💬👔\n- Ben Goodwin values these skills over AI in career development 🚫🤖\n- Communication and leadership key to career success, says Goodwin 🌟\n\nTAKEAWAY: Olipop CEO emphasizes the importance of communication and leadership as essential skillsets for career success, surpassing the significance of AI.",
+      "exported_at": "2025-09-25T14:43:47.920088",
       "continuous_session": true
     }
   ]
