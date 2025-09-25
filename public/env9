@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-25T19:23:51.900945",
-    "total_articles": 1845,
-    "new_articles_in_last_fetch": 1845,
+    "created_at": "2025-09-25T19:29:00.665630",
+    "total_articles": 1847,
+    "new_articles_in_last_fetch": 1847,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -23974,6 +23974,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: OIL GIANT BP SHIES AWAY FROM TAKEOVER SPOTLIGHT 🚫\n\n- BP's shares surge over 32% since April 📈\n- Takeover rumors surrounding BP fade away 🤫\n- Company remains out of the acquisition limelight 🔦\n\nTAKEAWAY: BP's significant share price increase and absence of takeover talks indicate a shift away from acquisition speculation.",
       "exported_at": "2025-09-25T19:23:51.774493",
+      "continuous_session": true
+    },
+    {
+      "title": "Former FBI Director James Comey indicted on obstruction, false statement charges",
+      "link": "https://www.cnbc.com/2025/09/25/james-comey-indicted-fbi-trump.html",
+      "summary": "\"No one is above the law,\" Attorney General Pam Bondi wrote in a post on X as news of the indictment of James Comey broke.",
+      "published": "Thu, 25 Sep 2025 23:24:50 GMT",
+      "content": "\"No one is above the law,\" Attorney General Pam Bondi wrote in a post on X as news of the indictment of James Comey broke.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "13537b6af67a45ef357e403c3240fbb1",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FORMER FBI DIRECTOR JAMES COMEY INDICTED ⚠️\n\n- Ex-FBI Director James Comey indicted, facing legal action ⚖️\n- Attorney General Pam Bondi emphasizes justice for all 🏛️\n- \"No one is above the law,\" Bondi asserts in response to news 💪\n\nTAKEAWAY: Former FBI Director James Comey faces indictment, highlighting the principle that no one is exempt from the law.",
+      "exported_at": "2025-09-25T19:29:00.538784",
+      "continuous_session": true
+    },
+    {
+      "title": "Friday&apos;s big stock stories: What’s likely to move the market in the next trading session",
+      "link": "https://www.cnbc.com/2025/09/25/fridays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html",
+      "summary": "Stocks marked a third-straight day of losses, with AI-related names like Oracle continuing to slump, ahead of key inflation data on Friday.",
+      "published": "Thu, 25 Sep 2025 22:46:36 GMT",
+      "content": "Stocks marked a third-straight day of losses, with AI-related names like Oracle continuing to slump, ahead of key inflation data on Friday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4866655a4d88d35b060a05242e26333f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FRIDAY'S BIG STOCK STORIES: WHAT'S NEXT FOR THE MARKET? 📈\n\n- Stocks see third consecutive day of losses 📉\n- AI-related stocks like Oracle remain under pressure 🔍\n- Market awaits key inflation data on Friday 📊\n\nTAKEAWAY: Losses continue in the stock market, with a focus on AI-related stocks like Oracle, as investors anticipate the impact of upcoming inflation data.",
+      "exported_at": "2025-09-25T19:29:00.538868",
       "continuous_session": true
     }
   ]
