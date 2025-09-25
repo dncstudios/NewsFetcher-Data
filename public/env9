@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-25T12:36:00.687585",
-    "total_articles": 1804,
-    "new_articles_in_last_fetch": 1804,
+    "created_at": "2025-09-25T12:46:17.427505",
+    "total_articles": 1805,
+    "new_articles_in_last_fetch": 1805,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -23441,6 +23441,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: KEN GRIFFIN WARNS OF FUTURE TARIFF IMPACT ON INFLATION ⚠️\n\n- Griffin: Half of inflation from Trump's tariffs yet to hit 📈\n- Calls for Fed independence to navigate upcoming challenges 🏛️\n- Warns of lingering effects of wide-spreading levies on economy 💼\n\nTAKEAWAY: Ken Griffin predicts further inflationary impact from Trump's tariffs, emphasizing the need for Fed independence to address upcoming economic challenges.",
       "exported_at": "2025-09-25T12:36:00.544775",
+      "continuous_session": true
+    },
+    {
+      "title": "Ken Griffin knocks Trump&apos;s corporate deals, says &apos;all of us lose&apos; when government starts picking winners",
+      "link": "https://www.cnbc.com/2025/09/25/ken-griffin-trump-white-house-tariffs.html",
+      "summary": "Griffin said the government giving \"favor\" to large and well-connected companies is \"not the American story.\"",
+      "published": "Thu, 25 Sep 2025 16:36:44 GMT",
+      "content": "Griffin said the government giving \"favor\" to large and well-connected companies is \"not the American story.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "78da5481e1c44b462643bb93b66cc8ca",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: KEN GRIFFIN SLAMS TRUMP'S CORPORATE DEALS, WARNS AGAINST GOVERNMENT INTERVENTION 🚨\n\n- Griffin criticizes government favoring big firms over fair competition 🛑\n- Warns against picking winners, emphasizes American values 🇺🇸\n- Stresses importance of equal opportunities for all companies 💪\n\nTAKEAWAY: Ken Griffin's strong stance against government favoritism towards large corporations highlights the importance of fair competition and equal opportunities in the business world.",
+      "exported_at": "2025-09-25T12:46:17.286848",
       "continuous_session": true
     }
   ]
