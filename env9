@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-25T11:29:42.273916",
-    "total_articles": 1798,
-    "new_articles_in_last_fetch": 1798,
+    "created_at": "2025-09-25T11:34:53.225699",
+    "total_articles": 1800,
+    "new_articles_in_last_fetch": 1800,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -23363,6 +23363,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AMAZON SETTLES $2.5B WITH FTC OVER 'DECEPTIVE' PRIME PROGRAM 💸\n\n- Settlement reached with FTC over alleged Prime program deception 💼\n- Amazon to pay $2.5 billion in agreement with regulatory body 💰\n- Trial begins in Seattle, anticipated to run for a month ⏳\n\nTAKEAWAY: Amazon's $2.5 billion settlement with the FTC resolves deceptive Prime program allegations, with a trial in Seattle set to unfold.",
       "exported_at": "2025-09-25T11:29:42.150385",
+      "continuous_session": true
+    },
+    {
+      "title": "AI nuclear stock play Oklo loses 15% in 2 days amid big insider selling, Wall Street caution",
+      "link": "https://www.cnbc.com/2025/09/25/oklo-nuclear-shares-fall-ai-data-center.html",
+      "summary": "Oklo shares have soared more than 470% this year as investors have grown enthusiastic about the role nuclear power could play in supplying electricity for AI.",
+      "published": "Thu, 25 Sep 2025 15:26:25 GMT",
+      "content": "Oklo shares have soared more than 470% this year as investors have grown enthusiastic about the role nuclear power could play in supplying electricity for AI.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "43925b9905f3e40f0ac1e5a72d335d96",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AI NUCLEAR STOCK OKLO DROPS 15% IN 2 DAYS AMID INSIDER SELLING 📉\n\n- Oklo shares plummet 15% in 2 days due to insider selling 💸\n- Stock previously surged 470% this year 🚀\n- Investors bullish on nuclear power for AI energy needs ⚡️\n\nTAKEAWAY: Oklo's recent 15% drop from insider selling contrasts with its impressive 470% surge this year, reflecting market caution and investor optimism in AI and nuclear energy.",
+      "exported_at": "2025-09-25T11:34:53.087487",
+      "continuous_session": true
+    },
+    {
+      "title": "Jim Cramer highlights 3 stocks that are quality and 3 that are in trouble",
+      "link": "https://www.cnbc.com/2025/09/25/jim-cramer-highlights-3-stocks-that-are-quality-and-3-that-are-in-trouble.html",
+      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "published": "Thu, 25 Sep 2025 15:28:14 GMT",
+      "content": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5a54ac8af8b5b0531323218ef2ab4ddf",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JIM CRAMER'S TOP 3 QUALITY STOCKS AND 3 TROUBLED STOCKS ⚡️\n\n- Cramer identifies 3 top-quality stocks for investment 🌟\n- 3 stocks flagged by Cramer as facing troubles ahead ⚠️\n- Insights shared during \"Morning Meeting\" at 10:20 a.m. ET 🕥\n\nTAKEAWAY: Jim Cramer's Morning Meeting reveals 3 promising stocks to invest in and 3 stocks facing potential challenges ahead.",
+      "exported_at": "2025-09-25T11:34:53.087565",
       "continuous_session": true
     }
   ]
