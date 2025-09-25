@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-25T10:43:54.702760",
-    "total_articles": 1795,
-    "new_articles_in_last_fetch": 1795,
+    "created_at": "2025-09-25T10:49:05.385832",
+    "total_articles": 1797,
+    "new_articles_in_last_fetch": 1797,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -23324,6 +23324,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FED'S POWELL WARNS STOCKS 'FAIRLY HIGHLY VALUED' 🚨\n\n- S&P 500 stocks trade at a premium to historical average 📈\n- Powell's warning indicates overvaluation concerns 💰\n- Market shows signs of being overpriced 📈\n- Investors urged to be cautious 🚨\n- Warning highlights potential risks in current market 📉\n\nTAKEAWAY: Federal Reserve Chairman Jerome Powell's caution about stock valuations signals potential risks ahead, urging investors to approach the market with caution.",
       "exported_at": "2025-09-25T10:43:54.573602",
+      "continuous_session": true
+    },
+    {
+      "title": "Former Fed, Treasury chiefs urge Supreme Court to block Trump firing Lisa Cook",
+      "link": "https://www.cnbc.com/2025/09/25/fed-trump-lisa-cook-supreme-court.html",
+      "summary": "President Donald Trump has said he wants to fire Fed Governor Lisa Cook because of allegations she committed mortgage fraud. She denies any wrongdoing.",
+      "published": "Thu, 25 Sep 2025 14:48:10 GMT",
+      "content": "President Donald Trump has said he wants to fire Fed Governor Lisa Cook because of allegations she committed mortgage fraud. She denies any wrongdoing.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d6341dfd8e9509149a6d2fe38cab6cc7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FORMER FED, TREASURY CHIEFS RALLY TO BLOCK TRUMP'S MOVE 🚨\n\n- Trump aims to dismiss Fed Governor Lisa Cook over fraud claims\n- Cook refutes all accusations of mortgage fraud ❌\n- Former top officials push Supreme Court to intervene ⚖️\n- Allegations against Cook spark a high-stakes standoff 🏛️\n- Trump's attempt to remove Cook raises legal concerns ⚠️\n\nTAKEAWAY: Former Fed and Treasury chiefs unite to prevent Trump's dismissal of Lisa Cook, highlighting legal uncertainties and a high-stakes standoff in the financial sector.",
+      "exported_at": "2025-09-25T10:49:05.254471",
+      "continuous_session": true
+    },
+    {
+      "title": "Robert Kraft agrees to sell New England Patriots minority stake in deal that values team at $9B",
+      "link": "https://www.cnbc.com/2025/09/25/robert-kraft-agrees-to-sell-new-england-patriots-minority-stake-in-deal-that-values-team-at-9b.html",
+      "summary": "Two buyers have cut a deal to buy an 8% stake in the New England Patriots.",
+      "published": "Thu, 25 Sep 2025 14:38:36 GMT",
+      "content": "Two buyers have cut a deal to buy an 8% stake in the New England Patriots.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "263c143963781883e9229ce284206485",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ROBERT KRAFT SELLS MINORITY STAKE IN PATRIOTS FOR $9B 🚀\n\n- Kraft agrees to sell 8% stake in New England Patriots 🏈\n- Deal values the team at an impressive $9 billion 💰\n- Two buyers secure the minority stake purchase ✅\n- Sale reflects strong investor confidence in the Patriots 📈\n- Robert Kraft's decision signals a strategic move ⚡️\n\nTAKEAWAY: Robert Kraft's sale of a minority stake in the New England Patriots for $9 billion showcases strong investor confidence in the team's value and potential.",
+      "exported_at": "2025-09-25T10:49:05.254575",
       "continuous_session": true
     }
   ]
