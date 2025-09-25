@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-25T09:57:56.929581",
-    "total_articles": 1790,
-    "new_articles_in_last_fetch": 1790,
+    "created_at": "2025-09-25T10:03:03.603746",
+    "total_articles": 1791,
+    "new_articles_in_last_fetch": 1791,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -23259,6 +23259,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: COREWEAVE SECURES $6.5 BILLION DEAL WITH OPENAI 🚀\n\n- CoreWeave's deal with OpenAI totals $22.4 billion 💰\n- Partnership between CoreWeave and OpenAI strengthens 🤝\n- OpenAI collaboration boosts CoreWeave's market position 📈\n\nTAKEAWAY: CoreWeave's $6.5 billion deal with OpenAI solidifies their partnership, pushing their total deal value to an impressive $22.4 billion and enhancing their market standing.",
       "exported_at": "2025-09-25T09:57:56.790799",
+      "continuous_session": true
+    },
+    {
+      "title": "CarMax stock plummets 20% following &apos;challenging&apos; quarter",
+      "link": "https://www.cnbc.com/2025/09/25/carmax-stock-plummets-after-missed-wall-streets-expectations.html",
+      "summary": "Shares of Carmax were down double-digits Thursday after the used auto retailer missed Wall Street's quarterly earnings and revenue expectations.",
+      "published": "Thu, 25 Sep 2025 14:00:31 GMT",
+      "content": "Shares of Carmax were down double-digits Thursday after the used auto retailer missed Wall Street's quarterly earnings and revenue expectations.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3ccaa06d6c4e3d81fa3ee809b9b9d22b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CARMAX STOCK DROPS 20% AFTER TOUGH QUARTER 📉\n\n- CarMax shares plummet 20% after missing Wall Street's expectations 📉\n- Used auto retailer reports challenging quarter 🚨\n- Quarterly earnings and revenue fall short of projections 📊\n\nTAKEAWAY: CarMax faces a tough quarter as its stock drops 20% due to missing Wall Street's expectations for earnings and revenue.",
+      "exported_at": "2025-09-25T10:03:03.457525",
       "continuous_session": true
     }
   ]
