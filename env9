@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-25T17:37:03.126996",
-    "total_articles": 1838,
-    "new_articles_in_last_fetch": 1838,
+    "created_at": "2025-09-25T18:02:29.709453",
+    "total_articles": 1839,
+    "new_articles_in_last_fetch": 1839,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -23883,6 +23883,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SHALE OIL EXECS CRITICIZE TRUMP POLICIES, DECLARE 'BUSINESS IS BROKEN' ⚠️\n\n- Anonymous shale oil execs blame Trump policies for investment decline 💸\n- Federal Reserve Bank of Dallas survey reveals industry discontent 📊\n- Executives express frustration over current state of business operations 🤬\n\nTAKEAWAY: Shale oil executives express dissatisfaction with Trump policies, citing a broken business environment impacting investment in the industry.",
       "exported_at": "2025-09-25T17:37:02.987025",
+      "continuous_session": true
+    },
+    {
+      "title": "Judge in Anthropic copyright case preliminarily approves $1.5 billion settlement with authors",
+      "link": "https://www.cnbc.com/2025/09/25/judge-anthropic-case-preliminary-ok-to-1point5b-settlement-with-authors.html",
+      "summary": "The lawsuit alleged that the AI startup illegally downloaded material from pirated databases.",
+      "published": "Thu, 25 Sep 2025 21:54:19 GMT",
+      "content": "The lawsuit alleged that the AI startup illegally downloaded material from pirated databases.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "05109343151f863435fc3ed286c7b3e1",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JUDGE APPROVES $1.5B SETTLEMENT IN ANTHROPIC COPYRIGHT CASE 🚀\n\n- Preliminary approval granted for $1.5 billion settlement 💰\n- Lawsuit accused AI startup of illegal downloads from pirated databases 🤖\n- Authors in case to receive compensation from settlement 💸\n- Significant step towards resolving copyright infringement dispute ✅\n- Settlement amount emphasizes seriousness of copyright violations 📜\n- Legal process progressing positively for authors involved 📈\n\nTAKEAWAY: The preliminary approval of the $1.5 billion settlement marks a significant step towards resolving the Anthropic copyright case, emphasizing the gravity of copyright violations and progress for affected authors.",
+      "exported_at": "2025-09-25T18:02:29.562244",
       "continuous_session": true
     }
   ]
