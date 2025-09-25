@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-25T18:07:38.245193",
-    "total_articles": 1840,
-    "new_articles_in_last_fetch": 1840,
+    "created_at": "2025-09-25T18:17:49.220497",
+    "total_articles": 1841,
+    "new_articles_in_last_fetch": 1841,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -23909,6 +23909,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCK FUTURES STABLE BEFORE INFLATION REPORT 📈\n\n- Investors anticipate release of August's personal consumption expenditures index\n- Market remains steady ahead of key inflation data\n- Focus on upcoming price index report for market direction\n\nTAKEAWAY: Stock futures remain stable as investors await the release of August's personal consumption expenditures index, signaling anticipation for market direction based on key inflation data.",
       "exported_at": "2025-09-25T18:07:38.092200",
+      "continuous_session": true
+    },
+    {
+      "title": "Costco tops earnings, revenue estimates as warehouse club gains more members",
+      "link": "https://www.cnbc.com/2025/09/25/costco-cost-q4-2025-earnings.html",
+      "summary": "Costco is drawing younger members with better merchandise and stronger digital offerings.",
+      "published": "Thu, 25 Sep 2025 22:16:19 GMT",
+      "content": "Costco is drawing younger members with better merchandise and stronger digital offerings.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "41778171d8ef5e647732256c491d13ed",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: COSTCO SHINES WITH EARNINGS BEAT AS YOUNGER DEMOGRAPHIC FLOCKS IN 🚀\n\n- Costco surpasses earnings and revenue estimates 📈\n- Younger members attracted by improved products and digital services 💻\n- Strong performance attributed to winning over new demographic segment ✨\n\nTAKEAWAY: Costco's success in exceeding expectations is fueled by its appeal to younger customers through enhanced products and digital offerings, driving growth.",
+      "exported_at": "2025-09-25T18:17:49.091606",
       "continuous_session": true
     }
   ]
