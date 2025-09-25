@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-25T10:23:29.819476",
-    "total_articles": 1793,
-    "new_articles_in_last_fetch": 1793,
+    "created_at": "2025-09-25T10:43:54.702760",
+    "total_articles": 1795,
+    "new_articles_in_last_fetch": 1795,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -23298,6 +23298,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ALPHABET SET TO DOMINATE WORLD AS BIGGEST COMPANY THANKS TO AI EDGE 🚀\n\n- Google's cloud growth & search dominance to surpass AI competitors 📈\n- Wall Street researcher predicts Alphabet shares will soar 📈\n- AI advantage propels Alphabet towards global leadership 🌍\n\nTAKEAWAY: Alphabet's edge in AI, fueled by Google's cloud expansion and search dominance, positions it to surpass competitors and become the world's largest company.",
       "exported_at": "2025-09-25T10:23:29.686370",
+      "continuous_session": true
+    },
+    {
+      "title": "Two ways to trade Dell through options as tech giant offers growth at a reasonable price",
+      "link": "https://www.cnbc.com/2025/09/25/two-ways-to-trade-dell-through-options-as-tech-giant-offers-growth-at-a-reasonable-price.html",
+      "summary": "Options trader Michael Khouw walks readers through Dell and how to trade the PC builder using options.",
+      "published": "Thu, 25 Sep 2025 14:32:47 GMT",
+      "content": "Options trader Michael Khouw walks readers through Dell and how to trade the PC builder using options.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "605dcdde2503aa484e883d1f7919bf47",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TWO WAYS TO TRADE DELL THROUGH OPTIONS AS TECH GIANT OFFERS GROWTH AT A REASONABLE PRICE 🚀\n\n- Options trader Michael Khouw shares strategies for trading Dell 💼\n- Dell provides growth opportunities with reasonable pricing 📈\n- Learn how to leverage options to trade Dell effectively 💡\n\nTAKEAWAY: Dell's promising growth potential at an attractive price point makes it an enticing option for traders looking to capitalize on the market.",
+      "exported_at": "2025-09-25T10:43:54.573481",
+      "continuous_session": true
+    },
+    {
+      "title": "Federal Reserve&apos;s Jerome Powell warns that stocks are &apos;fairly highly valued&apos;—here&apos;s what he means",
+      "link": "https://www.cnbc.com/2025/09/25/federal-reserve-chair-jerome-powell-warns-stocks-are-fairly-highly-valued.html",
+      "summary": "By one measure, stocks in the S&amp;P 500 are now trading at a steep premium to their historical average.",
+      "published": "Thu, 25 Sep 2025 14:09:30 GMT",
+      "content": "By one measure, stocks in the S&amp;P 500 are now trading at a steep premium to their historical average.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d419e7d3c8478e3b943c6f15374867ee",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FED'S POWELL WARNS STOCKS 'FAIRLY HIGHLY VALUED' 🚨\n\n- S&P 500 stocks trade at a premium to historical average 📈\n- Powell's warning indicates overvaluation concerns 💰\n- Market shows signs of being overpriced 📈\n- Investors urged to be cautious 🚨\n- Warning highlights potential risks in current market 📉\n\nTAKEAWAY: Federal Reserve Chairman Jerome Powell's caution about stock valuations signals potential risks ahead, urging investors to approach the market with caution.",
+      "exported_at": "2025-09-25T10:43:54.573602",
       "continuous_session": true
     }
   ]
