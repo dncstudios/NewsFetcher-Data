@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-25T09:27:01.679024",
-    "total_articles": 1786,
-    "new_articles_in_last_fetch": 1786,
+    "created_at": "2025-09-25T09:32:25.219539",
+    "total_articles": 1787,
+    "new_articles_in_last_fetch": 1787,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -23207,6 +23207,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: PROFIT-TAKING HITS AI TRADE AGAIN, INSTAGRAM HITS 3 BILLION USERS 🚀\n\n- AI trade sees profit-taking pressure 📉\n- Instagram's monthly users soar to 3 billion 📈\n- Investing Club's Homestretch offers timely updates ⏰\n\nTAKEAWAY: Profit-taking impacts AI trade while Instagram's user growth hits a milestone, as Investing Club's Homestretch provides crucial trading insights.",
       "exported_at": "2025-09-25T09:27:01.538460",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks fall for a third day as once-hot AI play Oracle falls, yields increase: Live updates",
+      "link": "https://www.cnbc.com/2025/09/24/stock-market-today-live-updates.html",
+      "summary": "The market's current focus seems to be all about the fizzling AI trade and Oracle.",
+      "published": "Thu, 25 Sep 2025 13:31:41 GMT",
+      "content": "The market's current focus seems to be all about the fizzling AI trade and Oracle.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8cbeabc9003d3822cf9340bb701a0cb1",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: S&P 500 FUTURES DROP 3RD DAY, AS ORACLE SLUMPS & YIELDS RISE 📉\n\n- S&P 500 futures decline for third consecutive day 📉\n- Market shifts focus to fading AI trade and Oracle's performance 🤖\n- Oracle's shares fall, impacting market sentiment 📉\n- Yields increase, adding to market volatility 📈\n- Investors keep a close eye on these developments 🧐\n\nTAKEAWAY: S&P 500 futures continue to slide as Oracle's decline and rising yields shift market focus, creating volatility and investor uncertainty.",
+      "exported_at": "2025-09-25T09:32:25.083134",
       "continuous_session": true
     }
   ]
