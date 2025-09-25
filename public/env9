@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-25T09:37:34.349186",
-    "total_articles": 1788,
-    "new_articles_in_last_fetch": 1788,
+    "created_at": "2025-09-25T09:57:56.929581",
+    "total_articles": 1790,
+    "new_articles_in_last_fetch": 1790,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -23233,6 +23233,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CARMAX STOCK DROPS 20% AFTER TOUGH QUARTER 📉\n\n- CarMax shares plummet 20% after missing Wall Street's expectations 📉\n- Used auto retailer reports challenging quarter 🚨\n- Quarterly earnings and revenue fall short of projections 📊\n\nTAKEAWAY: CarMax faces a tough quarter as its stock drops 20% due to missing Wall Street's expectations for earnings and revenue.",
       "exported_at": "2025-09-25T09:37:34.220138",
+      "continuous_session": true
+    },
+    {
+      "title": "Existing home sales stall in August amid higher mortgage rates",
+      "link": "https://www.cnbc.com/2025/09/25/august-existing-home-sales-stall.html",
+      "summary": "Sales of previously owned homes barely budged in August compared with July, as mortgage rates remained stubbornly high. Those rates are now lower.",
+      "published": "Thu, 25 Sep 2025 13:55:10 GMT",
+      "content": "Sales of previously owned homes barely budged in August compared with July, as mortgage rates remained stubbornly high. Those rates are now lower.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e2ddb53becbf53033d1491b7bd00486a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: EXISTING HOME SALES STALL IN AUGUST AMID HIGHER MORTGAGE RATES 🚨\n\n- August existing home sales show minimal growth from July 📉\n- Stubbornly high mortgage rates contribute to stagnant sales 🏠💸\n- Recent decrease in mortgage rates offers potential relief 📉💼\n\nTAKEAWAY: Existing home sales in August remained stagnant due to high mortgage rates, but a recent decrease provides hope for market recovery.",
+      "exported_at": "2025-09-25T09:57:56.790733",
+      "continuous_session": true
+    },
+    {
+      "title": "CoreWeave inks $6.5 billion deal with OpenAI",
+      "link": "https://www.cnbc.com/2025/09/25/coreweave-openai-6point5-billion-deal.html",
+      "summary": "CoreWeave's latest agreement with OpenAI brings the two companies' total deal value to $22.4 billion.",
+      "published": "Thu, 25 Sep 2025 13:50:05 GMT",
+      "content": "CoreWeave's latest agreement with OpenAI brings the two companies' total deal value to $22.4 billion.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "778df4064ffe9c55df5f1a751248a79a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: COREWEAVE SECURES $6.5 BILLION DEAL WITH OPENAI 🚀\n\n- CoreWeave's deal with OpenAI totals $22.4 billion 💰\n- Partnership between CoreWeave and OpenAI strengthens 🤝\n- OpenAI collaboration boosts CoreWeave's market position 📈\n\nTAKEAWAY: CoreWeave's $6.5 billion deal with OpenAI solidifies their partnership, pushing their total deal value to an impressive $22.4 billion and enhancing their market standing.",
+      "exported_at": "2025-09-25T09:57:56.790799",
       "continuous_session": true
     }
   ]
