@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-25T10:49:05.385832",
-    "total_articles": 1797,
-    "new_articles_in_last_fetch": 1797,
+    "created_at": "2025-09-25T11:29:42.273916",
+    "total_articles": 1798,
+    "new_articles_in_last_fetch": 1798,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -23350,6 +23350,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ROBERT KRAFT SELLS MINORITY STAKE IN PATRIOTS FOR $9B 🚀\n\n- Kraft agrees to sell 8% stake in New England Patriots 🏈\n- Deal values the team at an impressive $9 billion 💰\n- Two buyers secure the minority stake purchase ✅\n- Sale reflects strong investor confidence in the Patriots 📈\n- Robert Kraft's decision signals a strategic move ⚡️\n\nTAKEAWAY: Robert Kraft's sale of a minority stake in the New England Patriots for $9 billion showcases strong investor confidence in the team's value and potential.",
       "exported_at": "2025-09-25T10:49:05.254575",
+      "continuous_session": true
+    },
+    {
+      "title": "Amazon reaches $2.5 billion settlement with FTC over &apos;deceptive&apos; Prime program",
+      "link": "https://www.cnbc.com/2025/09/25/amazon-ftc-prime-settlement.html",
+      "summary": "Opening arguments for the trial in Seattle took place on Tuesday and the proceedings were expected to last a month.",
+      "published": "Thu, 25 Sep 2025 15:24:15 GMT",
+      "content": "Opening arguments for the trial in Seattle took place on Tuesday and the proceedings were expected to last a month.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9ced3ad38ea91d4d1d8334fafe8cfcfd",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AMAZON SETTLES $2.5B WITH FTC OVER 'DECEPTIVE' PRIME PROGRAM 💸\n\n- Settlement reached with FTC over alleged Prime program deception 💼\n- Amazon to pay $2.5 billion in agreement with regulatory body 💰\n- Trial begins in Seattle, anticipated to run for a month ⏳\n\nTAKEAWAY: Amazon's $2.5 billion settlement with the FTC resolves deceptive Prime program allegations, with a trial in Seattle set to unfold.",
+      "exported_at": "2025-09-25T11:29:42.150385",
       "continuous_session": true
     }
   ]
