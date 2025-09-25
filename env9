@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-25T16:10:30.195773",
-    "total_articles": 1831,
-    "new_articles_in_last_fetch": 1831,
+    "created_at": "2025-09-25T16:20:41.032655",
+    "total_articles": 1833,
+    "new_articles_in_last_fetch": 1833,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -23792,6 +23792,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP PUSHES TO OUST FED MEMBER DESPITE LEGAL BARRIERS ⚠️\n\n- Trump seeks Supreme Court approval to remove Lisa Cook from Fed\n- Lower court order currently prevents Lisa Cook's removal\n- Legal experts warn of threat to Fed's independence\n- Lisa Cook's firing could jeopardize Fed's autonomy\n- Supreme Court decision crucial for Fed's independence\n- Trump's move raises concerns about political interference\n\nTAKEAWAY: Trump's attempt to remove Lisa Cook from the Federal Reserve Board jeopardizes the institution's independence, sparking legal and political concerns.",
       "exported_at": "2025-09-25T16:10:30.055921",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks close lower for a third day as once-hot AI play Oracle falls, yields increase",
+      "link": "https://www.cnbc.com/2025/09/24/stock-market-today-live-updates.html",
+      "summary": "The market's current focus seems to be all about the fizzling AI trade and Oracle.",
+      "published": "Thu, 25 Sep 2025 20:16:09 GMT",
+      "content": "The market's current focus seems to be all about the fizzling AI trade and Oracle.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "28348a9318357628ff5ac7eede82f19e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: S&P 500 FUTURES DROP 3RD DAY, AS ORACLE SLUMPS & YIELDS RISE 📉\n\n- S&P 500 futures decline for third consecutive day 📉\n- Market shifts focus to fading AI trade and Oracle's performance 🤖\n- Oracle's shares fall, impacting market sentiment 📉\n- Yields increase, adding to market volatility 📈\n- Investors keep a close eye on these developments 🧐\n\nTAKEAWAY: S&P 500 futures continue to slide as Oracle's decline and rising yields shift market focus, creating volatility and investor uncertainty.",
+      "exported_at": "2025-09-25T16:20:40.900186",
+      "continuous_session": true
+    },
+    {
+      "title": "Dallas shooter wanted to &apos;kill ICE agents,&apos; left notes, FBI says",
+      "link": "https://www.cnbc.com/2025/09/25/dallas-ice-shooter-charlie-kirk-fbi.html",
+      "summary": "ICE shooting gunman Joshua Jahn's search for video about Charlie Kirk, the recently assassinated conservative activist, adds to the evidence about his motive.",
+      "published": "Thu, 25 Sep 2025 20:19:04 GMT",
+      "content": "ICE shooting gunman Joshua Jahn's search for video about Charlie Kirk, the recently assassinated conservative activist, adds to the evidence about his motive.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "48557f8a46d247e484a4109e9ab320e3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DALLAS ICE SHOOTER LINKED TO CHARLIE KIRK VIDEO SEARCH 🚨\n\n- Gunman searched 'Charlie Kirk Shot Video' before ICE attack 🔍\n- FBI finds evidence linking shooter to conservative activist's assassination 🕵️‍♂️\n- Search adds to mounting evidence on shooter's motive 💡\n\nTAKEAWAY: The FBI's discovery of the ICE shooter's search history linking him to the recently assassinated activist Charlie Kirk sheds light on his possible motive.",
+      "exported_at": "2025-09-25T16:20:40.900270",
       "continuous_session": true
     }
   ]
