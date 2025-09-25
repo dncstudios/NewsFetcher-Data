@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-25T13:06:53.229514",
-    "total_articles": 1812,
-    "new_articles_in_last_fetch": 1812,
+    "created_at": "2025-09-25T13:32:20.227518",
+    "total_articles": 1814,
+    "new_articles_in_last_fetch": 1814,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -23545,6 +23545,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CARMAX STOCK DROPS 20% AFTER TOUGH QUARTER 📉\n\n- CarMax shares plummet 20% after missing earnings expectations 📉\n- Used auto retailer disappoints Wall Street with revenue figures 📉\n- Investors react to CarMax's challenging quarter results 📉\n\nTAKEAWAY: CarMax's stock takes a hit, dropping 20% after failing to meet earnings and revenue expectations, disappointing investors.",
       "exported_at": "2025-09-25T13:06:53.088715",
+      "continuous_session": true
+    },
+    {
+      "title": "Democrats dig in on health care demands with government shutdown days away",
+      "link": "https://www.cnbc.com/2025/09/25/trump-healthcare-government-shutdown-congress.html",
+      "summary": "Democrats say any stopgap funding to avoid a government shutdown must extend enhanced Obamacare tax credits, which are set to expire at the end of the year.",
+      "published": "Thu, 25 Sep 2025 17:31:51 GMT",
+      "content": "Democrats say any stopgap funding to avoid a government shutdown must extend enhanced Obamacare tax credits, which are set to expire at the end of the year.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d8c2ff3eb25b9cd59a6ad37886aef1fc",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DEMOCRATS PUSH FOR HEALTHCARE DEMANDS AS GOVERNMENT SHUTDOWN LOOMS ⚠️\n\n- Democrats insist on extending expiring Obamacare tax credits 🏥\n- Stopgap funding required to prevent imminent government shutdown ⏰\n- Enhanced tax credits crucial for healthcare affordability 📉\n- Democrats adamant in their stance for healthcare provisions 💪\n- Uncertainty looms as deadline approaches 🤯\n\nTAKEAWAY: Democrats stand firm on extending Obamacare tax credits as a crucial measure to prevent a government shutdown, emphasizing the importance of healthcare affordability.",
+      "exported_at": "2025-09-25T13:32:20.084264",
+      "continuous_session": true
+    },
+    {
+      "title": "Cramer says Starbucks is a buy after CEO announces store closures and layoffs",
+      "link": "https://www.cnbc.com/2025/09/25/cramer-says-starbucks-is-a-buy-after-it-announces-store-closures-layoffs-.html",
+      "summary": "The job cuts and store closures come as Starbucks looks to resuscitate its struggling business.",
+      "published": "Thu, 25 Sep 2025 17:28:07 GMT",
+      "content": "The job cuts and store closures come as Starbucks looks to resuscitate its struggling business.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "47a00674de481c0ea9d4584db0015da3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CRAMER BULLISH ON STARBUCKS AFTER CEO ANNOUNCES STORE CLOSURES 🚀\n\n- Starbucks plans job cuts, store closures to boost business 💼🏪\n- CEO's strategic move aims to revive struggling company 🔄\n- Cramer recommends buying Starbucks stock post-announcement 💰📈\n\nTAKEAWAY: Starbucks' bold decisions to trim jobs and close stores are seen as crucial steps to revitalize its business, earning a bullish stance from Cramer.",
+      "exported_at": "2025-09-25T13:32:20.084331",
       "continuous_session": true
     }
   ]
