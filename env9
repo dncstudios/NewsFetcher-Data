@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-25T13:32:20.227518",
-    "total_articles": 1814,
-    "new_articles_in_last_fetch": 1814,
+    "created_at": "2025-09-25T13:37:30.956520",
+    "total_articles": 1816,
+    "new_articles_in_last_fetch": 1816,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -23571,6 +23571,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CRAMER BULLISH ON STARBUCKS AFTER CEO ANNOUNCES STORE CLOSURES 🚀\n\n- Starbucks plans job cuts, store closures to boost business 💼🏪\n- CEO's strategic move aims to revive struggling company 🔄\n- Cramer recommends buying Starbucks stock post-announcement 💰📈\n\nTAKEAWAY: Starbucks' bold decisions to trim jobs and close stores are seen as crucial steps to revitalize its business, earning a bullish stance from Cramer.",
       "exported_at": "2025-09-25T13:32:20.084331",
+      "continuous_session": true
+    },
+    {
+      "title": "Global casting call for top traders: From TV weatherman to dentist, FundSeeder finds hidden talent",
+      "link": "https://www.cnbc.com/2025/09/25/global-casting-call-for-top-traders-from-tv-weatherman-to-dentist-fundseeder-finds-hidden-talent.html",
+      "summary": "\"There are lots of great traders globally that are completely unknown,\" \"Market Wizards\" author Jack Schwager said.",
+      "published": "Thu, 25 Sep 2025 17:29:50 GMT",
+      "content": "\"There are lots of great traders globally that are completely unknown,\" \"Market Wizards\" author Jack Schwager said.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "79cc64e0fca74eadd5447313135247c9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GLOBAL TALENT SEARCH FOR TOP TRADERS UNVEILS HIDDEN GEMS 🚀\n\n- FundSeeder uncovers hidden trading talent worldwide 🌍\n- Market Wizards author Jack Schwager commends undiscovered traders 🌟\n- Diverse backgrounds like TV weatherman and dentist show trading potential 💼\n\nTAKEAWAY: FundSeeder's global search for top traders reveals hidden gems from various backgrounds, showcasing untapped trading potential.",
+      "exported_at": "2025-09-25T13:37:30.813227",
+      "continuous_session": true
+    },
+    {
+      "title": "As streaming services hike prices, it&apos;s a battle over who blinks first",
+      "link": "https://www.cnbc.com/2025/09/25/disney-hulu-netflix-streaming-services-price-hikes.html",
+      "summary": "Disney+/Hulu hiked prices this week, the most recent of many streaming service increases. Churn is a concern, but entertainment giants haven't blinked yet.",
+      "published": "Thu, 25 Sep 2025 16:36:06 GMT",
+      "content": "Disney+/Hulu hiked prices this week, the most recent of many streaming service increases. Churn is a concern, but entertainment giants haven't blinked yet.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "085326f9ac45a83b2880920e72bc91e0",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STREAMING WARS: WHO WILL BLINK FIRST IN PRICE HIKES BATTLE? 🚀\n\n- Disney+/Hulu raise prices in latest streaming service trend\n- Concerns rise over customer churn due to frequent hikes\n- Entertainment giants hold firm, no signs of backing down\n\nTAKEAWAY: The battle over streaming service price hikes intensifies as entertainment giants stand their ground amidst customer churn concerns.",
+      "exported_at": "2025-09-25T13:37:30.813308",
       "continuous_session": true
     }
   ]
