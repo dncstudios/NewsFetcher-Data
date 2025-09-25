@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-25T18:58:23.930142",
-    "total_articles": 1842,
-    "new_articles_in_last_fetch": 1842,
+    "created_at": "2025-09-25T19:08:34.050145",
+    "total_articles": 1843,
+    "new_articles_in_last_fetch": 1843,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -23935,6 +23935,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FORMER FBI DIRECTOR JAMES COMEY INDICTED ⚠️\n\n- Ex-FBI Director James Comey indicted, facing legal action ⚖️\n- Attorney General Pam Bondi emphasizes justice for all 🏛️\n- \"No one is above the law,\" Bondi asserts in response to news 💪\n\nTAKEAWAY: Former FBI Director James Comey faces indictment, highlighting the principle that no one is exempt from the law.",
       "exported_at": "2025-09-25T18:58:23.803057",
+      "continuous_session": true
+    },
+    {
+      "title": "Former FBI Director James Comey indicted on criminal charges",
+      "link": "https://www.cnbc.com/2025/09/25/james-comey-indicted-fbi-trump.html",
+      "summary": "\"No one is above the law,\" Attorney General Pam Bondi wrote in a post on X as news of the indictment of James Comey broke.",
+      "published": "Thu, 25 Sep 2025 23:04:11 GMT",
+      "content": "\"No one is above the law,\" Attorney General Pam Bondi wrote in a post on X as news of the indictment of James Comey broke.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "422b0d6024fa48f38717623f5830d341",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FORMER FBI DIRECTOR JAMES COMEY INDICTED ⚠️\n\n- Ex-FBI Director James Comey indicted, facing legal action ⚖️\n- Attorney General Pam Bondi emphasizes justice for all 🏛️\n- \"No one is above the law,\" Bondi asserts in response to news 💪\n\nTAKEAWAY: Former FBI Director James Comey faces indictment, highlighting the principle that no one is exempt from the law.",
+      "exported_at": "2025-09-25T19:08:33.909525",
       "continuous_session": true
     }
   ]
