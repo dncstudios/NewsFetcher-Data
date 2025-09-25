@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-25T14:13:05.408863",
-    "total_articles": 1818,
-    "new_articles_in_last_fetch": 1818,
+    "created_at": "2025-09-25T14:18:16.624803",
+    "total_articles": 1819,
+    "new_articles_in_last_fetch": 1819,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -23623,6 +23623,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ORACLE, SILVER LAKE & MGX TO LEAD TIKTOK U.S. INVESTMENT 🚀\n\n- Oracle, Silver Lake, and MGX to own 45% of TikTok's U.S. business 📊\n- Major investors stepping in to secure control and influence 💪\n- Abu Dhabi's MGX joining forces with tech giants for strategic partnership 🌐\n\nTAKEAWAY: Oracle, Silver Lake, and MGX emerge as key players in TikTok's U.S. business, signaling a strategic move to secure control and influence in the popular social media platform.",
       "exported_at": "2025-09-25T14:13:05.277621",
+      "continuous_session": true
+    },
+    {
+      "title": "A rare &apos;quadruple top breakout&apos; points to even more gains for this defense giant",
+      "link": "https://www.cnbc.com/2025/09/25/a-rare-quadruple-top-breakout-points-to-even-more-gains-for-this-defense-giant.html",
+      "summary": "The charts on this defense contractor signal further upside ahead.",
+      "published": "Thu, 25 Sep 2025 18:00:01 GMT",
+      "content": "The charts on this defense contractor signal further upside ahead.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "352c0adb307c2eed2f2586a1db555592",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: A RARE 'QUADRUPLE TOP BREAKOUT' SIGNALS GROWTH FOR DEFENSE GIANT 🚀\n\n- Defense contractor shows 'quadruple top breakout' on charts 📈\n- Signal indicates potential for significant future gains 💰\n- Investors eyeing further upside in the defense sector 🎯\n- Market analysts optimistic about the company's growth trajectory 🌟\n- Chart patterns suggest a bullish trend for the defense giant 📈\n- Potential for increased market value and profitability in the future 💪\n\nTAKEAWAY: The 'quadruple top breakout' on the charts of this defense giant signals a promising path for future growth and increased market value, attracting investors and market analysts alike.",
+      "exported_at": "2025-09-25T14:18:16.488847",
       "continuous_session": true
     }
   ]
