@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-25T20:04:42.570541",
-    "total_articles": 1850,
-    "new_articles_in_last_fetch": 1850,
+    "created_at": "2025-09-25T20:09:50.860723",
+    "total_articles": 1851,
+    "new_articles_in_last_fetch": 1851,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -24039,6 +24039,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: YOUTUBE TV, NBCUNIVERSAL CARLARM 🚨\n\n- YouTube TV, NBCUniversal at risk of carriage dispute ⚠️\n- Impending blackout threatens NBC shows like \"Sunday Night Football\" 📺\n- Viewers may lose access to popular NBC programs 🚫\n\nTAKEAWAY: YouTube TV and NBCUniversal's potential carriage dispute puts popular NBC shows at risk of blackout, impacting viewers' access to favorite programs.",
       "exported_at": "2025-09-25T20:04:42.422637",
+      "continuous_session": true
+    },
+    {
+      "title": "Jim Cramer points out a stark divide in the economy",
+      "link": "https://www.cnbc.com/2025/09/25/jim-cramer-points-out-a-stark-divide-in-the-economy-.html",
+      "summary": "CNBC's Jim Cramer on Thursday suggested the current economy is divided into two parts.",
+      "published": "Fri, 26 Sep 2025 00:05:39 GMT",
+      "content": "CNBC's Jim Cramer on Thursday suggested the current economy is divided into two parts.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a3fb535f830d7432fcae172c22cc136c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JIM CRAMER IDENTIFIES ECONOMIC DIVIDE ⚡️\n\n- CNBC's Jim Cramer highlights stark economic division\n- Economy seen as split into two distinct parts\n- Cramer's analysis sheds light on current economic landscape\n\nTAKEAWAY: Jim Cramer's observation of a clear economic divide emphasizes the complexity and nuances within the current economic landscape.",
+      "exported_at": "2025-09-25T20:09:50.723952",
       "continuous_session": true
     }
   ]
