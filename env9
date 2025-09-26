@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-26T10:54:30.045870",
-    "total_articles": 1898,
-    "new_articles_in_last_fetch": 1898,
+    "created_at": "2025-09-26T11:19:56.766003",
+    "total_articles": 1900,
+    "new_articles_in_last_fetch": 1900,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -24661,6 +24661,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: A NEW QUANTUM COMPUTING KING EMERGES 🚀\n\n- Expert Jeff Kilburg reveals how to invest in IBM for quantum computing gains\n- IBM positioned to dominate quantum computing market\n- Options offer lower risk investment strategy for quantum computing trend\n\nTAKEAWAY: Jeff Kilburg's strategy provides a lower-risk option to capitalize on IBM's potential dominance in the quantum computing market.",
       "exported_at": "2025-09-26T10:54:29.893981",
+      "continuous_session": true
+    },
+    {
+      "title": "Money manager Howard Rubin arrested on federal sex trafficking charges",
+      "link": "https://www.cnbc.com/2025/09/26/howard-rubin-sex-trafficking-new-york-investment.html",
+      "summary": "Howard Rubin was sued in 2017 by two self-identified Playboy models and another model from Florida, who claimed they were beaten, sexually abused and raped.",
+      "published": "Fri, 26 Sep 2025 15:18:49 GMT",
+      "content": "Howard Rubin was sued in 2017 by two self-identified Playboy models and another model from Florida, who claimed they were beaten, sexually abused and raped.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e1811c1d10604e1f946a8e26ec85dd5f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: HOWARD RUBIN ARRESTED ON FEDERAL SEX TRAFFICKING CHARGES ⚠️\n\n- Howard Rubin faces federal charges for sex trafficking 🕵️‍♂️\n- Lawsuit filed in 2017 by Playboy models and a Florida model 📜\n- Allegations of abuse, rape, and violence against Rubin ⚠️\n\nTAKEAWAY: Howard Rubin's arrest on federal sex trafficking charges follows a 2017 lawsuit by models alleging abuse, rape, and violence.",
+      "exported_at": "2025-09-26T11:19:56.619612",
+      "continuous_session": true
+    },
+    {
+      "title": "Anthropic to triple international workforce in global AI push",
+      "link": "https://www.cnbc.com/2025/09/26/anthropic-global-ai-hiring-spree.html",
+      "summary": "Anthropic is accelerating its global enterprise expansion, tripling its international headcount and pushing deployment of Claude’s AI models across industries.",
+      "published": "Fri, 26 Sep 2025 15:11:45 GMT",
+      "content": "Anthropic is accelerating its global enterprise expansion, tripling its international headcount and pushing deployment of Claude’s AI models across industries.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4b225ec640fd192af0ca12c45f989d15",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ANTHROPIC TRIPLES INTERNATIONAL WORKFORCE FOR GLOBAL AI EXPANSION 🚀\n\n- Anthropic boosts international headcount, 3x growth 📈\n- Claude's AI models to be deployed across various industries 🌐\n- Accelerating global enterprise expansion efforts 🚀\n\nTAKEAWAY: Anthropic's bold move to triple its international workforce signals a major push in deploying AI models globally, setting the stage for significant industry impact.",
+      "exported_at": "2025-09-26T11:19:56.619676",
       "continuous_session": true
     }
   ]
