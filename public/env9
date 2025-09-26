@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-26T15:14:27.326162",
-    "total_articles": 1921,
-    "new_articles_in_last_fetch": 1921,
+    "created_at": "2025-09-26T16:05:15.011420",
+    "total_articles": 1923,
+    "new_articles_in_last_fetch": 1923,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -24960,6 +24960,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WALL STREET BRACES FOR SEPTEMBER JOBS REPORT IMPACT 🚨\n\n- September jobs report crucial for market stability 📊\n- Investors seek 'goldilocks' number for positive impact 🌟\n- Stocks at risk, vulnerable to report's outcome ⚠️\n\nTAKEAWAY: Wall Street anxiously awaits the September jobs report, hoping for a 'goldilocks' number to maintain market stability and prevent stock vulnerability.",
       "exported_at": "2025-09-26T15:14:27.166410",
+      "continuous_session": true
+    },
+    {
+      "title": "Electronic Arts stock closes up 15% on report company near $50 billion deal to go private",
+      "link": "https://www.cnbc.com/2025/09/26/electronic-arts-buyout.html",
+      "summary": "The deal would likely be the largest leverage buyout of all time, according to a report.",
+      "published": "Fri, 26 Sep 2025 20:00:39 GMT",
+      "content": "The deal would likely be the largest leverage buyout of all time, according to a report.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7aebebd03c1b8f1ad2d4edd07400a308",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ELECTRONIC ARTS STOCK SOARS 15% ON $50B PRIVATIZATION DEAL 🚀\n\n- EA stock surges on news of potential $50B privatization deal 💰\n- Deal could be the largest leverage buyout in history 🌟\n- Investors optimistic about the company going private 📈\n- EA's potential move to go private sparks market excitement 🎮\n- Report fuels speculations and interest in the gaming giant 🎯\n\nTAKEAWAY: Electronic Arts' stock skyrockets by 15% following reports of a massive $50 billion privatization deal, igniting investor enthusiasm and market buzz.",
+      "exported_at": "2025-09-26T16:05:14.865186",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks close higher Friday after in-line inflation data, but S&amp;P 500 snaps 3-week winning streak",
+      "link": "https://www.cnbc.com/2025/09/25/stock-market-today-live-updates.html",
+      "summary": "The Dow Jones Industrial Average was higher on Friday following the release of crucial inflation data.",
+      "published": "Fri, 26 Sep 2025 20:02:11 GMT",
+      "content": "The Dow Jones Industrial Average was higher on Friday following the release of crucial inflation data.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "82c2ed13e7a1d33fb8aef47555572908",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DOW JUMPS 100 POINTS ON IN-LINE PCE INFLATION REPORT 📈\n\n- Dow Jones rises after key inflation data release 📊\n- Market responds positively to in-line PCE inflation report ✅\n- Friday sees Dow Jones Industrial Average on the upswing 🚀\n\nTAKEAWAY: The Dow Jones surges 100 points as investors react favorably to in-line PCE inflation data, signaling positive market sentiment.",
+      "exported_at": "2025-09-26T16:05:14.865257",
       "continuous_session": true
     }
   ]
