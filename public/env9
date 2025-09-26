@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-25T23:22:46.048137",
-    "total_articles": 1857,
-    "new_articles_in_last_fetch": 1857,
+    "created_at": "2025-09-26T00:43:50.060734",
+    "total_articles": 1859,
+    "new_articles_in_last_fetch": 1859,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -24130,6 +24130,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FORMER FBI DIRECTOR JAMES COMEY INDICTED ON CHARGES 🚨\n\n- James Comey faces obstruction, false statement charges 💼\n- President Trump celebrates criminal charges against Comey 🎉\n- Trump fired Comey during his first term as FBI director 🔥\n\nTAKEAWAY: Former FBI Director James Comey indicted on charges, sparking reactions from President Trump and stirring up controversy.",
       "exported_at": "2025-09-25T23:22:45.892162",
+      "continuous_session": true
+    },
+    {
+      "title": "Asian pharma stocks extend declines after Trump slaps 100% levies on branded drugs",
+      "link": "https://www.cnbc.com/2025/09/26/asia-pacific-markets-trump-announces-new-tariffs-approves-tiktok-deal.html",
+      "summary": "The 100% duties apply to \"any branded or patented Pharmaceutical Product\" except for companies that build manufacturing plants in the U.S., Trump said Friday.",
+      "published": "Fri, 26 Sep 2025 04:39:20 GMT",
+      "content": "The 100% duties apply to \"any branded or patented Pharmaceutical Product\" except for companies that build manufacturing plants in the U.S., Trump said Friday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5657f4754bab35c3f0bf231d429b4847",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASIAN PHARMA STOCKS PLUNGE AFTER TRUMP'S 100% LEVIES ON BRANDED DRUGS 📉\n\n- Trump imposes 100% duties on branded drugs, exempt for US-based plants 🇺🇸\n- Asian pharma stocks tumble in response to the new levies 📉\n- Companies facing increased costs due to the levies 📈\n- Uncertainty looms over the impact on Asian pharmaceutical companies 🤔\n\nTAKEAWAY: Trump's decision to levy 100% duties on branded drugs causes Asian pharma stocks to plummet, raising concerns about increased costs and uncertainties for the companies.",
+      "exported_at": "2025-09-26T00:43:49.926281",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump slaps 25% tariffs on heavy truck imports, starting Oct. 1",
+      "link": "https://www.cnbc.com/2025/09/26/trump-slaps-25percent-tariffs-on-heavy-trucks-imports-starting-oct-1.html",
+      "summary": "The decision came as Trump took aim at a swath of imported goods with fresh tariffs, as part of the broader campaign to encourage domestic manufacturing.",
+      "published": "Fri, 26 Sep 2025 04:39:10 GMT",
+      "content": "The decision came as Trump took aim at a swath of imported goods with fresh tariffs, as part of the broader campaign to encourage domestic manufacturing.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b79ec58a2189f890fdcc78aa58ade188",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP IMPOSES 25% TARIFFS ON IMPORTED HEAVY TRUCKS 🚨\n\n- Tariffs effective from Oct. 1 to boost domestic manufacturing 📈\n- Trump targets various imported goods with new tariffs 🚛\n- Move aims to support local production and economy 🛠️\n\nTAKEAWAY: Trump's decision to impose 25% tariffs on heavy truck imports starting October 1 is part of a broader effort to spur domestic manufacturing and strengthen the economy.",
+      "exported_at": "2025-09-26T00:43:49.926358",
       "continuous_session": true
     }
   ]
