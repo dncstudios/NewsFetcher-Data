@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-26T06:08:52.592494",
-    "total_articles": 1868,
-    "new_articles_in_last_fetch": 1868,
+    "created_at": "2025-09-26T06:14:01.525313",
+    "total_articles": 1869,
+    "new_articles_in_last_fetch": 1869,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -24273,6 +24273,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: MAMDANI PUSHES CITY-OWNED GROCERY STORES TO CUT PRICES 🛒\n\n- NYC mayoral candidate Zohran Mamdani proposes city-run stores\n- Aim: make food affordable amidst rising urban prices 📉\n- Similar experiments nationwide show limited success 🌐\n\nTAKEAWAY: Zohran Mamdani advocates for city-owned grocery stores in NYC to combat rising prices, drawing from limited success of similar experiments nationwide.",
       "exported_at": "2025-09-26T06:08:52.430141",
+      "continuous_session": true
+    },
+    {
+      "title": "China stays conspicuously quiet after Trump’s TikTok deal declaration",
+      "link": "https://www.cnbc.com/2025/09/26/china-stays-conspicuously-quiet-after-trumps-tiktok-deal-declaration-.html",
+      "summary": "U.S. President Donald Trump says that he’s received Beijing's nod on a deal that would see TikTok stay alive in the U.S.",
+      "published": "Fri, 26 Sep 2025 09:52:38 GMT",
+      "content": "U.S. President Donald Trump says that he’s received Beijing's nod on a deal that would see TikTok stay alive in the U.S.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c83fdc521bf9c0426a667b91824cb270",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CHINA SILENT AFTER TRUMP DECLARES TIKTOK DEAL 🤐\n\n- Trump claims Beijing's approval for TikTok deal in the U.S. 🤝\n- China maintains silence post declaration 🤫\n- Uncertainty looms over China's stance on the deal 🤔\n\nTAKEAWAY: China's silence following Trump's announcement about the TikTok deal adds uncertainty to the situation, leaving the deal's fate in question.",
+      "exported_at": "2025-09-26T06:14:01.375020",
       "continuous_session": true
     }
   ]
