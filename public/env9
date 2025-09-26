@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-26T16:25:47.481380",
-    "total_articles": 1927,
-    "new_articles_in_last_fetch": 1927,
+    "created_at": "2025-09-26T16:56:16.381374",
+    "total_articles": 1928,
+    "new_articles_in_last_fetch": 1928,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -25038,6 +25038,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SPIRIT AIRLINES HALTS 40 ROUTES, HIRES EX-AMAZON EXEC ⚠️\n\n- Spirit Airlines halts 40 routes to concentrate on robust markets 🌍\n- Strategic move aims to optimize network efficiency 🎯\n- Company hires ex-Amazon exec for enhanced network planning ⚡️\n- Focus on profitable routes to drive revenue growth 📈\n- Decision reflects commitment to long-term sustainability ✅\n\nTAKEAWAY: By halting 40 routes and recruiting an ex-Amazon executive, Spirit Airlines demonstrates a strategic focus on optimizing efficiency and revenue growth for long-term success.",
       "exported_at": "2025-09-26T16:25:47.337466",
+      "continuous_session": true
+    },
+    {
+      "title": "NYC shooter Shane Tamura had CTE, medical examiner says",
+      "link": "https://www.cnbc.com/2025/09/26/nyc-shooter-shane-tamura-had-cte-medical-examiner-says.html",
+      "summary": "A brain examination determined the 27-year-old gunman had the degenerative brain disease.",
+      "published": "Fri, 26 Sep 2025 20:52:10 GMT",
+      "content": "A brain examination determined the 27-year-old gunman had the degenerative brain disease.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3cd082be392daea3d540af77b3a21493",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NYC SHOOTER DIAGNOSED WITH CTE 🧠\n\n- Medical examiner confirms 27-year-old shooter had CTE\n- CTE is a degenerative brain disease linked to repeated head trauma\n- Diagnosis sheds light on potential impact on shooter's behavior\n\nTAKEAWAY: The revelation of the NYC shooter having CTE raises questions about the effects of head trauma on violent behavior.",
+      "exported_at": "2025-09-26T16:56:16.242845",
       "continuous_session": true
     }
   ]
