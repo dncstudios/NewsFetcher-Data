@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-26T09:48:10.981520",
-    "total_articles": 1889,
-    "new_articles_in_last_fetch": 1889,
+    "created_at": "2025-09-26T10:08:38.477038",
+    "total_articles": 1894,
+    "new_articles_in_last_fetch": 1894,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -24545,6 +24545,70 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: OCTOBER RATE CUT CONFIRMED AFTER INFLATION REPORT 📈\n\n- Wall Street receives clear inflation data for Fed rate cut in October ✅\n- Future rate cuts uncertain beyond next month 🤷‍♂️\n- Market anticipates Fed's decision for subsequent rate adjustments 📉\n\nTAKEAWAY: Clear inflation data paves the way for an upcoming October rate cut, but uncertainty looms over future Federal Reserve decisions.",
       "exported_at": "2025-09-26T09:48:10.826904",
+      "continuous_session": true
+    },
+    {
+      "title": "OpenAI&apos;s historic week has redefined the AI arms race for investors: &apos;I don’t see this as crazy&apos;",
+      "link": "https://www.cnbc.com/2025/09/26/openai-big-week-ai-arms-race.html",
+      "summary": "OpenAI cemented its role as the central force in AI infrastructure this week, unveiling nearly a trillion dollars in planned spending.",
+      "published": "Fri, 26 Sep 2025 14:02:50 GMT",
+      "content": "OpenAI cemented its role as the central force in AI infrastructure this week, unveiling nearly a trillion dollars in planned spending.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "57f3c3d32a118a2d1a7f2f6258f4ce9e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: OPENAI'S TRILLION-DOLLAR PLAN SHIFTS AI LANDSCAPE 🚀\n\n- OpenAI emerges as leading force in AI infrastructure 🌐\n- Unveils groundbreaking trillion-dollar spending plan 💸\n- Redefines AI arms race, attracting investor attention 💡\n- Strategic move sets new industry standards 🎯\n- Signals long-term commitment to AI innovation 🔮\n- Potential to revolutionize tech landscape 🌟\n\nTAKEAWAY: OpenAI's trillion-dollar plan reshapes the AI industry, positioning them as a key player in the global AI arms race and attracting significant investor interest.",
+      "exported_at": "2025-09-26T10:08:38.346161",
+      "continuous_session": true
+    },
+    {
+      "title": "FAA to allow Boeing to sign off on 737 Maxes, 787s after years of restrictions",
+      "link": "https://www.cnbc.com/2025/09/26/faa-boeing-737-max-787.html",
+      "summary": "Boeing can sign off on its 737 Max and 787 Dreamliner planes before they're handed over to customers, the FAA said Friday.",
+      "published": "Fri, 26 Sep 2025 14:02:27 GMT",
+      "content": "Boeing can sign off on its 737 Max and 787 Dreamliner planes before they're handed over to customers, the FAA said Friday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "109977a3ae9d3710c1b9da4a926eb5fc",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FAA ALLOWS BOEING TO SELF-CERTIFY 737 MAX, 787 PLANES 🚀\n\n- Boeing granted authority to approve 737 Max, 787 Dreamliner deliveries ✈️\n- FAA's decision ends years of restrictions on Boeing's self-certification 🛫\n- Boeing can now sign off on planes before customer handover 🤝\n\nTAKEAWAY: FAA's approval for Boeing to self-certify 737 Max and 787 planes signals a milestone after years of restrictions, boosting efficiency and confidence in the aircraft manufacturer.",
+      "exported_at": "2025-09-26T10:08:38.346234",
+      "continuous_session": true
+    },
+    {
+      "title": "Deutsche Bank raises Tesla price target, says EV maker&apos;s AI initiatives will boost the stock",
+      "link": "https://www.cnbc.com/2025/09/26/deutsche-bank-raises-tesla-price-target-says-ev-makers-ai-initiatives-will-boost-the-stock.html",
+      "summary": "Deutsche Bank has a buy rating on Tesla.",
+      "published": "Fri, 26 Sep 2025 14:02:39 GMT",
+      "content": "Deutsche Bank has a buy rating on Tesla.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "353a96f380fff4956ead1a1839376b69",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "exported_at": "2025-09-26T10:08:38.346247",
+      "continuous_session": true
+    },
+    {
+      "title": "IRS delays hinder EV sales as tax credit deadline looms, car dealers say",
+      "link": "https://www.cnbc.com/2025/09/26/irs-delays-hinder-ev-sales-as-tax-credit-deadline-looms-car-dealers.html",
+      "summary": "Car dealers say the federal government has been slow to pay tax credits associated with electric vehicles since mid-September, putting them in a tough spot.",
+      "published": "Fri, 26 Sep 2025 14:00:35 GMT",
+      "content": "Car dealers say the federal government has been slow to pay tax credits associated with electric vehicles since mid-September, putting them in a tough spot.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b6a8d2da648483961d9afbc1178badac",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: IRS DELAYS THREATEN EV SALES AS TAX CREDIT DEADLINE NEARS ⚠️\n\n- Car dealers report slow federal tax credit payments for EVs ⏳\n- IRS delays since mid-September causing concerns 📉\n- Electric vehicle sales impacted as dealers await credits 💸\n- Dealers face challenges as tax credit deadline looms 🚫\n- Federal government's delay puts pressure on EV market ⏰\n\nTAKEAWAY: IRS delays in processing tax credits for electric vehicles are causing challenges for car dealers, impacting EV sales as the tax credit deadline approaches.",
+      "exported_at": "2025-09-26T10:08:38.346261",
+      "continuous_session": true
+    },
+    {
+      "title": "U.S. pharma tariffs spare India’s generic drugmakers — but leave investors jittery",
+      "link": "https://www.cnbc.com/2025/09/26/us-pharma-tariffs-investors-of-indias-generic-drugmakers-rattled.html",
+      "summary": "Investors of Indian pharmaceutical companies are worried about the prospect of further escalation amid U.S. trade tensions.",
+      "published": "Fri, 26 Sep 2025 13:56:03 GMT",
+      "content": "Investors of Indian pharmaceutical companies are worried about the prospect of further escalation amid U.S. trade tensions.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1c2cfcc5370f4f95a868b15856916fe5",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: U.S. SPARES INDIA'S DRUGMAKERS, INVESTORS NERVOUS 🚨\n\n- U.S. pharma tariffs exclude India's generic drugmakers 🇮🇳\n- Indian pharmaceutical investors jittery over trade tensions 📉\n- Concerns rise about potential escalation impacting industry 📈\n\nTAKEAWAY: While U.S. spares India's generic drugmakers from tariffs, investors are nervous about potential escalation and its impact on the pharmaceutical industry.",
+      "exported_at": "2025-09-26T10:08:38.346278",
       "continuous_session": true
     }
   ]
