@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-26T08:46:48.908279",
-    "total_articles": 1882,
-    "new_articles_in_last_fetch": 1882,
+    "created_at": "2025-09-26T09:07:14.737080",
+    "total_articles": 1884,
+    "new_articles_in_last_fetch": 1884,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -24454,6 +24454,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCKS WITH BIGGEST PREMARKET MOVES: PACCAR, INTEL, RH, RIOT PLATFORMS 🚀\n\n- Paccar, Intel, RH, Riot Platforms among top movers 📈\n- Stocks show significant movement before market open 🌅\n- Pre-market trading indicates potential volatility today 📊\n\nTAKEAWAY: Keep an eye on Paccar, Intel, RH, Riot Platforms as they show significant premarket movement, suggesting potential volatility in today's trading session.",
       "exported_at": "2025-09-26T08:46:48.763903",
+      "continuous_session": true
+    },
+    {
+      "title": "Warner Bros. Discovery poised for pullback as upside from potential Paramount deal runs out, KeyBanc says",
+      "link": "https://www.cnbc.com/2025/09/26/warner-bros-discovery-set-to-fall-after-68percent-one-month-move-keybanc-says-.html",
+      "summary": "Warner Bros. Discovery soared following reports of buyout talks with Paramount Skydance, but is unlikely to see much further upside, according to KeyBanc.",
+      "published": "Fri, 26 Sep 2025 13:04:17 GMT",
+      "content": "Warner Bros. Discovery soared following reports of buyout talks with Paramount Skydance, but is unlikely to see much further upside, according to KeyBanc.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "28cbd658f35255cca886e15d561be847",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WARNER BROS. DISCOVERY FACES PULLBACK AS PARAMOUNT DEAL UPSIDE DIMS 🚨\n\n- Warner Bros. Discovery surged post-Paramount Skydance buyout talks 📈\n- KeyBanc predicts limited future upside for Warner Bros. Discovery 📉\n- Potential Paramount deal no longer a major growth catalyst ✨\n\nTAKEAWAY: Despite the initial surge, Warner Bros. Discovery may face a pullback as the potential upside from the Paramount deal diminishes, as per KeyBanc.",
+      "exported_at": "2025-09-26T09:07:14.606998",
+      "continuous_session": true
+    },
+    {
+      "title": "Borrowing costs are falling—why aren&apos;t mortgage rates?",
+      "link": "https://www.cnbc.com/2025/09/26/why-borrowing-costs-are-falling-but-mortgage-rates-arent.html",
+      "summary": "Even with cuts to borrowing costs, homebuyers have faced 30-year mortgage rates above 6% for the past three years.",
+      "published": "Fri, 26 Sep 2025 13:00:01 GMT",
+      "content": "Even with cuts to borrowing costs, homebuyers have faced 30-year mortgage rates above 6% for the past three years.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9229f9f12e3ec65b4b7c9176a2e579dd",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BORROWING COSTS DROP, YET MORTGAGE RATES STAGNATE 📉\n\n- Borrowing costs decrease, but 30-year mortgage rates remain high 🏠\n- Homebuyers puzzled by elevated rates despite falling costs 🧐\n- Mortgage rates stuck above 6% for the past 3 years ⏳\n\nTAKEAWAY: Despite declining borrowing costs, homebuyers are left questioning why mortgage rates have remained stubbornly high above 6% for an extended period.",
+      "exported_at": "2025-09-26T09:07:14.607085",
       "continuous_session": true
     }
   ]
