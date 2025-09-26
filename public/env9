@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-26T13:12:17.261824",
-    "total_articles": 1914,
-    "new_articles_in_last_fetch": 1914,
+    "created_at": "2025-09-26T13:52:55.284132",
+    "total_articles": 1915,
+    "new_articles_in_last_fetch": 1915,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -24869,6 +24869,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ALUMINUM PRODUCER PRIMED FOR A BULLISH JUMP, SAYS CARTER WORTH 🚀\n\n- Technical analysis by Carter Worth signals positive momentum 📈\n- Charts point to a potential uptrend for the aluminum producer 📈\n- Market indicators suggest a bullish outlook for the company 🔥\n- Carter Worth's analysis predicts a favorable trajectory for the producer 📊\n\nTAKEAWAY: According to Carter Worth's technical analysis, the aluminum producer shows strong potential for a bullish jump, backed by positive market indicators and chart patterns.",
       "exported_at": "2025-09-26T13:12:17.141408",
+      "continuous_session": true
+    },
+    {
+      "title": "Student loan borrower backlog for forgiveness swells to 74,510 under Trump",
+      "link": "https://www.cnbc.com/2025/09/26/student-loan-borrower-pslf-buyback-backlog.html",
+      "summary": "The backlog of student loan borrowers trying to access Public Service Loan Forgiveness continues to grow under the Trump administration. Here's what to know.",
+      "published": "Fri, 26 Sep 2025 17:29:53 GMT",
+      "content": "The backlog of student loan borrowers trying to access Public Service Loan Forgiveness continues to grow under the Trump administration. Here's what to know.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "17ded503b16262164cf91bf6e3e8fcbd",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STUDENT LOAN FORGIVENESS BACKLOG SWELLS TO 74,510 UNDER TRUMP ⚠️\n\n- 74,510 borrowers face backlog for Public Service Loan Forgiveness 📈\n- Backlog grows amid challenges accessing loan forgiveness program 🚫\n- Trump administration linked to increasing delays for borrowers ⚠️\n- Public Service Loan Forgiveness program faces mounting criticism 📉\n\nTAKEAWAY: The backlog of 74,510 student loan borrowers seeking Public Service Loan Forgiveness has grown under the Trump administration, raising concerns about delays and challenges in accessing the program.",
+      "exported_at": "2025-09-26T13:52:55.128135",
       "continuous_session": true
     }
   ]
