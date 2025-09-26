@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-26T11:19:56.766003",
-    "total_articles": 1900,
-    "new_articles_in_last_fetch": 1900,
+    "created_at": "2025-09-26T11:25:03.191800",
+    "total_articles": 1901,
+    "new_articles_in_last_fetch": 1901,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -24687,6 +24687,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ANTHROPIC TRIPLES INTERNATIONAL WORKFORCE FOR GLOBAL AI EXPANSION 🚀\n\n- Anthropic boosts international headcount, 3x growth 📈\n- Claude's AI models to be deployed across various industries 🌐\n- Accelerating global enterprise expansion efforts 🚀\n\nTAKEAWAY: Anthropic's bold move to triple its international workforce signals a major push in deploying AI models globally, setting the stage for significant industry impact.",
       "exported_at": "2025-09-26T11:19:56.619676",
+      "continuous_session": true
+    },
+    {
+      "title": "Ahead of EV tax credit deadline, IRS delays create &apos;anxiety&apos; for car dealers",
+      "link": "https://www.cnbc.com/2025/09/26/irs-delays-hinder-ev-sales-as-tax-credit-deadline-looms-car-dealers.html",
+      "summary": "Car dealers say the federal government has been slow to pay tax credits associated with electric vehicles since mid-September, putting them in a tough spot.",
+      "published": "Fri, 26 Sep 2025 15:23:46 GMT",
+      "content": "Car dealers say the federal government has been slow to pay tax credits associated with electric vehicles since mid-September, putting them in a tough spot.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7df10ce8582de8d6b359a93e30939c2e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: IRS DELAYS THREATEN EV SALES AS TAX CREDIT DEADLINE NEARS ⚠️\n\n- Car dealers report slow federal tax credit payments for EVs ⏳\n- IRS delays since mid-September causing concerns 📉\n- Electric vehicle sales impacted as dealers await credits 💸\n- Dealers face challenges as tax credit deadline looms 🚫\n- Federal government's delay puts pressure on EV market ⏰\n\nTAKEAWAY: IRS delays in processing tax credits for electric vehicles are causing challenges for car dealers, impacting EV sales as the tax credit deadline approaches.",
+      "exported_at": "2025-09-26T11:25:03.057856",
       "continuous_session": true
     }
   ]
