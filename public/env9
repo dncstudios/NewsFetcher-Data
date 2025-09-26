@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-26T08:36:31.914405",
-    "total_articles": 1880,
-    "new_articles_in_last_fetch": 1880,
+    "created_at": "2025-09-26T08:41:39.898880",
+    "total_articles": 1881,
+    "new_articles_in_last_fetch": 1881,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -24428,6 +24428,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CORE INFLATION HOLDS STRONG AT 2.9% IN AUGUST, FED'S EXPECTED GAUGE ⚡️\n\n- August's core inflation rate matches Fed's 2.9% expectation ✅\n- Personal consumption expenditures price index remains stable 💪\n- Consistent inflation rate aligns with Fed's projections 📊\n\nTAKEAWAY: August's core inflation rate meeting expectations provides stability and aligns with the Fed's projections, indicating a steady economic outlook.",
       "exported_at": "2025-09-26T08:36:31.776768",
+      "continuous_session": true
+    },
+    {
+      "title": "Social Security&apos;s retirement age wording may change. Here’s what to know",
+      "link": "https://www.cnbc.com/2025/09/26/social-security-retirement-age-wording-change.html",
+      "summary": "Deciding when to claim Social Security retirement benefits is a big decision. A new proposal calls for changing the way those ages are described.",
+      "published": "Fri, 26 Sep 2025 12:38:01 GMT",
+      "content": "Deciding when to claim Social Security retirement benefits is a big decision. A new proposal calls for changing the way those ages are described.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0f52d392047747069de9787c8fd1d493",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SOCIAL SECURITY RETIREMENT AGE UPDATE PROPOSAL: WHAT YOU NEED TO KNOW ⚠️\n\n- Proposal suggests rephrasing Social Security retirement age descriptions 🔄\n- Decision on when to claim benefits impacts retirement planning 📊\n- Potential change aims to provide clearer understanding for recipients ✅\n\nTAKEAWAY: A proposed update in Social Security retirement age descriptions could bring clarity and impact retirement planning decisions for recipients.",
+      "exported_at": "2025-09-26T08:41:39.776740",
       "continuous_session": true
     }
   ]
