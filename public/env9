@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-26T00:43:50.060734",
-    "total_articles": 1859,
-    "new_articles_in_last_fetch": 1859,
+    "created_at": "2025-09-26T00:54:03.216792",
+    "total_articles": 1860,
+    "new_articles_in_last_fetch": 1860,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -24156,6 +24156,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP IMPOSES 25% TARIFFS ON IMPORTED HEAVY TRUCKS 🚨\n\n- Tariffs effective from Oct. 1 to boost domestic manufacturing 📈\n- Trump targets various imported goods with new tariffs 🚛\n- Move aims to support local production and economy 🛠️\n\nTAKEAWAY: Trump's decision to impose 25% tariffs on heavy truck imports starting October 1 is part of a broader effort to spur domestic manufacturing and strengthen the economy.",
       "exported_at": "2025-09-26T00:43:49.926358",
+      "continuous_session": true
+    },
+    {
+      "title": "Fever to fatigue? Pop Mart is actually happy that Labubu resale prices are dropping",
+      "link": "https://www.cnbc.com/2025/09/26/fever-to-fatigue-pop-mart-is-actually-happy-that-labubu-resale-prices-are-dropping.html",
+      "summary": "Pop Mart previously let Labubu resale prices run to boost its popularity, but is now pivoting to a more sustainable model, research firm ChoZan said.",
+      "published": "Fri, 26 Sep 2025 04:48:06 GMT",
+      "content": "Pop Mart previously let Labubu resale prices run to boost its popularity, but is now pivoting to a more sustainable model, research firm ChoZan said.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9edcdc36d77c96f0cb5c1920207522b4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: POP MART CELEBRATES LABUBU RESALE PRICE DROP 🎉\n\n- Pop Mart shifts focus from boosting Labubu prices to sustainability 🔄\n- Research firm ChoZan reports on Pop Mart's strategic pivot 📊\n- Labubu resale prices decrease, indicating a shift in strategy 💰\n\nTAKEAWAY: Pop Mart's decision to prioritize sustainability over artificially inflating Labubu resale prices marks a strategic shift in their business model.",
+      "exported_at": "2025-09-26T00:54:03.059235",
       "continuous_session": true
     }
   ]
