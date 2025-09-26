@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-26T05:33:13.131626",
-    "total_articles": 1864,
-    "new_articles_in_last_fetch": 1864,
+    "created_at": "2025-09-26T05:43:27.409691",
+    "total_articles": 1867,
+    "new_articles_in_last_fetch": 1867,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -24221,6 +24221,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ARC'TERYX'S BOLD CAMPAIGN BACKFIRES INTO PR CAUTIONARY TALE ⚠️\n\n- Arc'teryx's marketing campaign in Tibet sparks social media outrage 📣\n- Fireworks display criticized for environmental impact 🌍\n- Backlash highlights potential PR damage for the Canadian brand 🇨🇦\n\nTAKEAWAY: Arc'teryx's bold marketing move in Tibet turns into a cautionary tale, emphasizing the importance of considering environmental implications in campaigns.",
       "exported_at": "2025-09-26T05:33:12.997953",
+      "continuous_session": true
+    },
+    {
+      "title": "Republicans own U.S. government shutdown if it happens, top Democrat Jeffries warns",
+      "link": "https://www.cnbc.com/2025/09/25/jeffries-democrats-government-shutdown-republicans.html",
+      "summary": "House Minority Leader Hakeem Jeffries' comments come days before the government is set to shut down unless lawmakers reach a deal.",
+      "published": "Thu, 25 Sep 2025 20:35:49 GMT",
+      "content": "House Minority Leader Hakeem Jeffries' comments come days before the government is set to shut down unless lawmakers reach a deal.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "cf3f8594ee36112800c70057713065f8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TOP DEMOCRAT BLAMES REPUBLICANS FOR POTENTIAL GOVERNMENT SHUTDOWN ⚠️\n\n- Democrat Jeffries accuses Republicans of causing government shutdown 🏛️\n- Deadline approaching for lawmakers to strike a deal ⏳\n- Tensions rise as shutdown looms closer 📈\n\nTAKEAWAY: The looming government shutdown sparks tensions as top Democrat Jeffries accuses Republicans of being responsible for the potential crisis.",
+      "exported_at": "2025-09-26T05:43:27.265308",
+      "continuous_session": true
+    },
+    {
+      "title": "Jim Cramer says to take a &apos;wait and see&apos; approach to homebuilders as interest rate cuts fail to bring down mortgage rates",
+      "link": "https://www.cnbc.com/2025/09/25/jim-cramer-says-to-take-a-wait-and-see-approach-to-homebuilders.html",
+      "summary": "CNBC's Jim Cramer on Thursday reviewed recent earnings reports from major homebuilders Lennar and KB Home.",
+      "published": "Thu, 25 Sep 2025 22:45:22 GMT",
+      "content": "CNBC's Jim Cramer on Thursday reviewed recent earnings reports from major homebuilders Lennar and KB Home.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "49fc8c96d4ffa76403db014c5e4f1df7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JIM CRAMER'S ADVICE ON HOMEBUILDERS AMID INTEREST RATE CUTS ⚠️\n\n- Major homebuilders' earnings reports reviewed by Jim Cramer 🏗️\n- Interest rate cuts not reducing mortgage rates as expected 📉\n- Cramer advises a cautious \"wait and see\" approach 🤔\n\nTAKEAWAY: Jim Cramer's cautious stance on homebuilders amidst unmet expectations of reduced mortgage rates highlights the need for a patient strategy.",
+      "exported_at": "2025-09-26T05:43:27.265360",
+      "continuous_session": true
+    },
+    {
+      "title": "Costco&apos;s quarter wasn&apos;t perfect, but most of the metrics that matter to investors were solid",
+      "link": "https://www.cnbc.com/2025/09/25/costco-quarter-wasnt-perfect-but-most-of-the-metrics-that-matter-were-solid.html",
+      "summary": "Costco once again delivered a steady quarter, even as tariffs and a cautious consumer added volatility to the retail environment.",
+      "published": "Thu, 25 Sep 2025 23:55:27 GMT",
+      "content": "Costco once again delivered a steady quarter, even as tariffs and a cautious consumer added volatility to the retail environment.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "49fbc0378bc62415cb200dcebfad9f04",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: COSTCO'S SOLID QUARTER AMID RETAIL VOLATILITY 🚀\n\n- Costco's quarter remains steady despite retail challenges\n- Tariffs and cautious consumers impact the retail environment\n- Most key metrics important to investors show strength\n\nTAKEAWAY: Despite retail challenges, Costco's solid performance in key metrics during the quarter reflects resilience in a volatile market.",
+      "exported_at": "2025-09-26T05:43:27.265368",
       "continuous_session": true
     }
   ]
