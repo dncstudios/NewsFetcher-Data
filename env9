@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-26T14:03:08.775829",
-    "total_articles": 1916,
-    "new_articles_in_last_fetch": 1916,
+    "created_at": "2025-09-26T14:08:19.078307",
+    "total_articles": 1917,
+    "new_articles_in_last_fetch": 1917,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -24895,6 +24895,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SINCLAIR-OWNED ABC STATIONS TO RESUME AIRING 'JIMMY KIMMEL LIVE' 🚀\n\n- Sinclair-owned ABC stations bring back 'Jimmy Kimmel Live' 📺\n- Program returns after three days of being preempted ⏰\n- Viewers can enjoy the show on ABC stations again 📺\n\nTAKEAWAY: 'Jimmy Kimmel Live' resumes airing on Sinclair-owned ABC stations, delighting viewers who can now enjoy the show after a short hiatus.",
       "exported_at": "2025-09-26T14:03:08.632180",
+      "continuous_session": true
+    },
+    {
+      "title": "Forget the 60/40, here is what you need in your portfolio, says Bank of America’s Hartnett",
+      "link": "https://www.cnbc.com/2025/09/26/not-the-60/40-here-is-what-you-need-in-your-portfolio-bank-of-america.html",
+      "summary": "Bank of America strategist Michael Hartnett breaks down his 25/25/25/25 portfolio and explains why it is performing better than the 60/40 this year.",
+      "published": "Fri, 26 Sep 2025 18:01:42 GMT",
+      "content": "Bank of America strategist Michael Hartnett breaks down his 25/25/25/25 portfolio and explains why it is performing better than the 60/40 this year.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f7ae20828eb9cedf213a8bc921de18c4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FORGET THE 60/40, BANK OF AMERICA'S HARTNETT REVEALS THE 25/25/25/25 PORTFOLIO 🚀\n\n- Bank of America's Hartnett recommends a diversified 25/25/25/25 portfolio\n- The 25/25/25/25 model has outperformed the traditional 60/40 portfolio\n- Hartnett explains the strategy behind the 25/25/25/25 allocation\n- Diversification key to success in the current market environment ✅\n- Investors urged to consider alternative portfolio structures for better performance\n- Bank of America's new approach aims to optimize returns and manage risks effectively\n\nTAKEAWAY: Bank of America's Hartnett challenges the traditional 60/40 portfolio, advocating for a diversified 25/25/25/25 model for improved performance and risk management.",
+      "exported_at": "2025-09-26T14:08:18.926498",
       "continuous_session": true
     }
   ]
