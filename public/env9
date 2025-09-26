@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-25T20:09:50.860723",
-    "total_articles": 1851,
-    "new_articles_in_last_fetch": 1851,
+    "created_at": "2025-09-25T20:14:59.723274",
+    "total_articles": 1852,
+    "new_articles_in_last_fetch": 1852,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -24052,6 +24052,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JIM CRAMER IDENTIFIES ECONOMIC DIVIDE ⚡️\n\n- CNBC's Jim Cramer highlights stark economic division\n- Economy seen as split into two distinct parts\n- Cramer's analysis sheds light on current economic landscape\n\nTAKEAWAY: Jim Cramer's observation of a clear economic divide emphasizes the complexity and nuances within the current economic landscape.",
       "exported_at": "2025-09-25T20:09:50.723952",
+      "continuous_session": true
+    },
+    {
+      "title": "U.S. to impose 100% tariff on branded, patented drugs unless firms build plants locally, Trump says",
+      "link": "https://www.cnbc.com/2025/09/26/us-to-impose-100percent-tariff-on-branded-patented-drugs-unless-firms-build-plants-locally-trump-says.html",
+      "summary": "The measure will not apply to companies building drug manufacturing plants in the U.S., Trump added.",
+      "published": "Fri, 26 Sep 2025 00:11:01 GMT",
+      "content": "The measure will not apply to companies building drug manufacturing plants in the U.S., Trump added.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "bee47bcaf4fceb75983be0b1a266ce05",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: U.S. TO IMPOSE 100% TARIFF ON DRUGS UNLESS FIRMS BUILD LOCAL PLANTS 🚨\n\n- 100% tariff on branded, patented drugs if not made locally 🏭\n- Exempt for companies constructing drug plants in the U.S. ✅\n- Trump aims to encourage local drug manufacturing 🇺🇸\n- Move could impact international pharmaceutical firms 🌎\n- Companies urged to invest in U.S. manufacturing facilities 🏗️\n\nTAKEAWAY: Trump's tariff threat pushes for local drug production, impacting global pharmaceutical companies and driving investment in U.S. manufacturing.",
+      "exported_at": "2025-09-25T20:14:59.577891",
       "continuous_session": true
     }
   ]
