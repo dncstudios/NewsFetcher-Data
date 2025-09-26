@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-26T12:26:15.849814",
-    "total_articles": 1906,
-    "new_articles_in_last_fetch": 1906,
+    "created_at": "2025-09-26T12:31:26.597785",
+    "total_articles": 1909,
+    "new_articles_in_last_fetch": 1909,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -24765,6 +24765,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: EX-META CHIEF URGES TECH TO STAY APOLITICAL 🚫\n\n- Nick Clegg advises tech firms to steer clear of political entanglements 📵\n- Emphasizes importance of neutrality in navigating global affairs 🌍\n- Calls for tech industry to prioritize innovation over political influence 💡\n\nTAKEAWAY: Former Meta executive Nick Clegg advocates for tech companies to maintain neutrality and focus on innovation rather than getting involved in politics.",
       "exported_at": "2025-09-26T12:26:15.697130",
+      "continuous_session": true
+    },
+    {
+      "title": "OpenAI&apos;s historic week has redefined the AI arms race for investors: &apos;I don&apos;t see this as crazy&apos;",
+      "link": "https://www.cnbc.com/2025/09/26/openai-big-week-ai-arms-race.html",
+      "summary": "OpenAI cemented its role as the central force in AI infrastructure this week, unveiling nearly a trillion dollars in planned spending.",
+      "published": "Fri, 26 Sep 2025 16:27:22 GMT",
+      "content": "OpenAI cemented its role as the central force in AI infrastructure this week, unveiling nearly a trillion dollars in planned spending.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b9695100aee01fa120a48cfbb020975c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: OPENAI'S TRILLION-DOLLAR PLAN SHIFTS AI LANDSCAPE 🚀\n\n- OpenAI emerges as leading force in AI infrastructure 🌐\n- Unveils groundbreaking trillion-dollar spending plan 💸\n- Redefines AI arms race, attracting investor attention 💡\n- Strategic move sets new industry standards 🎯\n- Signals long-term commitment to AI innovation 🔮\n- Potential to revolutionize tech landscape 🌟\n\nTAKEAWAY: OpenAI's trillion-dollar plan reshapes the AI industry, positioning them as a key player in the global AI arms race and attracting significant investor interest.",
+      "exported_at": "2025-09-26T12:31:26.455764",
+      "continuous_session": true
+    },
+    {
+      "title": "CDC takes down more than a dozen webpages on sexual and gender identity, health equity",
+      "link": "https://www.cnbc.com/2025/09/26/cdc-webpages-on-sexual-gender-identity-health-equity-removed.html",
+      "summary": "Some health equity advocates say removing such resources could create gaps in access to critical health information, especially for marginalized groups.",
+      "published": "Fri, 26 Sep 2025 16:24:07 GMT",
+      "content": "Some health equity advocates say removing such resources could create gaps in access to critical health information, especially for marginalized groups.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "24abe91fdaae6bf9c66db8b1125b40f2",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CDC REMOVES WEBPAGES ON SEXUAL & GENDER IDENTITY ⚠️\n\n- CDC removes over a dozen pages on sexual & gender identity 🚫\n- Concerns raised about access to critical health info for marginalized groups 🌍\n- Advocates warn of potential gaps in health equity resources ⚠️\n\nTAKEAWAY: CDC's removal of webpages on sexual and gender identity raises concerns about access to crucial health information, particularly for marginalized communities.",
+      "exported_at": "2025-09-26T12:31:26.455830",
+      "continuous_session": true
+    },
+    {
+      "title": "Here&apos;s what to know about a federal government shutdown",
+      "link": "https://www.cnbc.com/2025/09/26/government-shutdown-jobs-economy-trump.html",
+      "summary": "The government previously shut down during President Donald Trump's first term over disputes about funding his planned U.S.-Mexico border wall.",
+      "published": "Fri, 26 Sep 2025 16:22:31 GMT",
+      "content": "The government previously shut down during President Donald Trump's first term over disputes about funding his planned U.S.-Mexico border wall.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "00a446858417a9b7115e9b016dc49955",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FEDERAL GOVERNMENT SHUTDOWN LOOMS AGAIN ⚠️\n\n- Previous shutdown under Trump due to U.S.-Mexico border wall funding 💰\n- Potential repeat scenario creates uncertainty 🤔\n- Impact on economy and government services at risk 📉\n\nTAKEAWAY: The looming threat of a federal government shutdown raises concerns about potential economic impacts and service disruptions.",
+      "exported_at": "2025-09-26T12:31:26.455844",
       "continuous_session": true
     }
   ]
