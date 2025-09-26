@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-26T09:22:31.583227",
-    "total_articles": 1885,
-    "new_articles_in_last_fetch": 1885,
+    "created_at": "2025-09-26T09:27:41.109953",
+    "total_articles": 1886,
+    "new_articles_in_last_fetch": 1886,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -24493,6 +24493,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JIM CRAMER'S TOP 10 STOCK MARKET WATCHLIST 🚀\n\n- S&P 500 anticipates a higher open after 3 consecutive down days 🔼\n- Market focus on key indicators for Friday trading 📈\n- Investors eyeing potential market shifts and trends 💼\n\nTAKEAWAY: Stay alert as the stock market gears up for potential positive movements after recent downturns, with a focus on key market indicators.",
       "exported_at": "2025-09-26T09:22:31.432837",
+      "continuous_session": true
+    },
+    {
+      "title": "How gold and bitcoin are moving beyond market hedge to become income-generating investments",
+      "link": "https://www.cnbc.com/2025/09/26/gold-bitcoin-market-hedge-income-yield-opportunities-blackrock-etf.html",
+      "summary": "Investors want exposure to alternative assets that don't move with stocks and bonds. They also want income. Wall Street and BlackRock have an answer.",
+      "published": "Fri, 26 Sep 2025 13:27:29 GMT",
+      "content": "Investors want exposure to alternative assets that don't move with stocks and bonds. They also want income. Wall Street and BlackRock have an answer.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "edf37c1dc87ca17979c2a91d9f4d6b23",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GOLD & BITCOIN: INCOME-GENERATING INVESTMENTS ON THE RISE 🚀\n\n- Investors seek assets not correlated to stocks & bonds 📈\n- Demand rises for income-generating alternatives 💰\n- Wall Street & BlackRock offer solutions to meet needs ✅\n- Gold & bitcoin positioned beyond traditional market hedge 🌟\n- Shift towards assets providing both stability & income 🔒\n- Trend reflects growing interest in diversification strategies 📈\n\nTAKEAWAY: Gold and bitcoin are no longer just market hedges; they are emerging as income-generating investments, meeting investor demand for diversification and stability.",
+      "exported_at": "2025-09-26T09:27:40.959893",
       "continuous_session": true
     }
   ]
