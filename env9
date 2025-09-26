@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-25T19:49:24.999677",
-    "total_articles": 1849,
-    "new_articles_in_last_fetch": 1849,
+    "created_at": "2025-09-25T20:04:42.570541",
+    "total_articles": 1850,
+    "new_articles_in_last_fetch": 1850,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -24026,6 +24026,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NASA MARSHALL SPACE FLIGHT CENTER DIRECTOR RESIGNS 🚀\n\n- Joseph Pelfrey steps down as director of NASA Marshall 🌌\n- Resignation announced on Thursday in Huntsville, Alabama 🗓️\n- Leadership change impacts operations at the space center 🛰️\n\nTAKEAWAY: Joseph Pelfrey's resignation as director of NASA's Marshall Space Flight Center in Huntsville, Alabama, brings changes to the space center's leadership and operations.",
       "exported_at": "2025-09-25T19:49:24.855142",
+      "continuous_session": true
+    },
+    {
+      "title": "YouTube TV, NBCUniversal warn of impending carriage dispute that could lead to network blackout",
+      "link": "https://www.cnbc.com/2025/09/25/youtube-tv-nbcuniversal-impending-carriage-dispute.html",
+      "summary": "YouTube TV and NBCUniversal may be heading toward a carriage dispute that could black out NBC programming such as \"Sunday Night Football\"",
+      "published": "Fri, 26 Sep 2025 00:01:55 GMT",
+      "content": "YouTube TV and NBCUniversal may be heading toward a carriage dispute that could black out NBC programming such as \"Sunday Night Football\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "28fb57271a94042293699a940b735bf2",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: YOUTUBE TV, NBCUNIVERSAL CARLARM 🚨\n\n- YouTube TV, NBCUniversal at risk of carriage dispute ⚠️\n- Impending blackout threatens NBC shows like \"Sunday Night Football\" 📺\n- Viewers may lose access to popular NBC programs 🚫\n\nTAKEAWAY: YouTube TV and NBCUniversal's potential carriage dispute puts popular NBC shows at risk of blackout, impacting viewers' access to favorite programs.",
+      "exported_at": "2025-09-25T20:04:42.422637",
       "continuous_session": true
     }
   ]
