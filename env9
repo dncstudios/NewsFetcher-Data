@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-26T10:39:13.008153",
-    "total_articles": 1897,
-    "new_articles_in_last_fetch": 1897,
+    "created_at": "2025-09-26T10:54:30.045870",
+    "total_articles": 1898,
+    "new_articles_in_last_fetch": 1898,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -24648,6 +24648,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WHAT SALESFORCE MUST DO TO BOOST AI STRATEGY AND REVIVE STOCK 🚀\n\n- Agentforce launched 1 year ago, stock struggling 📉\n- Criticism of AI strategy impacting Salesforce shares 💥\n- Dreamforce conference approaching in 1 month ⏳\n\nTAKEAWAY: Salesforce needs to address AI strategy criticisms to revive its struggling stock performance ahead of the upcoming Dreamforce conference.",
       "exported_at": "2025-09-26T10:39:12.868304",
+      "continuous_session": true
+    },
+    {
+      "title": "There&apos;s a new potential quantum computing king. How to invest in it with less risk using options",
+      "link": "https://www.cnbc.com/2025/09/26/theres-a-new-potential-quantum-computing-king-how-to-invest-in-it-with-less-risk-using-options.html",
+      "summary": "Jeff Kilburg gives a way to play the upside in IBM on the new tech trend of quantum computing.",
+      "published": "Fri, 26 Sep 2025 14:43:00 GMT",
+      "content": "Jeff Kilburg gives a way to play the upside in IBM on the new tech trend of quantum computing.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "cec66a1e97b2239fede2985531a9b613",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: A NEW QUANTUM COMPUTING KING EMERGES 🚀\n\n- Expert Jeff Kilburg reveals how to invest in IBM for quantum computing gains\n- IBM positioned to dominate quantum computing market\n- Options offer lower risk investment strategy for quantum computing trend\n\nTAKEAWAY: Jeff Kilburg's strategy provides a lower-risk option to capitalize on IBM's potential dominance in the quantum computing market.",
+      "exported_at": "2025-09-26T10:54:29.893981",
       "continuous_session": true
     }
   ]
