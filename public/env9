@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-26T08:41:39.898880",
-    "total_articles": 1881,
-    "new_articles_in_last_fetch": 1881,
+    "created_at": "2025-09-26T08:46:48.908279",
+    "total_articles": 1882,
+    "new_articles_in_last_fetch": 1882,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -24441,6 +24441,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SOCIAL SECURITY RETIREMENT AGE UPDATE PROPOSAL: WHAT YOU NEED TO KNOW ⚠️\n\n- Proposal suggests rephrasing Social Security retirement age descriptions 🔄\n- Decision on when to claim benefits impacts retirement planning 📊\n- Potential change aims to provide clearer understanding for recipients ✅\n\nTAKEAWAY: A proposed update in Social Security retirement age descriptions could bring clarity and impact retirement planning decisions for recipients.",
       "exported_at": "2025-09-26T08:41:39.776740",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest premarket moves: Paccar, Intel, RH, Riot Platforms and more",
+      "link": "https://www.cnbc.com/2025/09/26/stocks-making-big-premarket-moves-paccar-intel-rh-riot-platforms-and-more.html",
+      "summary": "These are some of the stocks posting the largest moves in premarket trading Friday.",
+      "published": "Fri, 26 Sep 2025 12:40:49 GMT",
+      "content": "These are some of the stocks posting the largest moves in premarket trading Friday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b619c74f841117e7d676837f9152d0de",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS WITH BIGGEST PREMARKET MOVES: PACCAR, INTEL, RH, RIOT PLATFORMS 🚀\n\n- Paccar, Intel, RH, Riot Platforms among top movers 📈\n- Stocks show significant movement before market open 🌅\n- Pre-market trading indicates potential volatility today 📊\n\nTAKEAWAY: Keep an eye on Paccar, Intel, RH, Riot Platforms as they show significant premarket movement, suggesting potential volatility in today's trading session.",
+      "exported_at": "2025-09-26T08:46:48.763903",
       "continuous_session": true
     }
   ]
