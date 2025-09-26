@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-25T21:26:05.327219",
-    "total_articles": 1854,
-    "new_articles_in_last_fetch": 1854,
+    "created_at": "2025-09-25T22:11:47.962981",
+    "total_articles": 1856,
+    "new_articles_in_last_fetch": 1856,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -24091,6 +24091,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ASIAN PHARMA STOCKS PLUNGE AFTER TRUMP'S 100% LEVIES ON BRANDED DRUGS 📉\n\n- Trump imposes 100% duties on branded drugs, exempt for US-based plants 🇺🇸\n- Asian pharma stocks tumble in response to the new levies 📉\n- Companies facing increased costs due to the levies 📈\n- Uncertainty looms over the impact on Asian pharmaceutical companies 🤔\n\nTAKEAWAY: Trump's decision to levy 100% duties on branded drugs causes Asian pharma stocks to plummet, raising concerns about increased costs and uncertainties for the companies.",
       "exported_at": "2025-09-25T21:26:05.193163",
+      "continuous_session": true
+    },
+    {
+      "title": "We&apos;re in an AI &apos;super cycle,&apos; top investor says — and it could last 20 years",
+      "link": "https://www.cnbc.com/2025/09/26/were-in-an-ai-super-cycle-top-investor-says-and-it-could-last-20-years.html",
+      "summary": "The AI super cycle will \"change the world in every aspect,\" B Capital's Raj Ganguly told CNBC's \"Beyond the Valley\" podcast.",
+      "published": "Fri, 26 Sep 2025 02:06:16 GMT",
+      "content": "The AI super cycle will \"change the world in every aspect,\" B Capital's Raj Ganguly told CNBC's \"Beyond the Valley\" podcast.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9c6b2148b7048574986243ca4e7d0791",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AI 'SUPER CYCLE' TO REVOLUTIONIZE WORLD FOR 20 YEARS 🚀\n\n- B Capital's Raj Ganguly predicts AI super cycle impact everywhere\n- AI transformation expected to revolutionize all aspects of life\n- Potential for AI to create significant long-term value\n- Ganguly highlights AI's transformative power on CNBC\n- AI super cycle could last for two decades\n- Massive changes expected in various industries due to AI\n\nTAKEAWAY: B Capital's Raj Ganguly forecasts a groundbreaking AI super cycle revolutionizing every sector for the next 20 years.",
+      "exported_at": "2025-09-25T22:11:47.820904",
+      "continuous_session": true
+    },
+    {
+      "title": "A top VC&apos;s guide to the hottest Asian markets for tech right now",
+      "link": "https://www.cnbc.com/video/2025/09/26/a-top-vcs-guide-to-the-hottest-asian-markets-for-tech-right-now.html",
+      "summary": "Silicon Valley once dismissed Asia’s tech scene as a land of copycats. Today, those same hubs are driving real innovation—and global investors are taking notice. One of them is B Capital, a venture capital firm managing over $9 billion across nine offices in the U.S. and Asia. In this episode, B Capital co-founder and co-CEO Raj Ganguly joins \"Beyond the Valley\" from Singapore to share which Asian markets excite them most and the three ways AI is reshaping the startup landscape.",
+      "published": "Fri, 26 Sep 2025 02:06:50 GMT",
+      "content": "Silicon Valley once dismissed Asia’s tech scene as a land of copycats. Today, those same hubs are driving real innovation—and global investors are taking notice. One of them is B Capital, a venture capital firm managing over $9 billion across nine offices in the U.S. and Asia. In this episode, B Capital co-founder and co-CEO Raj Ganguly joins \"Beyond the Valley\" from Singapore to share which Asian markets excite them most and the three ways AI is reshaping the startup landscape.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fa2686e5ca9cc16e31da4c53e4c10877",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TOP VC REVEALS HOTTEST TECH MARKETS IN ASIA 🚀\n\n- Silicon Valley shifts view on Asia's tech scene from copycats to innovators\n- B Capital manages $9B across 9 US and Asia offices 💰\n- Co-founder Raj Ganguly discusses exciting Asian markets and AI impact\n- Asian tech hubs driving real innovation, attracting global investors 🌏\n- B Capital shares insights on AI reshaping startup landscape 🤖\n- Global investors eye Asia for tech opportunities 🌏\n\nTAKEAWAY: Asia's tech scene evolves from copycats to innovators, attracting global investors like B Capital, who see potential in AI-driven startup landscapes.",
+      "exported_at": "2025-09-25T22:11:47.820972",
       "continuous_session": true
     }
   ]
