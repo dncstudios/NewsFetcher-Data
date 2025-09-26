@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-26T01:14:24.524208",
-    "total_articles": 1861,
-    "new_articles_in_last_fetch": 1861,
+    "created_at": "2025-09-26T03:41:37.345546",
+    "total_articles": 1862,
+    "new_articles_in_last_fetch": 1862,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -24182,6 +24182,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BARCLAYS CEO DOUBLES DOWN ON U.K. DESPITE BANK TAX RISK 🚀\n\n- Venkatakrishnan emphasizes UK commitment despite bank tax threat ⚡️\n- Warns against stifling investment with excessive financial sector taxation ⚠️\n- Barclays CEO's bold stance highlights confidence in UK market 🎯\n\nTAKEAWAY: Barclays CEO's unwavering support for the UK market, despite bank tax risks, showcases confidence in the country's investment potential and growth opportunities.",
       "exported_at": "2025-09-26T01:14:24.383852",
+      "continuous_session": true
+    },
+    {
+      "title": "Fintech Checkout.com&apos;s valuation falls to $12 billion",
+      "link": "https://www.cnbc.com/2025/09/26/fintech-checkoutcoms-valuation-falls-to-12-billion.html",
+      "summary": "The internal valuation of $12 billion represents a significant decline from the $40 billion assigned to Checkout.com in a 2022 funding round.",
+      "published": "Fri, 26 Sep 2025 07:31:52 GMT",
+      "content": "The internal valuation of $12 billion represents a significant decline from the $40 billion assigned to Checkout.com in a 2022 funding round.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "910f754a301ddff14c0b426bc23685cd",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FINTECH GIANT CHECKOUT.COM'S VALUATION PLUMMETS TO $12 BILLION 📉\n\n- Checkout.com's valuation drops from $40 billion to $12 billion 💸\n- Significant decline in internal valuation raises eyebrows 🤨\n- 2022 funding round overvalued Checkout.com by $28 billion 📉\n\nTAKEAWAY: Checkout.com's staggering valuation drop from $40 billion to $12 billion highlights the volatility and potential overvaluation risks in the fintech industry.",
+      "exported_at": "2025-09-26T03:41:37.223770",
       "continuous_session": true
     }
   ]
