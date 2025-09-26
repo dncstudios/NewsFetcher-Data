@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-26T10:34:03.404700",
-    "total_articles": 1895,
-    "new_articles_in_last_fetch": 1895,
+    "created_at": "2025-09-26T10:39:13.008153",
+    "total_articles": 1897,
+    "new_articles_in_last_fetch": 1897,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -24622,6 +24622,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FAA GREENLIGHTS BOEING TO SELF-CERTIFY 737 MAXES, 787s 🚀\n\n- Boeing can self-certify 737 Max, 787 Dreamliners pre-delivery ✈️\n- FAA grants Boeing authority after years of restrictions 🛫\n- Shift allows Boeing to streamline delivery processes 🔄\n\nTAKEAWAY: FAA's decision to allow Boeing to self-certify 737 Max and 787 Dreamliner planes marks a new era of operational efficiency for the aircraft manufacturer.",
       "exported_at": "2025-09-26T10:34:03.272415",
+      "continuous_session": true
+    },
+    {
+      "title": "FAA to let Boeing sign off on 737 Maxes, 787s after years of restrictions",
+      "link": "https://www.cnbc.com/2025/09/26/faa-boeing-737-max-787.html",
+      "summary": "Boeing can sign off on some of its 737 Max and 787 Dreamliner planes before they're handed over to customers, the FAA said Friday.",
+      "published": "Fri, 26 Sep 2025 14:36:57 GMT",
+      "content": "Boeing can sign off on some of its 737 Max and 787 Dreamliner planes before they're handed over to customers, the FAA said Friday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d938e99f266e711365c175fa84efbeb1",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FAA GREENLIGHTS BOEING TO SELF-CERTIFY 737 MAXES, 787s 🚀\n\n- Boeing can self-certify 737 Max, 787 Dreamliners pre-delivery ✈️\n- FAA grants Boeing authority after years of restrictions 🛫\n- Shift allows Boeing to streamline delivery processes 🔄\n\nTAKEAWAY: FAA's decision to allow Boeing to self-certify 737 Max and 787 Dreamliner planes marks a new era of operational efficiency for the aircraft manufacturer.",
+      "exported_at": "2025-09-26T10:39:12.868201",
+      "continuous_session": true
+    },
+    {
+      "title": "What Salesforce must do to quiet critics of its AI push and turn the stock around",
+      "link": "https://www.cnbc.com/2025/09/26/what-salesforce-must-do-to-quiet-critics-of-its-ai-push-and-turn-the-stock-around.html",
+      "summary": "One year since launching Agentforce and one month before Dreamforce, Salesforce shares are on the ropes.",
+      "published": "Fri, 26 Sep 2025 14:37:39 GMT",
+      "content": "One year since launching Agentforce and one month before Dreamforce, Salesforce shares are on the ropes.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d8c178a9ae404c5eb8e274529d749088",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WHAT SALESFORCE MUST DO TO BOOST AI STRATEGY AND REVIVE STOCK 🚀\n\n- Agentforce launched 1 year ago, stock struggling 📉\n- Criticism of AI strategy impacting Salesforce shares 💥\n- Dreamforce conference approaching in 1 month ⏳\n\nTAKEAWAY: Salesforce needs to address AI strategy criticisms to revive its struggling stock performance ahead of the upcoming Dreamforce conference.",
+      "exported_at": "2025-09-26T10:39:12.868304",
       "continuous_session": true
     }
   ]
