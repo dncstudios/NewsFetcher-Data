@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-26T12:51:48.284016",
-    "total_articles": 1911,
-    "new_articles_in_last_fetch": 1911,
+    "created_at": "2025-09-26T12:56:59.954982",
+    "total_articles": 1913,
+    "new_articles_in_last_fetch": 1913,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -24830,6 +24830,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: DOW JUMPS 100 POINTS ON IN-LINE PCE INFLATION REPORT 📈\n\n- Dow Jones rises after key inflation data release 📊\n- Market responds positively to in-line PCE inflation report ✅\n- Friday sees Dow Jones Industrial Average on the upswing 🚀\n\nTAKEAWAY: The Dow Jones surges 100 points as investors react favorably to in-line PCE inflation data, signaling positive market sentiment.",
       "exported_at": "2025-09-26T12:51:48.126346",
+      "continuous_session": true
+    },
+    {
+      "title": "Will the stock market get ‘Octoberphobia’ this year?",
+      "link": "https://www.cnbc.com/2025/09/26/will-the-stock-market-get-octoberphobia-this-year.html",
+      "summary": "The market's recent September momentum could suggest more upside for stocks next month despite investor anxiety about past downturns.",
+      "published": "Fri, 26 Sep 2025 16:52:45 GMT",
+      "content": "The market's recent September momentum could suggest more upside for stocks next month despite investor anxiety about past downturns.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "97dcb125ce1f07c64e12e73e003347e6",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WILL OCTOBER BRING 'OCTOBERPHOBIA' TO THE STOCK MARKET? 📈\n\n- September's momentum hints at potential upside in October 🚀\n- Investor anxiety about past October downturns lingers ⚠️\n- Market shows resilience despite historical October phobias 💪\n\nTAKEAWAY: Despite investor fears of 'Octoberphobia', the market's recent momentum points towards potential upside in the upcoming month.",
+      "exported_at": "2025-09-26T12:56:59.810175",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves midday: Boeing, Paccar, Intel, Mirion Tech and more",
+      "link": "https://www.cnbc.com/2025/09/26/stocks-making-the-biggest-moves-midday-ba-mir-pcar.html",
+      "summary": "These are some of the stocks posting the largest midday moves.",
+      "published": "Fri, 26 Sep 2025 16:52:51 GMT",
+      "content": "These are some of the stocks posting the largest midday moves.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a43bc6c4a400e81e9e4c32b5c21f82ed",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS MAKING BIGGEST MIDDAY MOVES: BOEING, PACCAR, INTEL 🚀\n\n- Boeing, Paccar, Intel, Mirion Tech among top movers 📈\n- Market sees significant midday fluctuations 🔄\n- Investors closely monitoring these stock movements 🧐\n\nTAKEAWAY: Boeing, Paccar, Intel, and Mirion Tech are capturing investors' attention with their substantial midday shifts, signaling potential opportunities for traders.",
+      "exported_at": "2025-09-26T12:56:59.810231",
       "continuous_session": true
     }
   ]
