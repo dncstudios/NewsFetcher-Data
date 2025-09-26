@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-26T19:23:43.719265",
-    "total_articles": 1935,
-    "new_articles_in_last_fetch": 1935,
+    "created_at": "2025-09-26T19:59:16.586612",
+    "total_articles": 1936,
+    "new_articles_in_last_fetch": 1936,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -25142,6 +25142,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP DEMANDS LISA MONACO'S DISMISSAL FROM MICROSOFT ⚠️\n\n- Trump publicly calls for firing of Lisa Monaco at Microsoft 🗣️\n- Monaco appointed as president of global affairs in July 📅\n- Fox Business anchor Maria Bartiromo addresses Monaco's position on show 📺\n\nTAKEAWAY: Trump's public demand for Lisa Monaco's dismissal from Microsoft creates uncertainty and speculation about her role as president of global affairs.",
       "exported_at": "2025-09-26T19:23:43.562785",
+      "continuous_session": true
+    },
+    {
+      "title": "Cramer&apos;s week ahead: Nonfarm payroll report, earnings from Paychex and Nike",
+      "link": "https://www.cnbc.com/2025/09/26/cramer-week-jobs-report-paychex-nike-earnings.html",
+      "summary": "CNBC's Jim Cramer on Friday told investors what to look out for next week on Wall Street.",
+      "published": "Fri, 26 Sep 2025 23:04:18 GMT",
+      "content": "CNBC's Jim Cramer on Friday told investors what to look out for next week on Wall Street.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c3d8fe809d3ad0ee567d242f341d4ba4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CRAMER'S INSIGHTS ON UPCOMING EVENTS IN THE STOCK MARKET 🚀\n\n- Focus on Nonfarm Payroll Report impact on market sentiment 📈\n- Anticipate earnings reports from Paychex and Nike 📊\n- Jim Cramer offers guidance for investors on Wall Street 💡\n\nTAKEAWAY: Stay informed on upcoming Nonfarm Payroll Report, Paychex, and Nike earnings to make strategic investment decisions in the stock market.",
+      "exported_at": "2025-09-26T19:59:16.444145",
       "continuous_session": true
     }
   ]
