@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-26T16:56:16.381374",
-    "total_articles": 1928,
-    "new_articles_in_last_fetch": 1928,
+    "created_at": "2025-09-26T17:01:25.055907",
+    "total_articles": 1929,
+    "new_articles_in_last_fetch": 1929,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -25051,6 +25051,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NYC SHOOTER DIAGNOSED WITH CTE 🧠\n\n- Medical examiner confirms 27-year-old shooter had CTE\n- CTE is a degenerative brain disease linked to repeated head trauma\n- Diagnosis sheds light on potential impact on shooter's behavior\n\nTAKEAWAY: The revelation of the NYC shooter having CTE raises questions about the effects of head trauma on violent behavior.",
       "exported_at": "2025-09-26T16:56:16.242845",
+      "continuous_session": true
+    },
+    {
+      "title": "Sinclair, Nexstar will bring &apos;Jimmy Kimmel Live&apos; back to owned ABC stations on Friday",
+      "link": "https://www.cnbc.com/2025/09/26/sinclair-abc-jimmy-kimmel.html",
+      "summary": "Broadcast station owners Sinclair and Nexstar will begin airing \"Jimmy Kimmel Live!\" after three days of preempting the program since its return.",
+      "published": "Fri, 26 Sep 2025 21:00:52 GMT",
+      "content": "Broadcast station owners Sinclair and Nexstar will begin airing \"Jimmy Kimmel Live!\" after three days of preempting the program since its return.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8e3b1938400585a008573d7f7c3ae81f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SINCLAIR & NEXSTAR BRING BACK 'JIMMY KIMMEL LIVE' TO ABC STATIONS 🚀\n\n- Sinclair & Nexstar end 3-day preempting of \"Jimmy Kimmel Live!\"\n- Broadcast giants to resume airing the popular late-night show\n- Viewers can enjoy the program on owned ABC stations\n\nTAKEAWAY: Sinclair and Nexstar's decision to bring back \"Jimmy Kimmel Live\" to their owned ABC stations marks a positive turn for viewers and the late-night show's fans.",
+      "exported_at": "2025-09-26T17:01:24.901117",
       "continuous_session": true
     }
   ]
