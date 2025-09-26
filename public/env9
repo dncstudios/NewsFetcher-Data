@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-26T07:50:37.835800",
-    "total_articles": 1876,
-    "new_articles_in_last_fetch": 1876,
+    "created_at": "2025-09-26T07:55:45.936472",
+    "total_articles": 1877,
+    "new_articles_in_last_fetch": 1877,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -24377,6 +24377,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WHAT INVESTORS SHOULD KNOW ABOUT FINANCIAL ADVISOR FEES 💸\n\n- Various compensation models for financial advisors exist\n- Each model has its own advantages and disadvantages\n- Understanding fee structures is crucial for consumers 📊\n- Transparency in fee disclosures is essential for investors ✅\n- Investors should consider fees when choosing advisors 💼\n\nTAKEAWAY: Knowing the different financial advisor fee structures is vital for investors to make informed decisions and maximize their returns.",
       "exported_at": "2025-09-26T07:50:37.691308",
+      "continuous_session": true
+    },
+    {
+      "title": "Shares of Paccar - Peterbilt and Kenworth owner - soar after Trump&apos;s heavy truck tariffs",
+      "link": "https://www.cnbc.com/2025/09/26/peterbilt-owner-paccar-jumps-after-trump-tariffs-on-heavy-trucks.html",
+      "summary": "Paccar's competitors can manufacture trucks cheaper in Mexico. Trump's tariffs likely level the playing field, according to analysts.",
+      "published": "Fri, 26 Sep 2025 11:52:50 GMT",
+      "content": "Paccar's competitors can manufacture trucks cheaper in Mexico. Trump's tariffs likely level the playing field, according to analysts.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5f90256f9d9b63e076159d1fa37aba00",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SHARES OF PACCAR SOAR AFTER TRUMP'S TRUCK TARIFFS 🚀\n\n- Paccar's stock rises following Trump's heavy truck tariffs 📈\n- Competitors cut costs by manufacturing in Mexico 🇲🇽\n- Analysts believe tariffs will balance competition for Paccar ✅\n- Tariffs expected to create fairer market for Paccar trucks 🎯\n\nTAKEAWAY: Paccar's shares surge as Trump's truck tariffs are predicted to reduce competition from Mexico, leveling the playing field for the company.",
+      "exported_at": "2025-09-26T07:55:45.789090",
       "continuous_session": true
     }
   ]
