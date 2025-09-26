@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-26T07:55:45.936472",
-    "total_articles": 1877,
-    "new_articles_in_last_fetch": 1877,
+    "created_at": "2025-09-26T08:16:06.730722",
+    "total_articles": 1878,
+    "new_articles_in_last_fetch": 1878,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -24390,6 +24390,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SHARES OF PACCAR SOAR AFTER TRUMP'S TRUCK TARIFFS 🚀\n\n- Paccar's stock rises following Trump's heavy truck tariffs 📈\n- Competitors cut costs by manufacturing in Mexico 🇲🇽\n- Analysts believe tariffs will balance competition for Paccar ✅\n- Tariffs expected to create fairer market for Paccar trucks 🎯\n\nTAKEAWAY: Paccar's shares surge as Trump's truck tariffs are predicted to reduce competition from Mexico, leveling the playing field for the company.",
       "exported_at": "2025-09-26T07:55:45.789090",
+      "continuous_session": true
+    },
+    {
+      "title": "Nvidia&apos;s $100 billion OpenAI deal showcases chipmaker&apos;s growing investment portfolio",
+      "link": "https://www.cnbc.com/2025/09/26/nvidias-investment-portfolio.html",
+      "summary": "The sheer number of Nvidia's venture and public equity investments shows how central the company has become to the Silicon Valley and AI ecosystems.",
+      "published": "Fri, 26 Sep 2025 12:00:01 GMT",
+      "content": "The sheer number of Nvidia's venture and public equity investments shows how central the company has become to the Silicon Valley and AI ecosystems.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "29c9b3af63571e722326ec83798a1fe6",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NVIDIA'S $100 BILLION OPENAI DEAL HIGHLIGHTS EXPANDING INVESTMENT PORTFOLIO 🚀\n\n- NVIDIA's $100 billion OpenAI deal cements its pivotal role in AI 🤖\n- Company's vast venture and public equity investments reveal dominance 💪\n- NVIDIA emerges as a key player in Silicon Valley and AI sectors 🌟\n\nTAKEAWAY: NVIDIA's landmark $100 billion OpenAI deal solidifies its position as a powerhouse in AI, showcasing its pivotal role in shaping Silicon Valley's tech landscape.",
+      "exported_at": "2025-09-26T08:16:06.579049",
       "continuous_session": true
     }
   ]
