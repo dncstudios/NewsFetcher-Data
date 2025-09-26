@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-26T11:55:40.185543",
-    "total_articles": 1904,
-    "new_articles_in_last_fetch": 1904,
+    "created_at": "2025-09-26T12:00:50.107404",
+    "total_articles": 1905,
+    "new_articles_in_last_fetch": 1905,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -24739,6 +24739,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: HOWARD RUBIN ARRESTED ON FEDERAL SEX TRAFFICKING CHARGES ⚠️\n\n- Howard Rubin faces federal charges for sex trafficking 🕵️‍♂️\n- Lawsuit filed in 2017 by Playboy models and a Florida model 📜\n- Allegations of abuse, rape, and violence against Rubin ⚠️\n\nTAKEAWAY: Howard Rubin's arrest on federal sex trafficking charges follows a 2017 lawsuit by models alleging abuse, rape, and violence.",
       "exported_at": "2025-09-26T11:55:40.034635",
+      "continuous_session": true
+    },
+    {
+      "title": "How does the U.S. stock market typically react to a government shutdown?",
+      "link": "https://www.cnbc.com/2025/09/26/market-reaction-past-government-shutdow.html",
+      "summary": "The markets could be in for some action if the government shutdown next week, according to Bank of America.",
+      "published": "Fri, 26 Sep 2025 15:56:20 GMT",
+      "content": "The markets could be in for some action if the government shutdown next week, according to Bank of America.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fec8a8d559b75b836f63efd856e8da95",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: HOW DOES THE U.S. STOCK MARKET REACT TO A GOVERNMENT SHUTDOWN? 🚨\n\n- Bank of America predicts market volatility during government shutdown 📉\n- Investors brace for potential impact on stock prices 💰\n- Previous shutdowns have shown mixed reactions in the market 📈📉\n- Uncertainty looms over the market's response to shutdowns 🤔\n\nTAKEAWAY: Bank of America's warning of potential market volatility during a government shutdown highlights the uncertainty and mixed reactions historically observed in the U.S. stock market.",
+      "exported_at": "2025-09-26T12:00:49.972520",
       "continuous_session": true
     }
   ]
