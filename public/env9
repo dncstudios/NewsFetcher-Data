@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-26T16:10:25.369137",
-    "total_articles": 1925,
-    "new_articles_in_last_fetch": 1925,
+    "created_at": "2025-09-26T16:15:34.285477",
+    "total_articles": 1926,
+    "new_articles_in_last_fetch": 1926,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -25012,6 +25012,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SANTOLI'S FRIDAY MARKET WRAP-UP: FIRM FINISH KEEPS S&P 500 PULLBACK MINIMUM 🚀\n\n- S&P 500 defies expectations, only drops 0.40% this week ✅\n- Market stays strong despite technical overbought conditions ⚡️\n- Higher Treasury yields fail to significantly impact S&P 500 performance 🔥\n\nTAKEAWAY: Despite challenges like overbought conditions and rising yields, the S&P 500 shows resilience by limiting its pullback to only 0.40% for the week, closing on a strong note.",
       "exported_at": "2025-09-26T16:10:25.230593",
+      "continuous_session": true
+    },
+    {
+      "title": "Santoli&apos;s Friday market wrap-up: Firm finish to week keeps S&amp;P 500 pullback to a minimum",
+      "link": "https://www.cnbc.com/2025/09/26/santolis-friday-market-wrap-up-sp-500-pullback-held-to-a-minimum.html",
+      "summary": "With every excuse to retreat — technical overbought conditions, unfriendly seasonal patterns, higher Treasury yields — the S&amp;P 500 only fell 0.3% this week.",
+      "published": "Fri, 26 Sep 2025 20:13:51 GMT",
+      "content": "With every excuse to retreat — technical overbought conditions, unfriendly seasonal patterns, higher Treasury yields — the S&amp;P 500 only fell 0.3% this week.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "05849f1c66244f0abc59641857391af2",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SANTOLI'S FRIDAY MARKET WRAP-UP: FIRM FINISH KEEPS S&P 500 PULLBACK TO A MINIMUM 🚀\n\n- S&P 500 defies retreat signals, falls just 0.3% this week 📉\n- Market finishes strong despite overbought conditions, high yields 💪\n- Resilient performance amid unfriendly seasonal patterns 📈\n\nTAKEAWAY: Despite challenges like overbought signals and high yields, the S&P 500 shows resilience with a minimal 0.3% pullback, ending the week on a firm note.",
+      "exported_at": "2025-09-26T16:15:34.143014",
       "continuous_session": true
     }
   ]
