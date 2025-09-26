@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-26T11:30:12.434405",
-    "total_articles": 1902,
-    "new_articles_in_last_fetch": 1902,
+    "created_at": "2025-09-26T11:35:21.599439",
+    "total_articles": 1903,
+    "new_articles_in_last_fetch": 1903,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -24713,6 +24713,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: DOW JUMPS 100 POINTS ON IN-LINE PCE INFLATION REPORT 📈\n\n- Dow Jones rises after key inflation data release 📊\n- Market responds positively to in-line PCE inflation report ✅\n- Friday sees Dow Jones Industrial Average on the upswing 🚀\n\nTAKEAWAY: The Dow Jones surges 100 points as investors react favorably to in-line PCE inflation data, signaling positive market sentiment.",
       "exported_at": "2025-09-26T11:30:12.311251",
+      "continuous_session": true
+    },
+    {
+      "title": "Chinese stocks are on fire this year, drawing big interest from foreign and domestic investors",
+      "link": "https://www.cnbc.com/2025/09/26/chinese-stocks-are-on-fire-this-year-drawing-big-interest-from-foreign-and-domestic-investors.html",
+      "summary": "Chinese stocks, once deemed univestable by many, are luring both local and foreign investors impressed by recent returns.",
+      "published": "Fri, 26 Sep 2025 15:32:51 GMT",
+      "content": "Chinese stocks, once deemed univestable by many, are luring both local and foreign investors impressed by recent returns.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "cb53045fa45114f99ec2e4b0bdba2c36",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CHINESE STOCKS IGNITE GLOBAL INVESTOR FRENZY 🚀\n\n- Chinese stocks surge, attracting foreign and domestic investors 🌏\n- Recent returns impress investors who once deemed stocks univestable 💰\n- Growing interest signals confidence in Chinese market 📈\n\nTAKEAWAY: Chinese stocks' remarkable performance is captivating both local and foreign investors, showcasing renewed confidence in the market.",
+      "exported_at": "2025-09-26T11:35:21.462918",
       "continuous_session": true
     }
   ]
