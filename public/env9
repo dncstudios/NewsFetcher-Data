@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-26T15:04:11.592386",
-    "total_articles": 1919,
-    "new_articles_in_last_fetch": 1919,
+    "created_at": "2025-09-26T15:09:20.555080",
+    "total_articles": 1920,
+    "new_articles_in_last_fetch": 1920,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -24934,6 +24934,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BITCOIN AND ETHER DROP AFTER INFLATION DATA RELEASE 📉\n\n- Major cryptocurrencies close lower post Fed inflation data release\n- Costs rise as per Fed's preferred gauge, impacting crypto prices\n- Positive jobless claims and GDP revision hint at potential rate changes\n- Market sell-off discussed by Franklin Templeton's Max Gokhman\n\nTAKEAWAY: Bitcoin and ether prices dip as inflation data impacts the crypto market, while potential rate changes add to investor concerns.",
       "exported_at": "2025-09-26T15:04:11.459595",
+      "continuous_session": true
+    },
+    {
+      "title": "Wall Street will need another ‘goldilocks’ number out of next week’s jobs report, with stocks vulnerable",
+      "link": "https://www.cnbc.com/2025/09/26/wall-street-will-need-another-goldilocks-number-out-of-next-weeks-jobs-report-with-stocks-vulnerable-.html",
+      "summary": "The September nonfarm payrolls report, which comes out Friday, is expected to have a bigger impact than usual for the market.",
+      "published": "Fri, 26 Sep 2025 19:01:59 GMT",
+      "content": "The September nonfarm payrolls report, which comes out Friday, is expected to have a bigger impact than usual for the market.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d893f141e6ebd45f9fc795ddd4969b08",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WALL STREET BRACES FOR SEPTEMBER JOBS REPORT IMPACT 🚨\n\n- September jobs report crucial for market stability 📊\n- Investors seek 'goldilocks' number for positive impact 🌟\n- Stocks at risk, vulnerable to report's outcome ⚠️\n\nTAKEAWAY: Wall Street anxiously awaits the September jobs report, hoping for a 'goldilocks' number to maintain market stability and prevent stock vulnerability.",
+      "exported_at": "2025-09-26T15:09:20.393732",
       "continuous_session": true
     }
   ]
