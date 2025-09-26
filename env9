@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-25T20:14:59.723274",
-    "total_articles": 1852,
-    "new_articles_in_last_fetch": 1852,
+    "created_at": "2025-09-25T20:45:28.128673",
+    "total_articles": 1853,
+    "new_articles_in_last_fetch": 1853,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -24065,6 +24065,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: U.S. TO IMPOSE 100% TARIFF ON DRUGS UNLESS FIRMS BUILD LOCAL PLANTS 🚨\n\n- 100% tariff on branded, patented drugs if not made locally 🏭\n- Exempt for companies constructing drug plants in the U.S. ✅\n- Trump aims to encourage local drug manufacturing 🇺🇸\n- Move could impact international pharmaceutical firms 🌎\n- Companies urged to invest in U.S. manufacturing facilities 🏗️\n\nTAKEAWAY: Trump's tariff threat pushes for local drug production, impacting global pharmaceutical companies and driving investment in U.S. manufacturing.",
       "exported_at": "2025-09-25T20:14:59.577891",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump slaps 25% tariffs on heavy trucks imports, starting Oct. 1",
+      "link": "https://www.cnbc.com/2025/09/26/trump-slaps-25percent-tariffs-on-heavy-trucks-imports-starting-oct-1.html",
+      "summary": "The decision came as Trump took aim at a swath of imported goods with fresh tariffs, as part of the broader campaign to encourage domestic manufacturing.",
+      "published": "Fri, 26 Sep 2025 00:27:17 GMT",
+      "content": "The decision came as Trump took aim at a swath of imported goods with fresh tariffs, as part of the broader campaign to encourage domestic manufacturing.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d5561d1cef078f2c14f2d8c92a1ad5d4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP IMPOSES 25% TARIFFS ON IMPORTED HEAVY TRUCKS 🚨\n\n- Tariffs effective from Oct. 1 to boost domestic manufacturing 📈\n- Trump targets various imported goods with new tariffs 🚛\n- Move aims to support local production and economy 🛠️\n\nTAKEAWAY: Trump's decision to impose 25% tariffs on heavy truck imports starting October 1 is part of a broader effort to spur domestic manufacturing and strengthen the economy.",
+      "exported_at": "2025-09-25T20:45:27.987699",
       "continuous_session": true
     }
   ]
