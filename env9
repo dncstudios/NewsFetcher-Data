@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-26T07:09:52.191258",
-    "total_articles": 1871,
-    "new_articles_in_last_fetch": 1871,
+    "created_at": "2025-09-26T07:25:09.915990",
+    "total_articles": 1873,
+    "new_articles_in_last_fetch": 1873,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -24312,6 +24312,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: GOOGLE'S SHIFT TO FREE EXPRESSION: A NEW ERA 🚀\n\n- Google transitions from accuracy focus to promoting free expression\n- Embracing a new commitment to prioritize freedom of speech 🗣️\n- Years of emphasis on factual information now complemented by expression support\n- Users witness Google's evolution towards a steward of free speech 🌐\n- Transition raises questions on balance between accuracy and expression 🔍\n- Embracing diversity of opinions while upholding accuracy remains a challenge ⚠️\n\nTAKEAWAY: Google's shift from accuracy to free expression marks a new era, sparking debates on maintaining a balance between factual information and promoting diverse viewpoints.",
       "exported_at": "2025-09-26T07:09:52.035645",
+      "continuous_session": true
+    },
+    {
+      "title": "Accenture plans on &apos;exiting&apos; staff who can&apos;t be reskilled on AI amid restructuring strategy",
+      "link": "https://www.cnbc.com/2025/09/26/accenture-plans-on-exiting-staff-who-cant-be-reskilled-on-ai.html",
+      "summary": "Accenture CEO Julie Sweet said as advanced AI becomes core to the company's strategy, employees are expected to \"retrain and retool\" at scale.",
+      "published": "Fri, 26 Sep 2025 11:18:18 GMT",
+      "content": "Accenture CEO Julie Sweet said as advanced AI becomes core to the company's strategy, employees are expected to \"retrain and retool\" at scale.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e412b107dffe8d9878361e21fcf3d206",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ACCENTURE TO EXIT STAFF UNABLE TO UPSKILL IN AI 🚀\n\n- Accenture's CEO plans to reskill employees for advanced AI 🤖\n- Exiting staff unable to adapt to the new strategy 🚪\n- Emphasis on retraining and upskilling at a large scale 🔥\n- AI integration central to Accenture's future success 🎯\n- Restructuring strategy focuses on advanced technologies 📈\n- Employees expected to 'retrain and retool' for company's core shift 💼\n\nTAKEAWAY: Accenture's bold move to exit staff unable to upskill in AI underlines the company's commitment to embracing advanced technologies and preparing its workforce for the future.",
+      "exported_at": "2025-09-26T07:25:09.777570",
+      "continuous_session": true
+    },
+    {
+      "title": "Top pick Microsoft has room to run as AI efforts gain traction, Morgan Stanley says",
+      "link": "https://www.cnbc.com/2025/09/26/top-pick-microsoft-has-room-to-run-as-ai-efforts-gain-traction-morgan-stanley-says.html",
+      "summary": "Morgan Stanley raised its price target for Microsoft, arguing the company is poised to grow due to its cloud platform and AI industry ties.",
+      "published": "Fri, 26 Sep 2025 11:21:48 GMT",
+      "content": "Morgan Stanley raised its price target for Microsoft, arguing the company is poised to grow due to its cloud platform and AI industry ties.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a8e4ac7ba7ea1908fb8dd180ce2cee46",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MORGAN STANLEY BULLISH ON MICROSOFT'S AI GROWTH POTENTIAL 🚀\n\n- Morgan Stanley ups Microsoft price target for cloud and AI growth 📈\n- Microsoft's strong AI industry connections fuel optimism 💪\n- Analysts see Microsoft's cloud platform as key to future growth 🔑\n\nTAKEAWAY: Morgan Stanley's optimistic outlook on Microsoft's AI and cloud capabilities signals potential growth ahead.",
+      "exported_at": "2025-09-26T07:25:09.777659",
       "continuous_session": true
     }
   ]
