@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-26T07:40:24.061058",
-    "total_articles": 1874,
-    "new_articles_in_last_fetch": 1874,
+    "created_at": "2025-09-26T07:50:37.835800",
+    "total_articles": 1876,
+    "new_articles_in_last_fetch": 1876,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -24351,6 +24351,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCK FUTURES STABLE BEFORE INFLATION REPORT 📈\n\n- Investors anticipate release of August's personal consumption expenditures index\n- Market remains steady ahead of key inflation data\n- Focus on upcoming price index report for market direction\n\nTAKEAWAY: Stock futures remain stable as investors await the release of August's personal consumption expenditures index, signaling anticipation for market direction based on key inflation data.",
       "exported_at": "2025-09-26T07:40:23.918799",
+      "continuous_session": true
+    },
+    {
+      "title": "Family offices prefer to bet on AI boom with stocks versus startups and VC funds",
+      "link": "https://www.cnbc.com/2025/09/26/family-offices-artificial-intelligence.html",
+      "summary": "Family offices were more likely to report investing in companies that use AI for productivity and efficiency or in other beneficiaries such as energy providers.",
+      "published": "Fri, 26 Sep 2025 11:30:01 GMT",
+      "content": "Family offices were more likely to report investing in companies that use AI for productivity and efficiency or in other beneficiaries such as energy providers.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f61b56dc8c75a0a8b0fecf2910bc6761",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FAMILY OFFICES EMBRACE AI STOCKS OVER STARTUPS 🚀\n\n- Family offices favor AI stocks for productivity and efficiency 📈\n- Investments made in AI companies and energy providers 🌐\n- Preference shown for established companies over startups 🏢\n\nTAKEAWAY: Family offices are leaning towards AI stocks for their investments, prioritizing productivity and established companies over startups and VC funds.",
+      "exported_at": "2025-09-26T07:50:37.691251",
+      "continuous_session": true
+    },
+    {
+      "title": "What investors need to know about financial advisor fees",
+      "link": "https://www.cnbc.com/2025/09/26/how-financial-advisors-make-money.html",
+      "summary": "There are many types of compensation models for financial advisors, and each comes with pros and cons for consumers.",
+      "published": "Fri, 26 Sep 2025 11:46:24 GMT",
+      "content": "There are many types of compensation models for financial advisors, and each comes with pros and cons for consumers.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "db8c7c0c71090ccd3c406e5f046a6de8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WHAT INVESTORS SHOULD KNOW ABOUT FINANCIAL ADVISOR FEES 💸\n\n- Various compensation models for financial advisors exist\n- Each model has its own advantages and disadvantages\n- Understanding fee structures is crucial for consumers 📊\n- Transparency in fee disclosures is essential for investors ✅\n- Investors should consider fees when choosing advisors 💼\n\nTAKEAWAY: Knowing the different financial advisor fee structures is vital for investors to make informed decisions and maximize their returns.",
+      "exported_at": "2025-09-26T07:50:37.691308",
       "continuous_session": true
     }
   ]
