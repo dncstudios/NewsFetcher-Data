@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-26T06:14:01.525313",
-    "total_articles": 1869,
-    "new_articles_in_last_fetch": 1869,
+    "created_at": "2025-09-26T07:09:52.191258",
+    "total_articles": 1871,
+    "new_articles_in_last_fetch": 1871,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -24286,6 +24286,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CHINA SILENT AFTER TRUMP DECLARES TIKTOK DEAL 🤐\n\n- Trump claims Beijing's approval for TikTok deal in the U.S. 🤝\n- China maintains silence post declaration 🤫\n- Uncertainty looms over China's stance on the deal 🤔\n\nTAKEAWAY: China's silence following Trump's announcement about the TikTok deal adds uncertainty to the situation, leaving the deal's fate in question.",
       "exported_at": "2025-09-26T06:14:01.375020",
+      "continuous_session": true
+    },
+    {
+      "title": "&apos;A broken business&apos;: The company behind the makeover of bankrupt retailer Claire&apos;s",
+      "link": "https://www.cnbc.com/2025/09/26/ames-watson-tween-retailer-claires-rebuild.html",
+      "summary": "Pulled out of bankruptcy, Claire's is on track for a major makeover by private holding company Ames Watson.",
+      "published": "Fri, 26 Sep 2025 11:00:01 GMT",
+      "content": "Pulled out of bankruptcy, Claire's is on track for a major makeover by private holding company Ames Watson.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c2d469e542cee70cbd5cde1647642886",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: A BROKEN BUSINESS BEING REVIVED: CLAIRE'S MAKEOVER UNDERWAY 🚀\n\n- Claire's, once bankrupt, now undergoing major makeover 💄\n- Private holding company Ames Watson leading the revival 🌟\n- Ames Watson pulling Claire's out of bankruptcy 👏\n- Company set for a fresh start and transformation 🔄\n\nTAKEAWAY: Claire's, previously bankrupt, is now in the hands of private holding company Ames Watson for a promising and exciting makeover, signaling a new beginning for the brand.",
+      "exported_at": "2025-09-26T07:09:52.035575",
+      "continuous_session": true
+    },
+    {
+      "title": "How Google shifted from a bastion of accurate information to a steward of free expression",
+      "link": "https://www.cnbc.com/2025/09/26/how-google-abandoned-facts-for-free-expression.html",
+      "summary": "After years of rolling out features designed to provide users with factual and accurate information, Google is now touting its commitment to \"free expression.\"",
+      "published": "Fri, 26 Sep 2025 11:00:01 GMT",
+      "content": "After years of rolling out features designed to provide users with factual and accurate information, Google is now touting its commitment to \"free expression.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "33433ef23f56773093fa3a0296d0544c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GOOGLE'S SHIFT TO FREE EXPRESSION: A NEW ERA 🚀\n\n- Google transitions from accuracy focus to promoting free expression\n- Embracing a new commitment to prioritize freedom of speech 🗣️\n- Years of emphasis on factual information now complemented by expression support\n- Users witness Google's evolution towards a steward of free speech 🌐\n- Transition raises questions on balance between accuracy and expression 🔍\n- Embracing diversity of opinions while upholding accuracy remains a challenge ⚠️\n\nTAKEAWAY: Google's shift from accuracy to free expression marks a new era, sparking debates on maintaining a balance between factual information and promoting diverse viewpoints.",
+      "exported_at": "2025-09-26T07:09:52.035645",
       "continuous_session": true
     }
   ]
