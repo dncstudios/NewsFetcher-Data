@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-27T10:57:21.233296",
-    "total_articles": 1956,
-    "new_articles_in_last_fetch": 1956,
+    "created_at": "2025-09-27T11:07:34.617185",
+    "total_articles": 1957,
+    "new_articles_in_last_fetch": 1957,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -25415,6 +25415,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WARREN BUFFETT BIDS FAREWELL TO BYD: SELLING DEEMED 'NORMAL' 🚀\n\n- BYD thanks Buffett and Munger for 17-year investment 🙏\n- Berkshire officially sells all shares in Chinese EV maker 📉\n- BYD labels the selling as a 'normal' parting gesture 💼\n\nTAKEAWAY: Despite Berkshire selling all shares, BYD expresses gratitude for the 17-year investment, deeming the departure as a routine parting.",
       "exported_at": "2025-09-27T10:57:21.075539",
+      "continuous_session": true
+    },
+    {
+      "title": "Not just for the ultra-wealthy: Two firms team up to create more access to private credit boom",
+      "link": "https://www.cnbc.com/2025/09/27/private-credit-boom-behind-new-etf-designed-for-retail-investors.html",
+      "summary": "Simplify Asset Management and VettaFi launched the actively managed Simplify VettaFi Private Credit Strategy ETF (PCR) on Wednesday.",
+      "published": "Sat, 27 Sep 2025 15:00:01 GMT",
+      "content": "Simplify Asset Management and VettaFi launched the actively managed Simplify VettaFi Private Credit Strategy ETF (PCR) on Wednesday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9388f5b8956740508dfac8bfa8b53c70",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PRIVATE CREDIT BOOM MADE ACCESSIBLE BY TWO FIRMS 🚀\n\n- Simplify Asset Management and VettaFi launch Simplify VettaFi PCR\n- Actively managed ETF opens private credit opportunity to more investors\n- PCR introduced for broader access beyond ultra-wealthy individuals\n\nTAKEAWAY: Simplify Asset Management and VettaFi collaborate to democratize private credit investment with the launch of Simplify VettaFi PCR, expanding access beyond the ultra-wealthy.",
+      "exported_at": "2025-09-27T11:07:34.460012",
       "continuous_session": true
     }
   ]
