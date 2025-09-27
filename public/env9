@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-27T10:11:32.444291",
-    "total_articles": 1953,
-    "new_articles_in_last_fetch": 1953,
+    "created_at": "2025-09-27T10:16:41.647089",
+    "total_articles": 1954,
+    "new_articles_in_last_fetch": 1954,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -25376,6 +25376,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WARREN BUFFETT BIDS FAREWELL TO BYD: SELLING DEEMED 'NORMAL' 🚀\n\n- BYD thanks Buffett and Munger for 17-year investment 🙏\n- Berkshire officially sells all shares in Chinese EV maker 📉\n- BYD labels the selling as a 'normal' parting gesture 💼\n\nTAKEAWAY: Despite Berkshire selling all shares, BYD expresses gratitude for the 17-year investment, deeming the departure as a routine parting.",
       "exported_at": "2025-09-27T10:11:32.298003",
+      "continuous_session": true
+    },
+    {
+      "title": "Anson Funds calls for Clear Channel Outdoor&apos;s sale. Here&apos;s why the timing may finally be right",
+      "link": "https://www.cnbc.com/2025/09/27/anson-funds-calls-for-clear-channel-outdoors-sale-why-the-timing-may-be-right.html",
+      "summary": "The outdoor advertising company is now a U.S. pureplay, making it more focused and more valuable, and potentially easier to acquire.",
+      "published": "Sat, 27 Sep 2025 13:53:03 GMT",
+      "content": "The outdoor advertising company is now a U.S. pureplay, making it more focused and more valuable, and potentially easier to acquire.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "52f9f64873f6898bb8dfb31aebbfbb89",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ANSON FUNDS PUSHES FOR CLEAR CHANNEL OUTDOOR SALE 🚀\n\n- Anson Funds advocates for Clear Channel Outdoor's sale 📈\n- Company now a U.S. pureplay, increasing focus and value 💰\n- Potential sale could be more feasible and attractive now 💼\n- Timing deemed ideal for acquisition opportunity 🎯\n\nTAKEAWAY: Anson Funds' call for Clear Channel Outdoor's sale highlights increased focus, value, and acquisition potential, signaling an opportune moment for interested parties.",
+      "exported_at": "2025-09-27T10:16:41.489916",
       "continuous_session": true
     }
   ]
