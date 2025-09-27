@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-27T16:22:10.090823",
-    "total_articles": 1961,
-    "new_articles_in_last_fetch": 1961,
+    "created_at": "2025-09-27T16:32:23.060648",
+    "total_articles": 1962,
+    "new_articles_in_last_fetch": 1962,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -25480,6 +25480,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AMERICAN ARMY VET THRIVES IN VIETNAM ON $4,000/MONTH 💪\n\n- Ex-U.S. Air Force member, Markeiz Ryan, moved to Vietnam in 2019 🛫\n- Living comfortably on $4,000/month in Vietnam 🌏💰\n- Shifted focus to happiness and fulfillment abroad 🌟\n- Demonstrates living well on a modest income 💸🌴\n- Embracing a new life and culture in Vietnam 🇻🇳\n- Enjoying a fulfilling lifestyle post-military service 🎉\n\nTAKEAWAY: Markeiz Ryan's transition from the U.S. Air Force to Vietnam showcases the possibility of a fulfilling life on a modest budget, focusing on happiness and cultural experiences.",
       "exported_at": "2025-09-27T16:22:09.935711",
+      "continuous_session": true
+    },
+    {
+      "title": "Self-made millionaire: Ditch these 3 money beliefs that could be holding you back from earning more",
+      "link": "https://www.cnbc.com/2025/09/27/money-expert-these-3-money-beliefs-could-be-stopping-you-from-earning-more.html",
+      "summary": "Ramit Sethi has built a career sharing advice and working with individuals around how to make more money. He says these 3 beliefs hold too many people back.",
+      "published": "Sat, 27 Sep 2025 14:00:01 GMT",
+      "content": "Ramit Sethi has built a career sharing advice and working with individuals around how to make more money. He says these 3 beliefs hold too many people back.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8590594d4c77f91f0c6f0055dff50696",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SELF-MADE MILLIONAIRE'S ADVICE: 3 MONEY BELIEFS TO DITCH NOW 💰\n\n- Ramit Sethi reveals 3 money beliefs hindering earning potential\n- Belief: \"Money is a limited resource\" - Break free from scarcity mindset\n- Belief: \"I'm not good with money\" - Empower yourself with financial skills\n\nTAKEAWAY: Ramit Sethi's advice on ditching limiting money beliefs empowers individuals to unlock their full earning potential.",
+      "exported_at": "2025-09-27T16:32:22.916248",
       "continuous_session": true
     }
   ]
