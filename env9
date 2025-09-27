@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-27T09:35:49.263617",
-    "total_articles": 1948,
-    "new_articles_in_last_fetch": 1948,
+    "created_at": "2025-09-27T09:46:06.115992",
+    "total_articles": 1950,
+    "new_articles_in_last_fetch": 1950,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -25311,6 +25311,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: HOW TO SPOT THE AI BUBBLE BURST 🚨\n\n- Wall Street experiences minor AI-nxiety over potential bubble 💥\n- Investors cautious as AI stocks surge 📈\n- Signs of AI bubble include rapid stock price increases 📈\n- Analysts warn about inflated AI company valuations 📉\n- Bubble fears increase as AI market expands 📊\n\nTAKEAWAY: Wall Street's cautious approach to surging AI stocks signals potential bubble risks, prompting investors to closely monitor signs of inflated valuations.",
       "exported_at": "2025-09-27T09:35:49.130607",
+      "continuous_session": true
+    },
+    {
+      "title": "These stocks including an industrial giant are close to forming a dreaded &apos;death cross&apos; chart pattern",
+      "link": "https://www.cnbc.com/2025/09/27/death-cross-stocks.html",
+      "summary": "Several publicly traded companies' stocks are on the verge of forming a technical pattern that signals trouble ahead.",
+      "published": "Sat, 27 Sep 2025 13:39:53 GMT",
+      "content": "Several publicly traded companies' stocks are on the verge of forming a technical pattern that signals trouble ahead.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b8e8e4f5f9c95a0057ad1dd6a4b4cdae",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS ON THE BRINK OF 'DEATH CROSS' PATTERN 📉\n\n- Multiple companies facing formation of ominous technical pattern\n- 'Death cross' signals potential trouble in stock performance 💀\n- Investors wary as stocks approach critical chart milestone ⚠️\n\nTAKEAWAY: Several stocks, including an industrial giant, are on the edge of forming a 'death cross' pattern, signaling potential trouble and causing concern among investors.",
+      "exported_at": "2025-09-27T09:46:05.986727",
+      "continuous_session": true
+    },
+    {
+      "title": "Here are the most overbought stocks due for a decline. Intel leads the list",
+      "link": "https://www.cnbc.com/2025/09/27/intel-more-deeply-overbought-after-another-strong-week-of-gains.html",
+      "summary": "Intel shares may be getting a bit long in the tooth, at least near term.",
+      "published": "Sat, 27 Sep 2025 13:37:33 GMT",
+      "content": "Intel shares may be getting a bit long in the tooth, at least near term.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7b8493d864edeeb74508b458e887aa26",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MOST OVERBOUGHT STOCKS PRIMED FOR DECLINE 📉\n\n- Intel's shares showing signs of being overbought 📈\n- Market indicates Intel may decline in the short term ⬇️\n- Intel leads the list of potentially overvalued stocks 💰\n\nTAKEAWAY: Keep an eye on Intel and other overbought stocks as they may be due for a decline in the near future.",
+      "exported_at": "2025-09-27T09:46:05.986808",
       "continuous_session": true
     }
   ]
