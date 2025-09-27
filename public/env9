@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-27T12:13:31.723817",
-    "total_articles": 1958,
-    "new_articles_in_last_fetch": 1958,
+    "created_at": "2025-09-27T12:18:40.739568",
+    "total_articles": 1959,
+    "new_articles_in_last_fetch": 1959,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -25441,6 +25441,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: 'SPECTACULAR' AI GROWTH CREATES LABOR MARKET PROBLEM, WARNS DAVID ZERVOS ⚠️\n\n- David Zervos warns Fed about AI boom's impact on labor market\n- Concerns raised about Federal Reserve's response to AI growth\n- AI's rapid expansion poses serious challenges for job market\n\nTAKEAWAY: David Zervos highlights the Federal Reserve's potential negligence towards addressing the labor market challenges posed by the explosive growth of artificial intelligence.",
       "exported_at": "2025-09-27T12:13:31.564828",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump says he&apos;ll send troops to Portland, Oregon, in latest deployment to U.S. cities",
+      "link": "https://www.cnbc.com/2025/09/27/trump-portland-oregon-troops.html",
+      "summary": "President Donald Trump said Saturday he will send troops to Portland, Oregon, \"authorizing Full Force, if necessary\" to handle \"domestic terrorists.\"",
+      "published": "Sat, 27 Sep 2025 16:15:10 GMT",
+      "content": "President Donald Trump said Saturday he will send troops to Portland, Oregon, \"authorizing Full Force, if necessary\" to handle \"domestic terrorists.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "240737632ff438b011bddbc2dd93b098",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP THREATENS TO SEND TROOPS TO PORTLAND, OREGON ⚠️\n\n- Trump plans troop deployment to Portland, Oregon 🚀\n- Troops to be sent to handle \"domestic terrorists\" ✅\n- \"Authorizing Full Force, if necessary\" ⚡️\n- Move sparks concerns over federal intervention ⚠️\n- Portland protests continue despite federal presence 🚨\n\nTAKEAWAY: Trump's decision to send troops to Portland, Oregon to address \"domestic terrorists\" raises concerns about federal intervention, as protests persist in the city.",
+      "exported_at": "2025-09-27T12:18:40.582357",
       "continuous_session": true
     }
   ]
