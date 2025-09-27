@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-27T02:19:23.090372",
-    "total_articles": 1938,
-    "new_articles_in_last_fetch": 1938,
+    "created_at": "2025-09-27T02:54:55.512457",
+    "total_articles": 1939,
+    "new_articles_in_last_fetch": 1939,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -25181,6 +25181,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STARTUP FOUNDERS REBOUND FROM FAILURE: REDEFINING SUCCESS 🚀\n\n- Founders reflect on identity after failed ventures 💪\n- Failure prompts introspection on strengths and skills 💡\n- Exiting unsuccessful businesses leads to self-discovery 🌟\n\nTAKEAWAY: Failing in startups can be a catalyst for personal growth as founders redefine success and rediscover their strengths.",
       "exported_at": "2025-09-27T02:19:22.937528",
+      "continuous_session": true
+    },
+    {
+      "title": "US to revoke Colombian president&apos;s visa over comments at pro-Palestinian gathering",
+      "link": "https://www.cnbc.com/2025/09/27/us-to-revoke-colombian-presidents-visa-over-comments-at-pro-palestinian-gathering.html",
+      "summary": "The U.S. said it would revoke Colombian President Gustavo Petro's visa after he took to New York's streets on Friday in a pro-Palestinian demonstration.",
+      "published": "Sat, 27 Sep 2025 06:48:50 GMT",
+      "content": "The U.S. said it would revoke Colombian President Gustavo Petro's visa after he took to New York's streets on Friday in a pro-Palestinian demonstration.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3c5733eefdf267f367b48196021856eb",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: US TO REVOKE COLOMBIAN PRESIDENT'S VISA OVER PRO-PALESTINIAN REMARKS 🚨\n\n- US decision to revoke Colombian President's visa after pro-Palestinian stance\n- President Gustavo Petro participated in a demonstration in New York 🗽\n- Actions spark diplomatic tensions between US and Colombia 🌎\n- Revocation follows Petro's comments at a pro-Palestinian gathering\n- Uncertainty surrounds future relations between the two nations 🤔\n\nTAKEAWAY: The US decision to revoke Colombian President's visa over pro-Palestinian remarks escalates diplomatic tensions, raising uncertainties in their future relations.",
+      "exported_at": "2025-09-27T02:54:55.387694",
       "continuous_session": true
     }
   ]
