@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-26T19:59:16.586612",
-    "total_articles": 1936,
-    "new_articles_in_last_fetch": 1936,
+    "created_at": "2025-09-27T02:19:23.090372",
+    "total_articles": 1938,
+    "new_articles_in_last_fetch": 1938,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -25155,6 +25155,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CRAMER'S INSIGHTS ON UPCOMING EVENTS IN THE STOCK MARKET 🚀\n\n- Focus on Nonfarm Payroll Report impact on market sentiment 📈\n- Anticipate earnings reports from Paychex and Nike 📊\n- Jim Cramer offers guidance for investors on Wall Street 💡\n\nTAKEAWAY: Stay informed on upcoming Nonfarm Payroll Report, Paychex, and Nike earnings to make strategic investment decisions in the stock market.",
       "exported_at": "2025-09-26T19:59:16.444145",
+      "continuous_session": true
+    },
+    {
+      "title": "Miracle under threat: South Korea’s birth rate collapse could undo decades of growth",
+      "link": "https://www.cnbc.com/2025/09/27/south-koreas-birth-rate-collapse-threatens-growth.html",
+      "summary": "A shrinking population could lead to a permanent recession by the 2040s, according to the Bank of Korea.",
+      "published": "Sat, 27 Sep 2025 06:11:12 GMT",
+      "content": "A shrinking population could lead to a permanent recession by the 2040s, according to the Bank of Korea.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "bd309e275fe647031c088d966616eb54",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MIRACLE UNDER THREAT: SOUTH KOREA FACES RECESION DUE TO BIRTH RATE COLLAPSE ⚠️\n\n- South Korea's shrinking population may trigger a permanent recession 📉\n- Bank of Korea predicts a possible economic downturn by the 2040s ⏳\n- Declining birth rates threaten to reverse decades of economic growth ⚠️\n\nTAKEAWAY: South Korea's looming recession, driven by a collapsing birth rate, poses a significant threat to its long-standing economic miracle.",
+      "exported_at": "2025-09-27T02:19:22.937473",
+      "continuous_session": true
+    },
+    {
+      "title": "Startup founders share how they bounced back from failure: ‘I lost a lot of my identity’",
+      "link": "https://www.cnbc.com/2025/09/27/startup-founders-share-how-they-bounced-back-from-failure.html",
+      "summary": "\"When you exit through an unsuccessful business, you really start to question: what are you good at?\" one founder told CNBC Make It.",
+      "published": "Sat, 27 Sep 2025 06:11:41 GMT",
+      "content": "\"When you exit through an unsuccessful business, you really start to question: what are you good at?\" one founder told CNBC Make It.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "edc457c03c0aa508b91ce97e093a9705",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STARTUP FOUNDERS REBOUND FROM FAILURE: REDEFINING SUCCESS 🚀\n\n- Founders reflect on identity after failed ventures 💪\n- Failure prompts introspection on strengths and skills 💡\n- Exiting unsuccessful businesses leads to self-discovery 🌟\n\nTAKEAWAY: Failing in startups can be a catalyst for personal growth as founders redefine success and rediscover their strengths.",
+      "exported_at": "2025-09-27T02:19:22.937528",
       "continuous_session": true
     }
   ]
