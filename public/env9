@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-27T06:12:38.599378",
-    "total_articles": 1940,
-    "new_articles_in_last_fetch": 1940,
+    "created_at": "2025-09-27T08:04:13.377605",
+    "total_articles": 1942,
+    "new_articles_in_last_fetch": 1942,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -25207,6 +25207,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: US TO REVOKE COLOMBIAN PRESIDENT'S VISA OVER PRO-PALESTINIAN REMARKS 🚨\n\n- US decision to revoke Colombian President's visa after pro-Palestinian stance\n- President Gustavo Petro participated in a demonstration in New York 🗽\n- Actions spark diplomatic tensions between US and Colombia 🌎\n- Revocation follows Petro's comments at a pro-Palestinian gathering\n- Uncertainty surrounds future relations between the two nations 🤔\n\nTAKEAWAY: The US decision to revoke Colombian President's visa over pro-Palestinian remarks escalates diplomatic tensions, raising uncertainties in their future relations.",
       "exported_at": "2025-09-27T06:12:38.445736",
+      "continuous_session": true
+    },
+    {
+      "title": "How a &apos;nudify&apos; site turned a group of friends into key figures in a fight against AI-generated porn",
+      "link": "https://www.cnbc.com/2025/09/27/nudify-ai-generated-deepfake-fbi.html",
+      "summary": "A group of friends in Minnesota last year learned that a man they knew had used their social media photos to create pornographic deepfakes.",
+      "published": "Sat, 27 Sep 2025 12:00:01 GMT",
+      "content": "A group of friends in Minnesota last year learned that a man they knew had used their social media photos to create pornographic deepfakes.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "334d9de3dcdff762186fd9fda33d66c9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: HOW FRIENDS FOUGHT AI-GENERATED PORN WITH 'NUDIFY' SITE 🚨\n\n- Friends discover man using their photos for porn deepfakes 🕵️‍♂️\n- Respond by creating 'nudify' site to tackle AI-generated porn 🛡️\n- Site empowers victims to fight back against digital exploitation ✊\n- Minnesota friends turn adversity into a powerful tool against deepfakes 💥\n- Taking a stand against the unethical use of personal photos 📸\n- 'Nudify' site gains recognition for its innovative approach 🌟\n\nTAKEAWAY: A group of friends in Minnesota fights back against AI-generated porn by creating the 'nudify' site, turning their ordeal into a powerful tool for victims of digital exploitation.",
+      "exported_at": "2025-09-27T08:04:13.234129",
+      "continuous_session": true
+    },
+    {
+      "title": "&apos;Seconds count&apos;: Avoiding airplane collisions at airports could come down to cockpit alerts",
+      "link": "https://www.cnbc.com/2025/09/27/airplane-collisions-airports-honeywell.html",
+      "summary": "Honeywell is developing a series of new cockpit alerts aimed at preventing collisions at or around airports.",
+      "published": "Sat, 27 Sep 2025 12:00:01 GMT",
+      "content": "Honeywell is developing a series of new cockpit alerts aimed at preventing collisions at or around airports.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e31b4e88824b9f8fc3dec8920e18db7b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 'SECONDS COUNT': HONEYWELL'S COCKPIT ALERTS TO PREVENT AIRPORT COLLISIONS 🚀\n\n- Honeywell innovates cockpit alerts for airport collision prevention ✈️\n- Focus on timely warnings to avoid accidents on airport runways 🔔\n- New technology crucial for pilot awareness and safety 🛫\n- Honeywell aims to enhance safety standards in airport operations 🎯\n\nTAKEAWAY: Honeywell's cutting-edge cockpit alerts are set to revolutionize airport safety by providing timely warnings to prevent collisions and enhance overall pilot awareness.",
+      "exported_at": "2025-09-27T08:04:13.234187",
       "continuous_session": true
     }
   ]
