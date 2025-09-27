@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-27T17:18:03.673012",
-    "total_articles": 1963,
-    "new_articles_in_last_fetch": 1963,
+    "created_at": "2025-09-27T17:23:12.421191",
+    "total_articles": 1964,
+    "new_articles_in_last_fetch": 1964,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -25506,6 +25506,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP FIRES FED CHIEF POWELL IN CARTOON IMAGE 🚨\n\n- Trump depicts firing Fed Chief Powell in cartoon image 🔥\n- Powell criticized for cautious interest rate cuts by Trump 💥\n- Trump nicknames Powell as \"too late Powell\" 🎯\n\nTAKEAWAY: President Trump's bold move to depict firing Fed Chief Powell in a cartoon image highlights his criticism of Powell's cautious approach to interest rate cuts.",
       "exported_at": "2025-09-27T17:18:03.515747",
+      "continuous_session": true
+    },
+    {
+      "title": "President Trump posts cartoon image depicting him firing Fed Chief Powell",
+      "link": "https://www.cnbc.com/2025/09/27/trump-cartoon-firing-powell-fed.html",
+      "summary": "Trump has repeatedly criticized Powell for his cautious approach to cutting interest rates, nicknaming him \"Too Late Powell.\"",
+      "published": "Sat, 27 Sep 2025 21:18:57 GMT",
+      "content": "Trump has repeatedly criticized Powell for his cautious approach to cutting interest rates, nicknaming him \"Too Late Powell.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "004b959b0d83607ea90a308a9b651b10",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP FIRES FED CHIEF POWELL IN CARTOON IMAGE 🚨\n\n- Trump depicts firing Powell over interest rate disagreements 💥\n- Powell criticized for cautious rate cuts, dubbed \"Too Late Powell\" 🎯\n- Cartoon image raises concerns over Fed independence ⚠️\n\nTAKEAWAY: President Trump's cartoon image firing Fed Chief Powell highlights their disagreements on interest rate cuts and sparks concerns about Fed independence.",
+      "exported_at": "2025-09-27T17:23:12.284340",
       "continuous_session": true
     }
   ]
