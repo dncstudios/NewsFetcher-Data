@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-27T16:32:23.060648",
-    "total_articles": 1962,
-    "new_articles_in_last_fetch": 1962,
+    "created_at": "2025-09-27T17:18:03.673012",
+    "total_articles": 1963,
+    "new_articles_in_last_fetch": 1963,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -25493,6 +25493,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SELF-MADE MILLIONAIRE'S ADVICE: 3 MONEY BELIEFS TO DITCH NOW 💰\n\n- Ramit Sethi reveals 3 money beliefs hindering earning potential\n- Belief: \"Money is a limited resource\" - Break free from scarcity mindset\n- Belief: \"I'm not good with money\" - Empower yourself with financial skills\n\nTAKEAWAY: Ramit Sethi's advice on ditching limiting money beliefs empowers individuals to unlock their full earning potential.",
       "exported_at": "2025-09-27T16:32:22.916248",
+      "continuous_session": true
+    },
+    {
+      "title": "President Trump posts cartoon image depicting him firing Fed Chief Powell",
+      "link": "https://www.cnbc.com/2025/09/27/trump-cartoon-firing-powell-fed.html",
+      "summary": "Trump has repeatedly criticized Powell for his cautious approach to cutting interest rates, nicknaming him \"too late Powell.\"",
+      "published": "Sat, 27 Sep 2025 21:16:35 GMT",
+      "content": "Trump has repeatedly criticized Powell for his cautious approach to cutting interest rates, nicknaming him \"too late Powell.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8baca03ae60dee0f27fff9ca4e522a26",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP FIRES FED CHIEF POWELL IN CARTOON IMAGE 🚨\n\n- Trump depicts firing Fed Chief Powell in cartoon image 🔥\n- Powell criticized for cautious interest rate cuts by Trump 💥\n- Trump nicknames Powell as \"too late Powell\" 🎯\n\nTAKEAWAY: President Trump's bold move to depict firing Fed Chief Powell in a cartoon image highlights his criticism of Powell's cautious approach to interest rate cuts.",
+      "exported_at": "2025-09-27T17:18:03.515747",
       "continuous_session": true
     }
   ]
