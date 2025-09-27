@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-27T09:46:06.115992",
-    "total_articles": 1950,
-    "new_articles_in_last_fetch": 1950,
+    "created_at": "2025-09-27T09:51:11.993401",
+    "total_articles": 1951,
+    "new_articles_in_last_fetch": 1951,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -25337,6 +25337,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: MOST OVERBOUGHT STOCKS PRIMED FOR DECLINE 📉\n\n- Intel's shares showing signs of being overbought 📈\n- Market indicates Intel may decline in the short term ⬇️\n- Intel leads the list of potentially overvalued stocks 💰\n\nTAKEAWAY: Keep an eye on Intel and other overbought stocks as they may be due for a decline in the near future.",
       "exported_at": "2025-09-27T09:46:05.986808",
+      "continuous_session": true
+    },
+    {
+      "title": "10 tons, built in seven days, and maybe a way to restore American Dream of affordable home ownership",
+      "link": "https://www.cnbc.com/2025/09/27/real-estate-prices-home-ownership-housing-affordability.html",
+      "summary": "Can modular housing revive the American Dream of affordable home ownership? One homebuilder thinks so, and it's having success across the U.S. West.",
+      "published": "Sat, 27 Sep 2025 13:50:52 GMT",
+      "content": "Can modular housing revive the American Dream of affordable home ownership? One homebuilder thinks so, and it's having success across the U.S. West.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f04b85668181226adbb0a6735e2ae73e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MODULAR HOUSING: REVIVING THE AMERICAN DREAM OF HOME OWNERSHIP? 🏡\n\n- Innovative modular homes built in 7 days 🏗️\n- Potential solution to affordable home ownership crisis 🛠️\n- Homebuilder sees success in U.S. West 🌟\n- Could this be the key to restoring the American Dream? 🔑\n- Modular housing trend spreading across the country 🇺🇸\n- Addressing the challenge of affordable housing 🏘️\n\nTAKEAWAY: Modular housing's rapid construction and affordability may hold the key to reviving the American Dream of home ownership, with potential to address the nationwide crisis.",
+      "exported_at": "2025-09-27T09:51:11.842173",
       "continuous_session": true
     }
   ]
