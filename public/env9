@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-27T10:16:41.647089",
-    "total_articles": 1954,
-    "new_articles_in_last_fetch": 1954,
+    "created_at": "2025-09-27T10:31:59.055031",
+    "total_articles": 1955,
+    "new_articles_in_last_fetch": 1955,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -25389,6 +25389,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ANSON FUNDS PUSHES FOR CLEAR CHANNEL OUTDOOR SALE 🚀\n\n- Anson Funds advocates for Clear Channel Outdoor's sale 📈\n- Company now a U.S. pureplay, increasing focus and value 💰\n- Potential sale could be more feasible and attractive now 💼\n- Timing deemed ideal for acquisition opportunity 🎯\n\nTAKEAWAY: Anson Funds' call for Clear Channel Outdoor's sale highlights increased focus, value, and acquisition potential, signaling an opportune moment for interested parties.",
       "exported_at": "2025-09-27T10:16:41.489916",
+      "continuous_session": true
+    },
+    {
+      "title": "36-year-old American Army vet moved to Vietnam, lives on $4,000 a month: You can &apos;focus on what makes you happy&apos; here",
+      "link": "https://www.cnbc.com/2025/09/27/american-army-vet-moved-to-vietnam-relocated.html",
+      "summary": "Markeiz Ryan was in the U.S. Air Force for nine years before he moved to Vietnam in 2019.",
+      "published": "Sat, 27 Sep 2025 14:00:01 GMT",
+      "content": "Markeiz Ryan was in the U.S. Air Force for nine years before he moved to Vietnam in 2019.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "121b1f4ea8ab4e03a84b42e47790554c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AMERICAN ARMY VET THRIVES IN VIETNAM ON $4,000/MONTH 💪\n\n- Ex-U.S. Air Force member, Markeiz Ryan, moved to Vietnam in 2019 🛫\n- Living comfortably on $4,000/month in Vietnam 🌏💰\n- Shifted focus to happiness and fulfillment abroad 🌟\n- Demonstrates living well on a modest income 💸🌴\n- Embracing a new life and culture in Vietnam 🇻🇳\n- Enjoying a fulfilling lifestyle post-military service 🎉\n\nTAKEAWAY: Markeiz Ryan's transition from the U.S. Air Force to Vietnam showcases the possibility of a fulfilling life on a modest budget, focusing on happiness and cultural experiences.",
+      "exported_at": "2025-09-27T10:31:58.903400",
       "continuous_session": true
     }
   ]
