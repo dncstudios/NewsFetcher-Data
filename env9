@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-27T12:18:40.739568",
-    "total_articles": 1959,
-    "new_articles_in_last_fetch": 1959,
+    "created_at": "2025-09-27T14:56:00.043857",
+    "total_articles": 1960,
+    "new_articles_in_last_fetch": 1960,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -25454,6 +25454,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP THREATENS TO SEND TROOPS TO PORTLAND, OREGON ⚠️\n\n- Trump plans troop deployment to Portland, Oregon 🚀\n- Troops to be sent to handle \"domestic terrorists\" ✅\n- \"Authorizing Full Force, if necessary\" ⚡️\n- Move sparks concerns over federal intervention ⚠️\n- Portland protests continue despite federal presence 🚨\n\nTAKEAWAY: Trump's decision to send troops to Portland, Oregon to address \"domestic terrorists\" raises concerns about federal intervention, as protests persist in the city.",
       "exported_at": "2025-09-27T12:18:40.582357",
+      "continuous_session": true
+    },
+    {
+      "title": "This CEO is working to make a critical test for women&apos;s health more accessible: &apos;Even if the visit&apos;s free,&apos; there are other barriers, she says",
+      "link": "https://www.cnbc.com/2025/09/27/this-ceo-is-working-to-make-a-critical-test-for-womens-health-more-accessible.html",
+      "summary": "The rate of cervical cancer screenings fell during the Covid-19 pandemic, and haven't rebounded. Teal Health created the first FDA-approved, at-home screening.",
+      "published": "Sat, 27 Sep 2025 15:00:01 GMT",
+      "content": "The rate of cervical cancer screenings fell during the Covid-19 pandemic, and haven't rebounded. Teal Health created the first FDA-approved, at-home screening.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "10b1e77aabb3fe8ba4d5d6f44247fd2f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TEAL HEALTH CEO REVOLUTIONIZING WOMEN'S HEALTH TEST ACCESSIBILITY 🚀\n\n- Cervical cancer screenings dropped during Covid-19, yet to recover 📉\n- Teal Health introduces FDA-approved at-home screening 🏡✅\n- CEO addresses barriers beyond cost for women's health tests 💪🩺\n- Mission to make critical tests more accessible for all women 🌟\n- Innovation aims to empower women in taking charge of their health 🚺💪⚡️\n\nTAKEAWAY: Teal Health's CEO leads the charge in revolutionizing women's health by introducing an FDA-approved at-home screening, addressing barriers beyond cost to make critical tests more accessible and empower women globally.",
+      "exported_at": "2025-09-27T14:55:59.916381",
       "continuous_session": true
     }
   ]
