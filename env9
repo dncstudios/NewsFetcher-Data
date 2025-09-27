@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-27T11:07:34.617185",
-    "total_articles": 1957,
-    "new_articles_in_last_fetch": 1957,
+    "created_at": "2025-09-27T12:13:31.723817",
+    "total_articles": 1958,
+    "new_articles_in_last_fetch": 1958,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -25428,6 +25428,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: PRIVATE CREDIT BOOM MADE ACCESSIBLE BY TWO FIRMS 🚀\n\n- Simplify Asset Management and VettaFi launch Simplify VettaFi PCR\n- Actively managed ETF opens private credit opportunity to more investors\n- PCR introduced for broader access beyond ultra-wealthy individuals\n\nTAKEAWAY: Simplify Asset Management and VettaFi collaborate to democratize private credit investment with the launch of Simplify VettaFi PCR, expanding access beyond the ultra-wealthy.",
       "exported_at": "2025-09-27T11:07:34.460012",
+      "continuous_session": true
+    },
+    {
+      "title": "&apos;Spectacular&apos; AI growth is creating a serious labor market problem for Fed, Jefferies&apos; David Zervos warns",
+      "link": "https://www.cnbc.com/2025/09/27/spectacular-ai-growth-to-spark-serious-jobs-issue-for-fed-zervos.html",
+      "summary": "Long-time market bull David Zervos is worried the Federal Reserve is dangerously ignoring the artificial intelligence boom's fallout.",
+      "published": "Sat, 27 Sep 2025 16:00:01 GMT",
+      "content": "Long-time market bull David Zervos is worried the Federal Reserve is dangerously ignoring the artificial intelligence boom's fallout.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1fb61f1f9f2a4e3491d6dcb0d68535c4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 'SPECTACULAR' AI GROWTH CREATES LABOR MARKET PROBLEM, WARNS DAVID ZERVOS ⚠️\n\n- David Zervos warns Fed about AI boom's impact on labor market\n- Concerns raised about Federal Reserve's response to AI growth\n- AI's rapid expansion poses serious challenges for job market\n\nTAKEAWAY: David Zervos highlights the Federal Reserve's potential negligence towards addressing the labor market challenges posed by the explosive growth of artificial intelligence.",
+      "exported_at": "2025-09-27T12:13:31.564828",
       "continuous_session": true
     }
   ]
