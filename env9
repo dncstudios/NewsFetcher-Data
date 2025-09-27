@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-27T08:04:13.377605",
-    "total_articles": 1942,
-    "new_articles_in_last_fetch": 1942,
+    "created_at": "2025-09-27T08:09:22.887515",
+    "total_articles": 1943,
+    "new_articles_in_last_fetch": 1943,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -25233,6 +25233,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: 'SECONDS COUNT': HONEYWELL'S COCKPIT ALERTS TO PREVENT AIRPORT COLLISIONS 🚀\n\n- Honeywell innovates cockpit alerts for airport collision prevention ✈️\n- Focus on timely warnings to avoid accidents on airport runways 🔔\n- New technology crucial for pilot awareness and safety 🛫\n- Honeywell aims to enhance safety standards in airport operations 🎯\n\nTAKEAWAY: Honeywell's cutting-edge cockpit alerts are set to revolutionize airport safety by providing timely warnings to prevent collisions and enhance overall pilot awareness.",
       "exported_at": "2025-09-27T08:04:13.234187",
+      "continuous_session": true
+    },
+    {
+      "title": "From PepsiCo to Taco Bell, dirty soda is taking over",
+      "link": "https://www.cnbc.com/2025/09/27/dirty-soda-swig-taco-bell-pepsico.html",
+      "summary": "Dirty soda is fueling a resurgence in carbonated soft drinks, kicked off by Utah-based chain Swig and now extending to giant PepsiCo.",
+      "published": "Sat, 27 Sep 2025 12:00:01 GMT",
+      "content": "Dirty soda is fueling a resurgence in carbonated soft drinks, kicked off by Utah-based chain Swig and now extending to giant PepsiCo.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a675e88f4cce59035d7256fcef553fef",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DIRTY SODA TREND SWEEPS PEPSICO & TACO BELL 🚀\n\n- Dirty soda craze revitalizes carbonated drinks market 🥤\n- Utah's Swig sparks trend, now embraced by PepsiCo 🌟\n- Taco Bell also jumps on the dirty soda bandwagon 🌮\n\nTAKEAWAY: The dirty soda trend, led by Swig and embraced by PepsiCo and Taco Bell, is reinvigorating the carbonated drinks market with a surge in popularity.",
+      "exported_at": "2025-09-27T08:09:22.728930",
       "continuous_session": true
     }
   ]
