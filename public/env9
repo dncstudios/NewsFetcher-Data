@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-27T08:29:43.314147",
-    "total_articles": 1944,
-    "new_articles_in_last_fetch": 1944,
+    "created_at": "2025-09-27T09:25:31.110004",
+    "total_articles": 1945,
+    "new_articles_in_last_fetch": 1945,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -25259,6 +25259,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TOP DEMOCRAT SLAMS TRUMP FOR GOLFING AS SHUTDOWN LOOMS ⚠️\n\n- Democrats criticize Trump for attending Ryder Cup amidst looming shutdown 🏌️‍♂️\n- Warn Republicans and Trump will be at fault if government shuts down ❌\n- Lack of stopgap funding deal raises concerns about government operations ⚠️\n\nTAKEAWAY: Democrats call out Trump's golfing during a potential government shutdown, highlighting concerns over funding and operational stability.",
       "exported_at": "2025-09-27T08:29:43.175056",
+      "continuous_session": true
+    },
+    {
+      "title": "10-tons, built in seven days, and maybe a way to restore American Dream of affordable home ownership",
+      "link": "https://www.cnbc.com/2025/09/27/real-estate-prices-home-ownership-housing-affordability.html",
+      "summary": "Can modular housing revive the American Dream of affordable home ownership? One homebuilder thinks so, and it's having success across the U.S. West.",
+      "published": "Sat, 27 Sep 2025 13:23:40 GMT",
+      "content": "Can modular housing revive the American Dream of affordable home ownership? One homebuilder thinks so, and it's having success across the U.S. West.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7d3fb4020c27d578d9d6e3e88cfe36a6",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MODULAR HOUSING: REVIVING THE AMERICAN DREAM OF HOME OWNERSHIP? 🏡\n\n- Innovative modular homes built in 7 days 🏗️\n- Potential solution to affordable home ownership crisis 🛠️\n- Homebuilder sees success in U.S. West 🌟\n- Could this be the key to restoring the American Dream? 🔑\n- Modular housing trend spreading across the country 🇺🇸\n- Addressing the challenge of affordable housing 🏘️\n\nTAKEAWAY: Modular housing's rapid construction and affordability may hold the key to reviving the American Dream of home ownership, with potential to address the nationwide crisis.",
+      "exported_at": "2025-09-27T09:25:30.960722",
       "continuous_session": true
     }
   ]
