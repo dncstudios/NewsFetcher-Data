@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-27T09:30:39.310140",
-    "total_articles": 1946,
-    "new_articles_in_last_fetch": 1946,
+    "created_at": "2025-09-27T09:35:49.263617",
+    "total_articles": 1948,
+    "new_articles_in_last_fetch": 1948,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -25285,6 +25285,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NAIL WORKPLACE COMMUNICATION LIKE A PRO WITH THESE EXPERT PHRASES 🔥\n\n- Experts reveal top phrases for handling workplace conflicts 💬\n- Gain influence and navigate awkward situations with ease ✨\n- Learn key phrases to diffuse tension and build strong relationships 💪\n- Communicate effectively to boost productivity and teamwork 🚀\n- Navigate tricky conversations with confidence and finesse 💼\n- Master the art of communication with expert-approved phrases 🎯\n\nTAKEAWAY: Elevate your workplace communication skills using these expert phrases to navigate conflicts, build relationships, and boost productivity like a pro.",
       "exported_at": "2025-09-27T09:30:39.187643",
+      "continuous_session": true
+    },
+    {
+      "title": "The resilient stock market may be keeping the economy out of a recession",
+      "link": "https://www.cnbc.com/2025/09/27/wealth-effect-stock-market-recession.html",
+      "summary": "Consumers with larger stock holdings are feeling fine, while those with smaller or no holdings are not.",
+      "published": "Sat, 27 Sep 2025 13:31:14 GMT",
+      "content": "Consumers with larger stock holdings are feeling fine, while those with smaller or no holdings are not.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "cbb46561bd74d5ea12b2399387afffd6",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: THE STOCK MARKET'S RESILIENCE SUSTAINS ECONOMY AMIDST RECESSION FEARS 📈\n\n- Consumers with substantial stock holdings remain confident 💪\n- Those with limited or no holdings experience financial strain 📉\n- Stock market's strength crucial in preventing economic downturn\n\nTAKEAWAY: The stock market's resilience is key in maintaining consumer confidence and potentially averting an economic recession.",
+      "exported_at": "2025-09-27T09:35:49.130528",
+      "continuous_session": true
+    },
+    {
+      "title": "How to know when it&apos;s time to worry about the AI bubble",
+      "link": "https://www.cnbc.com/2025/09/27/santoli-ai-bubble-anxiety-worry.html",
+      "summary": "Wall Street is undergoing a minor AI-nxiety attack.",
+      "published": "Sat, 27 Sep 2025 13:32:55 GMT",
+      "content": "Wall Street is undergoing a minor AI-nxiety attack.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "89ac5c1ae63eca322a1f347db4e747f8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: HOW TO SPOT THE AI BUBBLE BURST 🚨\n\n- Wall Street experiences minor AI-nxiety over potential bubble 💥\n- Investors cautious as AI stocks surge 📈\n- Signs of AI bubble include rapid stock price increases 📈\n- Analysts warn about inflated AI company valuations 📉\n- Bubble fears increase as AI market expands 📊\n\nTAKEAWAY: Wall Street's cautious approach to surging AI stocks signals potential bubble risks, prompting investors to closely monitor signs of inflated valuations.",
+      "exported_at": "2025-09-27T09:35:49.130607",
       "continuous_session": true
     }
   ]
