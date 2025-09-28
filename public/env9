@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-28T18:10:01.513657",
-    "total_articles": 1993,
-    "new_articles_in_last_fetch": 1993,
+    "created_at": "2025-09-28T19:56:30.459075",
+    "total_articles": 1994,
+    "new_articles_in_last_fetch": 1994,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -25896,6 +25896,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: EUROPE DOMINATES RYDER CUP, LEAVING AMERICANS IN SEARCH OF ANSWERS 🏌️‍♂️\n\n- Team Europe reclaims Ryder Cup, showcasing dominance 🏆\n- Americans left questioning their performance 🤔\n- Series becoming increasingly one-sided ⚠️\n- Europe's victory solidifies their superiority ⚡️\n- American team faces challenges in regaining momentum 🚨\n\nTAKEAWAY: Europe's decisive win in the Ryder Cup reaffirms their dominance over the American team, leaving the US side with significant challenges ahead.",
       "exported_at": "2025-09-28T18:10:01.364943",
+      "continuous_session": true
+    },
+    {
+      "title": "Asia markets set for mostly higher open; Australia central bank starts two-day policy meeting",
+      "link": "https://www.cnbc.com/2025/09/29/asia-pacific-markets-nikkei-225-kospi-asx-200.html",
+      "summary": "Asia-Pacific markets were set for a mostly higher open Monday as the Reserve Bank of Australia kickstarts its two-day meeting.",
+      "published": "Sun, 28 Sep 2025 23:48:09 GMT",
+      "content": "Asia-Pacific markets were set for a mostly higher open Monday as the Reserve Bank of Australia kickstarts its two-day meeting.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "245511424c2e792d5017dc74ea26cb68",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASIA MARKETS PRIMED FOR POSITIVE OPEN 🚀\n\n- Asia-Pacific markets poised for mostly higher open 📈\n- Reserve Bank of Australia begins two-day policy meeting 🏦\n- Investors anticipate outcomes from RBA's meeting 🧐\n\nTAKEAWAY: Asia markets show promise for a positive start as the Reserve Bank of Australia commences its two-day policy meeting, sparking investor interest in potential outcomes.",
+      "exported_at": "2025-09-28T19:56:30.335632",
       "continuous_session": true
     }
   ]
