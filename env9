@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-28T14:51:59.807032",
-    "total_articles": 1987,
-    "new_articles_in_last_fetch": 1987,
+    "created_at": "2025-09-28T16:03:00.719068",
+    "total_articles": 1988,
+    "new_articles_in_last_fetch": 1988,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -25818,6 +25818,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRAGEDY STRIKES MICHIGAN CHURCH AS GUNMAN KILLS ONE AND INJURES 9 🔥\n\n- Gunman opens fire in Michigan church during Sunday service\n- 1 person dead, 9 injured in the tragic incident\n- Gunman sets the church ablaze after the shooting\n- Authorities investigating the motive behind the attack\n- Church community and families devastated by the violence\n- Tragic event raises concerns about safety during religious gatherings\n\nTAKEAWAY: A heartbreaking incident at a Michigan church leaves one person dead, 9 injured, and raises questions about security and safety during religious services.",
       "exported_at": "2025-09-28T14:51:59.674173",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump threatens mass firings of federal workers if government shutdown isn&apos;t averted, NBC News reports",
+      "link": "https://www.cnbc.com/2025/09/28/trump-mass-firings-government-shutdown.html",
+      "summary": "The White House last week told federal agencies to begin preparing for mass firings if Congress does not pass a deal to avert a government shutdown.",
+      "published": "Sun, 28 Sep 2025 19:58:47 GMT",
+      "content": "The White House last week told federal agencies to begin preparing for mass firings if Congress does not pass a deal to avert a government shutdown.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "488e47878e6382c3b49a945e49074945",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP THREATENS MASS FIRINGS IF GOVERNMENT SHUTDOWN LOOMS ⚠️\n\n- White House warns of mass federal worker layoffs 📉\n- Agencies instructed to prep for shutdown impact 📋\n- Congress urged to pass deal to avoid layoffs 🏛️\n- Uncertainty looms over federal workers' fate 🤔\n\nTAKEAWAY: The looming threat of mass firings for federal workers adds pressure on Congress to avert a government shutdown and ensure job security for employees.",
+      "exported_at": "2025-09-28T16:03:00.569329",
       "continuous_session": true
     }
   ]
