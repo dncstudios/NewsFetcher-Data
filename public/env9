@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-28T09:42:18.509207",
-    "total_articles": 1979,
-    "new_articles_in_last_fetch": 1979,
+    "created_at": "2025-09-28T10:02:39.043018",
+    "total_articles": 1980,
+    "new_articles_in_last_fetch": 1980,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -25714,6 +25714,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: THE NO. 1 SIGN YOU'RE READY TO BE YOUR OWN BOSS, SAYS OLIPOP CEO: PASSION IS KEY 🔥\n\n- Olipop CEO Ben Goodwin emphasizes the importance of passion 💪\n- Having a strong drive and enthusiasm is crucial for entrepreneurship 🚀\n- Passion fuels the determination needed to succeed as a business owner 💼\n- According to Goodwin, being passionate is a key indicator of readiness 🎯\n\nTAKEAWAY: Olipop CEO highlights passion as the essential ingredient for anyone aspiring to start their own business and become a successful boss.",
       "exported_at": "2025-09-28T09:42:18.349226",
+      "continuous_session": true
+    },
+    {
+      "title": "As chain stores fail, mall vacancies rise, local business owners score rare real estate offers",
+      "link": "https://www.cnbc.com/2025/09/28/chain-store-bankruptcy-mall-real-estate-small-business.html",
+      "summary": "Vacancy rates for shopping center leases are high as chain stores fail, allowing locally owned small businesses to score prime real estate deals.",
+      "published": "Sun, 28 Sep 2025 13:59:42 GMT",
+      "content": "Vacancy rates for shopping center leases are high as chain stores fail, allowing locally owned small businesses to score prime real estate deals.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "33b7848b7ccfc36c4698e542c4a8d66f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MALL VACANCIES RISE AS CHAIN STORES FAIL, LOCAL BUSINESSES SEIZE OPPORTUNITIES 🚀\n\n- Shopping center lease vacancies soar due to chain store closures 📉\n- Locally owned small businesses capitalize on prime real estate deals 💼\n- Chain store failures create rare opportunities for local entrepreneurs 🌟\n- High vacancy rates in malls attract small businesses seeking growth 📈\n- Shift in retail landscape benefits local owners looking for affordable space 💰\n\nTAKEAWAY: Chain store closures leading to high mall vacancies create a window of opportunity for local businesses to secure prime real estate deals and thrive in the changing retail landscape.",
+      "exported_at": "2025-09-28T10:02:38.906342",
       "continuous_session": true
     }
   ]
