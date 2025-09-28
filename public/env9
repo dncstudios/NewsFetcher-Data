@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-28T17:59:45.035145",
-    "total_articles": 1991,
-    "new_articles_in_last_fetch": 1991,
+    "created_at": "2025-09-28T18:04:52.975493",
+    "total_articles": 1992,
+    "new_articles_in_last_fetch": 1992,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -25870,6 +25870,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRAGEDY STRIKES MICHIGAN CHURCH WITH SHOOTING AND FIRE 🔥\n\n- Gunman opens fire during Sunday service in Michigan church\n- Multiple casualties reported, including 2 dead and several injured\n- Shooter sets church ablaze after the shooting incident\n- Authorities investigating the tragic event for further details\n\nTAKEAWAY: A devastating incident unfolds as a gunman opens fire in a Michigan church during Sunday service, leading to casualties and a fire that engulfed the building.",
       "exported_at": "2025-09-28T17:59:44.969329",
+      "continuous_session": true
+    },
+    {
+      "title": "Stock futures are flat in overnight trading following a losing week: Live updates",
+      "link": "https://www.cnbc.com/2025/09/28/stock-market-today-live-updates.html",
+      "summary": "All eyes are turning to the September nonfarm payrolls report, which is due Friday morning.",
+      "published": "Sun, 28 Sep 2025 22:03:45 GMT",
+      "content": "All eyes are turning to the September nonfarm payrolls report, which is due Friday morning.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "34cb3d6d982df246ec32b37bbbb5eec0",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK FUTURES FLAT AFTER LOSING WEEK: LIVE UPDATES 📉\n\n- Stock futures stable in overnight trading 💤\n- Market awaits September nonfarm payrolls report 📈\n- Investors eyeing Friday morning for key data 🔍\n\nTAKEAWAY: Stock futures hold steady after a losing week, with all attention on the upcoming September nonfarm payrolls report for market direction.",
+      "exported_at": "2025-09-28T18:04:52.832991",
       "continuous_session": true
     }
   ]
