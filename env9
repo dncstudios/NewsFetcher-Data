@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-28T12:50:04.454903",
-    "total_articles": 1984,
-    "new_articles_in_last_fetch": 1984,
+    "created_at": "2025-09-28T13:50:57.452485",
+    "total_articles": 1985,
+    "new_articles_in_last_fetch": 1985,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -25779,6 +25779,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: GOP DELAYS OBAMACARE TAX CREDIT FIGHT AMID GOVERNMENT SHUTDOWN THREAT ⚠️\n\n- GOP leaders postpone Obamacare tax credit debate\n- President Trump to meet top congressional leaders\n- Funding deadline approaching, government shutdown risks\n- Focus on averted shutdown before tackling tax credit issue\n\nTAKEAWAY: GOP leaders prioritize averting government shutdown over Obamacare tax credit fight, delaying the debate for now.",
       "exported_at": "2025-09-28T12:50:04.302314",
+      "continuous_session": true
+    },
+    {
+      "title": "Eric Adams drops out of New York City mayoral race",
+      "link": "https://www.cnbc.com/2025/09/28/eric-adams-new-york-city-mayor-race-trump-.html",
+      "summary": "President Donald Trump has suggested that NYC Mayor Eric Adams and Curtis Sliwa, the Republican nominee, should both drop out of the race.",
+      "published": "Sun, 28 Sep 2025 17:50:28 GMT",
+      "content": "President Donald Trump has suggested that NYC Mayor Eric Adams and Curtis Sliwa, the Republican nominee, should both drop out of the race.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "bddd8c4fe97226ba7ad00c059bb32ef4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ERIC ADAMS DROPS OUT OF NYC MAYORAL RACE 🚨\n\n- Eric Adams exits NYC mayoral race after President Trump's suggestion\n- Curtis Sliwa remains as the Republican nominee\n- Trump urges both Adams and Sliwa to withdraw from the race\n\nTAKEAWAY: Eric Adams' surprising exit from the NYC mayoral race following President Trump's suggestion sets the stage for potential shifts in the political landscape.",
+      "exported_at": "2025-09-28T13:50:57.302638",
       "continuous_session": true
     }
   ]
