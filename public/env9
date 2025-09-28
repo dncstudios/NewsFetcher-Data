@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-28T16:13:13.482113",
-    "total_articles": 1989,
-    "new_articles_in_last_fetch": 1989,
+    "created_at": "2025-09-28T17:34:22.768577",
+    "total_articles": 1990,
+    "new_articles_in_last_fetch": 1990,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -25844,6 +25844,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRAGEDY STRIKES MICHIGAN CHURCH WITH SHOOTING AND FIRE 🔥\n\n- Gunman opens fire during Sunday service in Michigan church\n- Multiple casualties reported, including 2 dead and several injured\n- Shooter sets church ablaze after the shooting incident\n- Authorities investigating the tragic event for further details\n\nTAKEAWAY: A devastating incident unfolds as a gunman opens fire in a Michigan church during Sunday service, leading to casualties and a fire that engulfed the building.",
       "exported_at": "2025-09-28T16:13:13.332444",
+      "continuous_session": true
+    },
+    {
+      "title": "Jim Cramer: Why the crazy spending of this AI boom isn&apos;t like the dot-com bubble",
+      "link": "https://www.cnbc.com/2025/09/28/cramer-why-the-crazy-spending-of-this-ai-boom-isnt-like-the-dot-com-bubble.html",
+      "summary": "The AI buildout looks less like a bubble and more like an industrial revolution.",
+      "published": "Sun, 28 Sep 2025 21:31:25 GMT",
+      "content": "The AI buildout looks less like a bubble and more like an industrial revolution.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "31a677034e6138bc77fc40b2674a33e8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JIM CRAMER: AI SPENDING BOOM NOT A DOT-COM BUBBLE 🚀\n\n- AI spending resembles industrial revolution, not a bubble 🤖🏭\n- Jim Cramer highlights the distinctive nature of AI buildout 💡\n- Emphasis on substantial impact akin to industrial revolution ⚡️\n- Contrasts AI boom with the infamous dot-com bubble burst 💥\n- Key message: AI spending signifies a transformative era 🔄\n\nTAKEAWAY: Jim Cramer distinguishes the AI spending boom from the dot-com bubble, likening it to an industrial revolution with a significant transformative impact.",
+      "exported_at": "2025-09-28T17:34:22.635658",
       "continuous_session": true
     }
   ]
