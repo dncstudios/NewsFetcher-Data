@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-28T13:50:57.452485",
-    "total_articles": 1985,
-    "new_articles_in_last_fetch": 1985,
+    "created_at": "2025-09-28T13:56:07.486522",
+    "total_articles": 1986,
+    "new_articles_in_last_fetch": 1986,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -25792,6 +25792,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ERIC ADAMS DROPS OUT OF NYC MAYORAL RACE 🚨\n\n- Eric Adams exits NYC mayoral race after President Trump's suggestion\n- Curtis Sliwa remains as the Republican nominee\n- Trump urges both Adams and Sliwa to withdraw from the race\n\nTAKEAWAY: Eric Adams' surprising exit from the NYC mayoral race following President Trump's suggestion sets the stage for potential shifts in the political landscape.",
       "exported_at": "2025-09-28T13:50:57.302638",
+      "continuous_session": true
+    },
+    {
+      "title": "JD Vance ‘confident&apos; the U.S. has &apos;successfully separated&apos; TikTok from China parent company ByteDance",
+      "link": "https://www.cnbc.com/2025/09/28/jd-vance-trump-tiktok-china-bytedance.html",
+      "summary": "Vice President JD Vance weighed in on the president's recent executive order regarding the acquisition of TikTok on \"Fox News Sunday.\"",
+      "published": "Sun, 28 Sep 2025 17:51:04 GMT",
+      "content": "Vice President JD Vance weighed in on the president's recent executive order regarding the acquisition of TikTok on \"Fox News Sunday.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "dadf3fd28c9a4a2ed926c5f607cb6530",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JD VANCE CONFIDENT U.S. SUCCESSFULLY SEPARATED TIKTOK FROM CHINA 🚀\n\n- JD Vance expresses confidence in U.S. successfully separating TikTok from ByteDance 🇨🇳\n- Remarks made on \"Fox News Sunday\" regarding recent executive order on TikTok acquisition ✅\n- U.S. taking steps to address national security concerns related to Chinese ownership ⚠️\n- ByteDance under pressure to divest TikTok's U.S. operations 📉\n- National security implications prompting regulatory actions against Chinese tech companies 🚨\n- Vance's comments highlight efforts to protect U.S. data and technology interests 🔒\n\nTAKEAWAY: JD Vance's confidence in separating TikTok from ByteDance reflects U.S. focus on national security concerns, signaling regulatory actions against Chinese tech companies.",
+      "exported_at": "2025-09-28T13:56:07.364773",
       "continuous_session": true
     }
   ]
