@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-28T10:02:39.043018",
-    "total_articles": 1980,
-    "new_articles_in_last_fetch": 1980,
+    "created_at": "2025-09-28T10:58:31.583540",
+    "total_articles": 1983,
+    "new_articles_in_last_fetch": 1983,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -25727,6 +25727,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: MALL VACANCIES RISE AS CHAIN STORES FAIL, LOCAL BUSINESSES SEIZE OPPORTUNITIES 🚀\n\n- Shopping center lease vacancies soar due to chain store closures 📉\n- Locally owned small businesses capitalize on prime real estate deals 💼\n- Chain store failures create rare opportunities for local entrepreneurs 🌟\n- High vacancy rates in malls attract small businesses seeking growth 📈\n- Shift in retail landscape benefits local owners looking for affordable space 💰\n\nTAKEAWAY: Chain store closures leading to high mall vacancies create a window of opportunity for local businesses to secure prime real estate deals and thrive in the changing retail landscape.",
       "exported_at": "2025-09-28T10:02:38.906342",
+      "continuous_session": true
+    },
+    {
+      "title": "25-year-old consultant took 8 weeks of unpaid time off for reality dating show—‘I have really good relationships with people at my work’",
+      "link": "https://www.cnbc.com/2025/09/28/25-year-old-consultant-took-8-weeks-unpaid-time-off-for-reality-dating-show.html",
+      "summary": "Elan Bibas says he was able to take the opportunity to appear on \"Love Island\" because of the strong relationships he had built at work.",
+      "published": "Sun, 28 Sep 2025 13:43:01 GMT",
+      "content": "Elan Bibas says he was able to take the opportunity to appear on \"Love Island\" because of the strong relationships he had built at work.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0644797052814460192162283e62487e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 25-YEAR-OLD CONSULTANT TAKES UNPAID LEAVE FOR REALITY SHOW 🌟\n\n- Consultant Elan Bibas takes 8 weeks off for \"Love Island\" 💔\n- Strong work relationships enable his time off 🤝\n- Unpaid leave showcases trust and flexibility at work ✨\n\nTAKEAWAY: Elan Bibas' ability to take unpaid time off for a reality show highlights the importance of building strong relationships and trust in the workplace.",
+      "exported_at": "2025-09-28T10:58:31.425215",
+      "continuous_session": true
+    },
+    {
+      "title": "3 &apos;minimizing&apos; phrases you should never say at work, from a communication expert",
+      "link": "https://www.cnbc.com/2025/09/28/3-minimizing-phrases-you-should-never-say-at-work-from-a-communication-expert.html",
+      "summary": "These common phrases could make you seem uncertain at work, according to a communication coach.",
+      "published": "Sun, 28 Sep 2025 14:00:01 GMT",
+      "content": "These common phrases could make you seem uncertain at work, according to a communication coach.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7b2f68f25f0ecf47deb9d734e2e8f15c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 3 'MINIMIZING' PHRASES TO AVOID AT WORK, BOOST YOUR CONFIDENCE! 🔥\n\n- Communication expert warns against using uncertain phrases\n- Avoid common phrases that may undermine your credibility ✅\n- Boost your confidence by eliminating minimizing language 🚀\n\nTAKEAWAY: Eliminate minimizing phrases at work to boost your confidence and credibility, advised by a communication expert.",
+      "exported_at": "2025-09-28T10:58:31.425305",
+      "continuous_session": true
+    },
+    {
+      "title": "Here are the 2 big things we&apos;re watching in the stock market in the week ahead",
+      "link": "https://www.cnbc.com/2025/09/28/here-are-the-2-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+      "summary": "How will the Federal Reserve spend its next couple of months?",
+      "published": "Sun, 28 Sep 2025 14:40:53 GMT",
+      "content": "How will the Federal Reserve spend its next couple of months?",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c5b356823e0725a77e197dc6656025f7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: HERE ARE THE 2 BIG THINGS TO WATCH IN THE STOCK MARKET NEXT WEEK 📊\n\n- Eyes on Federal Reserve's upcoming decisions and actions 🧐\n- Market anticipation for Fed's next moves 📈\n\nTAKEAWAY: Market focus shifts to Federal Reserve's upcoming decisions and actions, influencing stock market trends in the week ahead.",
+      "exported_at": "2025-09-28T10:58:31.425324",
       "continuous_session": true
     }
   ]
