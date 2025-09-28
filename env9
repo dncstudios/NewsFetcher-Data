@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-27T17:23:12.421191",
-    "total_articles": 1964,
-    "new_articles_in_last_fetch": 1964,
+    "created_at": "2025-09-28T02:15:36.319131",
+    "total_articles": 1966,
+    "new_articles_in_last_fetch": 1966,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -25519,6 +25519,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP FIRES FED CHIEF POWELL IN CARTOON IMAGE 🚨\n\n- Trump depicts firing Powell over interest rate disagreements 💥\n- Powell criticized for cautious rate cuts, dubbed \"Too Late Powell\" 🎯\n- Cartoon image raises concerns over Fed independence ⚠️\n\nTAKEAWAY: President Trump's cartoon image firing Fed Chief Powell highlights their disagreements on interest rate cuts and sparks concerns about Fed independence.",
       "exported_at": "2025-09-27T17:23:12.284340",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump&apos;s H-1B visa fee could have one big winner: The Middle East",
+      "link": "https://www.cnbc.com/2025/09/28/trumps-h-1b-visa-fee-could-have-one-big-winner-the-middle-east.html",
+      "summary": "Plans for higher H-1B visa fees have intensified the battle to secure global tech talent.",
+      "published": "Sun, 28 Sep 2025 06:08:14 GMT",
+      "content": "Plans for higher H-1B visa fees have intensified the battle to secure global tech talent.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2603d826fe70b369c50a5edbc8fd4cbb",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP'S H-1B VISA FEE SHAKE-UP: MIDDLE EAST EMERGES AS POTENTIAL WINNER 🚀\n\n- Proposed H-1B visa fee hike fuels global tech talent competition 🔥\n- Middle East positioned to benefit from increased visa costs ✅\n- Intensified battle for skilled workers amid fee restructuring 🚨\n- H-1B visa fee changes could reshape global talent landscape ⚡️\n\nTAKEAWAY: Trump's plans for higher H-1B visa fees are reshaping the battle for tech talent, potentially positioning the Middle East as a key beneficiary in the competitive landscape.",
+      "exported_at": "2025-09-28T02:15:36.182402",
+      "continuous_session": true
+    },
+    {
+      "title": "A new buzzword is hanging over businesses as they rush into AI",
+      "link": "https://www.cnbc.com/2025/09/28/a-new-buzzword-is-hanging-over-businesses-as-they-rush-into-ai.html",
+      "summary": "Nearly 80% of companies expect to incur \"AI debt\" in the future, according to a new report by Asana, which surveyed over 9,000 knowledge workers globally.",
+      "published": "Sun, 28 Sep 2025 06:08:33 GMT",
+      "content": "Nearly 80% of companies expect to incur \"AI debt\" in the future, according to a new report by Asana, which surveyed over 9,000 knowledge workers globally.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "17408ac249736599046ae739b3d26db2",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: THE RISE OF \"AI DEBT\" IN BUSINESSES 🚀\n\n- 80% of companies anticipate incurring \"AI debt\" soon\n- Asana's report based on surveying 9,000 global knowledge workers\n- Businesses rushing into AI face the looming challenge\n\nTAKEAWAY: The concept of \"AI debt\" is taking center stage as businesses embrace AI, with 80% of companies foreseeing its impact in the near future.",
+      "exported_at": "2025-09-28T02:15:36.182498",
       "continuous_session": true
     }
   ]
