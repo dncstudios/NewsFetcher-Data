@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-28T07:55:29.254932",
-    "total_articles": 1973,
-    "new_articles_in_last_fetch": 1973,
+    "created_at": "2025-09-28T08:10:54.679785",
+    "total_articles": 1976,
+    "new_articles_in_last_fetch": 1976,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -25636,6 +25636,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TOP WALL STREET ANALYSTS PICK 3 STOCKS FOR ROBUST GROWTH 🚀\n\n- Nvidia and CrowdStrike stand out in Wall Street's favorites 🌟\n- TipRanks identifies these stocks as top choices for growth 📈\n- Analysts bullish on the growth outlook of selected stocks 💼\n\nTAKEAWAY: Wall Street analysts are backing Nvidia and CrowdStrike for their strong growth potential, marking them as top choices for investors seeking robust returns.",
       "exported_at": "2025-09-28T07:55:29.101419",
+      "continuous_session": true
+    },
+    {
+      "title": "A look at OpenAI&apos;s tangled web of dealmaking",
+      "link": "https://www.cnbc.com/2025/09/28/a-look-at-openais-tangled-web-of-dealmaking.html",
+      "summary": "OpenAI's Sam Altman has put himself in the center of the tech universe through a series of mammoth deals.",
+      "published": "Sun, 28 Sep 2025 12:00:01 GMT",
+      "content": "OpenAI's Sam Altman has put himself in the center of the tech universe through a series of mammoth deals.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "cfc3b70fdb62e65d23587beeb93ce9c4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: INSIDE OPENAI'S WEB OF DEALMAKING 🚀\n\n- Sam Altman positioned at the heart of tech with massive deals 💼\n- OpenAI's strategic partnerships shape the tech landscape 🌐\n- Altman's dealmaking prowess drives OpenAI's growth 📈\n- Tech community watches Altman's moves closely 👀\n- OpenAI's influence expands through strategic collaborations 🌍\n\nTAKEAWAY: Sam Altman's strategic dealmaking at OpenAI is reshaping the tech industry, positioning the company as a key player in the global tech landscape.",
+      "exported_at": "2025-09-28T08:10:54.525829",
+      "continuous_session": true
+    },
+    {
+      "title": "5 takeaways from CNBC’s investigation into &apos;nudify&apos; apps and sites",
+      "link": "https://www.cnbc.com/2025/09/28/5-takeaways-from-cnbcs-investigation-into-nudify-apps-and-sites.html",
+      "summary": "CNBC investigated \"nudify\" apps and how a group of friends became key figures in the fight against nonconsensual, AI-generated porn.",
+      "published": "Sun, 28 Sep 2025 12:00:01 GMT",
+      "content": "CNBC investigated \"nudify\" apps and how a group of friends became key figures in the fight against nonconsensual, AI-generated porn.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a11ada457b6b6d6b7ce6cdb077927886",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 5 TAKEAWAYS FROM CNBC'S INVESTIGATION INTO 'NUDIFY' APPS AND SITES 🚨\n\n- CNBC delves into 'nudify' apps' impact on nonconsensual AI-generated porn\n- Friends emerge as pivotal figures in combating unethical content 🔥\n- Investigation reveals the dark side of AI technology in creating nonconsensual material ⚠️\n- 'Nudify' apps raise concerns about privacy and consent in the digital age 📵\n- Friends' efforts highlight the importance of ethical use of AI technology ✅\n\nTAKEAWAY: CNBC's investigation sheds light on the ethical implications of 'nudify' apps and emphasizes the need for responsible AI use to protect privacy and consent in the digital realm.",
+      "exported_at": "2025-09-28T08:10:54.525896",
+      "continuous_session": true
+    },
+    {
+      "title": "A Universal-DreamWorks movie is bringing the winning formula of kids content frenzy to the big screen",
+      "link": "https://www.cnbc.com/2025/09/28/gabbys-dollhouse-movie-kid-content-frenzy.html",
+      "summary": "\"Gabby's Dollhouse: The Movie\" hits theaters this weekend as Universal and Dreamworks Animation seek to expand the franchise.",
+      "published": "Sun, 28 Sep 2025 12:00:01 GMT",
+      "content": "\"Gabby's Dollhouse: The Movie\" hits theaters this weekend as Universal and Dreamworks Animation seek to expand the franchise.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7fd5ebb9b17bdb2c6c4610999fa1ae75",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: UNIVERSAL-DREAMWORKS BRING KIDS CONTENT FRENZY TO BIG SCREEN 🚀\n\n- \"Gabby's Dollhouse: The Movie\" premieres this weekend 🎥\n- Universal, DreamWorks aim to grow the franchise 📈\n- Excitement builds for the big screen adaptation 🌟\n\nTAKEAWAY: \"Gabby's Dollhouse: The Movie\" marks the expansion of the beloved franchise to the theaters, sparking excitement among fans and industry watchers alike.",
+      "exported_at": "2025-09-28T08:10:54.525909",
       "continuous_session": true
     }
   ]
