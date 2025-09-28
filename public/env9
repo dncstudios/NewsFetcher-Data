@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-28T05:58:42.260107",
-    "total_articles": 1968,
-    "new_articles_in_last_fetch": 1968,
+    "created_at": "2025-09-28T07:50:17.190420",
+    "total_articles": 1970,
+    "new_articles_in_last_fetch": 1970,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -25571,6 +25571,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP TO MEET TOP CONGRESSIONAL LEADERS AMID LOOMING SHUTDOWN ⚠️\n\n- White House meeting scheduled after Trump's prior cancellation 🏛️\n- Government shutdown potential adds urgency to discussions 🕒\n- Trump aims to address looming crisis with Congressional leaders 💼\n\nTAKEAWAY: Trump's meeting with top Congressional leaders signals urgency in addressing the looming government shutdown, aiming to find a resolution.",
       "exported_at": "2025-09-28T05:58:42.136705",
+      "continuous_session": true
+    },
+    {
+      "title": "&apos;Buffett Indicator&apos; for stock valuation passes 200%, beyond level he once said is &apos;playing with fire&apos;",
+      "link": "https://www.cnbc.com/2025/09/28/buffett-indicator-stock-market-overvalued.html",
+      "summary": "\"If the ratio approaches 200% — as it did in 1999 and a part of 2000 — you are playing with fire,\" Buffett wrote in 2001.",
+      "published": "Sun, 28 Sep 2025 11:40:40 GMT",
+      "content": "\"If the ratio approaches 200% — as it did in 1999 and a part of 2000 — you are playing with fire,\" Buffett wrote in 2001.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "149daec1cec622f6b05f4a3d52a90f21",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 'BUFFETT INDICATOR' HITS 200%+ LEVEL, 'PLAYING WITH FIRE' WARNING 🔥\n\n- Buffett's indicator surpasses 200%, a risky territory\n- Last seen at this level during the dot-com bubble in 1999-2000\n- Warren Buffett warned in 2001 against going above 200%\n- Indicator reflects stock market valuation relative to GDP\n\nTAKEAWAY: The 'Buffett Indicator' breaching 200% signals a risky market valuation, echoing caution from Warren Buffett's past warnings.",
+      "exported_at": "2025-09-28T07:50:17.035172",
+      "continuous_session": true
+    },
+    {
+      "title": "Week in review: Stocks stumble, Nvidia bankrolls OpenAI, and iPhone sales surprise",
+      "link": "https://www.cnbc.com/2025/09/27/stocks-stumble-nvidia-bankrolls-openai-and-iphone-sales-surprise.html",
+      "summary": "It was a topsy-turvy week for stocks as investors mulled on the Fed's next rate decision. Four of our portfolio names made headlines, too.",
+      "published": "Sat, 27 Sep 2025 16:05:47 GMT",
+      "content": "It was a topsy-turvy week for stocks as investors mulled on the Fed's next rate decision. Four of our portfolio names made headlines, too.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "58a1b30028490728edbdd74418bce8d7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WEEK IN REVIEW: STOCKS STUMBLE, NVIDIA BACKS OPENAI, iPHONE SALES SURPRISE 📉🔥\n\n- Stock market volatility as investors await Fed's rate decision 📉\n- Nvidia makes waves by funding OpenAI initiative 💰🌐\n- Surprising uptick in iPhone sales catches attention 📱💸\n- Four portfolio names grab headlines amidst market fluctuations 📰\n\nTAKEAWAY: A rollercoaster week in stocks with market uncertainty, Nvidia's support for OpenAI, unexpected iPhone sales growth, and portfolio companies in the spotlight.",
+      "exported_at": "2025-09-28T07:50:17.035288",
       "continuous_session": true
     }
   ]
