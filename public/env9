@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-28T03:36:45.684167",
-    "total_articles": 1967,
-    "new_articles_in_last_fetch": 1967,
+    "created_at": "2025-09-28T05:58:42.260107",
+    "total_articles": 1968,
+    "new_articles_in_last_fetch": 1968,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -25558,6 +25558,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BRITAIN BACKS JAGUAR LAND ROVER WITH $2 BILLION LOAN GUARANTEE 🚀\n\n- Britain pledges 1.5 billion pound loan guarantee for Jaguar Land Rover 🚗\n- Loan aimed to support carmaker's supply chain post-production shutdown 🏭\n- Initiative to strengthen Jaguar Land Rover's financial stability ✅\n- Loan guarantee part of efforts to boost UK automotive industry 🇬🇧\n- Support crucial for carmaker's recovery and future growth 📈\n- Move highlights government commitment to bolster key sectors 🌟\n\nTAKEAWAY: Britain's $2 billion loan guarantee for Jaguar Land Rover underscores a strong commitment to support the automotive industry, ensuring stability and growth in crucial sectors.",
       "exported_at": "2025-09-28T03:36:45.540132",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump to meet with top congressional leaders as a government shutdown looms",
+      "link": "https://www.cnbc.com/2025/09/28/trump-to-meet-with-top-congressional-leaders-as-a-government-shutdown-looms.html",
+      "summary": "The gathering at the White House on Monday comes after Trump canceled an earlier meeting with Democratic leaders.",
+      "published": "Sun, 28 Sep 2025 09:43:02 GMT",
+      "content": "The gathering at the White House on Monday comes after Trump canceled an earlier meeting with Democratic leaders.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8df8f03d09ef3661973fb717d23ee74f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP TO MEET TOP CONGRESSIONAL LEADERS AMID LOOMING SHUTDOWN ⚠️\n\n- White House meeting scheduled after Trump's prior cancellation 🏛️\n- Government shutdown potential adds urgency to discussions 🕒\n- Trump aims to address looming crisis with Congressional leaders 💼\n\nTAKEAWAY: Trump's meeting with top Congressional leaders signals urgency in addressing the looming government shutdown, aiming to find a resolution.",
+      "exported_at": "2025-09-28T05:58:42.136705",
       "continuous_session": true
     }
   ]
