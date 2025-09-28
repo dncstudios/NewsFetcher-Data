@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-28T17:34:22.768577",
-    "total_articles": 1990,
-    "new_articles_in_last_fetch": 1990,
+    "created_at": "2025-09-28T17:59:45.035145",
+    "total_articles": 1991,
+    "new_articles_in_last_fetch": 1991,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -25857,6 +25857,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JIM CRAMER: AI SPENDING BOOM NOT A DOT-COM BUBBLE 🚀\n\n- AI spending resembles industrial revolution, not a bubble 🤖🏭\n- Jim Cramer highlights the distinctive nature of AI buildout 💡\n- Emphasis on substantial impact akin to industrial revolution ⚡️\n- Contrasts AI boom with the infamous dot-com bubble burst 💥\n- Key message: AI spending signifies a transformative era 🔄\n\nTAKEAWAY: Jim Cramer distinguishes the AI spending boom from the dot-com bubble, likening it to an industrial revolution with a significant transformative impact.",
       "exported_at": "2025-09-28T17:34:22.635658",
+      "continuous_session": true
+    },
+    {
+      "title": "Two people dead and 8 wounded in a shooting and fire at a Michigan church, police say",
+      "link": "https://www.cnbc.com/2025/09/28/shooting-michigan-church.html",
+      "summary": "A gunman opened fire inside a church in Michigan during Sunday services before apparently setting the building ablaze, authorities said.",
+      "published": "Sun, 28 Sep 2025 21:57:59 GMT",
+      "content": "A gunman opened fire inside a church in Michigan during Sunday services before apparently setting the building ablaze, authorities said.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "810481bb87f47ac17229a1695d6e95ab",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRAGEDY STRIKES MICHIGAN CHURCH WITH SHOOTING AND FIRE 🔥\n\n- Gunman opens fire during Sunday service in Michigan church\n- Multiple casualties reported, including 2 dead and several injured\n- Shooter sets church ablaze after the shooting incident\n- Authorities investigating the tragic event for further details\n\nTAKEAWAY: A devastating incident unfolds as a gunman opens fire in a Michigan church during Sunday service, leading to casualties and a fire that engulfed the building.",
+      "exported_at": "2025-09-28T17:59:44.969329",
       "continuous_session": true
     }
   ]
