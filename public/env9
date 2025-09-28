@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-28T13:56:07.486522",
-    "total_articles": 1986,
-    "new_articles_in_last_fetch": 1986,
+    "created_at": "2025-09-28T14:51:59.807032",
+    "total_articles": 1987,
+    "new_articles_in_last_fetch": 1987,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -25805,6 +25805,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JD VANCE CONFIDENT U.S. SUCCESSFULLY SEPARATED TIKTOK FROM CHINA 🚀\n\n- JD Vance expresses confidence in U.S. successfully separating TikTok from ByteDance 🇨🇳\n- Remarks made on \"Fox News Sunday\" regarding recent executive order on TikTok acquisition ✅\n- U.S. taking steps to address national security concerns related to Chinese ownership ⚠️\n- ByteDance under pressure to divest TikTok's U.S. operations 📉\n- National security implications prompting regulatory actions against Chinese tech companies 🚨\n- Vance's comments highlight efforts to protect U.S. data and technology interests 🔒\n\nTAKEAWAY: JD Vance's confidence in separating TikTok from ByteDance reflects U.S. focus on national security concerns, signaling regulatory actions against Chinese tech companies.",
       "exported_at": "2025-09-28T13:56:07.364773",
+      "continuous_session": true
+    },
+    {
+      "title": "One person dead and 9 injured in a shooting and fire at a Michigan church, police say",
+      "link": "https://www.cnbc.com/2025/09/28/shooting-michigan-church.html",
+      "summary": "A gunman opened fire inside a Mormon church in Michigan during Sunday services before apparently setting the building ablaze, authorities said.",
+      "published": "Sun, 28 Sep 2025 18:47:52 GMT",
+      "content": "A gunman opened fire inside a Mormon church in Michigan during Sunday services before apparently setting the building ablaze, authorities said.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fb6eb25492f5d8961cc86cfdf9a76677",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRAGEDY STRIKES MICHIGAN CHURCH AS GUNMAN KILLS ONE AND INJURES 9 🔥\n\n- Gunman opens fire in Michigan church during Sunday service\n- 1 person dead, 9 injured in the tragic incident\n- Gunman sets the church ablaze after the shooting\n- Authorities investigating the motive behind the attack\n- Church community and families devastated by the violence\n- Tragic event raises concerns about safety during religious gatherings\n\nTAKEAWAY: A heartbreaking incident at a Michigan church leaves one person dead, 9 injured, and raises questions about security and safety during religious services.",
+      "exported_at": "2025-09-28T14:51:59.674173",
       "continuous_session": true
     }
   ]
