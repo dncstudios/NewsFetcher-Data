@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-28T08:10:54.679785",
-    "total_articles": 1976,
-    "new_articles_in_last_fetch": 1976,
+    "created_at": "2025-09-28T09:42:18.509207",
+    "total_articles": 1979,
+    "new_articles_in_last_fetch": 1979,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -25675,6 +25675,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: UNIVERSAL-DREAMWORKS BRING KIDS CONTENT FRENZY TO BIG SCREEN 🚀\n\n- \"Gabby's Dollhouse: The Movie\" premieres this weekend 🎥\n- Universal, DreamWorks aim to grow the franchise 📈\n- Excitement builds for the big screen adaptation 🌟\n\nTAKEAWAY: \"Gabby's Dollhouse: The Movie\" marks the expansion of the beloved franchise to the theaters, sparking excitement among fans and industry watchers alike.",
       "exported_at": "2025-09-28T08:10:54.525909",
+      "continuous_session": true
+    },
+    {
+      "title": "As chain stores fail, mall vacancies rise, local business owners score rare real estate opportunities",
+      "link": "https://www.cnbc.com/2025/09/28/chain-store-bankruptcy-mall-real-estate-small-business.html",
+      "summary": "Vacancy rates for shopping center leases are high as chain stores fail, allowing locally owned small businesses to score prime real estate deals.",
+      "published": "Sun, 28 Sep 2025 13:03:17 GMT",
+      "content": "Vacancy rates for shopping center leases are high as chain stores fail, allowing locally owned small businesses to score prime real estate deals.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "65dbe3e58012fca440a159107dd7a983",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MALL VACANCIES RISE AS CHAIN STORES FAIL, LOCAL BUSINESSES SEIZE OPPORTUNITIES 🚀\n\n- Shopping center lease vacancies soar due to chain store closures 📉\n- Locally owned small businesses capitalize on prime real estate deals 💼\n- Chain store failures create rare opportunities for local entrepreneurs 🌟\n- High vacancy rates in malls attract small businesses seeking growth 📈\n- Shift in retail landscape benefits local owners looking for affordable space 💰\n\nTAKEAWAY: Chain store closures leading to high mall vacancies create a window of opportunity for local businesses to secure prime real estate deals and thrive in the changing retail landscape.",
+      "exported_at": "2025-09-28T09:42:18.349140",
+      "continuous_session": true
+    },
+    {
+      "title": "I’ve helped hundreds of Americans move abroad—don&apos;t believe these 6 biggest lies: It&apos;s &apos;not as cheap as you think&apos;",
+      "link": "https://www.cnbc.com/2025/09/28/ive-helped-hundreds-of-americans-move-abroadthe-6-biggest-lies-about-relocating.html",
+      "summary": "Cepee Tabibian moved from Texas to Spain in 2015. As founder of She Hit Refresh, she helps other Americans move abroad. Here are the six myths she hears most often.",
+      "published": "Sun, 28 Sep 2025 12:30:01 GMT",
+      "content": "Cepee Tabibian moved from Texas to Spain in 2015. As founder of She Hit Refresh, she helps other Americans move abroad. Here are the six myths she hears most often.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5a1282b0bf873b504aae6138f0a451c3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DEBUNKING MYTHS ABOUT MOVING ABROAD: DON'T FALL FOR THESE LIES! 🚫\n\n- Moving abroad is not always as cheap as you may believe 💸\n- Cepee Tabibian helps Americans relocate to Spain 🇺🇸➡️🇪🇸\n- Founder of She Hit Refresh shares common misconceptions 🌍\n- Myth: Living abroad is always more affordable 🏠💰\n- Reality: Costs vary based on location and lifestyle choices 🌆🍽️\n- Cepee Tabibian debunks six common myths about moving overseas 🌟\n\nTAKEAWAY: Cepee Tabibian's insights highlight the importance of debunking common myths about the cost and realities of moving abroad, emphasizing the need for accurate information before making such a significant decision.",
+      "exported_at": "2025-09-28T09:42:18.349214",
+      "continuous_session": true
+    },
+    {
+      "title": "The No. 1 sign you&apos;re ready to be your own boss, says Olipop CEO: You need &apos;a lot of passion&apos;",
+      "link": "https://www.cnbc.com/2025/09/28/the-no-1-sign-youre-ready-to-be-your-own-boss-says-olipop-ceo.html",
+      "summary": "Olipop CEO Ben Goodwin shares the surefire sign that someone is ready to start a business and become their own boss.",
+      "published": "Sun, 28 Sep 2025 13:00:01 GMT",
+      "content": "Olipop CEO Ben Goodwin shares the surefire sign that someone is ready to start a business and become their own boss.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8f79d5b64c3e309b9947dd9a0221c59a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: THE NO. 1 SIGN YOU'RE READY TO BE YOUR OWN BOSS, SAYS OLIPOP CEO: PASSION IS KEY 🔥\n\n- Olipop CEO Ben Goodwin emphasizes the importance of passion 💪\n- Having a strong drive and enthusiasm is crucial for entrepreneurship 🚀\n- Passion fuels the determination needed to succeed as a business owner 💼\n- According to Goodwin, being passionate is a key indicator of readiness 🎯\n\nTAKEAWAY: Olipop CEO highlights passion as the essential ingredient for anyone aspiring to start their own business and become a successful boss.",
+      "exported_at": "2025-09-28T09:42:18.349226",
       "continuous_session": true
     }
   ]
