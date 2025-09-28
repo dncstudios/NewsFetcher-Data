@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-28T07:50:17.190420",
-    "total_articles": 1970,
-    "new_articles_in_last_fetch": 1970,
+    "created_at": "2025-09-28T07:55:29.254932",
+    "total_articles": 1973,
+    "new_articles_in_last_fetch": 1973,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -25597,6 +25597,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WEEK IN REVIEW: STOCKS STUMBLE, NVIDIA BACKS OPENAI, iPHONE SALES SURPRISE 📉🔥\n\n- Stock market volatility as investors await Fed's rate decision 📉\n- Nvidia makes waves by funding OpenAI initiative 💰🌐\n- Surprising uptick in iPhone sales catches attention 📱💸\n- Four portfolio names grab headlines amidst market fluctuations 📰\n\nTAKEAWAY: A rollercoaster week in stocks with market uncertainty, Nvidia's support for OpenAI, unexpected iPhone sales growth, and portfolio companies in the spotlight.",
       "exported_at": "2025-09-28T07:50:17.035288",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump is wielding the power of the state to back critical mineral companies. These are the possible next targets",
+      "link": "https://www.cnbc.com/2025/09/28/mp-materials-lithium-americas-lac-rare-earth-trump-stake.html",
+      "summary": "The Pentagon deal with MP Materials could provide a blueprint to protect U.S miners against market manipulation by China, executives and analysts say.",
+      "published": "Sun, 28 Sep 2025 11:45:51 GMT",
+      "content": "The Pentagon deal with MP Materials could provide a blueprint to protect U.S miners against market manipulation by China, executives and analysts say.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "94ba6e2d06e4f6e0836c01e21aa957d1",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP BACKS CRITICAL MINERAL COMPANIES 🚀\n\n- Pentagon deal with MP Materials supports U.S. miners 🛡️\n- Aims to shield against Chinese market manipulation ⚔️\n- Executives and analysts see it as a strategic blueprint 📈\n\nTAKEAWAY: Trump's support for critical mineral companies, like the Pentagon deal with MP Materials, is seen as a move to protect U.S. miners from China's market influence, setting a strategic blueprint for the industry.",
+      "exported_at": "2025-09-28T07:55:29.101320",
+      "continuous_session": true
+    },
+    {
+      "title": "Want to beat the market for the long term? JPMorgan says bet on termites",
+      "link": "https://www.cnbc.com/2025/09/28/want-to-beat-the-market-for-the-long-term-jpmorgan-says-bet-on-termites.html",
+      "summary": "Rollins could gain ground as the firm deepens its push into the \"resilient,\" multibillion-dollar pest control market in the U.S. and abroad, per J.P. Morgan.",
+      "published": "Sun, 28 Sep 2025 11:43:25 GMT",
+      "content": "Rollins could gain ground as the firm deepens its push into the \"resilient,\" multibillion-dollar pest control market in the U.S. and abroad, per J.P. Morgan.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5c840ab8b53bfa2d553dc0f81b88fded",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JPMORGAN: BET ON TERMITES TO OUTPERFORM MARKET 🚀\n\n- Rollins expected to excel in the lucrative pest control market 🪲\n- J.P. Morgan advises investing in Rollins for long-term gains 💰\n- Rollins expands presence in the resilient pest control sector 🌍\n\nTAKEAWAY: J.P. Morgan's endorsement of Rollins as a top performer in the pest control market highlights the potential for long-term gains and market outperformance.",
+      "exported_at": "2025-09-28T07:55:29.101402",
+      "continuous_session": true
+    },
+    {
+      "title": "Top Wall Street analysts favor these 3 stocks for their robust growth outlook",
+      "link": "https://www.cnbc.com/2025/09/28/top-wall-street-analysts-favor-these-3-stocks-for-robust-growth.html",
+      "summary": "TipRanks' ranking service highlights three stocks, including Nvidia and CrowdStrike, that are favored by Wall Street.",
+      "published": "Sun, 28 Sep 2025 11:48:35 GMT",
+      "content": "TipRanks' ranking service highlights three stocks, including Nvidia and CrowdStrike, that are favored by Wall Street.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "00f205818ac6fef2a98dc3751c30a7b2",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TOP WALL STREET ANALYSTS PICK 3 STOCKS FOR ROBUST GROWTH 🚀\n\n- Nvidia and CrowdStrike stand out in Wall Street's favorites 🌟\n- TipRanks identifies these stocks as top choices for growth 📈\n- Analysts bullish on the growth outlook of selected stocks 💼\n\nTAKEAWAY: Wall Street analysts are backing Nvidia and CrowdStrike for their strong growth potential, marking them as top choices for investors seeking robust returns.",
+      "exported_at": "2025-09-28T07:55:29.101419",
       "continuous_session": true
     }
   ]
