@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-09-28T22:13:25.402816",
-    "total_articles": 1996,
-    "new_articles_in_last_fetch": 1996,
+    "created_at": "2025-09-28T22:39:11.780113",
+    "total_articles": 1997,
+    "new_articles_in_last_fetch": 1997,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -25935,6 +25935,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ASIA MARKETS MIXED AS RBA BEGINS POLICY MEETING 📈\n\n- Asia-Pacific markets open with mixed trading\n- Reserve Bank of Australia starts two-day policy meeting 🏦\n- Investors await RBA's decision and guidance 📊\n- Market sentiment influenced by central bank's moves\n- Uncertainty lingers amidst mixed market openings ⚠️\n\nTAKEAWAY: Asia markets show mixed trading as investors closely watch the Reserve Bank of Australia's two-day policy meeting for potential market impact and guidance.",
       "exported_at": "2025-09-28T22:13:25.255656",
+      "continuous_session": true
+    },
+    {
+      "title": "Sony Financial Group shares soar 36% in trading debut as Asia markets mostly rise",
+      "link": "https://www.cnbc.com/2025/09/29/asia-pacific-markets-nikkei-225-kospi-asx-200.html",
+      "summary": "Sony Financial Group shares soared 36% in its Tokyo trading debut Monday.",
+      "published": "Mon, 29 Sep 2025 02:38:49 GMT",
+      "content": "Sony Financial Group shares soared 36% in its Tokyo trading debut Monday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c3b6bdde46b6d915bcfddfa2770c9815",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SONY FINANCIAL GROUP SHOOTS UP 36% IN TRADING DEBUT 🚀\n\n- Sony Financial Group's shares surge by 36% in Tokyo debut 📈\n- Asia markets mostly on the rise, reflecting positive sentiment 🌏\n- Strong market debut showcases investor confidence in Sony 🎯\n\nTAKEAWAY: Sony Financial Group's impressive 36% surge in trading debut signals strong investor confidence and a positive market sentiment in Asia.",
+      "exported_at": "2025-09-28T22:39:11.656388",
       "continuous_session": true
     }
   ]
