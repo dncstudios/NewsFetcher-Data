@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-03T12:09:38.130026",
-    "total_articles": 2063,
-    "new_articles_in_last_fetch": 2063,
+    "created_at": "2025-10-03T12:14:47.441539",
+    "total_articles": 2064,
+    "new_articles_in_last_fetch": 2064,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -26784,6 +26784,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: QUANTUM STOCKS RIGETTI COMPUTING AND D-WAVE SURGE DOUBLE-DIGITS 🚀\n\n- Rigetti Computing and D-Wave stocks soar this week 📈\n- Nvidia emphasizes accelerated computing for quantum breakthroughs 🔥\n- Investors bullish on quantum computing sector 🎯\n- Market reacts positively to potential for quantum tech advancements 🚀\n- Double-digit surge reflects growing interest in quantum stocks 📈\n- Rigetti and D-Wave benefit from Nvidia's quantum computing focus ✅\n\nTAKEAWAY: Rigetti Computing and D-Wave experience significant stock surges as Nvidia's emphasis on accelerated computing drives optimism in the quantum sector.",
       "exported_at": "2025-10-03T12:09:38.000198",
+      "continuous_session": true
+    },
+    {
+      "title": "Student loan borrowers can&apos;t access repayment plans under Trump. What to know",
+      "link": "https://www.cnbc.com/2025/10/03/student-loan-repayment-plan-backlog-under-trump.html",
+      "summary": "Student loan borrowers who are trying to get into a new repayment plan face delays amid a Trump-era backlog of applications and the shutdown of the government.",
+      "published": "Fri, 03 Oct 2025 16:06:13 GMT",
+      "content": "Student loan borrowers who are trying to get into a new repayment plan face delays amid a Trump-era backlog of applications and the shutdown of the government.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e2e6911157a50c674ca93bec4bf5b5bf",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STUDENT LOAN BORROWERS STRUGGLE TO ACCESS REPAYMENT PLANS UNDER TRUMP ⚠️\n\n- Delays in accessing new repayment plans due to Trump-era backlog 🕒\n- Government shutdown adds to challenges for student loan borrowers 🏛️\n- Borrowers facing difficulties in navigating repayment options 🤷‍♂️\n\nTAKEAWAY: Student loan borrowers encounter obstacles in accessing repayment plans under Trump's administration, compounded by a backlog and government shutdown.",
+      "exported_at": "2025-10-03T12:14:47.292380",
       "continuous_session": true
     }
   ]
