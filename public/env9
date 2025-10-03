@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-03T17:15:42.218271",
-    "total_articles": 2091,
-    "new_articles_in_last_fetch": 2091,
+    "created_at": "2025-10-03T17:25:55.995167",
+    "total_articles": 2092,
+    "new_articles_in_last_fetch": 2092,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -27148,6 +27148,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TREASURY CONSIDERS $1 COIN WITH TRUMP'S FACE FOR U.S. 250TH ANNIVERSARY 🪙\n\n- U.S. Treasurer confirms draft coin featuring Trump's face 💰\n- Treasury Secretary supports decision on social media 📈\n- Coin to commemorate U.S. 250th anniversary 🎉\n\nTAKEAWAY: Treasury's potential minting of a $1 coin with Trump's face for the U.S. 250th anniversary gains support and attention, marking a significant milestone.",
       "exported_at": "2025-10-03T17:15:42.194315",
+      "continuous_session": true
+    },
+    {
+      "title": "Second US appeals court rejects Trump&apos;s order curtailing birthright citizenship",
+      "link": "https://www.cnbc.com/2025/10/03/second-us-appeals-court-rejects-trumps-order-curtailing-birthright-citizenship.html",
+      "summary": "President Donald Trump's effort to curtail birthright citizenship was declared unconstitutional by a second U.S. appeals court on Friday, handing him another defeat on a core piece of his hardline immigration agenda whose ultimate fate may lay with the U.S. Supreme Court.",
+      "published": "Fri, 03 Oct 2025 21:20:32 GMT",
+      "content": "President Donald Trump's effort to curtail birthright citizenship was declared unconstitutional by a second U.S. appeals court on Friday, handing him another defeat on a core piece of his hardline immigration agenda whose ultimate fate may lay with the U.S. Supreme Court.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fa637df2f1fd580466518124b8781581",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SECOND US COURT REJECTS TRUMP'S BIRTHRIGHT CITIZENSHIP ORDER ⚠️\n\n- Second US appeals court deems Trump's citizenship curtailment unconstitutional 📜\n- Another setback for Trump's immigration agenda 🛑\n- Possibility of Supreme Court intervention looms large ⚖️\n\nTAKEAWAY: Trump faces another legal setback as a second US appeals court rules against his attempt to curtail birthright citizenship, raising the likelihood of the case reaching the Supreme Court.",
+      "exported_at": "2025-10-03T17:25:55.848710",
       "continuous_session": true
     }
   ]
