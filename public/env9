@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-03T17:10:33.647048",
-    "total_articles": 2090,
-    "new_articles_in_last_fetch": 2090,
+    "created_at": "2025-10-03T17:15:42.218271",
+    "total_articles": 2091,
+    "new_articles_in_last_fetch": 2091,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -27135,6 +27135,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: US SUPREME COURT ALLOWS TRUMP TO END TEMPORARY STATUS FOR VENEZUELAN MIGRANTS ⚠️\n\n- Supreme Court supports Trump admin to revoke legal protection 🏛️\n- Temporary status for Venezuelan migrants at risk 🚨\n- Decision adds uncertainty for Venezuelan community in the US 🇻🇪\n\nTAKEAWAY: The US Supreme Court's decision to back Trump's move to end temporary status for Venezuelan migrants raises concerns and adds uncertainty for this community in the US.",
       "exported_at": "2025-10-03T17:10:33.499980",
+      "continuous_session": true
+    },
+    {
+      "title": "Treasury weighs minting $1 coin with Trump&apos;s face for U.S. 250th anniversary",
+      "link": "https://www.cnbc.com/2025/10/03/trump-face-coin-treasury-dollar.html",
+      "summary": "U.S. Treasurer Brandon Beach confirmed in a social media post that the draft coin depicting Trump is real. Treasury Secretary Scott Bessent shared Beach's post.",
+      "published": "Fri, 03 Oct 2025 21:14:15 GMT",
+      "content": "U.S. Treasurer Brandon Beach confirmed in a social media post that the draft coin depicting Trump is real. Treasury Secretary Scott Bessent shared Beach's post.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ebbce46068e83ec08e8ce00487f2b3a7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TREASURY CONSIDERS $1 COIN WITH TRUMP'S FACE FOR U.S. 250TH ANNIVERSARY 🪙\n\n- U.S. Treasurer confirms draft coin featuring Trump's face 💰\n- Treasury Secretary supports decision on social media 📈\n- Coin to commemorate U.S. 250th anniversary 🎉\n\nTAKEAWAY: Treasury's potential minting of a $1 coin with Trump's face for the U.S. 250th anniversary gains support and attention, marking a significant milestone.",
+      "exported_at": "2025-10-03T17:15:42.194315",
       "continuous_session": true
     }
   ]
