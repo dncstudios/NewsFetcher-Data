@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-03T05:01:51.607014",
-    "total_articles": 2021,
-    "new_articles_in_last_fetch": 2021,
+    "created_at": "2025-10-03T05:32:33.312580",
+    "total_articles": 2025,
+    "new_articles_in_last_fetch": 2025,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -26240,6 +26240,58 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: MASSIVE FIRE ENGULFS CHEVRON OIL REFINERY IN CALIFORNIA 🚨\n\n- Emergency response underway at Chevron's El Segundo plant 🔥\n- Fire reported at the oil refinery in California 🏭\n- No further details disclosed about the incident 🚫\n\nTAKEAWAY: Emergency services are actively responding to a major fire at Chevron's El Segundo oil refinery in California, with further details yet to be revealed.",
       "exported_at": "2025-10-03T05:01:51.583445",
+      "continuous_session": true
+    },
+    {
+      "title": "Putin warns of &apos;new stage of escalation&apos; if U.S. supplies long-range missiles to Ukraine",
+      "link": "https://www.cnbc.com/2025/10/03/putin-warns-of-escalation-if-us-supplies-tomahawk-missiles-to-ukraine.html",
+      "summary": "Russian President Vladimir Putin said the prospect of the U.S. supplying long-range missiles to Ukraine would not change the situation on the battlefield.",
+      "published": "Fri, 03 Oct 2025 07:51:24 GMT",
+      "content": "Russian President Vladimir Putin said the prospect of the U.S. supplying long-range missiles to Ukraine would not change the situation on the battlefield.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "bb9333b95867eadd69a8808b081c7283",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PUTIN WARNS OF 'NEW ESCALATION' IF U.S. SUPPLIES MISSILES 🚨\n\n- Putin warns against U.S. supplying long-range missiles to Ukraine\n- Believes missile supply won't alter battlefield dynamics\n- Tensions rise as Putin foresees a 'new stage of escalation'\n\nTAKEAWAY: Putin's warning about a potential escalation in response to U.S. missile supply to Ukraine underscores rising tensions and geopolitical complexities.",
+      "exported_at": "2025-10-03T05:32:33.286884",
+      "continuous_session": true
+    },
+    {
+      "title": "Amazon faces FAA, NTSB probe after two delivery drones crashed into crane in Arizona",
+      "link": "https://www.cnbc.com/2025/10/02/amazon-drone-crash-faa-ntsb.html",
+      "summary": "The drones sustained \"substantial\" damage from the crash, the Federal Aviation Administration said in a preliminary incident report.",
+      "published": "Thu, 02 Oct 2025 19:43:52 GMT",
+      "content": "The drones sustained \"substantial\" damage from the crash, the Federal Aviation Administration said in a preliminary incident report.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a574188b6f35fd4ff1cdf77c29f3f110",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AMAZON UNDER INVESTIGATION AFTER DRONE CRASHES INTO CRANE 🚨\n\n- FAA and NTSB launch probes into Amazon's drone crashes in Arizona 🛸\n- Incident report reveals drones suffered \"substantial\" damage 📋\n- Amazon faces scrutiny over safety and operational protocols 🕵️‍♂️\n\nTAKEAWAY: Amazon's drone crashes prompt FAA and NTSB investigations, highlighting concerns over safety and operational procedures.",
+      "exported_at": "2025-10-03T05:32:33.286898",
+      "continuous_session": true
+    },
+    {
+      "title": "Perplexity AI rolls out Comet browser for free worldwide",
+      "link": "https://www.cnbc.com/2025/10/02/perplexity-ai-comet-browser-free-.html",
+      "summary": "Perplexity initially launched Comet in July to Perplexity Max subscribers for $200 a month",
+      "published": "Thu, 02 Oct 2025 19:56:13 GMT",
+      "content": "Perplexity initially launched Comet in July to Perplexity Max subscribers for $200 a month",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e05080c2285eece7daf7cbe2d9973aec",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PERPLEXITY AI MAKES COMET BROWSER FREE WORLDWIDE 🚀\n\n- Comet browser now available for free globally 🌍\n- Initially exclusive to Perplexity Max subscribers 💰\n- Subscribers paid $200/month for access 🤑\n- Comet's features now accessible to all users 🌟\n\nTAKEAWAY: Perplexity AI's decision to offer Comet browser for free worldwide democratizes access to advanced features, benefiting a broader audience.",
+      "exported_at": "2025-10-03T05:32:33.286900",
+      "continuous_session": true
+    },
+    {
+      "title": "USA Rare Earth jumps 8% after CEO confirms discussions with Trump administration",
+      "link": "https://www.cnbc.com/2025/10/02/usa-rare-earth-lithium-americas-mp-materials-trump.html",
+      "summary": "USA Rare Earth is developing a mine in Sierra Blanca, Texas, and a magnet production facility in Stillwater, Oklahoma.",
+      "published": "Thu, 02 Oct 2025 23:45:51 GMT",
+      "content": "USA Rare Earth is developing a mine in Sierra Blanca, Texas, and a magnet production facility in Stillwater, Oklahoma.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f9af74aeb832db990087dcbf0f6ef107",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: USA RARE EARTH SURGES 8% AFTER CEO'S TALKS WITH TRUMP ADMINISTRATION 🚀\n\n- CEO confirms discussions with Trump admin 🤝\n- Developing mine in Sierra Blanca, Texas 🏞️\n- Magnet production facility in Stillwater, Oklahoma 🏭\n\nTAKEAWAY: USA Rare Earth's 8% jump follows CEO's talks with Trump admin, showcasing potential growth in mining and magnet production projects.",
+      "exported_at": "2025-10-03T05:32:33.286903",
       "continuous_session": true
     }
   ]
