@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-03T09:21:15.295542",
-    "total_articles": 2045,
-    "new_articles_in_last_fetch": 2045,
+    "created_at": "2025-10-03T09:31:28.097183",
+    "total_articles": 2046,
+    "new_articles_in_last_fetch": 2046,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -26551,6 +26551,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TESLA'S RECORD SALES QUARTER DERAILED BY STOCK DECLINE 🚨\n\n- Tesla achieves record car sales despite stock price drop 📈\n- Analysts cite challenges like ending EV tax credits 📊\n- Profit margins under strain, impacting investor confidence ⚠️\n\nTAKEAWAY: Despite Tesla's exceptional sales quarter, challenges like expiring tax credits and profit margin pressures contribute to a sharp decline in the stock price.",
       "exported_at": "2025-10-03T09:21:15.270475",
+      "continuous_session": true
+    },
+    {
+      "title": "OpenAI&apos;s invite-only video generation app Sora tops Apple’s App Store",
+      "link": "https://www.cnbc.com/2025/10/03/openai-sora-apple-app-store.html",
+      "summary": "The invite-based app launched this week and is only available on iOS devices.",
+      "published": "Fri, 03 Oct 2025 13:25:31 GMT",
+      "content": "The invite-based app launched this week and is only available on iOS devices.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3f97ecded4f9cb072855964d29ab4698",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: OPENAI'S EXCLUSIVE VIDEO APP SORA DOMINATES APPLE APP STORE 🚀\n\n- Sora, an invite-only iOS app, launches to instant success 📱\n- App garners top spot in Apple's App Store rankings 🥇\n- Exclusive access adds allure and demand for Sora 🌟\n- Limited availability on iOS devices boosts app's popularity 📈\n\nTAKEAWAY: OpenAI's invite-only video app, Sora, skyrockets to the top of the Apple App Store, capitalizing on exclusivity and high demand among iOS users.",
+      "exported_at": "2025-10-03T09:31:28.071963",
       "continuous_session": true
     }
   ]
