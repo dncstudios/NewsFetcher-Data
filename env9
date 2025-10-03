@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-03T05:37:42.405477",
-    "total_articles": 2026,
-    "new_articles_in_last_fetch": 2026,
+    "created_at": "2025-10-03T06:18:15.989915",
+    "total_articles": 2027,
+    "new_articles_in_last_fetch": 2027,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -26305,6 +26305,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: HITACHI SHARES SURGE 10% ON OPENAI PARTNERSHIP 🚀\n\n- Hitachi stock jumps over 10% post OpenAI collaboration 📈\n- Partnership with OpenAI propels Hitachi shares by 8% 🚀\n- Hitachi's alliance with OpenAI boosts investor confidence 💪\n\nTAKEAWAY: Hitachi's stock skyrockets by 10% following the announcement of its partnership with OpenAI, showcasing investor confidence in the collaboration.",
       "exported_at": "2025-10-03T05:37:42.381223",
+      "continuous_session": true
+    },
+    {
+      "title": "How digital price tags could change the future of grocery shopping",
+      "link": "https://www.cnbc.com/2025/10/03/electronic-shelf-labels-are-taking-over-us-grocery-stores.html",
+      "summary": "The rising popularity of electronic shelf labels in U.S. grocery stores could pave the way for dynamic pricing in brick-and-mortar food retailers.",
+      "published": "Fri, 03 Oct 2025 10:00:01 GMT",
+      "content": "The rising popularity of electronic shelf labels in U.S. grocery stores could pave the way for dynamic pricing in brick-and-mortar food retailers.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7129b28fc731720bd4d9203c953c1694",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DIGITAL PRICE TAGS REVOLUTIONIZING GROCERY SHOPPING 🚀\n\n- Electronic shelf labels gaining traction in U.S. grocery stores 📈\n- Potential for dynamic pricing to transform brick-and-mortar retailers 💰\n- Modernizing traditional shopping experience with digital innovation 💡\n- Enhancing pricing accuracy and efficiency in stores ✅\n- Improving customer experience through real-time updates 🛒\n- Challenges in implementing and adapting to dynamic pricing strategies ⚠️\n\nTAKEAWAY: The adoption of electronic shelf labels in U.S. grocery stores signals a shift towards dynamic pricing, enhancing efficiency, accuracy, and customer experience while posing challenges in strategy implementation.",
+      "exported_at": "2025-10-03T06:18:15.965130",
       "continuous_session": true
     }
   ]
