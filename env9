@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-03T06:18:15.989915",
-    "total_articles": 2027,
-    "new_articles_in_last_fetch": 2027,
+    "created_at": "2025-10-03T06:23:21.505370",
+    "total_articles": 2028,
+    "new_articles_in_last_fetch": 2028,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -26318,6 +26318,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: DIGITAL PRICE TAGS REVOLUTIONIZING GROCERY SHOPPING 🚀\n\n- Electronic shelf labels gaining traction in U.S. grocery stores 📈\n- Potential for dynamic pricing to transform brick-and-mortar retailers 💰\n- Modernizing traditional shopping experience with digital innovation 💡\n- Enhancing pricing accuracy and efficiency in stores ✅\n- Improving customer experience through real-time updates 🛒\n- Challenges in implementing and adapting to dynamic pricing strategies ⚠️\n\nTAKEAWAY: The adoption of electronic shelf labels in U.S. grocery stores signals a shift towards dynamic pricing, enhancing efficiency, accuracy, and customer experience while posing challenges in strategy implementation.",
       "exported_at": "2025-10-03T06:18:15.965130",
+      "continuous_session": true
+    },
+    {
+      "title": "Stock futures rise with Wall Street set for strong gains even as shutdown grinds on: Live updates",
+      "link": "https://www.cnbc.com/2025/10/02/stock-market-today-live-updates.html",
+      "summary": "The three major U.S. indexes notched record highs across the board on Thursday as strength in the AI trade persisted.",
+      "published": "Fri, 03 Oct 2025 10:21:21 GMT",
+      "content": "The three major U.S. indexes notched record highs across the board on Thursday as strength in the AI trade persisted.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0066479fffa73361e682bae6694311f3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK FUTURES STALL AS AI TRADE DRIVES MARKET TO FRESH HIGHS 🚀\n\n- Major U.S. indexes hit record highs fueled by AI trade 📈\n- Market remains steady despite ongoing shutdown ⚠️\n- AI sector strength continues to drive market momentum 🤖\n\nTAKEAWAY: Despite a stagnant start in stock futures, the market hits fresh highs driven by AI trade, showcasing resilience amid the ongoing shutdown.",
+      "exported_at": "2025-10-03T06:23:21.480816",
       "continuous_session": true
     }
   ]
