@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-03T13:56:29.621963",
-    "total_articles": 2071,
-    "new_articles_in_last_fetch": 2071,
+    "created_at": "2025-10-03T14:01:38.103978",
+    "total_articles": 2073,
+    "new_articles_in_last_fetch": 2073,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -26888,6 +26888,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: GOLDMAN SACHS ADDS HERSHEY TO OCTOBER 'CONVICTION LIST' 🚀\n\n- Hershey joins Goldman's 'Director's Cut' list for October 🍫\n- Goldman Sachs rates Hershey as a buy 📈\n- Other companies also added to the buy-rated list for October ✅\n- The 'Director's Cut' list includes top-performing stocks 🌟\n\nTAKEAWAY: Goldman Sachs' addition of Hershey to its 'Conviction List' for October signals confidence in the company's performance, along with other top-rated stocks.",
       "exported_at": "2025-10-03T13:56:29.468936",
+      "continuous_session": true
+    },
+    {
+      "title": "S&amp;P 500 heads for winning week, but late selling knocks down benchmark on Friday: Live updates",
+      "link": "https://www.cnbc.com/2025/10/02/stock-market-today-live-updates.html",
+      "summary": "The three major U.S. indexes notched record highs across the board on Thursday as strength in the AI trade persisted.",
+      "published": "Fri, 03 Oct 2025 18:00:59 GMT",
+      "content": "The three major U.S. indexes notched record highs across the board on Thursday as strength in the AI trade persisted.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4546cb68e5ee74296ed567422752d8cb",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK FUTURES STALL AS AI TRADE DRIVES MARKET TO FRESH HIGHS 🚀\n\n- Major U.S. indexes hit record highs fueled by AI trade 📈\n- Market remains steady despite ongoing shutdown ⚠️\n- AI sector strength continues to drive market momentum 🤖\n\nTAKEAWAY: Despite a stagnant start in stock futures, the market hits fresh highs driven by AI trade, showcasing resilience amid the ongoing shutdown.",
+      "exported_at": "2025-10-03T14:01:37.974829",
+      "continuous_session": true
+    },
+    {
+      "title": "&apos;This is what kills you&apos; — Cramer tells retail investors to ignore the Apple downgrade",
+      "link": "https://www.cnbc.com/2025/10/03/jim-cramer-on-apple-retail-investors-should-ignore-the-jefferies-downgrade.html",
+      "summary": "\"People at home, I urge you not to listen,\" Jim said in response to Jefferies cutting the iPhone maker's shares to underperform from hold on Friday.",
+      "published": "Fri, 03 Oct 2025 18:00:09 GMT",
+      "content": "\"People at home, I urge you not to listen,\" Jim said in response to Jefferies cutting the iPhone maker's shares to underperform from hold on Friday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "525b6085120a23586a1a96dec5a0f14c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CRAMER URGES RETAIL INVESTORS TO IGNORE APPLE DOWNGRADE 🚨\n\n- Jim Cramer advises retail investors to ignore Apple downgrade 📉\n- Jefferies lowers iPhone maker's shares to underperform from hold ⬇️\n- Cramer warns against reacting to negative news impulsively 💡\n\nTAKEAWAY: Jim Cramer advises retail investors to stay calm and not react to Apple's downgrade, emphasizing the importance of not making impulsive decisions based on negative news.",
+      "exported_at": "2025-10-03T14:01:37.974891",
       "continuous_session": true
     }
   ]
