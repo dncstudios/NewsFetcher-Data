@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-03T17:00:20.479049",
-    "total_articles": 2089,
-    "new_articles_in_last_fetch": 2089,
+    "created_at": "2025-10-03T17:10:33.647048",
+    "total_articles": 2090,
+    "new_articles_in_last_fetch": 2090,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -27122,6 +27122,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SEAN 'DIDDY' COMBS SENTENCED TO OVER 4 YEARS IN PRISON ⚠️\n\n- Sean 'Diddy' Combs convicted on prostitution-related charges\n- More than four years prison sentence handed down\n- Hip-hop mogul's legal troubles escalate\n\nTAKEAWAY: Sean 'Diddy' Combs faces over 4 years in prison following a conviction on prostitution-related charges, marking a significant legal setback for the hip-hop mogul.",
       "exported_at": "2025-10-03T17:00:20.339719",
+      "continuous_session": true
+    },
+    {
+      "title": "US Supreme Court lets Trump strip temporary status from Venezuelan migrants",
+      "link": "https://www.cnbc.com/2025/10/03/us-supreme-court-lets-trump-strip-temporary-status-from-venezuelan-migrants.html",
+      "summary": "The U.S. Supreme Court again cleared the way on Friday for Donald Trump's administration to revoke a temporary legal protection for Venezuelan migrants.",
+      "published": "Fri, 03 Oct 2025 21:02:33 GMT",
+      "content": "The U.S. Supreme Court again cleared the way on Friday for Donald Trump's administration to revoke a temporary legal protection for Venezuelan migrants.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7646518632c56b4acee5a95f57c0438a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: US SUPREME COURT ALLOWS TRUMP TO END TEMPORARY STATUS FOR VENEZUELAN MIGRANTS ⚠️\n\n- Supreme Court supports Trump admin to revoke legal protection 🏛️\n- Temporary status for Venezuelan migrants at risk 🚨\n- Decision adds uncertainty for Venezuelan community in the US 🇻🇪\n\nTAKEAWAY: The US Supreme Court's decision to back Trump's move to end temporary status for Venezuelan migrants raises concerns and adds uncertainty for this community in the US.",
+      "exported_at": "2025-10-03T17:10:33.499980",
       "continuous_session": true
     }
   ]
