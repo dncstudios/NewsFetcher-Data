@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-03T15:48:56.854538",
-    "total_articles": 2082,
-    "new_articles_in_last_fetch": 2082,
+    "created_at": "2025-10-03T16:04:12.736833",
+    "total_articles": 2083,
+    "new_articles_in_last_fetch": 2083,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -27031,6 +27031,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: DETROIT AUTO STOCKS SURGE ON TARIFF RELIEF REPORT 🚀\n\n- General Motors, Ford, Stellantis stocks soar 2% to 4% 📈\n- Reuters report triggers upward shift in trading 📰\n- Market responds positively to news of potential tariff relief ✅\n\nTAKEAWAY: Detroit auto stocks experience a significant surge as reports of tariff relief for U.S. vehicles spark investor optimism and drive market momentum.",
       "exported_at": "2025-10-03T15:48:56.700079",
+      "continuous_session": true
+    },
+    {
+      "title": "S&amp;P 500 posts winning week, but Friday rally fizzles: Live updates",
+      "link": "https://www.cnbc.com/2025/10/02/stock-market-today-live-updates.html",
+      "summary": "Wall Street headed for solid weekly gains even with a U.S. government shutdown dragging on.",
+      "published": "Fri, 03 Oct 2025 20:02:21 GMT",
+      "content": "Wall Street headed for solid weekly gains even with a U.S. government shutdown dragging on.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "43ca86e295b379fce9b751835d6f11e9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: S&P 500 ON TRACK FOR WINNING WEEK DESPITE LATE FRIDAY SELLING 🚀\n\n- S&P 500 set for strong weekly performance 📈\n- U.S. government shutdown impact not deterring market gains ✅\n- Late selling pressure impacts benchmark on Friday 📉\n- Wall Street resilience evident despite shutdown concerns ⚡️\n- Investors navigate uncertainties with market fluctuations ⚠️\n\nTAKEAWAY: The S&P 500 remains resilient, heading for a winning week despite late Friday selling and the ongoing U.S. government shutdown, showcasing investor confidence in the market's overall performance.",
+      "exported_at": "2025-10-03T16:04:12.656280",
       "continuous_session": true
     }
   ]
