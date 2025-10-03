@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-03T07:09:03.953826",
-    "total_articles": 2032,
-    "new_articles_in_last_fetch": 2032,
+    "created_at": "2025-10-03T07:49:38.867796",
+    "total_articles": 2033,
+    "new_articles_in_last_fetch": 2033,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -26383,6 +26383,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: COINBASE UPGRADED BY ROTHSCHILD AMID CRYPTO ADOPTION SURGE 🚀\n\n- Rothschild & Co. expects Coinbase to excel with rising crypto use\n- Redburn predicts outperformance for Coinbase in finance sector 📈\n- Integration of cryptocurrencies boosts Coinbase's potential 🔥\n\nTAKEAWAY: Rothschild's upgrade of Coinbase reflects confidence in its performance amidst the increasing integration of cryptocurrencies in finance.",
       "exported_at": "2025-10-03T07:09:03.837998",
+      "continuous_session": true
+    },
+    {
+      "title": "Jeff Bezos says AI is in an &apos;industrial bubble&apos; but society to get &apos;gigantic&apos; benefits from the tech",
+      "link": "https://www.cnbc.com/2025/10/03/jeff-bezos-ai-in-an-industrial-bubble-but-society-to-benefit.html",
+      "summary": "Amazon founder Jeff Bezos said that artificial intelligence is showing signs of being in an \"industrial bubble.\"",
+      "published": "Fri, 03 Oct 2025 11:40:22 GMT",
+      "content": "Amazon founder Jeff Bezos said that artificial intelligence is showing signs of being in an \"industrial bubble.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "61da7ba2b4d7afde8c0fc2c0e0af545e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JEFF BEZOS WARNS OF AI 'INDUSTRIAL BUBBLE' BUT PROMISES 'GIGANTIC' BENEFITS 🌟\n\n- Bezos cautions on AI being in an \"industrial bubble\" 🛑\n- AI expected to bring 'gigantic' benefits to society 🌍\n- Bezos emphasizes potential for AI advancement 💡\n- Calls for careful consideration in AI development 🧐\n\nTAKEAWAY: Jeff Bezos flags concerns about AI's current trajectory but remains optimistic about its potential to bring enormous benefits to society with careful handling.",
+      "exported_at": "2025-10-03T07:49:38.842923",
       "continuous_session": true
     }
   ]
