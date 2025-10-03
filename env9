@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-03T13:05:38.172133",
-    "total_articles": 2068,
-    "new_articles_in_last_fetch": 2068,
+    "created_at": "2025-10-03T13:15:52.693530",
+    "total_articles": 2070,
+    "new_articles_in_last_fetch": 2070,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -26849,6 +26849,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: 2026: THE 'YEAR OF THE USED EV' 🚀\n\n- Analyst predicts 2026 as the turning point for used electric vehicles ⚡️\n- Used EVs nearing cost parity with gasoline cars, some even cheaper ✅\n- Shift towards affordability and sustainability driving the trend 🌿🔋\n\nTAKEAWAY: Analyst anticipates 2026 to mark the rise of used electric vehicles, as they approach cost parity with gasoline cars, fueled by affordability and sustainability trends.",
       "exported_at": "2025-10-03T13:05:38.039876",
+      "continuous_session": true
+    },
+    {
+      "title": "Bitcoin rallies to within 1% of all-time high, gaining safe haven status during shutdown",
+      "link": "https://www.cnbc.com/2025/10/03/bitcoin-rallies-to-within-1percent-of-all-time-high-gaining-safe-haven-status-during-shutdown-.html",
+      "summary": "Bitcoin is trading within striking distance of its record price as the U.S. government shutdown enters its third day.",
+      "published": "Fri, 03 Oct 2025 16:50:34 GMT",
+      "content": "Bitcoin is trading within striking distance of its record price as the U.S. government shutdown enters its third day.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "beaee9a398c67a03cd736b63c014f4bf",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BITCOIN NEARS ALL-TIME HIGH AS SAFE HAVEN DURING SHUTDOWN 🚀\n\n- Bitcoin's price approaches record levels amidst US govt shutdown 📈\n- Cryptocurrency gains safe haven status during economic uncertainty ✅\n- Market anticipates potential surge to surpass previous peak 💥\n\nTAKEAWAY: Bitcoin's rally near the all-time high showcases its appeal as a safe haven asset during economic turmoil, fueling optimism for a potential surge beyond previous records.",
+      "exported_at": "2025-10-03T13:15:52.558318",
+      "continuous_session": true
+    },
+    {
+      "title": "What investors need to hear from Nike CEO Elliott Hill for another pop in stock",
+      "link": "https://www.cnbc.com/2025/10/03/what-investors-need-to-hear-from-nike-ceo-hill-for-another-pop-in-stock.html",
+      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "published": "Fri, 03 Oct 2025 16:34:13 GMT",
+      "content": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8dd42afe96519bb7d7b5028a6ab35e70",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WHAT INVESTORS CRAVE: NIKE CEO ELLIOTT HILL'S IMPACTFUL MORNING MEETING 🚀\n\n- Nike CEO Elliott Hill's insights key for stock surge 📈\n- \"Morning Meeting\" at 10:20 a.m. ET holds investor hopes 🌟\n- Anticipation high for Hill's strategic vision 🎯\n\nTAKEAWAY: Nike investors eagerly await CEO Elliott Hill's words in the \"Morning Meeting\" for potential stock growth.",
+      "exported_at": "2025-10-03T13:15:52.558370",
       "continuous_session": true
     }
   ]
