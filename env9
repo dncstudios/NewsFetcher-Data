@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-03T08:04:57.844148",
-    "total_articles": 2036,
-    "new_articles_in_last_fetch": 2036,
+    "created_at": "2025-10-03T08:25:17.445133",
+    "total_articles": 2039,
+    "new_articles_in_last_fetch": 2039,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -26435,6 +26435,44 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: PROPERTY TECH WINTER ENDS, BUT CLIMATE INVESTMENT STRUGGLES 🚀\n\n- Property tech faced challenges: higher rates, market retraction, AI focus.\n- Fifth Wall CEO highlights struggles in climate investment.\n- Industry moves past tough times, but climate sector still faces hurdles.\n- Venture capital shift impacts property tech, climate investment.\n- Market dynamics improve, but climate sector lags behind.\n- Fifth Wall CEO points out ongoing challenges in climate investment.\n\nTAKEAWAY: Property technology emerges from a tough period, but climate investment continues to face obstacles, according to Fifth Wall CEO. 🌱",
       "exported_at": "2025-10-03T08:04:57.819383",
+      "continuous_session": true
+    },
+    {
+      "title": "Goldman boss David Solomon warns of a stock market drawdown: ‘People won’t feel good’",
+      "link": "https://www.cnbc.com/2025/10/03/goldman-sachs-ceo-david-solomon-warns-stock-market-drawdown-is-coming.html",
+      "summary": "The Goldman Sachs CEO said AI presented opportunities, but some investors were overlooking “things you should be skeptical about.\"",
+      "published": "Fri, 03 Oct 2025 12:02:57 GMT",
+      "content": "The Goldman Sachs CEO said AI presented opportunities, but some investors were overlooking “things you should be skeptical about.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c0141f843c37c967630660aec8c7d760",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GOLDMAN CEO SOLOMON WARNS OF STOCK MARKET DOWNTURN: ‘PEOPLE WON’T FEEL GOOD’ ⚠️\n\n- AI offers opportunities but investors ignore risks 🤔\n- Solomon cautions about overlooking critical factors 🔍\n- Goldman Sachs CEO predicts market downturn ahead 📉\n\nTAKEAWAY: Goldman Sachs CEO David Solomon's warning about a potential stock market drawdown highlights the need for investors to stay cautious and consider overlooked risks.",
+      "exported_at": "2025-10-03T08:25:17.420429",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: GameStop, USA Rare Earth, Applied Materials, Zillow and more",
+      "link": "https://www.cnbc.com/2025/10/03/stocks-making-the-biggest-moves-premarket-gme-usar-amat-z.html",
+      "summary": "These are some of the stocks posting the largest moves in premarket trading.",
+      "published": "Fri, 03 Oct 2025 12:18:56 GMT",
+      "content": "These are some of the stocks posting the largest moves in premarket trading.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7bb927af41994a3ad631fad7c257321c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS SURGING IN PREMARKET TRADING 🚀\n\n- GameStop and USA Rare Earth see significant premarket movement 📈\n- Applied Materials and Zillow also making big moves early on 🌟\n- Market buzzing with activity before regular trading hours 📊\n\nTAKEAWAY: GameStop, USA Rare Earth, Applied Materials, and Zillow are leading the pack with remarkable premarket momentum, setting the tone for the day ahead in trading.",
+      "exported_at": "2025-10-03T08:25:17.420445",
+      "continuous_session": true
+    },
+    {
+      "title": "Here are Friday&apos;s biggest analyst calls: Nvidia, Apple, Broadcom, Tesla, Netflix, Ferrari, Johnson &amp; Johnson, Coinbase &amp; more",
+      "link": "https://www.cnbc.com/2025/10/03/friday-wall-street-analyst-calls-like-nvidia.html",
+      "summary": "Here are Friday's biggest calls on Wall Street.",
+      "published": "Fri, 03 Oct 2025 12:19:50 GMT",
+      "content": "Here are Friday's biggest calls on Wall Street.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "156ea2b1d6f2b16ced7471912e5832ed",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "exported_at": "2025-10-03T08:25:17.420447",
       "continuous_session": true
     }
   ]
