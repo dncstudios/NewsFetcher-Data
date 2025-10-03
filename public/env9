@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-03T04:03:50.136170",
-    "total_articles": 2019,
-    "new_articles_in_last_fetch": 2019,
+    "created_at": "2025-10-03T04:11:05.139670",
+    "total_articles": 2020,
+    "new_articles_in_last_fetch": 2020,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -26214,6 +26214,19 @@
       "hash": "5d026efac07d552b1f9b76ec5b823f2c",
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "exported_at": "2025-10-03T04:03:50.111867",
+      "continuous_session": true
+    },
+    {
+      "title": "The AI trade could rapidly unravel – and one hedge fund is preparing for the fallout",
+      "link": "https://www.cnbc.com/2025/10/03/the-ai-trade-could-rapidly-unravel-and-one-hedge-fund-is-preparing-for-the-fallout.html",
+      "summary": "London hedge fund Selwood is eyeing energy plays amid a risk of AI \"speculative mania.\"",
+      "published": "Fri, 03 Oct 2025 07:58:47 GMT",
+      "content": "London hedge fund Selwood is eyeing energy plays amid a risk of AI \"speculative mania.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3d89e0c288f524ac0db8ddc249c3d1de",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: THE AI TRADE UNRAVELS: HEDGE FUND SELWOOD PREPARES FOR FALLOUT 🚨\n\n- Selwood shifts focus to energy amid AI \"speculative mania\" risk ⚠️\n- Hedge fund anticipates potential rapid unraveling of AI trade 💥\n- London-based Selwood takes precautionary measures 🇬🇧\n- Preparing for fallout from possible AI market instability 📉\n- Energy plays identified as a safer alternative by Selwood ⚡️\n- Hedge fund's strategic move aims to mitigate risks in AI sector 🎯\n\nTAKEAWAY: Selwood's shift towards energy investments signals a proactive stance to navigate potential fallout from the AI trade's instability and speculative risks.",
+      "exported_at": "2025-10-03T04:11:05.115384",
       "continuous_session": true
     }
   ]
