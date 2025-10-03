@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-03T16:50:07.159200",
-    "total_articles": 2087,
-    "new_articles_in_last_fetch": 2087,
+    "created_at": "2025-10-03T17:00:20.479049",
+    "total_articles": 2089,
+    "new_articles_in_last_fetch": 2089,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -27096,6 +27096,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AMAZON CLOSES 4 FRESH STORES IN SOUTHERN CALIFORNIA 🚨\n\n- Amazon shuts down Fresh stores in U.S. and U.K. 🏪\n- Company shifts focus to Whole Foods and delivery 🛒🚚\n- Grocery strategy changes impact Fresh supermarkets 🔄\n- Uncertainty surrounds Amazon's grocery plans 🤔\n\nTAKEAWAY: Amazon's closure of Fresh stores in Southern California signals a shift towards Whole Foods and delivery, raising uncertainty about its grocery strategy.",
       "exported_at": "2025-10-03T16:50:07.018280",
+      "continuous_session": true
+    },
+    {
+      "title": "Quantum stocks Rigetti Computing and D-Wave surged double digits this week. Here&apos;s what&apos;s driving the big move",
+      "link": "https://www.cnbc.com/2025/10/03/quantum-stocks-rigetti-computing-d-wave.html",
+      "summary": "Nvidia highlighted accelerated computing, which it argues can make \"quantum computing breakthroughs of today and tomorrow possible.\"",
+      "published": "Fri, 03 Oct 2025 20:59:02 GMT",
+      "content": "Nvidia highlighted accelerated computing, which it argues can make \"quantum computing breakthroughs of today and tomorrow possible.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a030d430188b072f69ee9fd8cddef5d2",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: QUANTUM STOCKS RIGETTI COMPUTING AND D-WAVE SURGE DOUBLE-DIGITS 🚀\n\n- Rigetti Computing and D-Wave stocks soar this week 📈\n- Nvidia emphasizes accelerated computing for quantum breakthroughs 🔥\n- Investors bullish on quantum computing sector 🎯\n- Market reacts positively to potential for quantum tech advancements 🚀\n- Double-digit surge reflects growing interest in quantum stocks 📈\n- Rigetti and D-Wave benefit from Nvidia's quantum computing focus ✅\n\nTAKEAWAY: Rigetti Computing and D-Wave experience significant stock surges as Nvidia's emphasis on accelerated computing drives optimism in the quantum sector.",
+      "exported_at": "2025-10-03T17:00:20.339649",
+      "continuous_session": true
+    },
+    {
+      "title": "Sean &apos;Diddy&apos; Combs sentenced to more than 4 years in prison over prostitution conviction",
+      "link": "https://www.cnbc.com/2025/10/03/sean-diddy-combs-sentenced-to-more-than-4-years-in-prison-over-prostitution-conviction.html",
+      "summary": "Sean \"Diddy\" Combs was sentenced on Friday to more than four years in prison over the hip-hop mogul's July 2 conviction on prostitution-related charges.",
+      "published": "Fri, 03 Oct 2025 20:57:31 GMT",
+      "content": "Sean \"Diddy\" Combs was sentenced on Friday to more than four years in prison over the hip-hop mogul's July 2 conviction on prostitution-related charges.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "143e010be0144eccadc36c78f341066c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SEAN 'DIDDY' COMBS SENTENCED TO OVER 4 YEARS IN PRISON ⚠️\n\n- Sean 'Diddy' Combs convicted on prostitution-related charges\n- More than four years prison sentence handed down\n- Hip-hop mogul's legal troubles escalate\n\nTAKEAWAY: Sean 'Diddy' Combs faces over 4 years in prison following a conviction on prostitution-related charges, marking a significant legal setback for the hip-hop mogul.",
+      "exported_at": "2025-10-03T17:00:20.339719",
       "continuous_session": true
     }
   ]
