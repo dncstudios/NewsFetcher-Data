@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-03T11:44:12.806446",
-    "total_articles": 2062,
-    "new_articles_in_last_fetch": 2062,
+    "created_at": "2025-10-03T12:09:38.130026",
+    "total_articles": 2063,
+    "new_articles_in_last_fetch": 2063,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -26771,6 +26771,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: APPLE REMOVES ICE TRACKING APPS UNDER TRUMP AG PRESSURE ⚠️\n\n- Apple removes ICE tracking apps due to Trump administration pressure 📱\n- ICEBlock creator Joshua Aaron inspired by deportation efforts 🌟\n- Aaron compares deportation efforts to events in Nazi Germany 🇩🇪\n\nTAKEAWAY: Apple's removal of ICE tracking apps under Trump administration pressure sparks controversy, while ICEBlock creator draws parallels to Nazi Germany.",
       "exported_at": "2025-10-03T11:44:12.654207",
+      "continuous_session": true
+    },
+    {
+      "title": "Quantum stocks Rigetti Computing and D-Wave surged double-digits this week. Here&apos;s what&apos;s driving the big move",
+      "link": "https://www.cnbc.com/2025/10/03/quantum-stocks-rigetti-computing-d-wave.html",
+      "summary": "Nvidia highlighted accelerated computing, which it argues can make \"quantum computing breakthroughs of today and tomorrow possible.\"",
+      "published": "Fri, 03 Oct 2025 15:58:05 GMT",
+      "content": "Nvidia highlighted accelerated computing, which it argues can make \"quantum computing breakthroughs of today and tomorrow possible.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a79da9cce000468675cfe5a74aa10ca3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: QUANTUM STOCKS RIGETTI COMPUTING AND D-WAVE SURGE DOUBLE-DIGITS 🚀\n\n- Rigetti Computing and D-Wave stocks soar this week 📈\n- Nvidia emphasizes accelerated computing for quantum breakthroughs 🔥\n- Investors bullish on quantum computing sector 🎯\n- Market reacts positively to potential for quantum tech advancements 🚀\n- Double-digit surge reflects growing interest in quantum stocks 📈\n- Rigetti and D-Wave benefit from Nvidia's quantum computing focus ✅\n\nTAKEAWAY: Rigetti Computing and D-Wave experience significant stock surges as Nvidia's emphasis on accelerated computing drives optimism in the quantum sector.",
+      "exported_at": "2025-10-03T12:09:38.000198",
       "continuous_session": true
     }
   ]
