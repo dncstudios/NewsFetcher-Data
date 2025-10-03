@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-03T14:16:55.789976",
-    "total_articles": 2074,
-    "new_articles_in_last_fetch": 2074,
+    "created_at": "2025-10-03T14:27:09.960182",
+    "total_articles": 2075,
+    "new_articles_in_last_fetch": 2075,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -26927,6 +26927,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: S&P 500 ON TRACK FOR WINNING WEEK DESPITE LATE FRIDAY SELLING 🚀\n\n- S&P 500 set for strong weekly performance 📈\n- U.S. government shutdown impact not deterring market gains ✅\n- Late selling pressure impacts benchmark on Friday 📉\n- Wall Street resilience evident despite shutdown concerns ⚡️\n- Investors navigate uncertainties with market fluctuations ⚠️\n\nTAKEAWAY: The S&P 500 remains resilient, heading for a winning week despite late Friday selling and the ongoing U.S. government shutdown, showcasing investor confidence in the market's overall performance.",
       "exported_at": "2025-10-03T14:16:55.637450",
+      "continuous_session": true
+    },
+    {
+      "title": "The shutdown meant no jobs report. Here&apos;s what it would have said about the economy",
+      "link": "https://www.cnbc.com/2025/10/03/shutdown-jobs-report-economy.html",
+      "summary": "While the BLS has gone dark with the shutdown, other reports  suggest the labor market just plodded along in September.",
+      "published": "Fri, 03 Oct 2025 18:18:08 GMT",
+      "content": "While the BLS has gone dark with the shutdown, other reports  suggest the labor market just plodded along in September.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5e8d3319f92322617c2e8250262f5d01",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: THE SHUTDOWN'S IMPACT: WHAT WOULD THE JOBS REPORT HAVE REVEALED? ⚠️\n\n- BLS shutdown halts release of September jobs report 🚫\n- Labor market likely showed slow growth in absence of data 📉\n- Shutdown leaves economy without key labor market insights ❌\n\nTAKEAWAY: The government shutdown deprives us of crucial insights into the September job market, creating uncertainty about the economy's performance.",
+      "exported_at": "2025-10-03T14:27:09.811673",
       "continuous_session": true
     }
   ]
