@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-03T08:25:17.445133",
-    "total_articles": 2039,
-    "new_articles_in_last_fetch": 2039,
+    "created_at": "2025-10-03T08:45:40.709567",
+    "total_articles": 2042,
+    "new_articles_in_last_fetch": 2042,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -26473,6 +26473,45 @@
       "hash": "156ea2b1d6f2b16ced7471912e5832ed",
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "exported_at": "2025-10-03T08:25:17.420447",
+      "continuous_session": true
+    },
+    {
+      "title": "Jefferies downgrades Apple to sell, sees 20% drop from here",
+      "link": "https://www.cnbc.com/2025/10/03/jefferies-downgrades-apple-to-sell-sees-20percent-drop-from-here.html",
+      "summary": "Apple shares are likely to slump as Wall Street's expectations for the company's next iPhone — possibly a foldable — have become too lofty, Jefferies says.",
+      "published": "Fri, 03 Oct 2025 12:34:10 GMT",
+      "content": "Apple shares are likely to slump as Wall Street's expectations for the company's next iPhone — possibly a foldable — have become too lofty, Jefferies says.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1c758c733782c64765f511450a6ff27d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JEFFERIES DOWNGRADES APPLE TO SELL, PREDICTS 20% DROP 📉\n\n- Jefferies downgrades Apple due to high Wall Street iPhone expectations\n- Anticipation for a possible foldable iPhone deemed overly optimistic\n- Apple shares expected to decline by 20% from current levels\n\nTAKEAWAY: Jefferies' downgrade of Apple to sell signals a 20% drop in share price ahead, citing overly optimistic expectations for the next iPhone.",
+      "exported_at": "2025-10-03T08:45:40.682855",
+      "continuous_session": true
+    },
+    {
+      "title": "The wealth of the top 1% reaches a record $52 trillion",
+      "link": "https://www.cnbc.com/2025/10/03/the-wealth-of-the-top-1percent-reaches-a-record-52-trillion.html",
+      "summary": "All wealth groups saw gains over the past year, according to recent Fed data. But the growth has been fastest for those at the very top.",
+      "published": "Fri, 03 Oct 2025 12:30:01 GMT",
+      "content": "All wealth groups saw gains over the past year, according to recent Fed data. But the growth has been fastest for those at the very top.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "250d777288d3c38030b46cd68d781359",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: THE TOP 1% HIT RECORD $52 TRILLION IN WEALTH 🚀\n\n- All wealth groups show gains, but top 1% see fastest growth 📈\n- Recent Fed data reveals record wealth accumulation 💰\n- Top 1% wealth surpasses $52 trillion milestone 💸\n- Wealth distribution highlights growing inequality gap ⚠️\n- Gains across all groups, but top tier leading the surge 🚀\n- Accelerated growth for wealthiest individuals 📈\n\nTAKEAWAY: The top 1% shatter records with over $52 trillion in wealth, highlighting a widening wealth gap as they experience the fastest growth.",
+      "exported_at": "2025-10-03T08:45:40.682871",
+      "continuous_session": true
+    },
+    {
+      "title": "Jim Cramer&apos;s top 10 things to watch in the stock market Friday",
+      "link": "https://www.cnbc.com/2025/10/03/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday.html",
+      "summary": "Boeing is running into delays with its new widebody jet, and BlackRock's GIP remains acquisitive.",
+      "published": "Fri, 03 Oct 2025 12:39:32 GMT",
+      "content": "Boeing is running into delays with its new widebody jet, and BlackRock's GIP remains acquisitive.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "161da82e7e167419e5b5b306531c733c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JIM CRAMER'S TOP 10 STOCK MARKET INSIGHTS FOR FRIDAY 🚀\n\n- Boeing faces delays with new widebody jet ✈️\n- BlackRock's GIP continues aggressive acquisitions 🌐\n\nTAKEAWAY: Stay alert as Boeing's jet delays and BlackRock's active acquisitions impact market dynamics.",
+      "exported_at": "2025-10-03T08:45:40.682872",
       "continuous_session": true
     }
   ]
