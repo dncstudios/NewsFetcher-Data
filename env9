@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-03T17:25:55.995167",
-    "total_articles": 2092,
-    "new_articles_in_last_fetch": 2092,
+    "created_at": "2025-10-03T17:36:10.226069",
+    "total_articles": 2093,
+    "new_articles_in_last_fetch": 2093,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -27161,6 +27161,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SECOND US COURT REJECTS TRUMP'S BIRTHRIGHT CITIZENSHIP ORDER ⚠️\n\n- Second US appeals court deems Trump's citizenship curtailment unconstitutional 📜\n- Another setback for Trump's immigration agenda 🛑\n- Possibility of Supreme Court intervention looms large ⚖️\n\nTAKEAWAY: Trump faces another legal setback as a second US appeals court rules against his attempt to curtail birthright citizenship, raising the likelihood of the case reaching the Supreme Court.",
       "exported_at": "2025-10-03T17:25:55.848710",
+      "continuous_session": true
+    },
+    {
+      "title": "AI chipmaker Cerebras withdraws IPO",
+      "link": "https://www.cnbc.com/2025/10/03/cerebras-withdraws-ipo-ai.html",
+      "summary": "Days after announcing that it raised $1.1 billion in a financing round, Cerebras said it's pulling its IPO plans.",
+      "published": "Fri, 03 Oct 2025 21:35:46 GMT",
+      "content": "Days after announcing that it raised $1.1 billion in a financing round, Cerebras said it's pulling its IPO plans.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2b4ce8a90324f6d33837341ae170079c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CEREBRAS HALTS IPO PLANS AFTER $1.1B FUNDRAISING 🔥\n\n- Cerebras withdraws IPO soon after $1.1 billion funding round 💸\n- Decision comes shortly after IPO plans were revealed 📉\n- Company's move raises questions about future strategies 🧐\n\nTAKEAWAY: Cerebras' sudden decision to withdraw its IPO plans following a successful $1.1 billion fundraising round raises speculation about its future direction and goals.",
+      "exported_at": "2025-10-03T17:36:10.078151",
       "continuous_session": true
     }
   ]
