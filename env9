@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-03T04:11:05.139670",
-    "total_articles": 2020,
-    "new_articles_in_last_fetch": 2020,
+    "created_at": "2025-10-03T05:01:51.607014",
+    "total_articles": 2021,
+    "new_articles_in_last_fetch": 2021,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -26227,6 +26227,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: THE AI TRADE UNRAVELS: HEDGE FUND SELWOOD PREPARES FOR FALLOUT 🚨\n\n- Selwood shifts focus to energy amid AI \"speculative mania\" risk ⚠️\n- Hedge fund anticipates potential rapid unraveling of AI trade 💥\n- London-based Selwood takes precautionary measures 🇬🇧\n- Preparing for fallout from possible AI market instability 📉\n- Energy plays identified as a safer alternative by Selwood ⚡️\n- Hedge fund's strategic move aims to mitigate risks in AI sector 🎯\n\nTAKEAWAY: Selwood's shift towards energy investments signals a proactive stance to navigate potential fallout from the AI trade's instability and speculative risks.",
       "exported_at": "2025-10-03T04:11:05.115384",
+      "continuous_session": true
+    },
+    {
+      "title": "Massive fire breaks out at Chevron oil refinery in California",
+      "link": "https://www.cnbc.com/2025/10/03/massive-fire-breaks-out-at-chevron-oil-refinery-in-california.html",
+      "summary": "Emergency services are actively responding to a fire at Chevron’s El Segundo plant in California.",
+      "published": "Fri, 03 Oct 2025 08:58:37 GMT",
+      "content": "Emergency services are actively responding to a fire at Chevron’s El Segundo plant in California.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7fb1e0984f26426f10ee753d1a62d920",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MASSIVE FIRE ENGULFS CHEVRON OIL REFINERY IN CALIFORNIA 🚨\n\n- Emergency response underway at Chevron's El Segundo plant 🔥\n- Fire reported at the oil refinery in California 🏭\n- No further details disclosed about the incident 🚫\n\nTAKEAWAY: Emergency services are actively responding to a major fire at Chevron's El Segundo oil refinery in California, with further details yet to be revealed.",
+      "exported_at": "2025-10-03T05:01:51.583445",
       "continuous_session": true
     }
   ]
