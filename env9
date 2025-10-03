@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-03T10:27:28.585027",
-    "total_articles": 2053,
-    "new_articles_in_last_fetch": 2053,
+    "created_at": "2025-10-03T11:03:01.880969",
+    "total_articles": 2054,
+    "new_articles_in_last_fetch": 2054,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -26654,6 +26654,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ASAHI BEERS IN SHORT SUPPLY IN JAPAN DUE TO CYBERATTACK 🚨\n\n- Asahi operations halted in Japan post-cyberattack 🛑\n- Order processing, shipping, call center functions affected 📦📞\n- System outage causes suspension of operations 🖥️\n- Shortage of Asahi beers reported in Japan 🍺\n- Cyberattack impact leads to lingering shutdown ⚠️\n\nTAKEAWAY: Asahi's operations in Japan face challenges as a cyberattack causes system outage, leading to beer shortages and operational disruptions.",
       "exported_at": "2025-10-03T10:27:28.431123",
+      "continuous_session": true
+    },
+    {
+      "title": "Tesla, GM lead record U.S. EV sales this year as federal incentives end",
+      "link": "https://www.cnbc.com/2025/10/03/tesla-gm-ev-sales.html",
+      "summary": "New data provided to CNBC from Motor Intelligence shows sales of EVs topped 1 million units through the first nine months of the year.",
+      "published": "Fri, 03 Oct 2025 14:58:15 GMT",
+      "content": "New data provided to CNBC from Motor Intelligence shows sales of EVs topped 1 million units through the first nine months of the year.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9f67beecdd121097cb76f08ee2be12a7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TESLA, GM LEAD RECORD U.S. EV SALES AS FEDERAL INCENTIVES END 🚀\n\n- U.S. EV sales exceed 1 million units in the first 9 months 📈\n- Tesla and GM at the forefront of the EV market 🚗\n- Record-breaking sales coincide with the end of federal incentives 💸\n- Data from Motor Intelligence reveals the surge in EV purchases 📊\n- Consumers showing a growing interest in electric vehicles ⚡️\n\nTAKEAWAY: Tesla and GM shine as U.S. EV sales hit a record high of over 1 million units, signaling a promising future for electric vehicles despite the end of federal incentives.",
+      "exported_at": "2025-10-03T11:03:01.725196",
       "continuous_session": true
     }
   ]
