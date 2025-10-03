@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-03T05:32:33.312580",
-    "total_articles": 2025,
-    "new_articles_in_last_fetch": 2025,
+    "created_at": "2025-10-03T05:37:42.405477",
+    "total_articles": 2026,
+    "new_articles_in_last_fetch": 2026,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -26292,6 +26292,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: USA RARE EARTH SURGES 8% AFTER CEO'S TALKS WITH TRUMP ADMINISTRATION 🚀\n\n- CEO confirms discussions with Trump admin 🤝\n- Developing mine in Sierra Blanca, Texas 🏞️\n- Magnet production facility in Stillwater, Oklahoma 🏭\n\nTAKEAWAY: USA Rare Earth's 8% jump follows CEO's talks with Trump admin, showcasing potential growth in mining and magnet production projects.",
       "exported_at": "2025-10-03T05:32:33.286903",
+      "continuous_session": true
+    },
+    {
+      "title": "Hitachi shares soar over 10% on partnership with OpenAI",
+      "link": "https://www.cnbc.com/2025/10/03/asia-markets-friday-wall-street-gains-not-impacted-by-shutdown-concerns.html",
+      "summary": "Japanese conglomerate Hitachi rose over 8% after it announced a partnership with OpenAI.",
+      "published": "Fri, 03 Oct 2025 09:03:24 GMT",
+      "content": "Japanese conglomerate Hitachi rose over 8% after it announced a partnership with OpenAI.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "40e7ece9cfcd20a26a8412b1ada68bbf",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: HITACHI SHARES SURGE 10% ON OPENAI PARTNERSHIP 🚀\n\n- Hitachi stock jumps over 10% post OpenAI collaboration 📈\n- Partnership with OpenAI propels Hitachi shares by 8% 🚀\n- Hitachi's alliance with OpenAI boosts investor confidence 💪\n\nTAKEAWAY: Hitachi's stock skyrockets by 10% following the announcement of its partnership with OpenAI, showcasing investor confidence in the collaboration.",
+      "exported_at": "2025-10-03T05:37:42.381223",
       "continuous_session": true
     }
   ]
