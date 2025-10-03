@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-03T09:46:40.569055",
-    "total_articles": 2047,
-    "new_articles_in_last_fetch": 2047,
+    "created_at": "2025-10-03T09:56:50.520831",
+    "total_articles": 2048,
+    "new_articles_in_last_fetch": 2048,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -26577,6 +26577,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JEFF BEZOS WARNS OF AI 'INDUSTRIAL BUBBLE' BUT PROMISES 'GIGANTIC' BENEFITS 🌟\n\n- Bezos cautions on AI being in an \"industrial bubble\" 🛑\n- AI expected to bring 'gigantic' benefits to society 🌍\n- Bezos emphasizes potential for AI advancement 💡\n- Calls for careful consideration in AI development 🧐\n\nTAKEAWAY: Jeff Bezos flags concerns about AI's current trajectory but remains optimistic about its potential to bring enormous benefits to society with careful handling.",
       "exported_at": "2025-10-03T09:46:40.472009",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump admin freezes $2.1 billion for Chicago infrastructure, says shutdown slows review",
+      "link": "https://www.cnbc.com/2025/10/03/trump-chicago-infrastructure-shutdown-vought.html",
+      "summary": "The move came on the third day of the federal government shutdown, which President Donald Trump has blamed on Democrats in Congress.",
+      "published": "Fri, 03 Oct 2025 13:53:36 GMT",
+      "content": "The move came on the third day of the federal government shutdown, which President Donald Trump has blamed on Democrats in Congress.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "23e1a3a938eb298f9605de8c616029a3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP ADMIN DELAYS $2.1B CHICAGO INFRASTRUCTURE PROJECTS ⚠️\n\n- $2.1B Chicago projects paused due to federal govt shutdown 🏗️\n- Trump attributes delay to Democrats in Congress 🎯\n- Uncertainty looms over infrastructure plans in Chicago 🏙️\n\nTAKEAWAY: The $2.1 billion Chicago infrastructure projects face delays amid the federal government shutdown, adding uncertainty to the city's development plans.",
+      "exported_at": "2025-10-03T09:56:50.496890",
       "continuous_session": true
     }
   ]
