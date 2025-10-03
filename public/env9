@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-03T07:49:38.867796",
-    "total_articles": 2033,
-    "new_articles_in_last_fetch": 2033,
+    "created_at": "2025-10-03T08:04:57.844148",
+    "total_articles": 2036,
+    "new_articles_in_last_fetch": 2036,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -26396,6 +26396,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JEFF BEZOS WARNS OF AI 'INDUSTRIAL BUBBLE' BUT PROMISES 'GIGANTIC' BENEFITS 🌟\n\n- Bezos cautions on AI being in an \"industrial bubble\" 🛑\n- AI expected to bring 'gigantic' benefits to society 🌍\n- Bezos emphasizes potential for AI advancement 💡\n- Calls for careful consideration in AI development 🧐\n\nTAKEAWAY: Jeff Bezos flags concerns about AI's current trajectory but remains optimistic about its potential to bring enormous benefits to society with careful handling.",
       "exported_at": "2025-10-03T07:49:38.842923",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump administration puts on hold $2.1 billion in Chicago infrastructure projects, Vought says",
+      "link": "https://www.cnbc.com/2025/10/03/trump-chicago-infrastructure-shutdown-vought.html",
+      "summary": "The move came on the third day of the federal government shutdown, which President Donald Trump has blamed on Democrats in Congress.",
+      "published": "Fri, 03 Oct 2025 12:03:42 GMT",
+      "content": "The move came on the third day of the federal government shutdown, which President Donald Trump has blamed on Democrats in Congress.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "bdb86f652146abae0d4931d7fe1502d7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP ADMIN DELAYS $2.1B CHICAGO INFRASTRUCTURE PROJECTS ⚠️\n\n- $2.1B Chicago projects paused due to federal govt shutdown 🏗️\n- Trump attributes delay to Democrats in Congress 🎯\n- Uncertainty looms over infrastructure plans in Chicago 🏙️\n\nTAKEAWAY: The $2.1 billion Chicago infrastructure projects face delays amid the federal government shutdown, adding uncertainty to the city's development plans.",
+      "exported_at": "2025-10-03T08:04:57.819366",
+      "continuous_session": true
+    },
+    {
+      "title": "Johnson &amp; Johnson is a buy as drug sales continue to improve, Wells Fargo says",
+      "link": "https://www.cnbc.com/2025/10/03/johnson-johnson-is-a-buy-as-drug-sales-continue-to-improve-wells-fargo-says.html",
+      "summary": "The bank upgraded the pharma giant to overweight from equal weight.",
+      "published": "Fri, 03 Oct 2025 11:56:37 GMT",
+      "content": "The bank upgraded the pharma giant to overweight from equal weight.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4beb624a07608c5dce781633eba7a2b4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JOHNSON & JOHNSON UPGRADED TO BUY STATUS BY WELLS FARGO 🚀\n\n- Wells Fargo elevates J&J to overweight, citing improving drug sales 📈\n- Bank's upgrade signals confidence in pharma giant's potential 📈\n- J&J's drug sales on the rise, attracting investor interest 📈\n\nTAKEAWAY: Wells Fargo's upgrade of Johnson & Johnson to buy status reflects growing optimism in the pharmaceutical company's performance, particularly in drug sales.",
+      "exported_at": "2025-10-03T08:04:57.819381",
+      "continuous_session": true
+    },
+    {
+      "title": "Property tech &apos;winter&apos; is over, but climate investment is still struggling, says Fifth Wall CEO",
+      "link": "https://www.cnbc.com/2025/10/03/fifth-wall-ceo-property-tech-winter.html",
+      "summary": "Higher interest rates, a capital market retraction and a push by almost all venture capital into AI collectively hit property tech hard.",
+      "published": "Fri, 03 Oct 2025 12:00:01 GMT",
+      "content": "Higher interest rates, a capital market retraction and a push by almost all venture capital into AI collectively hit property tech hard.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a4a3069685c37b6749b1d760f8039ad3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PROPERTY TECH WINTER ENDS, BUT CLIMATE INVESTMENT STRUGGLES 🚀\n\n- Property tech faced challenges: higher rates, market retraction, AI focus.\n- Fifth Wall CEO highlights struggles in climate investment.\n- Industry moves past tough times, but climate sector still faces hurdles.\n- Venture capital shift impacts property tech, climate investment.\n- Market dynamics improve, but climate sector lags behind.\n- Fifth Wall CEO points out ongoing challenges in climate investment.\n\nTAKEAWAY: Property technology emerges from a tough period, but climate investment continues to face obstacles, according to Fifth Wall CEO. 🌱",
+      "exported_at": "2025-10-03T08:04:57.819383",
       "continuous_session": true
     }
   ]
