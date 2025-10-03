@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-03T17:36:10.226069",
-    "total_articles": 2093,
-    "new_articles_in_last_fetch": 2093,
+    "created_at": "2025-10-03T17:41:16.693636",
+    "total_articles": 2094,
+    "new_articles_in_last_fetch": 2094,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -27174,6 +27174,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CEREBRAS HALTS IPO PLANS AFTER $1.1B FUNDRAISING 🔥\n\n- Cerebras withdraws IPO soon after $1.1 billion funding round 💸\n- Decision comes shortly after IPO plans were revealed 📉\n- Company's move raises questions about future strategies 🧐\n\nTAKEAWAY: Cerebras' sudden decision to withdraw its IPO plans following a successful $1.1 billion fundraising round raises speculation about its future direction and goals.",
       "exported_at": "2025-10-03T17:36:10.078151",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump says Israel must stop bombing Gaza immediately",
+      "link": "https://www.cnbc.com/2025/10/03/hamas-agrees-to-some-of-trumps-plan-but-seeks-negotiations.html",
+      "summary": "Hamas said on Friday it would agree to some aspects of U.S. President Donald Trump's plan to end the Gaza war, including releasing hostages and handing over administration of the enclave, but that it would seek negotiations over many of its other terms.",
+      "published": "Fri, 03 Oct 2025 21:37:05 GMT",
+      "content": "Hamas said on Friday it would agree to some aspects of U.S. President Donald Trump's plan to end the Gaza war, including releasing hostages and handing over administration of the enclave, but that it would seek negotiations over many of its other terms.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "cb613e031a644ab6281ea5d32edeee5d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: HAMAS ACCEPTS ASPECTS OF TRUMP'S GAZA PLAN, SEEKS NEGOTIATIONS 🚀\n\n- Hamas agrees to release hostages and hand over enclave administration ✅\n- Seeks negotiations for other terms in Trump's plan 🤝\n- Aims for a balanced agreement through discussions 🎯\n\nTAKEAWAY: Hamas shows willingness by accepting some of Trump's Gaza plan while prioritizing negotiations for a balanced agreement.",
+      "exported_at": "2025-10-03T17:41:16.557866",
       "continuous_session": true
     }
   ]
