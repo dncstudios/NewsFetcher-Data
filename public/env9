@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-03T07:03:56.112551",
-    "total_articles": 2031,
-    "new_articles_in_last_fetch": 2031,
+    "created_at": "2025-10-03T07:09:03.953826",
+    "total_articles": 2032,
+    "new_articles_in_last_fetch": 2032,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -26370,6 +26370,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: 🚀 WALMART-BACKED ONEPAY EMBRACES CRYPTO IN BANKING APP 🚀\n\n- OnePay integrates crypto into its banking app 💰📱\n- Walmart & Ribbit Capital-backed fintech sees crypto as a core feature 🛡️\n- OnePay aims to expand its \"everything app\" with crypto services 📈\n- Fintech founded in 2021 shows commitment to crypto adoption 🔒\n- Walmart-backed OnePay joins the trend of fintechs embracing cryptocurrencies 💸📲\n\nTAKEAWAY: OnePay's bold move to include crypto in its banking app signifies a strategic shift towards embracing digital currencies as a core offering in its expanding \"everything app.\"",
       "exported_at": "2025-10-03T07:03:56.087965",
+      "continuous_session": true
+    },
+    {
+      "title": "Coinbase gets an upgrade from Rothschild on growing crypto adoption in finance",
+      "link": "https://www.cnbc.com/2025/10/03/coinbase-gets-an-upgrade-from-rothschild-on-growing-crypto-adoption-in-finance.html",
+      "summary": "Coinbase is poised outperform as cryptocurrencies become more integrated into financial services, according to Rothschild &amp; Co. Redburn.",
+      "published": "Fri, 03 Oct 2025 11:04:32 GMT",
+      "content": "Coinbase is poised outperform as cryptocurrencies become more integrated into financial services, according to Rothschild &amp; Co. Redburn.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c4da42a56804ba73dc2673d31b4e9997",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: COINBASE UPGRADED BY ROTHSCHILD AMID CRYPTO ADOPTION SURGE 🚀\n\n- Rothschild & Co. expects Coinbase to excel with rising crypto use\n- Redburn predicts outperformance for Coinbase in finance sector 📈\n- Integration of cryptocurrencies boosts Coinbase's potential 🔥\n\nTAKEAWAY: Rothschild's upgrade of Coinbase reflects confidence in its performance amidst the increasing integration of cryptocurrencies in finance.",
+      "exported_at": "2025-10-03T07:09:03.837998",
       "continuous_session": true
     }
   ]
