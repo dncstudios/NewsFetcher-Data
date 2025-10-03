@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-03T06:23:21.505370",
-    "total_articles": 2028,
-    "new_articles_in_last_fetch": 2028,
+    "created_at": "2025-10-03T07:03:56.112551",
+    "total_articles": 2031,
+    "new_articles_in_last_fetch": 2031,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -26331,6 +26331,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCK FUTURES STALL AS AI TRADE DRIVES MARKET TO FRESH HIGHS 🚀\n\n- Major U.S. indexes hit record highs fueled by AI trade 📈\n- Market remains steady despite ongoing shutdown ⚠️\n- AI sector strength continues to drive market momentum 🤖\n\nTAKEAWAY: Despite a stagnant start in stock futures, the market hits fresh highs driven by AI trade, showcasing resilience amid the ongoing shutdown.",
       "exported_at": "2025-10-03T06:23:21.480816",
+      "continuous_session": true
+    },
+    {
+      "title": "For first-time job hunters, a college degree isn&apos;t unlocking the opportunities it once did",
+      "link": "https://www.cnbc.com/2025/10/03/job-market-new-grads-unemployment.html",
+      "summary": "Data shows young college grads are feeling the brunt of the labor market slowdown.",
+      "published": "Fri, 03 Oct 2025 11:00:12 GMT",
+      "content": "Data shows young college grads are feeling the brunt of the labor market slowdown.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "58b3a6fa1662a74cb408be1da9670ee9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FOR FIRST-TIME JOB HUNTERS, DEGREE VALUE DIMINISHES 📉\n\n- Labor market slowdown hits young college grads hard 💔\n- Opportunities once unlocked by degrees now limited 🚫\n- Data reveals challenges faced by first-time job seekers 📉\n- College grads experiencing reduced job market benefits 📊\n- Shift in job market dynamics impacting recent graduates 🔄\n- Decreased value of degrees affects entry-level job seekers 💼\n\nTAKEAWAY: Recent data highlights how the value of a college degree is diminishing for first-time job hunters, signaling challenges ahead in the labor market.",
+      "exported_at": "2025-10-03T07:03:56.087950",
+      "continuous_session": true
+    },
+    {
+      "title": "Why vinyl records like Taylor Swift&apos;s &apos;The Life of a Showgirl&apos; are protected from tariffs",
+      "link": "https://www.cnbc.com/2025/10/03/taylor-swift-album-tariffs-vinyl-records.html",
+      "summary": "Vinyl records, CDs and cassettes escape U.S. tariffs thanks to a Cold War-era exemption, keeping prices stable for fans.",
+      "published": "Fri, 03 Oct 2025 11:00:01 GMT",
+      "content": "Vinyl records, CDs and cassettes escape U.S. tariffs thanks to a Cold War-era exemption, keeping prices stable for fans.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "57fce14f1afe27712f520110b63f69e4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WHY VINYL RECORDS THRIVE AMID TARIFF UNCERTAINTY 🎶\n\n- Vinyl records, CDs, cassettes exempt from U.S. tariffs 🚫\n- Cold War-era exemption shields music formats from price hikes 🛡️\n- Fans enjoy stable prices for beloved music collections 🎵\n\nTAKEAWAY: Vinyl records like Taylor Swift's 'The Life of a Showgirl' remain untaxed, preserving affordability and accessibility for music enthusiasts.",
+      "exported_at": "2025-10-03T07:03:56.087963",
+      "continuous_session": true
+    },
+    {
+      "title": "Walmart-backed fintech OnePay is bringing crypto to its banking app, sources say",
+      "link": "https://www.cnbc.com/2025/10/03/walmart-onepay-is-rolling-out-crypto-to-mobile-banking-app.html",
+      "summary": "The move shows that OnePay, founded by Walmart and venture firm Ribbit Capital in 2021, sees crypto as a core offering as it builds out its \"everything app.\"",
+      "published": "Fri, 03 Oct 2025 11:00:01 GMT",
+      "content": "The move shows that OnePay, founded by Walmart and venture firm Ribbit Capital in 2021, sees crypto as a core offering as it builds out its \"everything app.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "dde27e3ac4775ee5c90f368d66502279",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 🚀 WALMART-BACKED ONEPAY EMBRACES CRYPTO IN BANKING APP 🚀\n\n- OnePay integrates crypto into its banking app 💰📱\n- Walmart & Ribbit Capital-backed fintech sees crypto as a core feature 🛡️\n- OnePay aims to expand its \"everything app\" with crypto services 📈\n- Fintech founded in 2021 shows commitment to crypto adoption 🔒\n- Walmart-backed OnePay joins the trend of fintechs embracing cryptocurrencies 💸📲\n\nTAKEAWAY: OnePay's bold move to include crypto in its banking app signifies a strategic shift towards embracing digital currencies as a core offering in its expanding \"everything app.\"",
+      "exported_at": "2025-10-03T07:03:56.087965",
       "continuous_session": true
     }
   ]
