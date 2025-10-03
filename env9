@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-03T14:27:09.960182",
-    "total_articles": 2075,
-    "new_articles_in_last_fetch": 2075,
+    "created_at": "2025-10-03T14:37:32.369859",
+    "total_articles": 2077,
+    "new_articles_in_last_fetch": 2077,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -26940,6 +26940,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: THE SHUTDOWN'S IMPACT: WHAT WOULD THE JOBS REPORT HAVE REVEALED? ⚠️\n\n- BLS shutdown halts release of September jobs report 🚫\n- Labor market likely showed slow growth in absence of data 📉\n- Shutdown leaves economy without key labor market insights ❌\n\nTAKEAWAY: The government shutdown deprives us of crucial insights into the September job market, creating uncertainty about the economy's performance.",
       "exported_at": "2025-10-03T14:27:09.811673",
+      "continuous_session": true
+    },
+    {
+      "title": "S&amp;P 500 ticks higher in choppy trading, heads for winning week: Live updates",
+      "link": "https://www.cnbc.com/2025/10/02/stock-market-today-live-updates.html",
+      "summary": "Wall Street headed for solid weekly gains even with a U.S. government shutdown dragging on.",
+      "published": "Fri, 03 Oct 2025 18:35:39 GMT",
+      "content": "Wall Street headed for solid weekly gains even with a U.S. government shutdown dragging on.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ab2dcd0006defda2b92bc647537cd376",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: S&P 500 ON TRACK FOR WINNING WEEK DESPITE LATE FRIDAY SELLING 🚀\n\n- S&P 500 set for strong weekly performance 📈\n- U.S. government shutdown impact not deterring market gains ✅\n- Late selling pressure impacts benchmark on Friday 📉\n- Wall Street resilience evident despite shutdown concerns ⚡️\n- Investors navigate uncertainties with market fluctuations ⚠️\n\nTAKEAWAY: The S&P 500 remains resilient, heading for a winning week despite late Friday selling and the ongoing U.S. government shutdown, showcasing investor confidence in the market's overall performance.",
+      "exported_at": "2025-10-03T14:37:32.230931",
+      "continuous_session": true
+    },
+    {
+      "title": "Spirit Airlines to cut its fleet of planes nearly in half amid bankruptcy restructuring, CFO says",
+      "link": "https://www.cnbc.com/2025/10/03/spirit-airlines-to-cut-nearly-100-aircraft-from-its-fleet-cfo-says.html",
+      "summary": "Low-cost carrier Spirit Airlines is using bankruptcy tools to eliminate unprofitable routes and reduce its network footprint, CFO Scott Cramer says.",
+      "published": "Fri, 03 Oct 2025 18:34:03 GMT",
+      "content": "Low-cost carrier Spirit Airlines is using bankruptcy tools to eliminate unprofitable routes and reduce its network footprint, CFO Scott Cramer says.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9766ade4a440933c617a897f91d1ee3b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SPIRIT AIRLINES SLASHES FLEET BY HALF DURING BANKRUPTCY RESTRUCTURING 🚨\n\n- Spirit Airlines to reduce fleet size significantly ✈️\n- CFO confirms bankruptcy tools used to cut unprofitable routes 📉\n- Focus on restructuring to improve network profitability 💰\n\nTAKEAWAY: Spirit Airlines takes bold steps to enhance profitability by slashing fleet size and restructuring amid bankruptcy, aiming for a more efficient network.",
+      "exported_at": "2025-10-03T14:37:32.230992",
       "continuous_session": true
     }
   ]
