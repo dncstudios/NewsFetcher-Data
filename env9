@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-03T11:08:28.727172",
-    "total_articles": 2057,
-    "new_articles_in_last_fetch": 2057,
+    "created_at": "2025-10-03T11:13:34.883607",
+    "total_articles": 2058,
+    "new_articles_in_last_fetch": 2058,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -26706,6 +26706,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: HOW TO SCORE SORA APP INVITE CODES FOR OPENAI'S VIRAL AI VIDEO CREATOR 🚀\n\n- Sora claims Apple's App Store #1 spot as invite-only app 🥇\n- Demand surges despite exclusivity requirement 📈\n- Users seek coveted invite codes for viral AI video tool 💡\n\nTAKEAWAY: Sora's popularity skyrockets as users clamor for invite codes, propelling it to the top of Apple's App Store despite exclusivity.",
       "exported_at": "2025-10-03T11:08:28.585643",
+      "continuous_session": true
+    },
+    {
+      "title": "Dow rallies 400 points to record as Wall Street looks past shutdown fears: Live updates",
+      "link": "https://www.cnbc.com/2025/10/02/stock-market-today-live-updates.html",
+      "summary": "The three major U.S. indexes notched record highs across the board on Thursday as strength in the AI trade persisted.",
+      "published": "Fri, 03 Oct 2025 15:02:23 GMT",
+      "content": "The three major U.S. indexes notched record highs across the board on Thursday as strength in the AI trade persisted.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "75b00caf6cb5805ceb20de53c5077d2e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK FUTURES STALL AS AI TRADE DRIVES MARKET TO FRESH HIGHS 🚀\n\n- Major U.S. indexes hit record highs fueled by AI trade 📈\n- Market remains steady despite ongoing shutdown ⚠️\n- AI sector strength continues to drive market momentum 🤖\n\nTAKEAWAY: Despite a stagnant start in stock futures, the market hits fresh highs driven by AI trade, showcasing resilience amid the ongoing shutdown.",
+      "exported_at": "2025-10-03T11:13:34.752761",
       "continuous_session": true
     }
   ]
