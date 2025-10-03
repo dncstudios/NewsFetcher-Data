@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-03T15:23:24.955087",
-    "total_articles": 2080,
-    "new_articles_in_last_fetch": 2080,
+    "created_at": "2025-10-03T15:33:38.928051",
+    "total_articles": 2081,
+    "new_articles_in_last_fetch": 2081,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -27005,6 +27005,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WALL STREET SURGES TO RECORD HIGHS DESPITE UNCERTAINTY 🚀\n\n- Stocks hit new highs, fueled by bullish rally momentum 📈\n- Market optimism prevails despite federal operations suspension ⚡️\n- Investors remain confident in the ongoing stock surge 🎯\n- Uncertainty looms if federal operations suspension extends ⚠️\n\nTAKEAWAY: Wall Street defies uncertainty, reaching record highs as investors maintain confidence in the bullish rally despite potential risks from prolonged federal operations suspension.",
       "exported_at": "2025-10-03T15:23:24.809893",
+      "continuous_session": true
+    },
+    {
+      "title": "Bitcoin climbs to near-record high, gaining 12% in past week: CNBC Crypto World",
+      "link": "https://www.cnbc.com/video/2025/10/03/bitcoin-climbs-near-record-high-gaining-12percent-past-week-cnbc-crypto-world.html",
+      "summary": "On today's epsiode of CNBC Crypto World, major cryptocurrencies end the week in the green with bitcoin inching closer to its record. Plus, George Kikvadze, executive vice chairman of Bitfury, explains the evolution of bitcoin over the past decade. And, we explore how stablecoins are making major strides in mainstream adoption.",
+      "published": "Fri, 03 Oct 2025 19:26:49 GMT",
+      "content": "On today's epsiode of CNBC Crypto World, major cryptocurrencies end the week in the green with bitcoin inching closer to its record. Plus, George Kikvadze, executive vice chairman of Bitfury, explains the evolution of bitcoin over the past decade. And, we explore how stablecoins are making major strides in mainstream adoption.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7525b49e702670be6d18fff25bcf9842",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BITCOIN SOARS NEAR RECORD HIGH, UP 12% IN WEEK 🚀\n\n- Bitcoin inches closer to all-time high 📈\n- Major cryptocurrencies end week in green 💚\n- George Kikvadze discusses bitcoin's evolution 🔍\n- Stablecoins gain traction in mainstream adoption 💪\n\nTAKEAWAY: Bitcoin's surge near record levels, alongside overall crypto market growth, signals a bullish trend as stablecoins make significant strides in adoption.",
+      "exported_at": "2025-10-03T15:33:38.782000",
       "continuous_session": true
     }
   ]
