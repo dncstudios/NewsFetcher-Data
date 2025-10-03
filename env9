@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-03T12:14:47.441539",
-    "total_articles": 2064,
-    "new_articles_in_last_fetch": 2064,
+    "created_at": "2025-10-03T12:19:53.686023",
+    "total_articles": 2065,
+    "new_articles_in_last_fetch": 2065,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -26797,6 +26797,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STUDENT LOAN BORROWERS STRUGGLE TO ACCESS REPAYMENT PLANS UNDER TRUMP ⚠️\n\n- Delays in accessing new repayment plans due to Trump-era backlog 🕒\n- Government shutdown adds to challenges for student loan borrowers 🏛️\n- Borrowers facing difficulties in navigating repayment options 🤷‍♂️\n\nTAKEAWAY: Student loan borrowers encounter obstacles in accessing repayment plans under Trump's administration, compounded by a backlog and government shutdown.",
       "exported_at": "2025-10-03T12:14:47.292380",
+      "continuous_session": true
+    },
+    {
+      "title": "Dow rallies 500 points to record as Wall Street looks past shutdown fears: Live updates",
+      "link": "https://www.cnbc.com/2025/10/02/stock-market-today-live-updates.html",
+      "summary": "The three major U.S. indexes notched record highs across the board on Thursday as strength in the AI trade persisted.",
+      "published": "Fri, 03 Oct 2025 16:16:58 GMT",
+      "content": "The three major U.S. indexes notched record highs across the board on Thursday as strength in the AI trade persisted.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3324cd763dab851d0f9727cf729e6255",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK FUTURES STALL AS AI TRADE DRIVES MARKET TO FRESH HIGHS 🚀\n\n- Major U.S. indexes hit record highs fueled by AI trade 📈\n- Market remains steady despite ongoing shutdown ⚠️\n- AI sector strength continues to drive market momentum 🤖\n\nTAKEAWAY: Despite a stagnant start in stock futures, the market hits fresh highs driven by AI trade, showcasing resilience amid the ongoing shutdown.",
+      "exported_at": "2025-10-03T12:19:53.548462",
       "continuous_session": true
     }
   ]
