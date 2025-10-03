@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-03T16:14:28.013907",
-    "total_articles": 2085,
-    "new_articles_in_last_fetch": 2085,
+    "created_at": "2025-10-03T16:29:45.994508",
+    "total_articles": 2086,
+    "new_articles_in_last_fetch": 2086,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -27070,6 +27070,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: HAMAS ACCEPTS ASPECTS OF TRUMP'S GAZA PLAN, SEEKS NEGOTIATIONS 🚀\n\n- Hamas agrees to release hostages and hand over enclave administration ✅\n- Seeks negotiations for other terms in Trump's plan 🤝\n- Aims for a balanced agreement through discussions 🎯\n\nTAKEAWAY: Hamas shows willingness by accepting some of Trump's Gaza plan while prioritizing negotiations for a balanced agreement.",
       "exported_at": "2025-10-03T16:14:27.865708",
+      "continuous_session": true
+    },
+    {
+      "title": "Santoli&apos;s Friday market wrap-up: Wall Street holds near records in government-data blackout",
+      "link": "https://www.cnbc.com/2025/10/03/santolis-friday-market-wrap-up-wall-street-at-records-in-data-blackout-.html",
+      "summary": "The bull market nears its third anniversary with elevated valuations, broad agreement we have an AI bubble in the making and the Fed easing policy.",
+      "published": "Fri, 03 Oct 2025 20:22:50 GMT",
+      "content": "The bull market nears its third anniversary with elevated valuations, broad agreement we have an AI bubble in the making and the Fed easing policy.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0f1d38304df0a9bb7f1bb1228a51de4c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SANTOLI'S FRIDAY MARKET WRAP-UP: WALL STREET NEARS RECORDS 🚀\n\n- Bull market approaches 3rd anniversary with high valuations 📈\n- Consensus on potential AI bubble formation 🤖\n- Fed continues easing policy to support markets 💪\n\nTAKEAWAY: Wall Street remains on the cusp of record highs amidst concerns of inflated valuations, AI bubble risks, and ongoing Fed support.",
+      "exported_at": "2025-10-03T16:29:45.865218",
       "continuous_session": true
     }
   ]
