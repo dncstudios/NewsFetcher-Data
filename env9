@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-03T11:13:34.883607",
-    "total_articles": 2058,
-    "new_articles_in_last_fetch": 2058,
+    "created_at": "2025-10-03T11:18:44.462192",
+    "total_articles": 2060,
+    "new_articles_in_last_fetch": 2060,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -26719,6 +26719,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCK FUTURES STALL AS AI TRADE DRIVES MARKET TO FRESH HIGHS 🚀\n\n- Major U.S. indexes hit record highs fueled by AI trade 📈\n- Market remains steady despite ongoing shutdown ⚠️\n- AI sector strength continues to drive market momentum 🤖\n\nTAKEAWAY: Despite a stagnant start in stock futures, the market hits fresh highs driven by AI trade, showcasing resilience amid the ongoing shutdown.",
       "exported_at": "2025-10-03T11:13:34.752761",
+      "continuous_session": true
+    },
+    {
+      "title": "Goldman boss David Solomon warns of a stock market drawdown: ‘People won’t feel good’",
+      "link": "https://www.cnbc.com/2025/10/03/goldman-sachs-ceo-david-solomon-warns-stock-market-drawdown-is-coming.html",
+      "summary": "The Goldman Sachs CEO said AI presented opportunities but that some investors were overlooking \"things you should be skeptical about.\"",
+      "published": "Fri, 03 Oct 2025 15:17:31 GMT",
+      "content": "The Goldman Sachs CEO said AI presented opportunities but that some investors were overlooking \"things you should be skeptical about.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2fec91c5316dea7caa1d3715b0225229",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GOLDMAN CEO SOLOMON WARNS OF STOCK MARKET DRAWDOWN 🚨\n\n- CEO Solomon cautions about potential stock market downturn 💼\n- Emphasizes importance of skepticism in AI investment 🧐\n- Warns investors may not feel optimistic 📉\n\nTAKEAWAY: Goldman Sachs CEO David Solomon's warning about a stock market drawdown and the need for skepticism in AI investment highlights potential risks ahead for investors.",
+      "exported_at": "2025-10-03T11:18:44.301485",
+      "continuous_session": true
+    },
+    {
+      "title": "Dow rallies 300 points to record as Wall Street looks past shutdown fears: Live updates",
+      "link": "https://www.cnbc.com/2025/10/02/stock-market-today-live-updates.html",
+      "summary": "The three major U.S. indexes notched record highs across the board on Thursday as strength in the AI trade persisted.",
+      "published": "Fri, 03 Oct 2025 15:15:50 GMT",
+      "content": "The three major U.S. indexes notched record highs across the board on Thursday as strength in the AI trade persisted.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7ff193fae6257c764a63a902250e0ea4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK FUTURES STALL AS AI TRADE DRIVES MARKET TO FRESH HIGHS 🚀\n\n- Major U.S. indexes hit record highs fueled by AI trade 📈\n- Market remains steady despite ongoing shutdown ⚠️\n- AI sector strength continues to drive market momentum 🤖\n\nTAKEAWAY: Despite a stagnant start in stock futures, the market hits fresh highs driven by AI trade, showcasing resilience amid the ongoing shutdown.",
+      "exported_at": "2025-10-03T11:18:44.301543",
       "continuous_session": true
     }
   ]
