@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-03T11:03:01.880969",
-    "total_articles": 2054,
-    "new_articles_in_last_fetch": 2054,
+    "created_at": "2025-10-03T11:08:28.727172",
+    "total_articles": 2057,
+    "new_articles_in_last_fetch": 2057,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -26667,6 +26667,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TESLA, GM LEAD RECORD U.S. EV SALES AS FEDERAL INCENTIVES END 🚀\n\n- U.S. EV sales exceed 1 million units in the first 9 months 📈\n- Tesla and GM at the forefront of the EV market 🚗\n- Record-breaking sales coincide with the end of federal incentives 💸\n- Data from Motor Intelligence reveals the surge in EV purchases 📊\n- Consumers showing a growing interest in electric vehicles ⚡️\n\nTAKEAWAY: Tesla and GM shine as U.S. EV sales hit a record high of over 1 million units, signaling a promising future for electric vehicles despite the end of federal incentives.",
       "exported_at": "2025-10-03T11:03:01.725196",
+      "continuous_session": true
+    },
+    {
+      "title": "Berkshire Hathaway votes to separate chairman and CEO roles, paving way for Abel to succeed Buffett at year-end",
+      "link": "https://www.cnbc.com/2025/10/03/berkshire-hathaway-votes-abel-buffett.html",
+      "summary": "In a new regulatory filing, Berkshire said its board of directors voted on Sept. 30 to amend its bylaws to distinguish the two top roles, effective immediately.",
+      "published": "Fri, 03 Oct 2025 15:07:55 GMT",
+      "content": "In a new regulatory filing, Berkshire said its board of directors voted on Sept. 30 to amend its bylaws to distinguish the two top roles, effective immediately.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d24dda284484b7e9fcd3c2d4c26710a3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BERKSHIRE HATHAWAY TO SEPARATE CHAIRMAN AND CEO ROLES 🚀\n\n- Board votes to amend bylaws, separating chairman and CEO roles\n- Change effective immediately, paving way for Abel to succeed Buffett\n- Berkshire Hathaway making strategic governance shift\n- Abel likely to take over CEO role by year-end\n- Move seen as preparation for Buffett's succession plan\n- Separation aims to enhance company's leadership structure\n\nTAKEAWAY: Berkshire Hathaway's decision to separate chairman and CEO roles marks a strategic governance shift, signaling Abel's potential succession to Buffett by year-end.",
+      "exported_at": "2025-10-03T11:08:28.585497",
+      "continuous_session": true
+    },
+    {
+      "title": "Energy due for a bounce? Trading for a comeback in the sector using options",
+      "link": "https://www.cnbc.com/2025/10/03/energy-due-for-a-bounce-trading-for-a-comeback-in-the-sector-using-option.html",
+      "summary": "Jeff Kilburg breaks down this options trade on the energy sector.",
+      "published": "Fri, 03 Oct 2025 14:50:40 GMT",
+      "content": "Jeff Kilburg breaks down this options trade on the energy sector.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "512cb6f4a66453b422590d904a8fb519",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ENERGY SECTOR SET FOR A BOUNCE? 🚀\n\n- Options trade analysis by Jeff Kilburg suggests potential comeback ⚡️\n- Focus on energy sector for trading opportunities 📈\n- Market showing signs of potential rebound 📉\n- Options strategy could capitalize on sector momentum 🔄\n- Jeff Kilburg's breakdown provides insights for traders 💡\n\nTAKEAWAY: Jeff Kilburg's options trade analysis hints at a possible bounce in the energy sector, offering trading opportunities for those seeking a comeback.",
+      "exported_at": "2025-10-03T11:08:28.585620",
+      "continuous_session": true
+    },
+    {
+      "title": "How to get Sora app invite codes for OpenAI&apos;s viral AI video creator",
+      "link": "https://www.cnbc.com/2025/10/03/sora-app-invite-codes-openai-viral-ai-video.html",
+      "summary": "Sora has already grabbed the top spot in Apple's App Store as its number one free app, despite being invite-only.",
+      "published": "Fri, 03 Oct 2025 15:00:04 GMT",
+      "content": "Sora has already grabbed the top spot in Apple's App Store as its number one free app, despite being invite-only.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4f8683e6ca013d18375b6af828c02c67",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: HOW TO SCORE SORA APP INVITE CODES FOR OPENAI'S VIRAL AI VIDEO CREATOR 🚀\n\n- Sora claims Apple's App Store #1 spot as invite-only app 🥇\n- Demand surges despite exclusivity requirement 📈\n- Users seek coveted invite codes for viral AI video tool 💡\n\nTAKEAWAY: Sora's popularity skyrockets as users clamor for invite codes, propelling it to the top of Apple's App Store despite exclusivity.",
+      "exported_at": "2025-10-03T11:08:28.585643",
       "continuous_session": true
     }
   ]
