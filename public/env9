@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-03T09:56:50.520831",
-    "total_articles": 2048,
-    "new_articles_in_last_fetch": 2048,
+    "created_at": "2025-10-03T10:07:00.537099",
+    "total_articles": 2049,
+    "new_articles_in_last_fetch": 2049,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -26590,6 +26590,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP ADMIN DELAYS $2.1B CHICAGO INFRASTRUCTURE PROJECTS ⚠️\n\n- $2.1B Chicago projects paused due to federal govt shutdown 🏗️\n- Trump attributes delay to Democrats in Congress 🎯\n- Uncertainty looms over infrastructure plans in Chicago 🏙️\n\nTAKEAWAY: The $2.1 billion Chicago infrastructure projects face delays amid the federal government shutdown, adding uncertainty to the city's development plans.",
       "exported_at": "2025-10-03T09:56:50.496890",
+      "continuous_session": true
+    },
+    {
+      "title": "For first-time job hunters, a college degree isn&apos;t unlocking the opportunities it once did, data shows",
+      "link": "https://www.cnbc.com/2025/10/03/job-market-new-grads-unemployment.html",
+      "summary": "Data shows young college grads are feeling the brunt of the labor market slowdown.",
+      "published": "Fri, 03 Oct 2025 14:02:23 GMT",
+      "content": "Data shows young college grads are feeling the brunt of the labor market slowdown.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "aa98ab0a18ab11d664fb66d5d0f70a77",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FOR FIRST-TIME JOB HUNTERS, DEGREE VALUE DIMINISHES 📉\n\n- Labor market slowdown hits young college grads hard 💔\n- Opportunities once unlocked by degrees now limited 🚫\n- Data reveals challenges faced by first-time job seekers 📉\n- College grads experiencing reduced job market benefits 📊\n- Shift in job market dynamics impacting recent graduates 🔄\n- Decreased value of degrees affects entry-level job seekers 💼\n\nTAKEAWAY: Recent data highlights how the value of a college degree is diminishing for first-time job hunters, signaling challenges ahead in the labor market.",
+      "exported_at": "2025-10-03T10:07:00.513238",
       "continuous_session": true
     }
   ]
