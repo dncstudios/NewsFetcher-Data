@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-03T12:19:53.686023",
-    "total_articles": 2065,
-    "new_articles_in_last_fetch": 2065,
+    "created_at": "2025-10-03T13:05:38.172133",
+    "total_articles": 2068,
+    "new_articles_in_last_fetch": 2068,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -26810,6 +26810,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCK FUTURES STALL AS AI TRADE DRIVES MARKET TO FRESH HIGHS 🚀\n\n- Major U.S. indexes hit record highs fueled by AI trade 📈\n- Market remains steady despite ongoing shutdown ⚠️\n- AI sector strength continues to drive market momentum 🤖\n\nTAKEAWAY: Despite a stagnant start in stock futures, the market hits fresh highs driven by AI trade, showcasing resilience amid the ongoing shutdown.",
       "exported_at": "2025-10-03T12:19:53.548462",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves midday: Wynn Resorts, Red Cat, SanDisk, Palantir &amp; more",
+      "link": "https://www.cnbc.com/2025/10/03/stocks-making-the-biggest-moves-midday-wynn-rcat-sndk-pltr.html",
+      "summary": "These are the stocks posting the largest moves midday.",
+      "published": "Fri, 03 Oct 2025 16:44:14 GMT",
+      "content": "These are the stocks posting the largest moves midday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0bde9f03284966740635cd34d30cfe87",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS MAKING BIGGEST MIDDAY MOVES 🚀\n\n- Wynn Resorts, Red Cat, SanDisk, Palantir show significant midday changes\n- Investors closely monitor fluctuating stock prices\n- Market volatility impacts various sectors\n\nTAKEAWAY: Stay alert as Wynn Resorts, Red Cat, SanDisk, Palantir, and others experience significant midday stock movements, reflecting market volatility.",
+      "exported_at": "2025-10-03T13:05:38.039817",
+      "continuous_session": true
+    },
+    {
+      "title": "Government shutdown: Senate to vote again on funding with little hope of passage",
+      "link": "https://www.cnbc.com/2025/10/03/government-shutdown-updates-thune-trump.html",
+      "summary": "The Trump administration, which was already working to shrink the size of government, said the shutdown could lead to layoffs of thousands of federal workers.",
+      "published": "Fri, 03 Oct 2025 16:52:03 GMT",
+      "content": "The Trump administration, which was already working to shrink the size of government, said the shutdown could lead to layoffs of thousands of federal workers.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ab985135df550600b10dd03e9d1a8074",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GOVERNMENT SHUTDOWN: SENATE FACES TOUGH VOTE 🚨\n\n- Senate to vote on funding with slim chance of passage\n- Shutdown could result in thousands of federal worker layoffs 💼\n- Trump's administration aims to reduce government size\n\nTAKEAWAY: Senate's challenging vote on funding amid shutdown risks thousands of federal worker layoffs, while Trump's admin continues to shrink government.",
+      "exported_at": "2025-10-03T13:05:38.039861",
+      "continuous_session": true
+    },
+    {
+      "title": "2026 will be the &apos;year of the used EV,&apos; analyst says. Here&apos;s why",
+      "link": "https://www.cnbc.com/2025/10/03/2026-will-be-the-year-of-the-used-ev-analyst-says-heres-why.html",
+      "summary": "Used electric vehicles are nearly at cost parity with gasoline cars — and are in some cases cheaper.",
+      "published": "Fri, 03 Oct 2025 15:57:02 GMT",
+      "content": "Used electric vehicles are nearly at cost parity with gasoline cars — and are in some cases cheaper.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "47256fb5ed942f2ca7d23665397adf48",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 2026: THE 'YEAR OF THE USED EV' 🚀\n\n- Analyst predicts 2026 as the turning point for used electric vehicles ⚡️\n- Used EVs nearing cost parity with gasoline cars, some even cheaper ✅\n- Shift towards affordability and sustainability driving the trend 🌿🔋\n\nTAKEAWAY: Analyst anticipates 2026 to mark the rise of used electric vehicles, as they approach cost parity with gasoline cars, fueled by affordability and sustainability trends.",
+      "exported_at": "2025-10-03T13:05:38.039876",
       "continuous_session": true
     }
   ]
