@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-03T15:33:38.928051",
-    "total_articles": 2081,
-    "new_articles_in_last_fetch": 2081,
+    "created_at": "2025-10-03T15:48:56.854538",
+    "total_articles": 2082,
+    "new_articles_in_last_fetch": 2082,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -27018,6 +27018,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BITCOIN SOARS NEAR RECORD HIGH, UP 12% IN WEEK 🚀\n\n- Bitcoin inches closer to all-time high 📈\n- Major cryptocurrencies end week in green 💚\n- George Kikvadze discusses bitcoin's evolution 🔍\n- Stablecoins gain traction in mainstream adoption 💪\n\nTAKEAWAY: Bitcoin's surge near record levels, alongside overall crypto market growth, signals a bullish trend as stablecoins make significant strides in adoption.",
       "exported_at": "2025-10-03T15:33:38.782000",
+      "continuous_session": true
+    },
+    {
+      "title": "Detroit auto stocks jump on report of tariff relief for U.S. vehicles",
+      "link": "https://www.cnbc.com/2025/10/03/ford-gm-stla-stock-tariffs.html",
+      "summary": "Stocks for General Motors, Ford Motor and Chrysler parent Stellantis shifted from trading level or down to up roughly 2% to 4% on the report from Reuters.",
+      "published": "Fri, 03 Oct 2025 19:39:43 GMT",
+      "content": "Stocks for General Motors, Ford Motor and Chrysler parent Stellantis shifted from trading level or down to up roughly 2% to 4% on the report from Reuters.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "927b3d0d7d1bdc61c1c74eb6917a2e6a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DETROIT AUTO STOCKS SURGE ON TARIFF RELIEF REPORT 🚀\n\n- General Motors, Ford, Stellantis stocks soar 2% to 4% 📈\n- Reuters report triggers upward shift in trading 📰\n- Market responds positively to news of potential tariff relief ✅\n\nTAKEAWAY: Detroit auto stocks experience a significant surge as reports of tariff relief for U.S. vehicles spark investor optimism and drive market momentum.",
+      "exported_at": "2025-10-03T15:48:56.700079",
       "continuous_session": true
     }
   ]
