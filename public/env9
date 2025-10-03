@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-03T10:17:15.833410",
-    "total_articles": 2052,
-    "new_articles_in_last_fetch": 2052,
+    "created_at": "2025-10-03T10:27:28.585027",
+    "total_articles": 2053,
+    "new_articles_in_last_fetch": 2053,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -26641,6 +26641,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP ADMIN DELAYS $2.1B CHICAGO INFRASTRUCTURE PROJECTS ⚠️\n\n- $2.1B Chicago projects paused due to federal govt shutdown 🏗️\n- Trump attributes delay to Democrats in Congress 🎯\n- Uncertainty looms over infrastructure plans in Chicago 🏙️\n\nTAKEAWAY: The $2.1 billion Chicago infrastructure projects face delays amid the federal government shutdown, adding uncertainty to the city's development plans.",
       "exported_at": "2025-10-03T10:17:15.686873",
+      "continuous_session": true
+    },
+    {
+      "title": "Asahi beers running out in Japan as cyberattack shutdown lingers",
+      "link": "https://www.cnbc.com/2025/10/03/asahi-beers-running-out-in-japan-as-cyberattack-shutdown-lingers.html",
+      "summary": "Asahi suspended operations in Japan on Monday, including order processing, shipping and call center functions after a cyberattack caused a system outage.",
+      "published": "Fri, 03 Oct 2025 14:18:31 GMT",
+      "content": "Asahi suspended operations in Japan on Monday, including order processing, shipping and call center functions after a cyberattack caused a system outage.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e1111c901ebe910a222f5368909336ac",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASAHI BEERS IN SHORT SUPPLY IN JAPAN DUE TO CYBERATTACK 🚨\n\n- Asahi operations halted in Japan post-cyberattack 🛑\n- Order processing, shipping, call center functions affected 📦📞\n- System outage causes suspension of operations 🖥️\n- Shortage of Asahi beers reported in Japan 🍺\n- Cyberattack impact leads to lingering shutdown ⚠️\n\nTAKEAWAY: Asahi's operations in Japan face challenges as a cyberattack causes system outage, leading to beer shortages and operational disruptions.",
+      "exported_at": "2025-10-03T10:27:28.431123",
       "continuous_session": true
     }
   ]
