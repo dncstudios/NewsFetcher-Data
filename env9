@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-04T17:57:18.308070",
-    "total_articles": 2120,
-    "new_articles_in_last_fetch": 2120,
+    "created_at": "2025-10-04T18:58:10.957532",
+    "total_articles": 2121,
+    "new_articles_in_last_fetch": 2121,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -27525,6 +27525,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: MARK SANCHEZ HOSPITALIZED AFTER STABBING IN INDIANAPOLIS 🚨\n\n- Ex-NFL QB Mark Sanchez stabbed in downtown Indy altercation\n- Incident leaves Sanchez hospitalized but in stable condition\n- Sanchez, Fox Sports analyst, involved in overnight attack\n- No further details disclosed regarding the altercation\n\nTAKEAWAY: Former NFL star Mark Sanchez's stabbing incident in Indianapolis leaves him hospitalized in stable condition, sparking concern and questions about the altercation.",
       "exported_at": "2025-10-04T17:57:18.164187",
+      "continuous_session": true
+    },
+    {
+      "title": "NFL analyst Mark Sanchez arrested while he was hospitalized with stab wounds",
+      "link": "https://www.cnbc.com/2025/10/04/nfl-mark-sanchez-stabbing-indianapolis.html",
+      "summary": "Former NFL quarterback and current Fox Sports analyst Mark Sanchez was arrested Saturday after he was apparently stabbed in an overnight altercation.",
+      "published": "Sat, 04 Oct 2025 22:56:59 GMT",
+      "content": "Former NFL quarterback and current Fox Sports analyst Mark Sanchez was arrested Saturday after he was apparently stabbed in an overnight altercation.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c7e3f4a91c6598703c26914e057082b8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MARK SANCHEZ ARRESTED AFTER HOSPITALIZATION WITH STAB WOUNDS ⚠️\n\n- Ex-NFL star Mark Sanchez arrested post-stabbing incident 🏈🚔\n- Sanchez, Fox Sports analyst, detained following altercation 📺⚠️\n- Incident occurred while Sanchez was hospitalized 🏥🔪\n\nTAKEAWAY: Mark Sanchez's arrest after being hospitalized with stab wounds shocks fans, raising questions about the incident's circumstances.",
+      "exported_at": "2025-10-04T18:58:10.796290",
       "continuous_session": true
     }
   ]
