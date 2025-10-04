@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-03T21:24:22.361668",
-    "total_articles": 2097,
-    "new_articles_in_last_fetch": 2097,
+    "created_at": "2025-10-03T21:34:36.829806",
+    "total_articles": 2098,
+    "new_articles_in_last_fetch": 2098,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -27226,6 +27226,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: INTERNATIONAL BRANDS EMBRACE CHINESE MARKET AMID ECONOMIC SLOWDOWN 🚀\n\n- Western brands pivot strategies to engage Chinese consumers 🌏\n- Focus on understanding cultural nuances and preferences 🎎\n- Efforts to crack the code amidst economic challenges 💡\n- Adapting marketing tactics to resonate with fickle Chinese market 📈\n- Embracing digital platforms to reach tech-savvy Chinese audience 💻\n- Revamping products to align with Chinese consumer preferences 🛍️\n\nTAKEAWAY: International brands are actively adapting their strategies to cater to the fickle Chinese consumer market, leveraging cultural insights and digital platforms to thrive amidst economic challenges.",
       "exported_at": "2025-10-03T21:24:22.336980",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump&apos;s $100,000 fee for H-1B worker visas challenged in lawsuit",
+      "link": "https://www.cnbc.com/2025/10/04/trumps-100000-fee-for-h-1b-worker-visas-challenged-in-lawsuit.html",
+      "summary": "The lawsuit filed in federal court in San Francisco is the first to challenge a proclamation Trump issued two weeks ago announcing the fee.",
+      "published": "Sat, 04 Oct 2025 01:31:13 GMT",
+      "content": "The lawsuit filed in federal court in San Francisco is the first to challenge a proclamation Trump issued two weeks ago announcing the fee.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "bd63dfbf6be5ae512e009632bda16dc0",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP'S $100,000 H-1B VISA FEE CHALLENGED IN LAWSUIT ⚠️\n\n- Lawsuit challenges Trump's $100,000 fee for H-1B visas 💸\n- Filed in federal court in San Francisco 🏛️\n- Proclamation issued by Trump two weeks ago under fire 🔥\n\nTAKEAWAY: The lawsuit challenging Trump's $100,000 fee for H-1B visas raises concerns about the impact on visa applicants and companies relying on skilled foreign workers.",
+      "exported_at": "2025-10-03T21:34:36.694272",
       "continuous_session": true
     }
   ]
