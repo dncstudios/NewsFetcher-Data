@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-04T17:26:49.374210",
-    "total_articles": 2119,
-    "new_articles_in_last_fetch": 2119,
+    "created_at": "2025-10-04T17:57:18.308070",
+    "total_articles": 2120,
+    "new_articles_in_last_fetch": 2120,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -27512,6 +27512,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NETANYAHU'S HOPE TO FREE GAZA HOSTAGES SOON 🚀\n\n- Netanyahu aims to announce release of all Gaza hostages\n- Israel, Hamas to engage in indirect talks in Egypt\n- Talks to focus on new U.S. plan to end war\n\nTAKEAWAY: Netanyahu's optimism about freeing Gaza hostages and upcoming talks in Egypt signals potential progress in ending the conflict.",
       "exported_at": "2025-10-04T17:26:49.211864",
+      "continuous_session": true
+    },
+    {
+      "title": "NFL analyst Mark Sanchez is hospitalized in stable condition after a stabbing in Indianapolis",
+      "link": "https://www.cnbc.com/2025/10/04/nfl-mark-sanchez-stabbing-indianapolis.html",
+      "summary": "Former NFL quarterback and current Fox Sports analyst Mark Sanchez was apparently stabbed in an overnight altercation in downtown Indianapolis.",
+      "published": "Sat, 04 Oct 2025 21:51:42 GMT",
+      "content": "Former NFL quarterback and current Fox Sports analyst Mark Sanchez was apparently stabbed in an overnight altercation in downtown Indianapolis.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9225ad405c676e5c481892194c163cf8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MARK SANCHEZ HOSPITALIZED AFTER STABBING IN INDIANAPOLIS 🚨\n\n- Ex-NFL QB Mark Sanchez stabbed in downtown Indy altercation\n- Incident leaves Sanchez hospitalized but in stable condition\n- Sanchez, Fox Sports analyst, involved in overnight attack\n- No further details disclosed regarding the altercation\n\nTAKEAWAY: Former NFL star Mark Sanchez's stabbing incident in Indianapolis leaves him hospitalized in stable condition, sparking concern and questions about the altercation.",
+      "exported_at": "2025-10-04T17:57:18.164187",
       "continuous_session": true
     }
   ]
