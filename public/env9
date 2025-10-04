@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-04T08:44:18.612716",
-    "total_articles": 2110,
-    "new_articles_in_last_fetch": 2110,
+    "created_at": "2025-10-04T09:19:56.703936",
+    "total_articles": 2113,
+    "new_articles_in_last_fetch": 2113,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -27395,6 +27395,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: U.S. URANIUM PLANT RISES AMID NUCLEAR EXPANSION 🚀\n\n- Urenco's plant is sole U.S. uranium enrichment site 🏭\n- Production ramp-up coincides with U.S. ban on Russian fuel 🚫\n- Nuclear power demand surge drives Urenco's growth 📈\n\nTAKEAWAY: Urenco's uranium plant expansion aligns with the U.S.'s nuclear power growth amidst the ban on Russian fuel, showcasing a strategic move to meet increasing demand.",
       "exported_at": "2025-10-04T08:44:18.459159",
+      "continuous_session": true
+    },
+    {
+      "title": "Activist Irenic builds a stake in Workiva, hoping to gain a voice on the software company&apos;s board",
+      "link": "https://www.cnbc.com/2025/10/04/activist-irenic-builds-a-stake-in-workiva-hoping-to-gain-two-board-seats.html",
+      "summary": "The activist investor is calling on Workiva to review strategic alternatives and refresh its board after years of posting losses.",
+      "published": "Sat, 04 Oct 2025 12:43:47 GMT",
+      "content": "The activist investor is calling on Workiva to review strategic alternatives and refresh its board after years of posting losses.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "aeb64a394c80ea4489a0a08f414c37c4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ACTIVIST IRENIC EYES WORKIVA BOARD SEAT 🚀\n\n- Irenic aims to influence Workiva's strategic direction 🔍\n- Workiva urged to reconsider strategy and board composition 🔄\n- Investor seeks change after company's recurring losses 📉\n\nTAKEAWAY: Activist Irenic's stake in Workiva signals a push for strategic changes and board refreshment following years of financial setbacks.",
+      "exported_at": "2025-10-04T09:19:56.551803",
+      "continuous_session": true
+    },
+    {
+      "title": "Lyft CEO left Microsoft in the 90s to join a tiny startup called Amazon—here&apos;s how Jeff Bezos convinced him",
+      "link": "https://www.cnbc.com/2025/10/04/how-jeff-bezos-convinced-lyft-ceo-to-quit-microsoft-join-amazon-in-the-90s.html",
+      "summary": "Lyft CEO David Risher admits leaving a multibillion-dollar business to join a 'tiny' online bookstore 'wasn't an entirely rational move.'",
+      "published": "Sat, 04 Oct 2025 13:00:01 GMT",
+      "content": "Lyft CEO David Risher admits leaving a multibillion-dollar business to join a 'tiny' online bookstore 'wasn't an entirely rational move.'",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8898e92806a2c1e85f1dd24304138e7e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: LYFT CEO'S RISKY MOVE TO JOIN AMAZON IN THE 90S 🚀\n\n- David Risher left Microsoft for Amazon in the 90s\n- Joining a 'tiny' online bookstore was seen as irrational\n- Jeff Bezos' vision and passion convinced Risher\n- Risher recalls the leap of faith to join Amazon\n- The decision led Risher to becoming the Lyft CEO\n\nTAKEAWAY: David Risher's bold move to leave Microsoft for Amazon in the 90s showcases the power of vision and passion in convincing top talent to take risks.",
+      "exported_at": "2025-10-04T09:19:56.551865",
+      "continuous_session": true
+    },
+    {
+      "title": "Parenting expert: This is one of the best things I did when my kids were born—&apos;they&apos;ll be glad it exists&apos;",
+      "link": "https://www.cnbc.com/2025/10/04/parenting-expert-this-is-one-of-the-best-things-i-did-when-my-kids-were-born.html",
+      "summary": "Child life specialist and therapist Kelsey Mora, who's worked with over 1,000 kids, created an email address for each of her children. Here's why — and how you can do it, too.",
+      "published": "Sat, 04 Oct 2025 13:00:01 GMT",
+      "content": "Child life specialist and therapist Kelsey Mora, who's worked with over 1,000 kids, created an email address for each of her children. Here's why — and how you can do it, too.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e2cd365d6c248a55f8e9d23edbc3fe63",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PARENTING EXPERT REVEALS GAME-CHANGING TIP FOR NEW PARENTS 🌟\n\n- Child expert creates email addresses for kids to cherish 💻\n- Kelsey Mora advises on setting up personal email for children\n- Over 1,000 kids benefit from therapist's innovative approach\n- Personalized email aids in documenting kids' growth\n- Parents urged to create digital legacy for their children\n- Mora's strategy ensures kids appreciate their digital footprint\n\nTAKEAWAY: Child specialist Kelsey Mora's idea of setting up personalized email addresses for kids revolutionizes parenting, creating a valuable digital legacy for the future.",
+      "exported_at": "2025-10-04T09:19:56.551873",
       "continuous_session": true
     }
   ]
