@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-04T09:19:56.703936",
-    "total_articles": 2113,
-    "new_articles_in_last_fetch": 2113,
+    "created_at": "2025-10-04T10:05:39.934347",
+    "total_articles": 2115,
+    "new_articles_in_last_fetch": 2115,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -27434,6 +27434,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: PARENTING EXPERT REVEALS GAME-CHANGING TIP FOR NEW PARENTS 🌟\n\n- Child expert creates email addresses for kids to cherish 💻\n- Kelsey Mora advises on setting up personal email for children\n- Over 1,000 kids benefit from therapist's innovative approach\n- Personalized email aids in documenting kids' growth\n- Parents urged to create digital legacy for their children\n- Mora's strategy ensures kids appreciate their digital footprint\n\nTAKEAWAY: Child specialist Kelsey Mora's idea of setting up personalized email addresses for kids revolutionizes parenting, creating a valuable digital legacy for the future.",
       "exported_at": "2025-10-04T09:19:56.551873",
+      "continuous_session": true
+    },
+    {
+      "title": "65-year-old furloughed by government shutdown: &apos;I could lose the house. I could lose my car. I could lose everything&apos;",
+      "link": "https://www.cnbc.com/2025/10/04/65-year-old-furloughed-by-government-shutdown-i-could-lose-everything.html",
+      "summary": "The government shutdown could put an immense amount of financial strain on low-wage workers, many of whom already live paycheck to paycheck, union leaders say.",
+      "published": "Sat, 04 Oct 2025 14:00:01 GMT",
+      "content": "The government shutdown could put an immense amount of financial strain on low-wage workers, many of whom already live paycheck to paycheck, union leaders say.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a65294543fdfb46c06748599b3385f6e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GOVERNMENT SHUTDOWN THREATENS WORKERS' FINANCIAL SECURITY ⚠️\n\n- Low-wage workers facing financial strain during shutdown 💸\n- Many workers at risk of losing homes, cars, everything 🏠🚗\n- Union leaders highlight impact on paycheck-to-paycheck workers 💼\n- Shutdown exacerbates already challenging financial situations 📉\n\nTAKEAWAY: The government shutdown intensifies financial pressure on low-wage workers, risking their homes, cars, and financial stability.",
+      "exported_at": "2025-10-04T10:05:39.770774",
+      "continuous_session": true
+    },
+    {
+      "title": "36-year-old American Air Force vet pays $850 to rent his 2-bedroom apartment in Vietnam— take a look inside",
+      "link": "https://www.cnbc.com/2025/10/04/american-air-force-vet-two-bedroom-vietnam-apartment.html",
+      "summary": "Markeiz Ryan moved to Vietnam in 2019 and lives in a two-bedroom apartment in Ho Chi Minh City.",
+      "published": "Sat, 04 Oct 2025 14:00:01 GMT",
+      "content": "Markeiz Ryan moved to Vietnam in 2019 and lives in a two-bedroom apartment in Ho Chi Minh City.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "758a526dde253eac1e0caf3b79c97610",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AMERICAN VET RENTS 2-BEDROOM APARTMENT IN VIETNAM FOR $850 🏠\n\n- 36-year-old American Air Force vet resides in Ho Chi Minh City 🇻🇳\n- Pays $850 monthly rent for his spacious two-bedroom apartment 💸\n- Moved to Vietnam in 2019 and embraced the vibrant lifestyle 🌏\n- Apartment showcases a glimpse of expat life in Ho Chi Minh City 🌆\n- Living costs in Vietnam offer affordability and comfort 📉\n- Markeiz Ryan's choice highlights expats' attraction to Vietnam 🧳\n\nTAKEAWAY: Markeiz Ryan's $850 two-bedroom apartment in Vietnam showcases the affordability and appeal of expat life in Ho Chi Minh City.",
+      "exported_at": "2025-10-04T10:05:39.770833",
       "continuous_session": true
     }
   ]
