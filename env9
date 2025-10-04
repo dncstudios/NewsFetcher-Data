@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-03T22:20:18.499681",
-    "total_articles": 2099,
-    "new_articles_in_last_fetch": 2099,
+    "created_at": "2025-10-04T06:37:00.723575",
+    "total_articles": 2100,
+    "new_articles_in_last_fetch": 2100,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -27252,6 +27252,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP CALLS FOR PEACE IN GAZA, NETANYAHU SIGNALS READINESS 🕊️\n\n- Trump urges Israel to halt Gaza bombings, cites Hamas peace readiness 🕊️\n- Netanyahu's office gears up for swift initiation of Trump's Gaza strategy 🚀\n\nTAKEAWAY: Trump's call for peace in Gaza and Netanyahu's quick response hint at potential progress towards stability in the region.",
       "exported_at": "2025-10-03T22:20:18.335620",
+      "continuous_session": true
+    },
+    {
+      "title": "Right-wing Sanae Takaichi is set to be Japan&apos;s first female prime minister",
+      "link": "https://www.cnbc.com/2025/10/04/sanae-takaichi-japan.html",
+      "summary": "Japan's ruling party picked hardline conservative Sanae Takaichi as its head, putting her on course to become the country's first female prime minister.",
+      "published": "Sat, 04 Oct 2025 10:21:48 GMT",
+      "content": "Japan's ruling party picked hardline conservative Sanae Takaichi as its head, putting her on course to become the country's first female prime minister.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "baea39930c74bbf3ab03c8dde9be23db",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 🚀 JAPAN'S FIRST FEMALE PRIME MINISTER: Sanae Takaichi's Historic Rise! 🇯🇵\n\n- Sanae Takaichi, a hardline conservative, chosen as ruling party head 🎯\n- Takaichi poised to make history as Japan's first female prime minister 🌟\n- Historic milestone for Japan's political landscape and gender equality ✊\n\nTAKEAWAY: Sanae Takaichi's selection as Japan's ruling party head marks a significant step towards gender equality and a new era in Japanese politics.",
+      "exported_at": "2025-10-04T06:37:00.564795",
       "continuous_session": true
     }
   ]
