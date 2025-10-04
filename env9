@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-04T10:05:39.934347",
-    "total_articles": 2115,
-    "new_articles_in_last_fetch": 2115,
+    "created_at": "2025-10-04T11:21:47.682885",
+    "total_articles": 2117,
+    "new_articles_in_last_fetch": 2117,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -27460,6 +27460,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AMERICAN VET RENTS 2-BEDROOM APARTMENT IN VIETNAM FOR $850 🏠\n\n- 36-year-old American Air Force vet resides in Ho Chi Minh City 🇻🇳\n- Pays $850 monthly rent for his spacious two-bedroom apartment 💸\n- Moved to Vietnam in 2019 and embraced the vibrant lifestyle 🌏\n- Apartment showcases a glimpse of expat life in Ho Chi Minh City 🌆\n- Living costs in Vietnam offer affordability and comfort 📉\n- Markeiz Ryan's choice highlights expats' attraction to Vietnam 🧳\n\nTAKEAWAY: Markeiz Ryan's $850 two-bedroom apartment in Vietnam showcases the affordability and appeal of expat life in Ho Chi Minh City.",
       "exported_at": "2025-10-04T10:05:39.770833",
+      "continuous_session": true
+    },
+    {
+      "title": "Investors may want to consider boosting their exposure abroad — even with U.S. stocks around record highs",
+      "link": "https://www.cnbc.com/2025/10/04/case-for-investing-abroad-despite-record-us-market-gains.html",
+      "summary": "\"Home bias is about as bad as it's ever been in the United States,\" ETF.com's Dave Nadig told CNBC's \"ETF Edge\" this week.",
+      "published": "Sat, 04 Oct 2025 15:00:01 GMT",
+      "content": "\"Home bias is about as bad as it's ever been in the United States,\" ETF.com's Dave Nadig told CNBC's \"ETF Edge\" this week.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c696db41379cb38b9dbc6a76d308acd8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: INVESTORS, IT'S TIME TO DIVERSIFY ABROAD 🌍\n\n- U.S. stocks at record highs, but consider boosting exposure overseas 📈\n- \"Home bias\" strong in the U.S., diversification crucial 🌐\n- Expert advises investors to look beyond domestic markets 🌎\n\nTAKEAWAY: Despite U.S. stocks hitting record highs, experts recommend diversifying abroad due to strong \"home bias\" in the market.",
+      "exported_at": "2025-10-04T11:21:47.658688",
+      "continuous_session": true
+    },
+    {
+      "title": "Week in review: Stocks jump despite shutdown; we bought more of our newest stocks",
+      "link": "https://www.cnbc.com/2025/10/04/week-in-review-stocks-jump-despite-shutdown-we-bought-more-of-our-newest-stocks.html",
+      "summary": "The S&amp;P 500 and Nasdaq logged four positive weeks out of the past five.",
+      "published": "Sat, 04 Oct 2025 15:14:20 GMT",
+      "content": "The S&amp;P 500 and Nasdaq logged four positive weeks out of the past five.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a1a776e42d73715cdf54065d38062697",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS RALLY DESPITE SHUTDOWN 🚀\n\n- S&P 500 and Nasdaq show positivity in 80% of last five weeks 📈\n- Market resilience shines through amidst shutdown concerns 💪\n- Investors remain confident in the market's strength 🌟\n\nTAKEAWAY: Despite shutdown worries, S&P 500 and Nasdaq demonstrate strong performance, reinforcing investor confidence in the market's resilience.",
+      "exported_at": "2025-10-04T11:21:47.658699",
       "continuous_session": true
     }
   ]
