@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-04T06:47:10.966319",
-    "total_articles": 2101,
-    "new_articles_in_last_fetch": 2101,
+    "created_at": "2025-10-04T07:43:00.340590",
+    "total_articles": 2102,
+    "new_articles_in_last_fetch": 2102,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -27278,6 +27278,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BITCOIN NEARS ALL-TIME HIGH AS SAFE HAVEN DURING SHUTDOWN 🚀\n\n- Bitcoin's price approaches record levels amidst US govt shutdown 📈\n- Cryptocurrency gains safe haven status during economic uncertainty ✅\n- Market anticipates potential surge to surpass previous peak 💥\n\nTAKEAWAY: Bitcoin's rally near the all-time high showcases its appeal as a safe haven asset during economic turmoil, fueling optimism for a potential surge beyond previous records.",
       "exported_at": "2025-10-04T06:47:10.801856",
+      "continuous_session": true
+    },
+    {
+      "title": "Year end is &apos;absolutely a great time&apos; to review your finances, CFP says: Here&apos;s what to do",
+      "link": "https://www.cnbc.com/2025/10/04/key-financial-steps-for-the-end-of-the-year.html",
+      "summary": "Experts say that the fourth quarter of the year is an opportunity to look back at your budget and to prepare for the upcoming new year. Here's what to know.",
+      "published": "Sat, 04 Oct 2025 11:30:02 GMT",
+      "content": "Experts say that the fourth quarter of the year is an opportunity to look back at your budget and to prepare for the upcoming new year. Here's what to know.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b6e53773909d569b5dd6133911af86e2",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: YEAR END FINANCIAL REVIEW ESSENTIAL FOR SUCCESS 🚀\n\n- Q4 ideal to reflect on budget & plan ahead for new year 🎯\n- Experts advise evaluating finances for year-end success 💰\n- Opportunity to assess expenses & set financial goals 🔍\n\nTAKEAWAY: Utilize the year-end period to review finances, set goals, and ensure a successful start to the upcoming year.",
+      "exported_at": "2025-10-04T07:43:00.180086",
       "continuous_session": true
     }
   ]
