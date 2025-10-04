@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-04T08:18:45.113195",
-    "total_articles": 2107,
-    "new_articles_in_last_fetch": 2107,
+    "created_at": "2025-10-04T08:23:55.032862",
+    "total_articles": 2108,
+    "new_articles_in_last_fetch": 2108,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -27356,6 +27356,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BANK OF AMERICA'S TOP 5 STOCK PICKS FOR OCTOBER 🚀\n\n- Bank of America recommends buying Disney and four other stocks 📈\n- These stocks expected to show strong performance in October 💪\n- Disney highlighted as a standout pick among the selected stocks 🌟\n- Bank of America's stock selections aim for growth opportunities 📈\n- Investors advised to consider these stocks for potential gains 💰\n\nTAKEAWAY: Bank of America's top 5 stock picks for October, including Disney, offer promising growth opportunities for investors seeking potential gains.",
       "exported_at": "2025-10-04T08:18:44.977710",
+      "continuous_session": true
+    },
+    {
+      "title": "Robinhood and these other stocks are overbought after another record-setting week on Wall Street",
+      "link": "https://www.cnbc.com/2025/10/04/robinhood-these-other-stocks-are-overbought-after-another-record-setting-week-on-wall-street.html",
+      "summary": "Using the CNBC Pro stock screener tool, we found the most overbought and oversold stocks on Wall Street sorted by their 14-day relative strength index, or RSI.",
+      "published": "Sat, 04 Oct 2025 12:23:30 GMT",
+      "content": "Using the CNBC Pro stock screener tool, we found the most overbought and oversold stocks on Wall Street sorted by their 14-day relative strength index, or RSI.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "41d54bf5529177eea8a371ec5548e2c5",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ROBINHOOD & OTHER STOCKS OVERBOUGHT AFTER RECORD WEEK 🚀\n\n- Robinhood and other stocks overbought post record-setting week 📈\n- Identified through CNBC Pro stock screener tool 🛠️\n- Sorted by 14-day Relative Strength Index (RSI) 📊\n- Indicates high buying activity and potential reversal ⚠️\n- Investors should watch for possible corrections 🧐\n\nTAKEAWAY: Robinhood and several stocks are overbought after a historic week on Wall Street, signaling potential corrections and caution for investors.",
+      "exported_at": "2025-10-04T08:23:54.867837",
       "continuous_session": true
     }
   ]
