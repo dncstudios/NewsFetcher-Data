@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-04T07:43:00.340590",
-    "total_articles": 2102,
-    "new_articles_in_last_fetch": 2102,
+    "created_at": "2025-10-04T08:13:35.946548",
+    "total_articles": 2106,
+    "new_articles_in_last_fetch": 2106,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -27291,6 +27291,58 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: YEAR END FINANCIAL REVIEW ESSENTIAL FOR SUCCESS 🚀\n\n- Q4 ideal to reflect on budget & plan ahead for new year 🎯\n- Experts advise evaluating finances for year-end success 💰\n- Opportunity to assess expenses & set financial goals 🔍\n\nTAKEAWAY: Utilize the year-end period to review finances, set goals, and ensure a successful start to the upcoming year.",
       "exported_at": "2025-10-04T07:43:00.180086",
+      "continuous_session": true
+    },
+    {
+      "title": "AI Sam Altman and the Sora copyright gamble: &apos;I hope Nintendo doesn&apos;t sue us&apos;",
+      "link": "https://www.cnbc.com/2025/10/04/sora-openai-video-app.html",
+      "summary": "CNBC has seen videos of characters from shows like \"SpongeBob SquarePants\" on the platform and was able to independently generate other characters.",
+      "published": "Sat, 04 Oct 2025 12:00:01 GMT",
+      "content": "CNBC has seen videos of characters from shows like \"SpongeBob SquarePants\" on the platform and was able to independently generate other characters.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "96236ef7c225bc43144f4523a5c83d66",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AI SAM ALTMAN'S SORA COPYRIGHT GAMBLE: NINTENDO LAWSUIT RISK? ⚠️\n\n- AI generates characters like \"SpongeBob SquarePants\" without permission 🧽\n- CNBC witnesses platform creating various characters independently 🤖\n- Uncertainty looms over potential copyright infringement risks 🤔\n\nTAKEAWAY: AI Sam Altman's Sora platform risks copyright infringement with unauthorized character generation, raising concerns about potential legal action from companies like Nintendo.",
+      "exported_at": "2025-10-04T08:13:35.798240",
+      "continuous_session": true
+    },
+    {
+      "title": "The bubble in people searching for &apos;AI bubble&apos; has burst — what that means for the stocks",
+      "link": "https://www.cnbc.com/2025/10/04/the-bubble-in-people-searching-for-ai-bubble-has-burst-what-that-means-for-the-stocks.html",
+      "summary": "Web searches for the term \"AI bubble\" have declined since peaking last month, but some analysts expect a bigger bubble to emerge out of the trade.",
+      "published": "Sat, 04 Oct 2025 12:10:41 GMT",
+      "content": "Web searches for the term \"AI bubble\" have declined since peaking last month, but some analysts expect a bigger bubble to emerge out of the trade.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0ff7287e1e361b14d33fa81d1bd4970a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: THE AI BUBBLE BURSTS: STOCKS AT RISK? 📉\n\n- Searches for \"AI bubble\" dwindle post-peak 📉\n- Analysts foresee potential rise of a larger bubble 💭\n- Uncertainty looms over future stock market impact 🤔\n\nTAKEAWAY: The decline in searches for \"AI bubble\" hints at a potential risk for stocks as analysts predict the emergence of a larger bubble in the trade sector.",
+      "exported_at": "2025-10-04T08:13:35.798299",
+      "continuous_session": true
+    },
+    {
+      "title": "Government shutdown: Senate funding measures fail again as deadlock continues",
+      "link": "https://www.cnbc.com/2025/10/03/government-shutdown-updates-thune-trump.html",
+      "summary": "The Trump administration, which was already working to shrink the size of government, said the shutdown could lead to layoffs of thousands of federal workers.",
+      "published": "Fri, 03 Oct 2025 19:07:27 GMT",
+      "content": "The Trump administration, which was already working to shrink the size of government, said the shutdown could lead to layoffs of thousands of federal workers.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2f4efa7d0e50f04c84bd604bcc842c87",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GOVERNMENT SHUTDOWN: SENATE FACES TOUGH VOTE 🚨\n\n- Senate to vote on funding with slim chance of passage\n- Shutdown could result in thousands of federal worker layoffs 💼\n- Trump's administration aims to reduce government size\n\nTAKEAWAY: Senate's challenging vote on funding amid shutdown risks thousands of federal worker layoffs, while Trump's admin continues to shrink government.",
+      "exported_at": "2025-10-04T08:13:35.798315",
+      "continuous_session": true
+    },
+    {
+      "title": "Jane Goodall adopted a plant-based diet back in the 1960s: It was key to her activism and a long, healthy life",
+      "link": "https://www.cnbc.com/2025/10/04/why-jane-goodall-adopted-a-plant-based-diet-back-in-the-1960s.html",
+      "summary": "In the 1960s, Jane Goodall stopped eating meat. \"I became vegan for ethical reasons,\" she said earlier this year.",
+      "published": "Sat, 04 Oct 2025 12:00:01 GMT",
+      "content": "In the 1960s, Jane Goodall stopped eating meat. \"I became vegan for ethical reasons,\" she said earlier this year.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b76943981d751cbdd008e627e3f1d472",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JANE GOODALL'S VEGAN DIET: A KEY TO ACTIVISM AND HEALTH 🌱\n\n- Jane Goodall adopted a plant-based diet in the 1960s 🌿\n- Her choice was driven by ethical reasons 💚\n- Veganism played a crucial role in her activism 🦍\n- Goodall's diet contributed to her long and healthy life 🌟\n- She continues to promote ethical and sustainable living 🌍\n\nTAKEAWAY: Jane Goodall's early adoption of a vegan diet not only fueled her activism but also contributed to her long and healthy life, inspiring others towards ethical and sustainable living.",
+      "exported_at": "2025-10-04T08:13:35.798326",
       "continuous_session": true
     }
   ]
