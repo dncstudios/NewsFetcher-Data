@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-05T11:22:54.527543",
-    "total_articles": 2144,
-    "new_articles_in_last_fetch": 2144,
+    "created_at": "2025-10-05T11:48:22.325947",
+    "total_articles": 2145,
+    "new_articles_in_last_fetch": 2145,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -27837,6 +27837,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BRENE BROWN ON GOOD COMMUNICATION: EMBRACE DISCOMFORT! 🚀\n\n- Brené Brown: Good communication requires vulnerability 💬\n- Key to better communication: tolerance for discomfort 😬\n- Brown shares 3 phrases to navigate conflicts effectively 🌟\n\nTAKEAWAY: Embracing discomfort and vulnerability is key to becoming a better communicator, according to Brené Brown.",
       "exported_at": "2025-10-05T11:22:54.377908",
+      "continuous_session": true
+    },
+    {
+      "title": "&apos;There will start to be layoffs&apos; if Trump decides shutdown talks have stalled, Hassett says",
+      "link": "https://www.cnbc.com/2025/10/05/trump-layoffs-government-shutdown-kevin-hassett-.html",
+      "summary": "Democrats are holding firm on their health-care demands, pushing to include a permanent extension of enhanced premium tax credits in funding legislation.",
+      "published": "Sun, 05 Oct 2025 15:44:20 GMT",
+      "content": "Democrats are holding firm on their health-care demands, pushing to include a permanent extension of enhanced premium tax credits in funding legislation.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6cd58f1410f85d5bbfb6e65ab6188b95",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: LAYOFFS LOOM IF TRUMP HALTS SHUTDOWN TALKS, WARNS HASSETT ⚠️\n\n- Hassett warns of potential layoffs if shutdown talks stall 📉\n- Democrats stand firm on health-care demands 🏥\n- Push for permanent extension of enhanced premium tax credits 💸\n- Uncertainty surrounds funding legislation negotiations 🤔\n\nTAKEAWAY: Potential for layoffs looms as Democrats push for health-care demands in funding legislation, creating uncertainty in negotiations.",
+      "exported_at": "2025-10-05T11:48:22.171111",
       "continuous_session": true
     }
   ]
