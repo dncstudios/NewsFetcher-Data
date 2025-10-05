@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-05T07:58:56.481146",
-    "total_articles": 2125,
-    "new_articles_in_last_fetch": 2125,
+    "created_at": "2025-10-05T08:04:09.968360",
+    "total_articles": 2129,
+    "new_articles_in_last_fetch": 2129,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -27590,6 +27590,58 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP'S TAX CHANGES IMPACT YEAR-END CHARITABLE GIVING 🚀\n\n- Trump's tax bill alters charitable giving landscape 🌟\n- Changes may affect deductions for donations 📉\n- Donors urged to consider tax implications before giving 💸\n- Details on how Trump's bill could influence your donations 🤔\n\nTAKEAWAY: President Trump's tax changes have reshaped the landscape of year-end charitable giving, prompting donors to carefully consider the impact on deductions before making contributions.",
       "exported_at": "2025-10-05T07:58:56.456489",
+      "continuous_session": true
+    },
+    {
+      "title": "At 95, Warren Buffett proves he’s still the sharpest dealmaker with $10 billion OxyChem deal",
+      "link": "https://www.cnbc.com/2025/10/05/at-95-buffett-is-still-sharpest-dealmaker-with-10-billion-oxychem-deal.html",
+      "summary": "The transaction reflects Buffett's investment acumen: buying a good business at an attractive price, while skirting the possibility of costly headaches.",
+      "published": "Sun, 05 Oct 2025 12:00:01 GMT",
+      "content": "The transaction reflects Buffett's investment acumen: buying a good business at an attractive price, while skirting the possibility of costly headaches.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a4c75b66ff49138a07c3a6f5e2579083",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WARREN BUFFETT, 95, MAKES $10B DEAL SHOWCASING DEALMAKING GENIUS 🚀\n\n- Buffett, aged 95, demonstrates sharp dealmaking skills 💪\n- $10 billion OxyChem deal highlights his investment acumen 📈\n- Focus on buying quality assets at lucrative prices 🎯\n- Deal structured to avoid potential costly complications ⚠️\n\nTAKEAWAY: Warren Buffett, at 95, continues to exhibit his dealmaking prowess with a strategic $10 billion OxyChem transaction, emphasizing his focus on acquiring valuable assets at favorable prices.",
+      "exported_at": "2025-10-05T08:04:09.822808",
+      "continuous_session": true
+    },
+    {
+      "title": "Top Wall Street analysts recommend these 3 dividend stocks for stable returns",
+      "link": "https://www.cnbc.com/2025/10/05/top-wall-street-analysts-recommend-these-3-dividend-stocks-for-stable-returns.html",
+      "summary": "TipRanks' ranking service discusses three dividend-paying stocks, including Brookfield Infrastructure Partners and Ares Capital.",
+      "published": "Sun, 05 Oct 2025 12:00:01 GMT",
+      "content": "TipRanks' ranking service discusses three dividend-paying stocks, including Brookfield Infrastructure Partners and Ares Capital.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f1bb69d073ea124ea17c15105581cedd",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TOP WALL STREET ANALYSTS PICK 3 DIVIDEND STOCKS FOR STABLE RETURNS 📈\n\n- TipRanks highlights Brookfield Infrastructure Partners & Ares Capital 🌟\n- Emphasis on stable returns & dividends 💰\n- Analysts recommend these stocks for long-term investors 📈\n\nTAKEAWAY: Top analysts advise investors on 3 dividend stocks like Brookfield Infrastructure Partners and Ares Capital for stable returns and steady income.",
+      "exported_at": "2025-10-05T08:04:09.822876",
+      "continuous_session": true
+    },
+    {
+      "title": "Chip stocks have had quite a run this year. Technicals say be careful from here",
+      "link": "https://www.cnbc.com/2025/10/05/chip-stocks-have-had-quite-a-run-this-year-technicals-say-be-careful-from-here.html",
+      "summary": "Semiconductor stocks have been on a tear and rank among the best performers this year.",
+      "published": "Sun, 05 Oct 2025 12:00:01 GMT",
+      "content": "Semiconductor stocks have been on a tear and rank among the best performers this year.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c192497eb620d4da842c6f140196e84f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CHIP STOCKS ON A ROLL THIS YEAR, BUT CAUTION AHEAD ⚠️\n\n- Semiconductor stocks top performance charts 📈\n- Market technicals signal caution for investors 🚨\n- Chip sector's impressive run raises concerns ⚠️\n- Industry's rapid growth sparks investor interest 🔥\n- Analysts warn of potential risks in chip stocks ⚠️\n\nTAKEAWAY: While chip stocks have surged in performance, caution is advised as market technicals indicate potential risks ahead for investors.",
+      "exported_at": "2025-10-05T08:04:09.822887",
+      "continuous_session": true
+    },
+    {
+      "title": "This drone stock is a buy and has major upside potential, Needham says",
+      "link": "https://www.cnbc.com/2025/10/05/this-drone-stock-is-a-buy-and-has-major-upside-potential-needham-says.html",
+      "summary": "Drone technology company Red Cat is poised to grow as it expands its product offerings, particularly as defense spending rises globally, according to Needham.",
+      "published": "Sun, 05 Oct 2025 12:00:01 GMT",
+      "content": "Drone technology company Red Cat is poised to grow as it expands its product offerings, particularly as defense spending rises globally, according to Needham.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4d24ce31b187362f09c59bbd1fbc8ee2",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DRONE STOCK RED CAT PRIMED FOR GROWTH, NEEDHAM SAYS 🚀\n\n- Red Cat set to expand product offerings\n- Needham sees major upside potential\n- Global defense spending increase boosts prospects\n\nTAKEAWAY: Needham's bullish outlook on Red Cat indicates significant growth potential as the company expands its product line amidst a global rise in defense spending.",
+      "exported_at": "2025-10-05T08:04:09.822903",
       "continuous_session": true
     }
   ]
