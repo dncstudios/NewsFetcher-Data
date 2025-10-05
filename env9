@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-05T12:23:55.622831",
-    "total_articles": 2146,
-    "new_articles_in_last_fetch": 2146,
+    "created_at": "2025-10-05T12:29:05.387447",
+    "total_articles": 2147,
+    "new_articles_in_last_fetch": 2147,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -27863,6 +27863,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP MOBILIZES 300 TROOPS IN ILLINOIS, DESPITE OREGON SETBACK 🚨\n\n- Trump deploys 300 Illinois National Guard troops for Chicago protection 🛡️\n- Troops aimed at safeguarding federal officers and assets 🏛️\n- Judge blocks similar mobilization in Oregon 🚫\n\nTAKEAWAY: Trump's move to federalize 300 troops in Illinois for Chicago protection contrasts with a judge blocking a similar mobilization in Oregon, showcasing differing responses to federal intervention.",
       "exported_at": "2025-10-05T12:23:55.473863",
+      "continuous_session": true
+    },
+    {
+      "title": "Here are the 3 big things we&apos;re watching in the stock market this week",
+      "link": "https://www.cnbc.com/2025/10/05/3-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+      "summary": "The longer the shutdown drags on, the more impact it may have on Wall Street.",
+      "published": "Sun, 05 Oct 2025 16:11:13 GMT",
+      "content": "The longer the shutdown drags on, the more impact it may have on Wall Street.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "74bc65700b9dff4b6b11e9447c419e0f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 3 BIG STOCK MARKET WATCHES THIS WEEK 📊\n\n- Wall Street's vulnerability increases with prolonged shutdown ⚠️\n- Market response hinges on shutdown duration 📈\n- Uncertainty looms over stock market due to ongoing shutdown 🌩️\n\nTAKEAWAY: The stock market faces uncertainty and vulnerability as the shutdown prolongs, impacting Wall Street's performance.",
+      "exported_at": "2025-10-05T12:29:05.234146",
       "continuous_session": true
     }
   ]
