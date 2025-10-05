@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-05T15:26:33.840376",
-    "total_articles": 2148,
-    "new_articles_in_last_fetch": 2148,
+    "created_at": "2025-10-05T18:13:54.232025",
+    "total_articles": 2150,
+    "new_articles_in_last_fetch": 2150,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -27889,6 +27889,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: EX-NFL QUARTERBACK MARK SANCHEZ STABBED IN ALTERCATION ⚠️\n\n- Mark Sanchez stabbed multiple times in Indy alley altercation 🤕\n- Altercation involves 69-year-old truck driver 🚛\n- Incident occurred in downtown Indianapolis late at night 🌙\n\nTAKEAWAY: Ex-NFL quarterback Mark Sanchez faces charges after being stabbed multiple times in an altercation with a truck driver in an Indianapolis alley.",
       "exported_at": "2025-10-05T15:26:33.687609",
+      "continuous_session": true
+    },
+    {
+      "title": "Stock futures are little changed after a record-setting week as government shutdown continues: Live updates",
+      "link": "https://www.cnbc.com/2025/10/05/stock-market-today-live-updates.html",
+      "summary": "Stock futures were little changed Sunday night as a U.S. government shutdown carried on following a week in which Wall Street scaled to record highs.",
+      "published": "Sun, 05 Oct 2025 22:04:04 GMT",
+      "content": "Stock futures were little changed Sunday night as a U.S. government shutdown carried on following a week in which Wall Street scaled to record highs.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "be365405f510bca0551cc69f9b6656b8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK FUTURES STABLE DESPITE GOVERNMENT SHUTDOWN 📉\n\n- Stock futures hold steady after record-setting week 📊\n- U.S. government shutdown ongoing, impacting market sentiment ⚠️\n- Wall Street reached new highs despite shutdown concerns ✅\n\nTAKEAWAY: Despite the U.S. government shutdown, stock futures remain stable after a record-setting week on Wall Street.",
+      "exported_at": "2025-10-05T18:13:54.070136",
+      "continuous_session": true
+    },
+    {
+      "title": "When it seems nothing can take the stock market down, follow this one rule",
+      "link": "https://www.cnbc.com/2025/10/05/cramer-when-it-seems-nothing-can-take-the-market-down-follow-this-rule.html",
+      "summary": "Here's why there appears to be no end to this speculative bull market, which encompasses all things data center. And, what to do about it.",
+      "published": "Sun, 05 Oct 2025 21:48:53 GMT",
+      "content": "Here's why there appears to be no end to this speculative bull market, which encompasses all things data center. And, what to do about it.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d1f19e32bd628961b6adcbd681e4e7b3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WHEN NOTHING CAN STOP THE STOCK MARKET 🚀\n\n- Speculative bull market shows no signs of slowing down 📈\n- Data center sector driving the market momentum 🖥️\n- Investors seek guidance on navigating this trend 💼\n- Strategies to capitalize on the unstoppable market 📈\n- Uncertainty looms despite the market's resilience ⚠️\n\nTAKEAWAY: The relentless rise of the stock market, fueled by the data center sector, presents opportunities for investors, but caution is advised due to lingering uncertainties.",
+      "exported_at": "2025-10-05T18:13:54.070189",
       "continuous_session": true
     }
   ]
