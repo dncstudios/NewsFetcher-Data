@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-05T10:47:12.938784",
-    "total_articles": 2141,
-    "new_articles_in_last_fetch": 2141,
+    "created_at": "2025-10-05T10:52:22.113405",
+    "total_articles": 2142,
+    "new_articles_in_last_fetch": 2142,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -27798,6 +27798,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: PROPERTY PLAY: PROLOGIS, AMAZON, META JOIN LOW-CARBON CONCRETE PACT 🌿\n\n- Prologis, Amazon, Meta unite for eco-friendly concrete pact 🌍\n- Concrete production = 8% of global greenhouse gas emissions 🏭\n- Collaboration aims to reduce carbon footprint in real estate 🏢\n- Focus on sustainable practices in construction industry 🌱\n- Initiative addresses environmental impact of concrete manufacturing 🌿\n- World Economic Forum data highlights urgent need for change 🌎\n\nTAKEAWAY: Prologis, Amazon, and Meta's partnership to adopt low-carbon concrete practices signals a significant step towards reducing greenhouse gas emissions in the real estate sector. 🌿",
       "exported_at": "2025-10-05T10:47:12.779692",
+      "continuous_session": true
+    },
+    {
+      "title": "Ex-QB, Fox NFL analyst Mark Sanchez arrested in hospital after stabbing incident",
+      "link": "https://www.cnbc.com/2025/10/04/nfl-mark-sanchez-stabbing-indianapolis.html",
+      "summary": "Sanchez was arrested in an Indianapolis hospital on Saturday after being stabbed in the chest in an early-morning incident in the city.",
+      "published": "Sun, 05 Oct 2025 14:51:53 GMT",
+      "content": "Sanchez was arrested in an Indianapolis hospital on Saturday after being stabbed in the chest in an early-morning incident in the city.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "093d1ec3abb38e3325f9179344726834",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MARK SANCHEZ ARRESTED AFTER STABBING INCIDENT 🚨\n\n- Former QB Mark Sanchez arrested in Indianapolis hospital\n- Sanchez stabbed in the chest during early-morning incident\n- Incident occurred in the city, leading to Sanchez's arrest\n\nTAKEAWAY: Former NFL analyst Mark Sanchez's arrest after a stabbing incident in an Indianapolis hospital raises concerns about his safety and well-being.",
+      "exported_at": "2025-10-05T10:52:21.972731",
       "continuous_session": true
     }
   ]
