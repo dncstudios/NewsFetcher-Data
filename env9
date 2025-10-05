@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-05T08:04:09.968360",
-    "total_articles": 2129,
-    "new_articles_in_last_fetch": 2129,
+    "created_at": "2025-10-05T08:09:19.391857",
+    "total_articles": 2130,
+    "new_articles_in_last_fetch": 2130,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -27642,6 +27642,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: DRONE STOCK RED CAT PRIMED FOR GROWTH, NEEDHAM SAYS 🚀\n\n- Red Cat set to expand product offerings\n- Needham sees major upside potential\n- Global defense spending increase boosts prospects\n\nTAKEAWAY: Needham's bullish outlook on Red Cat indicates significant growth potential as the company expands its product line amidst a global rise in defense spending.",
       "exported_at": "2025-10-05T08:04:09.822903",
+      "continuous_session": true
+    },
+    {
+      "title": "This Meta alum has spent 10 months leading OpenAI&apos;s nationwide hunt for its Stargate data centers",
+      "link": "https://www.cnbc.com/2025/10/05/openai-stargate-data-center-buildout-infrastructure-lead-keith-heyde.html",
+      "summary": "OpenAI's effort to build a massive industrial base to power the future of artificial intelligence is being led by Keith Heyde.",
+      "published": "Sun, 05 Oct 2025 12:00:01 GMT",
+      "content": "OpenAI's effort to build a massive industrial base to power the future of artificial intelligence is being led by Keith Heyde.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e351bf16dac9aa01b79fd233a92b2d11",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: META ALUM LEADS OPENAI'S NATIONWIDE STARGATE DATA CENTER QUEST 🚀\n\n- Keith Heyde spearheads OpenAI's quest for Stargate data centers 🌌\n- 10 months dedicated to building a robust AI-industrial base 🏗️\n- Focus on powering the future of artificial intelligence 🤖\n- Nationwide hunt for ideal locations and infrastructure 🌐\n- Heyde's leadership pivotal in OpenAI's strategic growth 🌟\n\nTAKEAWAY: With Keith Heyde at the helm, OpenAI is strategically positioning itself for a powerful future in artificial intelligence by spearheading the nationwide search for Stargate data centers.",
+      "exported_at": "2025-10-05T08:09:19.367374",
       "continuous_session": true
     }
   ]
