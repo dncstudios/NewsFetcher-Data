@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-05T09:51:09.573728",
-    "total_articles": 2136,
-    "new_articles_in_last_fetch": 2136,
+    "created_at": "2025-10-05T10:06:27.893342",
+    "total_articles": 2138,
+    "new_articles_in_last_fetch": 2138,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -27733,6 +27733,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: 'NUCLEAR IN MY BACKYARD?' AMERICA EMBRACES SMALL MODULAR REACTORS 🚀\n\n- Small modular reactors gaining popularity in the U.S. 📈\n- Communities see potential for job creation and economic growth 💼💰\n- Nuclear power making a comeback in the market 📈\n- Shift in attitude towards nuclear energy observed 🔄\n- Small modular reactors becoming integral to the energy landscape ⚡️\n- Positive outlook on nuclear as a clean energy source 🌱\n\nTAKEAWAY: America's increasing acceptance of small modular reactors signals a shift towards embracing nuclear energy for economic growth and clean energy production.",
       "exported_at": "2025-10-05T09:51:09.549225",
+      "continuous_session": true
+    },
+    {
+      "title": "Property Play: Prologis, Amazon and Meta sign low-carbon concrete pact",
+      "link": "https://www.cnbc.com/2025/10/05/prologis-amazon-and-meta-sign-low-carbon-concrete-pact.html",
+      "summary": "Concrete manufacturing, and especially cement production, accounts for 8% of global greenhouse gas emissions, according to the World Economic Forum.",
+      "published": "Sun, 05 Oct 2025 14:05:25 GMT",
+      "content": "Concrete manufacturing, and especially cement production, accounts for 8% of global greenhouse gas emissions, according to the World Economic Forum.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c291802c2f5495d1ca01690573bdea1c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PROPERTY PLAY: PROLOGIS, AMAZON, META JOIN LOW-CARBON CONCRETE PACT 🌿\n\n- Prologis, Amazon, Meta unite for eco-friendly concrete pact 🌍\n- Concrete production = 8% of global greenhouse gas emissions 🏭\n- Collaboration aims to reduce carbon footprint in real estate 🏢\n- Focus on sustainable practices in construction industry 🌱\n- Initiative addresses environmental impact of concrete manufacturing 🌿\n- World Economic Forum data highlights urgent need for change 🌎\n\nTAKEAWAY: Prologis, Amazon, and Meta's partnership to adopt low-carbon concrete practices signals a significant step towards reducing greenhouse gas emissions in the real estate sector. 🌿",
+      "exported_at": "2025-10-05T10:06:27.721257",
+      "continuous_session": true
+    },
+    {
+      "title": "Israel and Hamas prepare for negotiations in Egypt ahead of possible ceasefire",
+      "link": "https://www.cnbc.com/2025/10/05/israel-hamas-egypt-ceasefire-talks.html",
+      "summary": "Hopes for a possible ceasefire began to build and Prime Minister Benjamin Netanyahu said a truce and hostage release could take shape this week.",
+      "published": "Sun, 05 Oct 2025 14:03:05 GMT",
+      "content": "Hopes for a possible ceasefire began to build and Prime Minister Benjamin Netanyahu said a truce and hostage release could take shape this week.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1cccd6c9a52a5c7c29e2b7a265008a6d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ISRAEL AND HAMAS NEGOTIATE TRUCE IN EGYPT 🚀\n\n- Israel and Hamas increase hopes for ceasefire talks 🕊️\n- Prime Minister Netanyahu anticipates truce and hostage release soon 🕰️\n- Negotiations set in Egypt to pave the way for peace 🕊️\n\nTAKEAWAY: Israel and Hamas show positive signs towards a potential ceasefire, boosting hopes for peace in the region.",
+      "exported_at": "2025-10-05T10:06:27.721354",
       "continuous_session": true
     }
   ]
