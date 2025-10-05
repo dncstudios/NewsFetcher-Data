@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-05T06:17:26.951770",
-    "total_articles": 2124,
-    "new_articles_in_last_fetch": 2124,
+    "created_at": "2025-10-05T07:58:56.481146",
+    "total_articles": 2125,
+    "new_articles_in_last_fetch": 2125,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -27577,6 +27577,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JUDGE BLOCKS TRUMP'S USE OF NATIONAL GUARD IN PORTLAND ⚠️\n\n- Court ruling halts Trump's plan to deploy military in Democratic cities 🛑\n- Setback for administration as National Guard use paused ⏸️\n- Trump appeals against the decision 📝\n\nTAKEAWAY: A judge's decision to block the use of National Guard in Portland is a setback for the Trump administration's plans, leading to an appeal for further action.",
       "exported_at": "2025-10-05T06:17:26.799349",
+      "continuous_session": true
+    },
+    {
+      "title": "How Trump&apos;s tax changes could impact your year-end charitable giving",
+      "link": "https://www.cnbc.com/2025/10/05/trumps-tax-changes-charitable-giving.html",
+      "summary": "President Donald Trump's \"big beautiful bill\" made tax changes that could impact your year-end charitable giving. Here are the things to know.",
+      "published": "Sun, 05 Oct 2025 11:30:01 GMT",
+      "content": "President Donald Trump's \"big beautiful bill\" made tax changes that could impact your year-end charitable giving. Here are the things to know.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9e6ea6cb7f1c8d0a2e2b5d804f1a3277",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP'S TAX CHANGES IMPACT YEAR-END CHARITABLE GIVING 🚀\n\n- Trump's tax bill alters charitable giving landscape 🌟\n- Changes may affect deductions for donations 📉\n- Donors urged to consider tax implications before giving 💸\n- Details on how Trump's bill could influence your donations 🤔\n\nTAKEAWAY: President Trump's tax changes have reshaped the landscape of year-end charitable giving, prompting donors to carefully consider the impact on deductions before making contributions.",
+      "exported_at": "2025-10-05T07:58:56.456489",
       "continuous_session": true
     }
   ]
