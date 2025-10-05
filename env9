@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-05T10:42:06.294704",
-    "total_articles": 2140,
-    "new_articles_in_last_fetch": 2140,
+    "created_at": "2025-10-05T10:47:12.938784",
+    "total_articles": 2141,
+    "new_articles_in_last_fetch": 2141,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -27785,6 +27785,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: OPEC+ OPTS FOR MODEST OIL HIKE AMID SUPPLY GLUT FEARS 🛢️\n\n- OPEC+ to increase oil output by 137,000 barrels/day in November 📈\n- Decision made amidst concerns of a potential supply surplus ⚠️\n- Move aims to balance market stability with demand and supply dynamics ✅\n\nTAKEAWAY: OPEC+ chooses a cautious approach, increasing oil output slightly to address supply glut concerns while maintaining market equilibrium.",
       "exported_at": "2025-10-05T10:42:06.136867",
+      "continuous_session": true
+    },
+    {
+      "title": "Prologis, Amazon and Meta sign low-carbon concrete pact",
+      "link": "https://www.cnbc.com/2025/10/05/prologis-amazon-and-meta-sign-low-carbon-concrete-pact.html",
+      "summary": "Concrete manufacturing, and especially cement production, accounts for 8% of global greenhouse gas emissions, according to the World Economic Forum.",
+      "published": "Sun, 05 Oct 2025 14:45:09 GMT",
+      "content": "Concrete manufacturing, and especially cement production, accounts for 8% of global greenhouse gas emissions, according to the World Economic Forum.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6ee41b996b65ab051748e61b449de97c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PROPERTY PLAY: PROLOGIS, AMAZON, META JOIN LOW-CARBON CONCRETE PACT 🌿\n\n- Prologis, Amazon, Meta unite for eco-friendly concrete pact 🌍\n- Concrete production = 8% of global greenhouse gas emissions 🏭\n- Collaboration aims to reduce carbon footprint in real estate 🏢\n- Focus on sustainable practices in construction industry 🌱\n- Initiative addresses environmental impact of concrete manufacturing 🌿\n- World Economic Forum data highlights urgent need for change 🌎\n\nTAKEAWAY: Prologis, Amazon, and Meta's partnership to adopt low-carbon concrete practices signals a significant step towards reducing greenhouse gas emissions in the real estate sector. 🌿",
+      "exported_at": "2025-10-05T10:47:12.779692",
       "continuous_session": true
     }
   ]
