@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-05T11:48:22.325947",
-    "total_articles": 2145,
-    "new_articles_in_last_fetch": 2145,
+    "created_at": "2025-10-05T12:23:55.622831",
+    "total_articles": 2146,
+    "new_articles_in_last_fetch": 2146,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -27850,6 +27850,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: LAYOFFS LOOM IF TRUMP HALTS SHUTDOWN TALKS, WARNS HASSETT ⚠️\n\n- Hassett warns of potential layoffs if shutdown talks stall 📉\n- Democrats stand firm on health-care demands 🏥\n- Push for permanent extension of enhanced premium tax credits 💸\n- Uncertainty surrounds funding legislation negotiations 🤔\n\nTAKEAWAY: Potential for layoffs looms as Democrats push for health-care demands in funding legislation, creating uncertainty in negotiations.",
       "exported_at": "2025-10-05T11:48:22.171111",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump plans to federalize 300 troops in Illinois, as judge blocks a similar mobilization in Oregon",
+      "link": "https://www.cnbc.com/2025/10/05/trump-troops-illinois-oregon.html",
+      "summary": "President Donald Trump authorized the deployment of 300 Illinois National Guard troops to protect federal officers and assets in Chicago on Saturday.",
+      "published": "Sun, 05 Oct 2025 16:20:57 GMT",
+      "content": "President Donald Trump authorized the deployment of 300 Illinois National Guard troops to protect federal officers and assets in Chicago on Saturday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a03e7940f2db2b5c716abd2219099146",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP MOBILIZES 300 TROOPS IN ILLINOIS, DESPITE OREGON SETBACK 🚨\n\n- Trump deploys 300 Illinois National Guard troops for Chicago protection 🛡️\n- Troops aimed at safeguarding federal officers and assets 🏛️\n- Judge blocks similar mobilization in Oregon 🚫\n\nTAKEAWAY: Trump's move to federalize 300 troops in Illinois for Chicago protection contrasts with a judge blocking a similar mobilization in Oregon, showcasing differing responses to federal intervention.",
+      "exported_at": "2025-10-05T12:23:55.473863",
       "continuous_session": true
     }
   ]
