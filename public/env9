@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-04T21:55:41.124162",
-    "total_articles": 2123,
-    "new_articles_in_last_fetch": 2123,
+    "created_at": "2025-10-05T06:17:26.951770",
+    "total_articles": 2124,
+    "new_articles_in_last_fetch": 2124,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -27564,6 +27564,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JUDGE BLOCKS NATIONAL GUARD DEPLOYMENT IN PORTLAND ⚠️\n\n- Court ruling halts Trump admin's plan to use military in Democrat cities\n- Setback for administration's strategy to deploy troops\n- National Guard temporarily barred from Portland by judge's decision\n\nTAKEAWAY: The court's decision to block National Guard deployment in Portland is a setback for the Trump administration's plans to use military troops in Democratic-run cities.",
       "exported_at": "2025-10-04T21:55:40.984893",
+      "continuous_session": true
+    },
+    {
+      "title": "Judge temporarily blocks use of National Guard in Portland",
+      "link": "https://www.cnbc.com/2025/10/04/judge-temporarily-blocks-use-of-national-guard-in-portland.html",
+      "summary": "The ruling is a setback for the Trump administration as it seeks to use military troops in some Democratic-run cities. The administration has appealed.",
+      "published": "Sun, 05 Oct 2025 10:12:59 GMT",
+      "content": "The ruling is a setback for the Trump administration as it seeks to use military troops in some Democratic-run cities. The administration has appealed.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b5b4dbd0553fc80ec802ef08e5486b2a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JUDGE BLOCKS TRUMP'S USE OF NATIONAL GUARD IN PORTLAND ⚠️\n\n- Court ruling halts Trump's plan to deploy military in Democratic cities 🛑\n- Setback for administration as National Guard use paused ⏸️\n- Trump appeals against the decision 📝\n\nTAKEAWAY: A judge's decision to block the use of National Guard in Portland is a setback for the Trump administration's plans, leading to an appeal for further action.",
+      "exported_at": "2025-10-05T06:17:26.799349",
       "continuous_session": true
     }
   ]
