@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-05T09:46:03.348130",
-    "total_articles": 2135,
-    "new_articles_in_last_fetch": 2135,
+    "created_at": "2025-10-05T09:51:09.573728",
+    "total_articles": 2136,
+    "new_articles_in_last_fetch": 2136,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -27720,6 +27720,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: THE #1 THING COUPLES FIGHT ABOUT REVEALED BY PSYCHOLOGIST 💔\n\n- Psychologist Mark Travers unveils top issue tearing couples apart\n- It's not about the argument's topic, but a deeper underlying factor\n- Understanding this key issue can help resolve conflicts efficiently\n\nTAKEAWAY: Discovering and addressing the core issue behind conflicts can strengthen relationships and prevent unnecessary arguments.",
       "exported_at": "2025-10-05T09:46:03.190132",
+      "continuous_session": true
+    },
+    {
+      "title": "Nuclear in my backyard? More of America, and the market, seems OK with it",
+      "link": "https://www.cnbc.com/2025/10/05/nuclear-power-modular-reactor-energy-demand-public-market-risks.html",
+      "summary": "Small modular reactors are being planned as big part of the nuclear power comeback across the U.S., with some communities pointing to jobs and economic growth.",
+      "published": "Sun, 05 Oct 2025 13:47:17 GMT",
+      "content": "Small modular reactors are being planned as big part of the nuclear power comeback across the U.S., with some communities pointing to jobs and economic growth.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "81312e3380c953b87856b916c92d661a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 'NUCLEAR IN MY BACKYARD?' AMERICA EMBRACES SMALL MODULAR REACTORS 🚀\n\n- Small modular reactors gaining popularity in the U.S. 📈\n- Communities see potential for job creation and economic growth 💼💰\n- Nuclear power making a comeback in the market 📈\n- Shift in attitude towards nuclear energy observed 🔄\n- Small modular reactors becoming integral to the energy landscape ⚡️\n- Positive outlook on nuclear as a clean energy source 🌱\n\nTAKEAWAY: America's increasing acceptance of small modular reactors signals a shift towards embracing nuclear energy for economic growth and clean energy production.",
+      "exported_at": "2025-10-05T09:51:09.549225",
       "continuous_session": true
     }
   ]
