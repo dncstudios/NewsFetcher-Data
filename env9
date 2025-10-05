@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-05T10:06:27.893342",
-    "total_articles": 2138,
-    "new_articles_in_last_fetch": 2138,
+    "created_at": "2025-10-05T10:21:45.335264",
+    "total_articles": 2139,
+    "new_articles_in_last_fetch": 2139,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -27759,6 +27759,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ISRAEL AND HAMAS NEGOTIATE TRUCE IN EGYPT 🚀\n\n- Israel and Hamas increase hopes for ceasefire talks 🕊️\n- Prime Minister Netanyahu anticipates truce and hostage release soon 🕰️\n- Negotiations set in Egypt to pave the way for peace 🕊️\n\nTAKEAWAY: Israel and Hamas show positive signs towards a potential ceasefire, boosting hopes for peace in the region.",
       "exported_at": "2025-10-05T10:06:27.721354",
+      "continuous_session": true
+    },
+    {
+      "title": "OPEC+ raises oil production again with modest a hike from November",
+      "link": "https://www.cnbc.com/2025/10/05/opec-raises-oil-production-again-with-modest-a-hike-from-november.html",
+      "summary": "OPEC+ will raise oil output from November by 137,000 barrels per day, opting for the same fairly modest monthly increase as in October.",
+      "published": "Sun, 05 Oct 2025 14:19:45 GMT",
+      "content": "OPEC+ will raise oil output from November by 137,000 barrels per day, opting for the same fairly modest monthly increase as in October.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e0bf25d2a8c18dcf7f3d368d0643b7e5",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: OPEC+ INCREASES OIL PRODUCTION MODESTLY AGAIN 🛢️\n\n- OPEC+ to raise oil output by 137,000 barrels/day from November 📈\n- Monthly increase mirrors October's modest hike ⚡️\n- Decision aims to balance supply-demand dynamics in the market ✅\n\nTAKEAWAY: OPEC+ strategically increases oil production by 137,000 barrels per day from November to maintain market equilibrium.",
+      "exported_at": "2025-10-05T10:21:45.173355",
       "continuous_session": true
     }
   ]
