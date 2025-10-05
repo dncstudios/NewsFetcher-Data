@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-04T21:25:12.322294",
-    "total_articles": 2122,
-    "new_articles_in_last_fetch": 2122,
+    "created_at": "2025-10-04T21:55:41.124162",
+    "total_articles": 2123,
+    "new_articles_in_last_fetch": 2123,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -27551,6 +27551,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: GLOBAL WEEK AHEAD: BULL MARKETS REMAIN RESILIENT 🚀\n\n- U.S. govt shutdown sparks global concerns, but equities hold strong 💪\n- Risk-on sentiment prevails in major stock markets 📈\n- Worries about shutdown's global impact persist 🌍\n- Resilient bull markets show no signs of slowing down 🐂\n\nTAKEAWAY: Despite global concerns over the U.S. government shutdown, major equity markets remain resilient, maintaining a strong risk-on sentiment.",
       "exported_at": "2025-10-04T21:25:12.159873",
+      "continuous_session": true
+    },
+    {
+      "title": "Judge temporarily blocks use of National Guard in Portland",
+      "link": "https://www.cnbc.com/2025/10/04/judge-temporarily-blocks-use-of-national-guard-in-portland.html",
+      "summary": "The ruling is a setback for the Trump administration as it seeks to use military troops in some Democratic-run cities.",
+      "published": "Sun, 05 Oct 2025 01:48:05 GMT",
+      "content": "The ruling is a setback for the Trump administration as it seeks to use military troops in some Democratic-run cities.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6a8d510748c87fa05ebcbc0f0f580cfb",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JUDGE BLOCKS NATIONAL GUARD DEPLOYMENT IN PORTLAND ⚠️\n\n- Court ruling halts Trump admin's plan to use military in Democrat cities\n- Setback for administration's strategy to deploy troops\n- National Guard temporarily barred from Portland by judge's decision\n\nTAKEAWAY: The court's decision to block National Guard deployment in Portland is a setback for the Trump administration's plans to use military troops in Democratic-run cities.",
+      "exported_at": "2025-10-04T21:55:40.984893",
       "continuous_session": true
     }
   ]
