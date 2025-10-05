@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-05T18:13:54.232025",
-    "total_articles": 2150,
-    "new_articles_in_last_fetch": 2150,
+    "created_at": "2025-10-05T18:34:15.396963",
+    "total_articles": 2151,
+    "new_articles_in_last_fetch": 2151,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -27915,6 +27915,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WHEN NOTHING CAN STOP THE STOCK MARKET 🚀\n\n- Speculative bull market shows no signs of slowing down 📈\n- Data center sector driving the market momentum 🖥️\n- Investors seek guidance on navigating this trend 💼\n- Strategies to capitalize on the unstoppable market 📈\n- Uncertainty looms despite the market's resilience ⚠️\n\nTAKEAWAY: The relentless rise of the stock market, fueled by the data center sector, presents opportunities for investors, but caution is advised due to lingering uncertainties.",
       "exported_at": "2025-10-05T18:13:54.070189",
+      "continuous_session": true
+    },
+    {
+      "title": "Another court fight likely as Trump federalizes troops in Oregon despite judge blocking mobilization",
+      "link": "https://www.cnbc.com/2025/10/05/trump-troops-illinois-oregon.html",
+      "summary": "California Gov. Gavin Newsom plans to go to court to fight the move by President Donald Trump to send some 300 National Guard members from his state to Oregon.",
+      "published": "Sun, 05 Oct 2025 22:29:53 GMT",
+      "content": "California Gov. Gavin Newsom plans to go to court to fight the move by President Donald Trump to send some 300 National Guard members from his state to Oregon.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "787e2bbc3bea09ec6dc4785c4a9c88ac",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP DEFIES COURT ORDER, SENDS TROOPS TO OREGON DESPITE BLOCK 🚨\n\n- Trump sends 300 National Guard troops to Oregon despite court ruling\n- California Gov. Newsom plans to challenge the troop deployment in court\n- Legal battle expected as Trump federalizes troops against court order\n\nTAKEAWAY: Trump's decision to send troops to Oregon despite a court order sets the stage for a legal battle with California Governor Newsom challenging the move.",
+      "exported_at": "2025-10-05T18:34:15.261074",
       "continuous_session": true
     }
   ]
