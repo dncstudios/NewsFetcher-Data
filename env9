@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-05T08:09:19.391857",
-    "total_articles": 2130,
-    "new_articles_in_last_fetch": 2130,
+    "created_at": "2025-10-05T09:10:22.463953",
+    "total_articles": 2132,
+    "new_articles_in_last_fetch": 2132,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -27655,6 +27655,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: META ALUM LEADS OPENAI'S NATIONWIDE STARGATE DATA CENTER QUEST 🚀\n\n- Keith Heyde spearheads OpenAI's quest for Stargate data centers 🌌\n- 10 months dedicated to building a robust AI-industrial base 🏗️\n- Focus on powering the future of artificial intelligence 🤖\n- Nationwide hunt for ideal locations and infrastructure 🌐\n- Heyde's leadership pivotal in OpenAI's strategic growth 🌟\n\nTAKEAWAY: With Keith Heyde at the helm, OpenAI is strategically positioning itself for a powerful future in artificial intelligence by spearheading the nationwide search for Stargate data centers.",
       "exported_at": "2025-10-05T08:09:19.367374",
+      "continuous_session": true
+    },
+    {
+      "title": "Investors aren&apos;t the market&apos;s biggest loser if Trump, SEC end quarterly reporting",
+      "link": "https://www.cnbc.com/2025/10/05/trump-sec-quarterly-earnings-reports-accounting-firms.html",
+      "summary": "The SEC may end the requirement for companies to report results quarterly. The 'Big Four' accounting firms, KPMG, Deloitte, PwC and EY, have a lot to lose.",
+      "published": "Sun, 05 Oct 2025 13:06:30 GMT",
+      "content": "The SEC may end the requirement for companies to report results quarterly. The 'Big Four' accounting firms, KPMG, Deloitte, PwC and EY, have a lot to lose.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "99b100ed576e064a2bc549ea4dd20209",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP, SEC MAY AXE QUARTERLY REPORTING: BIGGEST LOSERS REVEALED 🚨\n\n- SEC considers ending quarterly result reporting 📉\n- 'Big Four' accounting firms face significant risk 💼\n- Investors not the main losers if change implemented ❌\n\nTAKEAWAY: Potential end to quarterly reporting by Trump and SEC may impact 'Big Four' accounting firms more than investors, shifting focus to industry implications.",
+      "exported_at": "2025-10-05T09:10:22.305153",
+      "continuous_session": true
+    },
+    {
+      "title": "Biggest Trump tax cut benefits for small business owners to keep more income on Main Street",
+      "link": "https://www.cnbc.com/2025/10/05/trump-tax-cuts-lower-irs-bill-small-business-income.html",
+      "summary": "President Trump's One Big Beautiful Bill provides small businesses with significant opportunities for bottom-line savings on income tax bills.",
+      "published": "Sun, 05 Oct 2025 12:59:49 GMT",
+      "content": "President Trump's One Big Beautiful Bill provides small businesses with significant opportunities for bottom-line savings on income tax bills.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3ff1dce0c8a5f10d52ac657cc9586fbe",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP'S TAX CUT BOOSTS SMALL BUSINESSES 🚀\n\n- Trump's bill offers major income tax savings for small businesses 💰\n- Small business owners benefit from bottom-line savings 📉\n- One Big Beautiful Bill creates opportunities for Main Street 🏪\n- Significant benefits for small business income tax bills 📊\n- Tax cut designed to keep more income with small business owners 💪\n- Bill provides bottom-line savings for small business income taxes ✅\n\nTAKEAWAY: Trump's tax cut bill aims to boost small businesses by offering significant income tax savings, keeping more money on Main Street.",
+      "exported_at": "2025-10-05T09:10:22.305200",
       "continuous_session": true
     }
   ]
