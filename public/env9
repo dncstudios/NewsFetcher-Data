@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-05T09:10:22.463953",
-    "total_articles": 2132,
-    "new_articles_in_last_fetch": 2132,
+    "created_at": "2025-10-05T09:15:31.895871",
+    "total_articles": 2133,
+    "new_articles_in_last_fetch": 2133,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -27681,6 +27681,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP'S TAX CUT BOOSTS SMALL BUSINESSES 🚀\n\n- Trump's bill offers major income tax savings for small businesses 💰\n- Small business owners benefit from bottom-line savings 📉\n- One Big Beautiful Bill creates opportunities for Main Street 🏪\n- Significant benefits for small business income tax bills 📊\n- Tax cut designed to keep more income with small business owners 💪\n- Bill provides bottom-line savings for small business income taxes ✅\n\nTAKEAWAY: Trump's tax cut bill aims to boost small businesses by offering significant income tax savings, keeping more money on Main Street.",
       "exported_at": "2025-10-05T09:10:22.305200",
+      "continuous_session": true
+    },
+    {
+      "title": "Psychologist&apos;s No. 1 non-negotiable parenting rule for happier, healthier kids: It&apos;s &apos;very straightforward and costs nothing&apos;",
+      "link": "https://www.cnbc.com/2025/10/05/psychologist-jean-twenge-top-screen-time-parenting-rule-for-kids.html",
+      "summary": "San Diego State University psychologist Jean Twenge's new book includes 10 rules for parents to put in place around kids' usage of smartphones and social media.",
+      "published": "Sun, 05 Oct 2025 13:05:01 GMT",
+      "content": "San Diego State University psychologist Jean Twenge's new book includes 10 rules for parents to put in place around kids' usage of smartphones and social media.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f421b66d4dc2b48547c34cfdd3fadec0",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PSYCHOLOGIST'S TOP RULE FOR HAPPIER KIDS: IT'S SIMPLE AND FREE! 🌟\n\n- Psychologist Jean Twenge's book reveals 10 rules for parents 📘\n- Focus on managing kids' smartphone and social media use 📱\n- Key rule emphasizes simplicity and zero cost 💰\n- Promotes happier, healthier children through guidelines 💪\n- Encourages parents to establish clear boundaries 🚧\n- Aims to improve well-being without financial burden 💼\n\nTAKEAWAY: By following psychologist Jean Twenge's simple and cost-effective parenting rule on smartphone and social media use, parents can foster happier and healthier kids.",
+      "exported_at": "2025-10-05T09:15:31.749705",
       "continuous_session": true
     }
   ]
