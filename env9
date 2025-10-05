@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-05T10:52:22.113405",
-    "total_articles": 2142,
-    "new_articles_in_last_fetch": 2142,
+    "created_at": "2025-10-05T11:22:54.527543",
+    "total_articles": 2144,
+    "new_articles_in_last_fetch": 2144,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -27811,6 +27811,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: MARK SANCHEZ ARRESTED AFTER STABBING INCIDENT 🚨\n\n- Former QB Mark Sanchez arrested in Indianapolis hospital\n- Sanchez stabbed in the chest during early-morning incident\n- Incident occurred in the city, leading to Sanchez's arrest\n\nTAKEAWAY: Former NFL analyst Mark Sanchez's arrest after a stabbing incident in an Indianapolis hospital raises concerns about his safety and well-being.",
       "exported_at": "2025-10-05T10:52:21.972731",
+      "continuous_session": true
+    },
+    {
+      "title": "Taylor Swift&apos;s &apos;The Life of a Showgirl&apos; album release party snares $33 million domestically",
+      "link": "https://www.cnbc.com/2025/10/05/taylor-swifts-the-life-of-a-showgirl-album-release-party-box-office.html",
+      "summary": "Taylor Swift's \"The Life of a Showgirl\" album movie generated an estimated $33 million domestically.",
+      "published": "Sun, 05 Oct 2025 15:17:22 GMT",
+      "content": "Taylor Swift's \"The Life of a Showgirl\" album movie generated an estimated $33 million domestically.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8180fabf2e4ef72cc504a009c5fe735a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TAYLOR SWIFT'S 'THE LIFE OF A SHOWGIRL' ALBUM PARTY RAKES IN $33M DOMESTICALLY 🚀\n\n- Taylor Swift's album movie \"The Life of a Showgirl\" earns $33 million in the US 💰\n- Swift's event showcases massive success and popularity 🌟\n- The album release party captivates fans nationwide 🎉\n\nTAKEAWAY: Taylor Swift's \"The Life of a Showgirl\" album release party shines with a staggering $33 million revenue, solidifying her status as a music industry powerhouse.",
+      "exported_at": "2025-10-05T11:22:54.377839",
+      "continuous_session": true
+    },
+    {
+      "title": "To be a better communicator, &apos;you have to have a tolerance for discomfort,&apos; says Brené Brown: These 3 phrases can help you navigate a conflict",
+      "link": "https://www.cnbc.com/2025/10/05/brene-brown-good-communicators-have-a-tolerance-for-discomfort-.html",
+      "summary": "On The New York Times podcast \"The Interview,\" Brené Brown explained that 'good communication is vulnerable.'",
+      "published": "Sun, 05 Oct 2025 15:00:01 GMT",
+      "content": "On The New York Times podcast \"The Interview,\" Brené Brown explained that 'good communication is vulnerable.'",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6fe8652f497b12b20a8d3b5cdbb715f9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BRENE BROWN ON GOOD COMMUNICATION: EMBRACE DISCOMFORT! 🚀\n\n- Brené Brown: Good communication requires vulnerability 💬\n- Key to better communication: tolerance for discomfort 😬\n- Brown shares 3 phrases to navigate conflicts effectively 🌟\n\nTAKEAWAY: Embracing discomfort and vulnerability is key to becoming a better communicator, according to Brené Brown.",
+      "exported_at": "2025-10-05T11:22:54.377908",
       "continuous_session": true
     }
   ]
