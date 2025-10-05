@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-05T18:34:15.396963",
-    "total_articles": 2151,
-    "new_articles_in_last_fetch": 2151,
+    "created_at": "2025-10-05T19:50:20.350787",
+    "total_articles": 2152,
+    "new_articles_in_last_fetch": 2152,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -27928,6 +27928,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP DEFIES COURT ORDER, SENDS TROOPS TO OREGON DESPITE BLOCK 🚨\n\n- Trump sends 300 National Guard troops to Oregon despite court ruling\n- California Gov. Newsom plans to challenge the troop deployment in court\n- Legal battle expected as Trump federalizes troops against court order\n\nTAKEAWAY: Trump's decision to send troops to Oregon despite a court order sets the stage for a legal battle with California Governor Newsom challenging the move.",
       "exported_at": "2025-10-05T18:34:15.261074",
+      "continuous_session": true
+    },
+    {
+      "title": "Asia-Pacific stocks set to rise; Japan in focus after ruling party picks pro-stimulus Sanae Takaichi",
+      "link": "https://www.cnbc.com/2025/10/06/asia-pacific-markets-monday-nikkei-225-topix-kospi-nifty-50-japan-ldp-sanae-takaichi.html",
+      "summary": "Japan's benchmark Nikkei 225 index was set for a higher open. Its futures contract in Chicago trading at 48,105  against the index's last close of 45,769.50.",
+      "published": "Sun, 05 Oct 2025 23:38:50 GMT",
+      "content": "Japan's benchmark Nikkei 225 index was set for a higher open. Its futures contract in Chicago trading at 48,105  against the index's last close of 45,769.50.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "df1e280893f3fb0d125d8ff96c28cb34",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASIA-PACIFIC STOCKS SURGE AS JAPAN EYES PRO-STIMULUS POLICIES 🚀\n\n- Japan's Nikkei 225 index poised for a bullish open 🇯🇵\n- Futures contract in Chicago signals a significant increase 📈\n- Index last closed at 45,769.50, now expected to open at 48,105 💹\n\nTAKEAWAY: Asia-Pacific markets rally as Japan's focus on pro-stimulus policies propels optimism, with the Nikkei 225 index set to open strong.",
+      "exported_at": "2025-10-05T19:50:20.199910",
       "continuous_session": true
     }
   ]
