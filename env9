@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-05T19:50:20.350787",
-    "total_articles": 2152,
-    "new_articles_in_last_fetch": 2152,
+    "created_at": "2025-10-05T20:15:45.215137",
+    "total_articles": 2153,
+    "new_articles_in_last_fetch": 2153,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -27941,6 +27941,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ASIA-PACIFIC STOCKS SURGE AS JAPAN EYES PRO-STIMULUS POLICIES 🚀\n\n- Japan's Nikkei 225 index poised for a bullish open 🇯🇵\n- Futures contract in Chicago signals a significant increase 📈\n- Index last closed at 45,769.50, now expected to open at 48,105 💹\n\nTAKEAWAY: Asia-Pacific markets rally as Japan's focus on pro-stimulus policies propels optimism, with the Nikkei 225 index set to open strong.",
       "exported_at": "2025-10-05T19:50:20.199910",
+      "continuous_session": true
+    },
+    {
+      "title": "Japan stocks jump over 3%, leading gains in Asia after ruling party picks pro-stimulus Sanae Takaichi",
+      "link": "https://www.cnbc.com/2025/10/06/asia-pacific-markets-monday-nikkei-225-topix-kospi-nifty-50-japan-ldp-sanae-takaichi.html",
+      "summary": "Japan equities jumped after the country's ruling Liberal Democratic Party elected staunch conservative Sanae Takaichi as its new leader Saturday.",
+      "published": "Mon, 06 Oct 2025 00:11:37 GMT",
+      "content": "Japan equities jumped after the country's ruling Liberal Democratic Party elected staunch conservative Sanae Takaichi as its new leader Saturday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4b7158637fa5ba56aa31fb49b2c8d534",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JAPAN STOCKS SURGE 3% AS PRO-STIMULUS LEADER ELECTED 🚀\n\n- Japan equities soar following Sanae Takaichi's election as LDP leader 📈\n- Takaichi's pro-stimulus stance fuels investor optimism 🌟\n- Market reacts positively to ruling party's conservative choice 📈\n- Japan leads Asia in gains after Takaichi's election 🚀\n- Takaichi's election signals potential economic stimulus 📈\n- Investor confidence boosted by Takaichi's pro-growth policies 📈\n\nTAKEAWAY: Japan's stock market skyrockets over 3% as Sanae Takaichi's pro-stimulus leadership promises economic growth and investor confidence in the country.",
+      "exported_at": "2025-10-05T20:15:45.058804",
       "continuous_session": true
     }
   ]
