@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-06T05:54:13.642159",
-    "total_articles": 2164,
-    "new_articles_in_last_fetch": 2164,
+    "created_at": "2025-10-06T06:04:26.990170",
+    "total_articles": 2165,
+    "new_articles_in_last_fetch": 2165,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -28097,6 +28097,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FRANCE'S NEW PM RESIGNS, SPARKING POLITICAL CHAOS 🚨\n\n- Sebastien Lecornu resigns as France's Prime Minister 🇫🇷\n- Fresh political crisis grips the nation 🌪️\n- Resignation comes just weeks after Lecornu's appointment 🗓️\n\nTAKEAWAY: France faces a new wave of political instability as Prime Minister Sebastien Lecornu's sudden resignation throws the country into chaos.",
       "exported_at": "2025-10-06T05:54:13.541040",
+      "continuous_session": true
+    },
+    {
+      "title": "Stock futures rise after a record-setting week as government shutdown continues: Live updates",
+      "link": "https://www.cnbc.com/2025/10/05/stock-market-today-live-updates.html",
+      "summary": "Stock futures rose as a U.S. government shutdown carried on following a week in which Wall Street scaled to record highs.",
+      "published": "Mon, 06 Oct 2025 10:03:09 GMT",
+      "content": "Stock futures rose as a U.S. government shutdown carried on following a week in which Wall Street scaled to record highs.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1727485234bebf6ca9c475757420a34d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK FUTURES RISE DESPITE GOVERNMENT SHUTDOWN 🚀\n\n- Stock futures climb after record-setting week on Wall Street 📈\n- US government shutdown persists, but market remains bullish 🔥\n- Investors show confidence despite ongoing political uncertainty ✅\n\nTAKEAWAY: Despite the lingering government shutdown, stock futures surge following a record-setting week on Wall Street, showcasing investor confidence amidst political turbulence.",
+      "exported_at": "2025-10-06T06:04:26.854914",
       "continuous_session": true
     }
   ]
