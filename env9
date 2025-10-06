@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-06T15:00:46.083364",
-    "total_articles": 2229,
-    "new_articles_in_last_fetch": 2229,
+    "created_at": "2025-10-06T15:05:55.113195",
+    "total_articles": 2231,
+    "new_articles_in_last_fetch": 2231,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -28941,6 +28941,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BOOKING PROFITS AS STOCK SOARS ON OPENAI INTEGRATION 🚀\n\n- Realizing ~13% gain on stock bought in Jan 2022 💰\n- Stock surges due to integration with OpenAI 📈\n- Seizing opportunity to capitalize on profit 🤑\n\nTAKEAWAY: Capitalizing on a 13% gain from a stock surge following its integration with OpenAI, maximizing profits for a successful investment.",
       "exported_at": "2025-10-06T15:00:45.924952",
+      "continuous_session": true
+    },
+    {
+      "title": "Peter Lynch on why he isn&apos;t in the AI trade: &apos;I literally couldn&apos;t pronounce Nvidia until about 8 months ago&apos;",
+      "link": "https://www.cnbc.com/2025/10/06/peter-lynch-ai-trade-investing.html",
+      "summary": "Lynch described himself as \"low tech\" and emphasized the importance of understanding the stocks you own.",
+      "published": "Mon, 06 Oct 2025 18:40:12 GMT",
+      "content": "Lynch described himself as \"low tech\" and emphasized the importance of understanding the stocks you own.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e4cd0f436c3f09eff7b74d3f7069f6a5",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PETER LYNCH ON STAYING AWAY FROM AI TRADE 🚫\n\n- Lynch admits being \"low tech\" and unfamiliar with Nvidia 📉\n- Emphasizes importance of understanding owned stocks 💡\n- Couldn't even pronounce Nvidia until 8 months ago 🤯\n\nTAKEAWAY: Peter Lynch's decision to steer clear of the AI trade due to lack of tech knowledge underlines the significance of understanding stocks before investing.",
+      "exported_at": "2025-10-06T15:05:54.920641",
+      "continuous_session": true
+    },
+    {
+      "title": "Cerebras CEO explains IPO withdrawal, says AI chipmaker still intends to go public",
+      "link": "https://www.cnbc.com/2025/10/06/cerebras-ceo-says-company-still-intends-to-go-public.html",
+      "summary": "Cerebras wants to give investors clearer information on its strategy, but CEO Andrew Feldman didn't provide a timeline for a new filing.",
+      "published": "Mon, 06 Oct 2025 19:05:03 GMT",
+      "content": "Cerebras wants to give investors clearer information on its strategy, but CEO Andrew Feldman didn't provide a timeline for a new filing.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c3a67fafed998c697ac9e25ea9f43a5c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CEREBRAS CEO ON IPO WITHDRAWAL AND FUTURE PLANS 🚀\n\n- Cerebras to provide investors with clearer strategy insights 💡\n- CEO Andrew Feldman hints at future IPO plans 📈\n- No specific timeline disclosed for new filing ⏰\n\nTAKEAWAY: Cerebras CEO sheds light on IPO withdrawal, promising transparency in strategy and hinting at future plans without committing to a timeline for a new filing.",
+      "exported_at": "2025-10-06T15:05:54.920697",
       "continuous_session": true
     }
   ]
