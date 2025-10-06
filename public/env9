@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-06T10:04:27.823691",
-    "total_articles": 2191,
-    "new_articles_in_last_fetch": 2191,
+    "created_at": "2025-10-06T10:14:41.435777",
+    "total_articles": 2192,
+    "new_articles_in_last_fetch": 2192,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -28447,6 +28447,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SUPREME COURT DENIES GHISLAINE MAXWELL'S APPEAL 🚨\n\n- Maxwell's appeal rejected, focusing on Trump for pardon 🎯\n- Convicted of abetting Jeffrey Epstein 🕵️‍♂️\n- Potential efforts towards sentence commutation 📉\n\nTAKEAWAY: With the Supreme Court denying Ghislaine Maxwell's appeal, her focus shifts to seeking a pardon or sentence commutation from President Trump.",
       "exported_at": "2025-10-06T10:04:27.667537",
+      "continuous_session": true
+    },
+    {
+      "title": "An options strategy that bets on this medical device stock catching up to the rest of the market",
+      "link": "https://www.cnbc.com/2025/10/06/an-options-strategy-that-bets-on-this-medical-device-stock-catching-up-to-the-rest-of-the-market.html",
+      "summary": "Options trader Michael Khouw breaks down this trade on a medical devices maker.",
+      "published": "Mon, 06 Oct 2025 14:06:15 GMT",
+      "content": "Options trader Michael Khouw breaks down this trade on a medical devices maker.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "23c80939179a40737ecc48f7e1dd6b3f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AN OPTIONS STRATEGY TO BOOST MEDICAL DEVICE STOCK 🚀\n\n- Options trader Michael Khouw analyzes trade on medical devices maker \n- Strategy aims at stock catching up to market performance \n- Focus on leveraging options to maximize gains \n- Potential for increased profits with strategic approach \n- Detailed breakdown of the trade by expert Khouw \n- Emphasis on the opportunity to capitalize on market movements \n\nTAKEAWAY: Michael Khouw's options strategy offers a potential boost for a medical device stock to catch up with the market, maximizing gains through a strategic approach.",
+      "exported_at": "2025-10-06T10:14:41.345576",
       "continuous_session": true
     }
   ]
