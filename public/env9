@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-05T22:42:48.506026",
-    "total_articles": 2155,
-    "new_articles_in_last_fetch": 2155,
+    "created_at": "2025-10-05T23:48:45.884863",
+    "total_articles": 2156,
+    "new_articles_in_last_fetch": 2156,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -27980,6 +27980,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: U.S. TECH GIANTS PAUSE INDIA DATA CENTER DEALS AMID TRADE UNCERTAINTY 🚨\n\n- India's data center growth halts as U.S. Big Tech reconsiders projects 💻\n- Tech firms cautious of trade issues, visa costs, and geopolitical tensions 🛑\n- Billion-dollar investments on hold amidst uncertain economic climate 💰\n\nTAKEAWAY: U.S. tech giants hitting pause on India data center deals signal caution amid trade uncertainty, visa fee concerns, and geopolitical tensions, impacting billion-dollar projects.",
       "exported_at": "2025-10-05T22:42:48.352946",
+      "continuous_session": true
+    },
+    {
+      "title": "U.S. judge blocks Trump from sending California National Guard to Portland for now",
+      "link": "https://www.cnbc.com/2025/10/06/us-judge-blocks-trump-sending-california-national-guard-portland-for-now.html",
+      "summary": "The ruling by U.S. District Judge Karin Immergut followed a joint lawsuit by California and Oregon seeking to block the extraordinary move that drew vehement criticism from both states' governors.",
+      "published": "Mon, 06 Oct 2025 03:47:04 GMT",
+      "content": "The ruling by U.S. District Judge Karin Immergut followed a joint lawsuit by California and Oregon seeking to block the extraordinary move that drew vehement criticism from both states' governors.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4ad6574c3161eb31534485cb586e8844",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: U.S. JUDGE BLOCKS TRUMP'S PLAN TO SEND CALIFORNIA NATIONAL GUARD TO PORTLAND ⚠️\n\n- U.S. District Judge Immergut blocks Trump's order 🛑\n- California and Oregon jointly sue to halt the move 🤝\n- Governors of both states criticize the decision 🗣️\n\nTAKEAWAY: U.S. District Judge Immergut halts Trump's attempt to deploy California National Guard to Portland, following a lawsuit by California and Oregon governors.",
+      "exported_at": "2025-10-05T23:48:45.725227",
       "continuous_session": true
     }
   ]
