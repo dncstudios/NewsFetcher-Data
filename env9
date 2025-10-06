@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-06T09:44:09.385179",
-    "total_articles": 2190,
-    "new_articles_in_last_fetch": 2190,
+    "created_at": "2025-10-06T10:04:27.823691",
+    "total_articles": 2191,
+    "new_articles_in_last_fetch": 2191,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -28434,6 +28434,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SUPREME COURT DENIES GHISLAINE MAXWELL'S APPEAL 🚨\n\n- Maxwell's appeal rejected, focusing on Trump for pardon 🎯\n- Convicted of abetting Jeffrey Epstein 🕵️‍♂️\n- Potential efforts towards sentence commutation 📉\n\nTAKEAWAY: With the Supreme Court denying Ghislaine Maxwell's appeal, her focus shifts to seeking a pardon or sentence commutation from President Trump.",
       "exported_at": "2025-10-06T09:44:09.234047",
+      "continuous_session": true
+    },
+    {
+      "title": "Supreme Court rejects appeal of Ghislaine Maxwell for Epstein abetting conviction",
+      "link": "https://www.cnbc.com/2025/10/06/supreme-court-ghislaine-maxwell-epstein-trump.html",
+      "summary": "Ghislaine Maxwell, the convicted procurer of Jeffrey Epstein, may now focus efforts to get a pardon or sentence commutation from President Donald Trump.",
+      "published": "Mon, 06 Oct 2025 14:02:15 GMT",
+      "content": "Ghislaine Maxwell, the convicted procurer of Jeffrey Epstein, may now focus efforts to get a pardon or sentence commutation from President Donald Trump.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "976192ff69285768ac7051c140da23a5",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SUPREME COURT DENIES GHISLAINE MAXWELL'S APPEAL 🚨\n\n- Maxwell's appeal rejected, focusing on Trump for pardon 🎯\n- Convicted of abetting Jeffrey Epstein 🕵️‍♂️\n- Potential efforts towards sentence commutation 📉\n\nTAKEAWAY: With the Supreme Court denying Ghislaine Maxwell's appeal, her focus shifts to seeking a pardon or sentence commutation from President Trump.",
+      "exported_at": "2025-10-06T10:04:27.667537",
       "continuous_session": true
     }
   ]
