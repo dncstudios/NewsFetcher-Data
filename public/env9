@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-06T14:09:38.936428",
-    "total_articles": 2222,
-    "new_articles_in_last_fetch": 2222,
+    "created_at": "2025-10-06T14:19:57.292090",
+    "total_articles": 2225,
+    "new_articles_in_last_fetch": 2225,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -28850,6 +28850,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: OPENAI DEV DAY HIGHLIGHTS: ALTMA'S KEYNOTE AND JONY IVE'S INSIGHTS 🚀\n\n- OpenAI seals AI chip deal with AMD 💻\n- Altman presents latest research and products to developers 🌟\n- Jony Ive shares insights at flagship event 🧠\n- Focus on cutting-edge engineering showcased 🔬\n- Event highlights advancements in AI technology 📈\n\nTAKEAWAY: OpenAI leverages AMD deal and flagship event to showcase cutting-edge AI research, products, and engineering to developers, with insights from Jony Ive.",
       "exported_at": "2025-10-06T14:09:38.910968",
+      "continuous_session": true
+    },
+    {
+      "title": "Figma&apos;s stock pops as much as 16% after OpenAI CEO Altman touts ChatGPT integration",
+      "link": "https://www.cnbc.com/2025/10/06/figma-stock-pops-15percent-after-openai-ceo-altman-touts-chatgpt-integration.html",
+      "summary": "A new assistant announced by OpenAI will allow ChatGPT users to have Figma run tasks from within their conversations.",
+      "published": "Mon, 06 Oct 2025 18:09:53 GMT",
+      "content": "A new assistant announced by OpenAI will allow ChatGPT users to have Figma run tasks from within their conversations.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b561a958c1af3e6b558e1942011a3234",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FIGMA'S STOCK SOARS 16% POST OPENAI CEO ALTAMAN'S CHATGPT INTEGRATION 🚀\n\n- Figma's stock jumps 16% after OpenAI CEO Altman's ChatGPT integration 📈\n- OpenAI's new assistant enables Figma to execute tasks within ChatGPT 💬\n- Market responds positively to the news of Figma and OpenAI collaboration 🌟\n\nTAKEAWAY: Figma's stock surges as much as 16% following the announcement of integrating with OpenAI's ChatGPT, showing market excitement and confidence in the partnership.",
+      "exported_at": "2025-10-06T14:19:57.173052",
+      "continuous_session": true
+    },
+    {
+      "title": "Utility stocks are benefiting from the AI boom. This one could be the next to break out",
+      "link": "https://www.cnbc.com/2025/10/06/utility-stocks-are-benefiting-from-the-ai-boom-this-one-could-be-the-next-to-break-out.html",
+      "summary": "Katie Stockton breaks down an interesting triangle chart pattern forming in one utility.",
+      "published": "Mon, 06 Oct 2025 18:17:46 GMT",
+      "content": "Katie Stockton breaks down an interesting triangle chart pattern forming in one utility.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "bc52c5b2861e0ccdbc44e3c4b03e7506",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: UTILITY STOCKS SURGE WITH AI BOOM! THIS NEXT ONE EYES BREAKOUT 🚀\n\n- Utility sector gains momentum with AI advancements 📈\n- One utility stock shows promising triangle chart pattern ⚡️\n- Analyst Katie Stockton highlights breakout potential 🔍\n- Market anticipates rise in utility sector 📊\n- Investors eyeing potential growth opportunities 🌱\n\nTAKEAWAY: Utility stocks ride the AI boom wave, with one poised for a breakout as market anticipates sector growth. 📈🔍",
+      "exported_at": "2025-10-06T14:19:57.173112",
+      "continuous_session": true
+    },
+    {
+      "title": "They&apos;re already rich — Jim Cramer says &apos;don&apos;t get scared out&apos; of stocks by billionaires",
+      "link": "https://www.cnbc.com/2025/10/06/jim-cramer-dont-get-scared-out-of-the-stock-market-by-billionaires.html",
+      "summary": "CNBC's Jim Cramer warned individual investors about Monday's comments made by hedge fund manager Paul Tudor Jones.",
+      "published": "Mon, 06 Oct 2025 17:55:47 GMT",
+      "content": "CNBC's Jim Cramer warned individual investors about Monday's comments made by hedge fund manager Paul Tudor Jones.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e45e6ce6c8c855ca16e2e51e9495533b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JIM CRAMER'S ADVICE: DON'T FEAR STOCKS DESPITE BILLIONAIRES 🚀\n\n- Cramer reassures investors not to panic over billionaires' remarks 💪\n- Hedge fund manager Paul Tudor Jones' comments raise concerns 📉\n- Individual investors urged to stay calm and focused on their goals ✅\n\nTAKEAWAY: Despite billionaire comments causing worries, Jim Cramer advises investors to remain steady and not be swayed by fear.",
+      "exported_at": "2025-10-06T14:19:57.173130",
       "continuous_session": true
     }
   ]
