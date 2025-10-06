@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-06T10:40:25.813778",
-    "total_articles": 2196,
-    "new_articles_in_last_fetch": 2196,
+    "created_at": "2025-10-06T10:50:37.058997",
+    "total_articles": 2197,
+    "new_articles_in_last_fetch": 2197,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -28512,6 +28512,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: OPENAI DEV DAY HIGHLIGHTS: ALTMA'S KEYNOTE AND JONY IVE'S INSIGHTS 🚀\n\n- OpenAI seals AI chip deal with AMD 💻\n- Altman presents latest research and products to developers 🌟\n- Jony Ive shares insights at flagship event 🧠\n- Focus on cutting-edge engineering showcased 🔬\n- Event highlights advancements in AI technology 📈\n\nTAKEAWAY: OpenAI leverages AMD deal and flagship event to showcase cutting-edge AI research, products, and engineering to developers, with insights from Jony Ive.",
       "exported_at": "2025-10-06T10:40:25.659023",
+      "continuous_session": true
+    },
+    {
+      "title": "Firefly Aerospace surges 9% after buying defense tech firm for $855 million",
+      "link": "https://www.cnbc.com/2025/10/06/firefly-aerospace-fly-stock-scitec.html",
+      "summary": "Firefly Aerospace is buying defense technology contractor SciTec for $855 million to beef up its national security offering.",
+      "published": "Mon, 06 Oct 2025 14:50:19 GMT",
+      "content": "Firefly Aerospace is buying defense technology contractor SciTec for $855 million to beef up its national security offering.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d5b1e945be3f6cb8aca83d2aff00d949",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FIREFLY AEROSPACE SOARS 14% POST $855M ACQUISITION 🚀\n\n- Firefly Aerospace acquires SciTec to boost national security 🛡️\n- Acquisition valued at $855 million propels Firefly's stock 📈\n- SciTec purchase aims to enhance defense tech capabilities 💪\n\nTAKEAWAY: Firefly Aerospace's 14% surge post $855 million acquisition of SciTec showcases investor confidence in its strengthened national security offerings.",
+      "exported_at": "2025-10-06T10:50:36.926758",
       "continuous_session": true
     }
   ]
