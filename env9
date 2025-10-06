@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-06T15:31:35.392556",
-    "total_articles": 2236,
-    "new_articles_in_last_fetch": 2236,
+    "created_at": "2025-10-06T16:02:04.673937",
+    "total_articles": 2239,
+    "new_articles_in_last_fetch": 2239,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -29032,6 +29032,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: S&P 500 AND NASDAQ SURGE ON AMD-OPENAI PARTNERSHIP 🚀\n\n- S&P 500 and Nasdaq climb as AMD shares soar 📈\n- AMD's partnership with OpenAI fuels market optimism 🔥\n- AMD's surge lifts Nasdaq Composite 🚀\n- Positive start to the week for major indices ✅\n- Market reacts positively to AMD's partnership news 🎯\n\nTAKEAWAY: The S&P 500 and Nasdaq start the week strong, propelled by AMD's partnership with OpenAI, showcasing market optimism and a positive outlook.",
       "exported_at": "2025-10-06T15:31:35.254291",
+      "continuous_session": true
+    },
+    {
+      "title": "Figma&apos;s stock pops 7% after OpenAI CEO Altman touts ChatGPT integration",
+      "link": "https://www.cnbc.com/2025/10/06/figma-stock-pops-15percent-after-openai-ceo-altman-touts-chatgpt-integration.html",
+      "summary": "A new assistant announced by OpenAI will allow ChatGPT users to have Figma run tasks from within their conversations.",
+      "published": "Mon, 06 Oct 2025 20:01:31 GMT",
+      "content": "A new assistant announced by OpenAI will allow ChatGPT users to have Figma run tasks from within their conversations.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "751b063dd57d00bc2661deff5a6031f8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FIGMA'S STOCK SOARS 16% POST OPENAI CEO ALTAMAN'S CHATGPT INTEGRATION 🚀\n\n- Figma's stock jumps 16% after OpenAI CEO Altman's ChatGPT integration 📈\n- OpenAI's new assistant enables Figma to execute tasks within ChatGPT 💬\n- Market responds positively to the news of Figma and OpenAI collaboration 🌟\n\nTAKEAWAY: Figma's stock surges as much as 16% following the announcement of integrating with OpenAI's ChatGPT, showing market excitement and confidence in the partnership.",
+      "exported_at": "2025-10-06T16:02:04.510375",
+      "continuous_session": true
+    },
+    {
+      "title": "S&amp;P 500, Nasdaq close at fresh records to start week, helped by AMD gains: Live updates",
+      "link": "https://www.cnbc.com/2025/10/05/stock-market-today-live-updates.html",
+      "summary": "The S&amp;P 500 and the Nasdaq Composite rose on Monday as AMD shares surged on a partnership with OpenAI.",
+      "published": "Mon, 06 Oct 2025 20:01:05 GMT",
+      "content": "The S&amp;P 500 and the Nasdaq Composite rose on Monday as AMD shares surged on a partnership with OpenAI.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f8df3f6f01d27627d78a627021b9c6ac",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: S&P 500 AND NASDAQ SURGE ON AMD-OPENAI PARTNERSHIP 🚀\n\n- S&P 500 and Nasdaq climb as AMD shares soar 📈\n- AMD's partnership with OpenAI fuels market optimism 🔥\n- AMD's surge lifts Nasdaq Composite 🚀\n- Positive start to the week for major indices ✅\n- Market reacts positively to AMD's partnership news 🎯\n\nTAKEAWAY: The S&P 500 and Nasdaq start the week strong, propelled by AMD's partnership with OpenAI, showcasing market optimism and a positive outlook.",
+      "exported_at": "2025-10-06T16:02:04.510433",
+      "continuous_session": true
+    },
+    {
+      "title": "Prosecutor resists Trump pressure to criminally charge New York AG James: MSNBC",
+      "link": "https://www.cnbc.com/2025/10/06/trump-letitia-james-new-york-prosecutor-comey.html",
+      "summary": "President Trump has complained for years about New York Attorney General Letitia James, who won a lawsuit accusing him and his company of business fraud.",
+      "published": "Mon, 06 Oct 2025 19:56:12 GMT",
+      "content": "President Trump has complained for years about New York Attorney General Letitia James, who won a lawsuit accusing him and his company of business fraud.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8db0832abcac38257476cf7d404c67c8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MSNBC: PROSECUTOR DEFIES TRUMP PRESSURE ON NY AG JAMES ⚠️\n\n- Trump pressures prosecutor to charge NY AG James criminally 🧐\n- Trump criticizes NY AG James after fraud lawsuit loss 📉\n- Prosecutor resists Trump's longstanding complaints 🛡️\n\nTAKEAWAY: Despite Trump's pressure, the prosecutor stands firm against criminally charging NY AG James, reflecting a tense political dynamic.",
+      "exported_at": "2025-10-06T16:02:04.510447",
       "continuous_session": true
     }
   ]
