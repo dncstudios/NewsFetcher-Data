@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-06T16:07:11.901287",
-    "total_articles": 2240,
-    "new_articles_in_last_fetch": 2240,
+    "created_at": "2025-10-06T16:17:29.975404",
+    "total_articles": 2242,
+    "new_articles_in_last_fetch": 2242,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -29084,6 +29084,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AMD SOARS 25% AS OPENAI INVESTS IN AI CHIPMAKER 🚀\n\n- AMD stock surges by 25% on news of OpenAI partnership 📈\n- OpenAI to use up to 6 gigawatts of AMD Instinct GPUs 🚀\n- Initial rollout of 1 gigawatt by OpenAI expected in 2026 📆\n- Collaboration set to span multiple years 🌟\n- OpenAI's investment signals confidence in AMD's technology 💪\n- Potential for significant growth and market expansion for AMD 🔥\n\nTAKEAWAY: AMD's stock skyrockets as OpenAI plans to deploy up to 6 gigawatts of AMD Instinct GPUs, showcasing a strong vote of confidence in AMD's technology and potential for growth.",
       "exported_at": "2025-10-06T16:07:11.744889",
+      "continuous_session": true
+    },
+    {
+      "title": "AppLovin stock tanks on report SEC is investigating company over data-collection practices",
+      "link": "https://www.cnbc.com/2025/10/06/applovin-stock-tanks-on-report-sec-is-investigating-company-over-data-collection-practices.html",
+      "summary": "AppLovin has been probed by the SEC over the way it collects data, Bloomberg reported, citing people familiar with the matter.",
+      "published": "Mon, 06 Oct 2025 20:13:39 GMT",
+      "content": "AppLovin has been probed by the SEC over the way it collects data, Bloomberg reported, citing people familiar with the matter.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "da31b3f57b552c362f0bb0550f474609",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: APPLOVIN STOCK PLUMMETS AS SEC PROBES DATA PRACTICES ⚠️\n\n- SEC investigates AppLovin's data-collection methods 🕵️‍♂️\n- Report from Bloomberg reveals SEC probe 📰\n- Stock price of AppLovin drops significantly 📉\n\nTAKEAWAY: AppLovin faces a stock decline as the SEC investigation into its data-collection practices creates uncertainty among investors.",
+      "exported_at": "2025-10-06T16:17:29.822191",
+      "continuous_session": true
+    },
+    {
+      "title": "Santoli&apos;s Monday wrap-up: Bull markets peak on good news, but not today",
+      "link": "https://www.cnbc.com/2025/10/06/santolis-monday-wrap-up-bull-markets-peak-on-good-news-but-not-today.html",
+      "summary": "OpenAI's latest gargantuan commitment for computing capacity via AMD chips again punished anyone who bet that the AI hype was fully priced in.",
+      "published": "Mon, 06 Oct 2025 20:10:22 GMT",
+      "content": "OpenAI's latest gargantuan commitment for computing capacity via AMD chips again punished anyone who bet that the AI hype was fully priced in.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1d8cc0d88768b6ee3cb63eb46cdbbf62",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SANTOLI'S MONDAY WRAP-UP: BULL MARKETS PEAK ON GOOD NEWS, BUT NOT TODAY 🚀\n\n- OpenAI's huge commitment for AMD chips surprises investors 🤯\n- AI hype continues to drive market speculation 🤖💰\n- Betting against AI market potential proves costly 💸\n- Market reacts positively to OpenAI's computing capacity deal 📈\n- Bull markets thrive on positive news like OpenAI's move 🐂\n- AI sector remains a hotbed for investment and innovation 🔥\n\nTAKEAWAY: OpenAI's significant commitment for computing capacity through AMD chips showcases the ongoing impact of AI hype on market speculation and investment opportunities.",
+      "exported_at": "2025-10-06T16:17:29.822266",
       "continuous_session": true
     }
   ]
