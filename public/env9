@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-06T13:44:00.159593",
-    "total_articles": 2217,
-    "new_articles_in_last_fetch": 2217,
+    "created_at": "2025-10-06T13:49:09.600000",
+    "total_articles": 2218,
+    "new_articles_in_last_fetch": 2218,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -28785,6 +28785,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BEST STOCKS: 3 NAMES SHOW GOOD THINGS HAPPEN TO GOOD CHARTS 📈\n\n- Josh Brown and Sean Russo analyze charts of top 3 stocks 📊\n- Stocks exhibit positive trends and promising patterns 🚀\n- Market experts highlight potential growth opportunities ✨\n\nTAKEAWAY: Analyzing the charts of these top 3 stocks reveals promising trends and growth opportunities, signaling potential success for investors.",
       "exported_at": "2025-10-06T13:44:00.013325",
+      "continuous_session": true
+    },
+    {
+      "title": "U.S. says subsidies for rural airline to expire as soon as Sunday",
+      "link": "https://www.cnbc.com/2025/10/06/us-says-subsidies-for-rural-airline-to-expire-as-soon-as-sunday.html",
+      "summary": "The Trump administration said Monday that subsidies for commercial air service to rural airports are set to expire as soon as Sunday due to the shutdown.",
+      "published": "Mon, 06 Oct 2025 17:34:19 GMT",
+      "content": "The Trump administration said Monday that subsidies for commercial air service to rural airports are set to expire as soon as Sunday due to the shutdown.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b406c4a87ff491f3afdcdd43853b82f4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: U.S. RURAL AIRLINE SUBSIDIES TO EXPIRE AMID SHUTDOWN ⚠️\n\n- Trump admin announces rural airport subsidies to end soon 🛬\n- Commercial air service to rural areas affected by subsidy expiration ✈️\n- Shutdown causes expiration of subsidies for rural airports 🚧\n\nTAKEAWAY: Subsidies for commercial air service to rural airports are set to expire due to the shutdown, impacting travel to remote areas.",
+      "exported_at": "2025-10-06T13:49:09.574473",
       "continuous_session": true
     }
   ]
