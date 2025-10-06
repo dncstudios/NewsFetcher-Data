@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-06T17:03:25.728849",
-    "total_articles": 2246,
-    "new_articles_in_last_fetch": 2246,
+    "created_at": "2025-10-06T17:18:42.596864",
+    "total_articles": 2247,
+    "new_articles_in_last_fetch": 2247,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -29162,6 +29162,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: M&A BOOM IN BANKING: TOP ANALYST PREDICTS NEXT TAKEOUTS 🚀\n\n- Analyst Mike Mayo sees M&A surge in banking sector\n- Mayo draws parallels to 1990s consolidation era\n- Regional and community banks likely targets for takeovers\n\nTAKEAWAY: Top analyst predicts a resurgence of M&A activities in banking, drawing parallels to the 1990s consolidation era. Regional and community banks are expected to be prime targets for takeovers.",
       "exported_at": "2025-10-06T17:03:25.703083",
+      "continuous_session": true
+    },
+    {
+      "title": "Brad Gerstner on OpenAI&apos;s dealmaking with AMD, Nvidia: &apos;The best chips will win&apos;",
+      "link": "https://www.cnbc.com/2025/10/06/gerstner-open-ai-amd-nvidia-chips.html",
+      "summary": "The Altimeter Capital founder said the deals provide \"more evidence that the world will remain compute-constrained.\"",
+      "published": "Mon, 06 Oct 2025 21:18:01 GMT",
+      "content": "The Altimeter Capital founder said the deals provide \"more evidence that the world will remain compute-constrained.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "13dcafeb379943cf176e6ac25b59d9e6",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BRAD GERSTNER: OPENAI'S DEALS SIGNAL COMPETITION IN CHIP INDUSTRY 🚀\n\n- OpenAI's partnerships with AMD, Nvidia intensify chip competition\n- Brad Gerstner sees world staying compute-constrained\n- The best chips expected to dominate the market\n\nTAKEAWAY: Brad Gerstner's view on OpenAI's collaborations with AMD and Nvidia highlights fierce competition in the chip industry, emphasizing the importance of superior technology.",
+      "exported_at": "2025-10-06T17:18:42.425554",
       "continuous_session": true
     }
   ]
