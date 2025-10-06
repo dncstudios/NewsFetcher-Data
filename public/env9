@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-06T15:05:55.113195",
-    "total_articles": 2231,
-    "new_articles_in_last_fetch": 2231,
+    "created_at": "2025-10-06T15:21:17.091569",
+    "total_articles": 2234,
+    "new_articles_in_last_fetch": 2234,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -28967,6 +28967,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CEREBRAS CEO ON IPO WITHDRAWAL AND FUTURE PLANS 🚀\n\n- Cerebras to provide investors with clearer strategy insights 💡\n- CEO Andrew Feldman hints at future IPO plans 📈\n- No specific timeline disclosed for new filing ⏰\n\nTAKEAWAY: Cerebras CEO sheds light on IPO withdrawal, promising transparency in strategy and hinting at future plans without committing to a timeline for a new filing.",
       "exported_at": "2025-10-06T15:05:54.920697",
+      "continuous_session": true
+    },
+    {
+      "title": "Nvidia is still trading at a reasonable price despite hitting an all-time high last week",
+      "link": "https://www.cnbc.com/2025/10/06/nvidia-is-still-trading-at-a-reasonable-price-despite-hitting-an-all-time-high-last-week.html",
+      "summary": "Stocks included in 22V Research's basket of GARP names included Nvidia and Micron.",
+      "published": "Mon, 06 Oct 2025 19:16:59 GMT",
+      "content": "Stocks included in 22V Research's basket of GARP names included Nvidia and Micron.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2a5fd4ed8a21ab1ce98c1dea8d553892",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NVIDIA'S SURGE TO ALL-TIME HIGH STAYS AFFORDABLE 🚀\n\n- Nvidia hits record high, remains reasonably priced 💰\n- 22V Research basket features Nvidia and Micron stocks 📊\n\nTAKEAWAY: Nvidia's recent surge to an all-time high does not compromise its affordability, making it an attractive option for investors seeking growth.",
+      "exported_at": "2025-10-06T15:21:17.009539",
+      "continuous_session": true
+    },
+    {
+      "title": "Bitcoin hits new record above $125,000 as investors look past government shutdown: CNBC Crypto World",
+      "link": "https://www.cnbc.com/video/2025/10/06/bitcoin-hits-new-record-above-125000-as-investors-look-past-government-shutdown-cnbc-crypto-world.html",
+      "summary": "On today's episode of CNBC Crypto World, bitcoin reaches a new record above $125,000 supported by recent gains in U.S. stocks and inflows into bitcoin ETFs. Plus, Lale Akoner, eToro's global market analyst, weighs in on the catalysts that helped bitcoin hit a new all-time high.",
+      "published": "Mon, 06 Oct 2025 19:07:49 GMT",
+      "content": "On today's episode of CNBC Crypto World, bitcoin reaches a new record above $125,000 supported by recent gains in U.S. stocks and inflows into bitcoin ETFs. Plus, Lale Akoner, eToro's global market analyst, weighs in on the catalysts that helped bitcoin hit a new all-time high.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1800826faad79a7860d6dd99bc36f92b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BITCOIN SURGES PAST $125,000 AMID MARKET MOMENTUM 🚀\n\n- Bitcoin hits new record fueled by U.S. stock gains 📈\n- Investors unfazed by government shutdown concerns 💪\n- Inflows into bitcoin ETFs contribute to record high 📈\n- Lale Akoner from eToro shares insights on bitcoin's rise 💡\n\nTAKEAWAY: Bitcoin breaks through $125,000 fueled by market momentum, inflows into ETFs, and investor optimism despite government shutdown worries.",
+      "exported_at": "2025-10-06T15:21:17.009573",
+      "continuous_session": true
+    },
+    {
+      "title": "We&apos;re adding a stock riding the AI buildout wave to our Bullpen watchlist",
+      "link": "https://www.cnbc.com/2025/10/06/were-adding-a-stock-riding-the-ai-buildout-wave-to-our-bullpen-watchlist.html",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "published": "Mon, 06 Oct 2025 19:01:35 GMT",
+      "content": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d01b3f48e85d87b48c2d84776a817889",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 🚀 AI STOCK ADDED TO BULLPEN WATCHLIST 📈\n\n- Investing Club adds AI stock to Bullpen watchlist 📊\n- Homestretch update released daily for last hour of trading ⏰\n\nTAKEAWAY: Dive into the AI stock riding the buildout wave with Investing Club's timely Homestretch updates.",
+      "exported_at": "2025-10-06T15:21:17.009582",
       "continuous_session": true
     }
   ]
