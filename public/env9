@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-06T14:25:10.145201",
-    "total_articles": 2227,
-    "new_articles_in_last_fetch": 2227,
+    "created_at": "2025-10-06T15:00:46.083364",
+    "total_articles": 2229,
+    "new_articles_in_last_fetch": 2229,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -28915,6 +28915,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: PRO TRADERS EYEING PFIZER & EARNINGS STOCKS 🚀\n\n- Pfizer's significant movement grabs pro traders' attention 📈\n- Analysts anticipate strong buying opportunities for beaten-down stocks 💪\n- Chief market strategist identifies promising stocks with upcoming earnings 📊\n\nTAKEAWAY: Pro traders are closely monitoring Pfizer's recent activity and potential buying opportunities in beaten-down stocks ahead of upcoming earnings releases, guided by market experts like Jay Woods.",
       "exported_at": "2025-10-06T14:25:09.981164",
+      "continuous_session": true
+    },
+    {
+      "title": "There&apos;s one date if the shutdown drags on where pressure will really start to mount on Trump and Congress",
+      "link": "https://www.cnbc.com/2025/10/06/theres-one-date-if-the-shutdown-drags-on-where-pressure-will-really-start-to-mount-on-trump-and-congress.html",
+      "summary": "While the sides have dug in their heels regarding the budget, missing a pay period for the military may not be seen as worth the fallout.",
+      "published": "Mon, 06 Oct 2025 18:55:04 GMT",
+      "content": "While the sides have dug in their heels regarding the budget, missing a pay period for the military may not be seen as worth the fallout.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "dfcf421416e771d3fb4278e04b802460",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PRESSURE MOUNTS ON TRUMP AND CONGRESS AS SHUTDOWN DRAGS ON ⚠️\n\n- Budget standoff intensifies as sides refuse to budge 🚨\n- Military pay delay could trigger significant backlash 💥\n- Shutdown reaches critical point with impending pay period 📆\n\nTAKEAWAY: The longer the shutdown persists, the closer it gets to a tipping point where the delay in military pay could spark severe repercussions, putting pressure on Trump and Congress to find a resolution.",
+      "exported_at": "2025-10-06T15:00:45.924881",
+      "continuous_session": true
+    },
+    {
+      "title": "We&apos;re booking profits in a lagging stock as it pops on an OpenAI integration",
+      "link": "https://www.cnbc.com/2025/10/06/were-booking-profits-in-a-disappointing-stock-as-it-pops-on-an-openai-integration.html",
+      "summary": "We'll realize a roughly 13% gain on stock purchased in January 2022.",
+      "published": "Mon, 06 Oct 2025 18:38:29 GMT",
+      "content": "We'll realize a roughly 13% gain on stock purchased in January 2022.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "cfc80487e6b8258604e0c6b7d0344e7f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BOOKING PROFITS AS STOCK SOARS ON OPENAI INTEGRATION 🚀\n\n- Realizing ~13% gain on stock bought in Jan 2022 💰\n- Stock surges due to integration with OpenAI 📈\n- Seizing opportunity to capitalize on profit 🤑\n\nTAKEAWAY: Capitalizing on a 13% gain from a stock surge following its integration with OpenAI, maximizing profits for a successful investment.",
+      "exported_at": "2025-10-06T15:00:45.924952",
       "continuous_session": true
     }
   ]
