@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-06T18:09:37.250346",
-    "total_articles": 2250,
-    "new_articles_in_last_fetch": 2250,
+    "created_at": "2025-10-06T19:15:37.217578",
+    "total_articles": 2252,
+    "new_articles_in_last_fetch": 2252,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -29214,6 +29214,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCK FUTURES STABLE DESPITE RECORD HIGHS FOR S&P 500, NASDAQ 📈\n\n- S&P 500, Nasdaq hit new highs despite U.S. gov shutdown 🚀\n- Investors unfazed by concerns, market remains strong 💪\n- Stock futures show stability amidst record-breaking market 📊\n\nTAKEAWAY: Despite the U.S. government shutdown, stock futures remain stable as S&P 500 and Nasdaq reach new highs, showcasing investor confidence and market strength.",
       "exported_at": "2025-10-06T18:09:37.081817",
+      "continuous_session": true
+    },
+    {
+      "title": "Ex-Tesla board member reveals how he&apos;s playing the EV boom",
+      "link": "https://www.cnbc.com/2025/10/07/ex-tesla-board-member-steve-westly-reveals-how-hes-playing-the-ev-boom.html",
+      "summary": "\"Whoever wins this technology battle is likely to have the most valuable vehicle company in the world,\"  former Tesla board member Steve Westly said.",
+      "published": "Mon, 06 Oct 2025 23:13:38 GMT",
+      "content": "\"Whoever wins this technology battle is likely to have the most valuable vehicle company in the world,\"  former Tesla board member Steve Westly said.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "62909846d2f36a8197494a4e92d0c465",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: EX-TESLA BOARD MEMBER'S INSIGHTS ON WINNING THE EV BOOM 🚀\n\n- Winning tech battle = most valuable vehicle company globally 🌎\n- Steve Westly emphasizes importance of technology in EV industry ⚡️\n- Insightful views on the future of electric vehicles 🚗\n\nTAKEAWAY: Steve Westly's perspective highlights the significance of technology in the electric vehicle industry, hinting at the potential for the ultimate winner to become the world's most valuable vehicle company.",
+      "exported_at": "2025-10-06T19:15:37.065651",
+      "continuous_session": true
+    },
+    {
+      "title": "Take-Two Interactive&apos;s &apos;scarcity value&apos; could send the stock higher, Jim Cramer says",
+      "link": "https://www.cnbc.com/2025/10/06/jim-cramer-take-two-scarcity-value-stock.html",
+      "summary": "CNBC's Jim Cramer on Monday explained why he's bullish on Take-Two Interactive.",
+      "published": "Mon, 06 Oct 2025 22:56:00 GMT",
+      "content": "CNBC's Jim Cramer on Monday explained why he's bullish on Take-Two Interactive.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a88c3078be579045c029c14eba075495",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TAKE-TWO INTERACTIVE'S 'SCARCITY VALUE' COULD DRIVE STOCK HIGHER 🚀\n\n- Jim Cramer bullish on Take-Two Interactive's potential 📈\n- Emphasizes company's 'scarcity value' 🌟\n- Positive outlook for Take-Two Interactive's stock 💰\n- Cramer's insights hint at stock's upward momentum 📈\n- Investor interest likely to increase based on Cramer's analysis 🔥\n\nTAKEAWAY: Jim Cramer's bullish stance on Take-Two Interactive, particularly focusing on its 'scarcity value,' could drive the stock higher with increased investor interest and positive outlook.",
+      "exported_at": "2025-10-06T19:15:37.065697",
       "continuous_session": true
     }
   ]
