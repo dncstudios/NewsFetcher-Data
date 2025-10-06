@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-06T08:06:46.815843",
-    "total_articles": 2172,
-    "new_articles_in_last_fetch": 2172,
+    "created_at": "2025-10-06T08:22:09.420700",
+    "total_articles": 2174,
+    "new_articles_in_last_fetch": 2174,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -28201,6 +28201,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: GOLDMAN SACHS RAISES NVIDIA PRICE TARGET, PREDICTS 12% GAIN 🚀\n\n- Goldman Sachs ups Nvidia's target, expects 12% growth 📈\n- Analysts confident in Nvidia's partnerships 🤝\n- Price target increase reflects optimism in chipmaker's potential 🌟\n\nTAKEAWAY: Goldman Sachs' bullish outlook on Nvidia's partnerships propels a 12% potential gain in share value, showcasing confidence in the chipmaker's future growth.",
       "exported_at": "2025-10-06T08:06:46.660850",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: AMD, Comerica, Micron Technology &amp; more",
+      "link": "https://www.cnbc.com/2025/10/06/stocks-making-the-biggest-moves-premarket-amd-cma-mu.html",
+      "summary": "These are the stocks posting the largest moves in early trading.",
+      "published": "Mon, 06 Oct 2025 12:15:00 GMT",
+      "content": "These are the stocks posting the largest moves in early trading.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "addb77fd059125c457e99db77f2df848",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS MAKING BIGGEST PREMARKET MOVES 🚀\n\n- AMD, Comerica, Micron Technology among top movers 🔝\n- Early trading sees significant shifts in stock prices 📈\n- Market volatility evident in premarket movements 💥\n\nTAKEAWAY: Early trading showcases notable movements in stocks like AMD, Comerica, and Micron Technology, reflecting market volatility and potential opportunities for investors.",
+      "exported_at": "2025-10-06T08:22:09.272832",
+      "continuous_session": true
+    },
+    {
+      "title": "Nobel medicine prize goes to researchers into immune system precision",
+      "link": "https://www.cnbc.com/2025/10/06/nobel-medicine-prize-goes-to-researchers-into-immune-system-precision.html",
+      "summary": "American scientists Mary Brunkow and Fred Ramsdell and Shimon Sakaguchi from Japan won the 2025 Nobel Prize in Physiology or Medicine on Monday.",
+      "published": "Mon, 06 Oct 2025 12:14:46 GMT",
+      "content": "American scientists Mary Brunkow and Fred Ramsdell and Shimon Sakaguchi from Japan won the 2025 Nobel Prize in Physiology or Medicine on Monday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "aa8d1c9e3a5c5548e444d5b4d1b06eb8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NOBEL MEDICINE PRIZE AWARDED FOR IMMUNE SYSTEM PRECISION 🏆\n\n- Mary Brunkow, Fred Ramsdell, and Shimon Sakaguchi win 2025 Nobel Prize 🥇\n- Awarded in Physiology or Medicine for immune system research 🩺\n- American and Japanese scientists recognized for their contributions 🇺🇸🇯🇵\n\nTAKEAWAY: Mary Brunkow, Fred Ramsdell, and Shimon Sakaguchi's groundbreaking research in immune system precision earns them the prestigious 2025 Nobel Prize in Physiology or Medicine.",
+      "exported_at": "2025-10-06T08:22:09.272881",
       "continuous_session": true
     }
   ]
