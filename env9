@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-06T08:42:36.488284",
-    "total_articles": 2177,
-    "new_articles_in_last_fetch": 2177,
+    "created_at": "2025-10-06T08:52:53.865054",
+    "total_articles": 2181,
+    "new_articles_in_last_fetch": 2181,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -28266,6 +28266,58 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BESSANT TO STAY AS IRS COMMISSIONER, NEW DEPUTY TO BE ANNOUNCED ⚡️\n\n- Treasury Secretary Bessent to continue as IRS commissioner 🏛️\n- New official to be named as his top deputy 🔝\n- Continuity in leadership expected at IRS 🔄\n\nTAKEAWAY: Treasury Secretary Bessent will maintain his position as IRS commissioner, ensuring stability in leadership with the announcement of a new top deputy.",
       "exported_at": "2025-10-06T08:42:36.348001",
+      "continuous_session": true
+    },
+    {
+      "title": "Verizon names former PayPal boss Dan Schulman as new CEO, replacing Hans Vestberg",
+      "link": "https://www.cnbc.com/2025/10/06/verizon-ceo-dan-schulman-replaces-hans-vestberg.html",
+      "summary": "Verizon on Monday named former PayPal CEO Dan Schulman as the company's new CEO, effective immediately and replacing Hans Vestberg.",
+      "published": "Mon, 06 Oct 2025 12:52:27 GMT",
+      "content": "Verizon on Monday named former PayPal CEO Dan Schulman as the company's new CEO, effective immediately and replacing Hans Vestberg.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ef28c9f9fac49b5dbe9d50bba991932e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: VERIZON APPOINTS DAN SCHULMAN AS NEW CEO 🚀\n\n- Dan Schulman takes over as Verizon's CEO immediately 📈\n- Former PayPal CEO replaces outgoing CEO Hans Vestberg 🔄\n- Leadership change aims to drive Verizon's future growth 🌱\n\nTAKEAWAY: Verizon's appointment of Dan Schulman as CEO signals a strategic move to lead the company towards future growth and success.",
+      "exported_at": "2025-10-06T08:52:53.701921",
+      "continuous_session": true
+    },
+    {
+      "title": "Mike Novogratz&apos;s Galaxy Digital jumps 10% after launching retail trading app to compete against Robinhood",
+      "link": "https://www.cnbc.com/2025/10/06/novogratzs-galaxy-digital-jumps-10percent-launches-retail-app-to-rival-robinhood.html",
+      "summary": "Galaxy Digital introduced a commission-free trading platform, Galaxy One, on Monday that offers similar services to rival Robinhood.",
+      "published": "Mon, 06 Oct 2025 12:42:06 GMT",
+      "content": "Galaxy Digital introduced a commission-free trading platform, Galaxy One, on Monday that offers similar services to rival Robinhood.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "22357b2a9d89342681536a50a0a9cc25",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MIKE NOVOGRATZ'S GALAXY DIGITAL SOARS 10% ON NEW TRADING APP LAUNCH 🚀\n\n- Galaxy Digital's stock surges 10% post-launch of Galaxy One app 📈\n- Commission-free trading platform competes directly with Robinhood ✅\n- Galaxy One offers similar services to popular rival app 📱\n- Investors bullish on Galaxy Digital's new retail trading offering 🔥\n- Launch signals Galaxy Digital's push to expand its market share 🎯\n- Positive market response reflects confidence in Galaxy One's potential ⚡️\n\nTAKEAWAY: Galaxy Digital's stock jumps 10% following the successful launch of Galaxy One, positioning the company to compete fiercely with Robinhood in the retail trading space.",
+      "exported_at": "2025-10-06T08:52:53.701978",
+      "continuous_session": true
+    },
+    {
+      "title": "Jim Cramer&apos;s top 10 things to watch in the stock market Monday",
+      "link": "https://www.cnbc.com/2025/10/06/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
+      "summary": "AMD's massive deal with OpenAI seems impossible, but it happened.",
+      "published": "Mon, 06 Oct 2025 12:38:56 GMT",
+      "content": "AMD's massive deal with OpenAI seems impossible, but it happened.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "58407c30469d22be7789e7801ab0361f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JIM CRAMER'S TOP 10 STOCK MARKET WATCHLIST 🚀\n\n- AMD's groundbreaking deal with OpenAI shocks market 💥\n- Tech sector set for a shakeup with this unexpected alliance 🌐\n- OpenAI partnership propels AMD into the spotlight 🌟\n\nTAKEAWAY: AMD's surprising collaboration with OpenAI is a game-changer, reshaping the tech landscape and fueling market excitement.",
+      "exported_at": "2025-10-06T08:52:53.701991",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump administration resumes student loan forgiveness for some borrowers",
+      "link": "https://www.cnbc.com/2025/10/06/student-loan-forgiveness-for-ibr-resumes.html",
+      "summary": "The Trump administration has restarted student loan forgiveness on the IBR program, a benefit that has been partially paused since July.",
+      "published": "Mon, 06 Oct 2025 12:45:18 GMT",
+      "content": "The Trump administration has restarted student loan forgiveness on the IBR program, a benefit that has been partially paused since July.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ca09c519683bcf7df082310fa6b90cdb",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP ADMINISTRATION RESUMES STUDENT LOAN FORGIVENESS 🚀\n\n- Student loan forgiveness on IBR program restarted ✅\n- Benefit partially paused since July resumes 📈\n- Positive news for eligible borrowers 🎓\n\nTAKEAWAY: Trump administration's decision to resume student loan forgiveness on the IBR program brings relief to eligible borrowers after a partial pause since July.",
+      "exported_at": "2025-10-06T08:52:53.702004",
       "continuous_session": true
     }
   ]
