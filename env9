@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-06T12:01:56.649971",
-    "total_articles": 2204,
-    "new_articles_in_last_fetch": 2204,
+    "created_at": "2025-10-06T12:12:11.924577",
+    "total_articles": 2206,
+    "new_articles_in_last_fetch": 2206,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -28616,6 +28616,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JAPAN'S STOCK MARKET SURGES 5% OVERNIGHT 🚀\n\n- Japan's election outcome signals ongoing stimulus 💰\n- Investors trust Bank of Japan's stable leadership 🏦\n- Market interprets election results positively 📈\n- Surge attributed to expectations of economic support 📈\n- Investors optimistic about Japan's financial stability 💪\n\nTAKEAWAY: Japan's stock market surges 5% overnight due to optimistic investor sentiment towards continued stimulus and stable leadership at the Bank of Japan. 📈🚀",
       "exported_at": "2025-10-06T12:01:56.507705",
+      "continuous_session": true
+    },
+    {
+      "title": "Anthropic lands its biggest enterprise deployment ever with Deloitte deal",
+      "link": "https://www.cnbc.com/2025/10/06/anthropic-deloitte-enterprise-ai.html",
+      "summary": "Deloitte is rolling out Anthropic's Claude to more than 470,000 employees across 150 countries.",
+      "published": "Mon, 06 Oct 2025 16:00:01 GMT",
+      "content": "Deloitte is rolling out Anthropic's Claude to more than 470,000 employees across 150 countries.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8c8efa298bc48d305a979ee8d8ecc356",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ANTHROPIC SECURES LARGEST ENTERPRISE DEAL YET WITH DELOITTE 🚀\n\n- Deloitte to implement Anthropic's Claude for 470,000+ employees 🌍\n- Deployment spans 150 countries, showcasing global reach 🌏\n- Claude adoption signals trust in Anthropic's technology 💼\n- Partnership reflects confidence in Anthropic's solutions 🤝\n- Deloitte deal strengthens Anthropic's market presence 📈\n- Massive deployment boosts Anthropic's credibility and visibility 🚀\n\nTAKEAWAY: Anthropic's groundbreaking partnership with Deloitte for Claude deployment to over 470,000 employees across 150 countries solidifies its position as a trusted global technology provider.",
+      "exported_at": "2025-10-06T12:12:11.898948",
+      "continuous_session": true
+    },
+    {
+      "title": "Cramer explains why investors should own Boeing, weighs in on AMD-OpenAI deal",
+      "link": "https://www.cnbc.com/2025/10/06/cramer-explains-why-you-should-own-boeing-weighs-in-on-amd-openai-deal.html",
+      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "published": "Mon, 06 Oct 2025 16:10:30 GMT",
+      "content": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1ed3ae571ec6416036c82a61dd6312a6",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CRAMER'S INSIGHTS ON BOEING & AMD-OPENAI DEAL 🚀\n\n- Cramer advocates for investors to own Boeing stock ✈️\n- Analysis on AMD's collaboration with OpenAI 🤖\n- The Investing Club's \"Morning Meeting\" convenes daily at 10:20 a.m. ET ⏰\n\nTAKEAWAY: Cramer provides valuable insights on why investors should consider owning Boeing shares and discusses the AMD-OpenAI deal, enhancing investor knowledge.",
+      "exported_at": "2025-10-06T12:12:11.898959",
       "continuous_session": true
     }
   ]
