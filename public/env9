@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-06T02:21:05.901694",
-    "total_articles": 2160,
-    "new_articles_in_last_fetch": 2160,
+    "created_at": "2025-10-06T04:02:31.584894",
+    "total_articles": 2161,
+    "new_articles_in_last_fetch": 2161,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -28045,6 +28045,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: 'THE SYSTEM IS RIGGED': FOUNDERS AND VCS ON UK'S AMBITION DEFICIT 🚨\n\n- UK entrepreneurs persist with grit despite rigged system\n- Founders and VCs express concerns over UK's ambition deficit\n- Challenges faced by entrepreneurs in the UK highlighted\n\nTAKEAWAY: UK entrepreneurs persevere with determination despite facing challenges and expressing concerns about the country's ambition deficit.",
       "exported_at": "2025-10-06T02:21:05.745250",
+      "continuous_session": true
+    },
+    {
+      "title": "France&apos;s new PM resigns sparking fresh political chaos",
+      "link": "https://www.cnbc.com/2025/10/06/frances-new-pm-resigns-as-political-chaos-continues.html",
+      "summary": "France's new Prime Minister Sebastien Lecornu has resigned just weeks after his appointment to the role, plunging the country into a fresh political crisis.",
+      "published": "Mon, 06 Oct 2025 08:01:19 GMT",
+      "content": "France's new Prime Minister Sebastien Lecornu has resigned just weeks after his appointment to the role, plunging the country into a fresh political crisis.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b9cd0b624ebfff19c0aaca19a4fd986b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FRANCE'S NEW PM RESIGNS, SPARKING POLITICAL CHAOS 🚨\n\n- Sebastien Lecornu resigns as France's Prime Minister 🇫🇷\n- Fresh political crisis grips the nation 🌪️\n- Resignation comes just weeks after Lecornu's appointment 🗓️\n\nTAKEAWAY: France faces a new wave of political instability as Prime Minister Sebastien Lecornu's sudden resignation throws the country into chaos.",
+      "exported_at": "2025-10-06T04:02:31.439492",
       "continuous_session": true
     }
   ]
