@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-06T13:33:42.802663",
-    "total_articles": 2213,
-    "new_articles_in_last_fetch": 2213,
+    "created_at": "2025-10-06T13:38:51.161498",
+    "total_articles": 2215,
+    "new_articles_in_last_fetch": 2215,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -28733,6 +28733,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: OPENAI DEV DAY HIGHLIGHTS: ALTMA'S KEYNOTE AND JONY IVE'S INSIGHTS 🚀\n\n- OpenAI seals AI chip deal with AMD 💻\n- Altman presents latest research and products to developers 🌟\n- Jony Ive shares insights at flagship event 🧠\n- Focus on cutting-edge engineering showcased 🔬\n- Event highlights advancements in AI technology 📈\n\nTAKEAWAY: OpenAI leverages AMD deal and flagship event to showcase cutting-edge AI research, products, and engineering to developers, with insights from Jony Ive.",
       "exported_at": "2025-10-06T13:33:42.773442",
+      "continuous_session": true
+    },
+    {
+      "title": "OpenAI DevDay live: Sam Altman announces app tool, agentic AI developer",
+      "link": "https://www.cnbc.com/2025/10/06/open-ai-devday-live-updates-altman-jony-ive.html",
+      "summary": "Fresh off an AI chip deal with AMD, OpenAI makes its case to developers about the latest in research, product and engineering.",
+      "published": "Mon, 06 Oct 2025 17:38:17 GMT",
+      "content": "Fresh off an AI chip deal with AMD, OpenAI makes its case to developers about the latest in research, product and engineering.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9694504c3cda453fa6706f4dc9c26c8b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: OPENAI DEV DAY HIGHLIGHTS: ALTMA'S KEYNOTE AND JONY IVE'S INSIGHTS 🚀\n\n- OpenAI seals AI chip deal with AMD 💻\n- Altman presents latest research and products to developers 🌟\n- Jony Ive shares insights at flagship event 🧠\n- Focus on cutting-edge engineering showcased 🔬\n- Event highlights advancements in AI technology 📈\n\nTAKEAWAY: OpenAI leverages AMD deal and flagship event to showcase cutting-edge AI research, products, and engineering to developers, with insights from Jony Ive.",
+      "exported_at": "2025-10-06T13:38:51.136434",
+      "continuous_session": true
+    },
+    {
+      "title": "Cerebras CEO explains IPO withdrawal, says it still intends to go public",
+      "link": "https://www.cnbc.com/2025/10/06/cerebras-ceo-says-company-still-intends-to-go-public.html",
+      "summary": "Cerebras wants to give investors clearer information on its strategy, but CEO Andrew Feldman didn't provide a timeline for a new filing.",
+      "published": "Mon, 06 Oct 2025 17:08:14 GMT",
+      "content": "Cerebras wants to give investors clearer information on its strategy, but CEO Andrew Feldman didn't provide a timeline for a new filing.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6b1076c2f77b61b17b2a867a51d644e0",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CEREBRAS CEO ON IPO WITHDRAWAL AND FUTURE PLANS 🚀\n\n- Cerebras to provide investors with clearer strategy insights 💡\n- CEO Andrew Feldman hints at future IPO plans 📈\n- No specific timeline disclosed for new filing ⏰\n\nTAKEAWAY: Cerebras CEO sheds light on IPO withdrawal, promising transparency in strategy and hinting at future plans without committing to a timeline for a new filing.",
+      "exported_at": "2025-10-06T13:38:51.136443",
       "continuous_session": true
     }
   ]
