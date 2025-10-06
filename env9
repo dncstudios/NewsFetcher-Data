@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-06T07:36:03.545219",
-    "total_articles": 2169,
-    "new_articles_in_last_fetch": 2169,
+    "created_at": "2025-10-06T07:46:16.757819",
+    "total_articles": 2170,
+    "new_articles_in_last_fetch": 2170,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -28162,6 +28162,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ANALYSTS BULLISH ON KLARNA POST-IPO 🚀\n\n- Sell-side analysts predict Klarna stock could surge 18% to 35% 📈\n- Positive outlook on buy now, pay later sector 🌟\n- Market anticipates further growth for Klarna 💥\n\nTAKEAWAY: Analysts are optimistic about Klarna's post-IPO performance, forecasting a potential rally of 18% to 35% as the buy now, pay later sector gains momentum.",
       "exported_at": "2025-10-06T07:36:03.393453",
+      "continuous_session": true
+    },
+    {
+      "title": "U.S. judge blocks Trump from sending any National Guard troops to Portland for now",
+      "link": "https://www.cnbc.com/2025/10/06/us-judge-blocks-trump-sending-california-national-guard-portland-for-now.html",
+      "summary": "A federal judge in Oregon on Sunday temporarily blocked the Trump administration from sending any National Guard troops to police Portland, Oregon.",
+      "published": "Mon, 06 Oct 2025 11:44:01 GMT",
+      "content": "A federal judge in Oregon on Sunday temporarily blocked the Trump administration from sending any National Guard troops to police Portland, Oregon.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3f4e22364a463ed93d33cf17d6333856",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: U.S. JUDGE HALTS TRUMP'S NATIONAL GUARD DEPLOYMENT TO PORTLAND ⚠️\n\n- Federal judge blocks Trump from sending National Guard to Portland 🚫\n- Temporary halt on administration's troop deployment ⏸️\n- Legal intervention prevents National Guard policing in Oregon 🛑\n\nTAKEAWAY: A federal judge's ruling temporarily puts a stop to Trump's plans to deploy National Guard troops to police Portland, Oregon.",
+      "exported_at": "2025-10-06T07:46:16.618534",
       "continuous_session": true
     }
   ]
