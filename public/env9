@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-05T20:20:51.754954",
-    "total_articles": 2154,
-    "new_articles_in_last_fetch": 2154,
+    "created_at": "2025-10-05T22:42:48.506026",
+    "total_articles": 2155,
+    "new_articles_in_last_fetch": 2155,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -27967,6 +27967,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JAPAN STOCKS SURGE 3% AS PRO-STIMULUS LEADER ELECTED 🚀\n\n- Japan equities soar following Sanae Takaichi's election as LDP leader 📈\n- Takaichi's pro-stimulus stance fuels investor optimism 🌟\n- Market reacts positively to ruling party's conservative choice 📈\n- Japan leads Asia in gains after Takaichi's election 🚀\n- Takaichi's election signals potential economic stimulus 📈\n- Investor confidence boosted by Takaichi's pro-growth policies 📈\n\nTAKEAWAY: Japan's stock market skyrockets over 3% as Sanae Takaichi's pro-stimulus leadership promises economic growth and investor confidence in the country.",
       "exported_at": "2025-10-05T20:20:51.608382",
+      "continuous_session": true
+    },
+    {
+      "title": "U.S. tech giants hit pause on India data center deals under weight of trade uncertainty",
+      "link": "https://www.cnbc.com/2025/10/06/big-tech-delays-india-data-center-deals-under-weight-of-trade-tensions.html",
+      "summary": "India’s data center boom has hit a pause as U.S. Big Tech companies rethink billion-dollar projects, wary of trade, visa fees, and a geopolitical chill.",
+      "published": "Mon, 06 Oct 2025 02:39:24 GMT",
+      "content": "India’s data center boom has hit a pause as U.S. Big Tech companies rethink billion-dollar projects, wary of trade, visa fees, and a geopolitical chill.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ef3b5360ab9cb9c0b87769c5cbce724b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: U.S. TECH GIANTS PAUSE INDIA DATA CENTER DEALS AMID TRADE UNCERTAINTY 🚨\n\n- India's data center growth halts as U.S. Big Tech reconsiders projects 💻\n- Tech firms cautious of trade issues, visa costs, and geopolitical tensions 🛑\n- Billion-dollar investments on hold amidst uncertain economic climate 💰\n\nTAKEAWAY: U.S. tech giants hitting pause on India data center deals signal caution amid trade uncertainty, visa fee concerns, and geopolitical tensions, impacting billion-dollar projects.",
+      "exported_at": "2025-10-05T22:42:48.352946",
       "continuous_session": true
     }
   ]
