@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-06T17:23:52.553505",
-    "total_articles": 2248,
-    "new_articles_in_last_fetch": 2248,
+    "created_at": "2025-10-06T17:39:06.917550",
+    "total_articles": 2249,
+    "new_articles_in_last_fetch": 2249,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -29188,6 +29188,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: U.S. SUPREME COURT ALLOWS ORDER FORCING GOOGLE TO MAKE APP STORE REFORMS 🚀\n\n- Supreme Court rejects Google's request to stop app store changes\n- Judge's order mandates significant reforms to Google Play\n- Decision follows lawsuit by Epic Games against Google\n- Google to appeal the court's ruling\n- Epic Games' lawsuit impacts Google's app store policies\n\nTAKEAWAY: The U.S. Supreme Court's decision to uphold the order for Google to implement app store reforms, amidst the legal battle with Epic Games, marks a significant moment in tech regulation.",
       "exported_at": "2025-10-06T17:23:52.400546",
+      "continuous_session": true
+    },
+    {
+      "title": "OpenAI DevDay live: Altman comments on &apos;strange&apos; stock moves of demo companies",
+      "link": "https://www.cnbc.com/2025/10/06/open-ai-devday-live-updates-altman-jony-ive.html",
+      "summary": "Fresh off an AI chip deal with AMD, OpenAI makes its case to developers about the latest in research, product and engineering.",
+      "published": "Mon, 06 Oct 2025 21:38:42 GMT",
+      "content": "Fresh off an AI chip deal with AMD, OpenAI makes its case to developers about the latest in research, product and engineering.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f3b734c860fe05ea5af8d4c50e674f45",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: OPENAI DEV DAY HIGHLIGHTS: ALTMA'S KEYNOTE AND JONY IVE'S INSIGHTS 🚀\n\n- OpenAI seals AI chip deal with AMD 💻\n- Altman presents latest research and products to developers 🌟\n- Jony Ive shares insights at flagship event 🧠\n- Focus on cutting-edge engineering showcased 🔬\n- Event highlights advancements in AI technology 📈\n\nTAKEAWAY: OpenAI leverages AMD deal and flagship event to showcase cutting-edge AI research, products, and engineering to developers, with insights from Jony Ive.",
+      "exported_at": "2025-10-06T17:39:06.756527",
       "continuous_session": true
     }
   ]
