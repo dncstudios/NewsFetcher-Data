@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-06T08:52:53.865054",
-    "total_articles": 2181,
-    "new_articles_in_last_fetch": 2181,
+    "created_at": "2025-10-06T09:13:17.854960",
+    "total_articles": 2182,
+    "new_articles_in_last_fetch": 2182,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -28318,6 +28318,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP ADMINISTRATION RESUMES STUDENT LOAN FORGIVENESS 🚀\n\n- Student loan forgiveness on IBR program restarted ✅\n- Benefit partially paused since July resumes 📈\n- Positive news for eligible borrowers 🎓\n\nTAKEAWAY: Trump administration's decision to resume student loan forgiveness on the IBR program brings relief to eligible borrowers after a partial pause since July.",
       "exported_at": "2025-10-06T08:52:53.702004",
+      "continuous_session": true
+    },
+    {
+      "title": "Paul Tudor Jones says ingredients are in place for massive rally before a &apos;blow off&apos; top to bull market",
+      "link": "https://www.cnbc.com/2025/10/06/paul-tudor-jones-says-ingredients-are-in-place-for-massive-rally-before-a-blow-off-top-to-bull-market.html",
+      "summary": "Paul Tudor Jones said today's market is reminiscent of the setup leading up to the burst of the dotcom bubble in late 1999.",
+      "published": "Mon, 06 Oct 2025 13:12:49 GMT",
+      "content": "Paul Tudor Jones said today's market is reminiscent of the setup leading up to the burst of the dotcom bubble in late 1999.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "36f614cab3383c7c7bc01ed40509ac8c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PAUL TUDOR JONES PREDICTS MASSIVE RALLY BEFORE BULL MARKET'S 'BLOW OFF' 🚀\n\n- Jones sees market setup similar to dotcom bubble burst ⚠️\n- Ingredients align for a significant rally 📈\n- Potential for a 'blow off' top in the current bull market 🐂\n- Comparison drawn between today's market and late 1999 🔄\n- Market conditions hint at a major upswing 📈\n- Jones hints at a potential market climax 🌟\n\nTAKEAWAY: Paul Tudor Jones anticipates a significant rally in today's market, drawing parallels to the dotcom bubble setup, foreseeing a potential 'blow off' top in the current bull market.",
+      "exported_at": "2025-10-06T09:13:17.696933",
       "continuous_session": true
     }
   ]
