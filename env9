@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-06T05:13:37.980818",
-    "total_articles": 2163,
-    "new_articles_in_last_fetch": 2163,
+    "created_at": "2025-10-06T05:54:13.642159",
+    "total_articles": 2164,
+    "new_articles_in_last_fetch": 2164,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -28084,6 +28084,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TESLA'S TEASER VIDEO IGNITES RUMORS OF NEW ROADSTER OR MASS MARKET MODEL 🚀\n\n- Tesla's teaser video fuels anticipation for next-gen Roadster or mass market release\n- Speculation swirls around potential new product launch \n- Fans and investors eager for Tesla's next move \n- Video hints at exciting developments in the works \n- Market buzzing with excitement over potential new offerings \n\nTAKEAWAY: Tesla's teaser video stirs up excitement and speculation as fans and investors eagerly await the potential launch of a new Roadster or mass market model.",
       "exported_at": "2025-10-06T05:13:37.851588",
+      "continuous_session": true
+    },
+    {
+      "title": "French PM resigns after 27 days sparking fresh political chaos",
+      "link": "https://www.cnbc.com/2025/10/06/frances-new-pm-resigns-as-political-chaos-continues.html",
+      "summary": "France's new Prime Minister Sebastien Lecornu has resigned just weeks after his appointment to the role, plunging the country into a fresh political crisis.",
+      "published": "Mon, 06 Oct 2025 09:53:30 GMT",
+      "content": "France's new Prime Minister Sebastien Lecornu has resigned just weeks after his appointment to the role, plunging the country into a fresh political crisis.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a1fb9ced2193a7a7edae24a4b2036134",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FRANCE'S NEW PM RESIGNS, SPARKING POLITICAL CHAOS 🚨\n\n- Sebastien Lecornu resigns as France's Prime Minister 🇫🇷\n- Fresh political crisis grips the nation 🌪️\n- Resignation comes just weeks after Lecornu's appointment 🗓️\n\nTAKEAWAY: France faces a new wave of political instability as Prime Minister Sebastien Lecornu's sudden resignation throws the country into chaos.",
+      "exported_at": "2025-10-06T05:54:13.541040",
       "continuous_session": true
     }
   ]
