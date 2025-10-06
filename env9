@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-06T16:22:36.937693",
-    "total_articles": 2243,
-    "new_articles_in_last_fetch": 2243,
+    "created_at": "2025-10-06T16:53:10.188330",
+    "total_articles": 2244,
+    "new_articles_in_last_fetch": 2244,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -29123,6 +29123,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: S&P 500 AND NASDAQ SURGE ON AMD-OPENAI PARTNERSHIP 🚀\n\n- S&P 500 and Nasdaq climb as AMD shares soar 📈\n- AMD's partnership with OpenAI fuels market optimism 🔥\n- AMD's surge lifts Nasdaq Composite 🚀\n- Positive start to the week for major indices ✅\n- Market reacts positively to AMD's partnership news 🎯\n\nTAKEAWAY: The S&P 500 and Nasdaq start the week strong, propelled by AMD's partnership with OpenAI, showcasing market optimism and a positive outlook.",
       "exported_at": "2025-10-06T16:22:36.790150",
+      "continuous_session": true
+    },
+    {
+      "title": "Constellation Brands reiterates lower full-year guidance",
+      "link": "https://www.cnbc.com/2025/10/06/constellation-brands-stz-q2-2026-earnings.html",
+      "summary": "Modelo owner Constellation Brands reported second-quarter earnings Monday, reiterating a lower full-year guidance due to macroeconomic headwinds.",
+      "published": "Mon, 06 Oct 2025 20:50:15 GMT",
+      "content": "Modelo owner Constellation Brands reported second-quarter earnings Monday, reiterating a lower full-year guidance due to macroeconomic headwinds.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1d1d676f67924e4c1152d5f7af2a740b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CONSTELLATION BRANDS REITERATES LOWER FULL-YEAR GUIDANCE ⚠️\n\n- Constellation Brands reiterates lower full-year guidance 📉\n- Second-quarter earnings reported with macroeconomic headwinds 🌍\n- Modelo owner faces challenges impacting financial outlook 💼\n\nTAKEAWAY: Constellation Brands faces macroeconomic challenges leading to a reiteration of lower full-year guidance, impacting its financial outlook.",
+      "exported_at": "2025-10-06T16:53:10.028091",
       "continuous_session": true
     }
   ]
