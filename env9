@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-06T06:50:15.184689",
-    "total_articles": 2167,
-    "new_articles_in_last_fetch": 2167,
+    "created_at": "2025-10-06T07:10:37.801390",
+    "total_articles": 2168,
+    "new_articles_in_last_fetch": 2168,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -28136,6 +28136,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FIFTH THIRD BANCORP ACQUIRES COMERICA FOR $10.9 BILLION 🚀\n\n- Fifth Third Bancorp to buy Comerica in $10.9 billion all-stock deal 💰\n- Acquisition marks a strategic move in the banking sector 🏦\n- Deal solidifies Fifth Third Bancorp's position in the market ✅\n- All-stock transaction highlights confidence in future growth 📈\n- Merger expected to enhance both banks' capabilities and reach 🌐\n- Consolidation likely to drive efficiencies and cost savings 💸\n\nTAKEAWAY: Fifth Third Bancorp's acquisition of Comerica for $10.9 billion through an all-stock deal is set to strengthen its market presence and drive strategic growth initiatives. 🚀",
       "exported_at": "2025-10-06T06:50:15.032522",
+      "continuous_session": true
+    },
+    {
+      "title": "AMD stock skyrockets 25% as OpenAI looks to take stake in AI chipmaker",
+      "link": "https://www.cnbc.com/2025/10/06/openai-amd-chip-deal-ai.html",
+      "summary": "OpenAI will deploy up to 6 gigawatts of AMD Instinct GPUs over multiple years, beginning with a 1-gigawatt rollout in 2026.",
+      "published": "Mon, 06 Oct 2025 11:09:32 GMT",
+      "content": "OpenAI will deploy up to 6 gigawatts of AMD Instinct GPUs over multiple years, beginning with a 1-gigawatt rollout in 2026.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "656e7c032fb4dc2ae06f17e83f3a3ad7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AMD SOARS 25% AS OPENAI INVESTS IN AI CHIPMAKER 🚀\n\n- AMD stock surges by 25% on news of OpenAI partnership 📈\n- OpenAI to use up to 6 gigawatts of AMD Instinct GPUs 🚀\n- Initial rollout of 1 gigawatt by OpenAI expected in 2026 📆\n- Collaboration set to span multiple years 🌟\n- OpenAI's investment signals confidence in AMD's technology 💪\n- Potential for significant growth and market expansion for AMD 🔥\n\nTAKEAWAY: AMD's stock skyrockets as OpenAI plans to deploy up to 6 gigawatts of AMD Instinct GPUs, showcasing a strong vote of confidence in AMD's technology and potential for growth.",
+      "exported_at": "2025-10-06T07:10:37.641458",
       "continuous_session": true
     }
   ]
