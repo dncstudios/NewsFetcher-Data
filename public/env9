@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-06T10:14:41.435777",
-    "total_articles": 2192,
-    "new_articles_in_last_fetch": 2192,
+    "created_at": "2025-10-06T10:19:50.789221",
+    "total_articles": 2193,
+    "new_articles_in_last_fetch": 2193,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -28460,6 +28460,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AN OPTIONS STRATEGY TO BOOST MEDICAL DEVICE STOCK 🚀\n\n- Options trader Michael Khouw analyzes trade on medical devices maker \n- Strategy aims at stock catching up to market performance \n- Focus on leveraging options to maximize gains \n- Potential for increased profits with strategic approach \n- Detailed breakdown of the trade by expert Khouw \n- Emphasis on the opportunity to capitalize on market movements \n\nTAKEAWAY: Michael Khouw's options strategy offers a potential boost for a medical device stock to catch up with the market, maximizing gains through a strategic approach.",
       "exported_at": "2025-10-06T10:14:41.345576",
+      "continuous_session": true
+    },
+    {
+      "title": "Nike&apos;s turnaround will &apos;take a while,&apos; CEO Elliott Hill says",
+      "link": "https://www.cnbc.com/2025/10/06/nike-ceo-interview-elliott-hill-turnaround.html",
+      "summary": "Nike has been executing a turnaround under CEO Elliott Hill, who told CNBC it will take \"a while\" for the company to return to profitable growth.",
+      "published": "Mon, 06 Oct 2025 14:14:13 GMT",
+      "content": "Nike has been executing a turnaround under CEO Elliott Hill, who told CNBC it will take \"a while\" for the company to return to profitable growth.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4aca56b239419d73d9fcb56984cd9fa9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NIKE'S TURNAROUND TO TAKE TIME, SAYS CEO ELLIOTT HILL ⚠️\n\n- CEO Elliott Hill foresees a lengthy turnaround for Nike 🕒\n- Company needs time to achieve profitable growth 📈\n- Nike executing strategic changes under Hill's leadership 💼\n\nTAKEAWAY: Nike's CEO anticipates a prolonged journey for the company's turnaround to achieve profitable growth.",
+      "exported_at": "2025-10-06T10:19:50.628618",
       "continuous_session": true
     }
   ]
