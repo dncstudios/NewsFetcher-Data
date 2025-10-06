@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-06T06:04:26.990170",
-    "total_articles": 2165,
-    "new_articles_in_last_fetch": 2165,
+    "created_at": "2025-10-06T06:40:00.930587",
+    "total_articles": 2166,
+    "new_articles_in_last_fetch": 2166,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -28110,6 +28110,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCK FUTURES RISE DESPITE GOVERNMENT SHUTDOWN 🚀\n\n- Stock futures climb after record-setting week on Wall Street 📈\n- US government shutdown persists, but market remains bullish 🔥\n- Investors show confidence despite ongoing political uncertainty ✅\n\nTAKEAWAY: Despite the lingering government shutdown, stock futures surge following a record-setting week on Wall Street, showcasing investor confidence amidst political turbulence.",
       "exported_at": "2025-10-06T06:04:26.854914",
+      "continuous_session": true
+    },
+    {
+      "title": "Micron has more than doubled in 2025. Morgan Stanley sees even more upside",
+      "link": "https://www.cnbc.com/2025/10/06/micron-has-more-than-doubled-in-2025-morgan-stanley-sees-even-more-upside.html",
+      "summary": "The bank upgraded shares of the semiconductor manufacturer to overweight.",
+      "published": "Mon, 06 Oct 2025 10:36:52 GMT",
+      "content": "The bank upgraded shares of the semiconductor manufacturer to overweight.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1172b268ca3d5584d361c14ffb8f56bb",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MICRON STOCK SURGES IN 2025, MORGAN STANLEY PREDICTS MORE UPSIDE 🚀\n\n- Micron's stock has more than doubled in 2025 💰\n- Morgan Stanley upgrades Micron to overweight 📈\n- Analysts foresee additional upside potential 🔮\n- Semiconductor manufacturer's growth trajectory impresses 🌟\n\nTAKEAWAY: Micron's remarkable stock surge in 2025, combined with Morgan Stanley's optimistic upgrade, indicates a promising future with potential for further growth.",
+      "exported_at": "2025-10-06T06:40:00.759963",
       "continuous_session": true
     }
   ]
