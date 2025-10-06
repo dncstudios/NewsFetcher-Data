@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-06T01:09:59.515758",
-    "total_articles": 2158,
-    "new_articles_in_last_fetch": 2158,
+    "created_at": "2025-10-06T01:40:28.561776",
+    "total_articles": 2159,
+    "new_articles_in_last_fetch": 2159,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -28019,6 +28019,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FIRST FEMALE LEADER, Sanae Takaichi, TO HEAD JAPANESE GOVERNMENT 🚀\n\n- Sanae Takaichi to lead Japan after Shigeru Ishiba's resignation 🇯🇵\n- Takaichi's victory marks a historic moment for Japan 🎉\n- Ishiba steps down due to LDP's electoral setbacks in 2024 and 2025 📉\n\nTAKEAWAY: Sanae Takaichi's appointment as the first female leader of Japan comes after Shigeru Ishiba's resignation following the LDP's electoral losses, marking a significant moment in Japanese politics.",
       "exported_at": "2025-10-06T01:09:59.354932",
+      "continuous_session": true
+    },
+    {
+      "title": "Bridgewater says investors are missing three big bets hiding beyond U.S. megacaps",
+      "link": "https://www.cnbc.com/2025/10/06/bridgewater-says-investors-are-missing-three-big-bets-hiding-beyond-us-megacaps.html",
+      "summary": "Hedge fund giant Bridgewater says these asset classes can insulate investors' portfolios amid fears of an equities pull-back.",
+      "published": "Mon, 06 Oct 2025 05:37:50 GMT",
+      "content": "Hedge fund giant Bridgewater says these asset classes can insulate investors' portfolios amid fears of an equities pull-back.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "203402d389bb751a22086d3c52066fac",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BRIDGEWATER REVEALS 3 HIDDEN BETS BEYOND U.S. MEGACAPS 🚀\n\n- Bridgewater identifies 3 asset classes for portfolio insulation\n- Aim is to protect portfolios during equities pull-back fears\n- These bets go beyond traditional U.S. megacaps\n\nTAKEAWAY: Bridgewater's insight on 3 hidden bets beyond U.S. megacaps offers a strategic approach to safeguard portfolios during equities pull-back fears.",
+      "exported_at": "2025-10-06T01:40:28.415839",
       "continuous_session": true
     }
   ]
