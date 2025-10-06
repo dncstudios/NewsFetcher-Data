@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-06T11:05:55.801379",
-    "total_articles": 2200,
-    "new_articles_in_last_fetch": 2200,
+    "created_at": "2025-10-06T11:11:05.276709",
+    "total_articles": 2202,
+    "new_articles_in_last_fetch": 2202,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -28564,6 +28564,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ANOTHER GAME-CHANGING AI CHIP DEAL: BUYING OPPORTUNITY OR FUTILE CIRCULATION? 🚀\n\n- Wolfe Research's Chris Caso analyzes OpenAI's investment in AMD 💡\n- OpenAI's move impacts the chip industry 🔥\n- Caso's insights shared on CNBC 📺\n- Potential market implications discussed ⚡️\n- Is this a profitable move or just money circulating? 🔄\n- AI chip deals continue to shape the tech landscape 🌐\n\nTAKEAWAY: OpenAI's investment in AMD prompts market analysis and speculation, fueling discussions on the impact of AI chip deals on the tech industry.",
       "exported_at": "2025-10-06T11:05:55.775998",
+      "continuous_session": true
+    },
+    {
+      "title": "Nike&apos;s turnaround will &apos;take a while&apos; amid stock slump, CEO Elliott Hill says",
+      "link": "https://www.cnbc.com/2025/10/06/nike-ceo-interview-elliott-hill-turnaround.html",
+      "summary": "Nike has been executing a turnaround under CEO Elliott Hill, who told CNBC it will take \"a while\" for the company to return to profitable growth.",
+      "published": "Mon, 06 Oct 2025 15:10:16 GMT",
+      "content": "Nike has been executing a turnaround under CEO Elliott Hill, who told CNBC it will take \"a while\" for the company to return to profitable growth.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a1e6ba1ce1b4f944cc569161bdcfcf7a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NIKE'S TURNAROUND TO TAKE TIME, SAYS CEO ELLIOTT HILL ⚠️\n\n- CEO Elliott Hill foresees a lengthy turnaround for Nike 🕒\n- Company needs time to achieve profitable growth 📈\n- Nike executing strategic changes under Hill's leadership 💼\n\nTAKEAWAY: Nike's CEO anticipates a prolonged journey for the company's turnaround to achieve profitable growth.",
+      "exported_at": "2025-10-06T11:11:05.251558",
+      "continuous_session": true
+    },
+    {
+      "title": "&apos;Micro-shifting,&apos; coffee badging: Bosses are still mandating RTO—workers are going, but on their own terms",
+      "link": "https://www.cnbc.com/2025/10/06/bosses-are-still-mandating-rto-workers-are-going-but-on-their-own-terms.html",
+      "summary": "Work-from-home rates have persisted even as the labor market sours, people cling to their jobs and leverage swings back in the direction of CEOs.",
+      "published": "Mon, 06 Oct 2025 15:08:04 GMT",
+      "content": "Work-from-home rates have persisted even as the labor market sours, people cling to their jobs and leverage swings back in the direction of CEOs.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7291e57aa77a99b8f4f257f48fea5e37",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 'MICRO-SHIFTING' TRENDS: EMPLOYEES EMBRACE REMOTE WORK ON THEIR TERMS 🚀\n\n- Remote work remains popular despite challenging job market 🌐\n- Employees prioritize flexibility over traditional office settings ⏰\n- CEOs regain control as workers adapt to hybrid work models 💼\n- Trend of 'micro-shifting' and coffee badging reshapes work culture ☕\n- Workers maintain leverage by choosing their own terms 💪\n\nTAKEAWAY: Amid shifting work dynamics, employees opt for remote work flexibility while CEOs navigate the evolving landscape of hybrid work models.",
+      "exported_at": "2025-10-06T11:11:05.251568",
       "continuous_session": true
     }
   ]
