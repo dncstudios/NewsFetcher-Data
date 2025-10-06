@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-06T07:46:16.757819",
-    "total_articles": 2170,
-    "new_articles_in_last_fetch": 2170,
+    "created_at": "2025-10-06T08:06:46.815843",
+    "total_articles": 2172,
+    "new_articles_in_last_fetch": 2172,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -28175,6 +28175,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: U.S. JUDGE HALTS TRUMP'S NATIONAL GUARD DEPLOYMENT TO PORTLAND ⚠️\n\n- Federal judge blocks Trump from sending National Guard to Portland 🚫\n- Temporary halt on administration's troop deployment ⏸️\n- Legal intervention prevents National Guard policing in Oregon 🛑\n\nTAKEAWAY: A federal judge's ruling temporarily puts a stop to Trump's plans to deploy National Guard troops to police Portland, Oregon.",
       "exported_at": "2025-10-06T07:46:16.618534",
+      "continuous_session": true
+    },
+    {
+      "title": "Online holiday spending growth set to slow to 5.3% as shoppers seek discounts",
+      "link": "https://www.cnbc.com/2025/10/06/online-holiday-spending-growth-adobe-report.html",
+      "summary": "Retail sales in the U.S. have chugged along, but concerns about higher tariffs and dipping consumer confidence have complicated the holiday outlook.",
+      "published": "Mon, 06 Oct 2025 12:00:01 GMT",
+      "content": "Retail sales in the U.S. have chugged along, but concerns about higher tariffs and dipping consumer confidence have complicated the holiday outlook.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fa72324ba976b4eba33e3d1ea2ac1354",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ONLINE HOLIDAY SPENDING GROWTH TO SLOW TO 5.3% AS SHOPPERS SEEK DISCOUNTS 📉\n\n- U.S. online holiday spending growth expected to drop to 5.3%\n- Shoppers prioritize discounts amid concerns over tariffs\n- Retail sales in the U.S. remain steady despite challenges\n- Higher tariffs and consumer confidence impact holiday outlook\n- Shift in consumer behavior influences holiday spending trends\n\nTAKEAWAY: Amid concerns over tariffs and consumer confidence, online holiday spending growth in the U.S. is projected to slow to 5.3%, with shoppers prioritizing discounts.",
+      "exported_at": "2025-10-06T08:06:46.660789",
+      "continuous_session": true
+    },
+    {
+      "title": "Goldman Sachs lifts Nvidia price target, says chipmaker&apos;s partnerships will drive more gains",
+      "link": "https://www.cnbc.com/2025/10/06/goldman-sachs-lifts-nvidia-price-target-says-chipmakers-partnerships-will-drive-more-gains.html",
+      "summary": "Goldman Sachs' revised price target sees shares of Nvidia adding 12% from here.",
+      "published": "Mon, 06 Oct 2025 11:58:45 GMT",
+      "content": "Goldman Sachs' revised price target sees shares of Nvidia adding 12% from here.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1942123739571310616910a8f912b4ac",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GOLDMAN SACHS RAISES NVIDIA PRICE TARGET, PREDICTS 12% GAIN 🚀\n\n- Goldman Sachs ups Nvidia's target, expects 12% growth 📈\n- Analysts confident in Nvidia's partnerships 🤝\n- Price target increase reflects optimism in chipmaker's potential 🌟\n\nTAKEAWAY: Goldman Sachs' bullish outlook on Nvidia's partnerships propels a 12% potential gain in share value, showcasing confidence in the chipmaker's future growth.",
+      "exported_at": "2025-10-06T08:06:46.660850",
       "continuous_session": true
     }
   ]
