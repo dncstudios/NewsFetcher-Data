@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-06T11:11:05.276709",
-    "total_articles": 2202,
-    "new_articles_in_last_fetch": 2202,
+    "created_at": "2025-10-06T11:21:18.715015",
+    "total_articles": 2203,
+    "new_articles_in_last_fetch": 2203,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -28590,6 +28590,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: 'MICRO-SHIFTING' TRENDS: EMPLOYEES EMBRACE REMOTE WORK ON THEIR TERMS 🚀\n\n- Remote work remains popular despite challenging job market 🌐\n- Employees prioritize flexibility over traditional office settings ⏰\n- CEOs regain control as workers adapt to hybrid work models 💼\n- Trend of 'micro-shifting' and coffee badging reshapes work culture ☕\n- Workers maintain leverage by choosing their own terms 💪\n\nTAKEAWAY: Amid shifting work dynamics, employees opt for remote work flexibility while CEOs navigate the evolving landscape of hybrid work models.",
       "exported_at": "2025-10-06T11:11:05.251568",
+      "continuous_session": true
+    },
+    {
+      "title": "Paul Tudor Jones says ingredients are in place for massive rally before a &apos;blow off&apos; top to bull market",
+      "link": "https://www.cnbc.com/2025/10/06/paul-tudor-jones-says-ingredients-are-in-place-for-massive-rally-before-a-blow-off-top-to-bull-market.html",
+      "summary": "Paul Tudor Jones said today's market is reminiscent of the setup leading up to the burst of the dot-com bubble in late 1999.",
+      "published": "Mon, 06 Oct 2025 15:20:02 GMT",
+      "content": "Paul Tudor Jones said today's market is reminiscent of the setup leading up to the burst of the dot-com bubble in late 1999.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "43f07919723d0e65792b90ec2b36edb9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PAUL TUDOR JONES PREDICTS MASSIVE RALLY BEFORE BULL MARKET PEAK 🚀\n\n- Market setup mirrors dot-com bubble burst in 1999 💥\n- Ingredients aligning for a significant market upswing 📈\n- Jones anticipates a 'blow off' peak in the bull market 📈\n- Comparison drawn between current market and late 1999 🔄\n- Potential for a major rally before market climax 🚀\n- Jones hints at a significant upward surge before peak 📈\n\nTAKEAWAY: Paul Tudor Jones predicts a massive rally on the horizon, drawing parallels between today's market setup and the dot-com bubble burst of 1999.",
+      "exported_at": "2025-10-06T11:21:18.573142",
       "continuous_session": true
     }
   ]
