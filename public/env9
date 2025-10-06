@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-06T14:19:57.292090",
-    "total_articles": 2225,
-    "new_articles_in_last_fetch": 2225,
+    "created_at": "2025-10-06T14:25:10.145201",
+    "total_articles": 2227,
+    "new_articles_in_last_fetch": 2227,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -28889,6 +28889,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JIM CRAMER'S ADVICE: DON'T FEAR STOCKS DESPITE BILLIONAIRES 🚀\n\n- Cramer reassures investors not to panic over billionaires' remarks 💪\n- Hedge fund manager Paul Tudor Jones' comments raise concerns 📉\n- Individual investors urged to stay calm and focused on their goals ✅\n\nTAKEAWAY: Despite billionaire comments causing worries, Jim Cramer advises investors to remain steady and not be swayed by fear.",
       "exported_at": "2025-10-06T14:19:57.173130",
+      "continuous_session": true
+    },
+    {
+      "title": "The 2025 box office is headed for its best post-Covid haul as winter releases heat up",
+      "link": "https://www.cnbc.com/2025/10/06/2025-box-office-headed-for-best-post-covid-haul.html",
+      "summary": "The winter movie slate includes \"Wicked: For Good,\" \"Zootopia 2\" and \"Avatar: Fire and Ash\" and is expected to push the 2025 box office to a post-pandemic high.",
+      "published": "Mon, 06 Oct 2025 18:17:50 GMT",
+      "content": "The winter movie slate includes \"Wicked: For Good,\" \"Zootopia 2\" and \"Avatar: Fire and Ash\" and is expected to push the 2025 box office to a post-pandemic high.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c0ca7c636a5e2d6cb3ddf4ad75a8ff35",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 2025 BOX OFFICE SET TO BREAK POST-COVID RECORDS 🚀\n\n- Winter releases like \"Wicked: For Good\" & \"Zootopia 2\" drive box office 🎥\n- Anticipated post-pandemic high expected for 2025 box office 💰\n- Upcoming film \"Avatar: Fire and Ash\" contributes to winter hype 🌟\n- Industry buzz surrounds the potential record-breaking performance 🎬\n\nTAKEAWAY: The 2025 box office is on track for a remarkable post-Covid recovery fueled by highly-anticipated winter releases, setting the stage for potential record-breaking success.",
+      "exported_at": "2025-10-06T14:25:09.981103",
+      "continuous_session": true
+    },
+    {
+      "title": "Pro traders are watching Pfizer after a big move last week and two other stocks with earnings on deck",
+      "link": "https://www.cnbc.com/2025/10/06/pro-traders-are-watching-pfizer-after-a-big-move-last-week.html",
+      "summary": "Jay Woods, chief market strategist at Freedom Capital Markets, highlighted a few beaten-down names that could become strong buying opportunities.",
+      "published": "Mon, 06 Oct 2025 18:02:28 GMT",
+      "content": "Jay Woods, chief market strategist at Freedom Capital Markets, highlighted a few beaten-down names that could become strong buying opportunities.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "454109ba4f94e4b14036cb902930036a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PRO TRADERS EYEING PFIZER & EARNINGS STOCKS 🚀\n\n- Pfizer's significant movement grabs pro traders' attention 📈\n- Analysts anticipate strong buying opportunities for beaten-down stocks 💪\n- Chief market strategist identifies promising stocks with upcoming earnings 📊\n\nTAKEAWAY: Pro traders are closely monitoring Pfizer's recent activity and potential buying opportunities in beaten-down stocks ahead of upcoming earnings releases, guided by market experts like Jay Woods.",
+      "exported_at": "2025-10-06T14:25:09.981164",
       "continuous_session": true
     }
   ]
