@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-06T09:23:37.777170",
-    "total_articles": 2186,
-    "new_articles_in_last_fetch": 2186,
+    "created_at": "2025-10-06T09:28:48.550850",
+    "total_articles": 2187,
+    "new_articles_in_last_fetch": 2187,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -28382,6 +28382,19 @@
       "hash": "ab4e32f4d2f74bb587f2959e0164643d",
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "exported_at": "2025-10-06T09:23:37.639776",
+      "continuous_session": true
+    },
+    {
+      "title": "Paramount Skydance to acquire Bari Weiss-founded Free Press",
+      "link": "https://www.cnbc.com/2025/10/06/paramount-skydance-to-acquire-bari-weiss-founded-free-press.html",
+      "summary": "Paramount Skydance has agreed to acquire online publication The Free Press, founded by Bari Weiss.",
+      "published": "Mon, 06 Oct 2025 13:26:03 GMT",
+      "content": "Paramount Skydance has agreed to acquire online publication The Free Press, founded by Bari Weiss.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4227f4ba54bd013fac2d33619f6c93df",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PARAMOUNT SKYDANCE ACQUIRES BARI WEISS' FREE PRESS 🚀\n\n- Paramount Skydance seals deal to acquire The Free Press 🤝\n- Bari Weiss-founded online publication now under new ownership 💼\n- Acquisition marks a strategic move in media industry 🎯\n\nTAKEAWAY: Paramount Skydance's acquisition of The Free Press, founded by Bari Weiss, signals a strategic shift in the media landscape.",
+      "exported_at": "2025-10-06T09:28:48.443754",
       "continuous_session": true
     }
   ]
