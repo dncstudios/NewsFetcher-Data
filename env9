@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-06T08:27:18.164551",
-    "total_articles": 2176,
-    "new_articles_in_last_fetch": 2176,
+    "created_at": "2025-10-06T08:42:36.488284",
+    "total_articles": 2177,
+    "new_articles_in_last_fetch": 2177,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -28253,6 +28253,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: MONDAY'S HOTTEST ANALYST CALLS: NVIDIA, TESLA, APPLE & MORE 🔥\n\n- Wall Street's top picks: Nvidia, Tesla, Apple, Klarna 🎯\n- Analysts' recommendations driving market momentum 🚀\n- Focus on Micron, Oracle, Amazon, Broadcom, Affirm, Disney 📊\n\nTAKEAWAY: Analysts' top calls on Nvidia, Tesla, Apple, and more are igniting market excitement and shaping investor strategies.",
       "exported_at": "2025-10-06T08:27:18.027729",
+      "continuous_session": true
+    },
+    {
+      "title": "Treasury Secretary Bessent to remain as IRS commissioner after filling role on temporary basis, sources say",
+      "link": "https://www.cnbc.com/2025/10/06/bessent-to-remain-irs-commissioner-for-trump.html",
+      "summary": "Treasury Secretary Scott Bessent will remain in his role as IRS commissioner, with a new official to be announced as his top deputy",
+      "published": "Mon, 06 Oct 2025 12:29:10 GMT",
+      "content": "Treasury Secretary Scott Bessent will remain in his role as IRS commissioner, with a new official to be announced as his top deputy",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c47cdb837f9d56cf831e0929b2e9cae4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BESSANT TO STAY AS IRS COMMISSIONER, NEW DEPUTY TO BE ANNOUNCED ⚡️\n\n- Treasury Secretary Bessent to continue as IRS commissioner 🏛️\n- New official to be named as his top deputy 🔝\n- Continuity in leadership expected at IRS 🔄\n\nTAKEAWAY: Treasury Secretary Bessent will maintain his position as IRS commissioner, ensuring stability in leadership with the announcement of a new top deputy.",
+      "exported_at": "2025-10-06T08:42:36.348001",
       "continuous_session": true
     }
   ]
