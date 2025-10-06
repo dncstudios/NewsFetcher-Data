@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-06T10:50:37.058997",
-    "total_articles": 2197,
-    "new_articles_in_last_fetch": 2197,
+    "created_at": "2025-10-06T11:05:55.801379",
+    "total_articles": 2200,
+    "new_articles_in_last_fetch": 2200,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -28525,6 +28525,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FIREFLY AEROSPACE SOARS 14% POST $855M ACQUISITION 🚀\n\n- Firefly Aerospace acquires SciTec to boost national security 🛡️\n- Acquisition valued at $855 million propels Firefly's stock 📈\n- SciTec purchase aims to enhance defense tech capabilities 💪\n\nTAKEAWAY: Firefly Aerospace's 14% surge post $855 million acquisition of SciTec showcases investor confidence in its strengthened national security offerings.",
       "exported_at": "2025-10-06T10:50:36.926758",
+      "continuous_session": true
+    },
+    {
+      "title": "Here are Monday&apos;s biggest analyst calls: Nvidia, Tesla, Apple, Klarna, Micron, Oracle, Amazon, Broadcom, Affirm, Disney and more",
+      "link": "https://www.cnbc.com/2025/10/06/monday-stocks-from-analyst-calls-include-nvidia-klarna-oracle-disney.html",
+      "summary": "Here are the biggest calls on Wall Street on Monday.",
+      "published": "Mon, 06 Oct 2025 15:04:30 GMT",
+      "content": "Here are the biggest calls on Wall Street on Monday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b682225259656eb6ac93693732355329",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MONDAY'S HOTTEST ANALYST CALLS: NVIDIA, TESLA, APPLE & MORE 🔥\n\n- Wall Street's top picks: Nvidia, Tesla, Apple, Klarna 🎯\n- Analysts' recommendations driving market momentum 🚀\n- Focus on Micron, Oracle, Amazon, Broadcom, Affirm, Disney 📊\n\nTAKEAWAY: Analysts' top calls on Nvidia, Tesla, Apple, and more are igniting market excitement and shaping investor strategies.",
+      "exported_at": "2025-10-06T11:05:55.775988",
+      "continuous_session": true
+    },
+    {
+      "title": "Instagram will award top creators with a gold ring. But no cash",
+      "link": "https://www.cnbc.com/2025/10/06/instagram-ring-award-creators.html",
+      "summary": "Winners will be chosen by a panel including Instagram chief Adam Mosseri, filmmaker Spike Lee, designer Marc Jacobs and YouTuber Marques Brownlee.",
+      "published": "Mon, 06 Oct 2025 15:00:45 GMT",
+      "content": "Winners will be chosen by a panel including Instagram chief Adam Mosseri, filmmaker Spike Lee, designer Marc Jacobs and YouTuber Marques Brownlee.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "661a5916a0c334d2086ba9f4d1a45714",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: INSTAGRAM'S GOLD RING AWARDS: SHINING BRIGHT OR LACKLUSTER? ✨\n\n- Top creators to receive prestigious gold ring, not cash 💍\n- Judged by Instagram chief, filmmaker Spike Lee, designer Marc Jacobs 🌟\n- Panel includes popular YouTuber Marques Brownlee 🎥\n\nTAKEAWAY: Instagram's unique gold ring awards for top creators offer prestige and recognition, curated by industry elites.",
+      "exported_at": "2025-10-06T11:05:55.775995",
+      "continuous_session": true
+    },
+    {
+      "title": "Another mark-moving AI chip deal: Reason to buy or is this just more &apos;money going in a circle&apos;?",
+      "link": "https://www.cnbc.com/2025/10/06/another-mark-moving-ai-chip-deal-reason-to-buy-or-is-this-just-more-money-going-in-a-circle.html",
+      "summary": "Wolfe Research analyst Chris Caso discussed OpenAI's AMD investment on CNBC Monday morning.",
+      "published": "Mon, 06 Oct 2025 13:44:28 GMT",
+      "content": "Wolfe Research analyst Chris Caso discussed OpenAI's AMD investment on CNBC Monday morning.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5aaeda715782fb15d9e69801dccee0cc",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ANOTHER GAME-CHANGING AI CHIP DEAL: BUYING OPPORTUNITY OR FUTILE CIRCULATION? 🚀\n\n- Wolfe Research's Chris Caso analyzes OpenAI's investment in AMD 💡\n- OpenAI's move impacts the chip industry 🔥\n- Caso's insights shared on CNBC 📺\n- Potential market implications discussed ⚡️\n- Is this a profitable move or just money circulating? 🔄\n- AI chip deals continue to shape the tech landscape 🌐\n\nTAKEAWAY: OpenAI's investment in AMD prompts market analysis and speculation, fueling discussions on the impact of AI chip deals on the tech industry.",
+      "exported_at": "2025-10-06T11:05:55.775998",
       "continuous_session": true
     }
   ]
