@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-06T14:04:32.160318",
-    "total_articles": 2221,
-    "new_articles_in_last_fetch": 2221,
+    "created_at": "2025-10-06T14:09:38.936428",
+    "total_articles": 2222,
+    "new_articles_in_last_fetch": 2222,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -28837,6 +28837,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: U.S. AIR TRAFFIC CONTROLLERS URGED TO STAY ON JOB DURING SHUTDOWN ⚠️\n\n- Union advises air traffic controllers to keep working without pay ✈️\n- Partial government shutdown leaves workers without pay 🚫\n- Controllers face uncertainty during shutdown period 🤔\n\nTAKEAWAY: Despite the partial government shutdown, air traffic controllers are urged to continue working without pay, raising concerns about their financial stability and job security.",
       "exported_at": "2025-10-06T14:04:32.013363",
+      "continuous_session": true
+    },
+    {
+      "title": "OpenAI DevDay live: Altman keynote announces Apps SDK, AgentKit, ChatKit and Codex",
+      "link": "https://www.cnbc.com/2025/10/06/open-ai-devday-live-updates-altman-jony-ive.html",
+      "summary": "Fresh off an AI chip deal with AMD, OpenAI makes its case to developers about the latest in research, product and engineering.",
+      "published": "Mon, 06 Oct 2025 18:07:40 GMT",
+      "content": "Fresh off an AI chip deal with AMD, OpenAI makes its case to developers about the latest in research, product and engineering.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "44f0366e53eac28a2371c5a843756b53",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: OPENAI DEV DAY HIGHLIGHTS: ALTMA'S KEYNOTE AND JONY IVE'S INSIGHTS 🚀\n\n- OpenAI seals AI chip deal with AMD 💻\n- Altman presents latest research and products to developers 🌟\n- Jony Ive shares insights at flagship event 🧠\n- Focus on cutting-edge engineering showcased 🔬\n- Event highlights advancements in AI technology 📈\n\nTAKEAWAY: OpenAI leverages AMD deal and flagship event to showcase cutting-edge AI research, products, and engineering to developers, with insights from Jony Ive.",
+      "exported_at": "2025-10-06T14:09:38.910968",
       "continuous_session": true
     }
   ]
