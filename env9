@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-06T10:25:01.280704",
-    "total_articles": 2194,
-    "new_articles_in_last_fetch": 2194,
+    "created_at": "2025-10-06T10:35:14.650267",
+    "total_articles": 2195,
+    "new_articles_in_last_fetch": 2195,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -28486,6 +28486,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JEFFRIES CHALLENGES GOP SPEAKER JOHNSON TO DEBATE SHUTDOWN 🚀\n\n- Jeffries calls out Johnson amidst prolonged shutdown ⏳\n- Republican-Democratic leaders stand firm on funding differences 💪\n- Debate request adds pressure on GOP Speaker 🎯\n\nTAKEAWAY: Jeffries' bold challenge to GOP Speaker Johnson injects urgency into the prolonged shutdown, highlighting the stark funding differences between parties.",
       "exported_at": "2025-10-06T10:25:01.139478",
+      "continuous_session": true
+    },
+    {
+      "title": "Nike prices are rising one year into CEO Elliott Hill&apos;s turnaround plan. Tariffs are part of the story",
+      "link": "https://www.cnbc.com/2025/10/06/nike-prices-rising-tariffs-ceo-elliott-hill-turnaround-plan.html",
+      "summary": "Nike apparel and footwear prices have risen significantly year over year since CEO Elliott Hill took over and tariffs on goods made in Asia have mounted.",
+      "published": "Mon, 06 Oct 2025 14:32:42 GMT",
+      "content": "Nike apparel and footwear prices have risen significantly year over year since CEO Elliott Hill took over and tariffs on goods made in Asia have mounted.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "37172259f3ce73ac5ba64a15888e22c2",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NIKE PRICES SOAR UNDER CEO ELLIOTT HILL'S TURNAROUND PLAN 🚀\n\n- Nike's apparel and footwear prices surge under CEO Elliott Hill 📈\n- Significant year-over-year price increase since Hill's leadership 🌟\n- Tariffs on Asian-made goods contribute to the price surge 🌏\n\nTAKEAWAY: CEO Elliott Hill's turnaround plan at Nike drives significant price increases in apparel and footwear, boosted further by tariffs on Asian-made goods.",
+      "exported_at": "2025-10-06T10:35:14.518288",
       "continuous_session": true
     }
   ]
