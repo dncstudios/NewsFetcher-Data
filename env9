@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-06T10:19:50.789221",
-    "total_articles": 2193,
-    "new_articles_in_last_fetch": 2193,
+    "created_at": "2025-10-06T10:25:01.280704",
+    "total_articles": 2194,
+    "new_articles_in_last_fetch": 2194,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -28473,6 +28473,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NIKE'S TURNAROUND TO TAKE TIME, SAYS CEO ELLIOTT HILL ⚠️\n\n- CEO Elliott Hill foresees a lengthy turnaround for Nike 🕒\n- Company needs time to achieve profitable growth 📈\n- Nike executing strategic changes under Hill's leadership 💼\n\nTAKEAWAY: Nike's CEO anticipates a prolonged journey for the company's turnaround to achieve profitable growth.",
       "exported_at": "2025-10-06T10:19:50.628618",
+      "continuous_session": true
+    },
+    {
+      "title": "Democratic leader Jeffries challenges GOP House Speaker Johnson to debate shutdown",
+      "link": "https://www.cnbc.com/2025/10/06/government-shutdown-jeffries-johnson-debate.html",
+      "summary": "Jeffries' challenge to Johnson comes as the shutdown drags on, with Republican and Democratic leaders continuing to dig in on their opposing funding priorities.",
+      "published": "Mon, 06 Oct 2025 14:19:58 GMT",
+      "content": "Jeffries' challenge to Johnson comes as the shutdown drags on, with Republican and Democratic leaders continuing to dig in on their opposing funding priorities.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0c180de61cfc9504c1bed166ee91f397",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JEFFRIES CHALLENGES GOP SPEAKER JOHNSON TO DEBATE SHUTDOWN 🚀\n\n- Jeffries calls out Johnson amidst prolonged shutdown ⏳\n- Republican-Democratic leaders stand firm on funding differences 💪\n- Debate request adds pressure on GOP Speaker 🎯\n\nTAKEAWAY: Jeffries' bold challenge to GOP Speaker Johnson injects urgency into the prolonged shutdown, highlighting the stark funding differences between parties.",
+      "exported_at": "2025-10-06T10:25:01.139478",
       "continuous_session": true
     }
   ]
