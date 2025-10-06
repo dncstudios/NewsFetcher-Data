@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-06T04:02:31.584894",
-    "total_articles": 2161,
-    "new_articles_in_last_fetch": 2161,
+    "created_at": "2025-10-06T04:27:56.321501",
+    "total_articles": 2162,
+    "new_articles_in_last_fetch": 2162,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -28058,6 +28058,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FRANCE'S NEW PM RESIGNS, SPARKING POLITICAL CHAOS 🚨\n\n- Sebastien Lecornu resigns as France's Prime Minister 🇫🇷\n- Fresh political crisis grips the nation 🌪️\n- Resignation comes just weeks after Lecornu's appointment 🗓️\n\nTAKEAWAY: France faces a new wave of political instability as Prime Minister Sebastien Lecornu's sudden resignation throws the country into chaos.",
       "exported_at": "2025-10-06T04:02:31.439492",
+      "continuous_session": true
+    },
+    {
+      "title": "Aston Martin shares fall 10% as luxury carmaker issues fresh profit warning on tariff turmoil",
+      "link": "https://www.cnbc.com/2025/10/06/aston-martin-carmaker-issues-fresh-profit-warning-on-tariff-turmoil.html",
+      "summary": "Britain’s Aston Martin on Monday warned of a steeper full-year loss than market consensus, citing U.S. tariff turbulence.",
+      "published": "Mon, 06 Oct 2025 08:21:51 GMT",
+      "content": "Britain’s Aston Martin on Monday warned of a steeper full-year loss than market consensus, citing U.S. tariff turbulence.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e524f3d37d321a104b0b9d455c308752",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASTON MARTIN SHARES PLUNGE 10% ON PROFIT WARNING DUE TO TARIFF TURMOIL 🚨\n\n- Aston Martin predicts higher full-year loss than expected 📉\n- Cites U.S. tariff turmoil as the reason for the warning ⚠️\n- Shares drop 10% following the profit alert 📉\n- Market consensus not aligned with Aston Martin's forecast 🎯\n\nTAKEAWAY: Aston Martin's shares take a hit as the luxury carmaker issues a profit warning, attributing the losses to U.S. tariff turbulence, causing market concern.",
+      "exported_at": "2025-10-06T04:27:56.194766",
       "continuous_session": true
     }
   ]
