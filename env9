@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-06T09:18:28.161565",
-    "total_articles": 2183,
-    "new_articles_in_last_fetch": 2183,
+    "created_at": "2025-10-06T09:23:37.777170",
+    "total_articles": 2186,
+    "new_articles_in_last_fetch": 2186,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -28344,6 +28344,44 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FIREFLY AEROSPACE SOARS 14% POST $855M ACQUISITION 🚀\n\n- Firefly Aerospace acquires SciTec to boost national security 🛡️\n- Acquisition valued at $855 million propels Firefly's stock 📈\n- SciTec purchase aims to enhance defense tech capabilities 💪\n\nTAKEAWAY: Firefly Aerospace's 14% surge post $855 million acquisition of SciTec showcases investor confidence in its strengthened national security offerings.",
       "exported_at": "2025-10-06T09:18:28.013470",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump could &apos;start taking sharp measures&apos; if next government funding bills fail: Hassett",
+      "link": "https://www.cnbc.com/2025/10/06/government-shutdown-trump-hassett-vought.html",
+      "summary": "The Trump administration has warned that the shutdown will lead to federal employees getting laid off, rather than merely furloughed.",
+      "published": "Mon, 06 Oct 2025 13:20:41 GMT",
+      "content": "The Trump administration has warned that the shutdown will lead to federal employees getting laid off, rather than merely furloughed.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "87a2c2ebb9e19dd398ae6426ad98154a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP THREATENS SHARP MEASURES IF FUNDING BILLS FAIL 🚨\n\n- Trump admin warns of potential layoffs due to shutdown 📉\n- Sharp measures promised if funding bills don't pass ⚠️\n- Uncertainty looms over next steps 🤔\n\nTAKEAWAY: Trump's warning of sharp measures if funding bills fail adds pressure, risking layoffs and creating uncertainty for federal employees.",
+      "exported_at": "2025-10-06T09:23:37.639706",
+      "continuous_session": true
+    },
+    {
+      "title": "Firefly Aerospace leaps 12% after buying defense tech firm for $855 million",
+      "link": "https://www.cnbc.com/2025/10/06/firefly-aerospace-fly-stock-scitec.html",
+      "summary": "Firefly Aerospace is buying defense technology contractor SciTec for $855 million to beef up its national security offering.",
+      "published": "Mon, 06 Oct 2025 13:21:09 GMT",
+      "content": "Firefly Aerospace is buying defense technology contractor SciTec for $855 million to beef up its national security offering.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5411c5b7faada460a027ab39552d5e60",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FIREFLY AEROSPACE SOARS 14% POST $855M ACQUISITION 🚀\n\n- Firefly Aerospace acquires SciTec to boost national security 🛡️\n- Acquisition valued at $855 million propels Firefly's stock 📈\n- SciTec purchase aims to enhance defense tech capabilities 💪\n\nTAKEAWAY: Firefly Aerospace's 14% surge post $855 million acquisition of SciTec showcases investor confidence in its strengthened national security offerings.",
+      "exported_at": "2025-10-06T09:23:37.639766",
+      "continuous_session": true
+    },
+    {
+      "title": "Merger Monday: Big deals announced in banking and tech. How to play the coming M&amp;A wave",
+      "link": "https://www.cnbc.com/2025/10/06/merger-monday-big-deals-announced-in-banking-and-tech-how-to-play-the-coming-ma-wave.html",
+      "summary": "The M&amp;A market appears to be heating up.",
+      "published": "Mon, 06 Oct 2025 13:15:48 GMT",
+      "content": "The M&amp;A market appears to be heating up.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ab4e32f4d2f74bb587f2959e0164643d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "exported_at": "2025-10-06T09:23:37.639776",
       "continuous_session": true
     }
   ]
