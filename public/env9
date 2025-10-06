@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-06T08:22:09.420700",
-    "total_articles": 2174,
-    "new_articles_in_last_fetch": 2174,
+    "created_at": "2025-10-06T08:27:18.164551",
+    "total_articles": 2176,
+    "new_articles_in_last_fetch": 2176,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -28227,6 +28227,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NOBEL MEDICINE PRIZE AWARDED FOR IMMUNE SYSTEM PRECISION 🏆\n\n- Mary Brunkow, Fred Ramsdell, and Shimon Sakaguchi win 2025 Nobel Prize 🥇\n- Awarded in Physiology or Medicine for immune system research 🩺\n- American and Japanese scientists recognized for their contributions 🇺🇸🇯🇵\n\nTAKEAWAY: Mary Brunkow, Fred Ramsdell, and Shimon Sakaguchi's groundbreaking research in immune system precision earns them the prestigious 2025 Nobel Prize in Physiology or Medicine.",
       "exported_at": "2025-10-06T08:22:09.272881",
+      "continuous_session": true
+    },
+    {
+      "title": "AMD stock skyrockets 35% as OpenAI looks to take stake in AI chipmaker",
+      "link": "https://www.cnbc.com/2025/10/06/openai-amd-chip-deal-ai.html",
+      "summary": "OpenAI will deploy up to 6 gigawatts of AMD Instinct GPUs over multiple years, beginning with a 1-gigawatt rollout in 2026.",
+      "published": "Mon, 06 Oct 2025 12:26:07 GMT",
+      "content": "OpenAI will deploy up to 6 gigawatts of AMD Instinct GPUs over multiple years, beginning with a 1-gigawatt rollout in 2026.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "42fc0d7d7446df8c8a17a06bf8530934",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AMD SOARS 25% AS OPENAI INVESTS IN AI CHIPMAKER 🚀\n\n- AMD stock surges by 25% on news of OpenAI partnership 📈\n- OpenAI to use up to 6 gigawatts of AMD Instinct GPUs 🚀\n- Initial rollout of 1 gigawatt by OpenAI expected in 2026 📆\n- Collaboration set to span multiple years 🌟\n- OpenAI's investment signals confidence in AMD's technology 💪\n- Potential for significant growth and market expansion for AMD 🔥\n\nTAKEAWAY: AMD's stock skyrockets as OpenAI plans to deploy up to 6 gigawatts of AMD Instinct GPUs, showcasing a strong vote of confidence in AMD's technology and potential for growth.",
+      "exported_at": "2025-10-06T08:27:18.027672",
+      "continuous_session": true
+    },
+    {
+      "title": "Here are Monday&apos;s biggest analyst calls: Nvidia, Tesla, Apple, Klarna, Micron, Oracle, Amazon, Broadcom, Affirm, Disney &amp; more",
+      "link": "https://www.cnbc.com/2025/10/06/monday-stocks-from-analyst-calls-include-nvidia-klarna-oracle-disney.html",
+      "summary": "Here are the biggest calls on Wall Street on Monday.",
+      "published": "Mon, 06 Oct 2025 12:19:45 GMT",
+      "content": "Here are the biggest calls on Wall Street on Monday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "234ced80219cfff37cfb0b1faa8117f3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MONDAY'S HOTTEST ANALYST CALLS: NVIDIA, TESLA, APPLE & MORE 🔥\n\n- Wall Street's top picks: Nvidia, Tesla, Apple, Klarna 🎯\n- Analysts' recommendations driving market momentum 🚀\n- Focus on Micron, Oracle, Amazon, Broadcom, Affirm, Disney 📊\n\nTAKEAWAY: Analysts' top calls on Nvidia, Tesla, Apple, and more are igniting market excitement and shaping investor strategies.",
+      "exported_at": "2025-10-06T08:27:18.027729",
       "continuous_session": true
     }
   ]
