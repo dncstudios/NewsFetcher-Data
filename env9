@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-06T12:22:24.925755",
-    "total_articles": 2208,
-    "new_articles_in_last_fetch": 2208,
+    "created_at": "2025-10-06T12:37:42.429119",
+    "total_articles": 2209,
+    "new_articles_in_last_fetch": 2209,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -28668,6 +28668,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: OPENAI BOOSTS AMD IN AI CHIP RACE 🚀\n\n- OpenAI's move favors AMD in AI chip competition 🏆\n- AI computing demand opens opportunities for multiple chip firms 💥\n- CNBC's Jim Cramer highlights the significance of AI power demand 📈\n\nTAKEAWAY: OpenAI's choice gives AMD a competitive edge in the AI chip race, showcasing the vast opportunities in the growing demand for AI computing power.",
       "exported_at": "2025-10-06T12:22:24.778747",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves midday: Critical Metals, Comerica, Advanced Micro Devices, Abercrombie &amp; Fitch and more",
+      "link": "https://www.cnbc.com/2025/10/06/midday-stock-moves-crml-sbux-vz-ntla-amd.html",
+      "summary": "These are some of the stocks posting the largest moves midday.",
+      "published": "Mon, 06 Oct 2025 16:34:29 GMT",
+      "content": "These are some of the stocks posting the largest moves midday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "74e8c6c87f58bc9aa98fdb41f01a1024",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS MAKING BIGGEST MOVES MIDDAY 🚀\n\n- Critical Metals, Comerica, Advanced Micro Devices, Abercrombie & Fitch active 🔥\n- Companies experience significant midday stock fluctuations 📈📉\n- Market volatility evident in various industries ✅🎯\n\nTAKEAWAY: Significant midday stock movements observed in Critical Metals, Comerica, Advanced Micro Devices, Abercrombie & Fitch, reflecting market volatility and active trading.",
+      "exported_at": "2025-10-06T12:37:42.394396",
       "continuous_session": true
     }
   ]
