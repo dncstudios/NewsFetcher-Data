@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-06T10:35:14.650267",
-    "total_articles": 2195,
-    "new_articles_in_last_fetch": 2195,
+    "created_at": "2025-10-06T10:40:25.813778",
+    "total_articles": 2196,
+    "new_articles_in_last_fetch": 2196,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -28499,6 +28499,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NIKE PRICES SOAR UNDER CEO ELLIOTT HILL'S TURNAROUND PLAN 🚀\n\n- Nike's apparel and footwear prices surge under CEO Elliott Hill 📈\n- Significant year-over-year price increase since Hill's leadership 🌟\n- Tariffs on Asian-made goods contribute to the price surge 🌏\n\nTAKEAWAY: CEO Elliott Hill's turnaround plan at Nike drives significant price increases in apparel and footwear, boosted further by tariffs on Asian-made goods.",
       "exported_at": "2025-10-06T10:35:14.518288",
+      "continuous_session": true
+    },
+    {
+      "title": "OpenAI DevDay live: Altman&apos;s keynote and comments from Jony Ive at the AI startup&apos;s flagship event",
+      "link": "https://www.cnbc.com/2025/10/06/open-ai-devday-live-updates-altman-jony-ive.html",
+      "summary": "Fresh off an AI chip deal with AMD, OpenAI makes its case to developers about the latest in research, product and engineering.",
+      "published": "Mon, 06 Oct 2025 14:36:27 GMT",
+      "content": "Fresh off an AI chip deal with AMD, OpenAI makes its case to developers about the latest in research, product and engineering.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1f3e53c66163fea26bbccabdb864f715",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: OPENAI DEV DAY HIGHLIGHTS: ALTMA'S KEYNOTE AND JONY IVE'S INSIGHTS 🚀\n\n- OpenAI seals AI chip deal with AMD 💻\n- Altman presents latest research and products to developers 🌟\n- Jony Ive shares insights at flagship event 🧠\n- Focus on cutting-edge engineering showcased 🔬\n- Event highlights advancements in AI technology 📈\n\nTAKEAWAY: OpenAI leverages AMD deal and flagship event to showcase cutting-edge AI research, products, and engineering to developers, with insights from Jony Ive.",
+      "exported_at": "2025-10-06T10:40:25.659023",
       "continuous_session": true
     }
   ]
