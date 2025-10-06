@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-06T11:21:18.715015",
-    "total_articles": 2203,
-    "new_articles_in_last_fetch": 2203,
+    "created_at": "2025-10-06T12:01:56.649971",
+    "total_articles": 2204,
+    "new_articles_in_last_fetch": 2204,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -28603,6 +28603,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: PAUL TUDOR JONES PREDICTS MASSIVE RALLY BEFORE BULL MARKET PEAK 🚀\n\n- Market setup mirrors dot-com bubble burst in 1999 💥\n- Ingredients aligning for a significant market upswing 📈\n- Jones anticipates a 'blow off' peak in the bull market 📈\n- Comparison drawn between current market and late 1999 🔄\n- Potential for a major rally before market climax 🚀\n- Jones hints at a significant upward surge before peak 📈\n\nTAKEAWAY: Paul Tudor Jones predicts a massive rally on the horizon, drawing parallels between today's market setup and the dot-com bubble burst of 1999.",
       "exported_at": "2025-10-06T11:21:18.573142",
+      "continuous_session": true
+    },
+    {
+      "title": "Japan&apos;s stock market surged nearly 5% overnight. Why it&apos;s happening and how to invest in it",
+      "link": "https://www.cnbc.com/2025/10/06/japans-stock-market-surged-nearly-5percent-overnight-why-its-happening-and-how-to-invest-in-it.html",
+      "summary": "Investors interpreted Japan's election outcome as signaling continued stimulus and a steady hand at the Bank of Japan.",
+      "published": "Mon, 06 Oct 2025 15:40:02 GMT",
+      "content": "Investors interpreted Japan's election outcome as signaling continued stimulus and a steady hand at the Bank of Japan.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ea1d1cd9ab1bcb817871160e8df17feb",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JAPAN'S STOCK MARKET SURGES 5% OVERNIGHT 🚀\n\n- Japan's election outcome signals ongoing stimulus 💰\n- Investors trust Bank of Japan's stable leadership 🏦\n- Market interprets election results positively 📈\n- Surge attributed to expectations of economic support 📈\n- Investors optimistic about Japan's financial stability 💪\n\nTAKEAWAY: Japan's stock market surges 5% overnight due to optimistic investor sentiment towards continued stimulus and stable leadership at the Bank of Japan. 📈🚀",
+      "exported_at": "2025-10-06T12:01:56.507705",
       "continuous_session": true
     }
   ]
