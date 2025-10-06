@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-06T09:33:54.814787",
-    "total_articles": 2189,
-    "new_articles_in_last_fetch": 2189,
+    "created_at": "2025-10-06T09:44:09.385179",
+    "total_articles": 2190,
+    "new_articles_in_last_fetch": 2190,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -28421,6 +28421,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FIREFLY AEROSPACE SOARS 14% POST $855M ACQUISITION 🚀\n\n- Firefly Aerospace acquires SciTec to boost national security 🛡️\n- Acquisition valued at $855 million propels Firefly's stock 📈\n- SciTec purchase aims to enhance defense tech capabilities 💪\n\nTAKEAWAY: Firefly Aerospace's 14% surge post $855 million acquisition of SciTec showcases investor confidence in its strengthened national security offerings.",
       "exported_at": "2025-10-06T09:33:54.654966",
+      "continuous_session": true
+    },
+    {
+      "title": "Supreme Court will not hear Ghislaine Maxwell appeal of Epstein abetting conviction",
+      "link": "https://www.cnbc.com/2025/10/06/supreme-court-ghislaine-maxwell-epstein-trump.html",
+      "summary": "Ghislaine Maxwell, the convicted procurer of Jeffrey Epstein, may now focus efforts to get a pardon or sentence commutation from President Donald Trump.",
+      "published": "Mon, 06 Oct 2025 13:41:27 GMT",
+      "content": "Ghislaine Maxwell, the convicted procurer of Jeffrey Epstein, may now focus efforts to get a pardon or sentence commutation from President Donald Trump.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6b1cc45c83313f69174b5ed2ef0105f4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SUPREME COURT DENIES GHISLAINE MAXWELL'S APPEAL 🚨\n\n- Maxwell's appeal rejected, focusing on Trump for pardon 🎯\n- Convicted of abetting Jeffrey Epstein 🕵️‍♂️\n- Potential efforts towards sentence commutation 📉\n\nTAKEAWAY: With the Supreme Court denying Ghislaine Maxwell's appeal, her focus shifts to seeking a pardon or sentence commutation from President Trump.",
+      "exported_at": "2025-10-06T09:44:09.234047",
       "continuous_session": true
     }
   ]
