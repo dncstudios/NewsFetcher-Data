@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T08:14:48.810002",
-    "total_articles": 2297,
-    "new_articles_in_last_fetch": 2297,
+    "created_at": "2025-10-07T08:25:03.166963",
+    "total_articles": 2298,
+    "new_articles_in_last_fetch": 2298,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -29825,6 +29825,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRILOGY METALS SHARES SURGE 250% AFTER U.S. INVESTMENT 🚀\n\n- Trilogy Metals stock skyrockets 248% in premarket trading 📈\n- U.S. takes stake in minerals explorer, boosting investor confidence ✅\n- Market reacts positively to the news 🎉\n- Pre-market surge reflects strong interest and potential growth 🌟\n\nTAKEAWAY: Trilogy Metals experiences a monumental 250% surge in premarket trading as the U.S. investment fuels investor optimism and market excitement.",
       "exported_at": "2025-10-07T08:14:48.648372",
+      "continuous_session": true
+    },
+    {
+      "title": "This animal health stock is up 70% in 2025. JPMorgan says it has further gains",
+      "link": "https://www.cnbc.com/2025/10/07/this-animal-health-stock-is-up-70percent-in-2025-jpmorgan-says-it-has-further-gains.html",
+      "summary": "Analyst Chris Schott upgraded the stock to overweight from neutral.",
+      "published": "Tue, 07 Oct 2025 12:03:38 GMT",
+      "content": "Analyst Chris Schott upgraded the stock to overweight from neutral.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3d4facd862d28029d5d2ca0fff534abc",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ANIMAL HEALTH STOCK SOARS 70% IN 2025, JPMORGAN FORESEES MORE GAINS 🚀\n\n- Stock upgraded by JPMorgan analyst Chris Schott 📈\n- Upgraded to overweight from neutral 🚀\n- Stock has surged 70% in 2025 💰\n- JPMorgan predicts further gains ahead 🔮\n\nTAKEAWAY: After a remarkable 70% surge in 2025, JPMorgan's upgrade to overweight fuels optimism for more gains in the animal health stock.",
+      "exported_at": "2025-10-07T08:25:02.998330",
       "continuous_session": true
     }
   ]
