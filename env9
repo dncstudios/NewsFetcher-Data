@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T04:50:02.747544",
-    "total_articles": 2269,
-    "new_articles_in_last_fetch": 2269,
+    "created_at": "2025-10-07T05:00:18.316725",
+    "total_articles": 2270,
+    "new_articles_in_last_fetch": 2270,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -29461,6 +29461,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRILOGY METALS SHARES SURGE 200% IN PREMARKET 🚀\n\n- Trilogy Metals stock jumps 200% premarket 🚀\n- Trading 185% higher at 9:33 a.m. London time 🕘\n- U.S. takes stake in minerals explorer 🇺🇸\n- Massive investor interest in Trilogy Metals 📈\n- Pre-market deals show significant growth 📈\n- Excitement over U.S. involvement propels stock 🔥\n\nTAKEAWAY: Trilogy Metals experiences an astounding 200% surge in premarket trading after the U.S. takes a stake in the minerals explorer, sparking massive investor interest and excitement.",
       "exported_at": "2025-10-07T04:50:02.721408",
+      "continuous_session": true
+    },
+    {
+      "title": "Trilogy Metals shares soar nearly 200% in premarket after U.S. takes stake in minerals explorer",
+      "link": "https://www.cnbc.com/2025/10/07/trilogy-metals-shares-surge-after-us-takes-stake-in-minerals-firm.html",
+      "summary": "The stock was seen trading 183% higher in premarket deals at 9:54 a.m. London time (4:54 a.m. ET).",
+      "published": "Tue, 07 Oct 2025 08:57:07 GMT",
+      "content": "The stock was seen trading 183% higher in premarket deals at 9:54 a.m. London time (4:54 a.m. ET).",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "74964f653d7323f83965e2d6d18d9c2a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRILOGY METALS SHARES SURGE 200% AFTER U.S. STAKE 🚀\n\n- Trilogy Metals stock spikes 183% in premarket trading 📈\n- U.S. investment boosts confidence in minerals explorer 🇺🇸\n- Market reacts positively to U.S. stake acquisition ⚡️\n\nTAKEAWAY: Trilogy Metals experiences a remarkable 200% surge in premarket trading following the U.S. investment, signaling increased investor confidence in the minerals explorer.",
+      "exported_at": "2025-10-07T05:00:18.156899",
       "continuous_session": true
     }
   ]
