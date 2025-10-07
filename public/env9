@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T07:43:51.687187",
-    "total_articles": 2288,
-    "new_articles_in_last_fetch": 2288,
+    "created_at": "2025-10-07T07:48:57.805951",
+    "total_articles": 2289,
+    "new_articles_in_last_fetch": 2289,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -29708,6 +29708,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRILOGY METALS SHARES SURGE 220% IN PREMARKET 🚀\n\n- Trilogy Metals stock up 222% in premarket trading 📈\n- Increase seen at 12:40 p.m. London time (7:40 a.m. ET) ⏰\n\nTAKEAWAY: The surge in Trilogy Metals shares following the U.S. stake acquisition signals investor confidence and potential growth opportunities in the minerals exploration sector.",
       "exported_at": "2025-10-07T07:43:51.661096",
+      "continuous_session": true
+    },
+    {
+      "title": "Missing this pay date may be too much for Trump and Congress to prolong shutdown",
+      "link": "https://www.cnbc.com/2025/10/06/theres-one-date-if-the-shutdown-drags-on-where-pressure-will-really-start-to-mount-on-trump-and-congress.html",
+      "summary": "While the sides have dug in their heels regarding the budget, missing a pay period for the military may not be seen as worth the fallout.",
+      "published": "Tue, 07 Oct 2025 11:45:33 GMT",
+      "content": "While the sides have dug in their heels regarding the budget, missing a pay period for the military may not be seen as worth the fallout.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "23883ab6b365ec2f195f551e43874c1d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PRESSURE MOUNTS ON TRUMP AND CONGRESS AS SHUTDOWN DRAGS ON ⚠️\n\n- Budget standoff intensifies as sides refuse to budge 🚨\n- Military pay delay could trigger significant backlash 💥\n- Shutdown reaches critical point with impending pay period 📆\n\nTAKEAWAY: The longer the shutdown persists, the closer it gets to a tipping point where the delay in military pay could spark severe repercussions, putting pressure on Trump and Congress to find a resolution.",
+      "exported_at": "2025-10-07T07:48:57.629326",
       "continuous_session": true
     }
   ]
