@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T10:18:06.531423",
-    "total_articles": 2324,
-    "new_articles_in_last_fetch": 2324,
+    "created_at": "2025-10-07T10:23:18.980050",
+    "total_articles": 2325,
+    "new_articles_in_last_fetch": 2325,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -30176,6 +30176,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: INSIDE ALTS: STARTUPS DELAY GOING PUBLIC, THANKS TO ALTERNATIVE CAPITAL 🚀\n\n- Median age of private companies now 13 years, up from 10 in 2018 ⏳\n- Startups opting for longer private periods before going public 📈\n- New data shows shift towards alternative sources of capital 💰\n\nTAKEAWAY: Startups are choosing to stay private longer, with the median age of private companies increasing to 13 years, signaling a trend towards alternative capital.",
       "exported_at": "2025-10-07T10:18:06.349481",
+      "continuous_session": true
+    },
+    {
+      "title": "Trilogy Metals shares soar over 200% after U.S. takes stake in minerals explorer",
+      "link": "https://www.cnbc.com/2025/10/07/trilogy-metals-shares-surge-after-us-takes-stake-in-minerals-firm.html",
+      "summary": "Shares of U.S.-listed Trilogy Metals surged more than 225% on Tuesday, shortly after the White House said it would take a 10% stake in the Canadian company.",
+      "published": "Tue, 07 Oct 2025 14:22:20 GMT",
+      "content": "Shares of U.S.-listed Trilogy Metals surged more than 225% on Tuesday, shortly after the White House said it would take a 10% stake in the Canadian company.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3a32eba84d03e457b6d92ae12b011099",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRILOGY METALS SHARES SURGE OVER 200% AFTER U.S. TAKES STAKE 🚀\n\n- Trilogy Metals shares skyrocket by 225% post U.S. investment 💰\n- White House acquires 10% stake in Canadian company 🇨🇦\n- Market responds with massive surge in Trilogy Metals shares 📈\n\nTAKEAWAY: Trilogy Metals experiences a monumental 225% surge as the U.S. acquires a 10% stake, signaling strong investor confidence and potential future growth.",
+      "exported_at": "2025-10-07T10:23:18.755979",
       "continuous_session": true
     }
   ]
