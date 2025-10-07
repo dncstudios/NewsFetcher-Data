@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T11:39:56.890199",
-    "total_articles": 2333,
-    "new_articles_in_last_fetch": 2333,
+    "created_at": "2025-10-07T11:50:11.565123",
+    "total_articles": 2334,
+    "new_articles_in_last_fetch": 2334,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -30293,6 +30293,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JOHNSON & JOHNSON ORDERED TO PAY $966M IN TALC CANCER CASE ⚠️\n\n- Jury finds J&J liable, orders $966 million payout 💰\n- J&J ceased talc baby powder sales in the U.S. in 2020 🚫\n- Company now offers cornstarch alternative product ✅\n\nTAKEAWAY: J&J faces a hefty $966 million payout after being held accountable in a talc cancer case, prompting a shift to cornstarch products post-2020.",
       "exported_at": "2025-10-07T11:39:56.863652",
+      "continuous_session": true
+    },
+    {
+      "title": "September, typical boom month for shipping, looks more like freight recession this year",
+      "link": "https://www.cnbc.com/2025/10/07/shipping-freight-inventory-supply-chain-recession.html",
+      "summary": "Freight data indicates that September, which is typically a boom month for shipping ahead of the holidays, is playing out like a freight recession this year.",
+      "published": "Tue, 07 Oct 2025 15:39:59 GMT",
+      "content": "Freight data indicates that September, which is typically a boom month for shipping ahead of the holidays, is playing out like a freight recession this year.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "44dd32f613e07f0f16d47ca752943f1e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SEPTEMBER SHIPPING BOOM TURNS INTO FREIGHT RECESSION 📉\n\n- Freight data shows September, usually a boom month, mirroring a recession 📉\n- Unprecedented shift in shipping dynamics this year 🔄\n- Contrasting previous years, current data signals a freight recession 📉\n- Industry experts surprised by the unexpected trend 🤯\n- Holiday season typically boosts shipping, but not this September 🎁\n- Decrease in shipping activity raises concerns among stakeholders 🚨\n\nTAKEAWAY: September's unexpected freight recession defies typical shipping trends, leaving industry experts surprised and stakeholders concerned about the sudden shift.",
+      "exported_at": "2025-10-07T11:50:11.394899",
       "continuous_session": true
     }
   ]
