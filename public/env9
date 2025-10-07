@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T06:57:54.363353",
-    "total_articles": 2284,
-    "new_articles_in_last_fetch": 2284,
+    "created_at": "2025-10-07T07:08:07.494928",
+    "total_articles": 2285,
+    "new_articles_in_last_fetch": 2285,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -29656,6 +29656,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: EVERCORE ISI: BUY THE DIP ON GEMINI SPACE STATION 🚀\n\n- Evercore ISI recommends investing in Gemini Space Station\n- Strong opportunity for exposure to the digital asset ecosystem\n- Positioned at the beginning of a new recovery cycle\n\nTAKEAWAY: Evercore ISI advises seizing the opportunity to invest in Gemini Space Station for exposure to the digital asset ecosystem at the start of a new recovery cycle.",
       "exported_at": "2025-10-07T06:57:54.335881",
+      "continuous_session": true
+    },
+    {
+      "title": "Trilogy Metals shares soar over 200% in premarket after U.S. takes stake in minerals explorer",
+      "link": "https://www.cnbc.com/2025/10/07/trilogy-metals-shares-surge-after-us-takes-stake-in-minerals-firm.html",
+      "summary": "The stock was seen trading up 214% in premarket deals at 12:05 p.m. London time (7:05 a.m. ET).",
+      "published": "Tue, 07 Oct 2025 11:07:02 GMT",
+      "content": "The stock was seen trading up 214% in premarket deals at 12:05 p.m. London time (7:05 a.m. ET).",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "382747226af58a879d88e8b4d15ce786",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRILOGY METALS SHARES SURGE 200% AFTER U.S. INVESTMENT 🚀\n\n- Trilogy Metals stock up 214% in premarket trading 📈\n- U.S. takes stake in minerals explorer, driving investor interest 🇺🇸\n- Significant market movement seen in early London hours ⏰\n\nTAKEAWAY: Trilogy Metals experiences an outstanding 200% surge in premarket trading following the U.S. investment, sparking investor excitement.",
+      "exported_at": "2025-10-07T07:08:07.468712",
       "continuous_session": true
     }
   ]
