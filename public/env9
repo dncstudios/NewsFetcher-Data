@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T17:01:50.857518",
-    "total_articles": 2363,
-    "new_articles_in_last_fetch": 2363,
+    "created_at": "2025-10-07T17:07:02.919879",
+    "total_articles": 2365,
+    "new_articles_in_last_fetch": 2365,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -30683,6 +30683,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: MICHAEL DELL WARNS OF AI DATA CENTER OVERSATURATION 🚨\n\n- AI data center demand remains strong 💪\n- Dell foresees potential oversaturation in the future ⚠️\n- Balancing supply and demand is critical 🔑\n\nTAKEAWAY: Michael Dell highlights the robust demand for AI data centers but cautions about the risk of oversaturation in the future, emphasizing the importance of strategic planning.",
       "exported_at": "2025-10-07T17:01:50.696434",
+      "continuous_session": true
+    },
+    {
+      "title": "Michael Dell says &apos;at some point there&apos;ll be too many&apos; AI data centers, but not yet",
+      "link": "https://www.cnbc.com/2025/10/07/michael-dell-too-many-ai-data-centers.html",
+      "summary": "Dell Technologies CEO Michael Dell said that demand for AI computing power is \"tremendous.\"",
+      "published": "Tue, 07 Oct 2025 21:02:02 GMT",
+      "content": "Dell Technologies CEO Michael Dell said that demand for AI computing power is \"tremendous.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "55208e405f47fa4bcb460738aeccca3e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MICHAEL DELL: AI DATA CENTERS ON THE RISE, BUT DEMAND STILL SOARING 🚀\n\n- Michael Dell acknowledges surging demand for AI computing power 💥\n- Predicts a future where AI data centers may become oversaturated 🤔\n- Emphasizes current demand for AI resources remains exceptionally high ✅\n\nTAKEAWAY: Michael Dell recognizes the explosive growth in AI computing power demand, hinting at a potential oversaturation of data centers in the future.",
+      "exported_at": "2025-10-07T17:07:02.892857",
+      "continuous_session": true
+    },
+    {
+      "title": "NFL fines Cowboys&apos; Jerry Jones $250K for obscene gesture",
+      "link": "https://www.cnbc.com/2025/10/07/nfl-fines-cowboys-jerry-jones-250k-for-obscene-gesture.html",
+      "summary": "The NFL fined Dallas Cowboys owner and general manager Jerry Jones $250,000 for making an obscene gesture -- which he later called inadvertent -- toward fans during the team's road win Sunday against the New York Jets.",
+      "published": "Tue, 07 Oct 2025 21:00:02 GMT",
+      "content": "The NFL fined Dallas Cowboys owner and general manager Jerry Jones $250,000 for making an obscene gesture -- which he later called inadvertent -- toward fans during the team's road win Sunday against the New York Jets.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5a678935917da7865e76da0256792a11",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NFL FINES JERRY JONES $250K FOR OBSCENE GESTURE 🚨\n\n- Jerry Jones fined $250,000 for obscene gesture to fans\n- Gesture deemed inadvertent by Jones post-game 🤷‍♂️\n- Incident occurred during Cowboys' win over Jets 🏈\n\nTAKEAWAY: NFL's $250,000 fine on Jerry Jones for an obscene gesture during a game highlights the league's stance on professionalism and conduct.",
+      "exported_at": "2025-10-07T17:07:02.892869",
       "continuous_session": true
     }
   ]
