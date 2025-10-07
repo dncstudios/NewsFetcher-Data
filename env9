@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T03:13:28.564267",
-    "total_articles": 2265,
-    "new_articles_in_last_fetch": 2265,
+    "created_at": "2025-10-07T03:54:05.401552",
+    "total_articles": 2266,
+    "new_articles_in_last_fetch": 2266,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -29409,6 +29409,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: EUROPEAN STOCKS MIXED AS FRENCH CRISIS HITS SENTIMENT 📉\n\n- European stocks show mixed performance on Tuesday 📊\n- Focus on France post Prime Minister Lecornu's resignation 🇫🇷\n- Sentiment impacted, uncertainty prevails ⚠️\n- Markets closely monitoring developments in France 🇪🇺\n- Volatility expected amid ongoing crisis 🌪️\n\nTAKEAWAY: European stock markets experience mixed performance as the French political crisis impacts sentiment, leading to uncertainty and volatility.",
       "exported_at": "2025-10-07T03:13:28.403384",
+      "continuous_session": true
+    },
+    {
+      "title": "European stocks edge lower as French crisis weighs on sentiment",
+      "link": "https://www.cnbc.com/2025/10/07/european-markets-on-octpoint8-stoxx-600-ftse-dax-cac-france.html",
+      "summary": "European stocks were slightly lower on Tuesday morning, with all eyes on France after the resignation of Prime Minister Sebastien Lecornu.",
+      "published": "Tue, 07 Oct 2025 07:48:54 GMT",
+      "content": "European stocks were slightly lower on Tuesday morning, with all eyes on France after the resignation of Prime Minister Sebastien Lecornu.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7b4b72e48817781594e89c9c2491b7d2",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: EUROPEAN STOCKS SLIP AMID FRENCH CRISIS 📉\n\n- European stocks dip due to French Prime Minister's resignation 🇫🇷\n- Investors cautious as France's political turmoil impacts market sentiment 📉\n- Eyes fixed on France amidst uncertainties in the stock market 🧐\n\nTAKEAWAY: European stocks edge lower as the French crisis with Prime Minister Sebastien Lecornu's resignation impacts market sentiment, leading to cautious investor behavior.",
+      "exported_at": "2025-10-07T03:54:05.242665",
       "continuous_session": true
     }
   ]
