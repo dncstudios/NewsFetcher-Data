@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T15:45:14.101585",
-    "total_articles": 2354,
-    "new_articles_in_last_fetch": 2354,
+    "created_at": "2025-10-07T15:55:27.258632",
+    "total_articles": 2355,
+    "new_articles_in_last_fetch": 2355,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -30566,6 +30566,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: GOLDMAN SACHS MANAGER REVEALS TOP AI STOCKS TO BUY 🚀\n\n- Goldman Sachs' Brook Dane highlights Nvidia and TSMC as top AI stock picks 📈\n- Despite Nvidia's record highs, Dane believes the stock isn't overvalued 💰\n- Nvidia and TSMC recognized as key players in the AI sector 🤖\n- Dane's endorsement boosts investor confidence in Nvidia and TSMC 📈\n- Goldman Sachs portfolio manager's insights add credibility to AI stock picks ✅\n\nTAKEAWAY: Goldman Sachs' Brook Dane identifies Nvidia and TSMC as strong AI stock choices, reassuring investors of their potential despite record highs.",
       "exported_at": "2025-10-07T15:45:13.939111",
+      "continuous_session": true
+    },
+    {
+      "title": "Furloughed federal workers face threat of no back pay from shutdown, despite 2019 law requiring it",
+      "link": "https://www.cnbc.com/2025/10/07/government-shutdown-furloughed-workers-threat-of-no-back-pay.html",
+      "summary": "As the federal shutdown stretches on, furloughed federal workers face the threat of not receiving back pay, despite a 2019 law that requires it.",
+      "published": "Tue, 07 Oct 2025 19:53:19 GMT",
+      "content": "As the federal shutdown stretches on, furloughed federal workers face the threat of not receiving back pay, despite a 2019 law that requires it.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8df4491f5a5c5f0eae61f6bf8a03fa71",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FURLOUGHED FEDERAL WORKERS AT RISK OF NO BACK PAY DESPITE 2019 LAW 🚨\n\n- Federal workers in danger of not receiving back pay 💸\n- Shutdown prolongs uncertainty for furloughed employees ⏳\n- 2019 law mandates back pay, but threat still looms ⚠️\n\nTAKEAWAY: Despite a 2019 law ensuring back pay for furloughed federal workers, the current shutdown poses a risk of them not receiving their deserved compensation.",
+      "exported_at": "2025-10-07T15:55:27.083045",
       "continuous_session": true
     }
   ]
