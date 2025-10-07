@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T08:25:03.166963",
-    "total_articles": 2298,
-    "new_articles_in_last_fetch": 2298,
+    "created_at": "2025-10-07T08:30:13.165625",
+    "total_articles": 2299,
+    "new_articles_in_last_fetch": 2299,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -29838,6 +29838,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ANIMAL HEALTH STOCK SOARS 70% IN 2025, JPMORGAN FORESEES MORE GAINS 🚀\n\n- Stock upgraded by JPMorgan analyst Chris Schott 📈\n- Upgraded to overweight from neutral 🚀\n- Stock has surged 70% in 2025 💰\n- JPMorgan predicts further gains ahead 🔮\n\nTAKEAWAY: After a remarkable 70% surge in 2025, JPMorgan's upgrade to overweight fuels optimism for more gains in the animal health stock.",
       "exported_at": "2025-10-07T08:25:02.998330",
+      "continuous_session": true
+    },
+    {
+      "title": "Laura Modi, CEO and mom, is breaking one of the market&apos;s biggest duopolies: Infant formula",
+      "link": "https://www.cnbc.com/2025/10/07/laura-modi-ceo-and-mom-is-breaking-one-of-markets-biggest-duopolies.html",
+      "summary": "Laura Modi's Bobbie is disrupting the infant formula business dominated by two major companies, and pushing for change while balancing growth and motherhood.",
+      "published": "Tue, 07 Oct 2025 12:29:55 GMT",
+      "content": "Laura Modi's Bobbie is disrupting the infant formula business dominated by two major companies, and pushing for change while balancing growth and motherhood.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4c0c5865ab48f4ff1af14456cc9dacfb",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: LAURA MODI BREAKS INFANT FORMULA DUOPOLY 🚀\n\n- Bobbie challenges big companies in infant formula market 🍼\n- Laura Modi disrupts industry status quo 💥\n- Balancing growth and motherhood, she pushes for change 🌟\n- Bobbie aims to revolutionize the market dominated by two giants 🌪️\n\nTAKEAWAY: Laura Modi's Bobbie is shaking up the infant formula industry, challenging major players and striving for change while managing the demands of motherhood.",
+      "exported_at": "2025-10-07T08:30:13.015017",
       "continuous_session": true
     }
   ]
