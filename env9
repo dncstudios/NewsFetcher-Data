@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-06T20:32:22.647405",
-    "total_articles": 2259,
-    "new_articles_in_last_fetch": 2259,
+    "created_at": "2025-10-06T21:08:01.817955",
+    "total_articles": 2260,
+    "new_articles_in_last_fetch": 2260,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -29331,6 +29331,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ASIA-PACIFIC MARKETS EYE MIXED OPEN AFTER WALL STREET GAINS 🚀\n\n- AMD shares surge by nearly 24% on OpenAI deal 💥\n- OpenAI potentially acquiring 10% stake in chipmaker 📈\n- Wall Street's positive momentum likely to influence Asia-Pacific markets 📈\n\nTAKEAWAY: AMD's impressive 24% surge due to the OpenAI deal is expected to have a mixed impact on Asia-Pacific markets, following Wall Street's positive trend.",
       "exported_at": "2025-10-06T20:32:22.621866",
+      "continuous_session": true
+    },
+    {
+      "title": "Staffing issues cause delays at U.S. airports as shutdown persists",
+      "link": "https://www.cnbc.com/2025/10/07/staffing-issues-cause-delays-at-us-airports-as-shutdown-persists.html",
+      "summary": "Some 13,000 air traffic controllers and about 50,000 Transportation Security Administration officers must still turn up for work during the shutdown.",
+      "published": "Tue, 07 Oct 2025 01:05:39 GMT",
+      "content": "Some 13,000 air traffic controllers and about 50,000 Transportation Security Administration officers must still turn up for work during the shutdown.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "aad0b630e744edad09cb9cb8b021c3a3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STAFFING ISSUES CAUSE DELAYS AT U.S. AIRPORTS DURING SHUTDOWN ⚠️\n\n- 13,000 air traffic controllers, 50,000 TSA officers work during shutdown\n- Staffing shortage leads to delays in airport operations ✈️\n- Travelers face disruptions due to ongoing shutdown 🧳\n- Airports struggle to maintain normal operations 🚧\n- Increased pressure on existing staff impacts efficiency 📉\n- Shutdown's impact felt across U.S. air travel industry 🇺🇸\n\nTAKEAWAY: Staffing shortages at U.S. airports during the shutdown are causing delays and disruptions for travelers, highlighting the critical need for resolution.",
+      "exported_at": "2025-10-06T21:08:01.651434",
       "continuous_session": true
     }
   ]
