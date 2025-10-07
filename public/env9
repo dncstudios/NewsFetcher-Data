@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T10:48:58.095952",
-    "total_articles": 2328,
-    "new_articles_in_last_fetch": 2328,
+    "created_at": "2025-10-07T10:59:11.144883",
+    "total_articles": 2330,
+    "new_articles_in_last_fetch": 2330,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -30228,6 +30228,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: LESS MONEY, MORE HAPPINESS? THE SECRET REVEALED 💰\n\n- Expert Morgan Housel reveals the key to long-term happiness 💡\n- Chasing money can lead to less happiness overall 💸\n- Rich individuals can be the most unhappy 😔\n\nTAKEAWAY: Pursuing wealth may not always lead to happiness; expert Morgan Housel suggests a different approach to long-term contentment.",
       "exported_at": "2025-10-07T10:48:57.944168",
+      "continuous_session": true
+    },
+    {
+      "title": "This stock is set to get a boost from AMD&apos;s OpenAI deal, according to Citi",
+      "link": "https://www.cnbc.com/2025/10/07/one-stock-thats-set-to-get-a-boost-from-amds-openai-deal-that-is-soaring.html",
+      "summary": "Astera Labs jumped 10% Monday after the semiconductor maker got a Street high $275 price target from Citigroup.",
+      "published": "Tue, 07 Oct 2025 14:54:38 GMT",
+      "content": "Astera Labs jumped 10% Monday after the semiconductor maker got a Street high $275 price target from Citigroup.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "18efd4ca0fc518a9183806895ad1a858",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASTERA LABS SURGES 10% ON CITIGROUP'S $275 PRICE TARGET 🚀\n\n- Astera Labs stock jumps 10% post-Citigroup's bullish $275 target 📈\n- Seminconductor maker benefits from AMD's OpenAI deal 🤖\n- Market reacts positively to the Street's high price target 🎯\n\nTAKEAWAY: Astera Labs sees a significant surge in stock price after receiving a bullish $275 price target from Citigroup, fueled by optimism from AMD's OpenAI deal.",
+      "exported_at": "2025-10-07T10:59:10.987901",
+      "continuous_session": true
+    },
+    {
+      "title": "AG Bondi stonewalls question about Trump mentions in Epstein files at Senate hearing",
+      "link": "https://www.cnbc.com/2025/10/07/pam-bondi-stonewalls-question-about-trump-mentions-in-epstein-files.html",
+      "summary": "The Trump administration for months has faced criticism for refusing to release files about Jeffrey Epstein, a former friend of President Trump.",
+      "published": "Tue, 07 Oct 2025 14:55:51 GMT",
+      "content": "The Trump administration for months has faced criticism for refusing to release files about Jeffrey Epstein, a former friend of President Trump.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d7f6850680b102a89b00503affe68c06",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AG BONDI EVASIVE ON TRUMP MENTIONS IN EPSTEIN FILES 🚨\n\n- AG Bondi dodges questions on Trump's mentions in Epstein files\n- Criticism mounts on Trump admin's refusal to release documents\n- Senate hearing reveals lack of transparency on Epstein case\n- Trump's friendship with Epstein under scrutiny\n- Public demands accountability and transparency from administration\n\nTAKEAWAY: AG Bondi's evasiveness on Trump mentions in Epstein files at the Senate hearing highlights the growing criticism and demand for transparency within the administration.",
+      "exported_at": "2025-10-07T10:59:10.987972",
       "continuous_session": true
     }
   ]
