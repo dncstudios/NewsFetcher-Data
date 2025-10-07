@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T07:48:57.805951",
-    "total_articles": 2289,
-    "new_articles_in_last_fetch": 2289,
+    "created_at": "2025-10-07T07:54:11.067702",
+    "total_articles": 2292,
+    "new_articles_in_last_fetch": 2292,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -29721,6 +29721,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: PRESSURE MOUNTS ON TRUMP AND CONGRESS AS SHUTDOWN DRAGS ON ⚠️\n\n- Budget standoff intensifies as sides refuse to budge 🚨\n- Military pay delay could trigger significant backlash 💥\n- Shutdown reaches critical point with impending pay period 📆\n\nTAKEAWAY: The longer the shutdown persists, the closer it gets to a tipping point where the delay in military pay could spark severe repercussions, putting pressure on Trump and Congress to find a resolution.",
       "exported_at": "2025-10-07T07:48:57.629326",
+      "continuous_session": true
+    },
+    {
+      "title": "Trilogy Metals shares soar over 220% in premarket after U.S. takes stake in minerals explorer",
+      "link": "https://www.cnbc.com/2025/10/07/trilogy-metals-shares-surge-after-us-takes-stake-in-minerals-firm.html",
+      "summary": "The stock was seen trading up 222% in premarket deals at 12:50 p.m. London time (7:50 a.m. ET).",
+      "published": "Tue, 07 Oct 2025 11:51:13 GMT",
+      "content": "The stock was seen trading up 222% in premarket deals at 12:50 p.m. London time (7:50 a.m. ET).",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7ab501476f9d861b6edbc8a30f5c404e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRILOGY METALS SHARES SKYROCKET OVER 220% AFTER U.S. INVESTMENT 🚀\n\n- Trilogy Metals stock surges 222% in premarket trading 📈\n- U.S. takes stake in the minerals explorer 💰\n- Market reacts positively to the news 🎉\n\nTAKEAWAY: Trilogy Metals experiences a massive surge of over 220% in premarket trading following the U.S. investment in the company.",
+      "exported_at": "2025-10-07T07:54:10.916335",
+      "continuous_session": true
+    },
+    {
+      "title": "Evercore ISI says Trump policies aren&apos;t helping the housing market. It just downgraded 6 homebuilders",
+      "link": "https://www.cnbc.com/2025/10/07/evercore-isi-says-trump-policies-arent-helping-the-housing-market-it-just-downgraded-6-homebuilders.html",
+      "summary": "The firm lowered its rating on the stocks to in-line from outperform.",
+      "published": "Tue, 07 Oct 2025 11:47:54 GMT",
+      "content": "The firm lowered its rating on the stocks to in-line from outperform.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e79a72843c96343b637adc7fcc335605",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: EVERCORE ISI DOWNGRADES 6 HOMEBUILDERS AS TRUMP POLICIES FALL SHORT 🚨\n\n- Evercore ISI shifts ratings from outperform to in-line 📉\n- Downgraded due to Trump policies' lack of impact on housing market 🏠\n- Homebuilders face challenges amidst policy shortcomings ⚠️\n\nTAKEAWAY: Evercore ISI's downgrade of 6 homebuilders reflects disappointment in Trump's policies failing to uplift the housing market, posing challenges for the industry.",
+      "exported_at": "2025-10-07T07:54:10.916377",
+      "continuous_session": true
+    },
+    {
+      "title": "This beer stock is rallying after an earnings beat. Why the shares are still cheap",
+      "link": "https://www.cnbc.com/2025/10/07/this-beer-stock-is-rallying-after-an-earnings-beat-why-the-shares-are-still-cheap.html",
+      "summary": "Frank Holland breaks down what traders are watching ahead of the new session.",
+      "published": "Tue, 07 Oct 2025 11:50:47 GMT",
+      "content": "Frank Holland breaks down what traders are watching ahead of the new session.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "81b2b88e45dc14eceb5880cac486ea6a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BEER STOCK SOARS AFTER EARNINGS BEAT 🚀\n\n- Company's stock surges post earnings beat 📈\n- Share prices remain undervalued 📉\n- Traders closely monitor upcoming session 🔍\n\nTAKEAWAY: Despite the stock's rally following an earnings beat, shares are perceived to be undervalued, keeping traders attentive to the upcoming session.",
+      "exported_at": "2025-10-07T07:54:10.916386",
       "continuous_session": true
     }
   ]
