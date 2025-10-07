@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T15:55:27.258632",
-    "total_articles": 2355,
-    "new_articles_in_last_fetch": 2355,
+    "created_at": "2025-10-07T16:05:37.771727",
+    "total_articles": 2356,
+    "new_articles_in_last_fetch": 2356,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -30579,6 +30579,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FURLOUGHED FEDERAL WORKERS AT RISK OF NO BACK PAY DESPITE 2019 LAW 🚨\n\n- Federal workers in danger of not receiving back pay 💸\n- Shutdown prolongs uncertainty for furloughed employees ⏳\n- 2019 law mandates back pay, but threat still looms ⚠️\n\nTAKEAWAY: Despite a 2019 law ensuring back pay for furloughed federal workers, the current shutdown poses a risk of them not receiving their deserved compensation.",
       "exported_at": "2025-10-07T15:55:27.083045",
+      "continuous_session": true
+    },
+    {
+      "title": "S&amp;P 500 snaps 7-day winning streak as Oracle slides, shutdown angst grows: Live updates",
+      "link": "https://www.cnbc.com/2025/10/06/stock-market-today-live-updates.html",
+      "summary": "Investors await more developments on the current U.S. government shutdown that is now on its second week.",
+      "published": "Tue, 07 Oct 2025 20:03:11 GMT",
+      "content": "Investors await more developments on the current U.S. government shutdown that is now on its second week.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "12d654b64fc84bf0fa57af60113b52b9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: S&P 500 FACES FIRST DECLINE IN 8 DAYS ON ORACLE SLIDE, SHUTDOWN ANGST 🚨\n\n- S&P 500 set for its initial drop in 8 days 📉\n- Oracle's slide contributes to market downturn 📉\n- Investors anxious amid ongoing U.S. govt shutdown 🏛️\n- Shutdown enters second week, causing uncertainty 🤔\n\nTAKEAWAY: S&P 500 experiences its first decline in over a week due to Oracle's slide and investor concerns over the prolonged U.S. government shutdown entering its second week.",
+      "exported_at": "2025-10-07T16:05:37.614236",
       "continuous_session": true
     }
   ]
