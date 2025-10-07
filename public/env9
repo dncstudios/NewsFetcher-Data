@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T10:12:55.268107",
-    "total_articles": 2321,
-    "new_articles_in_last_fetch": 2321,
+    "created_at": "2025-10-07T10:18:06.531423",
+    "total_articles": 2324,
+    "new_articles_in_last_fetch": 2324,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -30137,6 +30137,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NEW IRS CEO LEADS SOCIAL SECURITY TOO: EXPERTS RAISE CONCERNS ⚠️\n\n- Frank Bisignano takes dual role as IRS CEO, Social Security Commissioner 🤝\n- Policy experts, consumer advocates express worry about the shared leadership 🧐\n- Concerns arise over potential conflicts of interest, lack of focus 🤔\n\nTAKEAWAY: The appointment of Frank Bisignano as both IRS CEO and Social Security Commissioner raises concerns among experts regarding potential conflicts of interest and lack of focused leadership.",
       "exported_at": "2025-10-07T10:12:55.240436",
+      "continuous_session": true
+    },
+    {
+      "title": "Ray Dalio says today is like the early 1970s and investors should hold more gold than usual",
+      "link": "https://www.cnbc.com/2025/10/07/ray-dalio-says-today-is-like-the-early-1970s-and-investors-should-hold-more-gold-than-usual.html",
+      "summary": "\"Gold is the only asset that somebody can hold and you don't have to depend on somebody else to pay your money for,\" Dalio said.",
+      "published": "Tue, 07 Oct 2025 14:14:45 GMT",
+      "content": "\"Gold is the only asset that somebody can hold and you don't have to depend on somebody else to pay your money for,\" Dalio said.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5d83a294264990b3f17a01b21b0b8fb0",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: RAY DALIO URGES INVESTORS TO HOLD MORE GOLD LIKE EARLY 1970s 🚀\n\n- Dalio advises holding more gold due to self-reliant nature 💪\n- Gold stands out as an asset not reliant on others' payments 💰\n- Comparing today to early 1970s for gold investment strategy 📈\n\nTAKEAWAY: Ray Dalio's recommendation to increase gold holdings echoes the self-reliant nature of this precious metal, akin to the early 1970s investment climate.",
+      "exported_at": "2025-10-07T10:18:06.349408",
+      "continuous_session": true
+    },
+    {
+      "title": "Gold price reaches $4,000 an ounce for the first time ever",
+      "link": "https://www.cnbc.com/2025/10/07/gold-4000-record.html",
+      "summary": "Gold futures have gained more than 50% this year as the dollar has weakened and President Donald Trump threatens Federal Reserve independence.",
+      "published": "Tue, 07 Oct 2025 14:16:47 GMT",
+      "content": "Gold futures have gained more than 50% this year as the dollar has weakened and President Donald Trump threatens Federal Reserve independence.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4e195c8955c75c968c5df8c055e5c236",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GOLD PRICE HITS $4,000/OUNCE FOR THE FIRST TIME EVER 🚀\n\n- Gold futures surge over 50% due to weakened dollar 📈\n- President Trump's threat on Federal Reserve independence impacts gold prices ⚠️\n- Historic milestone reached with gold price hitting $4,000/ounce 💰\n\nTAKEAWAY: Gold prices make history by reaching $4,000/ounce fueled by a weakened dollar and Trump's Federal Reserve independence threat.",
+      "exported_at": "2025-10-07T10:18:06.349469",
+      "continuous_session": true
+    },
+    {
+      "title": "Startups are staying private longer thanks to alternative capital",
+      "link": "https://www.cnbc.com/2025/10/07/ipo-market-startups-staying-private-longer-alternative-capital.html",
+      "summary": "The median age of companies that have gone private so far this year is 13 years since founding, up from a median of 10 years in 2018, according to new data.",
+      "published": "Tue, 07 Oct 2025 14:14:26 GMT",
+      "content": "The median age of companies that have gone private so far this year is 13 years since founding, up from a median of 10 years in 2018, according to new data.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "adb263d74e8b4bd6af9d9feb4cb6b812",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: INSIDE ALTS: STARTUPS DELAY GOING PUBLIC, THANKS TO ALTERNATIVE CAPITAL 🚀\n\n- Median age of private companies now 13 years, up from 10 in 2018 ⏳\n- Startups opting for longer private periods before going public 📈\n- New data shows shift towards alternative sources of capital 💰\n\nTAKEAWAY: Startups are choosing to stay private longer, with the median age of private companies increasing to 13 years, signaling a trend towards alternative capital.",
+      "exported_at": "2025-10-07T10:18:06.349481",
       "continuous_session": true
     }
   ]
