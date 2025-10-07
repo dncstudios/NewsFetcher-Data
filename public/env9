@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T09:26:44.497197",
-    "total_articles": 2312,
-    "new_articles_in_last_fetch": 2312,
+    "created_at": "2025-10-07T09:47:06.141080",
+    "total_articles": 2313,
+    "new_articles_in_last_fetch": 2313,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -30020,6 +30020,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: THE S&P 500 SOARS WITH A RARE 33% RALLY IN 6 MONTHS 🚀\n\n- S&P 500 sees exceptional 33% surge in just 6 months 📈\n- Market rally may face challenges ahead, based on historical trends ⚠️\n- Post-\"liberation day\" sell-off in April kickstarted the impressive rally 🌟\n- Stocks skyrocketed but could be gearing up for a possible re-entry 🛰️\n- Investors cautious as market potentially reaches tougher terrain 📉\n\nTAKEAWAY: The S&P 500's remarkable 33% rally in 6 months sets the stage for potential challenges ahead, as historical data suggests a possible slowdown in momentum.",
       "exported_at": "2025-10-07T09:26:44.336091",
+      "continuous_session": true
+    },
+    {
+      "title": "Pretax vs. Roth 401(k) contributions: This lesser-known calculation could help you decide",
+      "link": "https://www.cnbc.com/2025/10/07/pretax-vs-roth-401k-contributions.html",
+      "summary": "It's not easy to decide between pretax vs. Roth 401(k) contributions. But this lesser-known calculation could help you decide, experts say.",
+      "published": "Tue, 07 Oct 2025 13:39:05 GMT",
+      "content": "It's not easy to decide between pretax vs. Roth 401(k) contributions. But this lesser-known calculation could help you decide, experts say.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4daafa5ecec360aadc5191c94e139369",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PRETAX VS. ROTH 401(K) CONTRIBUTIONS: THE DECIDING FACTOR ⚡️\n\n- Experts suggest using a lesser-known calculation for decision-making 💡\n- Choosing between pretax and Roth 401(k) contributions is challenging ❓\n- This calculation could provide clarity and guidance for investors ✨\n\nTAKEAWAY: The lesser-known calculation for pretax vs. Roth 401(k) contributions can be the deciding factor for investors seeking clarity.",
+      "exported_at": "2025-10-07T09:47:05.979514",
       "continuous_session": true
     }
   ]
