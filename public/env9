@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T13:43:00.222978",
-    "total_articles": 2345,
-    "new_articles_in_last_fetch": 2345,
+    "created_at": "2025-10-07T14:18:34.592417",
+    "total_articles": 2347,
+    "new_articles_in_last_fetch": 2347,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -30449,6 +30449,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP ON FURLOUGHED WORKERS' BACK PAY: \"IT DEPENDS\" ⚠️\n\n- Not all furloughed workers guaranteed back pay 💸\n- Trump hints at uncertainties if shutdown prolongs 🤔\n- Warns of jobs possibly never returning if shutdown drags on ⏳\n\nTAKEAWAY: Trump's remarks on furloughed workers' back pay highlight uncertainties and risks as the shutdown continues.",
       "exported_at": "2025-10-07T13:43:00.058984",
+      "continuous_session": true
+    },
+    {
+      "title": "How the S&amp;P 500 performed after 10 previous government shutdowns",
+      "link": "https://www.cnbc.com/2025/10/07/government-shutdowns-stock-market-performance.html",
+      "summary": "The S&amp;P 500 is up since the government shutdown began. Apparently, that's not unusual. Here's what the stalemate in Washington means for investors.",
+      "published": "Tue, 07 Oct 2025 18:00:12 GMT",
+      "content": "The S&amp;P 500 is up since the government shutdown began. Apparently, that's not unusual. Here's what the stalemate in Washington means for investors.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "362bd6ece7cd069c87f26e39d96f37d4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: S&P 500'S PERFORMANCE DURING GOVERNMENT SHUTDOWNS 📈\n\n- S&P 500 rises during current government shutdown 📈\n- Historical data shows market typically unaffected by shutdowns ✅\n- Investors stay strong amidst Washington's stalemate 💪\n- Market resilience shines through political uncertainties 🌟\n\nTAKEAWAY: Despite the government shutdown, the S&P 500 remains resilient, reflecting historical trends of market stability during such events.",
+      "exported_at": "2025-10-07T14:18:34.565853",
+      "continuous_session": true
+    },
+    {
+      "title": "Consumer outlook sours as inflation expectations rise, New York Fed survey finds",
+      "link": "https://www.cnbc.com/2025/10/07/new-york-fed-consumer-outlook-sours-as-inflation-expectations-rise.html",
+      "summary": "Americans are increasingly pessimistic about their financial future as a wave of economic uncertainty takes hold.",
+      "published": "Tue, 07 Oct 2025 18:02:21 GMT",
+      "content": "Americans are increasingly pessimistic about their financial future as a wave of economic uncertainty takes hold.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b9e7481e15ece2768645780488ce23cd",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CONSUMER PESSIMISM GROWS AMID RISING INFLATION EXPECTATIONS 🚨\n\n- New York Fed survey reveals Americans' bleak financial outlook\n- Wave of economic uncertainty grips consumer sentiment\n- Rising inflation expectations contribute to pessimism\n- Consumer confidence wanes amidst financial concerns\n\nTAKEAWAY: The New York Fed survey highlights a growing sense of pessimism among Americans due to rising inflation expectations and economic uncertainty, impacting consumer confidence.",
+      "exported_at": "2025-10-07T14:18:34.565863",
       "continuous_session": true
     }
   ]
