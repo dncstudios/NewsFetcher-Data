@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T06:06:55.954374",
-    "total_articles": 2280,
-    "new_articles_in_last_fetch": 2280,
+    "created_at": "2025-10-07T06:22:13.407870",
+    "total_articles": 2281,
+    "new_articles_in_last_fetch": 2281,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -29604,6 +29604,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRILOGY METALS SHARES SURGE 200% AFTER U.S. INVESTMENT 🚀\n\n- Trilogy Metals stock jumps 171% in premarket trading 📈\n- U.S. takes stake in minerals explorer, boosting investor confidence 💪\n- Significant increase seen at 11:00 a.m. London time 🌍\n- Pre-market deals show stock trading much higher than before 📈\n\nTAKEAWAY: Trilogy Metals experiences a massive 200% surge in share value following the U.S. investment, signaling increased investor confidence and growth potential.",
       "exported_at": "2025-10-07T06:06:55.784812",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump administration resumes student loan forgiveness for some borrowers, trade group says",
+      "link": "https://www.cnbc.com/2025/10/06/student-loan-forgiveness-for-ibr-resumes.html",
+      "summary": "The Trump administration has restarted student loan forgiveness for borrowers enrolled in the IBR program, a benefit that has been partially paused since July.",
+      "published": "Mon, 06 Oct 2025 16:20:29 GMT",
+      "content": "The Trump administration has restarted student loan forgiveness for borrowers enrolled in the IBR program, a benefit that has been partially paused since July.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6a2d5c43c7d03e610a6a7ae6190e47a8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP ADMINISTRATION RESTARTS STUDENT LOAN FORGIVENESS PROGRAM 🚀\n\n- Student loan forgiveness resumes for IBR program participants ✅\n- Benefit had been partially paused since July 📉\n- Relief for borrowers struggling with student debt 💪\n\nTAKEAWAY: The restart of student loan forgiveness under the IBR program provides much-needed relief for borrowers, signaling a positive step towards easing student debt burdens.",
+      "exported_at": "2025-10-07T06:22:13.243825",
       "continuous_session": true
     }
   ]
