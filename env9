@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T02:17:27.857443",
-    "total_articles": 2264,
-    "new_articles_in_last_fetch": 2264,
+    "created_at": "2025-10-07T03:13:28.564267",
+    "total_articles": 2265,
+    "new_articles_in_last_fetch": 2265,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -29396,6 +29396,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WORLD BANK BOOSTS CHINA GROWTH FORECAST TO 4.8% 🚀\n\n- China's growth forecast upgraded from 4.0% to 4.8% by World Bank 📈\n- Optimism despite ongoing trade tensions with the U.S. 🇨🇳🇺🇸\n- Strong economic performance expected in the near future 💪\n- World Bank acknowledges China's resilience and recovery 🌟\n- Positive outlook on China's economic trajectory amidst challenges ✨\n\nTAKEAWAY: The World Bank's increased growth forecast for China to 4.8% showcases optimism and resilience in the face of U.S. trade tensions, highlighting strong economic performance ahead.",
       "exported_at": "2025-10-07T02:17:27.704558",
+      "continuous_session": true
+    },
+    {
+      "title": "European stocks open mixed as French crisis weighs on sentiment",
+      "link": "https://www.cnbc.com/2025/10/07/european-markets-on-octpoint8-stoxx-600-ftse-dax-cac-france.html",
+      "summary": "European stocks were mixed on Tuesday with all eyes on France after the resignation of Prime Minister Sebastien Lecornu.",
+      "published": "Tue, 07 Oct 2025 07:10:25 GMT",
+      "content": "European stocks were mixed on Tuesday with all eyes on France after the resignation of Prime Minister Sebastien Lecornu.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "699e1c121744e5ec6391b53912166144",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: EUROPEAN STOCKS MIXED AS FRENCH CRISIS HITS SENTIMENT 📉\n\n- European stocks show mixed performance on Tuesday 📊\n- Focus on France post Prime Minister Lecornu's resignation 🇫🇷\n- Sentiment impacted, uncertainty prevails ⚠️\n- Markets closely monitoring developments in France 🇪🇺\n- Volatility expected amid ongoing crisis 🌪️\n\nTAKEAWAY: European stock markets experience mixed performance as the French political crisis impacts sentiment, leading to uncertainty and volatility.",
+      "exported_at": "2025-10-07T03:13:28.403384",
       "continuous_session": true
     }
   ]
