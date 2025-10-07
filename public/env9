@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T18:53:54.634197",
-    "total_articles": 2369,
-    "new_articles_in_last_fetch": 2369,
+    "created_at": "2025-10-07T19:39:38.302188",
+    "total_articles": 2371,
+    "new_articles_in_last_fetch": 2371,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -30761,6 +30761,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: U.S. AIR TRAFFIC CONTROL STAFFING CRISIS CONTINUES 🚨\n\n- Staffing problems persist, causing flight delays ✈️\n- Multiple U.S. airports affected for 2nd consecutive day 🛫\n- FAA confirms delays due to government shutdown impact 📉\n\nTAKEAWAY: Air traffic control staffing issues persist, causing flight delays for a second day amid the ongoing government shutdown.",
       "exported_at": "2025-10-07T18:53:54.476657",
+      "continuous_session": true
+    },
+    {
+      "title": "Jensen Huang explains why Nvidia&apos;s latest partnership with OpenAI is different",
+      "link": "https://www.cnbc.com/2025/10/07/jensen-huang-nvidia-openai-different.html",
+      "summary": "In a interview with CNBC's Jim Cramer on Tuesday, Nvidia CEO Jensen Huang discussed his company's new deal with ChatGPT maker OpenAI.",
+      "published": "Tue, 07 Oct 2025 22:53:21 GMT",
+      "content": "In a interview with CNBC's Jim Cramer on Tuesday, Nvidia CEO Jensen Huang discussed his company's new deal with ChatGPT maker OpenAI.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6bd5858525569ec450cdaf134a07c98b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JENSEN HUANG ON NVIDIA'S GAME-CHANGING OPENAI PARTNERSHIP 🚀\n\n- Nvidia CEO reveals details on partnership with OpenAI 💡\n- Jensen Huang discusses unique aspects of the collaboration 🌟\n- New deal with ChatGPT maker OpenAI sparks excitement 🔥\n- Partnership expected to revolutionize AI capabilities 🤖\n- Nvidia positioned for significant growth in AI sector 📈\n- Collaboration with OpenAI sets Nvidia apart in tech industry 🚀\n\nTAKEAWAY: Nvidia's partnership with OpenAI, as explained by Jensen Huang, signifies a groundbreaking move that is set to reshape the AI landscape and propel Nvidia to new heights in the tech sector.",
+      "exported_at": "2025-10-07T19:39:38.275054",
+      "continuous_session": true
+    },
+    {
+      "title": "&apos;We&apos;re lovers, not fighters&apos; — Nvidia CEO Jensen Huang dishes on 4 key partners",
+      "link": "https://www.cnbc.com/2025/10/07/were-lovers-not-fighters-nvidia-ceo-huang-dishes-on-4-key-partners.html",
+      "summary": "With dozens of Club members in attendance, Jensen answered questions about Nvidia's most important partnerships.",
+      "published": "Tue, 07 Oct 2025 20:28:02 GMT",
+      "content": "With dozens of Club members in attendance, Jensen answered questions about Nvidia's most important partnerships.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9bc2e787fd5ea090cca97eb470040476",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 'WE'RE LOVERS, NOT FIGHTERS' — NVIDIA CEO ON 4 KEY PARTNERS 💑\n\n- Jensen Huang discusses Nvidia's crucial partnerships 🤝\n- Club members get insights on key collaborations 💬\n- Focus on fostering relationships, not competition 🌟\n- Nvidia CEO highlights importance of strategic partnerships 💼\n\nTAKEAWAY: Nvidia's CEO emphasizes the significance of strategic partnerships in driving success and innovation.",
+      "exported_at": "2025-10-07T19:39:38.275064",
       "continuous_session": true
     }
   ]
