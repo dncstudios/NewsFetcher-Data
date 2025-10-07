@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T16:15:53.676610",
-    "total_articles": 2359,
-    "new_articles_in_last_fetch": 2359,
+    "created_at": "2025-10-07T16:26:04.999004",
+    "total_articles": 2360,
+    "new_articles_in_last_fetch": 2360,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -30631,6 +30631,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BILLIONAIRE ORLANDO BRAVO WARNS OF AI VALUATION BUBBLE 🚨\n\n- Bravo cautions about AI valuations being in a bubble 💥\n- Contrasts today with dot-com bubble: big firms backing startups 🌟\n- Emphasizes the importance of healthy balance sheets 💰\n\nTAKEAWAY: Orlando Bravo's warning highlights concerns about AI valuation bubbles, drawing distinctions from past tech bubbles and stressing the role of financially stable companies in tech startup financing.",
       "exported_at": "2025-10-07T16:15:53.511097",
+      "continuous_session": true
+    },
+    {
+      "title": "S&amp;P 500 snaps 7-day winning streak as Oracle slides, shutdown angst grows",
+      "link": "https://www.cnbc.com/2025/10/06/stock-market-today-live-updates.html",
+      "summary": "Investors await more developments on the current U.S. government shutdown that is now on its second week.",
+      "published": "Tue, 07 Oct 2025 20:22:00 GMT",
+      "content": "Investors await more developments on the current U.S. government shutdown that is now on its second week.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "771fd2f7386035185df9129931243496",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: S&P 500 FACES FIRST DECLINE IN 8 DAYS ON ORACLE SLIDE, SHUTDOWN ANGST 🚨\n\n- S&P 500 set for its initial drop in 8 days 📉\n- Oracle's slide contributes to market downturn 📉\n- Investors anxious amid ongoing U.S. govt shutdown 🏛️\n- Shutdown enters second week, causing uncertainty 🤔\n\nTAKEAWAY: S&P 500 experiences its first decline in over a week due to Oracle's slide and investor concerns over the prolonged U.S. government shutdown entering its second week.",
+      "exported_at": "2025-10-07T16:26:04.849212",
       "continuous_session": true
     }
   ]
