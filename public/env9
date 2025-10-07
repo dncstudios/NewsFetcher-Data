@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T08:30:13.165625",
-    "total_articles": 2299,
-    "new_articles_in_last_fetch": 2299,
+    "created_at": "2025-10-07T08:35:21.970987",
+    "total_articles": 2300,
+    "new_articles_in_last_fetch": 2300,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -29851,6 +29851,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: LAURA MODI BREAKS INFANT FORMULA DUOPOLY 🚀\n\n- Bobbie challenges big companies in infant formula market 🍼\n- Laura Modi disrupts industry status quo 💥\n- Balancing growth and motherhood, she pushes for change 🌟\n- Bobbie aims to revolutionize the market dominated by two giants 🌪️\n\nTAKEAWAY: Laura Modi's Bobbie is shaking up the infant formula industry, challenging major players and striving for change while managing the demands of motherhood.",
       "exported_at": "2025-10-07T08:30:13.015017",
+      "continuous_session": true
+    },
+    {
+      "title": "Shares of Chili&apos;s owner Brinker are rising on a JPMorgan upgrade. Here&apos;s why the bank thinks the stock is cheap",
+      "link": "https://www.cnbc.com/2025/10/07/jpmorgan-upgrades-chilis-parent-brinker-international.html",
+      "summary": "The bank upgraded the stock to overweight from neutral.",
+      "published": "Tue, 07 Oct 2025 12:24:36 GMT",
+      "content": "The bank upgraded the stock to overweight from neutral.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a88664db962b665084959645b12d819b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BRINKER STOCK SOARS ON JPMORGAN UPGRADE 🚀\n\n- JPMorgan upgrades Brinker stock to overweight 📈\n- Previous rating: neutral 🔄\n- Bank believes stock is undervalued 💰\n\nTAKEAWAY: Brinker's stock surges as JPMorgan upgrades it to overweight, citing the undervalued potential. 📈✨",
+      "exported_at": "2025-10-07T08:35:21.944372",
       "continuous_session": true
     }
   ]
