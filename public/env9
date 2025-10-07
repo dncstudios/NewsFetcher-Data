@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T15:04:24.120516",
-    "total_articles": 2350,
-    "new_articles_in_last_fetch": 2350,
+    "created_at": "2025-10-07T15:24:43.888744",
+    "total_articles": 2351,
+    "new_articles_in_last_fetch": 2351,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -30514,6 +30514,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BITCOIN DIPS FROM ALL-TIME HIGH AS CRYPTO RALLY COOLS 📉\n\n- Bitcoin drops from record peak of over $126,000 💰\n- John Haar, Swan Bitcoin MD, analyzes market retreat 📉\n- Haar predicts macroeconomics to influence Q4 bitcoin prices 📈\n\nTAKEAWAY: Bitcoin's retreat from its peak signals a cooling crypto rally, with experts like John Haar forecasting macroeconomic factors to steer bitcoin prices in the upcoming quarter.",
       "exported_at": "2025-10-07T15:04:23.960357",
+      "continuous_session": true
+    },
+    {
+      "title": "Republicans face pressure to consider Democrats&apos; health-care demands as shutdown drags on",
+      "link": "https://www.cnbc.com/2025/10/07/republicans-democrats-health-care-demands-shutdown-.html",
+      "summary": "Democrats have refused to vote for any funding legislation unless it includes an extension of Obamacare subsidies, which are due to expire before January.",
+      "published": "Tue, 07 Oct 2025 19:20:55 GMT",
+      "content": "Democrats have refused to vote for any funding legislation unless it includes an extension of Obamacare subsidies, which are due to expire before January.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "60ba1165ec4d50766cc09049f6818258",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: REPUBLICANS UNDER PRESSURE TO ADDRESS DEMOCRATS' HEALTHCARE DEMANDS ⚠️\n\n- Dems demand Obamacare subsidy extension in funding bill 🏥\n- Shutdown continues as both parties stand firm 🛑\n- Pressure mounts on Republicans to negotiate with Dems 💪\n\nTAKEAWAY: With Democrats insisting on Obamacare subsidy extension in funding legislation, Republicans face increasing pressure to consider their healthcare demands as the shutdown persists.",
+      "exported_at": "2025-10-07T15:24:43.733844",
       "continuous_session": true
     }
   ]
