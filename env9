@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T07:54:11.067702",
-    "total_articles": 2292,
-    "new_articles_in_last_fetch": 2292,
+    "created_at": "2025-10-07T08:04:29.975527",
+    "total_articles": 2295,
+    "new_articles_in_last_fetch": 2295,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -29760,6 +29760,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BEER STOCK SOARS AFTER EARNINGS BEAT 🚀\n\n- Company's stock surges post earnings beat 📈\n- Share prices remain undervalued 📉\n- Traders closely monitor upcoming session 🔍\n\nTAKEAWAY: Despite the stock's rally following an earnings beat, shares are perceived to be undervalued, keeping traders attentive to the upcoming session.",
       "exported_at": "2025-10-07T07:54:10.916386",
+      "continuous_session": true
+    },
+    {
+      "title": "The shutdown meant no jobs report. Carlyle&apos;s analysis shows it would have been pretty bad",
+      "link": "https://www.cnbc.com/2025/10/07/the-shutdown-meant-no-jobs-report-carlyles-analysis-shows-it-would-have-been-pretty-bad.html",
+      "summary": "The firm said its proprietary data showed job growth of just 17,000 from the month, which would be even less than the 22,000 gain in August.",
+      "published": "Tue, 07 Oct 2025 11:59:52 GMT",
+      "content": "The firm said its proprietary data showed job growth of just 17,000 from the month, which would be even less than the 22,000 gain in August.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4f5fcefd0c4ec10ef8c0688083971959",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CARLYLE'S ANALYSIS REVEALS BLEAK JOB GROWTH OUTLOOK 📉\n\n- Proprietary data indicates only 17,000 job growth in recent months\n- Forecasted gain lower than the 22,000 increase in August\n- Shutdown prevented release of official jobs report 🚫\n\nTAKEAWAY: Carlyle's analysis paints a grim picture of job growth, with only 17,000 new jobs expected, lower than August's increase, as shutdown halts official report.",
+      "exported_at": "2025-10-07T08:04:29.805124",
+      "continuous_session": true
+    },
+    {
+      "title": "Dollar Tree gets a downgrade from Jefferies as discount retailer struggles versus competitors",
+      "link": "https://www.cnbc.com/2025/10/07/dollar-tree-gets-a-downgrade-from-jefferies-as-discount-retailer-struggles-versus-competitors.html",
+      "summary": "Jefferies thinks it's time to leave Dollar Tree behind.",
+      "published": "Tue, 07 Oct 2025 11:56:15 GMT",
+      "content": "Jefferies thinks it's time to leave Dollar Tree behind.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4f95dec00427600db15878f9d3278a49",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DOLLAR TREE DOWNGRADED BY JEFFERIES AS COMPETITION INTENSIFIES ⚠️\n\n- Jefferies advises leaving Dollar Tree due to competitive challenges\n- Dollar Tree faces struggles amidst fierce competition 🛒\n- Downgrade reflects tough market conditions 📉\n\nTAKEAWAY: Jefferies downgrades Dollar Tree as it faces intense competition, signaling challenging times ahead for the discount retailer.",
+      "exported_at": "2025-10-07T08:04:29.805182",
+      "continuous_session": true
+    },
+    {
+      "title": "Inside Rivian&apos;s design factory and the story behind those distinct headlights",
+      "link": "https://www.cnbc.com/2025/10/07/rivian-factory-ev-electric-truck-suv-headlights.html",
+      "summary": "CNBC goes inside Rivian’s design lab in Irvine, California, where Chief Design Officer Jeff Hammoud shares how it created its adventure-driven EV lineup.",
+      "published": "Tue, 07 Oct 2025 12:00:01 GMT",
+      "content": "CNBC goes inside Rivian’s design lab in Irvine, California, where Chief Design Officer Jeff Hammoud shares how it created its adventure-driven EV lineup.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "945b74487a5ef214911eee1f214a5ab7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: RIVIAN'S DESIGN LAB REVEALED: CREATING ADVENTURE-DRIVEN EVs 🚀\n\n- Rivian's design lab in Irvine, California showcased by Chief Design Officer\n- Insights on the process behind Rivian's distinctive headlights\n- Jeff Hammoud shares the story of crafting Rivian's EV lineup\n- Adventure-driven ethos reflected in Rivian's innovative designs\n- California lab serves as the creative hub for Rivian's unique style\n- CNBC provides an exclusive look into Rivian's design factory\n\nTAKEAWAY: Rivian's design lab unveils the creative process behind their adventure-driven EV lineup, showcasing innovation and distinctive style.",
+      "exported_at": "2025-10-07T08:04:29.805195",
       "continuous_session": true
     }
   ]
