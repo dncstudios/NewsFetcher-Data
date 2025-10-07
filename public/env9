@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T05:00:18.316725",
-    "total_articles": 2270,
-    "new_articles_in_last_fetch": 2270,
+    "created_at": "2025-10-07T05:20:41.888156",
+    "total_articles": 2271,
+    "new_articles_in_last_fetch": 2271,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -29474,6 +29474,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRILOGY METALS SHARES SURGE 200% AFTER U.S. STAKE 🚀\n\n- Trilogy Metals stock spikes 183% in premarket trading 📈\n- U.S. investment boosts confidence in minerals explorer 🇺🇸\n- Market reacts positively to U.S. stake acquisition ⚡️\n\nTAKEAWAY: Trilogy Metals experiences a remarkable 200% surge in premarket trading following the U.S. investment, signaling increased investor confidence in the minerals explorer.",
       "exported_at": "2025-10-07T05:00:18.156899",
+      "continuous_session": true
+    },
+    {
+      "title": "OpenAI DevDay: Jony Ive says pace of change in AI is &apos;extraordinary&apos;",
+      "link": "https://www.cnbc.com/2025/10/06/open-ai-devday-live-updates-altman-jony-ive.html",
+      "summary": "Fresh off an AI chip deal with AMD, OpenAI makes its case to developers about the latest in research, product and engineering.",
+      "published": "Tue, 07 Oct 2025 09:18:41 GMT",
+      "content": "Fresh off an AI chip deal with AMD, OpenAI makes its case to developers about the latest in research, product and engineering.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5d1679c3574c3fed84bf7ba531d018bf",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: OPENAI DEV DAY HIGHLIGHTS: ALTMA'S KEYNOTE AND JONY IVE'S INSIGHTS 🚀\n\n- OpenAI seals AI chip deal with AMD 💻\n- Altman presents latest research and products to developers 🌟\n- Jony Ive shares insights at flagship event 🧠\n- Focus on cutting-edge engineering showcased 🔬\n- Event highlights advancements in AI technology 📈\n\nTAKEAWAY: OpenAI leverages AMD deal and flagship event to showcase cutting-edge AI research, products, and engineering to developers, with insights from Jony Ive.",
+      "exported_at": "2025-10-07T05:20:41.719368",
       "continuous_session": true
     }
   ]
