@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T10:02:33.206401",
-    "total_articles": 2315,
-    "new_articles_in_last_fetch": 2315,
+    "created_at": "2025-10-07T10:07:43.046813",
+    "total_articles": 2317,
+    "new_articles_in_last_fetch": 2317,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -30059,6 +30059,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TESLA TEASES NEW TECH UPDATE AHEAD OF MAJOR UNVEILING 🚀\n\n- Tesla hints at driver assist tech update release 🚗\n- Speculation rises on lower-cost model or next-gen Roadster 🤯\n- Anticipation builds for the upcoming major reveal 🌟\n\nTAKEAWAY: Tesla's latest driver assist tech update hints at an exciting major unveiling, sparking speculation and anticipation among enthusiasts.",
       "exported_at": "2025-10-07T10:02:33.179611",
+      "continuous_session": true
+    },
+    {
+      "title": "The shutdown meant no jobs report. Carlyle&apos;s analysis shows it would have been pretty bad",
+      "link": "https://www.cnbc.com/2025/10/07/the-shutdown-meant-no-jobs-report-carlyles-analysis-shows-it-would-have-been-pretty-bad.html",
+      "summary": "The firm said its proprietary data showed job growth of just 17,000 for the month, which would be even less than the 22,000 gain in August.",
+      "published": "Tue, 07 Oct 2025 14:06:28 GMT",
+      "content": "The firm said its proprietary data showed job growth of just 17,000 for the month, which would be even less than the 22,000 gain in August.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3387d551d6b4e2ba64222723426fee4e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CARLYLE'S INSIGHT: JOB GROWTH WOULD HAVE BEEN BLEAK 🚨\n\n- Carlyle's data predicts a meager 17,000 job growth for the month\n- Forecast is lower than the 22,000 gain in August\n- Shutdown prevented the release of the official jobs report\n\nTAKEAWAY: Carlyle's analysis paints a grim picture of job growth, indicating a potential slowdown in the economy.",
+      "exported_at": "2025-10-07T10:07:42.880479",
+      "continuous_session": true
+    },
+    {
+      "title": "Trilogy Metals shares soar over 200% after U.S. takes stake in minerals explorer",
+      "link": "https://www.cnbc.com/2025/10/07/trilogy-metals-shares-surge-after-us-takes-stake-in-minerals-firm.html",
+      "summary": "The stock was seen trading up 248% in premarket deals at 1:09 p.m. London time (8:09 a.m. ET).",
+      "published": "Tue, 07 Oct 2025 14:06:56 GMT",
+      "content": "The stock was seen trading up 248% in premarket deals at 1:09 p.m. London time (8:09 a.m. ET).",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "dbf4fdfdcc2f8bf770e605b50a704b36",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRILOGY METALS SHARES SURGE 250% AFTER U.S. INVESTMENT 🚀\n\n- Trilogy Metals stock skyrockets 248% in premarket trading 📈\n- U.S. takes stake in minerals explorer, boosting investor confidence ✅\n- Market reacts positively to the news 🎉\n- Pre-market surge reflects strong interest and potential growth 🌟\n\nTAKEAWAY: Trilogy Metals experiences a monumental 250% surge in premarket trading as the U.S. investment fuels investor optimism and market excitement.",
+      "exported_at": "2025-10-07T10:07:42.880531",
       "continuous_session": true
     }
   ]
