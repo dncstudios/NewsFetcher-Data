@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T05:20:41.888156",
-    "total_articles": 2271,
-    "new_articles_in_last_fetch": 2271,
+    "created_at": "2025-10-07T05:30:56.798839",
+    "total_articles": 2272,
+    "new_articles_in_last_fetch": 2272,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -29487,6 +29487,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: OPENAI DEV DAY HIGHLIGHTS: ALTMA'S KEYNOTE AND JONY IVE'S INSIGHTS 🚀\n\n- OpenAI seals AI chip deal with AMD 💻\n- Altman presents latest research and products to developers 🌟\n- Jony Ive shares insights at flagship event 🧠\n- Focus on cutting-edge engineering showcased 🔬\n- Event highlights advancements in AI technology 📈\n\nTAKEAWAY: OpenAI leverages AMD deal and flagship event to showcase cutting-edge AI research, products, and engineering to developers, with insights from Jony Ive.",
       "exported_at": "2025-10-07T05:20:41.719368",
+      "continuous_session": true
+    },
+    {
+      "title": "Musk names ex-Morgan Stanley banker Anthony Armstrong as new xAI finance chief, FT says",
+      "link": "https://www.cnbc.com/2025/10/07/musk-ex-morgan-stanley-banker-anthony-armstrong-new-xai-finance-chief-ft-cfo.html",
+      "summary": "Elon Musk has appointed former Morgan Stanley banker as the new chief financial officer of his AI group xAI, the Financial Times reported on Monday.",
+      "published": "Tue, 07 Oct 2025 04:41:06 GMT",
+      "content": "Elon Musk has appointed former Morgan Stanley banker as the new chief financial officer of his AI group xAI, the Financial Times reported on Monday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3cda6a110e702e9bccad17658bd43d36",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MUSK APPOINTS EX-MORGAN STANLEY BANKER AS xAI FINANCE CHIEF 🚀\n\n- Elon Musk names ex-Morgan Stanley banker as xAI CFO 💼\n- New CFO to lead financial operations of Musk's AI group 🤖\n- Appointment reported by Financial Times 🔍\n- Strategic move to strengthen xAI's financial leadership 🌟\n- Ex-banker brings expertise from Morgan Stanley 📈\n- xAI expected to benefit from new financial chief's experience 💰\n\nTAKEAWAY: Elon Musk's appointment of a former Morgan Stanley banker as the new CFO for xAI signals a strategic move to enhance the financial leadership of his AI group.",
+      "exported_at": "2025-10-07T05:30:56.636160",
       "continuous_session": true
     }
   ]
