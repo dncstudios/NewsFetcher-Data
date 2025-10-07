@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T06:32:26.990192",
-    "total_articles": 2282,
-    "new_articles_in_last_fetch": 2282,
+    "created_at": "2025-10-07T06:57:54.363353",
+    "total_articles": 2284,
+    "new_articles_in_last_fetch": 2284,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -29630,6 +29630,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: INTERCONTINENTAL EXCHANGE SURGES ON $2B POLYMARKET STAKE REPORT 🚀\n\n- Intercontinental Exchange stock jumps on potential $2 billion Polymarket deal 💰\n- The Wall Street Journal hints at ICE's stake acquisition 🔍\n- Market reacts positively to news of the major investment 💥\n\nTAKEAWAY: Intercontinental Exchange's stock skyrockets following reports of a lucrative $2 billion stake in Polymarket, signaling investor confidence and market optimism.",
       "exported_at": "2025-10-07T06:32:26.823637",
+      "continuous_session": true
+    },
+    {
+      "title": "Trilogy Metals shares soar nearly 200% in premarket after U.S. takes stake in minerals explorer",
+      "link": "https://www.cnbc.com/2025/10/07/trilogy-metals-shares-surge-after-us-takes-stake-in-minerals-firm.html",
+      "summary": "The stock was seen trading 188% higher in premarket deals at 11:54 a.m. London time (6:54 a.m. ET).",
+      "published": "Tue, 07 Oct 2025 10:54:50 GMT",
+      "content": "The stock was seen trading 188% higher in premarket deals at 11:54 a.m. London time (6:54 a.m. ET).",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "cbedc8b2e8655c0082483091d4d65fa2",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRILOGY METALS SHARES SURGE 200% IN PREMARKET 🚀\n\n- Trilogy Metals stock jumps 188% in premarket trading 📈\n- U.S. acquires stake in minerals explorer 🇺🇸\n- Pre-market trading sees significant increase in share value 💰\n- Positive market response to U.S. investment in Trilogy Metals 📈\n- Stock trading higher than previous closing value 🔝\n\nTAKEAWAY: Trilogy Metals experiences a remarkable 200% surge in premarket trading following the U.S. investment, reflecting strong market optimism and confidence.",
+      "exported_at": "2025-10-07T06:57:54.335868",
+      "continuous_session": true
+    },
+    {
+      "title": "Evercore ISI says buy the dip on Winklevoss twins&apos; Gemini Space Station",
+      "link": "https://www.cnbc.com/2025/10/07/evercore-isi-says-buy-the-dip-on-winklevoss-twins-gemini-space-station.html",
+      "summary": "Gemini Space Station is a strong play for exposure to the digital asset ecosystem at the start of its new recovery cycle, according to Evercore ISI.",
+      "published": "Tue, 07 Oct 2025 10:52:18 GMT",
+      "content": "Gemini Space Station is a strong play for exposure to the digital asset ecosystem at the start of its new recovery cycle, according to Evercore ISI.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4c5fb99b7c5615f224f8bcd72f57c1d7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: EVERCORE ISI: BUY THE DIP ON GEMINI SPACE STATION 🚀\n\n- Evercore ISI recommends investing in Gemini Space Station\n- Strong opportunity for exposure to the digital asset ecosystem\n- Positioned at the beginning of a new recovery cycle\n\nTAKEAWAY: Evercore ISI advises seizing the opportunity to invest in Gemini Space Station for exposure to the digital asset ecosystem at the start of a new recovery cycle.",
+      "exported_at": "2025-10-07T06:57:54.335881",
       "continuous_session": true
     }
   ]
