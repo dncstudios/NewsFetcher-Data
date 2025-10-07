@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-06T21:08:01.817955",
-    "total_articles": 2260,
-    "new_articles_in_last_fetch": 2260,
+    "created_at": "2025-10-07T01:11:19.954027",
+    "total_articles": 2261,
+    "new_articles_in_last_fetch": 2261,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -29344,6 +29344,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STAFFING ISSUES CAUSE DELAYS AT U.S. AIRPORTS DURING SHUTDOWN ⚠️\n\n- 13,000 air traffic controllers, 50,000 TSA officers work during shutdown\n- Staffing shortage leads to delays in airport operations ✈️\n- Travelers face disruptions due to ongoing shutdown 🧳\n- Airports struggle to maintain normal operations 🚧\n- Increased pressure on existing staff impacts efficiency 📉\n- Shutdown's impact felt across U.S. air travel industry 🇺🇸\n\nTAKEAWAY: Staffing shortages at U.S. airports during the shutdown are causing delays and disruptions for travelers, highlighting the critical need for resolution.",
       "exported_at": "2025-10-06T21:08:01.651434",
+      "continuous_session": true
+    },
+    {
+      "title": "France is plunged further into political crisis. Here’s what could happen next",
+      "link": "https://www.cnbc.com/2025/10/07/what-happens-next-in-france-after-lecornus-resignation.html",
+      "summary": "Macron now has to choose a new PM, opt for new parliamentary elections or resign.",
+      "published": "Tue, 07 Oct 2025 05:07:13 GMT",
+      "content": "Macron now has to choose a new PM, opt for new parliamentary elections or resign.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "786c38ab847e09df7d71d25f21f1be86",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FRANCE IN POLITICAL CRISIS: WHAT'S NEXT? 🚨\n\n- Macron faces decision: appoint new PM, call elections, or step down\n- Country awaits Macron's next move for stability 🇫🇷\n- Uncertainty looms over France's political future\n\nTAKEAWAY: France's political crisis deepens as Macron weighs options of new PM, elections, or resignation, leaving the country in suspense.",
+      "exported_at": "2025-10-07T01:11:19.818615",
       "continuous_session": true
     }
   ]
