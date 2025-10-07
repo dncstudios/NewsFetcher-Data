@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T05:51:30.658564",
-    "total_articles": 2277,
-    "new_articles_in_last_fetch": 2277,
+    "created_at": "2025-10-07T06:01:47.287485",
+    "total_articles": 2279,
+    "new_articles_in_last_fetch": 2279,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -29565,6 +29565,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BLACKROCK'S RICK RIEDER ON INCOME OPPORTUNITIES 🚀\n\n- Rieder sees income opportunities maturing but still available 📈\n- Getting attractive income is more challenging now 💰\n- Opportunities exist for those ready to put in the effort 💪\n\nTAKEAWAY: BlackRock's Rick Rieder acknowledges income opportunities are maturing, yet believes in continued possibilities for diligent investors.",
       "exported_at": "2025-10-07T05:51:30.632302",
+      "continuous_session": true
+    },
+    {
+      "title": "Staffing issues cause delays at U.S. airports as shutdown persists",
+      "link": "https://www.cnbc.com/2025/10/07/staffing-issues-cause-delays-at-us-airports-as-shutdown-persists.html",
+      "summary": "Transportation Secretary Sean Duffy said that at times, air traffic staffing has been cut by 50% in some areas since the shutdown started last week.",
+      "published": "Tue, 07 Oct 2025 09:57:17 GMT",
+      "content": "Transportation Secretary Sean Duffy said that at times, air traffic staffing has been cut by 50% in some areas since the shutdown started last week.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "aa4ee989d4a4b0da167f666cde91e16d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STAFFING CRISIS GRIPS U.S. AIRPORTS DURING SHUTDOWN ⚠️\n\n- Air traffic staffing slashed up to 50% in some U.S. areas ✂️\n- Delays haunt U.S. airports due to ongoing shutdown ✈️\n- Transportation Secretary Sean Duffy highlights critical staffing issues 🚨\n\nTAKEAWAY: U.S. airports face significant delays as air traffic staffing is slashed by up to 50% in some areas, intensifying the impact of the ongoing shutdown.",
+      "exported_at": "2025-10-07T06:01:47.129060",
+      "continuous_session": true
+    },
+    {
+      "title": "Israeli forces shell Gaza on war anniversary, Hamas and Israel discuss Trump plan",
+      "link": "https://www.cnbc.com/2025/10/07/israeli-forces-shell-gaza-on-war-anniversary-hamas-and-israel-discuss-trump-plan-.html",
+      "summary": "Israeli tanks, boats and jets pounded parts of Gaza on Tuesday, giving Palestinians no respite on the anniversary of the Hamas attack.",
+      "published": "Tue, 07 Oct 2025 09:52:50 GMT",
+      "content": "Israeli tanks, boats and jets pounded parts of Gaza on Tuesday, giving Palestinians no respite on the anniversary of the Hamas attack.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "90e5ee24586333346fd2e6ce3cfd8611",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ISRAELI FORCES SHELL GAZA ON WAR ANNIVERSARY 🚨\n\n- Israeli tanks, boats, jets strike Gaza on Hamas attack anniversary\n- Palestinians face relentless bombardment with no respite\n- Ongoing violence intensifies tensions in the region 🌍\n- Hamas and Israel discuss Trump's peace plan amidst conflict\n- Uncertainty looms over the outcome of the discussions\n- Rising concerns over escalation and potential impacts on civilians\n\nTAKEAWAY: Israeli forces' relentless shelling on Gaza's war anniversary heightens tensions, while discussions on Trump's peace plan with Hamas add uncertainty to the volatile situation.",
+      "exported_at": "2025-10-07T06:01:47.129156",
       "continuous_session": true
     }
   ]
