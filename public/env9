@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-06T19:56:26.354579",
-    "total_articles": 2256,
-    "new_articles_in_last_fetch": 2256,
+    "created_at": "2025-10-06T20:06:40.135722",
+    "total_articles": 2258,
+    "new_articles_in_last_fetch": 2258,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -29292,6 +29292,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ASIA-PACIFIC MARKETS EYE MIXED OPEN AFTER WALL STREET GAINS 🚀\n\n- AMD shares surge by nearly 24% on OpenAI deal 💥\n- OpenAI potentially acquiring 10% stake in chipmaker 📈\n- Wall Street's positive momentum likely to influence Asia-Pacific markets 📈\n\nTAKEAWAY: AMD's impressive 24% surge due to the OpenAI deal is expected to have a mixed impact on Asia-Pacific markets, following Wall Street's positive trend.",
       "exported_at": "2025-10-06T19:56:26.199032",
+      "continuous_session": true
+    },
+    {
+      "title": "Stock futures are slightly lower after S&amp;P 500, Nasdaq log new highs: Live updates",
+      "link": "https://www.cnbc.com/2025/10/06/stock-market-today-live-updates.html",
+      "summary": "The record-breaking market comes as investors appear to brush off concerns tied to the current U.S. government shutdown that is now on its second week.",
+      "published": "Tue, 07 Oct 2025 00:01:38 GMT",
+      "content": "The record-breaking market comes as investors appear to brush off concerns tied to the current U.S. government shutdown that is now on its second week.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "20448a39c738a069c530958d7153dfe6",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK FUTURES STABLE DESPITE RECORD HIGHS FOR S&P 500, NASDAQ 📈\n\n- S&P 500, Nasdaq hit new highs despite U.S. gov shutdown 🚀\n- Investors unfazed by concerns, market remains strong 💪\n- Stock futures show stability amidst record-breaking market 📊\n\nTAKEAWAY: Despite the U.S. government shutdown, stock futures remain stable as S&P 500 and Nasdaq reach new highs, showcasing investor confidence and market strength.",
+      "exported_at": "2025-10-06T20:06:39.978562",
+      "continuous_session": true
+    },
+    {
+      "title": "&apos;Outside of AI, I&apos;m not really excited about anything,&apos; Wells Fargo Chief Equity Strategist Ohsung Kwon says",
+      "link": "https://www.cnbc.com/2025/10/06/artificial-intelligence-is-exciting-play-into-earnings-wells-fargo.html",
+      "summary": "Wells Fargo Securities Ohsung Kwon explains why he doesn't expect AI stocks are in a bubble.",
+      "published": "Mon, 06 Oct 2025 23:51:39 GMT",
+      "content": "Wells Fargo Securities Ohsung Kwon explains why he doesn't expect AI stocks are in a bubble.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ce9dfa6c12bb25eeb0ce60a66536ea7a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WELLS FARGO CHIEF EQUITY STRATEGIST ON AI STOCKS 💡\n\n- Ohsung Kwon not enthusiastic about non-AI investments\n- Believes AI stocks are not in a bubble 📉\n- Kwon shares insights on AI stock expectations 📈\n\nTAKEAWAY: Wells Fargo's Ohsung Kwon expresses lack of excitement for non-AI investments, emphasizing confidence in AI stocks and dismissing bubble concerns.",
+      "exported_at": "2025-10-06T20:06:39.978618",
       "continuous_session": true
     }
   ]
