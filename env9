@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T12:36:20.611147",
-    "total_articles": 2338,
-    "new_articles_in_last_fetch": 2338,
+    "created_at": "2025-10-07T12:41:37.763138",
+    "total_articles": 2340,
+    "new_articles_in_last_fetch": 2340,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -30358,6 +30358,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCKS MAKING BIG MOVES MIDDAY: ORACLE, FIGMA, TRILOGY METALS 🚀\n\n- Oracle, Figma, Trilogy Metals, Ford among top movers 📈\n- Stocks experiencing significant midday trading activity 💰\n- Market sees notable fluctuations in various sectors 🔥\n- Investors closely monitoring the dynamic stock movements 🧐\n\nTAKEAWAY: Oracle, Figma, Trilogy Metals, and Ford are captivating investor interest with their substantial midday stock movements across diverse sectors.",
       "exported_at": "2025-10-07T12:36:20.442141",
+      "continuous_session": true
+    },
+    {
+      "title": "Republicans face pressure to consider Democrats&apos; health care demands as shutdown drags on",
+      "link": "https://www.cnbc.com/2025/10/07/republicans-democrats-health-care-demands-shutdown-.html",
+      "summary": "Democrats have refused to vote for any funding legislation unless it includes an extension of Obamacare subsidies, which are due to expire before January.",
+      "published": "Tue, 07 Oct 2025 16:38:39 GMT",
+      "content": "Democrats have refused to vote for any funding legislation unless it includes an extension of Obamacare subsidies, which are due to expire before January.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "52c16e001b2bdf018d1945ee910ac953",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: REPUBLICANS UNDER PRESSURE TO ADDRESS DEMOCRATS' HEALTHCARE DEMANDS ⚠️\n\n- Dems demand Obamacare subsidy extension in funding bill 🏥\n- Shutdown continues as both parties stand firm 🛑\n- Pressure mounts on Republicans to negotiate with Dems 💪\n\nTAKEAWAY: With Democrats insisting on Obamacare subsidy extension in funding legislation, Republicans face increasing pressure to consider their healthcare demands as the shutdown persists.",
+      "exported_at": "2025-10-07T12:41:37.577868",
+      "continuous_session": true
+    },
+    {
+      "title": "Billionaire tech investor Orlando Bravo says &apos;valuations in AI are at a bubble&apos;",
+      "link": "https://www.cnbc.com/2025/10/07/tech-vc-orlando-bravo-ai-bubble.html",
+      "summary": "One key difference between the dotcom bubble and today, Bravo said, is that big companies with healthy balance sheets are financing tech startups.",
+      "published": "Tue, 07 Oct 2025 16:40:00 GMT",
+      "content": "One key difference between the dotcom bubble and today, Bravo said, is that big companies with healthy balance sheets are financing tech startups.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "59a81620660b86da8a4bfc8847f99805",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BILLIONAIRE ORLANDO BRAVO WARNS: AI VALUATIONS IN A BUBBLE 🚨\n\n- Bravo cautions about AI valuations reaching bubble territory 📈\n- Contrasts today's tech financing with the dotcom bubble era 💰\n- Big firms back tech startups with strong balance sheets 💪\n\nTAKEAWAY: Bravo's warning about AI valuations being in a bubble draws attention to the differences in tech financing now compared to the dotcom era.",
+      "exported_at": "2025-10-07T12:41:37.577926",
       "continuous_session": true
     }
   ]
