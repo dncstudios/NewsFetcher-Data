@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T08:35:21.970987",
-    "total_articles": 2300,
-    "new_articles_in_last_fetch": 2300,
+    "created_at": "2025-10-07T08:40:30.797731",
+    "total_articles": 2301,
+    "new_articles_in_last_fetch": 2301,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -29864,6 +29864,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BRINKER STOCK SOARS ON JPMORGAN UPGRADE 🚀\n\n- JPMorgan upgrades Brinker stock to overweight 📈\n- Previous rating: neutral 🔄\n- Bank believes stock is undervalued 💰\n\nTAKEAWAY: Brinker's stock surges as JPMorgan upgrades it to overweight, citing the undervalued potential. 📈✨",
       "exported_at": "2025-10-07T08:35:21.944372",
+      "continuous_session": true
+    },
+    {
+      "title": "AMD is rallying day two after a very bullish call from Wall Street",
+      "link": "https://www.cnbc.com/2025/10/07/amd-rallying-on-jefferies-upgrade.html",
+      "summary": "Jefferies upgraded AMD to \"buy\" and sees a big rally in the shares ahead.",
+      "published": "Tue, 07 Oct 2025 12:36:44 GMT",
+      "content": "Jefferies upgraded AMD to \"buy\" and sees a big rally in the shares ahead.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "72c1bd507352b672199e3096f8cbe999",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AMD RALLIES FOR SECOND DAY AFTER BULLISH WALL STREET CALL 🚀\n\n- Jefferies upgrades AMD to \"buy\" rating 📈\n- Predicts significant rally in AMD shares ahead 📈\n- Market responds positively to Wall Street's bullish call 📊\n\nTAKEAWAY: AMD's stock continues to surge for the second day following a bullish upgrade to \"buy\" by Jefferies, indicating strong market confidence and potential growth ahead.",
+      "exported_at": "2025-10-07T08:40:30.648657",
       "continuous_session": true
     }
   ]
