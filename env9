@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T11:24:39.177953",
-    "total_articles": 2332,
-    "new_articles_in_last_fetch": 2332,
+    "created_at": "2025-10-07T11:39:56.890199",
+    "total_articles": 2333,
+    "new_articles_in_last_fetch": 2333,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -30280,6 +30280,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WE'RE BUYING MORE OF THIS STOCK Cramer's 'BEST STORY IN THIS MARKET' 🚀\n\n- Patiently waiting for shares to pull back\n- Increasing our stake in this promising stock\n\nTAKEAWAY: Strategically seizing the opportunity to invest more in a stock hailed as the best story in the market by Cramer.",
       "exported_at": "2025-10-07T11:24:39.151538",
+      "continuous_session": true
+    },
+    {
+      "title": "Johnson &amp; Johnson ordered to pay $966 million after jury finds company liable in talc cancer case",
+      "link": "https://www.cnbc.com/2025/10/07/johnson-johnson-ordered-to-pay-966-million-after-jury-finds-company-liable-in-talc-cancer-case.html",
+      "summary": "J&amp;J stopped selling talc-based baby powder in the U.S. in 2020, switching to a cornstarch product.",
+      "published": "Tue, 07 Oct 2025 15:20:06 GMT",
+      "content": "J&amp;J stopped selling talc-based baby powder in the U.S. in 2020, switching to a cornstarch product.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "248f005daaff95401eb8eaa1ef22ba6a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JOHNSON & JOHNSON ORDERED TO PAY $966M IN TALC CANCER CASE ⚠️\n\n- Jury finds J&J liable, orders $966 million payout 💰\n- J&J ceased talc baby powder sales in the U.S. in 2020 🚫\n- Company now offers cornstarch alternative product ✅\n\nTAKEAWAY: J&J faces a hefty $966 million payout after being held accountable in a talc cancer case, prompting a shift to cornstarch products post-2020.",
+      "exported_at": "2025-10-07T11:39:56.863652",
       "continuous_session": true
     }
   ]
