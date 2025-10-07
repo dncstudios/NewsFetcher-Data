@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T13:07:13.351417",
-    "total_articles": 2341,
-    "new_articles_in_last_fetch": 2341,
+    "created_at": "2025-10-07T13:22:34.342080",
+    "total_articles": 2343,
+    "new_articles_in_last_fetch": 2343,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -30397,6 +30397,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: RAY DALIO: INVESTORS SHOULD HOLD MORE GOLD LIKE THE EARLY 1970s 🚀\n\n- Dalio recommends holding more gold due to its intrinsic value 💰\n- Gold provides independence as it doesn't rely on others for payment 💪\n- Comparison drawn to the economic climate of the early 1970s 📈\n- Dalio's advice suggests a potential shift in investment strategies 🔄\n- Highlighting the importance of diversification in uncertain times 🌍\n\nTAKEAWAY: Ray Dalio's advice to increase gold holdings echoes the economic landscape of the early 1970s, emphasizing self-reliance and diversification in investment portfolios.",
       "exported_at": "2025-10-07T13:07:13.184527",
+      "continuous_session": true
+    },
+    {
+      "title": "PepsiCo shares have struggled against Coca-Cola. That may change after earnings Thursday",
+      "link": "https://www.cnbc.com/2025/10/07/pepsico-shares-have-struggled-against-coca-cola-that-may-change-after-earnings-thursday.html",
+      "summary": "Jay Woods breaks down the charts on PepsiCo into results Thursday before the bell.",
+      "published": "Tue, 07 Oct 2025 17:11:33 GMT",
+      "content": "Jay Woods breaks down the charts on PepsiCo into results Thursday before the bell.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6516f0e30cff3f3686ff368c847ae9c1",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PEPSICO READY TO OUTSHINE COCA-COLA AFTER EARNINGS 🚀\n\n- PepsiCo's shares face tough competition from Coca-Cola 🥤\n- Analyst Jay Woods analyzes PepsiCo's charts before Thursday's earnings 📊\n- Investors anticipate a potential turnaround for PepsiCo's stock 📈\n\nTAKEAWAY: PepsiCo's upcoming earnings report could be the game-changer needed to outperform Coca-Cola in the market.",
+      "exported_at": "2025-10-07T13:22:34.172772",
+      "continuous_session": true
+    },
+    {
+      "title": "OpenAI&apos;s Sora 2 must stop allowing copyright infringement, Motion Picture Association says",
+      "link": "https://www.cnbc.com/2025/10/07/openais-sora-2-must-stop-allowing-copyright-infringement-mpa-says.html",
+      "summary": "The Motion Picture Association called out OpenAI's new video generation model Sora 2 for content infringement.",
+      "published": "Tue, 07 Oct 2025 17:13:16 GMT",
+      "content": "The Motion Picture Association called out OpenAI's new video generation model Sora 2 for content infringement.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "791ebe0e1de7b00f155c298961ba1658",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: OPENAI'S SORA 2 UNDER FIRE FOR COPYRIGHT INFRINGEMENT ⚠️\n\n- Motion Picture Association accuses Sora 2 of copyright violation 🎥\n- OpenAI's video generation model Sora 2 criticized for content infringement\n- Allegations raised regarding unauthorized use of copyrighted material\n\nTAKEAWAY: OpenAI's Sora 2 faces criticism from the Motion Picture Association for alleged copyright infringement, raising concerns about content usage.",
+      "exported_at": "2025-10-07T13:22:34.172835",
       "continuous_session": true
     }
   ]
