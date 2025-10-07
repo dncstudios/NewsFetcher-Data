@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T14:59:15.211394",
-    "total_articles": 2349,
-    "new_articles_in_last_fetch": 2349,
+    "created_at": "2025-10-07T15:04:24.120516",
+    "total_articles": 2350,
+    "new_articles_in_last_fetch": 2350,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -30501,6 +30501,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CRYPTO STOCK PRIMED FOR MAJOR UPSIDE MOVE 🚀\n\n- Technical analysis by Todd Gordon predicts significant upward momentum 🔥\n- Charts indicate potential for a bullish trend in this crypto-related stock 📈\n- Market outlook points towards a positive trajectory for the stock 🌟\n\nTAKEAWAY: Expert analysis suggests that this crypto-related stock is gearing up for a substantial upward movement based on technical indicators and market trends.",
       "exported_at": "2025-10-07T14:59:15.138251",
+      "continuous_session": true
+    },
+    {
+      "title": "Bitcoin retreats from record as crypto rally cools: CNBC Crypto World",
+      "link": "https://www.cnbc.com/video/2025/10/07/bitcoin-retreats-from-record-as-crypto-rally-cools-cnbc-crypto-world.html",
+      "summary": "On today's episode of CNBC Crypto World, bitcoin pulls back from its new record above $126,000. Plus, John Haar, managing director at Swan Bitcoin, discusses the crypto market's retreat and how macroeconomic factors could drive bitcoin's price in the fourth quarter.",
+      "published": "Tue, 07 Oct 2025 19:00:18 GMT",
+      "content": "On today's episode of CNBC Crypto World, bitcoin pulls back from its new record above $126,000. Plus, John Haar, managing director at Swan Bitcoin, discusses the crypto market's retreat and how macroeconomic factors could drive bitcoin's price in the fourth quarter.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e47dcf64017693d03be24a2ac9a0f950",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BITCOIN DIPS FROM ALL-TIME HIGH AS CRYPTO RALLY COOLS 📉\n\n- Bitcoin drops from record peak of over $126,000 💰\n- John Haar, Swan Bitcoin MD, analyzes market retreat 📉\n- Haar predicts macroeconomics to influence Q4 bitcoin prices 📈\n\nTAKEAWAY: Bitcoin's retreat from its peak signals a cooling crypto rally, with experts like John Haar forecasting macroeconomic factors to steer bitcoin prices in the upcoming quarter.",
+      "exported_at": "2025-10-07T15:04:23.960357",
       "continuous_session": true
     }
   ]
