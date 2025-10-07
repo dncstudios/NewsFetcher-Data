@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T10:07:43.046813",
-    "total_articles": 2317,
-    "new_articles_in_last_fetch": 2317,
+    "created_at": "2025-10-07T10:12:55.268107",
+    "total_articles": 2321,
+    "new_articles_in_last_fetch": 2321,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -30085,6 +30085,58 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRILOGY METALS SHARES SURGE 250% AFTER U.S. INVESTMENT 🚀\n\n- Trilogy Metals stock skyrockets 248% in premarket trading 📈\n- U.S. takes stake in minerals explorer, boosting investor confidence ✅\n- Market reacts positively to the news 🎉\n- Pre-market surge reflects strong interest and potential growth 🌟\n\nTAKEAWAY: Trilogy Metals experiences a monumental 250% surge in premarket trading as the U.S. investment fuels investor optimism and market excitement.",
       "exported_at": "2025-10-07T10:07:42.880531",
+      "continuous_session": true
+    },
+    {
+      "title": "Tesla releases driver assist tech update ahead of expected major announcement",
+      "link": "https://www.cnbc.com/2025/10/07/tesla-stock-roadster-budget-model-y.html",
+      "summary": "The unveiling could be a long-awaited lower-cost model, the next-generation Roadster, or something else.",
+      "published": "Tue, 07 Oct 2025 14:07:44 GMT",
+      "content": "The unveiling could be a long-awaited lower-cost model, the next-generation Roadster, or something else.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "45f0faa7f1ae448187b097d717e914b8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TESLA TEASES NEW TECH UPDATE AHEAD OF MAJOR UNVEILING 🚀\n\n- Tesla hints at driver assist tech update release 🚗\n- Speculation rises on lower-cost model or next-gen Roadster 🤯\n- Anticipation builds for the upcoming major reveal 🌟\n\nTAKEAWAY: Tesla's latest driver assist tech update hints at an exciting major unveiling, sparking speculation and anticipation among enthusiasts.",
+      "exported_at": "2025-10-07T10:12:55.240419",
+      "continuous_session": true
+    },
+    {
+      "title": "The price of gold reaches $4,000 an ounce for the first time ever",
+      "link": "https://www.cnbc.com/2025/10/07/gold-4000-record.html",
+      "summary": "Gold futures have gained more than 50% this year as President Donald Trump upends the global trade system and threatens Federal Reserve independence.",
+      "published": "Tue, 07 Oct 2025 14:12:32 GMT",
+      "content": "Gold futures have gained more than 50% this year as President Donald Trump upends the global trade system and threatens Federal Reserve independence.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6f87bda8b44f3871d5e5af1edd95af17",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GOLD HITS HISTORIC $4,000/OUNCE MILESTONE 🚀\n\n- Gold futures surge over 50% this year 📈\n- President Trump disrupts global trade, impacting gold prices 🌍\n- Federal Reserve independence under threat, boosting gold value 💰\n\nTAKEAWAY: Gold's unprecedented climb to $4,000/ounce reflects global economic uncertainties amid Trump's trade policies and Fed concerns.",
+      "exported_at": "2025-10-07T10:12:55.240430",
+      "continuous_session": true
+    },
+    {
+      "title": "Inside Alts: Startups are staying private longer thanks to alternative capital",
+      "link": "https://www.cnbc.com/2025/10/07/ipo-market-startups-staying-private-longer-alternative-capital.html",
+      "summary": "The median age of companies that have gone private so far this year is 13 years since founding, up from a median of 10 years in 2018, according to new data.",
+      "published": "Tue, 07 Oct 2025 14:04:40 GMT",
+      "content": "The median age of companies that have gone private so far this year is 13 years since founding, up from a median of 10 years in 2018, according to new data.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "51eb84353ccebf4f4afebe68ae03d0e5",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: INSIDE ALTS: STARTUPS DELAY GOING PUBLIC, THANKS TO ALTERNATIVE CAPITAL 🚀\n\n- Median age of private companies now 13 years, up from 10 in 2018 ⏳\n- Startups opting for longer private periods before going public 📈\n- New data shows shift towards alternative sources of capital 💰\n\nTAKEAWAY: Startups are choosing to stay private longer, with the median age of private companies increasing to 13 years, signaling a trend towards alternative capital.",
+      "exported_at": "2025-10-07T10:12:55.240434",
+      "continuous_session": true
+    },
+    {
+      "title": "New IRS CEO is also head of the Social Security Administration. Here&apos;s why that dual role worries some experts",
+      "link": "https://www.cnbc.com/2025/10/07/new-irs-ceo-heads-social-security.html",
+      "summary": "The new IRS CEO, Frank Bisignano, is also Commissioner of the Social Security Administration. Here's why the dual role worries policy experts, consumer advocates.",
+      "published": "Tue, 07 Oct 2025 14:07:41 GMT",
+      "content": "The new IRS CEO, Frank Bisignano, is also Commissioner of the Social Security Administration. Here's why the dual role worries policy experts, consumer advocates.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c3a2801b6acb243e436673ae8dbf0a28",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NEW IRS CEO LEADS SOCIAL SECURITY TOO: EXPERTS RAISE CONCERNS ⚠️\n\n- Frank Bisignano takes dual role as IRS CEO, Social Security Commissioner 🤝\n- Policy experts, consumer advocates express worry about the shared leadership 🧐\n- Concerns arise over potential conflicts of interest, lack of focus 🤔\n\nTAKEAWAY: The appointment of Frank Bisignano as both IRS CEO and Social Security Commissioner raises concerns among experts regarding potential conflicts of interest and lack of focused leadership.",
+      "exported_at": "2025-10-07T10:12:55.240436",
       "continuous_session": true
     }
   ]
