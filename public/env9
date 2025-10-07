@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T15:40:03.228606",
-    "total_articles": 2353,
-    "new_articles_in_last_fetch": 2353,
+    "created_at": "2025-10-07T15:45:14.101585",
+    "total_articles": 2354,
+    "new_articles_in_last_fetch": 2354,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -30553,6 +30553,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: HEALTHY RETURNS: AMGEN EMBRACES DIRECT-TO-CONSUMER SALES 🚀\n\n- Amgen joins drugmakers selling directly to consumers 💊\n- Pressure from President Trump triggers shift in industry 📈\n- Dr. Oz advocates GLP-1s for obesity treatment 💡\n\nTAKEAWAY: Amgen's move to sell drugs directly to consumers reflects industry trends influenced by President Trump, while Dr. Oz promotes GLP-1s for combating obesity.",
       "exported_at": "2025-10-07T15:40:03.068808",
+      "continuous_session": true
+    },
+    {
+      "title": "Goldman Sachs portfolio manager Brook Dane lists Nvidia, TSMC among top AI stocks to buy",
+      "link": "https://www.cnbc.com/2025/10/07/goldman-sachs-portfolio-manager-brook-dane-lists-nvidia-tsmc-among-top-ai-stocks-to-buy.html",
+      "summary": "Although Nvidia is trading at all-time highs, Goldman Sachs' Brook Dane said the stock doesn't  look \"extended.\"",
+      "published": "Tue, 07 Oct 2025 19:29:07 GMT",
+      "content": "Although Nvidia is trading at all-time highs, Goldman Sachs' Brook Dane said the stock doesn't  look \"extended.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a717b370a9729bc09f111f5fa0a28241",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GOLDMAN SACHS MANAGER REVEALS TOP AI STOCKS TO BUY 🚀\n\n- Goldman Sachs' Brook Dane highlights Nvidia and TSMC as top AI stock picks 📈\n- Despite Nvidia's record highs, Dane believes the stock isn't overvalued 💰\n- Nvidia and TSMC recognized as key players in the AI sector 🤖\n- Dane's endorsement boosts investor confidence in Nvidia and TSMC 📈\n- Goldman Sachs portfolio manager's insights add credibility to AI stock picks ✅\n\nTAKEAWAY: Goldman Sachs' Brook Dane identifies Nvidia and TSMC as strong AI stock choices, reassuring investors of their potential despite record highs.",
+      "exported_at": "2025-10-07T15:45:13.939111",
       "continuous_session": true
     }
   ]
