@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T13:22:34.342080",
-    "total_articles": 2343,
-    "new_articles_in_last_fetch": 2343,
+    "created_at": "2025-10-07T13:37:51.219736",
+    "total_articles": 2344,
+    "new_articles_in_last_fetch": 2344,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -30423,6 +30423,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: OPENAI'S SORA 2 UNDER FIRE FOR COPYRIGHT INFRINGEMENT ⚠️\n\n- Motion Picture Association accuses Sora 2 of copyright violation 🎥\n- OpenAI's video generation model Sora 2 criticized for content infringement\n- Allegations raised regarding unauthorized use of copyrighted material\n\nTAKEAWAY: OpenAI's Sora 2 faces criticism from the Motion Picture Association for alleged copyright infringement, raising concerns about content usage.",
       "exported_at": "2025-10-07T13:22:34.172835",
+      "continuous_session": true
+    },
+    {
+      "title": "Gold prices keep rising, and jewelry companies are sounding the alarm",
+      "link": "https://www.cnbc.com/2025/10/07/gold-prices-jewelry.html",
+      "summary": "Some jewelry companies who aim to offer gold pieces at lower price points are beginning to sound the alarm on higher prices for the precious metal.",
+      "published": "Tue, 07 Oct 2025 17:33:59 GMT",
+      "content": "Some jewelry companies who aim to offer gold pieces at lower price points are beginning to sound the alarm on higher prices for the precious metal.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3208ba3071cf9db679a32f89d5209ca2",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GOLD PRICES SURGE, JEWELRY COMPANIES SOUND ALARM 🔥\n\n- Gold prices continue to climb, causing concern in jewelry industry 💎\n- Companies offering affordable gold pieces facing challenges 📉\n- Rising gold prices impacting jewelry market dynamics 📈\n\nTAKEAWAY: The surge in gold prices is causing alarm among jewelry companies, particularly those aiming to offer affordable gold pieces, as they face challenges in the market.",
+      "exported_at": "2025-10-07T13:37:51.055098",
       "continuous_session": true
     }
   ]
