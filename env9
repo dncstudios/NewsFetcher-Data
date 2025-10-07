@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T18:08:13.518723",
-    "total_articles": 2368,
-    "new_articles_in_last_fetch": 2368,
+    "created_at": "2025-10-07T18:53:54.634197",
+    "total_articles": 2369,
+    "new_articles_in_last_fetch": 2369,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -30748,6 +30748,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCK FUTURES STABLE DESPITE S&P 500 ENDING WIN STREAK 📉\n\n- S&P 500 snaps 7-day win streak, causing minor impact on stock futures 📉\n- Oracle's drop raises concerns about AI trade sustainability 🤔\n- Market shows stability despite recent fluctuations 📊\n\nTAKEAWAY: Despite S&P 500 ending its win streak and Oracle's drop questioning AI trade sustainability, stock futures remain stable, showing market resilience.",
       "exported_at": "2025-10-07T18:08:13.491064",
+      "continuous_session": true
+    },
+    {
+      "title": "U.S. air traffic control staffing hit for second day, delaying flights",
+      "link": "https://www.cnbc.com/2025/10/07/us-air-traffic-control-staffing-hit-for-second-day-delaying-flights.html",
+      "summary": "Air traffic control staffing issues are delaying flights for a second straight day at numerous U.S. airports as the government shutdown reaches its seventh day, the Federal Aviation Administration said in a notice on Tuesday.",
+      "published": "Tue, 07 Oct 2025 22:50:39 GMT",
+      "content": "Air traffic control staffing issues are delaying flights for a second straight day at numerous U.S. airports as the government shutdown reaches its seventh day, the Federal Aviation Administration said in a notice on Tuesday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "acde354c54ef36185ccadc05a2d0b7fd",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: U.S. AIR TRAFFIC CONTROL STAFFING CRISIS CONTINUES 🚨\n\n- Staffing problems persist, causing flight delays ✈️\n- Multiple U.S. airports affected for 2nd consecutive day 🛫\n- FAA confirms delays due to government shutdown impact 📉\n\nTAKEAWAY: Air traffic control staffing issues persist, causing flight delays for a second day amid the ongoing government shutdown.",
+      "exported_at": "2025-10-07T18:53:54.476657",
       "continuous_session": true
     }
   ]
