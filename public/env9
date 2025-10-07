@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T09:11:22.976800",
-    "total_articles": 2309,
-    "new_articles_in_last_fetch": 2309,
+    "created_at": "2025-10-07T09:16:30.163045",
+    "total_articles": 2311,
+    "new_articles_in_last_fetch": 2311,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -29981,6 +29981,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: QUALCOMM ACQUIRES ARDUINO TO BOOST ROBOTICS PRESENCE 🤖\n\n- Qualcomm expands robotics foothold with Arduino acquisition 🌐\n- Arduino's programmable boards popular in hardware startups, labs 💡\n- Acquisition aimed at strengthening Qualcomm's robotics capabilities 📈\n\nTAKEAWAY: Qualcomm's acquisition of Arduino signals a strategic move to enhance its position in the robotics industry by leveraging Arduino's popular programmable boards.",
       "exported_at": "2025-10-07T09:11:22.809461",
+      "continuous_session": true
+    },
+    {
+      "title": "Investors are making up the highest share of homebuyers in 5 years",
+      "link": "https://www.cnbc.com/2025/10/07/home-sales-investors-make-up-highest-share-of-buyers-in-5-years.html",
+      "summary": "Real estate investors, both individual and institutional, bought one-third of all single-family residential properties sold in the second quarter of 2025.",
+      "published": "Tue, 07 Oct 2025 13:14:27 GMT",
+      "content": "Real estate investors, both individual and institutional, bought one-third of all single-family residential properties sold in the second quarter of 2025.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f12d8aaaf3f85dfbdc7e8bab3486fc11",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PROPERTY PLAY: INVESTORS DOMINATE HOME MARKET 🚀\n\n- Investors snag 1/3 of single-family homes in Q2 2025 🏠\n- Highest investor share in home purchases in 5 years 📈\n- Individual and institutional buyers drive market trend 💪\n- Real estate market sees surge in investor activity 🔥\n- Investors capitalize on opportunities in property market 🌟\n\nTAKEAWAY: Investors, both individual and institutional, are seizing a significant share of the real estate market, indicating a strong trend in investment activity.",
+      "exported_at": "2025-10-07T09:16:29.992658",
+      "continuous_session": true
+    },
+    {
+      "title": "How Ares is capitalizing on the &apos;retail revolution&apos; in alternative assets",
+      "link": "https://www.cnbc.com/2025/10/07/ares-ceo-michael-arougheti-retail-revolution-in-alternative-assets.html",
+      "summary": "Ares Management already has more than $50 billion in assets under management from semiliquid vehicles targeted at retail.",
+      "published": "Tue, 07 Oct 2025 13:12:05 GMT",
+      "content": "Ares Management already has more than $50 billion in assets under management from semiliquid vehicles targeted at retail.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "94a1649d84673c7b04372836f6280491",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ARES MANAGEMENT LEVERAGES RETAIL REVOLUTION IN ALTERNATIVE ASSETS 🚀\n\n- Ares Management holds $50 billion in assets under management for retail\n- Focus on semiliquid vehicles for retail investors\n- Capitalizing on the 'retail revolution' in alternative assets\n- Ares aims to expand its reach in retail investor market\n- Strong growth potential in alternative assets for Ares Management\n\nTAKEAWAY: Ares Management strategically seizes opportunities in the retail investor market, aiming for expansion and growth in alternative assets.",
+      "exported_at": "2025-10-07T09:16:29.992764",
       "continuous_session": true
     }
   ]
