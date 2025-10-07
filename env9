@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T05:30:56.798839",
-    "total_articles": 2272,
-    "new_articles_in_last_fetch": 2272,
+    "created_at": "2025-10-07T05:36:09.073110",
+    "total_articles": 2275,
+    "new_articles_in_last_fetch": 2275,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -29500,6 +29500,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: MUSK APPOINTS EX-MORGAN STANLEY BANKER AS xAI FINANCE CHIEF 🚀\n\n- Elon Musk names ex-Morgan Stanley banker as xAI CFO 💼\n- New CFO to lead financial operations of Musk's AI group 🤖\n- Appointment reported by Financial Times 🔍\n- Strategic move to strengthen xAI's financial leadership 🌟\n- Ex-banker brings expertise from Morgan Stanley 📈\n- xAI expected to benefit from new financial chief's experience 💰\n\nTAKEAWAY: Elon Musk's appointment of a former Morgan Stanley banker as the new CFO for xAI signals a strategic move to enhance the financial leadership of his AI group.",
       "exported_at": "2025-10-07T05:30:56.636160",
+      "continuous_session": true
+    },
+    {
+      "title": "Avoid banks and telcos: Strategists share how to trade ‘ungovernable’ France",
+      "link": "https://www.cnbc.com/2025/10/07/avoid-banks-and-telcos-strategists-share-how-to-trade-ungovernable-france.html",
+      "summary": "Political turmoil is fuelling \"desynchronized growth\" in Europe, with French domestic-facing stocks expected to lose out.",
+      "published": "Tue, 07 Oct 2025 09:33:16 GMT",
+      "content": "Political turmoil is fuelling \"desynchronized growth\" in Europe, with French domestic-facing stocks expected to lose out.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "cda008ae408e4d0347953aa2ad2911e8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AVOID BANKS AND TELCOS: HOW TO NAVIGATE 'UNGOVERNABLE' FRANCE 🚨\n\n- Political turmoil creates 'desynchronized growth' in Europe 🌍\n- French domestic stocks forecasted to underperform 📉\n- Strategists advise steering clear of banks and telcos 🚫\n\nTAKEAWAY: Amid Europe's political unrest, strategists recommend avoiding French domestic-facing stocks like banks and telcos due to expected underperformance.",
+      "exported_at": "2025-10-07T05:36:08.922613",
+      "continuous_session": true
+    },
+    {
+      "title": "Funding bill falls short again in Senate, extending government shutdown",
+      "link": "https://www.cnbc.com/2025/10/06/government-shutdown-senate-house-trump.html",
+      "summary": "President Donald Trump could \"start taking sharp measures\" if the Senate does not pass the funding bill, White House economic advisor Kevin Hassett said.",
+      "published": "Mon, 06 Oct 2025 23:11:11 GMT",
+      "content": "President Donald Trump could \"start taking sharp measures\" if the Senate does not pass the funding bill, White House economic advisor Kevin Hassett said.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8024d6bbdc4749160c62babad566368a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SENATE FACES PRESSURE TO PASS FUNDING BILL AS SHUTDOWN STALEMATE PERSISTS ⚠️\n\n- Senate to vote again on funding bill amidst government shutdown 🏛️\n- White House advisor warns of potential sharp measures by Trump 🚨\n- Pressure mounts on Senate to end the stalemate 📈\n- Trump threatens action if bill not passed 💥\n- Uncertainty looms over potential consequences of inaction 🤔\n\nTAKEAWAY: With Trump's threat of \"sharp measures,\" the Senate faces increasing pressure to pass the funding bill and end the government shutdown stalemate.",
+      "exported_at": "2025-10-07T05:36:08.922698",
+      "continuous_session": true
+    },
+    {
+      "title": "Jim Cramer says OpenAI might be developing an edge after inking deal with AMD",
+      "link": "https://www.cnbc.com/2025/10/06/jim-cramer-openai-amd.html",
+      "summary": "CNBC's Jim Cramer opined on the accelerating artificial intelligence arms race on Monday.",
+      "published": "Mon, 06 Oct 2025 23:00:52 GMT",
+      "content": "CNBC's Jim Cramer opined on the accelerating artificial intelligence arms race on Monday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5c9ed72d65fa1a28174d7eab431051ab",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JIM CRAMER: OPENAI & AMD DEAL BOOSTS AI EDGE 🚀\n\n- CNBC's Cramer highlights OpenAI's AI advancement\n- OpenAI's collaboration with AMD intensifies artificial intelligence competition\n- OpenAI potentially gaining a strategic advantage in the AI arms race\n\nTAKEAWAY: Jim Cramer's analysis suggests that OpenAI's partnership with AMD could give them a competitive edge in the rapidly evolving AI landscape.",
+      "exported_at": "2025-10-07T05:36:08.922716",
       "continuous_session": true
     }
   ]
