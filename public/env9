@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T08:09:39.409451",
-    "total_articles": 2296,
-    "new_articles_in_last_fetch": 2296,
+    "created_at": "2025-10-07T08:14:48.810002",
+    "total_articles": 2297,
+    "new_articles_in_last_fetch": 2297,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -29812,6 +29812,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NOBEL PHYSICS PRIZE AWARDED TO QUANTUM MECHANICS PIONEERS 🚀\n\n- U.S. scientists John Clarke, Michel Devoret, and John Martinis win 2025 Nobel Prize 🏆\n- Honored for groundbreaking work in the field of quantum mechanics 🔬\n- Recognition highlights their contributions to advancing physics research 🌌\n\nTAKEAWAY: The 2025 Nobel Prize in Physics celebrates the pioneering contributions of John Clarke, Michel Devoret, and John Martinis in the realm of quantum mechanics, advancing the boundaries of scientific knowledge.",
       "exported_at": "2025-10-07T08:09:39.383132",
+      "continuous_session": true
+    },
+    {
+      "title": "Trilogy Metals shares soar over 250% in premarket after U.S. takes stake in minerals explorer",
+      "link": "https://www.cnbc.com/2025/10/07/trilogy-metals-shares-surge-after-us-takes-stake-in-minerals-firm.html",
+      "summary": "The stock was seen trading up 248% in premarket deals at 1:09 p.m. London time (8:09 a.m. ET).",
+      "published": "Tue, 07 Oct 2025 12:09:55 GMT",
+      "content": "The stock was seen trading up 248% in premarket deals at 1:09 p.m. London time (8:09 a.m. ET).",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f21580f6260283f5548dccf23d150d02",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRILOGY METALS SHARES SURGE 250% AFTER U.S. INVESTMENT 🚀\n\n- Trilogy Metals stock skyrockets 248% in premarket trading 📈\n- U.S. takes stake in minerals explorer, boosting investor confidence ✅\n- Market reacts positively to the news 🎉\n- Pre-market surge reflects strong interest and potential growth 🌟\n\nTAKEAWAY: Trilogy Metals experiences a monumental 250% surge in premarket trading as the U.S. investment fuels investor optimism and market excitement.",
+      "exported_at": "2025-10-07T08:14:48.648372",
       "continuous_session": true
     }
   ]
