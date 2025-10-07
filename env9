@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T10:59:11.144883",
-    "total_articles": 2330,
-    "new_articles_in_last_fetch": 2330,
+    "created_at": "2025-10-07T11:24:39.177953",
+    "total_articles": 2332,
+    "new_articles_in_last_fetch": 2332,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -30254,6 +30254,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AG BONDI EVASIVE ON TRUMP MENTIONS IN EPSTEIN FILES 🚨\n\n- AG Bondi dodges questions on Trump's mentions in Epstein files\n- Criticism mounts on Trump admin's refusal to release documents\n- Senate hearing reveals lack of transparency on Epstein case\n- Trump's friendship with Epstein under scrutiny\n- Public demands accountability and transparency from administration\n\nTAKEAWAY: AG Bondi's evasiveness on Trump mentions in Epstein files at the Senate hearing highlights the growing criticism and demand for transparency within the administration.",
       "exported_at": "2025-10-07T10:59:10.987972",
+      "continuous_session": true
+    },
+    {
+      "title": "Setting up for a bullish mean reversion move in this discount retailer using options",
+      "link": "https://www.cnbc.com/2025/10/07/setting-up-for-a-bullish-mean-reversion-move-in-this-discount-retailer-using-options.html",
+      "summary": "Nishant Pant breaks down a bull call spread on this retail name.",
+      "published": "Tue, 07 Oct 2025 15:15:01 GMT",
+      "content": "Nishant Pant breaks down a bull call spread on this retail name.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4aba6023041d5fca51b32af4ba70e494",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SETTING UP FOR A BULLISH MEAN REVERSION MOVE IN DISCOUNT RETAILER 🚀\n\n- Nishant Pant analyzes bull call spread strategy 📈\n- Options used for potential profit in retail sector 🛍️\n- Strategy aims for a bullish price reversal 📈\n- Focus on discount retailer for options play 🎯\n\nTAKEAWAY: Nishant Pant's analysis suggests a bullish opportunity using options in the discount retail sector for potential profit.",
+      "exported_at": "2025-10-07T11:24:39.151523",
+      "continuous_session": true
+    },
+    {
+      "title": "We&apos;re buying more of this stock that Cramer calls &apos;the best story in this market&apos;",
+      "link": "https://www.cnbc.com/2025/10/07/were-buying-more-of-the-stock-that-cramer-calls-best-story-in-market.html",
+      "summary": "We have been patiently waiting for a pullback in shares.",
+      "published": "Tue, 07 Oct 2025 15:16:54 GMT",
+      "content": "We have been patiently waiting for a pullback in shares.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f17046b2c5848264ea035eb296fc86f5",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WE'RE BUYING MORE OF THIS STOCK Cramer's 'BEST STORY IN THIS MARKET' 🚀\n\n- Patiently waiting for shares to pull back\n- Increasing our stake in this promising stock\n\nTAKEAWAY: Strategically seizing the opportunity to invest more in a stock hailed as the best story in the market by Cramer.",
+      "exported_at": "2025-10-07T11:24:39.151538",
       "continuous_session": true
     }
   ]
