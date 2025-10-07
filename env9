@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T08:50:47.124335",
-    "total_articles": 2304,
-    "new_articles_in_last_fetch": 2304,
+    "created_at": "2025-10-07T08:55:58.850980",
+    "total_articles": 2306,
+    "new_articles_in_last_fetch": 2306,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -29916,6 +29916,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JIM CRAMER'S TOP 10 THINGS TO WATCH IN THE STOCK MARKET TUESDAY 🚀\n\n- Nvidia CEO to join Investing Club's Monthly Meeting 📈\n- Goldman upgrades construction firm on data center spending 🏗️\n\nTAKEAWAY: Stay ahead in the stock market by keeping an eye on Nvidia's CEO appearance and Goldman's construction firm upgrade based on data center investments.",
       "exported_at": "2025-10-07T08:50:46.988188",
+      "continuous_session": true
+    },
+    {
+      "title": "Dell stock pops as company ups long-term revenue growth expectations",
+      "link": "https://www.cnbc.com/2025/10/07/dell-stock-revenue-growth.html",
+      "summary": "Dell stock popped after the company raised its long-term revenue and profit growth forecasts.",
+      "published": "Tue, 07 Oct 2025 12:53:06 GMT",
+      "content": "Dell stock popped after the company raised its long-term revenue and profit growth forecasts.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "574dc0cd7a91fd3ce554dcbd766a7e7a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DELL STOCK SOARS AS COMPANY BOOSTS LONG-TERM GROWTH FORECASTS 🚀\n\n- Dell raises long-term revenue and profit growth expectations 📈\n- Stock price surges following the updated forecasts 📈\n- Investors respond positively to Dell's improved outlook ✅\n\nTAKEAWAY: Dell's stock experiences a significant surge as the company elevates its long-term revenue and profit growth projections, pleasing investors.",
+      "exported_at": "2025-10-07T08:55:58.689297",
+      "continuous_session": true
+    },
+    {
+      "title": "Inside Alts: How Ares is capitalizing on the &apos;retail revolution&apos; in alternative assets",
+      "link": "https://www.cnbc.com/2025/10/07/ares-ceo-michael-arougheti-retail-revolution-in-alternative-assets.html",
+      "summary": "Ares Management already has more than $50 billion in assets under management from semiliquid vehicles targeted at retail.",
+      "published": "Tue, 07 Oct 2025 12:50:40 GMT",
+      "content": "Ares Management already has more than $50 billion in assets under management from semiliquid vehicles targeted at retail.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b7831fdd5355d31abed903ba73eed7a8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ARES MANAGEMENT LEVERAGES RETAIL REVOLUTION IN ALTERNATIVE ASSETS 🚀\n\n- Ares Management holds $50 billion in assets under management for retail\n- Focus on semiliquid vehicles for retail investors\n- Capitalizing on the 'retail revolution' in alternative assets\n- Ares aims to expand its reach in retail investor market\n- Strong growth potential in alternative assets for Ares Management\n\nTAKEAWAY: Ares Management strategically seizes opportunities in the retail investor market, aiming for expansion and growth in alternative assets.",
+      "exported_at": "2025-10-07T08:55:58.689345",
       "continuous_session": true
     }
   ]
