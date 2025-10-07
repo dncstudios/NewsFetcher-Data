@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T17:17:17.948636",
-    "total_articles": 2366,
-    "new_articles_in_last_fetch": 2366,
+    "created_at": "2025-10-07T17:22:31.241919",
+    "total_articles": 2367,
+    "new_articles_in_last_fetch": 2367,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -30722,6 +30722,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUTH ABOUT AI, JOBS, AND THE FUTURE? 'NO ONE KNOWS ANYTHING,' SAYS WHARTON EXPERT 🤖\n\n- Rapid progress in gen AI, yet uncertainty looms 🌐\n- Wharton expert Ethan Mollick emphasizes unknowns 🧠\n- Everything about AI's impact on future remains a mystery 🕵️‍♂️\n\nTAKEAWAY: The truth about AI, jobs, and the future is shrouded in uncertainty, with experts like Ethan Mollick highlighting the vast unknowns ahead.",
       "exported_at": "2025-10-07T17:17:17.921683",
+      "continuous_session": true
+    },
+    {
+      "title": "A bubble may be forming, but there are still good investment opportunities in this market, says Josh Brown",
+      "link": "https://www.cnbc.com/2025/10/07/a-bubble-may-be-forming-but-there-are-still-good-investments-in-this-market-says-josh-brown.html",
+      "summary": "Some AI stocks are vastly overvalued, suggesting there's a bubble, but that shouldn't deter  pouring new money into good projects, Josh Brown told CNBC.",
+      "published": "Tue, 07 Oct 2025 21:17:38 GMT",
+      "content": "Some AI stocks are vastly overvalued, suggesting there's a bubble, but that shouldn't deter  pouring new money into good projects, Josh Brown told CNBC.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "503bbcfa90b89062dc686f30833efd35",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: A BUBBLE LOOMS, YET INVESTMENT OPPORTUNITIES ABOUND, SAYS JOSH BROWN 🚀\n\n- AI stocks show signs of overvaluation, hinting at a potential bubble 💭\n- Despite this, Josh Brown advises not to shy away from promising investments 💼\n- Embrace the market cautiously but stay open to lucrative ventures 💰\n\nTAKEAWAY: Josh Brown acknowledges the bubble risk in AI stocks but encourages investors to remain vigilant and seek out strong opportunities.",
+      "exported_at": "2025-10-07T17:22:31.091351",
       "continuous_session": true
     }
   ]
