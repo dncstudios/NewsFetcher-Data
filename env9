@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T12:20:56.921158",
-    "total_articles": 2337,
-    "new_articles_in_last_fetch": 2337,
+    "created_at": "2025-10-07T12:36:20.611147",
+    "total_articles": 2338,
+    "new_articles_in_last_fetch": 2338,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -30345,6 +30345,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: S&P 500 FACES FIRST DECLINE IN 8 DAYS ON ORACLE SLIDE, SHUTDOWN ANGST 🚨\n\n- S&P 500 set for its initial drop in 8 days 📉\n- Oracle's slide contributes to market downturn 📉\n- Investors anxious amid ongoing U.S. govt shutdown 🏛️\n- Shutdown enters second week, causing uncertainty 🤔\n\nTAKEAWAY: S&P 500 experiences its first decline in over a week due to Oracle's slide and investor concerns over the prolonged U.S. government shutdown entering its second week.",
       "exported_at": "2025-10-07T12:20:56.782077",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves midday: Oracle, Figma, Trilogy Metals, Ford and more",
+      "link": "https://www.cnbc.com/2025/10/07/stocks-making-the-biggest-moves-midday-orcl-fig-tmq-f-and-more.html",
+      "summary": "These are the stocks posting the largest moves in midday trading.",
+      "published": "Tue, 07 Oct 2025 16:31:22 GMT",
+      "content": "These are the stocks posting the largest moves in midday trading.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fb0d101313c8eec790e1dc6fa6fde5e3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS MAKING BIG MOVES MIDDAY: ORACLE, FIGMA, TRILOGY METALS 🚀\n\n- Oracle, Figma, Trilogy Metals, Ford among top movers 📈\n- Stocks experiencing significant midday trading activity 💰\n- Market sees notable fluctuations in various sectors 🔥\n- Investors closely monitoring the dynamic stock movements 🧐\n\nTAKEAWAY: Oracle, Figma, Trilogy Metals, and Ford are captivating investor interest with their substantial midday stock movements across diverse sectors.",
+      "exported_at": "2025-10-07T12:36:20.442141",
       "continuous_session": true
     }
   ]
