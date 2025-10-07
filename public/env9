@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T08:40:30.797731",
-    "total_articles": 2301,
-    "new_articles_in_last_fetch": 2301,
+    "created_at": "2025-10-07T08:50:47.124335",
+    "total_articles": 2304,
+    "new_articles_in_last_fetch": 2304,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -29877,6 +29877,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AMD RALLIES FOR SECOND DAY AFTER BULLISH WALL STREET CALL 🚀\n\n- Jefferies upgrades AMD to \"buy\" rating 📈\n- Predicts significant rally in AMD shares ahead 📈\n- Market responds positively to Wall Street's bullish call 📊\n\nTAKEAWAY: AMD's stock continues to surge for the second day following a bullish upgrade to \"buy\" by Jefferies, indicating strong market confidence and potential growth ahead.",
       "exported_at": "2025-10-07T08:40:30.648657",
+      "continuous_session": true
+    },
+    {
+      "title": "AMD is rallying day two after a very bullish call from Wall Street",
+      "link": "https://www.cnbc.com/2025/10/07/amd-rallying-on-jefferies-upgrade.html",
+      "summary": "Jefferies upgraded AMD to buy and sees a big rally in the shares ahead.",
+      "published": "Tue, 07 Oct 2025 12:47:54 GMT",
+      "content": "Jefferies upgraded AMD to buy and sees a big rally in the shares ahead.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "554e46a3d8d310c6258ab122d3ebb333",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AMD RALLIES DAY TWO AFTER BULLISH WALL STREET CALL 🚀\n\n- Jefferies upgrades AMD to buy, predicts significant share rally 📈\n- Wall Street's bullish call boosts AMD momentum 🚀\n- Investors optimistic about AMD's future performance 🔥\n\nTAKEAWAY: AMD's impressive rally on the second day following a bullish call from Wall Street reflects growing investor optimism and momentum for the company.",
+      "exported_at": "2025-10-07T08:50:46.988109",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: Trilogy Metals, Aehr Test Systems, Dollar Tree and more",
+      "link": "https://www.cnbc.com/2025/10/07/stocks-making-the-biggest-moves-premarket-tmq-aehr-dltr.html",
+      "summary": "These are the stocks posting the largest moves in premarket trading.",
+      "published": "Tue, 07 Oct 2025 12:46:49 GMT",
+      "content": "These are the stocks posting the largest moves in premarket trading.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f77d8b093709925fff8b4e8efd020643",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS WITH BIGGEST PREMARKET MOVES 🚀\n\n- Trilogy Metals, Aehr Test Systems, Dollar Tree among top movers\n- Significant activity noticed in premarket trading 📈\n- Investors closely monitoring these stocks for potential opportunities\n\nTAKEAWAY: Keep an eye on Trilogy Metals, Aehr Test Systems, Dollar Tree, and other top movers in premarket trading for potential investment opportunities. 🚀",
+      "exported_at": "2025-10-07T08:50:46.988165",
+      "continuous_session": true
+    },
+    {
+      "title": "Jim Cramer&apos;s top 10 things to watch in the stock market Tuesday",
+      "link": "https://www.cnbc.com/2025/10/07/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+      "summary": "Nvidia CEO Jensen Huang is joining the Investing Club's Monthly Meeting, and Goldman upgrades a construction firm on data center spending.",
+      "published": "Tue, 07 Oct 2025 12:46:13 GMT",
+      "content": "Nvidia CEO Jensen Huang is joining the Investing Club's Monthly Meeting, and Goldman upgrades a construction firm on data center spending.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "65fe45f1bed6cf841c7b9deae01b181c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JIM CRAMER'S TOP 10 THINGS TO WATCH IN THE STOCK MARKET TUESDAY 🚀\n\n- Nvidia CEO to join Investing Club's Monthly Meeting 📈\n- Goldman upgrades construction firm on data center spending 🏗️\n\nTAKEAWAY: Stay ahead in the stock market by keeping an eye on Nvidia's CEO appearance and Goldman's construction firm upgrade based on data center investments.",
+      "exported_at": "2025-10-07T08:50:46.988188",
       "continuous_session": true
     }
   ]
