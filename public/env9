@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T06:22:13.407870",
-    "total_articles": 2281,
-    "new_articles_in_last_fetch": 2281,
+    "created_at": "2025-10-07T06:32:26.990192",
+    "total_articles": 2282,
+    "new_articles_in_last_fetch": 2282,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -29617,6 +29617,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP ADMINISTRATION RESTARTS STUDENT LOAN FORGIVENESS PROGRAM 🚀\n\n- Student loan forgiveness resumes for IBR program participants ✅\n- Benefit had been partially paused since July 📉\n- Relief for borrowers struggling with student debt 💪\n\nTAKEAWAY: The restart of student loan forgiveness under the IBR program provides much-needed relief for borrowers, signaling a positive step towards easing student debt burdens.",
       "exported_at": "2025-10-07T06:22:13.243825",
+      "continuous_session": true
+    },
+    {
+      "title": "NYSE-owner Intercontinental Exchange rises on report of $2 billion Polymarket stake",
+      "link": "https://www.cnbc.com/2025/10/07/nyse-owner-intercontinental-exchange-2-billion-polymarket-stake.html",
+      "summary": "Intercontinental Exchange rose after The Wall Street Journal reported that the company was nearing as deal for a $2 billion stake in Polymarket.",
+      "published": "Tue, 07 Oct 2025 10:30:12 GMT",
+      "content": "Intercontinental Exchange rose after The Wall Street Journal reported that the company was nearing as deal for a $2 billion stake in Polymarket.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "95b130dcb113a761ee3a232e44be4a11",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: INTERCONTINENTAL EXCHANGE SURGES ON $2B POLYMARKET STAKE REPORT 🚀\n\n- Intercontinental Exchange stock jumps on potential $2 billion Polymarket deal 💰\n- The Wall Street Journal hints at ICE's stake acquisition 🔍\n- Market reacts positively to news of the major investment 💥\n\nTAKEAWAY: Intercontinental Exchange's stock skyrockets following reports of a lucrative $2 billion stake in Polymarket, signaling investor confidence and market optimism.",
+      "exported_at": "2025-10-07T06:32:26.823637",
       "continuous_session": true
     }
   ]
