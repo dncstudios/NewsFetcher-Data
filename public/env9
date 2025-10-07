@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T14:38:52.863284",
-    "total_articles": 2348,
-    "new_articles_in_last_fetch": 2348,
+    "created_at": "2025-10-07T14:59:15.211394",
+    "total_articles": 2349,
+    "new_articles_in_last_fetch": 2349,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -30488,6 +30488,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TESLA TEASES NEW TECH UPDATE AHEAD OF MAJOR UNVEILING 🚀\n\n- Tesla hints at driver assist tech update release 🚗\n- Speculation rises on lower-cost model or next-gen Roadster 🤯\n- Anticipation builds for the upcoming major reveal 🌟\n\nTAKEAWAY: Tesla's latest driver assist tech update hints at an exciting major unveiling, sparking speculation and anticipation among enthusiasts.",
       "exported_at": "2025-10-07T14:38:52.708130",
+      "continuous_session": true
+    },
+    {
+      "title": "This crypto-related stock is setting up for a major move higher, according to the charts",
+      "link": "https://www.cnbc.com/2025/10/07/this-crypto-related-stock-is-setting-up-for-a-major-move-higher-charts-show.html",
+      "summary": "Todd Gordon breaks down the technical outlook for this crypto stock.",
+      "published": "Tue, 07 Oct 2025 18:30:01 GMT",
+      "content": "Todd Gordon breaks down the technical outlook for this crypto stock.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "95b34ce0dba4e1b37e02cdad26ac9818",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CRYPTO STOCK PRIMED FOR MAJOR UPSIDE MOVE 🚀\n\n- Technical analysis by Todd Gordon predicts significant upward momentum 🔥\n- Charts indicate potential for a bullish trend in this crypto-related stock 📈\n- Market outlook points towards a positive trajectory for the stock 🌟\n\nTAKEAWAY: Expert analysis suggests that this crypto-related stock is gearing up for a substantial upward movement based on technical indicators and market trends.",
+      "exported_at": "2025-10-07T14:59:15.138251",
       "continuous_session": true
     }
   ]
