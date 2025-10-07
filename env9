@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T05:41:18.508392",
-    "total_articles": 2276,
-    "new_articles_in_last_fetch": 2276,
+    "created_at": "2025-10-07T05:51:30.658564",
+    "total_articles": 2277,
+    "new_articles_in_last_fetch": 2277,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -29552,6 +29552,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRILOGY METALS SHARES SURGE 200% IN PREMARKET 🚀\n\n- Trilogy Metals stock spikes 175% in premarket trading 📈\n- U.S. acquires stake in minerals explorer, boosting investor confidence 🇺🇸\n- Pre-market deal sees stock soaring to new heights ⬆️\n\nTAKEAWAY: Trilogy Metals experiences a meteoric rise as U.S. investment propels the minerals explorer's stock to unprecedented levels.",
       "exported_at": "2025-10-07T05:41:18.342437",
+      "continuous_session": true
+    },
+    {
+      "title": "BlackRock&apos;s Rick Rieder says the generational opportunity for income is getting &apos;mature.&apos; Where he&apos;s investing now",
+      "link": "https://www.cnbc.com/2025/10/07/blackrocks-rick-rieder-says-the-generational-opportunity-for-income-is-getting-mature-where-hes-investing-now.html",
+      "summary": "It's a bit harder to get attractive income, but there are still plenty of opportunities for those willing to do the work, said BlackRock's Rick Rieder.",
+      "published": "Tue, 07 Oct 2025 09:41:15 GMT",
+      "content": "It's a bit harder to get attractive income, but there are still plenty of opportunities for those willing to do the work, said BlackRock's Rick Rieder.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "95f6699022c57aa2a2ec2d364448a8a7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BLACKROCK'S RICK RIEDER ON INCOME OPPORTUNITIES 🚀\n\n- Rieder sees income opportunities maturing but still available 📈\n- Getting attractive income is more challenging now 💰\n- Opportunities exist for those ready to put in the effort 💪\n\nTAKEAWAY: BlackRock's Rick Rieder acknowledges income opportunities are maturing, yet believes in continued possibilities for diligent investors.",
+      "exported_at": "2025-10-07T05:51:30.632302",
       "continuous_session": true
     }
   ]
