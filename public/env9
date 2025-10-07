@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T16:05:37.771727",
-    "total_articles": 2356,
-    "new_articles_in_last_fetch": 2356,
+    "created_at": "2025-10-07T16:15:53.676610",
+    "total_articles": 2359,
+    "new_articles_in_last_fetch": 2359,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -30592,6 +30592,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: S&P 500 FACES FIRST DECLINE IN 8 DAYS ON ORACLE SLIDE, SHUTDOWN ANGST 🚨\n\n- S&P 500 set for its initial drop in 8 days 📉\n- Oracle's slide contributes to market downturn 📉\n- Investors anxious amid ongoing U.S. govt shutdown 🏛️\n- Shutdown enters second week, causing uncertainty 🤔\n\nTAKEAWAY: S&P 500 experiences its first decline in over a week due to Oracle's slide and investor concerns over the prolonged U.S. government shutdown entering its second week.",
       "exported_at": "2025-10-07T16:05:37.614236",
+      "continuous_session": true
+    },
+    {
+      "title": "Santoli&apos;s Tuesday market wrap-up: High-altitude turbulence may feel worse than it is",
+      "link": "https://www.cnbc.com/2025/10/07/santolis-tuesday-market-wrap-up-high-altitude-turbulence-feels-worse.html",
+      "summary": "At the headline-index level, Tuesday was a modest blip, with the S&amp;P 500 down a little more than half a percent at the worst. Defensive groups outperformed.",
+      "published": "Tue, 07 Oct 2025 20:14:43 GMT",
+      "content": "At the headline-index level, Tuesday was a modest blip, with the S&amp;P 500 down a little more than half a percent at the worst. Defensive groups outperformed.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "67b47670d2ed1eb16bc7aa6f63dc454b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SANTOLI'S TUESDAY MARKET WRAP-UP: HIGH-ALTITUDE TURBULENCE AHEAD 🌪️\n\n- S&P 500 slightly down by over 0.5% on Tuesday 📉\n- Defensive sectors show better performance 🛡️\n- Market experiences modest blip at headline-index level 💥\n\nTAKEAWAY: Despite a small dip in the S&P 500, defensive sectors shine, indicating potential resilience in the face of market turbulence.",
+      "exported_at": "2025-10-07T16:15:53.511016",
+      "continuous_session": true
+    },
+    {
+      "title": "Oracle stock slips on report company is seeing thin cloud margins from Nvidia chips",
+      "link": "https://www.cnbc.com/2025/10/07/oracle-stock-nvidia-chip-margins.html",
+      "summary": "Oracle had 14% gross margins on $900 million in sales in its Nvidia cloud business in the three months ending in August, according to the report.",
+      "published": "Tue, 07 Oct 2025 20:11:34 GMT",
+      "content": "Oracle had 14% gross margins on $900 million in sales in its Nvidia cloud business in the three months ending in August, according to the report.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b35c1e7499feb1dab80be087c4ba5f1c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ORACLE STOCK SLIPS 5% ON THIN CLOUD MARGINS FROM NVIDIA CHIPS 📉\n\n- Oracle's Nvidia cloud business sees 14% gross margins 💸\n- $900 million in sales generated in three months ending August 💰\n- Stock drops by 5% due to reported thin cloud margins 🔻\n\nTAKEAWAY: Oracle's stock takes a hit as thin cloud margins from Nvidia chips lead to a 5% drop, despite $900 million in sales with 14% gross margins.",
+      "exported_at": "2025-10-07T16:15:53.511085",
+      "continuous_session": true
+    },
+    {
+      "title": "Billionaire tech investor Orlando Bravo says &apos;valuations in AI are at a bubble&apos;",
+      "link": "https://www.cnbc.com/2025/10/07/tech-vc-orlando-bravo-ai-bubble.html",
+      "summary": "One key difference between the dot-com bubble and today, Bravo said, is that big companies with healthy balance sheets are financing tech startups.",
+      "published": "Tue, 07 Oct 2025 20:15:20 GMT",
+      "content": "One key difference between the dot-com bubble and today, Bravo said, is that big companies with healthy balance sheets are financing tech startups.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0098ead9d799d3612786cdfa296b95a3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BILLIONAIRE ORLANDO BRAVO WARNS OF AI VALUATION BUBBLE 🚨\n\n- Bravo cautions about AI valuations being in a bubble 💥\n- Contrasts today with dot-com bubble: big firms backing startups 🌟\n- Emphasizes the importance of healthy balance sheets 💰\n\nTAKEAWAY: Orlando Bravo's warning highlights concerns about AI valuation bubbles, drawing distinctions from past tech bubbles and stressing the role of financially stable companies in tech startup financing.",
+      "exported_at": "2025-10-07T16:15:53.511097",
       "continuous_session": true
     }
   ]
