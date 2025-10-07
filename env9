@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T08:55:58.850980",
-    "total_articles": 2306,
-    "new_articles_in_last_fetch": 2306,
+    "created_at": "2025-10-07T09:06:14.344203",
+    "total_articles": 2308,
+    "new_articles_in_last_fetch": 2308,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -29942,6 +29942,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ARES MANAGEMENT LEVERAGES RETAIL REVOLUTION IN ALTERNATIVE ASSETS 🚀\n\n- Ares Management holds $50 billion in assets under management for retail\n- Focus on semiliquid vehicles for retail investors\n- Capitalizing on the 'retail revolution' in alternative assets\n- Ares aims to expand its reach in retail investor market\n- Strong growth potential in alternative assets for Ares Management\n\nTAKEAWAY: Ares Management strategically seizes opportunities in the retail investor market, aiming for expansion and growth in alternative assets.",
       "exported_at": "2025-10-07T08:55:58.689345",
+      "continuous_session": true
+    },
+    {
+      "title": "WTO hikes global trade forecast for 2025 — but next year doesn&apos;t look so good",
+      "link": "https://www.cnbc.com/2025/10/07/wto-hikes-global-trade-forecast-for-2025-slowdown-expected-in-2026-.html",
+      "summary": "Global trade volumes rose sharply in the first half of 2025 as businesses front-loaded imports ahead of higher tariffs.",
+      "published": "Tue, 07 Oct 2025 13:05:05 GMT",
+      "content": "Global trade volumes rose sharply in the first half of 2025 as businesses front-loaded imports ahead of higher tariffs.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "cf25e569a1d3622a10b228e18cf27ff7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WTO HIKES GLOBAL TRADE FORECAST FOR 2025 🚀\n\n- Global trade volumes surged in 2025 first half 📈\n- Businesses rushed imports before higher tariffs ⏱️\n- WTO optimistic for 2025, but cautious about next year ⚠️\n\nTAKEAWAY: WTO's positive forecast for 2025 global trade boosts optimism, despite caution for the upcoming year due to uncertainties.",
+      "exported_at": "2025-10-07T09:06:14.181302",
+      "continuous_session": true
+    },
+    {
+      "title": "Property Play: Investors are making up the highest share of homebuyers in 5 years",
+      "link": "https://www.cnbc.com/2025/10/07/home-sales-investors-make-up-highest-share-of-buyers-in-5-years.html",
+      "summary": "Real estate investors, both individual and institutional, bought one-third of all single-family residential properties sold in the second quarter of 2025.",
+      "published": "Tue, 07 Oct 2025 13:04:36 GMT",
+      "content": "Real estate investors, both individual and institutional, bought one-third of all single-family residential properties sold in the second quarter of 2025.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "704cbe949fca7c6f9f063f9eadadb8dc",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PROPERTY PLAY: INVESTORS DOMINATE HOME MARKET 🚀\n\n- Investors snag 1/3 of single-family homes in Q2 2025 🏠\n- Highest investor share in home purchases in 5 years 📈\n- Individual and institutional buyers drive market trend 💪\n- Real estate market sees surge in investor activity 🔥\n- Investors capitalize on opportunities in property market 🌟\n\nTAKEAWAY: Investors, both individual and institutional, are seizing a significant share of the real estate market, indicating a strong trend in investment activity.",
+      "exported_at": "2025-10-07T09:06:14.181356",
       "continuous_session": true
     }
   ]
