@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T13:37:51.219736",
-    "total_articles": 2344,
-    "new_articles_in_last_fetch": 2344,
+    "created_at": "2025-10-07T13:43:00.222978",
+    "total_articles": 2345,
+    "new_articles_in_last_fetch": 2345,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -30436,6 +30436,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: GOLD PRICES SURGE, JEWELRY COMPANIES SOUND ALARM 🔥\n\n- Gold prices continue to climb, causing concern in jewelry industry 💎\n- Companies offering affordable gold pieces facing challenges 📉\n- Rising gold prices impacting jewelry market dynamics 📈\n\nTAKEAWAY: The surge in gold prices is causing alarm among jewelry companies, particularly those aiming to offer affordable gold pieces, as they face challenges in the market.",
       "exported_at": "2025-10-07T13:37:51.055098",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump suggests not all furloughed workers will get back pay: &apos;It depends&apos;",
+      "link": "https://www.cnbc.com/2025/10/07/trump-government-shutdown-worker-pay.html",
+      "summary": "Trump also said at the White House that if the shutdown drags on several days longer, a \"substantial\" number of jobs \"will never come back.\"",
+      "published": "Tue, 07 Oct 2025 17:39:58 GMT",
+      "content": "Trump also said at the White House that if the shutdown drags on several days longer, a \"substantial\" number of jobs \"will never come back.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d52a1e313bfc14718f2b100ad6c05b09",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP ON FURLOUGHED WORKERS' BACK PAY: \"IT DEPENDS\" ⚠️\n\n- Not all furloughed workers guaranteed back pay 💸\n- Trump hints at uncertainties if shutdown prolongs 🤔\n- Warns of jobs possibly never returning if shutdown drags on ⏳\n\nTAKEAWAY: Trump's remarks on furloughed workers' back pay highlight uncertainties and risks as the shutdown continues.",
+      "exported_at": "2025-10-07T13:43:00.058984",
       "continuous_session": true
     }
   ]
