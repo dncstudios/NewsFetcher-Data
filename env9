@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T10:33:33.086767",
-    "total_articles": 2326,
-    "new_articles_in_last_fetch": 2326,
+    "created_at": "2025-10-07T10:48:58.095952",
+    "total_articles": 2328,
+    "new_articles_in_last_fetch": 2328,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -30202,6 +30202,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: S&P 500 KEEPS HITTING NEW HIGHS 🚀\n\n- S&P 500 index consistently reaching record levels 📈\n- Experts advise diversifying investments beyond traditional index 💼\n- Consider alternative investment options for potential pullback 🔄\n- Explore different sectors and asset classes for diversification 🌐\n- Be prepared with a well-rounded investment strategy 🎯\n\nTAKEAWAY: While the S&P 500 continues to soar, experts recommend diversifying investments to prepare for potential market pullbacks and take advantage of alternative options.",
       "exported_at": "2025-10-07T10:33:32.957705",
+      "continuous_session": true
+    },
+    {
+      "title": "One stock that&apos;s set to get a boost from AMD&apos;s OpenAI deal that is soaring",
+      "link": "https://www.cnbc.com/2025/10/07/one-stock-thats-set-to-get-a-boost-from-amds-openai-deal-that-is-soaring.html",
+      "summary": "Astera Labs jumped 10% Monday after the semiconductor maker got a Street high $275 price target from Citigroup.",
+      "published": "Tue, 07 Oct 2025 14:34:05 GMT",
+      "content": "Astera Labs jumped 10% Monday after the semiconductor maker got a Street high $275 price target from Citigroup.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b0a293432724e7c4aedd85789be29778",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASTERA LABS SURGES 10% ON CITIGROUP'S $275 PRICE TARGET 🚀\n\n- Astera Labs stock jumps 10% post-Citigroup's bullish $275 target 📈\n- Seminconductor maker benefits from AMD's OpenAI deal 🤖\n- Market reacts positively to the Street's high price target 🎯\n\nTAKEAWAY: Astera Labs sees a significant surge in stock price after receiving a bullish $275 price target from Citigroup, fueled by optimism from AMD's OpenAI deal.",
+      "exported_at": "2025-10-07T10:48:57.944111",
+      "continuous_session": true
+    },
+    {
+      "title": "My grandma-in-law was &apos;on the verge of poverty,&apos; yet &apos;one of the happiest people&apos;—what that taught me about wealth and happiness",
+      "link": "https://www.cnbc.com/2025/10/07/psychology-expert-if-you-live-by-these-5-rules-you-wont-need-a-lot-of-money-to-be-happy.html",
+      "summary": "Morgan Housel, an expert on the psychology of money and best-selling author, shares the secret to long-term happiness. Often, he says, chasing money leads to less happiness. And it's why rich people are sometimes the most miserable.",
+      "published": "Tue, 07 Oct 2025 14:39:02 GMT",
+      "content": "Morgan Housel, an expert on the psychology of money and best-selling author, shares the secret to long-term happiness. Often, he says, chasing money leads to less happiness. And it's why rich people are sometimes the most miserable.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "cb7f64265c889e712d94c21a9b429c71",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: LESS MONEY, MORE HAPPINESS? THE SECRET REVEALED 💰\n\n- Expert Morgan Housel reveals the key to long-term happiness 💡\n- Chasing money can lead to less happiness overall 💸\n- Rich individuals can be the most unhappy 😔\n\nTAKEAWAY: Pursuing wealth may not always lead to happiness; expert Morgan Housel suggests a different approach to long-term contentment.",
+      "exported_at": "2025-10-07T10:48:57.944168",
       "continuous_session": true
     }
   ]
