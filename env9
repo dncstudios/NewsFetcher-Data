@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T12:00:24.773062",
-    "total_articles": 2335,
-    "new_articles_in_last_fetch": 2335,
+    "created_at": "2025-10-07T12:10:38.791042",
+    "total_articles": 2336,
+    "new_articles_in_last_fetch": 2336,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -30319,6 +30319,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: GOLD HITS $4,000: WILL HISTORY REPEAT ITSELF? 🚀\n\n- Gold hits $4,000, facing uptrend exhaustion 📈\n- Bank of America notes 50% rally this year 🏦\n- History suggests gold may struggle at big round numbers 💰\n\nTAKEAWAY: As gold reaches $4,000, history hints at potential hurdles ahead due to uptrend exhaustion and past patterns at significant price levels.",
       "exported_at": "2025-10-07T12:00:24.602683",
+      "continuous_session": true
+    },
+    {
+      "title": "Oracle stock slips 5% on report company is seeing thin cloud margins from Nvidia chips",
+      "link": "https://www.cnbc.com/2025/10/07/oracle-stock-nvidia-chip-margins.html",
+      "summary": "Oracle had 14% gross margins on $900 million in sales in its Nvidia cloud business in the three months ending in August, according to the report.",
+      "published": "Tue, 07 Oct 2025 16:06:04 GMT",
+      "content": "Oracle had 14% gross margins on $900 million in sales in its Nvidia cloud business in the three months ending in August, according to the report.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c0ad1185b73152141813af0c46b2f382",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ORACLE STOCK SLIPS 5% ON THIN CLOUD MARGINS FROM NVIDIA CHIPS 📉\n\n- Oracle's Nvidia cloud business sees 14% gross margins 💸\n- $900 million in sales generated in three months ending August 💰\n- Stock drops by 5% due to reported thin cloud margins 🔻\n\nTAKEAWAY: Oracle's stock takes a hit as thin cloud margins from Nvidia chips lead to a 5% drop, despite $900 million in sales with 14% gross margins.",
+      "exported_at": "2025-10-07T12:10:38.627089",
       "continuous_session": true
     }
   ]
