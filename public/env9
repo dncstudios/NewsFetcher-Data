@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-06T20:06:40.135722",
-    "total_articles": 2258,
-    "new_articles_in_last_fetch": 2258,
+    "created_at": "2025-10-06T20:32:22.647405",
+    "total_articles": 2259,
+    "new_articles_in_last_fetch": 2259,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -29318,6 +29318,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WELLS FARGO CHIEF EQUITY STRATEGIST ON AI STOCKS 💡\n\n- Ohsung Kwon not enthusiastic about non-AI investments\n- Believes AI stocks are not in a bubble 📉\n- Kwon shares insights on AI stock expectations 📈\n\nTAKEAWAY: Wells Fargo's Ohsung Kwon expresses lack of excitement for non-AI investments, emphasizing confidence in AI stocks and dismissing bubble concerns.",
       "exported_at": "2025-10-06T20:06:39.978618",
+      "continuous_session": true
+    },
+    {
+      "title": "Japan&apos;s Nikkei 225 hits record high for second straight day after Wall Street gains on AMD rally",
+      "link": "https://www.cnbc.com/2025/10/07/asia-markets-tuesday-chips-stocks-amd-openai-deal-rally.html",
+      "summary": "Overnight, shares of AMD skyrocketed almost 24% after it announced a deal with OpenAI, which could see the latter take a 10% stake in the chipmaker.",
+      "published": "Tue, 07 Oct 2025 00:29:50 GMT",
+      "content": "Overnight, shares of AMD skyrocketed almost 24% after it announced a deal with OpenAI, which could see the latter take a 10% stake in the chipmaker.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ed016121a6242284e9b3e69e580a451c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASIA-PACIFIC MARKETS EYE MIXED OPEN AFTER WALL STREET GAINS 🚀\n\n- AMD shares surge by nearly 24% on OpenAI deal 💥\n- OpenAI potentially acquiring 10% stake in chipmaker 📈\n- Wall Street's positive momentum likely to influence Asia-Pacific markets 📈\n\nTAKEAWAY: AMD's impressive 24% surge due to the OpenAI deal is expected to have a mixed impact on Asia-Pacific markets, following Wall Street's positive trend.",
+      "exported_at": "2025-10-06T20:32:22.621866",
       "continuous_session": true
     }
   ]
