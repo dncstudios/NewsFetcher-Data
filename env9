@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T01:11:19.954027",
-    "total_articles": 2261,
-    "new_articles_in_last_fetch": 2261,
+    "created_at": "2025-10-07T01:31:41.986132",
+    "total_articles": 2262,
+    "new_articles_in_last_fetch": 2262,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -29357,6 +29357,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FRANCE IN POLITICAL CRISIS: WHAT'S NEXT? 🚨\n\n- Macron faces decision: appoint new PM, call elections, or step down\n- Country awaits Macron's next move for stability 🇫🇷\n- Uncertainty looms over France's political future\n\nTAKEAWAY: France's political crisis deepens as Macron weighs options of new PM, elections, or resignation, leaving the country in suspense.",
       "exported_at": "2025-10-07T01:11:19.818615",
+      "continuous_session": true
+    },
+    {
+      "title": "European stocks set for mixed open as French crisis weighs on sentiment",
+      "link": "https://www.cnbc.com/2025/10/07/european-markets-on-octpoint8-stoxx-600-ftse-dax-cac-france.html",
+      "summary": "European stocks are expected to open mixed on Tuesday with all eyes on France after the resignation of Prime Minister Sebastien Lecornu.",
+      "published": "Tue, 07 Oct 2025 05:27:27 GMT",
+      "content": "European stocks are expected to open mixed on Tuesday with all eyes on France after the resignation of Prime Minister Sebastien Lecornu.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5eabe4e931633c11bf52b1683163a8c4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: EUROPEAN STOCKS FACE MIXED OPEN AMID FRENCH CRISIS 🚨\n\n- European stocks set for a mixed open on Tuesday 📉\n- Investor sentiment impacted by French Prime Minister's resignation 🇫🇷\n- Market uncertainty as focus shifts to France's political situation 🤔\n\nTAKEAWAY: European stocks face a mixed opening as investor sentiment wavers due to the French political crisis following the resignation of Prime Minister Sebastien Lecornu.",
+      "exported_at": "2025-10-07T01:31:41.835328",
       "continuous_session": true
     }
   ]
