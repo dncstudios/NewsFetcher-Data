@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T12:41:37.763138",
-    "total_articles": 2340,
-    "new_articles_in_last_fetch": 2340,
+    "created_at": "2025-10-07T13:07:13.351417",
+    "total_articles": 2341,
+    "new_articles_in_last_fetch": 2341,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -30384,6 +30384,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BILLIONAIRE ORLANDO BRAVO WARNS: AI VALUATIONS IN A BUBBLE 🚨\n\n- Bravo cautions about AI valuations reaching bubble territory 📈\n- Contrasts today's tech financing with the dotcom bubble era 💰\n- Big firms back tech startups with strong balance sheets 💪\n\nTAKEAWAY: Bravo's warning about AI valuations being in a bubble draws attention to the differences in tech financing now compared to the dotcom era.",
       "exported_at": "2025-10-07T12:41:37.577926",
+      "continuous_session": true
+    },
+    {
+      "title": "Ray Dalio says today is like the early 1970s and investors should hold more gold than usual",
+      "link": "https://www.cnbc.com/2025/10/07/ray-dalio-says-today-is-like-the-early-1970s-and-investors-should-hold-more-gold-than-usual.html",
+      "summary": "\"Gold is the only asset that somebody can hold and you don't have to depend on somebody else to pay you money for,\" Dalio said.",
+      "published": "Tue, 07 Oct 2025 17:06:11 GMT",
+      "content": "\"Gold is the only asset that somebody can hold and you don't have to depend on somebody else to pay you money for,\" Dalio said.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "54af2cb7edf97aa46023711089952010",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: RAY DALIO: INVESTORS SHOULD HOLD MORE GOLD LIKE THE EARLY 1970s 🚀\n\n- Dalio recommends holding more gold due to its intrinsic value 💰\n- Gold provides independence as it doesn't rely on others for payment 💪\n- Comparison drawn to the economic climate of the early 1970s 📈\n- Dalio's advice suggests a potential shift in investment strategies 🔄\n- Highlighting the importance of diversification in uncertain times 🌍\n\nTAKEAWAY: Ray Dalio's advice to increase gold holdings echoes the economic landscape of the early 1970s, emphasizing self-reliance and diversification in investment portfolios.",
+      "exported_at": "2025-10-07T13:07:13.184527",
       "continuous_session": true
     }
   ]
