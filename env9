@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T05:36:09.073110",
-    "total_articles": 2275,
-    "new_articles_in_last_fetch": 2275,
+    "created_at": "2025-10-07T05:41:18.508392",
+    "total_articles": 2276,
+    "new_articles_in_last_fetch": 2276,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -29539,6 +29539,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JIM CRAMER: OPENAI & AMD DEAL BOOSTS AI EDGE 🚀\n\n- CNBC's Cramer highlights OpenAI's AI advancement\n- OpenAI's collaboration with AMD intensifies artificial intelligence competition\n- OpenAI potentially gaining a strategic advantage in the AI arms race\n\nTAKEAWAY: Jim Cramer's analysis suggests that OpenAI's partnership with AMD could give them a competitive edge in the rapidly evolving AI landscape.",
       "exported_at": "2025-10-07T05:36:08.922716",
+      "continuous_session": true
+    },
+    {
+      "title": "Trilogy Metals shares soar nearly 200% in premarket after U.S. takes stake in minerals explorer",
+      "link": "https://www.cnbc.com/2025/10/07/trilogy-metals-shares-surge-after-us-takes-stake-in-minerals-firm.html",
+      "summary": "The stock was seen trading 175% higher in premarket deals at 10:35 a.m. London time (5:35 a.m. ET).",
+      "published": "Tue, 07 Oct 2025 09:37:20 GMT",
+      "content": "The stock was seen trading 175% higher in premarket deals at 10:35 a.m. London time (5:35 a.m. ET).",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2aeffcb3b7959629afc16fdf9b3e2feb",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRILOGY METALS SHARES SURGE 200% IN PREMARKET 🚀\n\n- Trilogy Metals stock spikes 175% in premarket trading 📈\n- U.S. acquires stake in minerals explorer, boosting investor confidence 🇺🇸\n- Pre-market deal sees stock soaring to new heights ⬆️\n\nTAKEAWAY: Trilogy Metals experiences a meteoric rise as U.S. investment propels the minerals explorer's stock to unprecedented levels.",
+      "exported_at": "2025-10-07T05:41:18.342437",
       "continuous_session": true
     }
   ]
