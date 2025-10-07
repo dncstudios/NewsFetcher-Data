@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T17:07:02.919879",
-    "total_articles": 2365,
-    "new_articles_in_last_fetch": 2365,
+    "created_at": "2025-10-07T17:17:17.948636",
+    "total_articles": 2366,
+    "new_articles_in_last_fetch": 2366,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -30709,6 +30709,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NFL FINES JERRY JONES $250K FOR OBSCENE GESTURE 🚨\n\n- Jerry Jones fined $250,000 for obscene gesture to fans\n- Gesture deemed inadvertent by Jones post-game 🤷‍♂️\n- Incident occurred during Cowboys' win over Jets 🏈\n\nTAKEAWAY: NFL's $250,000 fine on Jerry Jones for an obscene gesture during a game highlights the league's stance on professionalism and conduct.",
       "exported_at": "2025-10-07T17:07:02.892869",
+      "continuous_session": true
+    },
+    {
+      "title": "Truth about AI, jobs and the future? &apos;No one knows anything,&apos; says Wharton expert Ethan Mollick",
+      "link": "https://www.cnbc.com/2025/10/07/generative-ai-knowledge-learning-jobs-education-skills-wharton-ethan-mollick.html",
+      "summary": "For all the rapid progress in gen AI, what we still don't know about artificial intelligence and the future is just about everything.",
+      "published": "Tue, 07 Oct 2025 21:15:54 GMT",
+      "content": "For all the rapid progress in gen AI, what we still don't know about artificial intelligence and the future is just about everything.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "dd3856dc211b0aa670bf74caad82189c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUTH ABOUT AI, JOBS, AND THE FUTURE? 'NO ONE KNOWS ANYTHING,' SAYS WHARTON EXPERT 🤖\n\n- Rapid progress in gen AI, yet uncertainty looms 🌐\n- Wharton expert Ethan Mollick emphasizes unknowns 🧠\n- Everything about AI's impact on future remains a mystery 🕵️‍♂️\n\nTAKEAWAY: The truth about AI, jobs, and the future is shrouded in uncertainty, with experts like Ethan Mollick highlighting the vast unknowns ahead.",
+      "exported_at": "2025-10-07T17:17:17.921683",
       "continuous_session": true
     }
   ]
