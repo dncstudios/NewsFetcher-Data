@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T15:24:43.888744",
-    "total_articles": 2351,
-    "new_articles_in_last_fetch": 2351,
+    "created_at": "2025-10-07T15:40:03.228606",
+    "total_articles": 2353,
+    "new_articles_in_last_fetch": 2353,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -30527,6 +30527,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: REPUBLICANS UNDER PRESSURE TO ADDRESS DEMOCRATS' HEALTHCARE DEMANDS ⚠️\n\n- Dems demand Obamacare subsidy extension in funding bill 🏥\n- Shutdown continues as both parties stand firm 🛑\n- Pressure mounts on Republicans to negotiate with Dems 💪\n\nTAKEAWAY: With Democrats insisting on Obamacare subsidy extension in funding legislation, Republicans face increasing pressure to consider their healthcare demands as the shutdown persists.",
       "exported_at": "2025-10-07T15:24:43.733844",
+      "continuous_session": true
+    },
+    {
+      "title": "Tesla prices Model Y standard below $40,000, debuting more affordable vehicle",
+      "link": "https://www.cnbc.com/2025/10/07/tesla-stock-roadster-budget-model-y.html",
+      "summary": "Tesla's Model Y standard SUV is priced just under $40,000 and Model 3 standard sedan around $37,000.",
+      "published": "Tue, 07 Oct 2025 19:35:29 GMT",
+      "content": "Tesla's Model Y standard SUV is priced just under $40,000 and Model 3 standard sedan around $37,000.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e56c91992b262780963006c1e64a0f7f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TESLA UNVEILS MODEL Y STANDARD BELOW $40,000 🚀\n\n- Tesla introduces Model Y standard SUV under $40,000 💰\n- New Model 3 standard sedan priced around $37,000 🚗\n- Aimed at making Tesla vehicles more affordable ✅\n\nTAKEAWAY: Tesla's move to offer Model Y standard below $40,000 and Model 3 standard sedan around $37,000 aims to make their vehicles more accessible to a wider market, potentially increasing sales and market share.",
+      "exported_at": "2025-10-07T15:40:03.068736",
+      "continuous_session": true
+    },
+    {
+      "title": "Healthy Returns: Amgen joins a growing list of drugmakers selling directly to consumers",
+      "link": "https://www.cnbc.com/2025/10/07/healthy-returns-amgen-other-drugmakers-launch-dtc-programs.html",
+      "summary": "Amgen is the latest drugmaker to sell certain drugs directly to consumers amid pressure from President Donald Trump. Meanwhile, Dr. Oz talks GLP-1s for obesity.",
+      "published": "Tue, 07 Oct 2025 19:31:48 GMT",
+      "content": "Amgen is the latest drugmaker to sell certain drugs directly to consumers amid pressure from President Donald Trump. Meanwhile, Dr. Oz talks GLP-1s for obesity.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f29d2171819d12d4f8abeb34deea917b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: HEALTHY RETURNS: AMGEN EMBRACES DIRECT-TO-CONSUMER SALES 🚀\n\n- Amgen joins drugmakers selling directly to consumers 💊\n- Pressure from President Trump triggers shift in industry 📈\n- Dr. Oz advocates GLP-1s for obesity treatment 💡\n\nTAKEAWAY: Amgen's move to sell drugs directly to consumers reflects industry trends influenced by President Trump, while Dr. Oz promotes GLP-1s for combating obesity.",
+      "exported_at": "2025-10-07T15:40:03.068808",
       "continuous_session": true
     }
   ]
