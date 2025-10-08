@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T16:07:04.142726",
-    "total_articles": 2459,
-    "new_articles_in_last_fetch": 2459,
+    "created_at": "2025-10-08T16:12:14.173319",
+    "total_articles": 2460,
+    "new_articles_in_last_fetch": 2460,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -31931,6 +31931,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: THESE BEATEN-DOWN STOCKS MAY FACE FURTHER DECLINE AS INVESTORS SELL TO SAVE ON TAXES 📉\n\n- Investors evaluating winners and losers as year-end nears 📊\n- Possibility of selling beaten-down stocks to save on taxes 💰\n- Potential further decline for these stocks, warns Morgan Stanley ⚠️\n\nTAKEAWAY: Year-end tax-saving strategies could lead to more selling pressure on already beaten-down stocks, potentially causing further decline.",
       "exported_at": "2025-10-08T16:07:04.115037",
+      "continuous_session": true
+    },
+    {
+      "title": "AMD stock continues rally after OpenAI deal, now up 43% this week so far",
+      "link": "https://www.cnbc.com/2025/10/08/amd-stock-rally-openai-deal.html",
+      "summary": "Investors took the partnership to mean that AMD could become a viable challenger to Nvidia's current top position in the AI chip market.",
+      "published": "Wed, 08 Oct 2025 20:06:06 GMT",
+      "content": "Investors took the partnership to mean that AMD could become a viable challenger to Nvidia's current top position in the AI chip market.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4b41f657193552d1e7714c92ce4f5c80",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AMD STOCK SOARS 43% THIS WEEK AFTER OPENAI DEAL 🚀\n\n- OpenAI deal propels AMD as potential Nvidia rival 🤖\n- Investors bullish on AMD's AI chip market prospects 📈\n- Stock rally signifies market confidence in AMD 🌟\n\nTAKEAWAY: AMD's stock surge of 43% this week, fueled by the OpenAI deal, positions the company as a strong contender against Nvidia in the AI chip market.",
+      "exported_at": "2025-10-08T16:12:14.145293",
       "continuous_session": true
     }
   ]
