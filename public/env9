@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T09:44:10.787848",
-    "total_articles": 2414,
-    "new_articles_in_last_fetch": 2414,
+    "created_at": "2025-10-08T09:59:28.425990",
+    "total_articles": 2415,
+    "new_articles_in_last_fetch": 2415,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -31346,6 +31346,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCK MARKET HITS RECORD HIGHS, BUT CONSUMER STOCKS LAGGING ⚠️\n\n- Market reaching new peaks, but consumer stocks left behind 📉\n- Consumer sector missing from recent record-breaking trend 📉\n- Discrepancy raises concerns about consumer confidence 🤔\n\nTAKEAWAY: While the stock market soars to new heights, the absence of consumer stocks signals potential issues with consumer confidence and spending.",
       "exported_at": "2025-10-08T09:44:10.760629",
+      "continuous_session": true
+    },
+    {
+      "title": "James Comey to be arraigned on criminal charges that Trump sought",
+      "link": "https://www.cnbc.com/2025/10/08/james-comey-arraignment-trump-fbi-congress.html",
+      "summary": "\"My family and I have known for years that there are costs to standing up to Donald Trump,\" former FBI Director James Comey said after being indicted.",
+      "published": "Wed, 08 Oct 2025 13:54:22 GMT",
+      "content": "\"My family and I have known for years that there are costs to standing up to Donald Trump,\" former FBI Director James Comey said after being indicted.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "166366824e740b732938f36af8356176",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JAMES COMEY FACES CRIMINAL CHARGES FOR STANDING UP TO TRUMP ⚠️\n\n- Comey indicted for standing against Trump's actions 👊\n- Charges highlight the costs of opposing the former president 💸\n- Legal battle ahead for the former FBI Director 🔍\n\nTAKEAWAY: James Comey's arraignment on criminal charges serves as a stark reminder of the consequences of standing up to powerful figures like Trump.",
+      "exported_at": "2025-10-08T09:59:28.398129",
       "continuous_session": true
     }
   ]
