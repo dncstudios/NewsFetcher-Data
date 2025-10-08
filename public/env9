@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T23:33:10.882973",
-    "total_articles": 2377,
-    "new_articles_in_last_fetch": 2377,
+    "created_at": "2025-10-08T01:45:00.387609",
+    "total_articles": 2378,
+    "new_articles_in_last_fetch": 2378,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -30865,6 +30865,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ASIA MARKETS MIXED AFTER WORLD BANK BOOST 🚀\n\n- Asia markets show mixed trading post World Bank's growth forecast hike 📈\n- Mainland China and South Korean markets closed for holidays 🏮\n- Investors eye regional growth with anticipation 🌏\n- Market sentiment varies among open markets 📈🔻\n- World Bank's forecast raises optimism in the region ✨\n- Holiday closures impact overall trading activity ⌛\n\nTAKEAWAY: Asia markets display mixed performance as World Bank's raised growth forecast fuels investor optimism, despite holiday closures affecting trading activity.",
       "exported_at": "2025-10-07T23:33:10.733142",
+      "continuous_session": true
+    },
+    {
+      "title": "France&apos;s political chaos throws its soaring debt and deficit into the spotlight",
+      "link": "https://www.cnbc.com/2025/10/08/nerves-jangle-in-europe-as-france-heads-into-another-political-crisis.html",
+      "summary": "Sébastien Lecornu is France's latest prime minister who has tried — and failed — to fix the country's budget deficit and debt problem.",
+      "published": "Wed, 08 Oct 2025 05:17:15 GMT",
+      "content": "Sébastien Lecornu is France's latest prime minister who has tried — and failed — to fix the country's budget deficit and debt problem.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e0bb50fd51e362bc491edebaaa6c5a07",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FRANCE'S DEBT AND DEFICIT UNDER SPOTLIGHT 🚨\n\n- Sébastien Lecornu fails to address France's budget deficit\n- Political chaos in France exacerbates debt issues 🌀\n- Rising concerns over the country's escalating debt levels 💸\n\nTAKEAWAY: France's political turmoil intensifies as Sébastien Lecornu's attempts to tackle the budget deficit and debt crisis falter, raising concerns over the country's financial stability.",
+      "exported_at": "2025-10-08T01:45:00.206211",
       "continuous_session": true
     }
   ]
