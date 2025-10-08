@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T07:51:30.904031",
-    "total_articles": 2398,
-    "new_articles_in_last_fetch": 2398,
+    "created_at": "2025-10-08T07:56:41.226121",
+    "total_articles": 2399,
+    "new_articles_in_last_fetch": 2399,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -31138,6 +31138,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FRANCE'S CRISIS DEEPENS WITH ALLIES DEFYING MACRON 🚨\n\n- Macron faces unexpected criticism from former ally Gabriel Attal\n- Attal, former Prime Minister, openly challenges Macron's leadership 🗣️\n- Defiance from once-loyal protégé creates internal turmoil 🌪️\n\nTAKEAWAY: France's crisis escalates as Macron's former protégé and allies openly defy him, adding to internal turmoil and challenges to his leadership.",
       "exported_at": "2025-10-08T07:51:30.736101",
+      "continuous_session": true
+    },
+    {
+      "title": "Verizon signs deal with AST SpaceMobile to provide cellular service from space. AST shares surge",
+      "link": "https://www.cnbc.com/2025/10/08/verizon-signs-deal-with-ast-spacemobile-to-provide-cellular-service-from-space.html",
+      "summary": "AST SpaceMobile announced a deal with Verizon to provide service from space beginning next year.",
+      "published": "Wed, 08 Oct 2025 11:54:02 GMT",
+      "content": "AST SpaceMobile announced a deal with Verizon to provide service from space beginning next year.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "bb3fe2dda5c0c18bfb99314754d8f30f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: VERIZON PARTNERS WITH AST SPACEMOBILE FOR SPACE CELLULAR SERVICE 🚀\n\n- Verizon collaborates with AST SpaceMobile for space service 🌌\n- AST SpaceMobile to offer cellular service from space in 2022 📡\n- Verizon's partnership leads to AST shares surging 📈\n\nTAKEAWAY: Verizon's groundbreaking partnership with AST SpaceMobile to provide cellular service from space in 2022 causes AST shares to surge, marking a significant step in space communication technology.",
+      "exported_at": "2025-10-08T07:56:41.062323",
       "continuous_session": true
     }
   ]
