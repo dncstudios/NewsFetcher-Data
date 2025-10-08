@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T13:28:54.167602",
-    "total_articles": 2444,
-    "new_articles_in_last_fetch": 2444,
+    "created_at": "2025-10-08T13:54:19.871089",
+    "total_articles": 2445,
+    "new_articles_in_last_fetch": 2445,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -31736,6 +31736,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SENATE VOTES ON FUNDING AMID SHUTDOWN 🚨\n\n- Senate re-votes on funding bills amidst government shutdown\n- President Trump and Republicans blame Democrats for healthcare demands\n- Democrats insist on health-care protections in funding bill\n\nTAKEAWAY: Senate faces pressure in re-voting on funding bills during the ongoing government shutdown, with Democrats advocating for healthcare protections.",
       "exported_at": "2025-10-08T13:28:54.006834",
+      "continuous_session": true
+    },
+    {
+      "title": "AMD&apos;s deal with OpenAI gives Nvidia much-needed challenger in market it dominates",
+      "link": "https://www.cnbc.com/2025/10/08/amd-deal-with-openai-gives-nvidia-a-needed-challenger-in-ai-chips.html",
+      "summary": "The last time AMD played the role of distant challenger Intel was the giant in semiconductors.",
+      "published": "Wed, 08 Oct 2025 17:35:47 GMT",
+      "content": "The last time AMD played the role of distant challenger Intel was the giant in semiconductors.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fdc2a8207488972414df9e842eaa403d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AMD'S OPENAI DEAL CHALLENGES NVIDIA'S DOMINANCE 🚀\n\n- AMD enters market dominated by Nvidia with OpenAI deal 💥\n- Nvidia faces challenge from AMD, a distant challenger before 🎯\n- Intel previously dominated the semiconductor market 📈\n\nTAKEAWAY: AMD's partnership with OpenAI shakes up Nvidia's market dominance, reminiscent of Intel's previous stronghold in semiconductors.",
+      "exported_at": "2025-10-08T13:54:19.692231",
       "continuous_session": true
     }
   ]
