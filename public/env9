@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T13:18:43.835063",
-    "total_articles": 2443,
-    "new_articles_in_last_fetch": 2443,
+    "created_at": "2025-10-08T13:28:54.167602",
+    "total_articles": 2444,
+    "new_articles_in_last_fetch": 2444,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -31723,6 +31723,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JOBY AVIATION SHARES DIP 11% ON $514M DISCOUNTED OFFERING 📉\n\n- Joby Aviation shares plummet over 11% post $514M share sale 💸\n- Electric air-taxi maker faces market downturn 📉\n- Investors react to discounted offering negatively 📉\n\nTAKEAWAY: Joby Aviation's stock takes a hit, dropping by over 11% following the pricing of a $514 million discounted share sale, leading to investor disappointment.",
       "exported_at": "2025-10-08T13:18:43.806117",
+      "continuous_session": true
+    },
+    {
+      "title": "Senate again rejects funding bills as government shutdown enters second week",
+      "link": "https://www.cnbc.com/2025/10/08/government-shutdown-senate-vote.html",
+      "summary": "President Donald Trump and Republicans accuse Democrats, who want any funding bill to include health-care protections, of holding the government hostage.",
+      "published": "Wed, 08 Oct 2025 17:28:38 GMT",
+      "content": "President Donald Trump and Republicans accuse Democrats, who want any funding bill to include health-care protections, of holding the government hostage.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d75b14cf4453365d8031a54dcb879cf7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SENATE VOTES ON FUNDING AMID SHUTDOWN 🚨\n\n- Senate re-votes on funding bills amidst government shutdown\n- President Trump and Republicans blame Democrats for healthcare demands\n- Democrats insist on health-care protections in funding bill\n\nTAKEAWAY: Senate faces pressure in re-voting on funding bills during the ongoing government shutdown, with Democrats advocating for healthcare protections.",
+      "exported_at": "2025-10-08T13:28:54.006834",
       "continuous_session": true
     }
   ]
