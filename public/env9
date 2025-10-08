@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T06:14:34.316443",
-    "total_articles": 2388,
-    "new_articles_in_last_fetch": 2388,
+    "created_at": "2025-10-08T06:19:42.839821",
+    "total_articles": 2390,
+    "new_articles_in_last_fetch": 2390,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -31008,6 +31008,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AUTO GIANT SHARES PLUNGE AS EU'S STEEL TARIFFS SPARK PANIC 🚨\n\n- Europe's top automakers witness share decline 📉\n- Industry fears EU's new steel import quota effects 🛑\n- Concerns rise over impact on automotive sector 🚗\n\nTAKEAWAY: European auto giants experience a significant decline in shares due to fears surrounding the European Union's new steel import quota plan, sparking industry-wide panic.",
       "exported_at": "2025-10-08T06:14:34.145613",
+      "continuous_session": true
+    },
+    {
+      "title": "Amazon launches prescription vending machines at One Medical clinics in Los Angeles",
+      "link": "https://www.cnbc.com/2025/10/08/amazon-debuts-prescription-kiosks-at-los-angeles-one-medical-clinics.html",
+      "summary": "The kiosks are operated by Amazon Pharmacy and stock a range of commonly prescribed medications, such as antibiotics, inhalers and blood pressure treatments.",
+      "published": "Wed, 08 Oct 2025 10:00:01 GMT",
+      "content": "The kiosks are operated by Amazon Pharmacy and stock a range of commonly prescribed medications, such as antibiotics, inhalers and blood pressure treatments.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f577201e4b8a5c792631cb481c240a6f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AMAZON DEBUTS PRESCRIPTION VENDING MACHINES AT ONE MEDICAL 🚀\n\n- Amazon Pharmacy's kiosks offer antibiotics, inhalers, blood pressure meds 🩺\n- Convenient access to commonly prescribed medications 🎯\n- Service available at One Medical clinics in Los Angeles 🌴\n- Vending machines operated by Amazon Pharmacy 🏥\n- Enhances healthcare accessibility and convenience for patients ✅\n\nTAKEAWAY: Amazon's launch of prescription vending machines at One Medical clinics in Los Angeles revolutionizes healthcare access, offering convenience and a wide range of medications to patients.",
+      "exported_at": "2025-10-08T06:19:42.812810",
+      "continuous_session": true
+    },
+    {
+      "title": "Don&apos;t trust AI jobs predictions, says Wharton expert Ethan Mollick: &apos;No one knows anything.&apos;",
+      "link": "https://www.cnbc.com/2025/10/07/generative-ai-knowledge-learning-jobs-education-skills-wharton-ethan-mollick.html",
+      "summary": "For all the rapid progress in gen AI, what we still don't know about artificial intelligence and the future is just about everything.",
+      "published": "Wed, 08 Oct 2025 10:18:22 GMT",
+      "content": "For all the rapid progress in gen AI, what we still don't know about artificial intelligence and the future is just about everything.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4dbbdaf3074860edaca17aa8d699df64",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUTH ABOUT AI, JOBS, AND THE FUTURE? 'NO ONE KNOWS ANYTHING,' SAYS WHARTON EXPERT 🤖\n\n- Rapid progress in gen AI, yet uncertainty looms 🌐\n- Wharton expert Ethan Mollick emphasizes unknowns 🧠\n- Everything about AI's impact on future remains a mystery 🕵️‍♂️\n\nTAKEAWAY: The truth about AI, jobs, and the future is shrouded in uncertainty, with experts like Ethan Mollick highlighting the vast unknowns ahead.",
+      "exported_at": "2025-10-08T06:19:42.812820",
       "continuous_session": true
     }
   ]
