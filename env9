@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T21:51:43.015847",
-    "total_articles": 2375,
-    "new_articles_in_last_fetch": 2375,
+    "created_at": "2025-10-07T22:57:40.388377",
+    "total_articles": 2376,
+    "new_articles_in_last_fetch": 2376,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -30839,6 +30839,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ASIA MARKETS MIXED AFTER WORLD BANK BOOST 🚀\n\n- Asia markets show mixed trading post World Bank's growth forecast hike 📈\n- Mainland China and South Korean markets closed for holidays 🏮\n- Investors eye regional growth with anticipation 🌏\n- Market sentiment varies among open markets 📈🔻\n- World Bank's forecast raises optimism in the region ✨\n- Holiday closures impact overall trading activity ⌛\n\nTAKEAWAY: Asia markets display mixed performance as World Bank's raised growth forecast fuels investor optimism, despite holiday closures affecting trading activity.",
       "exported_at": "2025-10-07T21:51:42.837821",
+      "continuous_session": true
+    },
+    {
+      "title": "New Zealand delivers outsized cut, bringing policy rate to over 3-year low in bid to boost growth",
+      "link": "https://www.cnbc.com/2025/10/08/new-zealand-rbnz-rate-cut.html",
+      "summary": "The RBNZ said the decision was due to \"significant spare capacity\" in the economy, pointing out that economic activity was weak in the middle of 2025.",
+      "published": "Wed, 08 Oct 2025 02:55:13 GMT",
+      "content": "The RBNZ said the decision was due to \"significant spare capacity\" in the economy, pointing out that economic activity was weak in the middle of 2025.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "13af8c654793a3cad64bc2621c9c39ab",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NEW ZEALAND SLASHES RATES TO 3-YEAR LOW TO BOOST GROWTH 🚀\n\n- RBNZ cuts policy rate citing \"significant spare capacity\" 📉\n- Move aims to boost growth in weak mid-2025 economy 📉\n- Policy rate now at over 3-year low to stimulate economy 📊\n\nTAKEAWAY: New Zealand's bold rate cut to a 3-year low aims to tackle economic weakness and stimulate growth in the mid-2025 economy.",
+      "exported_at": "2025-10-07T22:57:40.202654",
       "continuous_session": true
     }
   ]
