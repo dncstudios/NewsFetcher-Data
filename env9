@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T09:08:22.220020",
-    "total_articles": 2409,
-    "new_articles_in_last_fetch": 2409,
+    "created_at": "2025-10-08T09:18:35.223865",
+    "total_articles": 2410,
+    "new_articles_in_last_fetch": 2410,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -31281,6 +31281,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: COCOA PRICES PLUNGE TO 20-MONTH LOW, INVESTMENT BANKS WARN OF 'EXTREME' SELLOFF ⚠️\n\n- Cocoa futures hit 20-month low 📉\n- Investment banks caution against 'extreme' sell-off 💼\n- Prices continue sharp decline this week ⬇️\n\nTAKEAWAY: Cocoa prices plummet to a 20-month low, triggering warnings from investment banks about the potential risks of an 'extreme' sell-off.",
       "exported_at": "2025-10-08T09:08:22.058122",
+      "continuous_session": true
+    },
+    {
+      "title": "Nvidia&apos;s Huang says AI computing demand is up &apos;substantially&apos; in the last 6 months",
+      "link": "https://www.cnbc.com/2025/10/08/jensen-huang-nvidia-computing-demand.html",
+      "summary": "The scale of Nvidia's plans have raised doubts about whether the AI industry can secure the power needed to fuel its ambitions.",
+      "published": "Wed, 08 Oct 2025 13:15:48 GMT",
+      "content": "The scale of Nvidia's plans have raised doubts about whether the AI industry can secure the power needed to fuel its ambitions.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "85ed9c8fe63192fb6e6bee597ffa25a4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NVIDIA'S HUANG BOOSTS AI COMPUTING DEMAND 🚀\n\n- Demand for AI computing surges in past 6 months 📈\n- Nvidia's ambitious plans challenge industry's power supply ⚡️\n- Doubts arise on AI industry's ability to meet power needs ⚠️\n\nTAKEAWAY: Nvidia's CEO, Huang, highlights a substantial increase in AI computing demand, raising questions about the industry's power capabilities.",
+      "exported_at": "2025-10-08T09:18:35.079081",
       "continuous_session": true
     }
   ]
