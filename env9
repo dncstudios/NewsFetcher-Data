@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T12:22:18.071717",
-    "total_articles": 2435,
-    "new_articles_in_last_fetch": 2435,
+    "created_at": "2025-10-08T12:27:30.339467",
+    "total_articles": 2437,
+    "new_articles_in_last_fetch": 2437,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -31619,6 +31619,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: THE YEAR WITHOUT ARTIFICIAL CHRISTMAS TREES: IMPORTERS WARN OF HOLIDAY GOODS SHORTAGES 🚨\n\n- Major importer cautions about significant holiday goods scarcity 🎄\n- Start decorating early to avoid shortages 🌟\n- Prepare for potential lack of artificial Christmas trees 🌲\n- Importers issue warning for holiday décor scarcity 🚨\n- Holiday goods shortage alerts from major importers 🚨\n- Urgent call to start holiday decorating preparations early ⏰\n\nTAKEAWAY: Importers sound the alarm on potential shortages of artificial Christmas trees and other holiday goods, advising early preparation to avoid disappointment.",
       "exported_at": "2025-10-08T12:22:17.886913",
+      "continuous_session": true
+    },
+    {
+      "title": "This Wall Street strategist thinks small caps are ‘inferior.’ Where to pick your spots",
+      "link": "https://www.cnbc.com/2025/10/08/this-wall-street-strategist-thinks-small-caps-are-inferior-where-to-pick-your-spots.html",
+      "summary": "Small caps may have climbed to all-time highs, but investors shouldn't expect a repeat performance, according to Trivector Research.",
+      "published": "Wed, 08 Oct 2025 16:09:55 GMT",
+      "content": "Small caps may have climbed to all-time highs, but investors shouldn't expect a repeat performance, according to Trivector Research.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "cd9c1fd7f913e954f36f99920f8d4f8a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WALL STREET STRATEGIST DEEMS SMALL CAPS 'INFERIOR' 🚨\n\n- Small caps hit all-time highs, but not likely to repeat 📈\n- Trivector Research warns investors against high expectations 📉\n- Suggests being selective in small cap investments 🎯\n\nTAKEAWAY: Trivector Research cautions investors as small caps reach record highs, advising caution and selectivity in this market segment.",
+      "exported_at": "2025-10-08T12:27:30.159357",
+      "continuous_session": true
+    },
+    {
+      "title": "GM backtracks on plan to claim last-minute EV tax credits: Reuters",
+      "link": "https://www.cnbc.com/2025/10/08/gm-backtracks-on-plan-to-claim-last-minute-ev-tax-credits.html",
+      "summary": "GM opted to kill the program after Republican Sen. Bernie Moreno raised concerns about it, a person briefed on the matter told Reuters.",
+      "published": "Wed, 08 Oct 2025 16:14:31 GMT",
+      "content": "GM opted to kill the program after Republican Sen. Bernie Moreno raised concerns about it, a person briefed on the matter told Reuters.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4bc1e6616754dc674d6a2fe4e8369d21",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GM BACKTRACKS ON LAST-MINUTE EV TAX CREDITS CLAIM 🚨\n\n- GM cancels plan due to concerns raised by Sen. Bernie Moreno 🛑\n- Decision to kill program confirmed by insider source 🕵️‍♂️\n- Last-minute EV tax credits claim abandoned by GM 🚫\n\nTAKEAWAY: GM's sudden reversal on claiming last-minute EV tax credits follows concerns raised by Sen. Bernie Moreno, impacting their tax credit strategy.",
+      "exported_at": "2025-10-08T12:27:30.159423",
       "continuous_session": true
     }
   ]
