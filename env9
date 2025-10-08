@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T10:14:45.952657",
-    "total_articles": 2417,
-    "new_articles_in_last_fetch": 2417,
+    "created_at": "2025-10-08T10:25:07.262556",
+    "total_articles": 2420,
+    "new_articles_in_last_fetch": 2420,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -31385,6 +31385,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JAMES COMEY FACES CRIMINAL CHARGES FOR STANDING UP TO TRUMP ⚠️\n\n- Comey indicted for standing against Trump's actions 👊\n- Charges highlight the costs of opposing the former president 💸\n- Legal battle ahead for the former FBI Director 🔍\n\nTAKEAWAY: James Comey's arraignment on criminal charges serves as a stark reminder of the consequences of standing up to powerful figures like Trump.",
       "exported_at": "2025-10-08T10:14:45.786054",
+      "continuous_session": true
+    },
+    {
+      "title": "Nvidia&apos;s Huang says he&apos;s surprised AMD offered 10% of the company in &apos;clever&apos; OpenAI deal",
+      "link": "https://www.cnbc.com/2025/10/08/nvidia-huang-amd-open-ai.html",
+      "summary": "The deal includes a warrant for OpenAI to buy up to a 10% stake in AMD.",
+      "published": "Wed, 08 Oct 2025 14:22:01 GMT",
+      "content": "The deal includes a warrant for OpenAI to buy up to a 10% stake in AMD.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8dfe4279a051e9d83db8d739fd652466",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NVIDIA'S HUANG IMPRESSED BY AMD'S CLEVER OPENAI DEAL 🚀\n\n- AMD surprises with 10% stake offer to OpenAI 💡\n- OpenAI gains warrant to purchase up to 10% of AMD 🌟\n- Huang expresses surprise at AMD's strategic move 💥\n\nTAKEAWAY: AMD's strategic deal with OpenAI to offer a 10% stake surprises Nvidia's Huang, showcasing clever and bold strategic moves in the tech industry.",
+      "exported_at": "2025-10-08T10:25:07.087810",
+      "continuous_session": true
+    },
+    {
+      "title": "The year without artificial Christmas trees: Importers are warning of major holiday goods shortages",
+      "link": "https://www.cnbc.com/2025/10/08/holiday-decorations-christmas-shopping-goods-shortages.html",
+      "summary": "If you are preparing to decorate your home for the holidays, start early, with a major importer of decorative holiday goods warning about major shortages.",
+      "published": "Wed, 08 Oct 2025 14:24:14 GMT",
+      "content": "If you are preparing to decorate your home for the holidays, start early, with a major importer of decorative holiday goods warning about major shortages.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "33e2309280c89c5996bd996700e80b43",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: THE YEAR WITHOUT ARTIFICIAL CHRISTMAS TREES: IMPORTERS WARN OF HOLIDAY GOODS SHORTAGES 🚨\n\n- Major importer cautions about significant holiday goods scarcity 🎄\n- Start decorating early to avoid shortages 🌟\n- Prepare for potential lack of artificial Christmas trees 🌲\n- Importers issue warning for holiday décor scarcity 🚨\n- Holiday goods shortage alerts from major importers 🚨\n- Urgent call to start holiday decorating preparations early ⏰\n\nTAKEAWAY: Importers sound the alarm on potential shortages of artificial Christmas trees and other holiday goods, advising early preparation to avoid disappointment.",
+      "exported_at": "2025-10-08T10:25:07.087882",
+      "continuous_session": true
+    },
+    {
+      "title": "Why a capital gains tax change in Trump&apos;s new bill may be boon to business founders, early employee wealth",
+      "link": "https://www.cnbc.com/2025/10/08/trump-tax-law-capital-gains-stock-founders-startup-wealth.html",
+      "summary": "A tax change in President Trump's One Big Beautiful Bill may help startup founders, investors and early employees keep more of their company stock income.",
+      "published": "Wed, 08 Oct 2025 14:17:19 GMT",
+      "content": "A tax change in President Trump's One Big Beautiful Bill may help startup founders, investors and early employees keep more of their company stock income.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "29f88bc4f203ade82fe44537ce22289b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP'S TAX CHANGE TO BOOST STARTUP WEALTH 🚀\n\n- Capital gains tax change in Trump's bill benefits startup founders\n- Investors and early employees to retain more company stock income 💰\n- Potential increase in wealth for business founders and employees\n\nTAKEAWAY: Trump's new tax change in the bill could lead to a significant boost in wealth for startup founders, investors, and early employees. 💸",
+      "exported_at": "2025-10-08T10:25:07.087898",
       "continuous_session": true
     }
   ]
