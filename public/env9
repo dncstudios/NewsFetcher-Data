@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T16:12:14.173319",
-    "total_articles": 2460,
-    "new_articles_in_last_fetch": 2460,
+    "created_at": "2025-10-08T16:52:52.638838",
+    "total_articles": 2461,
+    "new_articles_in_last_fetch": 2461,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -31944,6 +31944,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AMD STOCK SOARS 43% THIS WEEK AFTER OPENAI DEAL 🚀\n\n- OpenAI deal propels AMD as potential Nvidia rival 🤖\n- Investors bullish on AMD's AI chip market prospects 📈\n- Stock rally signifies market confidence in AMD 🌟\n\nTAKEAWAY: AMD's stock surge of 43% this week, fueled by the OpenAI deal, positions the company as a strong contender against Nvidia in the AI chip market.",
       "exported_at": "2025-10-08T16:12:14.145293",
+      "continuous_session": true
+    },
+    {
+      "title": "Santoli&apos;s Wednesday market wrap-up: The usual flag carriers of the AI boom push S&amp;P 500 to new highs",
+      "link": "https://www.cnbc.com/2025/10/08/santolis-wednesday-market-wrap-up-the-usual-flag-carriers-of-the-ai-boom-push-sp-500-to-new-highs.html",
+      "summary": "While stocks tied to the AI buildout are booming, those closer to the here-and-now consumer remain sluggish.",
+      "published": "Wed, 08 Oct 2025 20:41:31 GMT",
+      "content": "While stocks tied to the AI buildout are booming, those closer to the here-and-now consumer remain sluggish.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d9d583024153a39e4ce42bf0fc676b6f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SANTOLI'S WEDNESDAY MARKET WRAP-UP: AI FLAG CARRIERS LIFT S&P 500 TO NEW HIGHS 🚀\n\n- AI sector propels S&P 500 to record highs 📈\n- Consumer-related stocks show slower growth 🐢\n- Market dominated by AI-driven companies 🤖\n- AI buildout stocks outperform consumer sector 📈\n- S&P 500 benefits from AI boom 🚀\n- Consumer stocks lag behind AI counterparts 📉\n\nTAKEAWAY: The AI boom continues to drive the market to new highs, with AI flag carriers outperforming consumer-focused stocks.",
+      "exported_at": "2025-10-08T16:52:52.611362",
       "continuous_session": true
     }
   ]
