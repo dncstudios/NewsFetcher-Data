@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T19:05:08.485634",
-    "total_articles": 2466,
-    "new_articles_in_last_fetch": 2466,
+    "created_at": "2025-10-08T19:25:26.927101",
+    "total_articles": 2467,
+    "new_articles_in_last_fetch": 2467,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -32022,6 +32022,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ISRAEL, HAMAS AGREE ON PEACE PLAN PHASE, TRUMP ANNOUNCES 🚀\n\n- Israel, Hamas reach agreement on \"first phase\" of peace plan ✅\n- Deal involves halting fighting and releasing hostages, prisoners 🕊️\n- U.S. President Donald Trump announces the breakthrough 🇺🇸\n- Details of the agreement's terms not disclosed 🤐\n\nTAKEAWAY: Israel and Hamas take a step towards peace as they agree on the \"first phase\" of a plan to halt fighting and release hostages and prisoners, with U.S. President Trump facilitating the breakthrough.",
       "exported_at": "2025-10-08T19:05:08.457842",
+      "continuous_session": true
+    },
+    {
+      "title": "Israel and Hamas agree to ‘first phase’ of plan to end fighting and release hostages, Trump says",
+      "link": "https://www.cnbc.com/2025/10/08/israel-hamas-reach-agreement-on-first-phase-of-plan-to-stop-fighting-release-hostages-and-prisoners-trump-says.html",
+      "summary": "Israel and Hamas have agreed to the \"first phase\" of his peace plan to pause fighting and release at least some hostages and prisoners, U.S. President Donald Trump said Wednesday.",
+      "published": "Wed, 08 Oct 2025 23:20:32 GMT",
+      "content": "Israel and Hamas have agreed to the \"first phase\" of his peace plan to pause fighting and release at least some hostages and prisoners, U.S. President Donald Trump said Wednesday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2b86f2fc31cc36022f9aa656c6414e8d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ISRAEL, HAMAS AGREE ON PEACE PLAN PHASE, TRUMP ANNOUNCES 🚀\n\n- Israel, Hamas reach agreement on \"first phase\" of peace plan ✅\n- Deal involves halting fighting and releasing hostages, prisoners 🕊️\n- U.S. President Donald Trump announces the breakthrough 🇺🇸\n- Details of the agreement's terms not disclosed 🤐\n\nTAKEAWAY: Israel and Hamas take a step towards peace as they agree on the \"first phase\" of a plan to halt fighting and release hostages and prisoners, with U.S. President Trump facilitating the breakthrough.",
+      "exported_at": "2025-10-08T19:25:26.780538",
       "continuous_session": true
     }
   ]
