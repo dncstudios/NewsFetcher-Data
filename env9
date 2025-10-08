@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T22:57:40.388377",
-    "total_articles": 2376,
-    "new_articles_in_last_fetch": 2376,
+    "created_at": "2025-10-07T23:33:10.882973",
+    "total_articles": 2377,
+    "new_articles_in_last_fetch": 2377,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -30852,6 +30852,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NEW ZEALAND SLASHES RATES TO 3-YEAR LOW TO BOOST GROWTH 🚀\n\n- RBNZ cuts policy rate citing \"significant spare capacity\" 📉\n- Move aims to boost growth in weak mid-2025 economy 📉\n- Policy rate now at over 3-year low to stimulate economy 📊\n\nTAKEAWAY: New Zealand's bold rate cut to a 3-year low aims to tackle economic weakness and stimulate growth in the mid-2025 economy.",
       "exported_at": "2025-10-07T22:57:40.202654",
+      "continuous_session": true
+    },
+    {
+      "title": "Spot gold prices hit $4,000 for the first time as global uncertainty fuels safe-haven demand",
+      "link": "https://www.cnbc.com/2025/10/08/asia-pacific-markets-wednesday-nikkei-225-hang-seng-index.html",
+      "summary": "Mainland China and South Korean markets are closed for the holidays.",
+      "published": "Wed, 08 Oct 2025 03:30:56 GMT",
+      "content": "Mainland China and South Korean markets are closed for the holidays.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5747b29e87369f0fb1d6e0e0ccfb6cac",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASIA MARKETS MIXED AFTER WORLD BANK BOOST 🚀\n\n- Asia markets show mixed trading post World Bank's growth forecast hike 📈\n- Mainland China and South Korean markets closed for holidays 🏮\n- Investors eye regional growth with anticipation 🌏\n- Market sentiment varies among open markets 📈🔻\n- World Bank's forecast raises optimism in the region ✨\n- Holiday closures impact overall trading activity ⌛\n\nTAKEAWAY: Asia markets display mixed performance as World Bank's raised growth forecast fuels investor optimism, despite holiday closures affecting trading activity.",
+      "exported_at": "2025-10-07T23:33:10.733142",
       "continuous_session": true
     }
   ]
