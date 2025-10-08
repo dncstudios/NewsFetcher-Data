@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T02:00:18.902855",
-    "total_articles": 2379,
-    "new_articles_in_last_fetch": 2379,
+    "created_at": "2025-10-08T02:30:48.700477",
+    "total_articles": 2380,
+    "new_articles_in_last_fetch": 2380,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -30891,6 +30891,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: EUROPEAN MARKETS FACE LACKLUSTER OPEN AMID CHALLENGING WEEK 🚨\n\n- European stocks predicted to open flat on Wednesday 📉\n- Markets lack direction during a tough week for the region 🌍\n- Uncertainty looms over European market performance 🤷‍♂️\n\nTAKEAWAY: European markets anticipate a lackluster open amidst a challenging week, with uncertainty adding to the market's directionless state.",
       "exported_at": "2025-10-08T02:00:18.731544",
+      "continuous_session": true
+    },
+    {
+      "title": "SoftBank to buy ABB robotics unit for $5.4 billion as it boosts its AI play",
+      "link": "https://www.cnbc.com/2025/10/08/softbank-to-buy-abb-robotics-unit-for-5point4-billion-in-ai-push.html",
+      "summary": "SoftBank Group on Monday said it had agreed to buy the robotics division of Swiss engineering firm ABB for $5.4 billion.",
+      "published": "Wed, 08 Oct 2025 06:27:29 GMT",
+      "content": "SoftBank Group on Monday said it had agreed to buy the robotics division of Swiss engineering firm ABB for $5.4 billion.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f494ca79d7cccf3fe3fc191a540df404",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SOFTBANK ACQUIRES ABB ROBOTICS UNIT FOR $5.4 BILLION 🤖💰\n\n- SoftBank seals deal to purchase ABB's robotics division 🤝\n- Acquisition part of SoftBank's strategy to enhance AI presence 🤖📈\n- $5.4 billion investment signals confidence in robotics sector 💪\n- Move aligns with SoftBank's focus on innovative technologies 🔝\n- ABB's robotics unit acquisition to boost SoftBank's AI capabilities 🚀\n- Deal strengthens SoftBank's position in the competitive market 💥\n\nTAKEAWAY: SoftBank's $5.4 billion acquisition of ABB's robotics division solidifies their commitment to advancing AI technologies and enhances their competitive edge in the market.",
+      "exported_at": "2025-10-08T02:30:48.531338",
       "continuous_session": true
     }
   ]
