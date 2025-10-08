@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T05:43:46.969543",
-    "total_articles": 2386,
-    "new_articles_in_last_fetch": 2386,
+    "created_at": "2025-10-08T05:59:10.437339",
+    "total_articles": 2387,
+    "new_articles_in_last_fetch": 2387,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -30982,6 +30982,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: 'CONTRACTING WORKFORCE' CREATES TALENT CHALLENGE, EXPERT WARNS ⚠️\n\n- Retirees outnumber young workers, shrinking available talent pool 📉\n- Companies face impending talent shortage and recruitment hurdles 🚧\n- Workforce contraction poses a significant challenge for businesses 💼\n\nTAKEAWAY: The impending contracting workforce due to retirees surpassing young workers will present a daunting talent challenge for companies, requiring strategic solutions.",
       "exported_at": "2025-10-08T05:43:46.942312",
+      "continuous_session": true
+    },
+    {
+      "title": "Stock futures rise slightly after S&amp;P 500 snaps 7-day win streak: Live updates",
+      "link": "https://www.cnbc.com/2025/10/07/stock-market-today-live-updates.html",
+      "summary": "A drop in Oracle on Tuesday called to question the sustainability of the artificial intelligence trade.",
+      "published": "Wed, 08 Oct 2025 09:55:14 GMT",
+      "content": "A drop in Oracle on Tuesday called to question the sustainability of the artificial intelligence trade.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5772015009f7ba01f3b0102e2002cc5a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK FUTURES STABLE DESPITE S&P 500 ENDING WIN STREAK 📉\n\n- S&P 500 snaps 7-day win streak, causing minor impact on stock futures 📉\n- Oracle's drop raises concerns about AI trade sustainability 🤔\n- Market shows stability despite recent fluctuations 📊\n\nTAKEAWAY: Despite S&P 500 ending its win streak and Oracle's drop questioning AI trade sustainability, stock futures remain stable, showing market resilience.",
+      "exported_at": "2025-10-08T05:59:10.284798",
       "continuous_session": true
     }
   ]
