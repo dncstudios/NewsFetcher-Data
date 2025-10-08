@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T08:42:51.437944",
-    "total_articles": 2406,
-    "new_articles_in_last_fetch": 2406,
+    "created_at": "2025-10-08T09:08:22.220020",
+    "total_articles": 2409,
+    "new_articles_in_last_fetch": 2409,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -31242,6 +31242,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BUY SIGNAL ALERT: DEFENSE GIANT UPGRADED BY DEUTSCHE BANK 🚀\n\n- Deutsche Bank upgrades aerospace and defense stock to BUY 📈\n- Long-term prospects of the company seen as improving 🌟\n- Investor confidence likely to rise with the upgrade ✅\n- Positive outlook on the defense sector 🎯\n- Potential for growth and profitability in the long term 💰\n- Market anticipating increased performance from the stock 📈\n\nTAKEAWAY: Deutsche Bank's upgrade of the defense giant signals improved long-term prospects, boosting investor confidence and market expectations.",
       "exported_at": "2025-10-08T08:42:51.261739",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: AST SpaceMobile, Joby, Trilogy Metals, Rocket Lab and more",
+      "link": "https://www.cnbc.com/2025/10/08/stocks-making-the-biggest-moves-premarket-asts-joby-tmq.html",
+      "summary": "These are the stocks posting the largest moves in premarket trading.",
+      "published": "Wed, 08 Oct 2025 12:58:16 GMT",
+      "content": "These are the stocks posting the largest moves in premarket trading.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "51c66f0645ccbd1f1759c0ed85849916",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS MAKING BIGGEST PREMARKET MOVES 🚀\n\n- AST SpaceMobile, Joby, Trilogy Metals, Rocket Lab on the rise 📈\n- Pre-market trading sees significant activity 📊\n- Investors eyeing potential growth opportunities 💰\n\nTAKEAWAY: AST SpaceMobile, Joby, Trilogy Metals, and Rocket Lab are among the top stocks showing substantial movement in premarket trading, attracting investor attention for potential gains.",
+      "exported_at": "2025-10-08T09:08:22.057979",
+      "continuous_session": true
+    },
+    {
+      "title": "Jim Cramer&apos;s top 10 things to watch in the stock market Wednesday",
+      "link": "https://www.cnbc.com/2025/10/08/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
+      "summary": "Nvidia CEO Jensen Huang came to Oracle's defense, and the move in Oklo makes little sense.",
+      "published": "Wed, 08 Oct 2025 12:57:57 GMT",
+      "content": "Nvidia CEO Jensen Huang came to Oracle's defense, and the move in Oklo makes little sense.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "02922b45424c158bf55bf5af98b21ecd",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JIM CRAMER'S TOP 10 STOCK MARKET WATCHES WEDNESDAY 🚀\n\n- Nvidia CEO defends Oracle amidst market fluctuations 🛡️\n- Oklo's market movement appears puzzling 🤔\n\nTAKEAWAY: Stay tuned for Jim Cramer's insights on Nvidia's defense of Oracle and the curious market behavior of Oklo.",
+      "exported_at": "2025-10-08T09:08:22.058096",
+      "continuous_session": true
+    },
+    {
+      "title": "Cocoa prices plunge to 20-month low — but investment banks warn ‘extreme’ sell-off could create problems",
+      "link": "https://www.cnbc.com/2025/10/08/cocoa-prices-plunge-as-investment-banks-warn-of-extreme-sell-off.html",
+      "summary": "Cocoa futures extended losses this week after moving sharply lower.",
+      "published": "Wed, 08 Oct 2025 13:00:55 GMT",
+      "content": "Cocoa futures extended losses this week after moving sharply lower.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f2d6b7bd0bda6009e93f6098b8548be7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: COCOA PRICES PLUNGE TO 20-MONTH LOW, INVESTMENT BANKS WARN OF 'EXTREME' SELLOFF ⚠️\n\n- Cocoa futures hit 20-month low 📉\n- Investment banks caution against 'extreme' sell-off 💼\n- Prices continue sharp decline this week ⬇️\n\nTAKEAWAY: Cocoa prices plummet to a 20-month low, triggering warnings from investment banks about the potential risks of an 'extreme' sell-off.",
+      "exported_at": "2025-10-08T09:08:22.058122",
       "continuous_session": true
     }
   ]
