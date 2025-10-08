@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T20:50:51.802120",
-    "total_articles": 2374,
-    "new_articles_in_last_fetch": 2374,
+    "created_at": "2025-10-07T21:51:43.015847",
+    "total_articles": 2375,
+    "new_articles_in_last_fetch": 2375,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -30826,6 +30826,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: THE GLOBAL M&A ENGINE ROARS WITH $3.4 TRILLION DEAL VALUE ⚡️\n\n- Global M&A hits $3.4 trillion, up 32% YoY 📈\n- Strongest performance since 2021 🌍\n- Megadeals and rate-cut bets fuel the M&A surge 🔥\n\nTAKEAWAY: The global M&A market is on fire with a significant $3.4 trillion deal value, driven by megadeals and rate-cut expectations.",
       "exported_at": "2025-10-07T20:50:51.635464",
+      "continuous_session": true
+    },
+    {
+      "title": "Chinese pharma company CF PharmTech surges 224% in Hong Kong trading debut",
+      "link": "https://www.cnbc.com/2025/10/08/asia-pacific-markets-wednesday-nikkei-225-hang-seng-index.html",
+      "summary": "Mainland China and South Korean markets are closed for the holidays.",
+      "published": "Wed, 08 Oct 2025 01:49:48 GMT",
+      "content": "Mainland China and South Korean markets are closed for the holidays.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4850649c52cd980c7dbdf1175b754e4c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASIA MARKETS MIXED AFTER WORLD BANK BOOST 🚀\n\n- Asia markets show mixed trading post World Bank's growth forecast hike 📈\n- Mainland China and South Korean markets closed for holidays 🏮\n- Investors eye regional growth with anticipation 🌏\n- Market sentiment varies among open markets 📈🔻\n- World Bank's forecast raises optimism in the region ✨\n- Holiday closures impact overall trading activity ⌛\n\nTAKEAWAY: Asia markets display mixed performance as World Bank's raised growth forecast fuels investor optimism, despite holiday closures affecting trading activity.",
+      "exported_at": "2025-10-07T21:51:42.837821",
       "continuous_session": true
     }
   ]
