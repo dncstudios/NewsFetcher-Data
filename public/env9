@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T08:22:17.849194",
-    "total_articles": 2403,
-    "new_articles_in_last_fetch": 2403,
+    "created_at": "2025-10-08T08:27:28.218421",
+    "total_articles": 2404,
+    "new_articles_in_last_fetch": 2404,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -31203,6 +31203,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: IRS' 'BEST-KEPT SECRET' FOR RETIREES: BOOST TAX BREAKS WITH QCD 🌟\n\n- Retirees can maximize tax breaks with Qualified Charitable Distribution (QCD) 💰\n- QCD allows tax-efficient charitable giving 🎯\n- Strategy benefits retirees planning to donate to charity 🌟\n- Secure bigger tax breaks by utilizing QCD 🚀\n- Advisor recommends QCD as a tax-efficient option for retirees 📈\n\nTAKEAWAY: Leveraging Qualified Charitable Distribution (QCD) can help retirees maximize tax benefits and optimize their charitable giving strategies.",
       "exported_at": "2025-10-08T08:22:17.670387",
+      "continuous_session": true
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang: Surprised AMD gave away 10% of the company in &apos;clever&apos; OpenAI deal",
+      "link": "https://www.cnbc.com/video/2025/10/08/nvidia-ceo-jensen-huang-surprised-amd-gave-away-10-percent-of-the-company-in-clever-openai-deal.html",
+      "summary": "Nvidia CEO Jensen Huang joins 'Squawk Box' to discuss details of the company's partnership with OpenAI, his thoughts on OpenAI's deal with AMD, state of the AI tech race, the promise of AI technology, and more.",
+      "published": "Wed, 08 Oct 2025 12:21:06 GMT",
+      "content": "Nvidia CEO Jensen Huang joins 'Squawk Box' to discuss details of the company's partnership with OpenAI, his thoughts on OpenAI's deal with AMD, state of the AI tech race, the promise of AI technology, and more.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "66e0538211d8a06091ac438dc5956bc2",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NVIDIA CEO JENSEN HUANG DISCUSSES OPENAI DEAL WITH AMD 🚀\n\n- Huang surprised by AMD giving away 10% in OpenAI deal\n- Partnership details with OpenAI on 'Squawk Box'\n- Huang's view on the current state of the AI tech race\n- Emphasis on the promise of AI technology and its impact\n\nTAKEAWAY: Nvidia's CEO Jensen Huang's insights on the OpenAI deal with AMD reveal surprises and shed light on the evolving landscape of AI technology.",
+      "exported_at": "2025-10-08T08:27:28.061895",
       "continuous_session": true
     }
   ]
