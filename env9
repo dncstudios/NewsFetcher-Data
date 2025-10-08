@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T20:10:08.870347",
-    "total_articles": 2372,
-    "new_articles_in_last_fetch": 2372,
+    "created_at": "2025-10-07T20:15:18.136287",
+    "total_articles": 2373,
+    "new_articles_in_last_fetch": 2373,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -30800,6 +30800,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ASIA MARKETS MIXED AFTER WORLD BANK BOOST 🚀\n\n- Asia markets show mixed trading post World Bank's growth forecast hike 📈\n- Mainland China and South Korean markets closed for holidays 🏮\n- Investors eye regional growth with anticipation 🌏\n- Market sentiment varies among open markets 📈🔻\n- World Bank's forecast raises optimism in the region ✨\n- Holiday closures impact overall trading activity ⌛\n\nTAKEAWAY: Asia markets display mixed performance as World Bank's raised growth forecast fuels investor optimism, despite holiday closures affecting trading activity.",
       "exported_at": "2025-10-07T20:10:08.706367",
+      "continuous_session": true
+    },
+    {
+      "title": "Intel to reveal tech details on forthcoming PC chip, sources say: Reuters",
+      "link": "https://www.cnbc.com/2025/10/07/intel-to-reveal-tech-details-on-forthcoming-pc-chip-sources-say-reuters.html",
+      "summary": "Intel plans to release technical details about its forthcoming chip for laptops, known as Panther Lake, on Thursday, four sources briefed on the plans told Reuters.",
+      "published": "Wed, 08 Oct 2025 00:05:26 GMT",
+      "content": "Intel plans to release technical details about its forthcoming chip for laptops, known as Panther Lake, on Thursday, four sources briefed on the plans told Reuters.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a3529e2338e8b2c37f05e0a11ecea37f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: INTEL SET TO UNVEIL TECH DETAILS OF PANTHER LAKE PC CHIP 🚀\n\n- Intel to disclose technical details of Panther Lake chip for laptops 💻\n- Anticipation builds as release date set for Thursday ⏰\n- Four sources confirm the upcoming chip reveal to Reuters ✅\n- Panther Lake chip expected to bring notable advancements 🌟\n\nTAKEAWAY: Intel's imminent unveiling of Panther Lake's technical details for laptops stirs excitement and anticipation in the tech industry.",
+      "exported_at": "2025-10-07T20:15:17.978154",
       "continuous_session": true
     }
   ]
