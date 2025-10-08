@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T16:52:52.638838",
-    "total_articles": 2461,
-    "new_articles_in_last_fetch": 2461,
+    "created_at": "2025-10-08T17:23:22.610484",
+    "total_articles": 2462,
+    "new_articles_in_last_fetch": 2462,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -31957,6 +31957,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SANTOLI'S WEDNESDAY MARKET WRAP-UP: AI FLAG CARRIERS LIFT S&P 500 TO NEW HIGHS 🚀\n\n- AI sector propels S&P 500 to record highs 📈\n- Consumer-related stocks show slower growth 🐢\n- Market dominated by AI-driven companies 🤖\n- AI buildout stocks outperform consumer sector 📈\n- S&P 500 benefits from AI boom 🚀\n- Consumer stocks lag behind AI counterparts 📉\n\nTAKEAWAY: The AI boom continues to drive the market to new highs, with AI flag carriers outperforming consumer-focused stocks.",
       "exported_at": "2025-10-08T16:52:52.611362",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump says he may go to Egypt soon for Gaza deal",
+      "link": "https://www.cnbc.com/2025/10/08/trump-says-he-may-go-to-egypt-soon-for-gaza-deal.html",
+      "summary": "President Donald Trump said on Wednesday he may travel to Egypt this weekend as his negotiators seek to seal a Gaza hostages-for-ceasefire deal.",
+      "published": "Wed, 08 Oct 2025 21:17:10 GMT",
+      "content": "President Donald Trump said on Wednesday he may travel to Egypt this weekend as his negotiators seek to seal a Gaza hostages-for-ceasefire deal.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ea620b535a1779f9ad6da94ad6b544e1",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP EYES EGYPT TRIP FOR GAZA DEAL 🚀\n\n- Trump considers Egypt visit this weekend for Gaza hostages-for-ceasefire pact ✈️\n- Negotiators working to finalize agreement for peace in Gaza 🕊️\n- Potential trip indicates high-level commitment to resolving Gaza crisis 💪\n\nTAKEAWAY: Trump's potential visit to Egypt shows determination to secure a hostages-for-ceasefire deal in Gaza, signaling a strong push for peace in the region.",
+      "exported_at": "2025-10-08T17:23:22.583320",
       "continuous_session": true
     }
   ]
