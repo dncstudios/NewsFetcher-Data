@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T09:28:48.290251",
-    "total_articles": 2411,
-    "new_articles_in_last_fetch": 2411,
+    "created_at": "2025-10-08T09:39:01.069819",
+    "total_articles": 2413,
+    "new_articles_in_last_fetch": 2413,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -31307,6 +31307,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BANK OF ENGLAND WARNS OF 'SHARP MARKET CORRECTION' IF AI BUBBLE BURSTS ⚠️\n\n- Bank of England alerts about potential sharp market correction 📉\n- Risk heightened due to stretched AI-related valuations 💰\n- Concerns grow over the possibility of an AI bubble burst 💥\n\nTAKEAWAY: Bank of England's caution on a potential sharp market correction emphasizes the risks associated with inflated AI-related valuations.",
       "exported_at": "2025-10-08T09:28:48.133319",
+      "continuous_session": true
+    },
+    {
+      "title": "Nvidia shares rise after CEO Huang says AI computing demand is up &apos;substantially&apos;",
+      "link": "https://www.cnbc.com/2025/10/08/jensen-huang-nvidia-computing-demand.html",
+      "summary": "The scale of Nvidia's plans have raised doubts about whether the AI industry can secure the power needed to fuel its ambitions.",
+      "published": "Wed, 08 Oct 2025 13:38:41 GMT",
+      "content": "The scale of Nvidia's plans have raised doubts about whether the AI industry can secure the power needed to fuel its ambitions.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a92648703480cd06deb1165e836b504a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NVIDIA'S HUANG BOOSTS AI COMPUTING DEMAND 🚀\n\n- Demand for AI computing surges in past 6 months 📈\n- Nvidia's ambitious plans challenge industry's power supply ⚡️\n- Doubts arise on AI industry's ability to meet power needs ⚠️\n\nTAKEAWAY: Nvidia's CEO, Huang, highlights a substantial increase in AI computing demand, raising questions about the industry's power capabilities.",
+      "exported_at": "2025-10-08T09:39:00.911931",
+      "continuous_session": true
+    },
+    {
+      "title": "Auto giant shares tumble as European Union&apos;s new steel tariffs spark industry panic",
+      "link": "https://www.cnbc.com/2025/10/08/auto-giants-tumble-as-eus-new-steel-tariffs-spark-industry-panic.html",
+      "summary": "Shares of Europe’s biggest automakers fell Wednesday, amid industry concern about the impact of the European Union’s new steel import quota plan.",
+      "published": "Wed, 08 Oct 2025 13:33:54 GMT",
+      "content": "Shares of Europe’s biggest automakers fell Wednesday, amid industry concern about the impact of the European Union’s new steel import quota plan.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a04259be2474f862728048424b906064",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AUTO GIANT SHARES PLUNGE AS EU'S STEEL TARIFFS SPARK PANIC 🚨\n\n- Europe's top automakers see shares drop post EU steel import quota news\n- Industry fears grow over potential impact on auto sector\n- Uncertainty looms as new tariffs create panic among investors\n\nTAKEAWAY: European auto industry faces turmoil as EU's steel tariffs trigger a sharp decline in major automakers' shares, raising concerns about the sector's future.",
+      "exported_at": "2025-10-08T09:39:00.911986",
       "continuous_session": true
     }
   ]
