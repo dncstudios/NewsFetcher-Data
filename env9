@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T11:11:11.056279",
-    "total_articles": 2432,
-    "new_articles_in_last_fetch": 2432,
+    "created_at": "2025-10-08T11:21:21.765800",
+    "total_articles": 2433,
+    "new_articles_in_last_fetch": 2433,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -31580,6 +31580,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JAMES COMEY FACES CRIMINAL CHARGES FOR STANDING UP TO TRUMP ⚠️\n\n- Comey indicted for standing against Trump's actions 👊\n- Charges highlight the costs of opposing the former president 💸\n- Legal battle ahead for the former FBI Director 🔍\n\nTAKEAWAY: James Comey's arraignment on criminal charges serves as a stark reminder of the consequences of standing up to powerful figures like Trump.",
       "exported_at": "2025-10-08T11:11:10.885412",
+      "continuous_session": true
+    },
+    {
+      "title": "Prepare for Christmas tree shortage across America, as major importer warns of holiday goods shortages",
+      "link": "https://www.cnbc.com/2025/10/08/holiday-decorations-christmas-shopping-goods-shortages.html",
+      "summary": "If you are preparing to decorate your home for the holidays, start early, with a major importer of decorative holiday goods warning about major shortages.",
+      "published": "Wed, 08 Oct 2025 15:18:09 GMT",
+      "content": "If you are preparing to decorate your home for the holidays, start early, with a major importer of decorative holiday goods warning about major shortages.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "02e361a90b1e5d2557533db185d6ce1c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: THE YEAR WITHOUT ARTIFICIAL CHRISTMAS TREES: IMPORTERS WARN OF HOLIDAY GOODS SHORTAGES 🚨\n\n- Major importer cautions about significant holiday goods scarcity 🎄\n- Start decorating early to avoid shortages 🌟\n- Prepare for potential lack of artificial Christmas trees 🌲\n- Importers issue warning for holiday décor scarcity 🚨\n- Holiday goods shortage alerts from major importers 🚨\n- Urgent call to start holiday decorating preparations early ⏰\n\nTAKEAWAY: Importers sound the alarm on potential shortages of artificial Christmas trees and other holiday goods, advising early preparation to avoid disappointment.",
+      "exported_at": "2025-10-08T11:21:21.738437",
       "continuous_session": true
     }
   ]
