@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T01:45:00.387609",
-    "total_articles": 2378,
-    "new_articles_in_last_fetch": 2378,
+    "created_at": "2025-10-08T02:00:18.902855",
+    "total_articles": 2379,
+    "new_articles_in_last_fetch": 2379,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -30878,6 +30878,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FRANCE'S DEBT AND DEFICIT UNDER SPOTLIGHT 🚨\n\n- Sébastien Lecornu fails to address France's budget deficit\n- Political chaos in France exacerbates debt issues 🌀\n- Rising concerns over the country's escalating debt levels 💸\n\nTAKEAWAY: France's political turmoil intensifies as Sébastien Lecornu's attempts to tackle the budget deficit and debt crisis falter, raising concerns over the country's financial stability.",
       "exported_at": "2025-10-08T01:45:00.206211",
+      "continuous_session": true
+    },
+    {
+      "title": "European markets set for lackluster open amid a difficult week for the region",
+      "link": "https://www.cnbc.com/2025/10/08/european-markets-on-weds-octpoint8-stoxx-600-dax-ftse-cac.html",
+      "summary": "European stocks are expected to hover around the flatline at the open on Wednesday as markets lack direction during a difficult week.",
+      "published": "Wed, 08 Oct 2025 05:46:47 GMT",
+      "content": "European stocks are expected to hover around the flatline at the open on Wednesday as markets lack direction during a difficult week.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ed5647db922ef66ebc4ef3cbdebfd8fe",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: EUROPEAN MARKETS FACE LACKLUSTER OPEN AMID CHALLENGING WEEK 🚨\n\n- European stocks predicted to open flat on Wednesday 📉\n- Markets lack direction during a tough week for the region 🌍\n- Uncertainty looms over European market performance 🤷‍♂️\n\nTAKEAWAY: European markets anticipate a lackluster open amidst a challenging week, with uncertainty adding to the market's directionless state.",
+      "exported_at": "2025-10-08T02:00:18.731544",
       "continuous_session": true
     }
   ]
