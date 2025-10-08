@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T04:17:17.406082",
-    "total_articles": 2381,
-    "new_articles_in_last_fetch": 2381,
+    "created_at": "2025-10-08T05:03:01.733470",
+    "total_articles": 2383,
+    "new_articles_in_last_fetch": 2383,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -30917,6 +30917,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: EUROPEAN STEELMAKERS SURGE AS EU CONSIDERS TARIFF CUTS 🚀\n\n- EU proposes cutting tariff-free steel import quota 📉\n- Investors drive European stocks up in response 📈\n- Positive market reaction to potential tariff changes 🔥\n\nTAKEAWAY: European steelmakers see a surge in stock prices as investors react positively to the EU's proposed slashing of tariff-free import quotas, signaling optimism in the market.",
       "exported_at": "2025-10-08T04:17:17.244907",
+      "continuous_session": true
+    },
+    {
+      "title": "Steel industry in UK warns of &apos;biggest crisis&apos; ever as EU hikes tariffs",
+      "link": "https://www.cnbc.com/2025/10/08/steel-industry-in-uk-warns-of-biggest-crisis-ever-as-eu-hikes-tariffs.html",
+      "summary": "The tariffs hike provoked an immediate outcry in the U.K., and automakers in Europe are not too pleased, either.",
+      "published": "Wed, 08 Oct 2025 07:05:25 GMT",
+      "content": "The tariffs hike provoked an immediate outcry in the U.K., and automakers in Europe are not too pleased, either.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9c3fb92017eafcb6e5fdb42aa74a3c6e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: UK STEEL INDUSTRY FACES 'BIGGEST CRISIS' EVER AS EU HIKES TARIFFS 🚨\n\n- UK steel industry warns of severe crisis due to EU tariff hike 🇬🇧\n- Immediate outcry in the UK following the tariff increase 📢\n- Automakers in Europe also express discontent over the tariffs 🚗\n- Uncertainty looms over the future of the steel industry in the UK ⚠️\n\nTAKEAWAY: The UK steel industry faces its biggest crisis ever as EU tariffs soar, sparking concerns and discontent among stakeholders.",
+      "exported_at": "2025-10-08T05:03:01.558945",
+      "continuous_session": true
+    },
+    {
+      "title": "Gold at $5,000? Here are the best ways to gain exposure to the metal",
+      "link": "https://www.cnbc.com/2025/10/08/gold-at-5000-here-are-best-ways-to-gainadd-exposure-to-the-metal.html",
+      "summary": "Gold has scaled a new peak, smashing past $4,000 an ounce, a milestone that's set Wall Street abuzz.",
+      "published": "Wed, 08 Oct 2025 08:54:01 GMT",
+      "content": "Gold has scaled a new peak, smashing past $4,000 an ounce, a milestone that's set Wall Street abuzz.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "99dd4a58e546dd4397af46a73e285a54",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GOLD SOARS PAST $4,000, EYES ON $5,000 🚀\n\n- Gold hits record high above $4,000 per ounce 💰\n- Wall Street buzzing with excitement over the milestone 📈\n- Investors seeking exposure to gold for potential gains 💸\n\nTAKEAWAY: With gold surging past $4,000, investors are eager to gain exposure to the metal as all eyes are set on the $5,000 mark.",
+      "exported_at": "2025-10-08T05:03:01.559012",
       "continuous_session": true
     }
   ]
