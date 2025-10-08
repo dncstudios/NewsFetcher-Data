@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T19:39:38.302188",
-    "total_articles": 2371,
-    "new_articles_in_last_fetch": 2371,
+    "created_at": "2025-10-07T20:10:08.870347",
+    "total_articles": 2372,
+    "new_articles_in_last_fetch": 2372,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -30787,6 +30787,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: 'WE'RE LOVERS, NOT FIGHTERS' — NVIDIA CEO ON 4 KEY PARTNERS 💑\n\n- Jensen Huang discusses Nvidia's crucial partnerships 🤝\n- Club members get insights on key collaborations 💬\n- Focus on fostering relationships, not competition 🌟\n- Nvidia CEO highlights importance of strategic partnerships 💼\n\nTAKEAWAY: Nvidia's CEO emphasizes the significance of strategic partnerships in driving success and innovation.",
       "exported_at": "2025-10-07T19:39:38.275064",
+      "continuous_session": true
+    },
+    {
+      "title": "Asia markets trade mixed after World Bank raises regional growth forecast",
+      "link": "https://www.cnbc.com/2025/10/08/asia-pacific-markets-wednesday-nikkei-225-hang-seng-index.html",
+      "summary": "Mainland China and South Korean markets are closed for the holidays.",
+      "published": "Wed, 08 Oct 2025 00:08:07 GMT",
+      "content": "Mainland China and South Korean markets are closed for the holidays.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c7da0989e3dd7c4fae544277a5e9efaf",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASIA MARKETS MIXED AFTER WORLD BANK BOOST 🚀\n\n- Asia markets show mixed trading post World Bank's growth forecast hike 📈\n- Mainland China and South Korean markets closed for holidays 🏮\n- Investors eye regional growth with anticipation 🌏\n- Market sentiment varies among open markets 📈🔻\n- World Bank's forecast raises optimism in the region ✨\n- Holiday closures impact overall trading activity ⌛\n\nTAKEAWAY: Asia markets display mixed performance as World Bank's raised growth forecast fuels investor optimism, despite holiday closures affecting trading activity.",
+      "exported_at": "2025-10-07T20:10:08.706367",
       "continuous_session": true
     }
   ]
