@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T06:40:09.324010",
-    "total_articles": 2392,
-    "new_articles_in_last_fetch": 2392,
+    "created_at": "2025-10-08T07:00:29.125232",
+    "total_articles": 2393,
+    "new_articles_in_last_fetch": 2393,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -31060,6 +31060,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: 7-ELEVEN BETS ON JAPANESE MAKEOVER FOR U.S. STORES 🍣\n\n- 7-Eleven aims to boost food sales in U.S. stores 🌭\n- Revamp plan includes Japanese-inspired changes 🍱\n- Strategy focuses on sparking more food purchases 🥪\n- Convenience store giant seeks to improve customer experience 🛒\n- Embracing Japanese culture to attract more customers 🇯🇵\n\nTAKEAWAY: 7-Eleven's Japanese makeover strategy for its U.S. stores aims to enhance food sales and customer experience by incorporating Japanese-inspired changes.",
       "exported_at": "2025-10-08T06:40:09.168432",
+      "continuous_session": true
+    },
+    {
+      "title": "Guggenheim says this little-known cancer stock can more than double from here",
+      "link": "https://www.cnbc.com/2025/10/08/guggenheim-says-this-little-known-cancer-stock-can-more-than-double-from-here.html",
+      "summary": "Guggenheim applauded CC Oncology's immunotherapy development and \"potentially attractive catalyst path.\"",
+      "published": "Wed, 08 Oct 2025 10:53:49 GMT",
+      "content": "Guggenheim applauded CC Oncology's immunotherapy development and \"potentially attractive catalyst path.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "aaedbaf918fc9c2abe6c31506eabfc66",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GUGGENHEIM PREDICTS DOUBLING OF CC ONCOLOGY STOCK 🚀\n\n- Guggenheim praises CC Oncology's immunotherapy breakthrough 💪\n- Potential for stock to more than double in value 📈\n- CC Oncology on a promising path with attractive catalysts ⚡️\n\nTAKEAWAY: Guggenheim's endorsement of CC Oncology's immunotherapy advancements signals a potential for significant stock growth.",
+      "exported_at": "2025-10-08T07:00:28.971534",
       "continuous_session": true
     }
   ]
