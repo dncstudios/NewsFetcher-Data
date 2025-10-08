@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T14:40:23.849745",
-    "total_articles": 2451,
-    "new_articles_in_last_fetch": 2451,
+    "created_at": "2025-10-08T15:00:45.664338",
+    "total_articles": 2453,
+    "new_articles_in_last_fetch": 2453,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -31827,6 +31827,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JPMORGAN'S TOP SHORT IDEAS REVEALED 🚨\n\n- Shake Shack, Southwest Airlines, Skyworks Solutions among top short targets 📉\n- JPMorgan advises short selling on popular restaurant stock and chipmaker 🍔💻\n- Strategy aimed at capitalizing on potential downward trends 📉⚠️\n\nTAKEAWAY: JPMorgan's short ideas targeting Shake Shack, Southwest Airlines, and Skyworks Solutions aim to benefit from potential stock price declines in the current market environment.",
       "exported_at": "2025-10-08T14:40:23.820341",
+      "continuous_session": true
+    },
+    {
+      "title": "CoreWeave stock rallies as company introduces new AI tools for developers",
+      "link": "https://www.cnbc.com/2025/10/08/coreweave-stock-ai-developer-tools.html",
+      "summary": "CoreWeave is working to expand its business with tools targeting software developers, while adding capacity to accommodate business from Meta and OpenAI.",
+      "published": "Wed, 08 Oct 2025 18:56:57 GMT",
+      "content": "CoreWeave is working to expand its business with tools targeting software developers, while adding capacity to accommodate business from Meta and OpenAI.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "65a4cdba2d04794d6128a8a1cbcd7f73",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: COREWEAVE STOCK RALLIES ON NEW AI TOOLS LAUNCH 🚀\n\n- CoreWeave introduces AI tools for developers 🛠️\n- Expansion plans include targeting software developers 🎯\n- Company prepares to handle business from Meta and OpenAI 💼\n- Stock price surges on growth prospects 📈\n- Capacity increases to support expanding clientele 📊\n\nTAKEAWAY: CoreWeave's stock surges as it launches new AI tools for developers, expanding its business and preparing to accommodate clients like Meta and OpenAI.",
+      "exported_at": "2025-10-08T15:00:45.563280",
+      "continuous_session": true
+    },
+    {
+      "title": "Jensen Huang says Trump&apos;s H-1B changes would&apos;ve prevented his family from immigrating",
+      "link": "https://www.cnbc.com/2025/10/08/jensen-huang-h1b-immigration-trump.html",
+      "summary": "President Donald Trump announced in September that employers would have to pay a $100,000 fee for each H-1B visa.",
+      "published": "Wed, 08 Oct 2025 18:54:39 GMT",
+      "content": "President Donald Trump announced in September that employers would have to pay a $100,000 fee for each H-1B visa.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "91677cc30c19cdaaabe2e7e53a2547bb",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JENSEN HUANG CRITIQUES TRUMP'S H-1B VISA CHANGES ⚠️\n\n- Trump's $100,000 fee per H-1B visa impacts immigration 🛑\n- NVIDIA's Jensen Huang speaks out against the changes 💬\n- Huang highlights personal impact on his family's immigration 🌍\n\nTAKEAWAY: President Trump's proposed changes to the H-1B visa system, including a $100,000 fee, draw criticism from Jensen Huang of NVIDIA, who emphasizes the potential impact on immigration policies.",
+      "exported_at": "2025-10-08T15:00:45.563341",
       "continuous_session": true
     }
   ]
