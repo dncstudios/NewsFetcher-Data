@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T14:35:14.274467",
-    "total_articles": 2450,
-    "new_articles_in_last_fetch": 2450,
+    "created_at": "2025-10-08T14:40:23.849745",
+    "total_articles": 2451,
+    "new_articles_in_last_fetch": 2451,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -31814,6 +31814,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FED DIVIDED OVER RATE CUTS: 2 MORE BY 2025? ⚠️\n\n- Fed officials leaning towards more rate cuts 📉\n- Disagreement on number of cuts expected ⚖️\n- Strong inclination to lower interest rates shown 💪\n\nTAKEAWAY: Divided Fed officials are likely to implement two more interest rate cuts by the end of 2025, showcasing a strong inclination towards easing monetary policy.",
       "exported_at": "2025-10-08T14:35:14.101795",
+      "continuous_session": true
+    },
+    {
+      "title": "JPMorgan&apos;s top short ideas into year-end include a popular restaurant stock and once-hot chipmaker",
+      "link": "https://www.cnbc.com/2025/10/08/jpmorgans-top-short-ideas-into-year-end-include-a-popular-restaurant-stock-and-once-hot-chipmaker.html",
+      "summary": "JPMorgan pointed to Shake Shack, Southwest Airlines and Skyworks Solutions as some of the best stocks to target for short sellers.",
+      "published": "Wed, 08 Oct 2025 18:39:44 GMT",
+      "content": "JPMorgan pointed to Shake Shack, Southwest Airlines and Skyworks Solutions as some of the best stocks to target for short sellers.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "01aebef200f032ad06c443cf9ce8f379",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JPMORGAN'S TOP SHORT IDEAS REVEALED 🚨\n\n- Shake Shack, Southwest Airlines, Skyworks Solutions among top short targets 📉\n- JPMorgan advises short selling on popular restaurant stock and chipmaker 🍔💻\n- Strategy aimed at capitalizing on potential downward trends 📉⚠️\n\nTAKEAWAY: JPMorgan's short ideas targeting Shake Shack, Southwest Airlines, and Skyworks Solutions aim to benefit from potential stock price declines in the current market environment.",
+      "exported_at": "2025-10-08T14:40:23.820341",
       "continuous_session": true
     }
   ]
