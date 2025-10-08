@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T13:03:20.388784",
-    "total_articles": 2440,
-    "new_articles_in_last_fetch": 2440,
+    "created_at": "2025-10-08T13:08:29.321497",
+    "total_articles": 2441,
+    "new_articles_in_last_fetch": 2441,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -31684,6 +31684,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCKS MAKING BIG MOVES MIDDAY: TOPBUILD, CONFLUENT, ALCOA 🚀\n\n- TopBuild, Confluent, Alcoa, Viasat, Joby Aviation show significant midday activity 📈\n- TopBuild shares surge over 10% following positive guidance 📈\n- Confluent stock rises on strong revenue growth 💰\n- Alcoa experiences a volatile trading day with unpredictable swings ⚠️\n- Viasat and Joby Aviation also see notable midday movement 📊\n\nTAKEAWAY: TopBuild, Confluent, Alcoa, Viasat, and Joby Aviation lead the midday stock market activity with significant movements and varying levels of volatility. 📈🔥",
       "exported_at": "2025-10-08T13:03:20.236162",
+      "continuous_session": true
+    },
+    {
+      "title": "5 things Nvidia&apos;s Jensen Huang said about the state of the AI race with China",
+      "link": "https://www.cnbc.com/2025/10/08/nvidia-huang-ai-race-china-us-trump.html",
+      "summary": "While the U.S. may be leading in advanced chip designs, Huang warned not to discount China's growing chip development.",
+      "published": "Wed, 08 Oct 2025 16:41:03 GMT",
+      "content": "While the U.S. may be leading in advanced chip designs, Huang warned not to discount China's growing chip development.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0ec89aa637d59d048558a846014cb9a4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NVIDIA'S HUANG WARNS ABOUT CHINA'S RISING COMPETITION IN AI RACE ⚠️\n\n- U.S. leads in advanced chip designs, but China's chip development is growing 📈\n- Huang cautions against underestimating China in the AI race ⚠️\n- China's increasing chip capabilities pose a significant challenge to the U.S. 🇨🇳\n- Huang emphasizes the importance of recognizing China's advancements in AI 🚀\n- Competition intensifies as China advances in chip technology 🔥\n\nTAKEAWAY: NVIDIA's Jensen Huang highlights China's rapid progress in chip development, urging vigilance in the competitive AI landscape.",
+      "exported_at": "2025-10-08T13:08:29.227370",
       "continuous_session": true
     }
   ]
