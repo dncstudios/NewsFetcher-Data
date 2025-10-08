@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T18:34:34.441215",
-    "total_articles": 2464,
-    "new_articles_in_last_fetch": 2464,
+    "created_at": "2025-10-08T18:39:43.346548",
+    "total_articles": 2465,
+    "new_articles_in_last_fetch": 2465,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -31996,6 +31996,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: THURSDAY'S BIG STOCK STORIES: MARKET SET FOR NEW HIGHS 🚀\n\n- S&P 500 and Nasdaq hit all-time highs 📈\n- Nasdaq closes above 23,000 for the first time 🌟\n- Market poised for continued growth momentum 🚀\n\nTAKEAWAY: S&P 500 and Nasdaq reaching new highs signal strong market momentum, with potential for continued growth in the next trading session.",
       "exported_at": "2025-10-08T18:34:34.336195",
+      "continuous_session": true
+    },
+    {
+      "title": "CoreWeave CEO pushes back against circular investment concerns",
+      "link": "https://www.cnbc.com/2025/10/08/coreweave-ceo-pushes-back-against-circular-investment-concerns-.html",
+      "summary": "CoreWeave CEO Michael Intrator discussed his company's deals with a number of artificial intelligence giants in a Wednesday interview with CNBC's Jim Cramer.",
+      "published": "Wed, 08 Oct 2025 22:35:40 GMT",
+      "content": "CoreWeave CEO Michael Intrator discussed his company's deals with a number of artificial intelligence giants in a Wednesday interview with CNBC's Jim Cramer.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c02aa5670bf836d4a9f033dc3132dc3f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: COREWEAVE CEO DEFENDS INVESTMENT STRATEGY 🚀\n\n- CoreWeave CEO addresses circular investment worries\n- Company secures deals with AI giants\n- CEO Michael Intrator speaks to CNBC's Jim Cramer\n\nTAKEAWAY: CoreWeave's CEO stands firm, defending the company's investment strategy amid concerns, showcasing strong partnerships with AI industry leaders.",
+      "exported_at": "2025-10-08T18:39:43.318771",
       "continuous_session": true
     }
   ]
