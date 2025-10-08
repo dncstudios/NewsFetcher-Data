@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T13:08:29.321497",
-    "total_articles": 2441,
-    "new_articles_in_last_fetch": 2441,
+    "created_at": "2025-10-08T13:18:43.835063",
+    "total_articles": 2443,
+    "new_articles_in_last_fetch": 2443,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -31697,6 +31697,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NVIDIA'S HUANG WARNS ABOUT CHINA'S RISING COMPETITION IN AI RACE ⚠️\n\n- U.S. leads in advanced chip designs, but China's chip development is growing 📈\n- Huang cautions against underestimating China in the AI race ⚠️\n- China's increasing chip capabilities pose a significant challenge to the U.S. 🇨🇳\n- Huang emphasizes the importance of recognizing China's advancements in AI 🚀\n- Competition intensifies as China advances in chip technology 🔥\n\nTAKEAWAY: NVIDIA's Jensen Huang highlights China's rapid progress in chip development, urging vigilance in the competitive AI landscape.",
       "exported_at": "2025-10-08T13:08:29.227370",
+      "continuous_session": true
+    },
+    {
+      "title": "Florida man charged with intentionally setting Pacific Palisades fire in LA",
+      "link": "https://www.cnbc.com/2025/10/08/la-fire-pacific-palisades-jonathan-rinderknecht.html",
+      "summary": "The Palisades Fire in early January burned thousands of homes and killed multiple people as flames spread rapidly in heavy winds up to 100 miles per hour.",
+      "published": "Wed, 08 Oct 2025 17:03:32 GMT",
+      "content": "The Palisades Fire in early January burned thousands of homes and killed multiple people as flames spread rapidly in heavy winds up to 100 miles per hour.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c436ecf1c102717db48419c6c2b20089",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FLORIDA MAN CHARGED FOR SETTING PACIFIC PALISADES FIRE IN LA 🔥\n\n- Palisades Fire burned thousands of homes in early January 🏠\n- Flames spread quickly in heavy winds up to 100 mph 💨\n- Multiple fatalities reported due to the fire 🚨\n\nTAKEAWAY: The devastating Palisades Fire in LA, allegedly intentionally set by a Florida man, resulted in significant property damage and loss of life, highlighting the destructive impact of wildfires.",
+      "exported_at": "2025-10-08T13:18:43.806108",
+      "continuous_session": true
+    },
+    {
+      "title": "Joby Aviation shares tumble after pricing of $514 million discounted offering",
+      "link": "https://www.cnbc.com/2025/10/08/joby-aviation-shares-tumble-after-pricing-of-514-million-discounted-offering.html",
+      "summary": "Shares of Joby Aviation fell more than 11% on Wednesday after the electric air-taxi maker priced a $514 million discounted share sale.",
+      "published": "Wed, 08 Oct 2025 17:00:31 GMT",
+      "content": "Shares of Joby Aviation fell more than 11% on Wednesday after the electric air-taxi maker priced a $514 million discounted share sale.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "430553680be49d334ad58e863eeffc09",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JOBY AVIATION SHARES DIP 11% ON $514M DISCOUNTED OFFERING 📉\n\n- Joby Aviation shares plummet over 11% post $514M share sale 💸\n- Electric air-taxi maker faces market downturn 📉\n- Investors react to discounted offering negatively 📉\n\nTAKEAWAY: Joby Aviation's stock takes a hit, dropping by over 11% following the pricing of a $514 million discounted share sale, leading to investor disappointment.",
+      "exported_at": "2025-10-08T13:18:43.806117",
       "continuous_session": true
     }
   ]
