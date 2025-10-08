@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T07:05:39.527811",
-    "total_articles": 2395,
-    "new_articles_in_last_fetch": 2395,
+    "created_at": "2025-10-08T07:41:17.071755",
+    "total_articles": 2397,
+    "new_articles_in_last_fetch": 2397,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -31099,6 +31099,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: GOVERNMENT SHUTDOWN IMPACT ON COMMERCIAL REAL ESTATE 🚨\n\n- Data collection disrupted, hindering market insights 📊\n- Uncertainty clouds commercial real estate dealmaking ⚠️\n- Investor confidence takes a hit due to government shutdown 📉\n\nTAKEAWAY: The government shutdown disrupts data collection, creates uncertainty in dealmaking, and lowers investor confidence in the commercial real estate sector.",
       "exported_at": "2025-10-08T07:05:39.377592",
+      "continuous_session": true
+    },
+    {
+      "title": "Stay away from FedEx as competition heats up and macro headwinds mount, says JPMorgan",
+      "link": "https://www.cnbc.com/2025/10/08/stay-away-from-fedex-as-competition-heats-up-and-macro-headwinds-mount-says-jpmorgan.html",
+      "summary": "JPMorgan is moving to the sidelines when it comes to FedEx.",
+      "published": "Wed, 08 Oct 2025 11:35:37 GMT",
+      "content": "JPMorgan is moving to the sidelines when it comes to FedEx.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a4b79c3bf3ca96fd1e712add6940fb84",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STAY AWAY FROM FEDEX AS COMPETITION HEATS UP, SAYS JPMORGAN ⚠️\n\n- JPMorgan advises caution amid rising competition for FedEx 📉\n- Macro headwinds prompt JPMorgan to step back ⚠️\n- FedEx faces challenges in the competitive landscape 🌪️\n- JPMorgan shifts stance to sidelines on FedEx stock 📉\n- Increasing competition poses risks to FedEx's performance 🚨\n\nTAKEAWAY: JPMorgan's cautionary stance on FedEx highlights growing competition and macro challenges, signaling potential risks for investors.",
+      "exported_at": "2025-10-08T07:41:17.042494",
+      "continuous_session": true
+    },
+    {
+      "title": "AI is poised to disrupt the job market — some roles could &apos;radically transform,&apos; report finds",
+      "link": "https://www.cnbc.com/2025/10/08/how-ai-is-poised-to-disrupt-the-job-market.html",
+      "summary": "Artificial intelligence is most likely to impact white-collar jobs, while those requiring more physical labor and intervention are relatively insulated.",
+      "published": "Wed, 08 Oct 2025 11:30:01 GMT",
+      "content": "Artificial intelligence is most likely to impact white-collar jobs, while those requiring more physical labor and intervention are relatively insulated.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "40a0041116ab4da6cccb65ab753a2071",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AI SET TO DISRUPT JOB MARKET, WHITE-COLLAR ROLES AT RISK ⚡️\n\n- AI to predominantly impact white-collar jobs 🤖💼\n- Roles needing physical labor less vulnerable 🏗️🛠️\n- Report anticipates radical transformation in certain job sectors 💥\n- White-collar workers face potential job market upheaval 📉💼\n- AI technology expected to reshape job landscape dramatically 🔄\n- Physical labor jobs expected to remain relatively stable 🏗️🚧\n\nTAKEAWAY: The job market faces imminent disruption as AI technology targets white-collar roles, potentially leading to radical transformations in certain sectors, while physical labor jobs remain relatively insulated.",
+      "exported_at": "2025-10-08T07:41:17.042529",
       "continuous_session": true
     }
   ]
