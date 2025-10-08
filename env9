@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T10:25:07.262556",
-    "total_articles": 2420,
-    "new_articles_in_last_fetch": 2420,
+    "created_at": "2025-10-08T10:30:14.045421",
+    "total_articles": 2422,
+    "new_articles_in_last_fetch": 2422,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -31424,6 +31424,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP'S TAX CHANGE TO BOOST STARTUP WEALTH 🚀\n\n- Capital gains tax change in Trump's bill benefits startup founders\n- Investors and early employees to retain more company stock income 💰\n- Potential increase in wealth for business founders and employees\n\nTAKEAWAY: Trump's new tax change in the bill could lead to a significant boost in wealth for startup founders, investors, and early employees. 💸",
       "exported_at": "2025-10-08T10:25:07.087898",
+      "continuous_session": true
+    },
+    {
+      "title": "S&amp;P 500, Nasdaq tick higher as Nvidia rises; market gains limited by shutdown worries: Live updates",
+      "link": "https://www.cnbc.com/2025/10/07/stock-market-today-live-updates.html",
+      "summary": "A drop in Oracle on Tuesday called to question the sustainability of the artificial intelligence trade.",
+      "published": "Wed, 08 Oct 2025 14:25:43 GMT",
+      "content": "A drop in Oracle on Tuesday called to question the sustainability of the artificial intelligence trade.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3e26febdf46fdbc1391edaab516a0441",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK FUTURES STABLE DESPITE S&P 500 ENDING WIN STREAK 📉\n\n- S&P 500 snaps 7-day win streak, causing minor impact on stock futures 📉\n- Oracle's drop raises concerns about AI trade sustainability 🤔\n- Market shows stability despite recent fluctuations 📊\n\nTAKEAWAY: Despite S&P 500 ending its win streak and Oracle's drop questioning AI trade sustainability, stock futures remain stable, showing market resilience.",
+      "exported_at": "2025-10-08T10:30:13.880363",
+      "continuous_session": true
+    },
+    {
+      "title": "The year without artificial Christmas trees: Importers are warning of major holiday decorative goods shortages",
+      "link": "https://www.cnbc.com/2025/10/08/holiday-decorations-christmas-shopping-goods-shortages.html",
+      "summary": "If you are preparing to decorate your home for the holidays, start early, with a major importer of decorative holiday goods warning about major shortages.",
+      "published": "Wed, 08 Oct 2025 14:28:07 GMT",
+      "content": "If you are preparing to decorate your home for the holidays, start early, with a major importer of decorative holiday goods warning about major shortages.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e94679db175046c45bb51a9baa396e20",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: THE YEAR WITHOUT ARTIFICIAL CHRISTMAS TREES: IMPORTERS WARN OF HOLIDAY GOODS SHORTAGES 🚨\n\n- Major importer cautions about significant holiday goods scarcity 🎄\n- Start decorating early to avoid shortages 🌟\n- Prepare for potential lack of artificial Christmas trees 🌲\n- Importers issue warning for holiday décor scarcity 🚨\n- Holiday goods shortage alerts from major importers 🚨\n- Urgent call to start holiday decorating preparations early ⏰\n\nTAKEAWAY: Importers sound the alarm on potential shortages of artificial Christmas trees and other holiday goods, advising early preparation to avoid disappointment.",
+      "exported_at": "2025-10-08T10:30:13.880420",
       "continuous_session": true
     }
   ]
