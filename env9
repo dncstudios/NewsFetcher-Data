@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T10:30:14.045421",
-    "total_articles": 2422,
-    "new_articles_in_last_fetch": 2422,
+    "created_at": "2025-10-08T10:35:27.655909",
+    "total_articles": 2426,
+    "new_articles_in_last_fetch": 2426,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -31450,6 +31450,58 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: THE YEAR WITHOUT ARTIFICIAL CHRISTMAS TREES: IMPORTERS WARN OF HOLIDAY GOODS SHORTAGES 🚨\n\n- Major importer cautions about significant holiday goods scarcity 🎄\n- Start decorating early to avoid shortages 🌟\n- Prepare for potential lack of artificial Christmas trees 🌲\n- Importers issue warning for holiday décor scarcity 🚨\n- Holiday goods shortage alerts from major importers 🚨\n- Urgent call to start holiday decorating preparations early ⏰\n\nTAKEAWAY: Importers sound the alarm on potential shortages of artificial Christmas trees and other holiday goods, advising early preparation to avoid disappointment.",
       "exported_at": "2025-10-08T10:30:13.880420",
+      "continuous_session": true
+    },
+    {
+      "title": "S&amp;P 500, Nasdaq gain as Nvidia rises, Wall Street tries to look past shutdown worries: Live updates",
+      "link": "https://www.cnbc.com/2025/10/07/stock-market-today-live-updates.html",
+      "summary": "A drop in Oracle on Tuesday called to question the sustainability of the artificial intelligence trade.",
+      "published": "Wed, 08 Oct 2025 14:30:49 GMT",
+      "content": "A drop in Oracle on Tuesday called to question the sustainability of the artificial intelligence trade.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f6f89760df3fe8fde9f5befc95ba0772",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK FUTURES STABLE DESPITE S&P 500 ENDING WIN STREAK 📉\n\n- S&P 500 snaps 7-day win streak, causing minor impact on stock futures 📉\n- Oracle's drop raises concerns about AI trade sustainability 🤔\n- Market shows stability despite recent fluctuations 📊\n\nTAKEAWAY: Despite S&P 500 ending its win streak and Oracle's drop questioning AI trade sustainability, stock futures remain stable, showing market resilience.",
+      "exported_at": "2025-10-08T10:35:27.610248",
+      "continuous_session": true
+    },
+    {
+      "title": "James Comey pleads not guilty to charges sought by Trump, trial set for Jan. 5",
+      "link": "https://www.cnbc.com/2025/10/08/james-comey-arraignment-trump-fbi-congress.html",
+      "summary": "\"My family and I have known for years that there are costs to standing up to Donald Trump,\" former FBI Director James Comey said after being indicted.",
+      "published": "Wed, 08 Oct 2025 14:34:09 GMT",
+      "content": "\"My family and I have known for years that there are costs to standing up to Donald Trump,\" former FBI Director James Comey said after being indicted.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8ccab5afb8f9460b07e0238704dc437c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JAMES COMEY FACES CRIMINAL CHARGES FOR STANDING UP TO TRUMP ⚠️\n\n- Comey indicted for standing against Trump's actions 👊\n- Charges highlight the costs of opposing the former president 💸\n- Legal battle ahead for the former FBI Director 🔍\n\nTAKEAWAY: James Comey's arraignment on criminal charges serves as a stark reminder of the consequences of standing up to powerful figures like Trump.",
+      "exported_at": "2025-10-08T10:35:27.610280",
+      "continuous_session": true
+    },
+    {
+      "title": "Get in on the ground floor: An emerging giant in commodities and forex that&apos;s off Wall Street&apos;s radar",
+      "link": "https://www.cnbc.com/2025/10/08/get-in-on-the-ground-floor-an-emerging-giant-in-commodities-and-forex-thats-off-wall-streets-radar.html",
+      "summary": "Investor Jeff Hirsch profiles an under-the-radar financial powerhouse delivering consistent growth across commodities, FX, and clearing.",
+      "published": "Wed, 08 Oct 2025 14:22:18 GMT",
+      "content": "Investor Jeff Hirsch profiles an under-the-radar financial powerhouse delivering consistent growth across commodities, FX, and clearing.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "eab063194fc38f10ebdd80da925e3f0f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: EMBRACE THE UNKNOWN: THE RISE OF A HIDDEN FINANCIAL POWERHOUSE 🚀\n\n- Investor Jeff Hirsch uncovers a rising star in commodities and forex 💫\n- This hidden gem showcases steady growth in various financial sectors 🔥\n- Positioned as an under-the-radar giant, away from Wall Street's spotlight 🌟\n- Diversified portfolio spans commodities, FX trading, and clearing services ✅\n- Offers unique opportunities for investors seeking alternative avenues 🎯\n\nTAKEAWAY: Dive into the world of this emerging financial powerhouse, offering consistent growth and a diverse set of investment opportunities away from the traditional Wall Street scene.",
+      "exported_at": "2025-10-08T10:35:27.610282",
+      "continuous_session": true
+    },
+    {
+      "title": "Iraq signs deal with Exxon to help develop large oilfield",
+      "link": "https://www.cnbc.com/2025/10/08/iraq-signs-deal-with-exxon-to-help-develop-large-oilfield.html",
+      "summary": "Exxon Mobil signed an agreement with Iraq to help it develop its giant Majnoon oilfield and expand oil exports.",
+      "published": "Wed, 08 Oct 2025 14:24:52 GMT",
+      "content": "Exxon Mobil signed an agreement with Iraq to help it develop its giant Majnoon oilfield and expand oil exports.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "144ac9c1045521d4bde96968548309b7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: IRAQ SECURES DEAL WITH EXXON MOBIL TO BOOST OILFIELD DEVELOPMENT 🚀\n\n- Iraq partners with Exxon Mobil to develop Majnoon oilfield 🛢️\n- Agreement aims to enhance Iraq's oil production and exports 📈\n- Exxon's expertise set to optimize oilfield development 🛠️\n- Deal signals potential growth in Iraq's oil sector 📈\n- Collaboration expected to benefit both parties 💼\n- Agreement likely to attract attention from global oil industry 🌍\n\nTAKEAWAY: Iraq's strategic partnership with Exxon Mobil to develop the Majnoon oilfield is set to boost oil production, exports, and potentially attract global interest in Iraq's oil sector.",
+      "exported_at": "2025-10-08T10:35:27.610287",
       "continuous_session": true
     }
   ]
