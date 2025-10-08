@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T08:27:28.218421",
-    "total_articles": 2404,
-    "new_articles_in_last_fetch": 2404,
+    "created_at": "2025-10-08T08:32:37.108473",
+    "total_articles": 2405,
+    "new_articles_in_last_fetch": 2405,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -31216,6 +31216,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NVIDIA CEO JENSEN HUANG DISCUSSES OPENAI DEAL WITH AMD 🚀\n\n- Huang surprised by AMD giving away 10% in OpenAI deal\n- Partnership details with OpenAI on 'Squawk Box'\n- Huang's view on the current state of the AI tech race\n- Emphasis on the promise of AI technology and its impact\n\nTAKEAWAY: Nvidia's CEO Jensen Huang's insights on the OpenAI deal with AMD reveal surprises and shed light on the evolving landscape of AI technology.",
       "exported_at": "2025-10-08T08:27:28.061895",
+      "continuous_session": true
+    },
+    {
+      "title": "JPMorgan upgrades biopharma stock to overweight on strong drug pipeline",
+      "link": "https://www.cnbc.com/2025/10/08/jpmorgan-upgrades-biopharma-stock-to-overweight-on-strong-drug-pipeline.html",
+      "summary": "JPMorgan foresees shares of Ionis Pharmaceuticals rising another 16% from their Tuesday close after a 170% runup in six months.",
+      "published": "Wed, 08 Oct 2025 12:27:34 GMT",
+      "content": "JPMorgan foresees shares of Ionis Pharmaceuticals rising another 16% from their Tuesday close after a 170% runup in six months.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8cc03d4039bf56f9bdecf055c1fcc881",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JPMORGAN UPGRADES BIOPHARMA STOCK TO OVERWEIGHT 🚀\n\n- Ionis Pharmaceuticals shares expected to surge by 16% 📈\n- JPMorgan predicts strong growth due to a 170% increase in 6 months 🔥\n- Upgrade follows promising outlook on the company's drug pipeline 💊\n\nTAKEAWAY: JPMorgan's bullish upgrade on Ionis Pharmaceuticals signals confidence in its future growth potential fueled by a robust drug pipeline.",
+      "exported_at": "2025-10-08T08:32:36.957303",
       "continuous_session": true
     }
   ]
