@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T07:00:29.125232",
-    "total_articles": 2393,
-    "new_articles_in_last_fetch": 2393,
+    "created_at": "2025-10-08T07:05:39.527811",
+    "total_articles": 2395,
+    "new_articles_in_last_fetch": 2395,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -31073,6 +31073,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: GUGGENHEIM PREDICTS DOUBLING OF CC ONCOLOGY STOCK 🚀\n\n- Guggenheim praises CC Oncology's immunotherapy breakthrough 💪\n- Potential for stock to more than double in value 📈\n- CC Oncology on a promising path with attractive catalysts ⚡️\n\nTAKEAWAY: Guggenheim's endorsement of CC Oncology's immunotherapy advancements signals a potential for significant stock growth.",
       "exported_at": "2025-10-08T07:00:28.971534",
+      "continuous_session": true
+    },
+    {
+      "title": "Borrowers head back to riskier mortgages, looking for any potential savings",
+      "link": "https://www.cnbc.com/2025/10/08/borrowers-head-back-to-riskier-mortgages-looking-for-any-potential-savings.html",
+      "summary": "Mortgage demand weakened again but for those in the market, adjustable-rate loans are getting more popular, as they offer lower interest rates.",
+      "published": "Wed, 08 Oct 2025 11:00:02 GMT",
+      "content": "Mortgage demand weakened again but for those in the market, adjustable-rate loans are getting more popular, as they offer lower interest rates.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "572f20688508236dd982fd4e0e6946d4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BORROWERS EMBRACE RISKIER MORTGAGES FOR SAVINGS 🚀\n\n- Mortgage demand declines, but interest in adjustable-rate loans rises ⬆️\n- Borrowers seek savings with lower interest rates 💰\n- Shift towards riskier mortgages observed in the market 📈\n\nTAKEAWAY: Despite weakening mortgage demand, borrowers are opting for riskier adjustable-rate loans to capitalize on potential savings through lower interest rates.",
+      "exported_at": "2025-10-08T07:05:39.377531",
+      "continuous_session": true
+    },
+    {
+      "title": "What the government shutdown means for commercial real estate",
+      "link": "https://www.cnbc.com/2025/10/08/government-shutdown-commercial-real-estate.html",
+      "summary": "A federal shutdown affects data collection, causes uncertainty for CRE dealmaking and hits investor confidence.",
+      "published": "Wed, 08 Oct 2025 11:02:36 GMT",
+      "content": "A federal shutdown affects data collection, causes uncertainty for CRE dealmaking and hits investor confidence.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d6e16fc6eabdb113c80d3f063aa8f8a1",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GOVERNMENT SHUTDOWN IMPACT ON COMMERCIAL REAL ESTATE 🚨\n\n- Data collection disrupted, hindering market insights 📊\n- Uncertainty clouds commercial real estate dealmaking ⚠️\n- Investor confidence takes a hit due to government shutdown 📉\n\nTAKEAWAY: The government shutdown disrupts data collection, creates uncertainty in dealmaking, and lowers investor confidence in the commercial real estate sector.",
+      "exported_at": "2025-10-08T07:05:39.377592",
       "continuous_session": true
     }
   ]
