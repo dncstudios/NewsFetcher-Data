@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T07:56:41.226121",
-    "total_articles": 2399,
-    "new_articles_in_last_fetch": 2399,
+    "created_at": "2025-10-08T08:01:50.473761",
+    "total_articles": 2400,
+    "new_articles_in_last_fetch": 2400,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -31151,6 +31151,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: VERIZON PARTNERS WITH AST SPACEMOBILE FOR SPACE CELLULAR SERVICE 🚀\n\n- Verizon collaborates with AST SpaceMobile for space service 🌌\n- AST SpaceMobile to offer cellular service from space in 2022 📡\n- Verizon's partnership leads to AST shares surging 📈\n\nTAKEAWAY: Verizon's groundbreaking partnership with AST SpaceMobile to provide cellular service from space in 2022 causes AST shares to surge, marking a significant step in space communication technology.",
       "exported_at": "2025-10-08T07:56:41.062323",
+      "continuous_session": true
+    },
+    {
+      "title": "Goldman Sachs says we&apos;re not yet in a bubble — but still has a warning for investors",
+      "link": "https://www.cnbc.com/2025/10/08/goldman-sachs-says-were-not-yet-in-a-bubble-but-still-has-a-warning-for-investors.html",
+      "summary": "Chatter around an AI bubble is swirling, but Goldman says we're not there — yet.",
+      "published": "Wed, 08 Oct 2025 11:59:12 GMT",
+      "content": "Chatter around an AI bubble is swirling, but Goldman says we're not there — yet.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d3141a8b446b08bbd4ba4e4c6d5a46bc",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GOLDMAN SACHS: NO BUBBLE YET, BUT INVESTORS BEWARE ⚠️\n\n- Goldman dismisses AI bubble talk swirling around markets 🌪️\n- Investors cautioned despite market not being in a bubble 🛑\n- Warning issued regarding potential risks for investors ⚠️\n\nTAKEAWAY: Goldman Sachs refutes AI bubble claims but still issues a caution to investors about potential risks in the market.",
+      "exported_at": "2025-10-08T08:01:50.310602",
       "continuous_session": true
     }
   ]
