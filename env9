@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T08:32:37.108473",
-    "total_articles": 2405,
-    "new_articles_in_last_fetch": 2405,
+    "created_at": "2025-10-08T08:42:51.437944",
+    "total_articles": 2406,
+    "new_articles_in_last_fetch": 2406,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -31229,6 +31229,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JPMORGAN UPGRADES BIOPHARMA STOCK TO OVERWEIGHT 🚀\n\n- Ionis Pharmaceuticals shares expected to surge by 16% 📈\n- JPMorgan predicts strong growth due to a 170% increase in 6 months 🔥\n- Upgrade follows promising outlook on the company's drug pipeline 💊\n\nTAKEAWAY: JPMorgan's bullish upgrade on Ionis Pharmaceuticals signals confidence in its future growth potential fueled by a robust drug pipeline.",
       "exported_at": "2025-10-08T08:32:36.957303",
+      "continuous_session": true
+    },
+    {
+      "title": "Buy this defense giant as its long-term prospects improve, days Deutsche Bank",
+      "link": "https://www.cnbc.com/2025/10/08/buy-this-defense-giant-as-its-long-term-prospects-improve-days-deutsche-bank.html",
+      "summary": "The bank upgraded the aerospace and defense stock to buy from hold.",
+      "published": "Wed, 08 Oct 2025 12:39:45 GMT",
+      "content": "The bank upgraded the aerospace and defense stock to buy from hold.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "dd00b6c173ba63d205c816c4ad0169c5",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BUY SIGNAL ALERT: DEFENSE GIANT UPGRADED BY DEUTSCHE BANK 🚀\n\n- Deutsche Bank upgrades aerospace and defense stock to BUY 📈\n- Long-term prospects of the company seen as improving 🌟\n- Investor confidence likely to rise with the upgrade ✅\n- Positive outlook on the defense sector 🎯\n- Potential for growth and profitability in the long term 💰\n- Market anticipating increased performance from the stock 📈\n\nTAKEAWAY: Deutsche Bank's upgrade of the defense giant signals improved long-term prospects, boosting investor confidence and market expectations.",
+      "exported_at": "2025-10-08T08:42:51.261739",
       "continuous_session": true
     }
   ]
