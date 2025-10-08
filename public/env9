@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-07T20:15:18.136287",
-    "total_articles": 2373,
-    "new_articles_in_last_fetch": 2373,
+    "created_at": "2025-10-07T20:50:51.802120",
+    "total_articles": 2374,
+    "new_articles_in_last_fetch": 2374,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -30813,6 +30813,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: INTEL SET TO UNVEIL TECH DETAILS OF PANTHER LAKE PC CHIP 🚀\n\n- Intel to disclose technical details of Panther Lake chip for laptops 💻\n- Anticipation builds as release date set for Thursday ⏰\n- Four sources confirm the upcoming chip reveal to Reuters ✅\n- Panther Lake chip expected to bring notable advancements 🌟\n\nTAKEAWAY: Intel's imminent unveiling of Panther Lake's technical details for laptops stirs excitement and anticipation in the tech industry.",
       "exported_at": "2025-10-07T20:15:17.978154",
+      "continuous_session": true
+    },
+    {
+      "title": "The global M&amp;A engine is roaring, fueled by megadeals and rate-cut bets",
+      "link": "https://www.cnbc.com/2025/10/08/ma-dealmaking-surge-q3-megadeals-rate-cut-bets.html",
+      "summary": "The nine-month global deal value stood at over $3.4 trillion — a 32% year-on-year jump and the strongest showing since 2021, according to Mergermarket.",
+      "published": "Wed, 08 Oct 2025 00:43:47 GMT",
+      "content": "The nine-month global deal value stood at over $3.4 trillion — a 32% year-on-year jump and the strongest showing since 2021, according to Mergermarket.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "33d51db5eedd70a31305cc1086a8139f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: THE GLOBAL M&A ENGINE ROARS WITH $3.4 TRILLION DEAL VALUE ⚡️\n\n- Global M&A hits $3.4 trillion, up 32% YoY 📈\n- Strongest performance since 2021 🌍\n- Megadeals and rate-cut bets fuel the M&A surge 🔥\n\nTAKEAWAY: The global M&A market is on fire with a significant $3.4 trillion deal value, driven by megadeals and rate-cut expectations.",
+      "exported_at": "2025-10-07T20:50:51.635464",
       "continuous_session": true
     }
   ]
