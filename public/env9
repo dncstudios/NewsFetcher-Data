@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T15:36:27.099212",
-    "total_articles": 2457,
-    "new_articles_in_last_fetch": 2457,
+    "created_at": "2025-10-08T15:51:45.808843",
+    "total_articles": 2458,
+    "new_articles_in_last_fetch": 2458,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -31905,6 +31905,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AIR TRAFFIC CONTROL SHORTAGES WORSEN U.S. FLIGHT DELAYS 🚨\n\n- Government shutdown worsens strain on air traffic controllers ✈️\n- Shortage of controllers has long been a concern for airlines 🛫\n- Airlines face increased challenges due to controller shortages 📉\n\nTAKEAWAY: The ongoing government shutdown is intensifying the strain on air traffic controllers, leading to increased challenges and delays for airlines in the U.S. ✈️",
       "exported_at": "2025-10-08T15:36:26.915851",
+      "continuous_session": true
+    },
+    {
+      "title": "Google adds limits to &apos;Work from Anywhere&apos; policy that began during Covid",
+      "link": "https://www.cnbc.com/2025/10/08/google-adds-limits-to-work-from-anywhere-policy-that-began-in-covid.html",
+      "summary": "Google is putting restrictions on its “Work from Anywhere” policy, limiting the number of days employees can take advantage of the perk.",
+      "published": "Wed, 08 Oct 2025 19:44:43 GMT",
+      "content": "Google is putting restrictions on its “Work from Anywhere” policy, limiting the number of days employees can take advantage of the perk.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7b890c228ca2ba9345cc41d8d625a905",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GOOGLE RESTRICTS 'WORK FROM ANYWHERE' POLICY 🚨\n\n- Google imposes limits on remote work days 🏢\n- Employees face restricted access to flexible work 📉\n- 'Work from Anywhere' policy now has set boundaries ⛔\n\nTAKEAWAY: Google tightens its 'Work from Anywhere' policy, introducing restrictions on the number of remote work days allowed for employees.",
+      "exported_at": "2025-10-08T15:51:45.627821",
       "continuous_session": true
     }
   ]
