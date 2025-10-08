@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T07:41:17.071755",
-    "total_articles": 2397,
-    "new_articles_in_last_fetch": 2397,
+    "created_at": "2025-10-08T07:51:30.904031",
+    "total_articles": 2398,
+    "new_articles_in_last_fetch": 2398,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -31125,6 +31125,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AI SET TO DISRUPT JOB MARKET, WHITE-COLLAR ROLES AT RISK ⚡️\n\n- AI to predominantly impact white-collar jobs 🤖💼\n- Roles needing physical labor less vulnerable 🏗️🛠️\n- Report anticipates radical transformation in certain job sectors 💥\n- White-collar workers face potential job market upheaval 📉💼\n- AI technology expected to reshape job landscape dramatically 🔄\n- Physical labor jobs expected to remain relatively stable 🏗️🚧\n\nTAKEAWAY: The job market faces imminent disruption as AI technology targets white-collar roles, potentially leading to radical transformations in certain sectors, while physical labor jobs remain relatively insulated.",
       "exported_at": "2025-10-08T07:41:17.042529",
+      "continuous_session": true
+    },
+    {
+      "title": "France&apos;s crisis takes an unexpected turn as Macron&apos;s allies defy him",
+      "link": "https://www.cnbc.com/2025/10/08/frances-crisis-takes-an-unexpected-turn-as-macrons-allies-defy-him.html",
+      "summary": "The most notable criticism has come from former Prime Minister Gabriel Attal, once Macron's protégé.",
+      "published": "Wed, 08 Oct 2025 11:48:39 GMT",
+      "content": "The most notable criticism has come from former Prime Minister Gabriel Attal, once Macron's protégé.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f3bbedffe1c6762ac072f69fae34dee3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FRANCE'S CRISIS DEEPENS WITH ALLIES DEFYING MACRON 🚨\n\n- Macron faces unexpected criticism from former ally Gabriel Attal\n- Attal, former Prime Minister, openly challenges Macron's leadership 🗣️\n- Defiance from once-loyal protégé creates internal turmoil 🌪️\n\nTAKEAWAY: France's crisis escalates as Macron's former protégé and allies openly defy him, adding to internal turmoil and challenges to his leadership.",
+      "exported_at": "2025-10-08T07:51:30.736101",
       "continuous_session": true
     }
   ]
