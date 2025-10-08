@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T17:28:31.637769",
-    "total_articles": 2463,
-    "new_articles_in_last_fetch": 2463,
+    "created_at": "2025-10-08T18:34:34.441215",
+    "total_articles": 2464,
+    "new_articles_in_last_fetch": 2464,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -31983,6 +31983,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCK MARKET'S 'SUGAR RUSH' SIGNALS OPPORTUNITY FOR PROTECTIVE PUTS 🚀\n\n- CEO Jeff Kilburg advises using options to safeguard portfolios 🛡️\n- Stock market hits record high, prompting caution 📈\n- Protective puts offer defense against potential downturns ⚔️\n\nTAKEAWAY: Jeff Kilburg's recommendation to consider protective puts during the stock market's 'sugar rush' highlights the importance of safeguarding investments during uncertain times.",
       "exported_at": "2025-10-08T17:28:31.472121",
+      "continuous_session": true
+    },
+    {
+      "title": "Thursday&apos;s big stock stories: What’s likely to move the market in the next trading session",
+      "link": "https://www.cnbc.com/2025/10/08/thursdays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html",
+      "summary": "The S&amp;P 500 and the Nasdaq Composite hit new all-time intraday and closing highs on Wednesday. It was the first time the tech heavy index closed above 23,000.",
+      "published": "Wed, 08 Oct 2025 22:30:37 GMT",
+      "content": "The S&amp;P 500 and the Nasdaq Composite hit new all-time intraday and closing highs on Wednesday. It was the first time the tech heavy index closed above 23,000.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5cdc7bb0140e39b47424c76f232be4db",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: THURSDAY'S BIG STOCK STORIES: MARKET SET FOR NEW HIGHS 🚀\n\n- S&P 500 and Nasdaq hit all-time highs 📈\n- Nasdaq closes above 23,000 for the first time 🌟\n- Market poised for continued growth momentum 🚀\n\nTAKEAWAY: S&P 500 and Nasdaq reaching new highs signal strong market momentum, with potential for continued growth in the next trading session.",
+      "exported_at": "2025-10-08T18:34:34.336195",
       "continuous_session": true
     }
   ]
