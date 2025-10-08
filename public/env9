@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T14:24:59.586173",
-    "total_articles": 2449,
-    "new_articles_in_last_fetch": 2449,
+    "created_at": "2025-10-08T14:35:14.274467",
+    "total_articles": 2450,
+    "new_articles_in_last_fetch": 2450,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -31801,6 +31801,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AIR TRAFFIC CONTROL SHORTAGES WORSEN U.S. FLIGHT DELAYS 🚨\n\n- Government shutdown worsens strain on air traffic controllers ✈️\n- Shortage of controllers has long been a concern for airlines 🛫\n- Airlines face increased challenges due to controller shortages 📉\n\nTAKEAWAY: The ongoing government shutdown is intensifying the strain on air traffic controllers, leading to increased challenges and delays for airlines in the U.S. ✈️",
       "exported_at": "2025-10-08T14:24:59.417571",
+      "continuous_session": true
+    },
+    {
+      "title": "Divided Fed officials saw another two interest rate cuts by the end of 2025, minutes show",
+      "link": "https://www.cnbc.com/2025/10/08/fed-minutes-september-2025.html",
+      "summary": "Officials were strongly inclined to lower rates, with the only dispute seeming to be over how many cuts were coming.",
+      "published": "Wed, 08 Oct 2025 18:33:00 GMT",
+      "content": "Officials were strongly inclined to lower rates, with the only dispute seeming to be over how many cuts were coming.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "16e4d8c719fd9edeec2ec6191e1c754a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FED DIVIDED OVER RATE CUTS: 2 MORE BY 2025? ⚠️\n\n- Fed officials leaning towards more rate cuts 📉\n- Disagreement on number of cuts expected ⚖️\n- Strong inclination to lower interest rates shown 💪\n\nTAKEAWAY: Divided Fed officials are likely to implement two more interest rate cuts by the end of 2025, showcasing a strong inclination towards easing monetary policy.",
+      "exported_at": "2025-10-08T14:35:14.101795",
       "continuous_session": true
     }
   ]
