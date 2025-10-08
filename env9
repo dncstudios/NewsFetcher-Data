@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T06:19:42.839821",
-    "total_articles": 2390,
-    "new_articles_in_last_fetch": 2390,
+    "created_at": "2025-10-08T06:34:59.010845",
+    "total_articles": 2391,
+    "new_articles_in_last_fetch": 2391,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -31034,6 +31034,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUTH ABOUT AI, JOBS, AND THE FUTURE? 'NO ONE KNOWS ANYTHING,' SAYS WHARTON EXPERT 🤖\n\n- Rapid progress in gen AI, yet uncertainty looms 🌐\n- Wharton expert Ethan Mollick emphasizes unknowns 🧠\n- Everything about AI's impact on future remains a mystery 🕵️‍♂️\n\nTAKEAWAY: The truth about AI, jobs, and the future is shrouded in uncertainty, with experts like Ethan Mollick highlighting the vast unknowns ahead.",
       "exported_at": "2025-10-08T06:19:42.812820",
+      "continuous_session": true
+    },
+    {
+      "title": "Morgan Stanley highlights stocks that could see big earnings surprises this quarter",
+      "link": "https://www.cnbc.com/2025/10/08/morgan-stanley-highlights-stocks-that-could-see-big-q3-earnings-surprises.html",
+      "summary": "Morgan Stanley highlighted companies such as Roblox and Reddit that could surprise investors to the upside as third quarter earnings are reported.",
+      "published": "Wed, 08 Oct 2025 10:25:02 GMT",
+      "content": "Morgan Stanley highlighted companies such as Roblox and Reddit that could surprise investors to the upside as third quarter earnings are reported.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "14e01c727b172fe724390e95f3b3ebcf",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MORGAN STANLEY PICKS STOCKS FOR BIG Q3 EARNINGS SURPRISES 🚀\n\n- Roblox, Reddit among companies set to exceed Q3 earnings 📈\n- Morgan Stanley identifies potential positive surprises 🎯\n- Investors anticipate strong performance in the upcoming reports 💪\n\nTAKEAWAY: Morgan Stanley's stock picks like Roblox and Reddit signal potential earnings surprises in the third quarter, boosting investor optimism.",
+      "exported_at": "2025-10-08T06:34:58.852948",
       "continuous_session": true
     }
   ]
