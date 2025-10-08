@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T12:27:30.339467",
-    "total_articles": 2437,
-    "new_articles_in_last_fetch": 2437,
+    "created_at": "2025-10-08T12:32:40.948177",
+    "total_articles": 2438,
+    "new_articles_in_last_fetch": 2438,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -31645,6 +31645,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: GM BACKTRACKS ON LAST-MINUTE EV TAX CREDITS CLAIM 🚨\n\n- GM cancels plan due to concerns raised by Sen. Bernie Moreno 🛑\n- Decision to kill program confirmed by insider source 🕵️‍♂️\n- Last-minute EV tax credits claim abandoned by GM 🚫\n\nTAKEAWAY: GM's sudden reversal on claiming last-minute EV tax credits follows concerns raised by Sen. Bernie Moreno, impacting their tax credit strategy.",
       "exported_at": "2025-10-08T12:27:30.159423",
+      "continuous_session": true
+    },
+    {
+      "title": "38-year-old&apos;s startup, backed by Bill Gates, has raised $33M to reinvent butter without cows: We want &apos;to save the world&apos;",
+      "link": "https://www.cnbc.com/2025/10/08/bill-gates-backed-startup-savor-wants-to-reinvent-butter-without-cows.html",
+      "summary": "Food tech startup Savor wants to change the way people eat butter, and help save the environment in the process. It has a long way to go to reach those goals.",
+      "published": "Wed, 08 Oct 2025 15:53:38 GMT",
+      "content": "Food tech startup Savor wants to change the way people eat butter, and help save the environment in the process. It has a long way to go to reach those goals.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "901ba6f4346f8e7566f491bef9c653e3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 38-YEAR-OLD'S STARTUP RAISES $33M TO REINVENT BUTTER WITHOUT COWS 🚀\n\n- Savor startup aims to revolutionize butter production 🌱\n- Backed by Bill Gates, Savor raises $33M for eco-friendly mission 💸\n- Vision to transform butter industry and save the environment 🌎\n- Ambitious goals to innovate food tech for a sustainable future 🌿\n- Savor faces challenges in achieving its transformative vision 🛣️\n\nTAKEAWAY: Savor, with its innovative approach to butter production, supported by Bill Gates, is on a mission to revolutionize the food tech industry and contribute to environmental sustainability, although challenges lie ahead.",
+      "exported_at": "2025-10-08T12:32:40.779100",
       "continuous_session": true
     }
   ]
