@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T15:51:45.808843",
-    "total_articles": 2458,
-    "new_articles_in_last_fetch": 2458,
+    "created_at": "2025-10-08T16:07:04.142726",
+    "total_articles": 2459,
+    "new_articles_in_last_fetch": 2459,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -31918,6 +31918,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: GOOGLE RESTRICTS 'WORK FROM ANYWHERE' POLICY 🚨\n\n- Google imposes limits on remote work days 🏢\n- Employees face restricted access to flexible work 📉\n- 'Work from Anywhere' policy now has set boundaries ⛔\n\nTAKEAWAY: Google tightens its 'Work from Anywhere' policy, introducing restrictions on the number of remote work days allowed for employees.",
       "exported_at": "2025-10-08T15:51:45.627821",
+      "continuous_session": true
+    },
+    {
+      "title": "These beaten-down stocks may have further to fall as investors sell to save on taxes, says Morgan Stanley",
+      "link": "https://www.cnbc.com/2025/10/08/these-beaten-down-stocks-may-have-further-to-fall-as-investors-sell-to-save-on-taxes-says-morgan-stanley.html",
+      "summary": "With the end of the year approaching, investors are assessing their winners and losers, and may sell some of those beaten-down names to save on taxes.",
+      "published": "Wed, 08 Oct 2025 19:50:06 GMT",
+      "content": "With the end of the year approaching, investors are assessing their winners and losers, and may sell some of those beaten-down names to save on taxes.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "61ece827775337eac3e6e2b68610c936",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: THESE BEATEN-DOWN STOCKS MAY FACE FURTHER DECLINE AS INVESTORS SELL TO SAVE ON TAXES 📉\n\n- Investors evaluating winners and losers as year-end nears 📊\n- Possibility of selling beaten-down stocks to save on taxes 💰\n- Potential further decline for these stocks, warns Morgan Stanley ⚠️\n\nTAKEAWAY: Year-end tax-saving strategies could lead to more selling pressure on already beaten-down stocks, potentially causing further decline.",
+      "exported_at": "2025-10-08T16:07:04.115037",
       "continuous_session": true
     }
   ]
