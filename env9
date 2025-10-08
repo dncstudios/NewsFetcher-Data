@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T13:54:19.871089",
-    "total_articles": 2445,
-    "new_articles_in_last_fetch": 2445,
+    "created_at": "2025-10-08T13:59:32.065433",
+    "total_articles": 2447,
+    "new_articles_in_last_fetch": 2447,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -31749,6 +31749,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AMD'S OPENAI DEAL CHALLENGES NVIDIA'S DOMINANCE 🚀\n\n- AMD enters market dominated by Nvidia with OpenAI deal 💥\n- Nvidia faces challenge from AMD, a distant challenger before 🎯\n- Intel previously dominated the semiconductor market 📈\n\nTAKEAWAY: AMD's partnership with OpenAI shakes up Nvidia's market dominance, reminiscent of Intel's previous stronghold in semiconductors.",
       "exported_at": "2025-10-08T13:54:19.692231",
+      "continuous_session": true
+    },
+    {
+      "title": "31-year-old kept renting years after she made millions—why she decided to buy a home now",
+      "link": "https://www.cnbc.com/2025/10/08/31yearold-kept-renting-even-after-she-made-millions-why-she-chose-to-buy-a-home-now.html",
+      "summary": "Tori Dunlap credits renting with helping her build her business and net worth. Here's what made her finally buy a home.",
+      "published": "Wed, 08 Oct 2025 17:40:31 GMT",
+      "content": "Tori Dunlap credits renting with helping her build her business and net worth. Here's what made her finally buy a home.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b0c522b832d6282cce1f51b96f2522f5",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 31-YEAR-OLD RENTED FOR YEARS DESPITE MILLIONS—WHY BUY NOW? 🏠\n\n- Tori Dunlap rented to focus on business growth 📈\n- Renting aided in building her net worth 💰\n- Decision to buy a home made for specific reasons 🎯\n\nTAKEAWAY: Tori Dunlap's strategic approach to renting helped her focus on business growth, leading to significant financial success before deciding to purchase a home.",
+      "exported_at": "2025-10-08T13:59:32.037782",
+      "continuous_session": true
+    },
+    {
+      "title": "Gold hits $4,000 but stocks still win over time, top advisor says: &apos;Gold glitters but earnings compound&apos;",
+      "link": "https://www.cnbc.com/2025/10/08/gold-vs-sp500-returns.html",
+      "summary": "The price of gold is soaring amid the current state political and financial uncertainty, but other asset classes have more staying power, experts say.",
+      "published": "Wed, 08 Oct 2025 17:39:54 GMT",
+      "content": "The price of gold is soaring amid the current state political and financial uncertainty, but other asset classes have more staying power, experts say.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "95373dc8f9af59782525713ed970a63d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GOLD SOARS TO $4,000 AMID UNCERTAINTY, BUT STOCKS WIN LONG-TERM 🚀\n\n- Gold hits $4,000 due to political and financial uncertainty 📈\n- Experts advise stocks for long-term staying power 💪\n- Gold shines now, but stocks outperform over time 🌟\n\nTAKEAWAY: While gold's price skyrockets amidst uncertainty, experts recommend stocks for long-term stability and growth.",
+      "exported_at": "2025-10-08T13:59:32.037792",
       "continuous_session": true
     }
   ]
