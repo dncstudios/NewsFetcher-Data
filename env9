@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T11:06:03.595980",
-    "total_articles": 2430,
-    "new_articles_in_last_fetch": 2430,
+    "created_at": "2025-10-08T11:11:11.056279",
+    "total_articles": 2432,
+    "new_articles_in_last_fetch": 2432,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -31554,6 +31554,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: INSURANCE STOCK BREAKS OUT & REMAINS UNDERVALUED 🚀\n\n- Health insurance stock shows breakout momentum 📈\n- Stock remains undervalued despite positive movement ✅\n- Tony Zhang recommends vertical call spread strategy 📊\n- Options offer opportunity to go long on the stock 📈\n- Vertical call spread explained for potential investors 📊\n- Strategy aims to capitalize on stock's upward potential 🚀\n\nTAKEAWAY: Despite the breakout, this undervalued insurance stock presents an opportunity for investors to go long using a vertical call spread strategy recommended by Tony Zhang.",
       "exported_at": "2025-10-08T11:06:03.442732",
+      "continuous_session": true
+    },
+    {
+      "title": "Nvidia&apos;s Huang says he&apos;s surprised AMD offered OpenAI 10% of company in &apos;clever&apos; deal",
+      "link": "https://www.cnbc.com/2025/10/08/nvidia-huang-amd-open-ai.html",
+      "summary": "OpenAI and AMD reached a deal on Monday, with OpenAI committing to purchase 6 gigawatts worth of chips over multiple years.",
+      "published": "Wed, 08 Oct 2025 15:06:17 GMT",
+      "content": "OpenAI and AMD reached a deal on Monday, with OpenAI committing to purchase 6 gigawatts worth of chips over multiple years.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "af415ebf8402e1cb733400121c70dd34",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NVIDIA'S HUANG SURPRISED BY AMD'S 'CLEVER' 10% OPENAI DEAL 🚀\n\n- OpenAI secures deal with AMD for 6 gigawatts of chips 💰\n- AMD offers 10% of company in strategic move 🎯\n- NVIDIA's Huang impressed by the unexpected partnership 💡\n\nTAKEAWAY: AMD's strategic deal with OpenAI for chip purchases and 10% ownership surprises industry leader NVIDIA, highlighting the importance of innovative partnerships in the tech sector.",
+      "exported_at": "2025-10-08T11:11:10.885346",
+      "continuous_session": true
+    },
+    {
+      "title": "James Comey trial set for Jan. 5 on charges sought by Trump",
+      "link": "https://www.cnbc.com/2025/10/08/james-comey-arraignment-trump-fbi-congress.html",
+      "summary": "\"My family and I have known for years that there are costs to standing up to Donald Trump,\" former FBI Director James Comey said after being indicted.",
+      "published": "Wed, 08 Oct 2025 15:08:14 GMT",
+      "content": "\"My family and I have known for years that there are costs to standing up to Donald Trump,\" former FBI Director James Comey said after being indicted.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "67aeffae5a895d18e446830b9f3e2372",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JAMES COMEY FACES CRIMINAL CHARGES FOR STANDING UP TO TRUMP ⚠️\n\n- Comey indicted for standing against Trump's actions 👊\n- Charges highlight the costs of opposing the former president 💸\n- Legal battle ahead for the former FBI Director 🔍\n\nTAKEAWAY: James Comey's arraignment on criminal charges serves as a stark reminder of the consequences of standing up to powerful figures like Trump.",
+      "exported_at": "2025-10-08T11:11:10.885412",
       "continuous_session": true
     }
   ]
