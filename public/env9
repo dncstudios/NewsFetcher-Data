@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T05:59:10.437339",
-    "total_articles": 2387,
-    "new_articles_in_last_fetch": 2387,
+    "created_at": "2025-10-08T06:14:34.316443",
+    "total_articles": 2388,
+    "new_articles_in_last_fetch": 2388,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -30995,6 +30995,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCK FUTURES STABLE DESPITE S&P 500 ENDING WIN STREAK 📉\n\n- S&P 500 snaps 7-day win streak, causing minor impact on stock futures 📉\n- Oracle's drop raises concerns about AI trade sustainability 🤔\n- Market shows stability despite recent fluctuations 📊\n\nTAKEAWAY: Despite S&P 500 ending its win streak and Oracle's drop questioning AI trade sustainability, stock futures remain stable, showing market resilience.",
       "exported_at": "2025-10-08T05:59:10.284798",
+      "continuous_session": true
+    },
+    {
+      "title": "Auto giant shares tumble as European Union&apos;s new steel tariffs spark industry panic",
+      "link": "https://www.cnbc.com/2025/10/08/auto-giants-tumble-as-eus-new-steel-tariffs-spark-industry-panic.html",
+      "summary": "Shares of Europe’s biggest automakers fell on Wednesday, amid industry concern about the impact of the European Union’s new steel import quota plan.",
+      "published": "Wed, 08 Oct 2025 10:12:28 GMT",
+      "content": "Shares of Europe’s biggest automakers fell on Wednesday, amid industry concern about the impact of the European Union’s new steel import quota plan.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b3125bfe0d2c87e2b7c000be574f5f68",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AUTO GIANT SHARES PLUNGE AS EU'S STEEL TARIFFS SPARK PANIC 🚨\n\n- Europe's top automakers witness share decline 📉\n- Industry fears EU's new steel import quota effects 🛑\n- Concerns rise over impact on automotive sector 🚗\n\nTAKEAWAY: European auto giants experience a significant decline in shares due to fears surrounding the European Union's new steel import quota plan, sparking industry-wide panic.",
+      "exported_at": "2025-10-08T06:14:34.145613",
       "continuous_session": true
     }
   ]
