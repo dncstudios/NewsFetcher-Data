@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T05:18:16.907690",
-    "total_articles": 2384,
-    "new_articles_in_last_fetch": 2384,
+    "created_at": "2025-10-08T05:28:30.683271",
+    "total_articles": 2385,
+    "new_articles_in_last_fetch": 2385,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -30956,6 +30956,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCK FUTURES STABLE DESPITE S&P 500 ENDING WIN STREAK 📉\n\n- S&P 500 snaps 7-day win streak, causing minor impact on stock futures 📉\n- Oracle's drop raises concerns about AI trade sustainability 🤔\n- Market shows stability despite recent fluctuations 📊\n\nTAKEAWAY: Despite S&P 500 ending its win streak and Oracle's drop questioning AI trade sustainability, stock futures remain stable, showing market resilience.",
       "exported_at": "2025-10-08T05:18:16.719890",
+      "continuous_session": true
+    },
+    {
+      "title": "Anthropic to open first India office as rival OpenAI boosts presence in the country",
+      "link": "https://www.cnbc.com/2025/10/08/anthropic-to-open-first-india-office-in-2026.html",
+      "summary": "AI adoption among both consumers and businesses is expected to ramp up quickly in India. Amazon-backed Anthropic wants to be involved.",
+      "published": "Wed, 08 Oct 2025 09:17:33 GMT",
+      "content": "AI adoption among both consumers and businesses is expected to ramp up quickly in India. Amazon-backed Anthropic wants to be involved.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "22b3d92c68818986f4de9e4aff2737ae",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ANTHROPIC EXPANDS TO INDIA AMID OPENAI'S RISING PRESENCE 🚀\n\n- Anthropic to launch its first office in India 🇮🇳\n- OpenAI also increasing its footprint in the country 📈\n- India witnessing rapid AI adoption by consumers & businesses 💻\n\nTAKEAWAY: Anthropic's strategic move to open its first office in India aligns with the growing trend of AI adoption in the country, amid competition from established players like OpenAI.",
+      "exported_at": "2025-10-08T05:28:30.656631",
       "continuous_session": true
     }
   ]
