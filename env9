@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T17:23:22.610484",
-    "total_articles": 2462,
-    "new_articles_in_last_fetch": 2462,
+    "created_at": "2025-10-08T17:28:31.637769",
+    "total_articles": 2463,
+    "new_articles_in_last_fetch": 2463,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -31970,6 +31970,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP EYES EGYPT TRIP FOR GAZA DEAL 🚀\n\n- Trump considers Egypt visit this weekend for Gaza hostages-for-ceasefire pact ✈️\n- Negotiators working to finalize agreement for peace in Gaza 🕊️\n- Potential trip indicates high-level commitment to resolving Gaza crisis 💪\n\nTAKEAWAY: Trump's potential visit to Egypt shows determination to secure a hostages-for-ceasefire deal in Gaza, signaling a strong push for peace in the region.",
       "exported_at": "2025-10-08T17:23:22.583320",
+      "continuous_session": true
+    },
+    {
+      "title": "Stock market&apos;s &apos;sugar rush&apos; makes for a good time to purchase protective puts, Jeff Kilburg says",
+      "link": "https://www.cnbc.com/2025/10/08/stock-markets-sugar-rush-makes-it-a-good-time-to-purchase-puts-jeff-kilburg-says.html",
+      "summary": "KKM Financial CEO Jeff Kilburg said the stock market's latest record rally marks a good time for investors to turn to options to protect their portfolios in case of a downturn.",
+      "published": "Wed, 08 Oct 2025 21:21:58 GMT",
+      "content": "KKM Financial CEO Jeff Kilburg said the stock market's latest record rally marks a good time for investors to turn to options to protect their portfolios in case of a downturn.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7d13e18bc8d9cdb4c3d8addf908b1dad",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK MARKET'S 'SUGAR RUSH' SIGNALS OPPORTUNITY FOR PROTECTIVE PUTS 🚀\n\n- CEO Jeff Kilburg advises using options to safeguard portfolios 🛡️\n- Stock market hits record high, prompting caution 📈\n- Protective puts offer defense against potential downturns ⚔️\n\nTAKEAWAY: Jeff Kilburg's recommendation to consider protective puts during the stock market's 'sugar rush' highlights the importance of safeguarding investments during uncertain times.",
+      "exported_at": "2025-10-08T17:28:31.472121",
       "continuous_session": true
     }
   ]
