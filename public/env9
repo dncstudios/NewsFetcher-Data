@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T02:30:48.700477",
-    "total_articles": 2380,
-    "new_articles_in_last_fetch": 2380,
+    "created_at": "2025-10-08T04:17:17.406082",
+    "total_articles": 2381,
+    "new_articles_in_last_fetch": 2381,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -30904,6 +30904,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SOFTBANK ACQUIRES ABB ROBOTICS UNIT FOR $5.4 BILLION 🤖💰\n\n- SoftBank seals deal to purchase ABB's robotics division 🤝\n- Acquisition part of SoftBank's strategy to enhance AI presence 🤖📈\n- $5.4 billion investment signals confidence in robotics sector 💪\n- Move aligns with SoftBank's focus on innovative technologies 🔝\n- ABB's robotics unit acquisition to boost SoftBank's AI capabilities 🚀\n- Deal strengthens SoftBank's position in the competitive market 💥\n\nTAKEAWAY: SoftBank's $5.4 billion acquisition of ABB's robotics division solidifies their commitment to advancing AI technologies and enhances their competitive edge in the market.",
       "exported_at": "2025-10-08T02:30:48.531338",
+      "continuous_session": true
+    },
+    {
+      "title": "European steelmakers rise after EU proposes slashing tariff-free import quota",
+      "link": "https://www.cnbc.com/2025/10/08/european-markets-on-weds-octpoint8-stoxx-600-dax-ftse-cac.html",
+      "summary": "European stocks moved higher on Wednesday, as investors reacted to proposed tariffs on steel imported into the European Union.",
+      "published": "Wed, 08 Oct 2025 08:12:09 GMT",
+      "content": "European stocks moved higher on Wednesday, as investors reacted to proposed tariffs on steel imported into the European Union.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8e302d7b39846b02741ea69981b40c7a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: EUROPEAN STEELMAKERS SURGE AS EU CONSIDERS TARIFF CUTS 🚀\n\n- EU proposes cutting tariff-free steel import quota 📉\n- Investors drive European stocks up in response 📈\n- Positive market reaction to potential tariff changes 🔥\n\nTAKEAWAY: European steelmakers see a surge in stock prices as investors react positively to the EU's proposed slashing of tariff-free import quotas, signaling optimism in the market.",
+      "exported_at": "2025-10-08T04:17:17.244907",
       "continuous_session": true
     }
   ]
