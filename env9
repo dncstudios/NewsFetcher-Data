@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T08:17:07.851136",
-    "total_articles": 2402,
-    "new_articles_in_last_fetch": 2402,
+    "created_at": "2025-10-08T08:22:17.849194",
+    "total_articles": 2403,
+    "new_articles_in_last_fetch": 2403,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -31190,6 +31190,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: HOW INVESTORS ARE CHOOSING AI WINNERS 🚀\n\n- Traders analyze AI stocks for upcoming session 📈\n- Small and big investors eyeing potential winners 🧐\n- Frank Holland dissects key factors influencing choices 💡\n\nTAKEAWAY: Small and big investors are strategically selecting AI winners, guided by expert insights for profitable trading sessions.",
       "exported_at": "2025-10-08T08:17:07.677733",
+      "continuous_session": true
+    },
+    {
+      "title": "This tax move is one of the IRS’ ‘best-kept secrets for retirees,’ advisor says",
+      "link": "https://www.cnbc.com/2025/10/08/retirees-bigger-tax-break-charitable-giving-qcd.html",
+      "summary": "If you're retired and planning to give to charity, you could secure a bigger tax break by making a qualified charitable distribution, or QCD.",
+      "published": "Wed, 08 Oct 2025 12:15:01 GMT",
+      "content": "If you're retired and planning to give to charity, you could secure a bigger tax break by making a qualified charitable distribution, or QCD.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2fa3b57894f153a135751cfa6cef6fbb",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: IRS' 'BEST-KEPT SECRET' FOR RETIREES: BOOST TAX BREAKS WITH QCD 🌟\n\n- Retirees can maximize tax breaks with Qualified Charitable Distribution (QCD) 💰\n- QCD allows tax-efficient charitable giving 🎯\n- Strategy benefits retirees planning to donate to charity 🌟\n- Secure bigger tax breaks by utilizing QCD 🚀\n- Advisor recommends QCD as a tax-efficient option for retirees 📈\n\nTAKEAWAY: Leveraging Qualified Charitable Distribution (QCD) can help retirees maximize tax benefits and optimize their charitable giving strategies.",
+      "exported_at": "2025-10-08T08:22:17.670387",
       "continuous_session": true
     }
   ]
