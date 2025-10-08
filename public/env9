@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T10:50:44.177130",
-    "total_articles": 2428,
-    "new_articles_in_last_fetch": 2428,
+    "created_at": "2025-10-08T11:06:03.595980",
+    "total_articles": 2430,
+    "new_articles_in_last_fetch": 2430,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -31528,6 +31528,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ATTENDING WEDDINGS COSTING AS MUCH AS MONTH'S RENT 🚨\n\n- Gen Z, millennials sacrificing rent to afford weddings 🎩💍\n- Housing compromises made to attend pricey wedding events 🏠💰\n- Report highlights financial strain from wedding expenses 💸\n\nTAKEAWAY: Attending weddings can strain finances, leading some to make housing sacrifices. Consider alternative ways to celebrate without compromising financial stability.",
       "exported_at": "2025-10-08T10:50:44.041227",
+      "continuous_session": true
+    },
+    {
+      "title": "Nvidia&apos;s Huang says he&apos;s surprised AMD offered 10% of company to OpenAI in &apos;clever&apos; deal",
+      "link": "https://www.cnbc.com/2025/10/08/nvidia-huang-amd-open-ai.html",
+      "summary": "OpenAI and AMD reached a deal on Monday, with OpenAI committing to purchase 6 gigawatts worth of chips over multiple years.",
+      "published": "Wed, 08 Oct 2025 15:03:57 GMT",
+      "content": "OpenAI and AMD reached a deal on Monday, with OpenAI committing to purchase 6 gigawatts worth of chips over multiple years.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9c9ef589a53eccf45a4bde4f807a04d3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NVIDIA'S HUANG SURPRISED BY AMD'S 'CLEVER' 10% OPENAI DEAL 🚀\n\n- OpenAI secures deal with AMD for 6 gigawatts of chips 💰\n- AMD offers 10% of company in strategic move 🎯\n- NVIDIA's Huang impressed by the unexpected partnership 💡\n\nTAKEAWAY: AMD's strategic deal with OpenAI for chip purchases and 10% ownership surprises industry leader NVIDIA, highlighting the importance of innovative partnerships in the tech sector.",
+      "exported_at": "2025-10-08T11:06:03.442665",
+      "continuous_session": true
+    },
+    {
+      "title": "This insurance stock is breaking out, but remains cheap. How to get long with options",
+      "link": "https://www.cnbc.com/2025/10/08/this-insurance-stock-is-breaking-out-but-remains-cheap-how-to-get-long-with-options.html",
+      "summary": "Tony Zhang breaks down a vertical call spread on this health insurance stock.",
+      "published": "Wed, 08 Oct 2025 15:00:01 GMT",
+      "content": "Tony Zhang breaks down a vertical call spread on this health insurance stock.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c0f4eecd6f29641e451da530e15a608a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: INSURANCE STOCK BREAKS OUT & REMAINS UNDERVALUED 🚀\n\n- Health insurance stock shows breakout momentum 📈\n- Stock remains undervalued despite positive movement ✅\n- Tony Zhang recommends vertical call spread strategy 📊\n- Options offer opportunity to go long on the stock 📈\n- Vertical call spread explained for potential investors 📊\n- Strategy aims to capitalize on stock's upward potential 🚀\n\nTAKEAWAY: Despite the breakout, this undervalued insurance stock presents an opportunity for investors to go long using a vertical call spread strategy recommended by Tony Zhang.",
+      "exported_at": "2025-10-08T11:06:03.442732",
       "continuous_session": true
     }
   ]
