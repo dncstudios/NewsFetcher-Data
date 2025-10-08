@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T13:59:32.065433",
-    "total_articles": 2447,
-    "new_articles_in_last_fetch": 2447,
+    "created_at": "2025-10-08T14:24:59.586173",
+    "total_articles": 2449,
+    "new_articles_in_last_fetch": 2449,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -31775,6 +31775,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: GOLD SOARS TO $4,000 AMID UNCERTAINTY, BUT STOCKS WIN LONG-TERM 🚀\n\n- Gold hits $4,000 due to political and financial uncertainty 📈\n- Experts advise stocks for long-term staying power 💪\n- Gold shines now, but stocks outperform over time 🌟\n\nTAKEAWAY: While gold's price skyrockets amidst uncertainty, experts recommend stocks for long-term stability and growth.",
       "exported_at": "2025-10-08T13:59:32.037792",
+      "continuous_session": true
+    },
+    {
+      "title": "CoreWeave stock rallies as it introduces new AI tools for developers",
+      "link": "https://www.cnbc.com/2025/10/08/coreweave-stock-ai-developer-tools.html",
+      "summary": "CoreWeave is working to expand its business with tools targeting software developers, while adding capacity to accommodate business from Meta and OpenAI.",
+      "published": "Wed, 08 Oct 2025 18:16:47 GMT",
+      "content": "CoreWeave is working to expand its business with tools targeting software developers, while adding capacity to accommodate business from Meta and OpenAI.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5cac14cbcab0f7c27d940e081f74f725",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: COREWEAVE STOCK RALLIES ON NEW AI TOOLS LAUNCH 🚀\n\n- CoreWeave introduces AI tools for developers 🛠️\n- Expansion plans include targeting software developers 🎯\n- Company prepares to handle business from Meta and OpenAI 💼\n- Stock price surges on growth prospects 📈\n- Capacity increases to support expanding clientele 📊\n\nTAKEAWAY: CoreWeave's stock surges as it launches new AI tools for developers, expanding its business and preparing to accommodate clients like Meta and OpenAI.",
+      "exported_at": "2025-10-08T14:24:59.417529",
+      "continuous_session": true
+    },
+    {
+      "title": "Air traffic control shortages add to U.S. flight delays",
+      "link": "https://www.cnbc.com/2025/10/08/air-traffic-controllers-flight-delays-government-shutdown.html",
+      "summary": "The government shutdown is exacerbating concerns about the strain on air traffic controllers, a shortage of whom has vexed airline executives for years.",
+      "published": "Wed, 08 Oct 2025 18:21:49 GMT",
+      "content": "The government shutdown is exacerbating concerns about the strain on air traffic controllers, a shortage of whom has vexed airline executives for years.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "33ca83fd72d3878bc5374dbf0fca6c7a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AIR TRAFFIC CONTROL SHORTAGES WORSEN U.S. FLIGHT DELAYS 🚨\n\n- Government shutdown worsens strain on air traffic controllers ✈️\n- Shortage of controllers has long been a concern for airlines 🛫\n- Airlines face increased challenges due to controller shortages 📉\n\nTAKEAWAY: The ongoing government shutdown is intensifying the strain on air traffic controllers, leading to increased challenges and delays for airlines in the U.S. ✈️",
+      "exported_at": "2025-10-08T14:24:59.417571",
       "continuous_session": true
     }
   ]
