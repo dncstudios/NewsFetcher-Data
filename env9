@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T10:35:27.655909",
-    "total_articles": 2426,
-    "new_articles_in_last_fetch": 2426,
+    "created_at": "2025-10-08T10:50:44.177130",
+    "total_articles": 2428,
+    "new_articles_in_last_fetch": 2428,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -31502,6 +31502,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: IRAQ SECURES DEAL WITH EXXON MOBIL TO BOOST OILFIELD DEVELOPMENT 🚀\n\n- Iraq partners with Exxon Mobil to develop Majnoon oilfield 🛢️\n- Agreement aims to enhance Iraq's oil production and exports 📈\n- Exxon's expertise set to optimize oilfield development 🛠️\n- Deal signals potential growth in Iraq's oil sector 📈\n- Collaboration expected to benefit both parties 💼\n- Agreement likely to attract attention from global oil industry 🌍\n\nTAKEAWAY: Iraq's strategic partnership with Exxon Mobil to develop the Majnoon oilfield is set to boost oil production, exports, and potentially attract global interest in Iraq's oil sector.",
       "exported_at": "2025-10-08T10:35:27.610287",
+      "continuous_session": true
+    },
+    {
+      "title": "Decorating home for Christmas? Prepare for major holiday goods shortages, importers warn",
+      "link": "https://www.cnbc.com/2025/10/08/holiday-decorations-christmas-shopping-goods-shortages.html",
+      "summary": "If you are preparing to decorate your home for the holidays, start early, with a major importer of decorative holiday goods warning about major shortages.",
+      "published": "Wed, 08 Oct 2025 14:46:48 GMT",
+      "content": "If you are preparing to decorate your home for the holidays, start early, with a major importer of decorative holiday goods warning about major shortages.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2735e4a273967cf594732401d55d9c22",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: THE YEAR WITHOUT ARTIFICIAL CHRISTMAS TREES: IMPORTERS WARN OF HOLIDAY GOODS SHORTAGES 🚨\n\n- Major importer cautions about significant holiday goods scarcity 🎄\n- Start decorating early to avoid shortages 🌟\n- Prepare for potential lack of artificial Christmas trees 🌲\n- Importers issue warning for holiday décor scarcity 🚨\n- Holiday goods shortage alerts from major importers 🚨\n- Urgent call to start holiday decorating preparations early ⏰\n\nTAKEAWAY: Importers sound the alarm on potential shortages of artificial Christmas trees and other holiday goods, advising early preparation to avoid disappointment.",
+      "exported_at": "2025-10-08T10:50:44.041217",
+      "continuous_session": true
+    },
+    {
+      "title": "Attending a wedding can cost you as much as a typical month&apos;s rent, report finds",
+      "link": "https://www.cnbc.com/2025/10/08/attending-a-wedding-can-cost-as-much-as-rent.html",
+      "summary": "Some Gen Z and millennial renters are making certain housing sacrifices to afford wedding events, report finds. Here's what to do instead.",
+      "published": "Wed, 08 Oct 2025 14:47:18 GMT",
+      "content": "Some Gen Z and millennial renters are making certain housing sacrifices to afford wedding events, report finds. Here's what to do instead.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e6f1287803a4dad88b1dbfa1a366e386",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ATTENDING WEDDINGS COSTING AS MUCH AS MONTH'S RENT 🚨\n\n- Gen Z, millennials sacrificing rent to afford weddings 🎩💍\n- Housing compromises made to attend pricey wedding events 🏠💰\n- Report highlights financial strain from wedding expenses 💸\n\nTAKEAWAY: Attending weddings can strain finances, leading some to make housing sacrifices. Consider alternative ways to celebrate without compromising financial stability.",
+      "exported_at": "2025-10-08T10:50:44.041227",
       "continuous_session": true
     }
   ]
