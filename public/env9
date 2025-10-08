@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T15:00:45.664338",
-    "total_articles": 2453,
-    "new_articles_in_last_fetch": 2453,
+    "created_at": "2025-10-08T15:10:59.847288",
+    "total_articles": 2455,
+    "new_articles_in_last_fetch": 2455,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -31853,6 +31853,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JENSEN HUANG CRITIQUES TRUMP'S H-1B VISA CHANGES ⚠️\n\n- Trump's $100,000 fee per H-1B visa impacts immigration 🛑\n- NVIDIA's Jensen Huang speaks out against the changes 💬\n- Huang highlights personal impact on his family's immigration 🌍\n\nTAKEAWAY: President Trump's proposed changes to the H-1B visa system, including a $100,000 fee, draw criticism from Jensen Huang of NVIDIA, who emphasizes the potential impact on immigration policies.",
       "exported_at": "2025-10-08T15:00:45.563341",
+      "continuous_session": true
+    },
+    {
+      "title": "The Meme ETF is back. Is it late to the party again?",
+      "link": "https://www.cnbc.com/2025/10/08/the-meme-etf-is-back-is-it-late-to-the-party-again.html",
+      "summary": "In its first go around, the ETF's launch coincided with the Nasdaq Composite's peak.",
+      "published": "Wed, 08 Oct 2025 19:06:53 GMT",
+      "content": "In its first go around, the ETF's launch coincided with the Nasdaq Composite's peak.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "68eb9251da5be51ccf16583c51aa60c6",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: THE MEME ETF RETURNS: IS HISTORY REPEATING ITSELF? ⚠️\n\n- Meme ETF relaunches after coinciding with Nasdaq peak before 🔄\n- Investors wary of timing as ETF reenters the market ⏰\n- Questions arise on whether history will repeat itself 🤔\n\nTAKEAWAY: The Meme ETF's return sparks investor caution as its history of coinciding with market peaks raises concerns about timing and potential risks.",
+      "exported_at": "2025-10-08T15:10:59.670144",
+      "continuous_session": true
+    },
+    {
+      "title": "Why Rep. Bryan Steil thinks the government shutdown won’t delay crypto regulation: CNBC Crypto World",
+      "link": "https://www.cnbc.com/video/2025/10/08/why-rep-bryan-steil-thinks-the-government-shutdown-wont-delay-crypto-regulation-cnbc-crypto-world.html",
+      "summary": "On today's episode of CNBC Crypto World, bitcoin recovers to the $122,000 level as the crypto pullback pauses. Plus, Rep. Bryan Steil (R-Wisc.) discusses whether the ongoing government shutdown could delay the passage of crypto market structure regulation.",
+      "published": "Wed, 08 Oct 2025 19:00:01 GMT",
+      "content": "On today's episode of CNBC Crypto World, bitcoin recovers to the $122,000 level as the crypto pullback pauses. Plus, Rep. Bryan Steil (R-Wisc.) discusses whether the ongoing government shutdown could delay the passage of crypto market structure regulation.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2e713f03f3af9ffcfa4fc7f1c914654a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WHY REP. BRYAN STEIL BELIEVES GOVERNMENT SHUTDOWN WON'T AFFECT CRYPTO REGULATION ⚡️\n\n- Bitcoin rebounds to $122,000 amid paused crypto pullback 📈\n- Rep. Bryan Steil (R-Wisc.) addresses concerns on gov't shutdown 🏛️\n- Discussion on potential delay in passing crypto market regulation\n\nTAKEAWAY: Rep. Bryan Steil remains confident that the government shutdown will not hinder the progress of crypto regulation, as bitcoin bounces back to $122,000.",
+      "exported_at": "2025-10-08T15:10:59.670204",
       "continuous_session": true
     }
   ]
