@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T12:32:40.948177",
-    "total_articles": 2438,
-    "new_articles_in_last_fetch": 2438,
+    "created_at": "2025-10-08T12:47:59.577680",
+    "total_articles": 2439,
+    "new_articles_in_last_fetch": 2439,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -31658,6 +31658,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: 38-YEAR-OLD'S STARTUP RAISES $33M TO REINVENT BUTTER WITHOUT COWS 🚀\n\n- Savor startup aims to revolutionize butter production 🌱\n- Backed by Bill Gates, Savor raises $33M for eco-friendly mission 💸\n- Vision to transform butter industry and save the environment 🌎\n- Ambitious goals to innovate food tech for a sustainable future 🌿\n- Savor faces challenges in achieving its transformative vision 🛣️\n\nTAKEAWAY: Savor, with its innovative approach to butter production, supported by Bill Gates, is on a mission to revolutionize the food tech industry and contribute to environmental sustainability, although challenges lie ahead.",
       "exported_at": "2025-10-08T12:32:40.779100",
+      "continuous_session": true
+    },
+    {
+      "title": "Musk&apos;s X settles ex-Twitter executives&apos; $128 million severance pay lawsuit",
+      "link": "https://www.cnbc.com/2025/10/08/musk-x-twitter-severance-pay-lawsuit.html",
+      "summary": "Musk and X have denied wrongdoing and said the executives were fired over their performance.",
+      "published": "Wed, 08 Oct 2025 16:43:27 GMT",
+      "content": "Musk and X have denied wrongdoing and said the executives were fired over their performance.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "87635b348bd777bfa531c0c75e38c4fa",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MUSK'S X SETTLES EX-TWITTER EXECUTIVES' $128M LAWSUIT 🚀\n\n- X settles ex-Twitter execs' $128M lawsuit over severance pay 💰\n- Musk denies wrongdoing, claims execs were fired for performance 🚫\n- Lawsuit resolved without admission of fault ⚖️\n- Severance pay dispute between Musk's X and ex-Twitter execs settled ✅\n- Executives fired over performance issues, not due to misconduct 📉\n- Musk and X maintain stance on reasons for execs' termination 🚫\n\nTAKEAWAY: Musk's X settles a $128 million lawsuit with ex-Twitter executives over severance pay, denying wrongdoing and attributing the firings to performance issues.",
+      "exported_at": "2025-10-08T12:47:59.550879",
       "continuous_session": true
     }
   ]
