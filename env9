@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T22:08:13.836485",
-    "total_articles": 2474,
-    "new_articles_in_last_fetch": 2474,
+    "created_at": "2025-10-09T01:30:59.062002",
+    "total_articles": 2475,
+    "new_articles_in_last_fetch": 2475,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -32126,6 +32126,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: HANG SENG BANK SOARS 30% ON HSBC'S $37 BILLION PRIVATIZATION BID 🚀\n\n- HSBC seeks Hang Seng Bank privatization proposal 💼\n- Share price surge values Hang Seng at over $37 billion 💰\n- Privatization via scheme of arrangement under HK law 🏦\n\nTAKEAWAY: HSBC's move to privatize Hang Seng Bank boosts shares by 30%, valuing the bank at over $37 billion, signaling a significant shift in ownership.",
       "exported_at": "2025-10-08T22:08:13.796628",
+      "continuous_session": true
+    },
+    {
+      "title": "Russia is waging &apos;hybrid warfare&apos; against Europe, officials say. What does that mean?",
+      "link": "https://www.cnbc.com/2025/10/09/russia-accused-of-hybrid-warfare-against-europe-what-does-that-mean.html",
+      "summary": "Russia \"wants to sow division,\" the EU chief said Wednesday, and the bloc needs to face up to the new reality of \"hybrid warfare.\"",
+      "published": "Thu, 09 Oct 2025 05:24:10 GMT",
+      "content": "Russia \"wants to sow division,\" the EU chief said Wednesday, and the bloc needs to face up to the new reality of \"hybrid warfare.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d4b7b0f57e6f82389030e55c65c0b9cf",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: RUSSIA'S 'HYBRID WARFARE' THREATENS EUROPE 🚨\n\n- Russia aims to sow division in Europe, EU chief warns 🌍\n- EU must confront the reality of 'hybrid warfare' tactics 🛡️\n- Hybrid warfare includes cyberattacks, disinformation campaigns 💻📰\n- European officials emphasize need for unity against Russia 🤝\n- Russia's tactics pose a serious threat to European security 🚷\n- EU urged to strengthen defenses and counter hybrid threats 🛡️💪\n\nTAKEAWAY: Europe faces a critical challenge as Russia engages in 'hybrid warfare,' emphasizing the need for unity, defense strengthening, and countermeasures against cyberattacks and disinformation campaigns.",
+      "exported_at": "2025-10-09T01:30:58.895113",
       "continuous_session": true
     }
   ]
