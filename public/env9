@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T18:17:09.000451",
-    "total_articles": 2572,
-    "new_articles_in_last_fetch": 2572,
+    "created_at": "2025-10-09T18:42:34.379203",
+    "total_articles": 2573,
+    "new_articles_in_last_fetch": 2573,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -33396,6 +33396,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCK FUTURES STABLE AFTER S&P 500, NASDAQ PULLBACK ⚠️\n\n- S&P 500, Nasdaq reach record intraday highs 📈\n- Both indices retreat, closing lower 📉\n- Stock futures show minimal change post-pullback 📉\n\nTAKEAWAY: Despite record intraday highs, S&P 500 and Nasdaq pulled back, causing stock futures to stabilize after the market retreat.",
       "exported_at": "2025-10-09T18:17:08.829883",
+      "continuous_session": true
+    },
+    {
+      "title": "Former Fed Governor Larry Lindsey withdraws name for Fed chair",
+      "link": "https://www.cnbc.com/2025/10/09/former-fed-governor-larry-lindsey-withdraws-name-for-fed-chair.html",
+      "summary": "Former U.S. Federal Reserve Governor Larry Lindsey has withdrawn his name from the list of candidates for the next potential chair of the Federal Reserve.",
+      "published": "Thu, 09 Oct 2025 22:35:22 GMT",
+      "content": "Former U.S. Federal Reserve Governor Larry Lindsey has withdrawn his name from the list of candidates for the next potential chair of the Federal Reserve.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d58c0e2b9a32db375bc71dc19efd0164",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FORMER FED GOVERNOR LARRY LINDSEY DROPS OUT OF FED CHAIR RACE ⚠️\n\n- Larry Lindsey withdraws from Fed chair candidacy 📉\n- Lindsey exits list of potential Federal Reserve chairs 🚫\n- Decision leaves vacancy for next Fed leader 🕒\n\nTAKEAWAY: Former Fed Governor Larry Lindsey's withdrawal from the race for the next Federal Reserve chair creates uncertainty and a vacancy in leadership.",
+      "exported_at": "2025-10-09T18:42:34.201542",
       "continuous_session": true
     }
   ]
