@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T08:14:36.127720",
-    "total_articles": 2509,
-    "new_articles_in_last_fetch": 2509,
+    "created_at": "2025-10-09T08:29:53.327790",
+    "total_articles": 2511,
+    "new_articles_in_last_fetch": 2511,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -32581,6 +32581,31 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCKS MAKING BIGGEST PREMARKET MOVES 🚀\n\n- Ferrari, PepsiCo, Delta, Akero Therapeutics among top movers\n- Pre-market activity indicates significant stock fluctuations\n- Investors closely monitoring these stocks before market open\n\nTAKEAWAY: Pre-market movements of top stocks like Ferrari, PepsiCo, Delta, and Akero Therapeutics are signaling potential significant market shifts ahead.",
       "exported_at": "2025-10-09T08:14:35.951312",
+      "continuous_session": true
+    },
+    {
+      "title": "Here are Thursday&apos;s biggest analyst calls: Nvidia, Oracle, Tesla, Amazon, Carvana, PNC, Cava, Broadcom, Microsoft &amp; more",
+      "link": "https://www.cnbc.com/2025/10/09/wall-street-stocks-from-analyst-calls-thursday.html",
+      "summary": "Here are Thursday's biggest calls on Wall Street.",
+      "published": "Thu, 09 Oct 2025 12:21:49 GMT",
+      "content": "Here are Thursday's biggest calls on Wall Street.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6ea15223dec6ca49e70b413f5ea5dc38",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "exported_at": "2025-10-09T08:29:53.149423",
+      "continuous_session": true
+    },
+    {
+      "title": "U.S. opens probe into nearly 2.9 million Tesla vehicles over FSD traffic violations",
+      "link": "https://www.cnbc.com/2025/10/09/us-opens-probe-into-nearly-2point9-million-tesla-vehicles-over-fsd-traffic-violations.html",
+      "summary": "The National Highway Traffic Safety Administration said is opening an investigation into 2.88 million Tesla vehicles equipped with the Full Self-Driving system.",
+      "published": "Thu, 09 Oct 2025 12:24:18 GMT",
+      "content": "The National Highway Traffic Safety Administration said is opening an investigation into 2.88 million Tesla vehicles equipped with the Full Self-Driving system.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f86cd320a027cf063c84b00c814b44b7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: U.S. OPENS PROBE INTO 2.9M TESLA VEHICLES FOR FSD VIOLATIONS ⚠️\n\n- NHTSA launches investigation into 2.88M Tesla cars 🚗\n- Focus on Full Self-Driving system traffic violations 🚦\n- Probe initiated for potential safety concerns 🛑\n- Tesla's FSD under scrutiny for compliance issues 🧐\n\nTAKEAWAY: The NHTSA's investigation into nearly 2.9 million Tesla vehicles equipped with Full Self-Driving highlights potential safety concerns and compliance issues with the system.",
+      "exported_at": "2025-10-09T08:29:53.149476",
       "continuous_session": true
     }
   ]
