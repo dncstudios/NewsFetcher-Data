@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T15:03:42.841588",
-    "total_articles": 2559,
-    "new_articles_in_last_fetch": 2559,
+    "created_at": "2025-10-09T15:19:00.384882",
+    "total_articles": 2560,
+    "new_articles_in_last_fetch": 2560,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -33227,6 +33227,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP CONSIDERS JARED ISAACMAN FOR TOP NASA JOB 🚀\n\n- Isaacman, tied to SpaceX's Elon Musk, meets Trump at White House 🌌\n- Potential contender for NASA role after initial nomination withdrawal 🛰️\n- White House dinner with tech leaders hints at Isaacman's influence 🌟\n\nTAKEAWAY: Jared Isaacman's discussions with Trump for a key NASA position suggest a potential shift in the agency's leadership, influenced by his ties to Elon Musk's SpaceX.",
       "exported_at": "2025-10-09T15:03:42.793417",
+      "continuous_session": true
+    },
+    {
+      "title": "Report finds crypto jobs saw &apos;cautious&apos; hiring, declining compensation: CNBC Crypto World",
+      "link": "https://www.cnbc.com/video/2025/10/09/report-finds-crypto-jobs-saw-cautious-hiring-declining-compensation-cnbc-crypto-world.html",
+      "summary": "On today's episode of CNBC Crypto World, bitcoin falls as the S&amp;P 500 and Nasdaq retreat from record highs. Plus, Citi has invested in stablecoin infrastructure company BVNK as big U.S. banks ramp up their presence in the crypto space. And, Zack Skelly, head of talent at Dragonfly, explains the findings of the digital asset venture capital firm's new crypto compensation report.",
+      "published": "Thu, 09 Oct 2025 19:00:02 GMT",
+      "content": "On today's episode of CNBC Crypto World, bitcoin falls as the S&amp;P 500 and Nasdaq retreat from record highs. Plus, Citi has invested in stablecoin infrastructure company BVNK as big U.S. banks ramp up their presence in the crypto space. And, Zack Skelly, head of talent at Dragonfly, explains the findings of the digital asset venture capital firm's new crypto compensation report.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "950102ac4283bbcb0a583e5f3d8345d8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: REPORT REVEALS CAUTIOUS CRYPTO JOB HIRING AND DECREASING COMPENSATION 🚨\n\n- Bitcoin drops as S&P 500 and Nasdaq retreat from record highs 📉\n- Citi invests in stablecoin infrastructure company BVNK 🏦\n- U.S. banks increase involvement in the crypto sector 📈\n- Dragonfly's talent head shares insights from crypto compensation report 💼\n- Findings indicate cautious hiring and declining pay in crypto jobs 💰\n- Stay informed about the latest trends in the digital asset space 📊\n\nTAKEAWAY: The crypto job market shows a trend of cautious hiring and decreasing compensation, while big players like Citi and U.S. banks are actively investing in the sector, shaping the future of digital assets.",
+      "exported_at": "2025-10-09T15:19:00.203515",
       "continuous_session": true
     }
   ]
