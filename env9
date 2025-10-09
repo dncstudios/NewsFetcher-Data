@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T18:42:34.379203",
-    "total_articles": 2573,
-    "new_articles_in_last_fetch": 2573,
+    "created_at": "2025-10-09T19:02:55.858271",
+    "total_articles": 2574,
+    "new_articles_in_last_fetch": 2574,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -33409,6 +33409,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FORMER FED GOVERNOR LARRY LINDSEY DROPS OUT OF FED CHAIR RACE ⚠️\n\n- Larry Lindsey withdraws from Fed chair candidacy 📉\n- Lindsey exits list of potential Federal Reserve chairs 🚫\n- Decision leaves vacancy for next Fed leader 🕒\n\nTAKEAWAY: Former Fed Governor Larry Lindsey's withdrawal from the race for the next Federal Reserve chair creates uncertainty and a vacancy in leadership.",
       "exported_at": "2025-10-09T18:42:34.201542",
+      "continuous_session": true
+    },
+    {
+      "title": "U.S. sending about 200 troops to Israel to help support and monitor ceasefire deal in Gaza",
+      "link": "https://www.cnbc.com/2025/10/09/us-sending-about-200-troops-to-israel-to-help-support-and-monitor-ceasefire-deal-in-gaza.html",
+      "summary": "The United States is sending about 200 troops to Israel to help support and monitor the ceasefire deal in Gaza as part of a team that includes partner nations, nongovernmental organizations and private sector players, U.S. officials said Thursday.",
+      "published": "Thu, 09 Oct 2025 22:57:57 GMT",
+      "content": "The United States is sending about 200 troops to Israel to help support and monitor the ceasefire deal in Gaza as part of a team that includes partner nations, nongovernmental organizations and private sector players, U.S. officials said Thursday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1599d9db25b1663effd146bc6eef87fb",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: U.S. SENDING 200 TROOPS TO ISRAEL TO SUPPORT GAZA CEASEFIRE 🚀\n\n- 200 troops deployed to Israel for Gaza ceasefire support 🕊️\n- Team includes partner nations, NGOs, and private sector players 💪\n- Mission aims to monitor and uphold the ceasefire agreement ✅\n\nTAKEAWAY: The U.S. deploys 200 troops to Israel, joining forces with various entities to support and monitor the Gaza ceasefire, promoting peace and stability in the region.",
+      "exported_at": "2025-10-09T19:02:55.692076",
       "continuous_session": true
     }
   ]
