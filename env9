@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T08:04:23.622212",
-    "total_articles": 2507,
-    "new_articles_in_last_fetch": 2507,
+    "created_at": "2025-10-09T08:14:36.127720",
+    "total_articles": 2509,
+    "new_articles_in_last_fetch": 2509,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -32555,6 +32555,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: S&P 500 FUTURES STABLE AFTER ALL-TIME HIGH 🚀\n\n- S&P 500, Nasdaq close at record highs on Wednesday 📈\n- Futures show minimal movement following historic highs 📉\n- Market sentiment cautiously optimistic 🌟\n\nTAKEAWAY: S&P 500 futures remain steady after reaching all-time highs, reflecting a cautiously optimistic market sentiment.",
       "exported_at": "2025-10-09T08:04:23.594325",
+      "continuous_session": true
+    },
+    {
+      "title": "Ferrari on track for worst trading day ever as guidance disappoints",
+      "link": "https://www.cnbc.com/2025/10/09/ferrari-unveils-first-electric-vehicle-and-cuts-2030-ev-sales-target.html",
+      "summary": "Analysts said the targets, which were announced as part of the firm’s Capital Markets Day event, fell short of expectations.",
+      "published": "Thu, 09 Oct 2025 12:10:02 GMT",
+      "content": "Analysts said the targets, which were announced as part of the firm’s Capital Markets Day event, fell short of expectations.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e1e1d2940911ad634b2fd727cbbd84a4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FERRARI SHARES PLUNGE 16% AS GUIDANCE DISAPPOINTS 🚨\n\n- Ferrari shares drop 16% after guidance misses targets 📉\n- Disappointing update from Capital Markets Day event 📉\n- Analysts express concerns over underwhelming targets 🤔\n\nTAKEAWAY: Ferrari's shares take a hit as guidance update falls short of expectations, leaving analysts and investors concerned about the future.",
+      "exported_at": "2025-10-09T08:14:35.951251",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: Ferrari, PepsiCo, Delta, Akero Therapeutics and more",
+      "link": "https://www.cnbc.com/2025/10/09/stocks-making-the-biggest-moves-premarket-race-.html",
+      "summary": "These are the stocks posting the largest moves in the premarket.",
+      "published": "Thu, 09 Oct 2025 12:04:46 GMT",
+      "content": "These are the stocks posting the largest moves in the premarket.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e0a83d6c99df80e0620181432d50131f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS MAKING BIGGEST PREMARKET MOVES 🚀\n\n- Ferrari, PepsiCo, Delta, Akero Therapeutics among top movers\n- Pre-market activity indicates significant stock fluctuations\n- Investors closely monitoring these stocks before market open\n\nTAKEAWAY: Pre-market movements of top stocks like Ferrari, PepsiCo, Delta, and Akero Therapeutics are signaling potential significant market shifts ahead.",
+      "exported_at": "2025-10-09T08:14:35.951312",
       "continuous_session": true
     }
   ]
