@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T06:37:11.917779",
-    "total_articles": 2492,
-    "new_articles_in_last_fetch": 2492,
+    "created_at": "2025-10-09T06:42:21.517183",
+    "total_articles": 2494,
+    "new_articles_in_last_fetch": 2494,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -32360,6 +32360,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: DELTA'S PROFIT SOARS ABOVE FORECASTS 🚀\n\n- Delta surpasses quarterly profit expectations 📈\n- Strong finish projected for 2025 💪\n- Higher fares and luxury demand drive profitability 🌟\n\nTAKEAWAY: Delta's impressive profit performance and optimistic forecast for 2025 showcase the airline's resilience and strategic pricing power.",
       "exported_at": "2025-10-09T06:37:11.753976",
+      "continuous_session": true
+    },
+    {
+      "title": "Ferrari shares plunge 14% after carmaker updates guidance, halves EV sales target",
+      "link": "https://www.cnbc.com/2025/10/09/ferrari-unveils-first-electric-vehicle-and-cuts-2030-ev-sales-target.html",
+      "summary": "Italian carmaker Ferrari on Thursday dialled back its electrification ambitions, saying fully electric vehicles will make up just 20% of its range by 2030.",
+      "published": "Thu, 09 Oct 2025 10:41:53 GMT",
+      "content": "Italian carmaker Ferrari on Thursday dialled back its electrification ambitions, saying fully electric vehicles will make up just 20% of its range by 2030.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a5de01badc2745ce1b643d5002ff0bc5",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FERRARI SHARES PLUNGE 13% AFTER GUIDANCE UPDATE 📉\n\n- Ferrari revises EV sales target, slashes to 20% by 2030 ⚠️\n- Stock drops 13% following the electrification announcement 🔻\n- Company reduces its electric vehicle ambitions 🚗\n- Fully electric vehicles to comprise only 20% of Ferrari's range by 2030\n- Investors react negatively to the guidance update 📉\n- Ferrari faces challenges in achieving its electrification goals ⚠️\n\nTAKEAWAY: Ferrari's shares tumble 13% as the carmaker lowers its EV sales target, highlighting challenges in transitioning to electrification.",
+      "exported_at": "2025-10-09T06:42:21.348271",
+      "continuous_session": true
+    },
+    {
+      "title": "Novo Nordisk to buy Akero Therapeutics for up to $5.2 billion",
+      "link": "https://www.cnbc.com/2025/10/09/novo-nordisk-to-buy-akero-therapeutics.html",
+      "summary": "Novo Nordisk said on Thursday it agreed to buy Akero Therapeutics for up to $5.2 billion, giving the Danish drugmaker access to an experimental liver disease drug.",
+      "published": "Thu, 09 Oct 2025 10:40:07 GMT",
+      "content": "Novo Nordisk said on Thursday it agreed to buy Akero Therapeutics for up to $5.2 billion, giving the Danish drugmaker access to an experimental liver disease drug.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b37707d8b475e73310a56b7bddb9f855",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NOVO NORDISK ACQUIRES AKERO THERAPEUTICS FOR $5.2 BILLION 🚀\n\n- Novo Nordisk to acquire Akero Therapeutics for up to $5.2 billion 💰\n- Acquisition grants access to Akero's experimental liver disease drug 🩺\n- Deal showcases Novo Nordisk's strategic growth in the pharmaceutical industry 📈\n- Akero Therapeutics to benefit from Novo Nordisk's resources and expertise ✅\n- Acquisition expected to enhance Novo Nordisk's portfolio and market presence 🌐\n\nTAKEAWAY: Novo Nordisk's acquisition of Akero Therapeutics for $5.2 billion marks a strategic move to expand its portfolio and strengthen its position in the pharmaceutical market.",
+      "exported_at": "2025-10-09T06:42:21.348330",
       "continuous_session": true
     }
   ]
