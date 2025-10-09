@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T06:10:55.681873",
-    "total_articles": 2489,
-    "new_articles_in_last_fetch": 2489,
+    "created_at": "2025-10-09T06:16:06.460102",
+    "total_articles": 2490,
+    "new_articles_in_last_fetch": 2490,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -32321,6 +32321,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FERRERO SWEETENS SPORTS PRESENCE WITH SUPER BOWL AD, WORLD CUP PROMOTIONS 🚀\n\n- Ferrero intensifies U.S. expansion efforts over the past decade 📈\n- Parent company dives deep into sports with strategic moves 🏈⚽\n- Focus on dealmaking and production investments in America 🌟\n\nTAKEAWAY: Ferrero's strategic push into the U.S. market and sports sponsorship signals a sweet success recipe for global growth and brand visibility.",
       "exported_at": "2025-10-09T06:10:55.492802",
+      "continuous_session": true
+    },
+    {
+      "title": "Ferrari shares plunge 13% after carmaker updates guidance, halves EV sales target",
+      "link": "https://www.cnbc.com/2025/10/09/ferrari-unveils-first-electric-vehicle-and-cuts-2030-ev-sales-target.html",
+      "summary": "Italian carmaker Ferrari on Thursday dialled back its electrification ambitions, saying fully electric vehicles will make up just 20% of its range by 2030.",
+      "published": "Thu, 09 Oct 2025 10:15:13 GMT",
+      "content": "Italian carmaker Ferrari on Thursday dialled back its electrification ambitions, saying fully electric vehicles will make up just 20% of its range by 2030.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c205a8665eec96430ed627aac53e6947",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FERRARI SHARES PLUNGE 13% AFTER GUIDANCE UPDATE 📉\n\n- Ferrari revises EV sales target, slashes to 20% by 2030 ⚠️\n- Stock drops 13% following the electrification announcement 🔻\n- Company reduces its electric vehicle ambitions 🚗\n- Fully electric vehicles to comprise only 20% of Ferrari's range by 2030\n- Investors react negatively to the guidance update 📉\n- Ferrari faces challenges in achieving its electrification goals ⚠️\n\nTAKEAWAY: Ferrari's shares tumble 13% as the carmaker lowers its EV sales target, highlighting challenges in transitioning to electrification.",
+      "exported_at": "2025-10-09T06:16:06.297848",
       "continuous_session": true
     }
   ]
