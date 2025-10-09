@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T07:07:50.851886",
-    "total_articles": 2496,
-    "new_articles_in_last_fetch": 2496,
+    "created_at": "2025-10-09T07:13:00.430741",
+    "total_articles": 2497,
+    "new_articles_in_last_fetch": 2497,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -32412,6 +32412,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FERRARI SHARES PLUNGE 13% AFTER GUIDANCE UPDATE 📉\n\n- Ferrari revises EV sales target, slashes to 20% by 2030 ⚠️\n- Stock drops 13% following the electrification announcement 🔻\n- Company reduces its electric vehicle ambitions 🚗\n- Fully electric vehicles to comprise only 20% of Ferrari's range by 2030\n- Investors react negatively to the guidance update 📉\n- Ferrari faces challenges in achieving its electrification goals ⚠️\n\nTAKEAWAY: Ferrari's shares tumble 13% as the carmaker lowers its EV sales target, highlighting challenges in transitioning to electrification.",
       "exported_at": "2025-10-09T07:07:50.677048",
+      "continuous_session": true
+    },
+    {
+      "title": "Ferrari shares plunge 16% as guidance update falls short of expectations",
+      "link": "https://www.cnbc.com/2025/10/09/ferrari-unveils-first-electric-vehicle-and-cuts-2030-ev-sales-target.html",
+      "summary": "Analysts said the targets, which were announced as part of the firm’s Capital Markets Day event, fell short of expectations.",
+      "published": "Thu, 09 Oct 2025 11:08:31 GMT",
+      "content": "Analysts said the targets, which were announced as part of the firm’s Capital Markets Day event, fell short of expectations.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ce653db0f0ae6f0113b0feaec9f37453",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FERRARI SHARES PLUNGE 16% AS GUIDANCE DISAPPOINTS 🚨\n\n- Ferrari shares drop 16% after guidance misses targets 📉\n- Disappointing update from Capital Markets Day event 📉\n- Analysts express concerns over underwhelming targets 🤔\n\nTAKEAWAY: Ferrari's shares take a hit as guidance update falls short of expectations, leaving analysts and investors concerned about the future.",
+      "exported_at": "2025-10-09T07:13:00.249358",
       "continuous_session": true
     }
   ]
