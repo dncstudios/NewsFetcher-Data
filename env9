@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T01:30:59.062002",
-    "total_articles": 2475,
-    "new_articles_in_last_fetch": 2475,
+    "created_at": "2025-10-09T01:41:13.890056",
+    "total_articles": 2476,
+    "new_articles_in_last_fetch": 2476,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -32139,6 +32139,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: RUSSIA'S 'HYBRID WARFARE' THREATENS EUROPE 🚨\n\n- Russia aims to sow division in Europe, EU chief warns 🌍\n- EU must confront the reality of 'hybrid warfare' tactics 🛡️\n- Hybrid warfare includes cyberattacks, disinformation campaigns 💻📰\n- European officials emphasize need for unity against Russia 🤝\n- Russia's tactics pose a serious threat to European security 🚷\n- EU urged to strengthen defenses and counter hybrid threats 🛡️💪\n\nTAKEAWAY: Europe faces a critical challenge as Russia engages in 'hybrid warfare,' emphasizing the need for unity, defense strengthening, and countermeasures against cyberattacks and disinformation campaigns.",
       "exported_at": "2025-10-09T01:30:58.895113",
+      "continuous_session": true
+    },
+    {
+      "title": "Will Takaichi&apos;s &apos;Abenomics&apos; weaken the yen and raise the ire of Trump?",
+      "link": "https://www.cnbc.com/2025/10/09/the-takaichi-trade-dilemma-japan-currency-tightrope-with-trump-abenomics.html",
+      "summary": "Markets have responded to Takaichi's victory with the \"Takaichi trade,\" pushing the Nikkei to record highs and weakening the yen to beyond the 150 mark.",
+      "published": "Thu, 09 Oct 2025 05:33:43 GMT",
+      "content": "Markets have responded to Takaichi's victory with the \"Takaichi trade,\" pushing the Nikkei to record highs and weakening the yen to beyond the 150 mark.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "49de51947045a0e707a5e8d22764493a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WILL TAKAICHI'S 'ABENOMICS' WEAKEN THE YEN AND RAISE THE IRE OF TRUMP? 🚀\n\n- Takaichi's win sparks the \"Takaichi trade\" frenzy 📈\n- Nikkei hits record highs post Takaichi's victory 🎉\n- Yen weakens, surpasses 150 mark against the dollar 💴\n- Markets anticipate potential Abenomics revival 📈\n- Trump's reaction to Takaichi's policies uncertain 🤔\n\nTAKEAWAY: Takaichi's victory triggers a market frenzy with the \"Takaichi trade,\" pushing the Nikkei to record highs and weakening the yen, but uncertainty looms over Trump's response.",
+      "exported_at": "2025-10-09T01:41:13.713449",
       "continuous_session": true
     }
   ]
