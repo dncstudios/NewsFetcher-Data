@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T07:43:43.276658",
-    "total_articles": 2502,
-    "new_articles_in_last_fetch": 2502,
+    "created_at": "2025-10-09T07:48:52.756887",
+    "total_articles": 2503,
+    "new_articles_in_last_fetch": 2503,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -32490,6 +32490,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FERRARI SHARES PLUNGE 16% AS GUIDANCE DISAPPOINTS 🚨\n\n- Ferrari shares drop 16% after guidance misses targets 📉\n- Disappointing update from Capital Markets Day event 📉\n- Analysts express concerns over underwhelming targets 🤔\n\nTAKEAWAY: Ferrari's shares take a hit as guidance update falls short of expectations, leaving analysts and investors concerned about the future.",
       "exported_at": "2025-10-09T07:43:43.108194",
+      "continuous_session": true
+    },
+    {
+      "title": "Nvidia can rally nearly 60% as AI infrastructure market swells, says Cantor Fitzgerald",
+      "link": "https://www.cnbc.com/2025/10/09/nvidia-can-rally-nearly-60percent-as-ai-infrastructure-market-swells-says-cantor-fitzgerald.html",
+      "summary": "The bank pointed to Nvidia's new partnership with OpenAI as a catalyst for the graphics processing unit maker.",
+      "published": "Thu, 09 Oct 2025 11:44:18 GMT",
+      "content": "The bank pointed to Nvidia's new partnership with OpenAI as a catalyst for the graphics processing unit maker.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7a3323099487ac5a1ea751e1ea147dc6",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NVIDIA'S 60% RALLY ON HORIZON WITH AI MARKET GROWTH 🚀\n\n- Cantor Fitzgerald predicts nearly 60% surge for Nvidia 📈\n- Partnership with OpenAI boosts outlook for GPU maker 💥\n- AI infrastructure market expansion drives Nvidia's potential 🌐\n\nTAKEAWAY: Nvidia's collaboration with OpenAI propels its stock towards a substantial rally, fueled by the expanding AI infrastructure market.",
+      "exported_at": "2025-10-09T07:48:52.583801",
       "continuous_session": true
     }
   ]
