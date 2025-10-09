@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T07:54:02.496833",
-    "total_articles": 2504,
-    "new_articles_in_last_fetch": 2504,
+    "created_at": "2025-10-09T07:59:12.048184",
+    "total_articles": 2505,
+    "new_articles_in_last_fetch": 2505,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -32516,6 +32516,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FAMILY OFFICES PERSIST IN AI & HEALTHCARE DESPITE SLOWING DEALS 📉\n\n- Ultra-rich investment firms reduce direct investments by 46% in September\n- Focus remains on AI and healthcare sectors despite the decline 🎯\n- Family offices show resilience in their strategic investment choices 💪\n\nTAKEAWAY: Despite a decrease in direct investments, family offices maintain confidence in AI and healthcare sectors, showcasing strategic resilience in their investment approach.",
       "exported_at": "2025-10-09T07:54:02.467173",
+      "continuous_session": true
+    },
+    {
+      "title": "‘Focus on value creation; the stock market will settle itself,’ says Snowflake CEO amid bubble fears",
+      "link": "https://www.cnbc.com/2025/10/09/focus-on-value-the-stock-market-will-settle-itself-says-snowflake-ceo-amid-bubble-fears-.html",
+      "summary": "Snowflake CEO Sridhar Ramaswamy said his company is focused on working on adding value as talk of an AI bubble mounts.",
+      "published": "Thu, 09 Oct 2025 11:54:05 GMT",
+      "content": "Snowflake CEO Sridhar Ramaswamy said his company is focused on working on adding value as talk of an AI bubble mounts.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ea30f4e0d550e2e2538d4aebbe7dbe1f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 'FOCUS ON VALUE CREATION;' SNOWFLAKE CEO ON AI BUBBLE FEARS 🚀\n\n- Snowflake CEO emphasizes value creation amidst AI bubble concerns\n- Company prioritizes adding value to counter bubble talks\n- Focus on innovation and value creation to navigate market concerns\n\nTAKEAWAY: Snowflake CEO's focus on value creation amidst AI bubble fears demonstrates a strategic approach to navigating market uncertainties and maintaining growth momentum.",
+      "exported_at": "2025-10-09T07:59:11.874210",
       "continuous_session": true
     }
   ]
