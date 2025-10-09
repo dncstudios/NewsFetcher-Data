@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T09:31:05.138528",
-    "total_articles": 2517,
-    "new_articles_in_last_fetch": 2517,
+    "created_at": "2025-10-09T09:36:14.596598",
+    "total_articles": 2518,
+    "new_articles_in_last_fetch": 2518,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -32683,6 +32683,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: S&P 500 FUTURES STABLE AFTER ALL-TIME HIGH 🚀\n\n- S&P 500, Nasdaq close at record highs on Wednesday 📈\n- Futures show minimal movement following historic highs 📉\n- Market sentiment cautiously optimistic 🌟\n\nTAKEAWAY: S&P 500 futures remain steady after reaching all-time highs, reflecting a cautiously optimistic market sentiment.",
       "exported_at": "2025-10-09T09:31:04.970637",
+      "continuous_session": true
+    },
+    {
+      "title": "Hedge funds are still cautious. Why that could add more fuel to the rally",
+      "link": "https://www.cnbc.com/2025/10/09/hedge-funds-are-still-cautious-why-that-could-add-more-fuel-to-the-rally.html",
+      "summary": "Stocks keep charging to record levels, and they could get another boost if a key group of investors turns more bullish.",
+      "published": "Thu, 09 Oct 2025 13:25:12 GMT",
+      "content": "Stocks keep charging to record levels, and they could get another boost if a key group of investors turns more bullish.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2084bf6d783eb6154b5f17856727c2ee",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: HEDGE FUNDS CAUTIOUS, FUELING STOCK RALLY 🚀\n\n- Record high stocks poised for boost from cautious hedge funds 📈\n- Potential bullish shift from key investor group anticipated 📊\n- Hedge funds' caution could add momentum to market rally 📈🔥\n\nTAKEAWAY: Hedge funds' cautious approach amidst record-high stocks hints at a potential bullish shift, potentially fueling the market rally even further.",
+      "exported_at": "2025-10-09T09:36:14.567945",
       "continuous_session": true
     }
   ]
