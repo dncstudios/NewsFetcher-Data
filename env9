@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T02:11:44.008169",
-    "total_articles": 2477,
-    "new_articles_in_last_fetch": 2477,
+    "created_at": "2025-10-09T03:58:12.223376",
+    "total_articles": 2478,
+    "new_articles_in_last_fetch": 2478,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -32165,6 +32165,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CITI BACKS STABLECOIN FIRM BVNK AS WALL STREET WELCOMES CRYPTO 🚀\n\n- Citi supports stablecoin company BVNK amid rising Wall Street interest in crypto 💼\n- U.S. banks expand into digital assets with growing crypto-friendly regulations 📈\n- Financial giants like Citi embrace the potential of stablecoins and digital currencies 💰\n\nTAKEAWAY: Wall Street's increasing involvement in crypto, with Citi backing BVNK, signals a shift towards digital assets as U.S. regulations become more favorable.",
       "exported_at": "2025-10-09T02:11:43.980206",
+      "continuous_session": true
+    },
+    {
+      "title": "&apos;Buckle up&apos;: IMF and Bank of England join growing chorus warning of an AI bubble",
+      "link": "https://www.cnbc.com/2025/10/09/imf-and-bank-of-england-join-growing-chorus-warning-of-an-ai-bubble.html",
+      "summary": "As industry spending surges, top financial institutions say a sharp correction could occur if investor appetite for artificial intelligence turns sour.",
+      "published": "Thu, 09 Oct 2025 07:54:32 GMT",
+      "content": "As industry spending surges, top financial institutions say a sharp correction could occur if investor appetite for artificial intelligence turns sour.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fc8159caab2646d4a4131985a67cafcb",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 'BUCKLE UP': IMF AND BANK OF ENGLAND WARN OF AI BUBBLE 🚨\n\n- IMF and Bank of England caution about AI bubble risks 📉\n- Industry sees surge in spending on artificial intelligence 💰\n- Sharp correction possible if investor interest fades 📉\n- Growing concerns over potential market instability 🚨\n\nTAKEAWAY: Top financial institutions sound the alarm on the risks of an AI bubble, warning of a possible sharp correction if investor enthusiasm wanes.",
+      "exported_at": "2025-10-09T03:58:12.194394",
       "continuous_session": true
     }
   ]
