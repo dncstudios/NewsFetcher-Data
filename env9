@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T20:46:38.688155",
-    "total_articles": 2469,
-    "new_articles_in_last_fetch": 2469,
+    "created_at": "2025-10-08T20:56:49.141407",
+    "total_articles": 2470,
+    "new_articles_in_last_fetch": 2470,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -32061,6 +32061,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ASIA-PACIFIC MARKETS RALLY ON WALL STREET TECH GAINS 🚀\n\n- S&P 500 and Nasdaq hit new intraday and closing highs 📈\n- Tech sector leads the market surge 📈🔥\n- Asia-Pacific markets poised to open higher 🌏📈\n- Investors track Wall Street's upward momentum 📊\n- Positive sentiment fuels the market opening 🚀🔥\n- Tech rally continues to drive market optimism 💻📈\n\nTAKEAWAY: Asia-Pacific markets ride the wave of Wall Street's tech gains, setting the stage for a strong opening fueled by positive investor sentiment.",
       "exported_at": "2025-10-08T20:46:38.660282",
+      "continuous_session": true
+    },
+    {
+      "title": "SoftBank shares soar 10% after it agrees to buy ABB robotics unit for $5.4 billion",
+      "link": "https://www.cnbc.com/2025/10/09/asia-pacific-markets-thursday-october-9-nikkei-225-asx-ai-buble-tech.html",
+      "summary": "The S&amp;P 500 and Nasdaq Composite scored new intraday and closing highs Wednesday stateside.",
+      "published": "Thu, 09 Oct 2025 00:55:12 GMT",
+      "content": "The S&amp;P 500 and Nasdaq Composite scored new intraday and closing highs Wednesday stateside.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b2d54ea6d28b7e7bc41fb516a43499a1",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASIA-PACIFIC MARKETS RALLY ON WALL STREET TECH GAINS 🚀\n\n- S&P 500 and Nasdaq hit new intraday and closing highs 📈\n- Tech sector leads the market surge 📈🔥\n- Asia-Pacific markets poised to open higher 🌏📈\n- Investors track Wall Street's upward momentum 📊\n- Positive sentiment fuels the market opening 🚀🔥\n- Tech rally continues to drive market optimism 💻📈\n\nTAKEAWAY: Asia-Pacific markets ride the wave of Wall Street's tech gains, setting the stage for a strong opening fueled by positive investor sentiment.",
+      "exported_at": "2025-10-08T20:56:49.111403",
       "continuous_session": true
     }
   ]
