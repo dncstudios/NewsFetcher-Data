@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T14:53:26.445491",
-    "total_articles": 2557,
-    "new_articles_in_last_fetch": 2557,
+    "created_at": "2025-10-09T15:03:42.841588",
+    "total_articles": 2559,
+    "new_articles_in_last_fetch": 2559,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -33201,6 +33201,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: THESE 5 EARNINGS REPORTS COULD IGNITE STOCK MOMENTUM 🚀\n\n- Progressive and Charles Schwab anticipate post-earnings boosts\n- Investors eye potential growth opportunities\n- Market excitement grows as earnings week approaches\n\nTAKEAWAY: Keep an eye on Progressive and Charles Schwab as they gear up for potentially momentum-boosting earnings reports next week, igniting investor excitement.",
       "exported_at": "2025-10-09T14:53:26.247591",
+      "continuous_session": true
+    },
+    {
+      "title": "The &apos;debasement trade&apos; is the talk of Wall Street. What is it and is it too late to get in?",
+      "link": "https://www.cnbc.com/2025/10/09/the-debasement-trade-is-the-talk-of-wall-street-what-is-it-and-is-it-too-late-to-get-in.html",
+      "summary": "The trade is a bet that government borrowing and money printing will erode the value of the dollar and shift cash into assets",
+      "published": "Thu, 09 Oct 2025 18:33:09 GMT",
+      "content": "The trade is a bet that government borrowing and money printing will erode the value of the dollar and shift cash into assets",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4cb6eeabf5d5843698151faeecc94f05",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: THE 'DEBASEMENT TRADE' SWEEPS WALL STREET 🚀\n\n- Wall Street abuzz over the 'debasement trade' strategy 📈\n- Strategy bets on dollar devaluation from government actions 💸\n- Anticipates cash flowing into assets 🔄\n- Investors ponder if it's too late to join the trend ⏳\n\nTAKEAWAY: The 'debasement trade' gains traction on Wall Street as investors speculate on dollar devaluation and asset shifts, prompting a debate on optimal entry points.",
+      "exported_at": "2025-10-09T15:03:42.793382",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump meets with Jared Isaacman about top NASA job after pulling nomination",
+      "link": "https://www.cnbc.com/2025/10/09/trump-jared-isaacman-nasa-nomination.html",
+      "summary": "Isaacman, who has close ties with SpaceX CEO Elon Musk, was at the White House in September for Trump's dinner for tech power players.",
+      "published": "Thu, 09 Oct 2025 18:59:17 GMT",
+      "content": "Isaacman, who has close ties with SpaceX CEO Elon Musk, was at the White House in September for Trump's dinner for tech power players.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "056f79f540cc0bd2c1611046427e8e86",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP CONSIDERS JARED ISAACMAN FOR TOP NASA JOB 🚀\n\n- Isaacman, tied to SpaceX's Elon Musk, meets Trump at White House 🌌\n- Potential contender for NASA role after initial nomination withdrawal 🛰️\n- White House dinner with tech leaders hints at Isaacman's influence 🌟\n\nTAKEAWAY: Jared Isaacman's discussions with Trump for a key NASA position suggest a potential shift in the agency's leadership, influenced by his ties to Elon Musk's SpaceX.",
+      "exported_at": "2025-10-09T15:03:42.793417",
       "continuous_session": true
     }
   ]
