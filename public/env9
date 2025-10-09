@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T11:03:39.184762",
-    "total_articles": 2536,
-    "new_articles_in_last_fetch": 2536,
+    "created_at": "2025-10-09T11:08:50.392229",
+    "total_articles": 2537,
+    "new_articles_in_last_fetch": 2537,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -32928,6 +32928,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP ADMINISTRATION SENDS STUDENT LOAN FORGIVENESS NOTICES DURING GOVERNMENT SHUTDOWN ⚠️\n\n- Education Department emails student loan borrowers about debt discharge 📧\n- Notices sent out despite ongoing government shutdown 🚫\n- Student loan forgiveness process continues amidst shutdown chaos 🌀\n\nTAKEAWAY: Student loan borrowers receive unexpected relief as Education Department pushes forward with debt discharge notifications during the government shutdown.",
       "exported_at": "2025-10-09T11:03:39.156287",
+      "continuous_session": true
+    },
+    {
+      "title": "OpenAI&apos;s Sora hit 1 million downloads in less than five days",
+      "link": "https://www.cnbc.com/2025/10/09/openais-sora-downloads.html",
+      "summary": "Sora reached 1 million downloads even faster than ChatGPT, OpenAI's popular AI chatbot that supports 800 million weekly active users.",
+      "published": "Thu, 09 Oct 2025 14:57:09 GMT",
+      "content": "Sora reached 1 million downloads even faster than ChatGPT, OpenAI's popular AI chatbot that supports 800 million weekly active users.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "02e78144b661a37e97388f5bb19df78b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: OPENAI'S SORA REACHES 1 MILLION DOWNLOADS IN RECORD TIME 🚀\n\n- Sora hits 1 million downloads in under 5 days 📈\n- Surpasses ChatGPT's download speed 🚀\n- ChatGPT supports 800M weekly active users 🤖\n- Sora's rapid rise showcases immense popularity 📈\n- Impressive milestone for OpenAI's new AI product 💥\n\nTAKEAWAY: Sora's lightning-fast 1 million downloads in under 5 days outpaces even ChatGPT, highlighting its immense popularity and success in the AI market.",
+      "exported_at": "2025-10-09T11:08:50.224250",
       "continuous_session": true
     }
   ]
