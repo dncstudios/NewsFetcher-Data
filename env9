@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T04:03:21.819630",
-    "total_articles": 2479,
-    "new_articles_in_last_fetch": 2479,
+    "created_at": "2025-10-09T04:23:43.759334",
+    "total_articles": 2480,
+    "new_articles_in_last_fetch": 2480,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -32191,6 +32191,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CHINA TIGHTENS RARE EARTH EXPORTS AHEAD OF TRUMP-XI MEETING ⚠️\n\n- China uses rare earth control as leverage in U.S. trade talks 🇨🇳🔒\n- Threatens global shortage of critical minerals 🌍\n- Move could disrupt industries dependent on rare earths ⚡️💥\n- Heightens tensions ahead of potential Trump-Xi meeting 💣\n- U.S. and allies seek to reduce reliance on Chinese rare earths 🌐🔍\n- Uncertainty looms over global supply chain stability ⚠️🌏\n\nTAKEAWAY: China's expansion of rare earth export restrictions creates global uncertainty and disrupts industries reliant on these critical minerals, escalating tensions before a potential Trump-Xi meeting.",
       "exported_at": "2025-10-09T04:03:21.791137",
+      "continuous_session": true
+    },
+    {
+      "title": "SoftBank shares soar 11% after it agrees to buy ABB robotics unit for $5.4 billion",
+      "link": "https://www.cnbc.com/2025/10/09/asia-pacific-markets-thursday-october-9-nikkei-225-asx-ai-buble-tech.html",
+      "summary": "Japan's benchmark Nikkei 225 index hit a fresh record high earlier in the session.",
+      "published": "Thu, 09 Oct 2025 08:19:29 GMT",
+      "content": "Japan's benchmark Nikkei 225 index hit a fresh record high earlier in the session.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e7ee781dbafe9ee35a64d8287636b55d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SOFTBANK SHARES SURGE 11% AFTER $5.4B ABB ROBOTICS UNIT ACQUISITION 🚀\n\n- SoftBank shares jump 11% post $5.4B ABB robotics unit acquisition\n- Nikkei 225 hits new record high during the trading session 📈\n- Market reacts positively to SoftBank's strategic move 🔥\n\nTAKEAWAY: SoftBank's acquisition of ABB robotics unit fuels a surge in shares, reflecting market optimism and confidence in the strategic decision.",
+      "exported_at": "2025-10-09T04:23:43.591669",
       "continuous_session": true
     }
   ]
