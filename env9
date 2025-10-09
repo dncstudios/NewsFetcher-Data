@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T12:20:18.326548",
-    "total_articles": 2542,
-    "new_articles_in_last_fetch": 2542,
+    "created_at": "2025-10-09T12:30:29.303982",
+    "total_articles": 2543,
+    "new_articles_in_last_fetch": 2543,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -33006,6 +33006,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: RETAIL INVESTORS RETURN STRONG AFTER SUMMER PAUSE 🚀\n\n- Retail investors increase investment flows this week 📈\n- Surge in trading activity after a quiet summer period 🌟\n- Market sees heightened interest from everyday traders 💪\n- Retail investors back in the game with renewed enthusiasm 💼\n- Positive trend as retail investors make a strong comeback 📈\n\nTAKEAWAY: Retail investors are back with a bang, increasing investment flows and showing renewed interest in the market after a quiet summer period.",
       "exported_at": "2025-10-09T12:20:18.152159",
+      "continuous_session": true
+    },
+    {
+      "title": "Novo Nordisk to buy Akero for up to $5.2 billion in new CEO&apos;s revival push",
+      "link": "https://www.cnbc.com/2025/10/09/novo-nordisk-to-buy-akero-therapeutics.html",
+      "summary": "Novo Nordisk said on Thursday it would buy U.S.-based Akero Therapeutics for up to $5.2 billion to gain access to a promising liver disease drug candidate.",
+      "published": "Thu, 09 Oct 2025 16:26:17 GMT",
+      "content": "Novo Nordisk said on Thursday it would buy U.S.-based Akero Therapeutics for up to $5.2 billion to gain access to a promising liver disease drug candidate.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1f68dac5d54907cc2eab2466fc13a380",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NOVO NORDISK ACQUIRES AKERO THERAPEUTICS IN $5.2B DEAL 🚀\n\n- Novo Nordisk invests in Akero for liver drug candidate 💊\n- Acquisition valued at up to $5.2 billion 💰\n- Strategic move to expand portfolio in liver disease segment 📈\n- Akero's promising drug attracts Novo Nordisk's new CEO 🎯\n- Deal signals confidence in future growth and innovation 🌟\n\nTAKEAWAY: Novo Nordisk's acquisition of Akero Therapeutics for $5.2 billion showcases a bold strategic move to tap into a lucrative market with high potential for growth and innovation.",
+      "exported_at": "2025-10-09T12:30:29.106772",
       "continuous_session": true
     }
   ]
