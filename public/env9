@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T04:44:09.039089",
-    "total_articles": 2482,
-    "new_articles_in_last_fetch": 2482,
+    "created_at": "2025-10-09T05:14:38.758844",
+    "total_articles": 2483,
+    "new_articles_in_last_fetch": 2483,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -32230,6 +32230,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: HANG SENG BANK SOARS 30% ON HSBC'S $37 BILLION PRIVATIZATION BID 🚀\n\n- HSBC seeks Hang Seng Bank privatization proposal 💼\n- Share price surge values Hang Seng at over $37 billion 💰\n- Privatization via scheme of arrangement under HK law 🏦\n\nTAKEAWAY: HSBC's move to privatize Hang Seng Bank boosts shares by 30%, valuing the bank at over $37 billion, signaling a significant shift in ownership.",
       "exported_at": "2025-10-09T04:44:08.866295",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks bounce back, Linde impresses analysts, and Amazon announces Rx kiosks",
+      "link": "https://www.cnbc.com/2025/10/08/stocks-bounce-back-linde-impresses-analysts-and-amazon-announces-rx-kiosks.html",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "published": "Wed, 08 Oct 2025 18:28:36 GMT",
+      "content": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a449e5667b53516b12b29fb8af114563",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS REBOUND STRONGLY, LINDE WINS ANALYSTS, AMAZON ENTERS RX KIOSKS 🚀\n\n- Market sees impressive bounce back in stock performance 📈\n- Linde garners positive attention and approval from analysts 👍\n- Amazon shakes market with announcement of new Rx kiosks 💊\n\nTAKEAWAY: Today's market rebound, Linde's analyst approval, and Amazon's Rx kiosk launch create exciting opportunities for investors looking to capitalize on the market momentum.",
+      "exported_at": "2025-10-09T05:14:38.730226",
       "continuous_session": true
     }
   ]
