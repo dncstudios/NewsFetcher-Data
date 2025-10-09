@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T10:48:05.332687",
-    "total_articles": 2533,
-    "new_articles_in_last_fetch": 2533,
+    "created_at": "2025-10-09T10:58:23.226934",
+    "total_articles": 2535,
+    "new_articles_in_last_fetch": 2535,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -32889,6 +32889,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: IRS UNVEILS HIGHER CAPITAL GAINS TAX BRACKETS FOR 2026 🚀\n\n- IRS reveals increased long-term capital gains brackets for 2026 💸\n- Investors must prepare for potential higher tax obligations 💼\n- Understanding new tax brackets crucial for financial planning 📈\n- Changes may impact investment strategies and decisions 🤔\n- Higher brackets may affect profitability in long-term investments 💰\n\nTAKEAWAY: The IRS's announcement of higher capital gains tax brackets for 2026 signals the need for investors to adapt their financial strategies and be prepared for potential increased tax obligations.",
       "exported_at": "2025-10-09T10:48:05.184031",
+      "continuous_session": true
+    },
+    {
+      "title": "Senate to vote seventh time to end government shutdown, with little hope of passage",
+      "link": "https://www.cnbc.com/2025/10/09/government-shutdown-senate-vote-bills.html",
+      "summary": "Lawmakers on both sides remain dug in, showing no indication that they are open to yielding on their demands.",
+      "published": "Thu, 09 Oct 2025 14:53:30 GMT",
+      "content": "Lawmakers on both sides remain dug in, showing no indication that they are open to yielding on their demands.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "77839a06df16cc1932d564d9fbf92f30",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SENATE FACES SEVENTH VOTE TO END SHUTDOWN WITH UNCERTAINTY ⚠️\n\n- Senate attempts 7th vote to halt government shutdown 🏛️\n- Lawmakers remain firm, no signs of compromise 🛑\n- Uncertainty looms over passage of bill 🤷‍♂️\n\nTAKEAWAY: Senate's repeated attempts to end the government shutdown face uncertainty as lawmakers show no willingness to compromise, prolonging the stalemate.",
+      "exported_at": "2025-10-09T10:58:23.040551",
+      "continuous_session": true
+    },
+    {
+      "title": "United just revealed new summer 2026 flights. Here&apos;s where you can fly nonstop",
+      "link": "https://www.cnbc.com/2025/10/09/united-airlines-summer-2026-flights.html",
+      "summary": "United is launching more nonstop flights to smaller European cities in a bet that travelers will opt not to connect.",
+      "published": "Thu, 09 Oct 2025 12:21:00 GMT",
+      "content": "United is launching more nonstop flights to smaller European cities in a bet that travelers will opt not to connect.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3c06990200aa2d05fe328c911f6d345f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: UNITED UNVEILS NEW SUMMER 2026 FLIGHTS 🚀\n\n- United expands nonstop flights to smaller European cities ✈️\n- Focus on providing direct routes for traveler convenience 🌍\n- Bet on passenger preference for avoiding connecting flights ✅\n- Strategy aims to attract more customers seeking ease of travel 🎯\n\nTAKEAWAY: United's bold move to introduce additional nonstop flights to smaller European cities aligns with the growing trend of passenger demand for convenient travel options.",
+      "exported_at": "2025-10-09T10:58:23.040636",
       "continuous_session": true
     }
   ]
