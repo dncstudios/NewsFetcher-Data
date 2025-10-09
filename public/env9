@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-08T21:27:27.112620",
-    "total_articles": 2471,
-    "new_articles_in_last_fetch": 2471,
+    "created_at": "2025-10-08T21:32:38.863951",
+    "total_articles": 2472,
+    "new_articles_in_last_fetch": 2472,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -32087,6 +32087,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ASIA-PACIFIC MARKETS RALLY ON WALL STREET TECH GAINS 🚀\n\n- S&P 500 and Nasdaq hit new intraday and closing highs 📈\n- Tech sector leads the market surge 📈🔥\n- Asia-Pacific markets poised to open higher 🌏📈\n- Investors track Wall Street's upward momentum 📊\n- Positive sentiment fuels the market opening 🚀🔥\n- Tech rally continues to drive market optimism 💻📈\n\nTAKEAWAY: Asia-Pacific markets ride the wave of Wall Street's tech gains, setting the stage for a strong opening fueled by positive investor sentiment.",
       "exported_at": "2025-10-08T21:27:26.953226",
+      "continuous_session": true
+    },
+    {
+      "title": "Israel, Hamas agree to first phase of Gaza peace plan, allowing release of hostages",
+      "link": "https://www.cnbc.com/2025/10/09/israel-hamas-agree-to-first-phase-of-gaza-peace-plan-allowing-release-of-hostages-.html",
+      "summary": "Trump announced that Israel and Hamas had agreed on the first phase of a peace plan which could put an end to the two-year war and free hostages.",
+      "published": "Thu, 09 Oct 2025 00:37:35 GMT",
+      "content": "Trump announced that Israel and Hamas had agreed on the first phase of a peace plan which could put an end to the two-year war and free hostages.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "590590a912f6bd3875f5864e9aabed5c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ISRAEL & HAMAS AGREE ON GAZA PEACE PLAN, HOSTAGES TO BE RELEASED 🕊️\n\n- Trump reveals agreement between Israel & Hamas 🕊️\n- First phase of peace plan aims to end two-year war ✌️\n- Hostages to be freed as part of the agreement 🆓\n\nTAKEAWAY: Israel and Hamas strike a promising first-phase agreement in the Gaza peace plan, signaling potential relief and progress in the region.",
+      "exported_at": "2025-10-08T21:32:38.691264",
       "continuous_session": true
     }
   ]
