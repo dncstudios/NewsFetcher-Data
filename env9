@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T14:12:30.211717",
-    "total_articles": 2552,
-    "new_articles_in_last_fetch": 2552,
+    "created_at": "2025-10-09T14:17:43.787746",
+    "total_articles": 2554,
+    "new_articles_in_last_fetch": 2554,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -33136,6 +33136,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: RARE EARTH RESTRICTIONS RESURFACE: US MARKET FACES CHINESE LAWFARE 🚨\n\n- Rare earth limits signal onset of 'lawfare' era 🌐\n- US economy unready for China's challenge 💥\n- Market urged to brace for Chinese legal warfare 🛡️\n\nTAKEAWAY: With rare earth restrictions resurfacing, the US market must gear up to face China's lawfare challenges ahead.",
       "exported_at": "2025-10-09T14:12:30.035201",
+      "continuous_session": true
+    },
+    {
+      "title": "S&amp;P 500, Nasdaq retreat from record highs: Live updates",
+      "link": "https://www.cnbc.com/2025/10/08/stock-market-today-live-updates.html",
+      "summary": "The S&amp;P 500 and Nasdaq Composite touched fresh record highs Thursday, but struggled to continue to the momentum.",
+      "published": "Thu, 09 Oct 2025 18:17:07 GMT",
+      "content": "The S&amp;P 500 and Nasdaq Composite touched fresh record highs Thursday, but struggled to continue to the momentum.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f869c07eb15ee408df6badc59a54eec4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: S&P 500, NASDAQ FALL FROM RECORD HIGHS 📉\n\n- S&P 500, Nasdaq hit new highs but face struggle to sustain momentum\n- Market retreats after reaching record levels on Thursday\n- Investors monitor closely as indices fluctuate\n- Uncertainty looms over sustainability of recent highs\n- Traders cautious amid market volatility\n- Potential correction concerns arise for S&P 500, Nasdaq\n\nTAKEAWAY: S&P 500 and Nasdaq experience a retreat from recent record highs, sparking caution among traders and concerns about potential corrections in the market.",
+      "exported_at": "2025-10-09T14:17:43.596040",
+      "continuous_session": true
+    },
+    {
+      "title": "Here are the new federal income tax brackets for 2026—the standard deduction now exceeds $16,000 for single filers",
+      "link": "https://www.cnbc.com/2025/10/09/irs-announces-new-federal-income-tax-brackets-for-2026.html",
+      "summary": "The IRS announced higher income thresholds, which means taxpayers will get taxed less on lower income amounts.",
+      "published": "Thu, 09 Oct 2025 17:52:29 GMT",
+      "content": "The IRS announced higher income thresholds, which means taxpayers will get taxed less on lower income amounts.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7b237977e0e48ec9e03b4d2a47783625",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NEW FEDERAL INCOME TAX BRACKETS FOR 2026 REVEALED 🚀\n\n- IRS raises income thresholds for lower taxation 💰\n- Standard deduction surpasses $16,000 for single filers ✅\n- Taxpayers to benefit from decreased tax obligations 📉\n- Higher thresholds result in lower tax burdens ⚡️\n- Improved brackets ensure fairer tax assessments 🎯\n\nTAKEAWAY: IRS unveils 2026 federal income tax brackets with higher thresholds, benefiting taxpayers with reduced tax obligations and fairer assessments.",
+      "exported_at": "2025-10-09T14:17:43.596105",
       "continuous_session": true
     }
   ]
