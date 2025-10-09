@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T13:52:11.726564",
-    "total_articles": 2551,
-    "new_articles_in_last_fetch": 2551,
+    "created_at": "2025-10-09T14:12:30.211717",
+    "total_articles": 2552,
+    "new_articles_in_last_fetch": 2552,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -33123,6 +33123,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: RARE EARTH RESTRICTIONS RESURFACE: US MARKET FACES CHINESE LAWFARE 🚨\n\n- Rare earth limits signal onset of 'lawfare' era 🌐\n- US economy unready for China's challenge 💥\n- Market urged to brace for Chinese legal warfare 🛡️\n\nTAKEAWAY: With rare earth restrictions resurfacing, the US market must gear up to face China's lawfare challenges ahead.",
       "exported_at": "2025-10-09T13:52:11.697451",
+      "continuous_session": true
+    },
+    {
+      "title": "Op-ed: With new rare earth restrictions, it&apos;s time for U.S. market to get real about China&apos;s growing legal arsenal",
+      "link": "https://www.cnbc.com/2025/10/09/china-rare-earth-metals-restriction-us-market-economy.html",
+      "summary": "What starts with rare earth restrictions will grow into a long era of 'lawfare,' and the U.S. economy is not yet fully prepared to challenge China.",
+      "published": "Thu, 09 Oct 2025 18:12:01 GMT",
+      "content": "What starts with rare earth restrictions will grow into a long era of 'lawfare,' and the U.S. economy is not yet fully prepared to challenge China.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "520e1c6a850f0807c77301253fad7810",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: RARE EARTH RESTRICTIONS RESURFACE: US MARKET FACES CHINESE LAWFARE 🚨\n\n- Rare earth limits signal onset of 'lawfare' era 🌐\n- US economy unready for China's challenge 💥\n- Market urged to brace for Chinese legal warfare 🛡️\n\nTAKEAWAY: With rare earth restrictions resurfacing, the US market must gear up to face China's lawfare challenges ahead.",
+      "exported_at": "2025-10-09T14:12:30.035201",
       "continuous_session": true
     }
   ]
