@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T11:08:50.392229",
-    "total_articles": 2537,
-    "new_articles_in_last_fetch": 2537,
+    "created_at": "2025-10-09T11:13:59.719350",
+    "total_articles": 2538,
+    "new_articles_in_last_fetch": 2538,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -32941,6 +32941,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: OPENAI'S SORA REACHES 1 MILLION DOWNLOADS IN RECORD TIME 🚀\n\n- Sora hits 1 million downloads in under 5 days 📈\n- Surpasses ChatGPT's download speed 🚀\n- ChatGPT supports 800M weekly active users 🤖\n- Sora's rapid rise showcases immense popularity 📈\n- Impressive milestone for OpenAI's new AI product 💥\n\nTAKEAWAY: Sora's lightning-fast 1 million downloads in under 5 days outpaces even ChatGPT, highlighting its immense popularity and success in the AI market.",
       "exported_at": "2025-10-09T11:08:50.224250",
+      "continuous_session": true
+    },
+    {
+      "title": "Netflix is missing out on the market&apos;s latest run. Josh Brown thinks that could change soon",
+      "link": "https://www.cnbc.com/2025/10/09/netflix-is-missing-out-on-the-markets-latest-run-josh-brown-thinks-that-could-change-soon.html",
+      "summary": "Josh and Sean give the set-up on Netflix ahead of earnings, which are often a volatile time for the stock.",
+      "published": "Thu, 09 Oct 2025 15:09:54 GMT",
+      "content": "Josh and Sean give the set-up on Netflix ahead of earnings, which are often a volatile time for the stock.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fd9877565e050a561b3d7dbdeb513d4a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NETFLIX LAGS BEHIND MARKET BOOM, JOSH BROWN PREDICTS TURNAROUND ⚡️\n\n- Netflix falls behind in current market surge 📉\n- Josh Brown anticipates Netflix's potential reversal 🔄\n- Earnings season brings volatility to Netflix stock 🎢\n\nTAKEAWAY: Netflix's underperformance in the market might see a turnaround soon, as predicted by Josh Brown amidst the volatile earnings season.",
+      "exported_at": "2025-10-09T11:13:59.530865",
       "continuous_session": true
     }
   ]
