@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T13:31:40.750283",
-    "total_articles": 2547,
-    "new_articles_in_last_fetch": 2547,
+    "created_at": "2025-10-09T13:36:50.099750",
+    "total_articles": 2548,
+    "new_articles_in_last_fetch": 2548,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -33071,6 +33071,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JEFF BEZOS REVEALS CAREER CHOICE THAT BOOSTS BUSINESS SUCCESS 🚀\n\n- Bezos shares key to launching a successful startup 💡\n- Disproves notion of college dropout as only path to success 🎓\n- Encourages unique career choices for aspiring entrepreneurs ✨\n\nTAKEAWAY: Jeff Bezos challenges the stereotype by highlighting a career choice in your 20s that can significantly increase your chances of starting a successful business, offering hope and inspiration to future entrepreneurs.",
       "exported_at": "2025-10-09T13:31:40.721657",
+      "continuous_session": true
+    },
+    {
+      "title": "Jim Cramer: This investment strategy is like &apos;magic,&apos; especially for younger people—&apos;you end up with just a huge amount of stock&apos;",
+      "link": "https://www.cnbc.com/2025/10/09/jim-cramer-why-dividend-stocks-are-magic-for-younger-investors.html",
+      "summary": "Jim Cramer, host of CNBC's 'Mad Money,' says reinvesting cash payouts can have a bigger impact on returns than you might think — especially for young investors.",
+      "published": "Thu, 09 Oct 2025 16:26:55 GMT",
+      "content": "Jim Cramer, host of CNBC's 'Mad Money,' says reinvesting cash payouts can have a bigger impact on returns than you might think — especially for young investors.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9249a940dcf85c62946b1f3aee0a5477",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JIM CRAMER'S MAGIC INVESTMENT STRATEGY FOR YOUNG PEOPLE 🚀\n\n- Reinvesting cash payouts yields massive stock gains 💰\n- Jim Cramer highlights the power of this strategy 🌟\n- Young investors benefit significantly from reinvesting 📈\n- The impact on returns is larger than anticipated 💥\n- CNBC's 'Mad Money' host emphasizes the strategy's magic ✨\n\nTAKEAWAY: Jim Cramer advocates for the magical impact of reinvesting cash payouts, especially for young investors, leading to significant stock gains.",
+      "exported_at": "2025-10-09T13:36:49.931716",
       "continuous_session": true
     }
   ]
