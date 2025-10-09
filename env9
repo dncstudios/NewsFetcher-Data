@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T07:48:52.756887",
-    "total_articles": 2503,
-    "new_articles_in_last_fetch": 2503,
+    "created_at": "2025-10-09T07:54:02.496833",
+    "total_articles": 2504,
+    "new_articles_in_last_fetch": 2504,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -32503,6 +32503,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NVIDIA'S 60% RALLY ON HORIZON WITH AI MARKET GROWTH 🚀\n\n- Cantor Fitzgerald predicts nearly 60% surge for Nvidia 📈\n- Partnership with OpenAI boosts outlook for GPU maker 💥\n- AI infrastructure market expansion drives Nvidia's potential 🌐\n\nTAKEAWAY: Nvidia's collaboration with OpenAI propels its stock towards a substantial rally, fueled by the expanding AI infrastructure market.",
       "exported_at": "2025-10-09T07:48:52.583801",
+      "continuous_session": true
+    },
+    {
+      "title": "Family offices still bet on AI and health care even as deals slow down",
+      "link": "https://www.cnbc.com/2025/10/09/family-offices-still-bet-on-ai-and-health-care-even-as-deals-slow-down.html",
+      "summary": "Investment firms of the ultra-rich made 46% fewer direct investments in September compared with the same period last year, according to Fintrx.",
+      "published": "Thu, 09 Oct 2025 11:49:51 GMT",
+      "content": "Investment firms of the ultra-rich made 46% fewer direct investments in September compared with the same period last year, according to Fintrx.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f8fb6beb33f5872fbde591124265ad28",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FAMILY OFFICES PERSIST IN AI & HEALTHCARE DESPITE SLOWING DEALS 📉\n\n- Ultra-rich investment firms reduce direct investments by 46% in September\n- Focus remains on AI and healthcare sectors despite the decline 🎯\n- Family offices show resilience in their strategic investment choices 💪\n\nTAKEAWAY: Despite a decrease in direct investments, family offices maintain confidence in AI and healthcare sectors, showcasing strategic resilience in their investment approach.",
+      "exported_at": "2025-10-09T07:54:02.467173",
       "continuous_session": true
     }
   ]
