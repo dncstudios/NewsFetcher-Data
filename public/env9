@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T12:15:08.000756",
-    "total_articles": 2541,
-    "new_articles_in_last_fetch": 2541,
+    "created_at": "2025-10-09T12:20:18.326548",
+    "total_articles": 2542,
+    "new_articles_in_last_fetch": 2542,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -32993,6 +32993,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: YOUTUBE OFFERS BANNED CREATORS 'SECOND CHANCE' AFTER RULE ROLLBACK 🚀\n\n- Terminated channels can reapply to create new channels 🔄\n- Feature introduced amidst pressure from Republicans & Trump 🇺🦅\n- Policy change aims to give banned creators redemption 🌟\n\nTAKEAWAY: YouTube's new feature allowing banned creators to reapply for channels comes after political pressure, offering a chance for redemption and a fresh start.",
       "exported_at": "2025-10-09T12:15:07.801629",
+      "continuous_session": true
+    },
+    {
+      "title": "Retail investors are back in the market in a big way after summer pause. What they are buying",
+      "link": "https://www.cnbc.com/2025/10/09/retail-investors-are-back-in-the-market-in-a-big-way-after-summer-pause-what-they-are-buying.html",
+      "summary": "Everyday traders upped their investment flows this week compared with the last two months.",
+      "published": "Thu, 09 Oct 2025 16:16:13 GMT",
+      "content": "Everyday traders upped their investment flows this week compared with the last two months.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1e513322fdb948b39ce76b0c83cab49c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: RETAIL INVESTORS RETURN STRONG AFTER SUMMER PAUSE 🚀\n\n- Retail investors increase investment flows this week 📈\n- Surge in trading activity after a quiet summer period 🌟\n- Market sees heightened interest from everyday traders 💪\n- Retail investors back in the game with renewed enthusiasm 💼\n- Positive trend as retail investors make a strong comeback 📈\n\nTAKEAWAY: Retail investors are back with a bang, increasing investment flows and showing renewed interest in the market after a quiet summer period.",
+      "exported_at": "2025-10-09T12:20:18.152159",
       "continuous_session": true
     }
   ]
