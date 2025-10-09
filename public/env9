@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T16:40:33.024072",
-    "total_articles": 2567,
-    "new_articles_in_last_fetch": 2567,
+    "created_at": "2025-10-09T16:45:43.093883",
+    "total_articles": 2568,
+    "new_articles_in_last_fetch": 2568,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -33331,6 +33331,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: GRAND JURY ASKED TO INDICT TRUMP FOE LETITIA JAMES, MSNBC REPORTS ⚠️\n\n- Letitia James, Trump's legal opponent, faces grand jury indictment request 🏛️\n- James sued Trump, resulting in his company found liable for business fraud 💼\n- Potential legal action against James raises speculation 🤔\n\nTAKEAWAY: Letitia James, known for suing Trump, now faces a grand jury indictment request, sparking legal intrigue.",
       "exported_at": "2025-10-09T16:40:32.850363",
+      "continuous_session": true
+    },
+    {
+      "title": "Santoli&apos;s Thursday market wrap-up: Stocks pull back from record highs as Wall Street takes a breather",
+      "link": "https://www.cnbc.com/2025/10/09/santolis-thursday-market-wrap-up-stocks-pull-back-from-record-highs-as-wall-street-takes-a-breather.html",
+      "summary": "Stocks closed lower Thursday as the S&amp;P 500 and Nasdaq retreated from record highs as the federal government shutdown drags on.",
+      "published": "Thu, 09 Oct 2025 20:32:37 GMT",
+      "content": "Stocks closed lower Thursday as the S&amp;P 500 and Nasdaq retreated from record highs as the federal government shutdown drags on.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e244d97d27ee8be4cb7dade805bf7500",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS PULL BACK FROM RECORD HIGHS AS GOVERNMENT SHUTDOWN CONTINUES 🚨\n\n- S&P 500 and Nasdaq retreat from all-time highs 📉\n- Market takes a breather amid federal government shutdown ⏸️\n- Investors cautious as stocks close lower on Thursday 📉\n\nTAKEAWAY: Stock market retreats as S&P 500 and Nasdaq step back from record highs, impacted by the ongoing federal government shutdown.",
+      "exported_at": "2025-10-09T16:45:42.908369",
       "continuous_session": true
     }
   ]
