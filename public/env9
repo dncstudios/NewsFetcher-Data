@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T04:33:58.434695",
-    "total_articles": 2481,
-    "new_articles_in_last_fetch": 2481,
+    "created_at": "2025-10-09T04:44:09.039089",
+    "total_articles": 2482,
+    "new_articles_in_last_fetch": 2482,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -32217,6 +32217,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: OPENAI'S BUDGET-FRIENDLY CHATGPT GO EXPANDS TO 16 ASIAN COUNTRIES 🚀\n\n- ChatGPT Go now in 16 more Asian countries 🌏\n- Expansion follows successful launch in India and Indonesia 🇮🇳🇮🇩\n- OpenAI aims to reach more users across Asia 📈\n- Budget-friendly option for diverse markets 💰\n- ChatGPT Go offers accessible AI technology to a wider audience 🌐\n- Increasing accessibility to advanced AI tools in Asia 📲\n\nTAKEAWAY: OpenAI's decision to expand ChatGPT Go to more Asian countries shows a commitment to making AI technology affordable and accessible to diverse markets in the region. 🚀",
       "exported_at": "2025-10-09T04:33:58.264403",
+      "continuous_session": true
+    },
+    {
+      "title": "Hang Seng Bank shares jump 25% as parent HSBC&apos;s privatization bid values it at over $37 billion",
+      "link": "https://www.cnbc.com/2025/10/09/hsbc-proposes-to-privatize-hang-seng-bank-for-over-37-billion-deal.html",
+      "summary": "HSBC said it has asked the board of Hang Seng Bank to put forward a privatization proposal to shareholders via a scheme of arrangement under Hong Kong’s Companies Ordinance.",
+      "published": "Thu, 09 Oct 2025 08:43:42 GMT",
+      "content": "HSBC said it has asked the board of Hang Seng Bank to put forward a privatization proposal to shareholders via a scheme of arrangement under Hong Kong’s Companies Ordinance.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "53d00af5dbb13eb747e159f224bc2f4a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: HANG SENG BANK SOARS 30% ON HSBC'S $37 BILLION PRIVATIZATION BID 🚀\n\n- HSBC seeks Hang Seng Bank privatization proposal 💼\n- Share price surge values Hang Seng at over $37 billion 💰\n- Privatization via scheme of arrangement under HK law 🏦\n\nTAKEAWAY: HSBC's move to privatize Hang Seng Bank boosts shares by 30%, valuing the bank at over $37 billion, signaling a significant shift in ownership.",
+      "exported_at": "2025-10-09T04:44:08.866295",
       "continuous_session": true
     }
   ]
