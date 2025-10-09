@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T07:38:32.237606",
-    "total_articles": 2500,
-    "new_articles_in_last_fetch": 2500,
+    "created_at": "2025-10-09T07:43:43.276658",
+    "total_articles": 2502,
+    "new_articles_in_last_fetch": 2502,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -32464,6 +32464,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TOP DEMOCRAT SEEKS EPSTEIN FINANCIAL RECORDS FROM BANK CEOS ⚠️\n\n- House Democrat demands Epstein financial records from Dimon, other CEOs\n- Trump administration criticized for withholding Epstein files 🚫\n- Investigation focuses on Epstein's financial dealings\n\nTAKEAWAY: A top House Democrat seeks Jeffrey Epstein's financial records from bank CEOs, shedding light on the investigation into his financial dealings while criticizing the Trump administration's lack of transparency.",
       "exported_at": "2025-10-09T07:38:32.068655",
+      "continuous_session": true
+    },
+    {
+      "title": "Novo Nordisk to buy Akero for up to $5.2 billion for promising liver drug",
+      "link": "https://www.cnbc.com/2025/10/09/novo-nordisk-to-buy-akero-therapeutics.html",
+      "summary": "Novo Nordisk said on Thursday it would buy Akero Therapeutics for up to $5.2 billion to add its promising experimental liver disease drug.",
+      "published": "Thu, 09 Oct 2025 11:41:03 GMT",
+      "content": "Novo Nordisk said on Thursday it would buy Akero Therapeutics for up to $5.2 billion to add its promising experimental liver disease drug.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2824820f5e2a1e2fa24a4ac6b7e83c67",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NOVO NORDISK ACQUIRES AKERO FOR $5.2B FOR LIVER DRUG 🚀\n\n- Novo Nordisk invests $5.2 billion in Akero Therapeutics 💰\n- Acquisition aims to harness Akero's liver disease drug potential 🌟\n- Deal reflects confidence in Akero's promising experimental drug 💊\n- Novo Nordisk solidifies position in the liver disease treatment market 🏥\n- Akero's innovative drug attracts significant investment 📈\n- Acquisition expected to drive growth and innovation in liver disease treatments ✨\n\nTAKEAWAY: Novo Nordisk's $5.2 billion acquisition of Akero Therapeutics highlights a strategic move to capitalize on the promising liver disease drug, signaling growth and innovation in the treatment market.",
+      "exported_at": "2025-10-09T07:43:43.108130",
+      "continuous_session": true
+    },
+    {
+      "title": "Ferrari shares fall 16% as guidance disappoints, on track for worst trading day ever",
+      "link": "https://www.cnbc.com/2025/10/09/ferrari-unveils-first-electric-vehicle-and-cuts-2030-ev-sales-target.html",
+      "summary": "Analysts said the targets, which were announced as part of the firm’s Capital Markets Day event, fell short of expectations.",
+      "published": "Thu, 09 Oct 2025 11:41:08 GMT",
+      "content": "Analysts said the targets, which were announced as part of the firm’s Capital Markets Day event, fell short of expectations.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ebd6b8c80db9ca3edb74a4e83b4a1abc",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FERRARI SHARES PLUNGE 16% AS GUIDANCE DISAPPOINTS 🚨\n\n- Ferrari shares drop 16% after guidance misses targets 📉\n- Disappointing update from Capital Markets Day event 📉\n- Analysts express concerns over underwhelming targets 🤔\n\nTAKEAWAY: Ferrari's shares take a hit as guidance update falls short of expectations, leaving analysts and investors concerned about the future.",
+      "exported_at": "2025-10-09T07:43:43.108194",
       "continuous_session": true
     }
   ]
