@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T11:54:45.844475",
-    "total_articles": 2540,
-    "new_articles_in_last_fetch": 2540,
+    "created_at": "2025-10-09T12:15:08.000756",
+    "total_articles": 2541,
+    "new_articles_in_last_fetch": 2541,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -32980,6 +32980,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: EX-GOOGLE CEO ERIC SCHMIDT WARNS AI MODELS CAN BE HACKED: 'THEY LEARN HOW TO KILL SOMEONE' ⚠️\n\n- Schmidt warns AI models vulnerable to hacking for malicious purposes\n- Hackers can manipulate models, removing safety measures 🛡️\n- Concerns raised about potential dangers of AI technology ⚠️\n- Schmidt highlights risks of AI systems learning harmful behaviors 🚨\n- Urgent need for robust security measures in AI development 🔒\n- Warning against unchecked AI advancement without safeguards ✋\n\nTAKEAWAY: Eric Schmidt's cautionary message about AI models being hackable underscores the importance of prioritizing security and ethical considerations in AI development.",
       "exported_at": "2025-10-09T11:54:45.680980",
+      "continuous_session": true
+    },
+    {
+      "title": "YouTube will give banned creators a &apos;second chance&apos; after rule rollback",
+      "link": "https://www.cnbc.com/2025/10/09/youtube-banned-accounts-trump-misinformation.html",
+      "summary": "YouTube is rolling out a feature for previously terminated channels to apply to create a new channel after scrutiny from Republicans and President Donald Trump.",
+      "published": "Thu, 09 Oct 2025 16:00:01 GMT",
+      "content": "YouTube is rolling out a feature for previously terminated channels to apply to create a new channel after scrutiny from Republicans and President Donald Trump.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1f75568a6fb03b04130bb45abb3642f6",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: YOUTUBE OFFERS BANNED CREATORS 'SECOND CHANCE' AFTER RULE ROLLBACK 🚀\n\n- Terminated channels can reapply to create new channels 🔄\n- Feature introduced amidst pressure from Republicans & Trump 🇺🦅\n- Policy change aims to give banned creators redemption 🌟\n\nTAKEAWAY: YouTube's new feature allowing banned creators to reapply for channels comes after political pressure, offering a chance for redemption and a fresh start.",
+      "exported_at": "2025-10-09T12:15:07.801629",
       "continuous_session": true
     }
   ]
