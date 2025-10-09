@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T10:12:05.926749",
-    "total_articles": 2526,
-    "new_articles_in_last_fetch": 2526,
+    "created_at": "2025-10-09T10:22:21.245415",
+    "total_articles": 2528,
+    "new_articles_in_last_fetch": 2528,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -32799,6 +32799,31 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: S&P 500 AND NASDAQ HIT FRESH RECORD HIGHS 🚀\n\n- S&P 500 and Nasdaq reach new all-time highs 📈\n- Market continues upward trend 📈\n- Thursday sees record-breaking performance 🚀\n\nTAKEAWAY: The S&P 500 and Nasdaq soar to new heights, showcasing the market's persistent upward momentum.",
       "exported_at": "2025-10-09T10:12:05.748654",
+      "continuous_session": true
+    },
+    {
+      "title": "Intel gives first look at next-gen chips, says Arizona fab is fully operational",
+      "link": "https://www.cnbc.com/2025/10/09/intel-chips-panther-lake-clearwater-forest.html",
+      "summary": "The U.S. government took a 10% stake in the company in August, and Intel has received investments from Nvidia and SoftBank.",
+      "published": "Thu, 09 Oct 2025 14:18:59 GMT",
+      "content": "The U.S. government took a 10% stake in the company in August, and Intel has received investments from Nvidia and SoftBank.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8afea0718c76e07aeab81d8babb74d88",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: INTEL UNVEILS NEXT-GEN CHIPS, ARIZONA FAB AT FULL CAPACITY 🚀\n\n- Intel showcases upcoming chips with cutting-edge technology 💻\n- Arizona factory operating at full capacity, meeting demands 🏭\n- U.S. government holds 10% stake in Intel since August 🇺🇸\n- Nvidia and SoftBank invest in Intel, boosting financial support 💰\n- Company positioned for growth and innovation in the tech industry 📈\n\nTAKEAWAY: Intel's reveal of next-gen chips and full operation of the Arizona fab, along with investments from major players, signals a strong position for growth and technological advancement.",
+      "exported_at": "2025-10-09T10:22:21.084779",
+      "continuous_session": true
+    },
+    {
+      "title": "This stock reporting earnings soon can&apos;t seem to shake the tariff overhang. How to hedge into the results",
+      "link": "https://www.cnbc.com/2025/10/09/this-stock-reporting-earnings-soon-cant-seem-to-shake-the-tariff-overhang-how-to-hedge-into-the-results.html",
+      "summary": "Mike Khouw breaks down the set-up in Hasbro.",
+      "published": "Thu, 09 Oct 2025 14:09:26 GMT",
+      "content": "Mike Khouw breaks down the set-up in Hasbro.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1241a8fad79fb3a4e407909998233501",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "exported_at": "2025-10-09T10:22:21.084847",
       "continuous_session": true
     }
   ]
