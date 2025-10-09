@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T13:36:50.099750",
-    "total_articles": 2548,
-    "new_articles_in_last_fetch": 2548,
+    "created_at": "2025-10-09T13:52:11.726564",
+    "total_articles": 2551,
+    "new_articles_in_last_fetch": 2551,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -33084,6 +33084,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JIM CRAMER'S MAGIC INVESTMENT STRATEGY FOR YOUNG PEOPLE 🚀\n\n- Reinvesting cash payouts yields massive stock gains 💰\n- Jim Cramer highlights the power of this strategy 🌟\n- Young investors benefit significantly from reinvesting 📈\n- The impact on returns is larger than anticipated 💥\n- CNBC's 'Mad Money' host emphasizes the strategy's magic ✨\n\nTAKEAWAY: Jim Cramer advocates for the magical impact of reinvesting cash payouts, especially for young investors, leading to significant stock gains.",
       "exported_at": "2025-10-09T13:36:49.931716",
+      "continuous_session": true
+    },
+    {
+      "title": "Funding bills to end government shutdown fail in Senate vote for seventh time",
+      "link": "https://www.cnbc.com/2025/10/09/government-shutdown-senate-vote-bills.html",
+      "summary": "Lawmakers on both sides remain dug in, showing no indication that they are open to yielding on their demands.",
+      "published": "Thu, 09 Oct 2025 17:49:44 GMT",
+      "content": "Lawmakers on both sides remain dug in, showing no indication that they are open to yielding on their demands.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6e0ac8edc0e681210e2b10b20e096486",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SENATE FACES SEVENTH VOTE TO END SHUTDOWN WITH UNCERTAINTY ⚠️\n\n- Senate attempts 7th vote to halt government shutdown 🏛️\n- Lawmakers remain firm, no signs of compromise 🛑\n- Uncertainty looms over passage of bill 🤷‍♂️\n\nTAKEAWAY: Senate's repeated attempts to end the government shutdown face uncertainty as lawmakers show no willingness to compromise, prolonging the stalemate.",
+      "exported_at": "2025-10-09T13:52:11.697440",
+      "continuous_session": true
+    },
+    {
+      "title": "An AI stock showing a classic uptrend that investors should ride for as long as possible",
+      "link": "https://www.cnbc.com/2025/10/09/an-ai-stock-showing-a-classic-uptrend-that-investors-should-ride-for-as-long-as-possible.html",
+      "summary": "David Keller breaks down the charts on Arista Networks.",
+      "published": "Thu, 09 Oct 2025 17:42:27 GMT",
+      "content": "David Keller breaks down the charts on Arista Networks.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b5d4a8f0df4515cd53990e863782bbd8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AI STOCK ARISTA NETWORKS: CLASSIC UPTREND INVESTORS MUST RIDE 🚀\n\n- Arista Networks exhibits a classic uptrend pattern 📈\n- David Keller analyzes and breaks down Arista Networks' charts 🔍\n- Investors advised to ride the uptrend for maximum gains 💰\n\nTAKEAWAY: Arista Networks' classic uptrend presents a lucrative opportunity for investors to capitalize on potential gains by riding the wave.",
+      "exported_at": "2025-10-09T13:52:11.697449",
+      "continuous_session": true
+    },
+    {
+      "title": "Op-ed: With rare earth restrictions back on radar, it&apos;s time for U.S. market to get real about Chinese lawfare",
+      "link": "https://www.cnbc.com/2025/10/09/china-rare-earth-metals-restriction-us-market-economy.html",
+      "summary": "What starts with rare earth restrictions will grow into a long era of 'lawfare,' and the U.S. economy is not yet fully prepared to challenge China.",
+      "published": "Thu, 09 Oct 2025 17:47:28 GMT",
+      "content": "What starts with rare earth restrictions will grow into a long era of 'lawfare,' and the U.S. economy is not yet fully prepared to challenge China.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d7588794deb3af67e41bd7e8fc940213",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: RARE EARTH RESTRICTIONS RESURFACE: US MARKET FACES CHINESE LAWFARE 🚨\n\n- Rare earth limits signal onset of 'lawfare' era 🌐\n- US economy unready for China's challenge 💥\n- Market urged to brace for Chinese legal warfare 🛡️\n\nTAKEAWAY: With rare earth restrictions resurfacing, the US market must gear up to face China's lawfare challenges ahead.",
+      "exported_at": "2025-10-09T13:52:11.697451",
       "continuous_session": true
     }
   ]
