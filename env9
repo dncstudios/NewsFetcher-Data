@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T10:01:54.562715",
-    "total_articles": 2525,
-    "new_articles_in_last_fetch": 2525,
+    "created_at": "2025-10-09T10:12:05.926749",
+    "total_articles": 2526,
+    "new_articles_in_last_fetch": 2526,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -32786,6 +32786,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NBA RETURNS TO MACAO AFTER 6-YEAR HIATUS IN CHINA 🏀\n\n- NBA makes a comeback to Macao after a 6-year absence 🌟\n- Las Vegas Sands President Patrick Dumont discusses gambling and basketball 🎲🏀\n- Excitement fills the air as basketball returns to Macao 🌈\n\nTAKEAWAY: The NBA's return to Macao after 6 years brings excitement and anticipation as Las Vegas Sands President Patrick Dumont shares insights on the intersection of gambling and basketball.",
       "exported_at": "2025-10-09T10:01:54.386779",
+      "continuous_session": true
+    },
+    {
+      "title": "S&amp;P 500, Nasdaq retreat from record highs: Live updates",
+      "link": "https://www.cnbc.com/2025/10/08/stock-market-today-live-updates.html",
+      "summary": "The S&amp;P 500 and Nasdaq Composite touched fresh record highs Thursday, as the market's march higher carries on.",
+      "published": "Thu, 09 Oct 2025 14:09:27 GMT",
+      "content": "The S&amp;P 500 and Nasdaq Composite touched fresh record highs Thursday, as the market's march higher carries on.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "009e19bcd3a5330f37401a3084902a26",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: S&P 500 AND NASDAQ HIT FRESH RECORD HIGHS 🚀\n\n- S&P 500 and Nasdaq reach new all-time highs 📈\n- Market continues upward trend 📈\n- Thursday sees record-breaking performance 🚀\n\nTAKEAWAY: The S&P 500 and Nasdaq soar to new heights, showcasing the market's persistent upward momentum.",
+      "exported_at": "2025-10-09T10:12:05.748654",
       "continuous_session": true
     }
   ]
