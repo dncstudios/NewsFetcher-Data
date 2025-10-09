@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T07:23:15.016439",
-    "total_articles": 2499,
-    "new_articles_in_last_fetch": 2499,
+    "created_at": "2025-10-09T07:38:32.237606",
+    "total_articles": 2500,
+    "new_articles_in_last_fetch": 2500,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -32451,6 +32451,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SOCIAL SECURITY COLA 2026: SHUTDOWN IMPACT ON BENEFICIARIES 🚨\n\n- Millions await 2026 benefits inflation-adjustment 📈\n- Timing hinges on federal government shutdown ⏰\n- Uncertainty looms over announcement schedule 🤔\n\nTAKEAWAY: Social Security beneficiaries anticipate a 2026 benefits inflation-adjustment, but a federal government shutdown could delay the announcement, leaving uncertainty in its wake.",
       "exported_at": "2025-10-09T07:23:14.863148",
+      "continuous_session": true
+    },
+    {
+      "title": "Top House Democrat seeks Jeffrey Epstein financial records from Dimon, other bank CEOs",
+      "link": "https://www.cnbc.com/2025/10/09/bank-records-epstein-dimon-raskin.html",
+      "summary": "The Trump administration is under fire for refusing to make public investigative files about Jeffrey Epstein, a former friend of President Donald Trump.",
+      "published": "Thu, 09 Oct 2025 10:00:01 GMT",
+      "content": "The Trump administration is under fire for refusing to make public investigative files about Jeffrey Epstein, a former friend of President Donald Trump.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "81487d1ad9e6ac80b6f78d4e2a8efbdb",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TOP DEMOCRAT SEEKS EPSTEIN FINANCIAL RECORDS FROM BANK CEOS ⚠️\n\n- House Democrat demands Epstein financial records from Dimon, other CEOs\n- Trump administration criticized for withholding Epstein files 🚫\n- Investigation focuses on Epstein's financial dealings\n\nTAKEAWAY: A top House Democrat seeks Jeffrey Epstein's financial records from bank CEOs, shedding light on the investigation into his financial dealings while criticizing the Trump administration's lack of transparency.",
+      "exported_at": "2025-10-09T07:38:32.068655",
       "continuous_session": true
     }
   ]
