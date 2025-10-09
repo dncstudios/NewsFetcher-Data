@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T16:14:58.881760",
-    "total_articles": 2564,
-    "new_articles_in_last_fetch": 2564,
+    "created_at": "2025-10-09T16:30:16.401900",
+    "total_articles": 2565,
+    "new_articles_in_last_fetch": 2565,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -33292,6 +33292,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FERRARI STOCK PLUNGES WITH DISAPPOINTING GUIDANCE 📉\n\n- Ferrari's stock hits record low after missing 2030 financial targets 📉\n- Investors disappointed by underwhelming Capital Markets Day event 📉\n- Analysts express concerns over Ferrari's future performance 📉\n\nTAKEAWAY: Ferrari's stock takes a hit as disappointing guidance and missed financial targets lead to investor concerns and record low prices.",
       "exported_at": "2025-10-09T16:14:58.699254",
+      "continuous_session": true
+    },
+    {
+      "title": "Levi Strauss raises prices, helping to boost profit and outlook",
+      "link": "https://www.cnbc.com/2025/10/09/levi-strauss-levi-q3-2025-earnings.html",
+      "summary": "Levi Strauss is raising prices across its assortment but said consumer demand is so far holding steady.",
+      "published": "Thu, 09 Oct 2025 20:26:19 GMT",
+      "content": "Levi Strauss is raising prices across its assortment but said consumer demand is so far holding steady.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "44f450a5156c51e42b1456e8b4f9913a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: LEVI STRAUSS RAISES PRICES, BOOSTING PROFITS AND OUTLOOK 🚀\n\n- Levi Strauss increases prices across products 📈\n- Consumer demand remains strong 💪\n- Price hike contributes to improved profit and outlook 📊\n\nTAKEAWAY: Levi Strauss' strategic price increase not only boosts profits but also indicates strong consumer demand, enhancing its outlook.",
+      "exported_at": "2025-10-09T16:30:16.371790",
       "continuous_session": true
     }
   ]
