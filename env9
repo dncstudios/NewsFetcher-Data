@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T05:14:38.758844",
-    "total_articles": 2483,
-    "new_articles_in_last_fetch": 2483,
+    "created_at": "2025-10-09T05:19:49.134208",
+    "total_articles": 2484,
+    "new_articles_in_last_fetch": 2484,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -32243,6 +32243,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCKS REBOUND STRONGLY, LINDE WINS ANALYSTS, AMAZON ENTERS RX KIOSKS 🚀\n\n- Market sees impressive bounce back in stock performance 📈\n- Linde garners positive attention and approval from analysts 👍\n- Amazon shakes market with announcement of new Rx kiosks 💊\n\nTAKEAWAY: Today's market rebound, Linde's analyst approval, and Amazon's Rx kiosk launch create exciting opportunities for investors looking to capitalize on the market momentum.",
       "exported_at": "2025-10-09T05:14:38.730226",
+      "continuous_session": true
+    },
+    {
+      "title": "48 hours to pick a new PM: Who could Macron choose — and will France&apos;s economy take a hit?",
+      "link": "https://www.cnbc.com/2025/10/09/frances-macron-has-48-hours-to-pick-a-new-pm-who-could-it-be.html",
+      "summary": "Macron now has the tricky task of picking a PM who can find a compromise with rivals over the budget and how to reduce spending.",
+      "published": "Thu, 09 Oct 2025 08:06:20 GMT",
+      "content": "Macron now has the tricky task of picking a PM who can find a compromise with rivals over the budget and how to reduce spending.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9d02770ff850cbb5d4fed99e7dd6f318",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MACRON'S 48-HOUR DILEMMA: CHOOSING A NEW PM 🚨\n\n- Macron faces pressure to select PM for budget compromise 💼\n- PM needs to negotiate spending cuts with political rivals 💰\n- France's economy at risk pending PM choice 🇫🇷\n\nTAKEAWAY: Macron's decision in choosing a new PM to handle budget negotiations will be critical for France's economy, with pressure to find a compromise with political rivals looming.",
+      "exported_at": "2025-10-09T05:19:48.970169",
       "continuous_session": true
     }
   ]
