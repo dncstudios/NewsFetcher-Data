@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T09:41:23.858085",
-    "total_articles": 2519,
-    "new_articles_in_last_fetch": 2519,
+    "created_at": "2025-10-09T09:46:30.958073",
+    "total_articles": 2521,
+    "new_articles_in_last_fetch": 2521,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -32709,6 +32709,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: S&P 500 AND NASDAQ HIT FRESH RECORD HIGHS 🚀\n\n- S&P 500 and Nasdaq reach new all-time highs 📈\n- Market continues upward trend 📈\n- Thursday sees record-breaking performance 🚀\n\nTAKEAWAY: The S&P 500 and Nasdaq soar to new heights, showcasing the market's persistent upward momentum.",
       "exported_at": "2025-10-09T09:41:23.686361",
+      "continuous_session": true
+    },
+    {
+      "title": "Epstein bank records sought by top House Democrat from Jamie Dimon, other CEOs",
+      "link": "https://www.cnbc.com/2025/10/09/bank-records-epstein-dimon-raskin.html",
+      "summary": "The Trump administration is under fire for refusing to make public investigative files about Jeffrey Epstein, a former friend of President Donald Trump.",
+      "published": "Thu, 09 Oct 2025 13:41:44 GMT",
+      "content": "The Trump administration is under fire for refusing to make public investigative files about Jeffrey Epstein, a former friend of President Donald Trump.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2eda840008df51998cb880c645e5b19c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TOP DEMOCRAT SEEKS EPSTEIN FINANCIAL RECORDS FROM BANK CEOS ⚠️\n\n- House Democrat demands Epstein financial records from Dimon, other CEOs\n- Trump administration criticized for withholding Epstein files 🚫\n- Investigation focuses on Epstein's financial dealings\n\nTAKEAWAY: A top House Democrat seeks Jeffrey Epstein's financial records from bank CEOs, shedding light on the investigation into his financial dealings while criticizing the Trump administration's lack of transparency.",
+      "exported_at": "2025-10-09T09:46:30.812501",
+      "continuous_session": true
+    },
+    {
+      "title": "What is &apos;hybrid warfare&apos; — which Europe accuses Russia of waging?",
+      "link": "https://www.cnbc.com/2025/10/09/russia-accused-of-hybrid-warfare-against-europe-what-does-that-mean.html",
+      "summary": "Russia \"wants to sow division,\" the EU chief said Wednesday, and the bloc needs to face up to the new reality of \"hybrid warfare.\"",
+      "published": "Thu, 09 Oct 2025 13:41:19 GMT",
+      "content": "Russia \"wants to sow division,\" the EU chief said Wednesday, and the bloc needs to face up to the new reality of \"hybrid warfare.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7aa37731af4058029c39a85873a2e96e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: RUSSIA'S 'HYBRID WARFARE' THREATENS EUROPE 🚨\n\n- Russia aims to sow division in Europe, EU chief warns 🌍\n- EU must confront the reality of 'hybrid warfare' tactics 🛡️\n- Hybrid warfare includes cyberattacks, disinformation campaigns 💻📰\n- European officials emphasize need for unity against Russia 🤝\n- Russia's tactics pose a serious threat to European security 🚷\n- EU urged to strengthen defenses and counter hybrid threats 🛡️💪\n\nTAKEAWAY: Europe faces a critical challenge as Russia engages in 'hybrid warfare,' emphasizing the need for unity, defense strengthening, and countermeasures against cyberattacks and disinformation campaigns.",
+      "exported_at": "2025-10-09T09:46:30.812891",
       "continuous_session": true
     }
   ]
