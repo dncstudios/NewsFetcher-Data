@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T05:19:49.134208",
-    "total_articles": 2484,
-    "new_articles_in_last_fetch": 2484,
+    "created_at": "2025-10-09T05:35:08.183437",
+    "total_articles": 2485,
+    "new_articles_in_last_fetch": 2485,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -32256,6 +32256,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: MACRON'S 48-HOUR DILEMMA: CHOOSING A NEW PM 🚨\n\n- Macron faces pressure to select PM for budget compromise 💼\n- PM needs to negotiate spending cuts with political rivals 💰\n- France's economy at risk pending PM choice 🇫🇷\n\nTAKEAWAY: Macron's decision in choosing a new PM to handle budget negotiations will be critical for France's economy, with pressure to find a compromise with political rivals looming.",
       "exported_at": "2025-10-09T05:19:48.970169",
+      "continuous_session": true
+    },
+    {
+      "title": "Wind power giant Orsted to slash 2,000 jobs over next two years",
+      "link": "https://www.cnbc.com/2025/10/09/wind-power-giant-orsted-to-slash-2000-jobs-over-next-two-years.html",
+      "summary": "Orsted has faced headwinds this year as President Donald Trump's administration clamped down on wind power generation in the United States.",
+      "published": "Thu, 09 Oct 2025 09:28:25 GMT",
+      "content": "Orsted has faced headwinds this year as President Donald Trump's administration clamped down on wind power generation in the United States.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c51baf764befef4579c69f1c7408d745",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ORSTED TO CUT 2,000 JOBS AMID WIND POWER CHALLENGES ⚠️\n\n- Orsted to reduce 2,000 jobs in the next 2 years ⚠️\n- Company faces challenges due to US wind power restrictions 🌬️\n- Trump administration's policies impact Orsted's operations 🇺🇸\n\nTAKEAWAY: Orsted's decision to cut 2,000 jobs reflects challenges in the wind power sector, exacerbated by US policies affecting operations.",
+      "exported_at": "2025-10-09T05:35:08.028326",
       "continuous_session": true
     }
   ]
