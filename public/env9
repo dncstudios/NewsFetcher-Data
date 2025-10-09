@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T10:22:21.245415",
-    "total_articles": 2528,
-    "new_articles_in_last_fetch": 2528,
+    "created_at": "2025-10-09T10:37:47.347261",
+    "total_articles": 2532,
+    "new_articles_in_last_fetch": 2532,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -32824,6 +32824,58 @@
       "hash": "1241a8fad79fb3a4e407909998233501",
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "exported_at": "2025-10-09T10:22:21.084847",
+      "continuous_session": true
+    },
+    {
+      "title": "IRS announces new federal income tax brackets for 2026",
+      "link": "https://www.cnbc.com/2025/10/09/2026-federal-tax-brackets.html",
+      "summary": "The IRS has announced higher federal income tax brackets and standard deductions for 2026. Here's what taxpayers need to know.",
+      "published": "Thu, 09 Oct 2025 14:36:53 GMT",
+      "content": "The IRS has announced higher federal income tax brackets and standard deductions for 2026. Here's what taxpayers need to know.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "35bde76bdf70abca041636fca6b584d1",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: IRS REVEALS NEW FEDERAL INCOME TAX BRACKETS FOR 2026 📊\n\n- IRS unveils increased federal income tax brackets for 2026 💰\n- Standard deductions also raised for taxpayers 📈\n- Key updates aim to impact taxpayers in the upcoming year 💼\n- Changes offer potential benefits for individuals and families 💸\n- Taxpayers urged to stay informed about the new brackets 🧠\n\nTAKEAWAY: The IRS's announcement of higher federal income tax brackets and standard deductions for 2026 brings potential benefits for taxpayers, emphasizing the importance of staying informed.",
+      "exported_at": "2025-10-09T10:37:47.166628",
+      "continuous_session": true
+    },
+    {
+      "title": "DraftKings was hit hard on the prediction markets threat. One analyst believes the sell-off is overdone",
+      "link": "https://www.cnbc.com/2025/10/09/draftkings-was-hit-hard-on-the-prediction-markets-threat-one-analyst-believes-the-sell-off-is-overdone.html",
+      "summary": "Berenberg sees shares of DraftKings rallying 27% from their current valuation.",
+      "published": "Thu, 09 Oct 2025 14:23:44 GMT",
+      "content": "Berenberg sees shares of DraftKings rallying 27% from their current valuation.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "773904a0acdad8f9e2b25f165f49e870",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DRAFTKINGS SELL-OFF OVERDONE? ANALYST PREDICTS 27% RALLY 🚀\n\n- Analyst predicts DraftKings shares to surge by 27% 📈\n- Berenberg believes sell-off reaction is exaggerated 📉\n- Market threat impacts DraftKings stock performance ⚠️\n\nTAKEAWAY: Despite the sell-off due to market threat, Berenberg's optimistic prediction of a 27% rally suggests potential for DraftKings to bounce back strongly.",
+      "exported_at": "2025-10-09T10:37:47.166722",
+      "continuous_session": true
+    },
+    {
+      "title": "The IRS unveils higher capital gains tax brackets for 2026",
+      "link": "https://www.cnbc.com/2025/10/09/capital-gains-tax-2026-federal.html",
+      "summary": "The IRS has announced higher long-term capital gains brackets for 2026. Here's what investors need to know.",
+      "published": "Thu, 09 Oct 2025 14:34:36 GMT",
+      "content": "The IRS has announced higher long-term capital gains brackets for 2026. Here's what investors need to know.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "486a92c68a5cb6dbc0941284a74b3106",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: IRS UNVEILS HIGHER CAPITAL GAINS TAX BRACKETS FOR 2026 🚀\n\n- IRS reveals increased long-term capital gains brackets for 2026 💸\n- Investors must prepare for potential higher tax obligations 💼\n- Understanding new tax brackets crucial for financial planning 📈\n- Changes may impact investment strategies and decisions 🤔\n- Higher brackets may affect profitability in long-term investments 💰\n\nTAKEAWAY: The IRS's announcement of higher capital gains tax brackets for 2026 signals the need for investors to adapt their financial strategies and be prepared for potential increased tax obligations.",
+      "exported_at": "2025-10-09T10:37:47.166735",
+      "continuous_session": true
+    },
+    {
+      "title": "That perfect-looking house for sale may have an owner using AI to virtually enhance the listing",
+      "link": "https://www.cnbc.com/2025/10/09/homeowners-stage-house-home-for-sale-real-estate-ai.html",
+      "summary": "If a home for sale looks too perfect, that may be because the owner is using AI to virtually enhance the real estate listing.",
+      "published": "Thu, 09 Oct 2025 14:16:25 GMT",
+      "content": "If a home for sale looks too perfect, that may be because the owner is using AI to virtually enhance the real estate listing.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "410746ec5170bfef7217482c70a4dab1",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: THE RISE OF AI-ENHANCED REAL ESTATE LISTINGS 🏡⚡️\n\n- Owners may use AI to enhance home listings for sale\n- AI can virtually improve images to attract buyers 📸\n- Perfect-looking homes may have AI touch-ups\n- AI technology increasingly used in real estate marketing\n- Potential buyers should be aware of AI enhancements\n- Virtual improvements can make properties look flawless\n\nTAKEAWAY: The real estate industry is leveraging AI to enhance property listings, making homes appear flawless and attracting potential buyers, raising awareness of virtual enhancements among house hunters.",
+      "exported_at": "2025-10-09T10:37:47.166750",
       "continuous_session": true
     }
   ]
