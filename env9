@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T06:16:06.460102",
-    "total_articles": 2490,
-    "new_articles_in_last_fetch": 2490,
+    "created_at": "2025-10-09T06:31:23.706344",
+    "total_articles": 2491,
+    "new_articles_in_last_fetch": 2491,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -32334,6 +32334,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FERRARI SHARES PLUNGE 13% AFTER GUIDANCE UPDATE 📉\n\n- Ferrari revises EV sales target, slashes to 20% by 2030 ⚠️\n- Stock drops 13% following the electrification announcement 🔻\n- Company reduces its electric vehicle ambitions 🚗\n- Fully electric vehicles to comprise only 20% of Ferrari's range by 2030\n- Investors react negatively to the guidance update 📉\n- Ferrari faces challenges in achieving its electrification goals ⚠️\n\nTAKEAWAY: Ferrari's shares tumble 13% as the carmaker lowers its EV sales target, highlighting challenges in transitioning to electrification.",
       "exported_at": "2025-10-09T06:16:06.297848",
+      "continuous_session": true
+    },
+    {
+      "title": "Novo Nordisk to buy Akero Therapeutics for up to $5.2 billion",
+      "link": "https://www.cnbc.com/2025/10/09/novo-nordisk-to-buy-akero-therapeutics.html",
+      "summary": "Novo Nordisk said on Thursday it agreed to buy Akero Therapeutics for up to $5.2 billion.",
+      "published": "Thu, 09 Oct 2025 10:29:42 GMT",
+      "content": "Novo Nordisk said on Thursday it agreed to buy Akero Therapeutics for up to $5.2 billion.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ec0331a38cefd2a5b1e8c855119fd76b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NOVO NORDISK ACQUIRES AKERO THERAPEUTICS FOR UP TO $5.2 BILLION 🚀\n\n- Novo Nordisk seals deal to acquire Akero Therapeutics 💼\n- Acquisition cost reaches up to $5.2 billion 💰\n- Strategic move to expand Novo Nordisk's portfolio 📈\n- Akero Therapeutics brings valuable assets to Novo Nordisk 🌟\n- Acquisition expected to drive growth and innovation ✨\n- Deal solidifies Novo Nordisk's position in the market 🏆\n\nTAKEAWAY: Novo Nordisk's acquisition of Akero Therapeutics for up to $5.2 billion is a strategic move that is set to drive growth, innovation, and solidify its market position.",
+      "exported_at": "2025-10-09T06:31:23.525544",
       "continuous_session": true
     }
   ]
