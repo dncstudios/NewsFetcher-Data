@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T09:36:14.596598",
-    "total_articles": 2518,
-    "new_articles_in_last_fetch": 2518,
+    "created_at": "2025-10-09T09:41:23.858085",
+    "total_articles": 2519,
+    "new_articles_in_last_fetch": 2519,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -32696,6 +32696,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: HEDGE FUNDS CAUTIOUS, FUELING STOCK RALLY 🚀\n\n- Record high stocks poised for boost from cautious hedge funds 📈\n- Potential bullish shift from key investor group anticipated 📊\n- Hedge funds' caution could add momentum to market rally 📈🔥\n\nTAKEAWAY: Hedge funds' cautious approach amidst record-high stocks hints at a potential bullish shift, potentially fueling the market rally even further.",
       "exported_at": "2025-10-09T09:36:14.567945",
+      "continuous_session": true
+    },
+    {
+      "title": "S&amp;P 500 and Nasdaq touch fresh record highs: Live updates",
+      "link": "https://www.cnbc.com/2025/10/08/stock-market-today-live-updates.html",
+      "summary": "The S&amp;P 500 and Nasdaq Composite touched fresh record highs Thursday, as the market's march higher carries on.",
+      "published": "Thu, 09 Oct 2025 13:41:00 GMT",
+      "content": "The S&amp;P 500 and Nasdaq Composite touched fresh record highs Thursday, as the market's march higher carries on.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "52374d3953b7caa037c30fd7a13ea7c6",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: S&P 500 AND NASDAQ HIT FRESH RECORD HIGHS 🚀\n\n- S&P 500 and Nasdaq reach new all-time highs 📈\n- Market continues upward trend 📈\n- Thursday sees record-breaking performance 🚀\n\nTAKEAWAY: The S&P 500 and Nasdaq soar to new heights, showcasing the market's persistent upward momentum.",
+      "exported_at": "2025-10-09T09:41:23.686361",
       "continuous_session": true
     }
   ]
