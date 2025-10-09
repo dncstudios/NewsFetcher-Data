@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T10:58:23.226934",
-    "total_articles": 2535,
-    "new_articles_in_last_fetch": 2535,
+    "created_at": "2025-10-09T11:03:39.184762",
+    "total_articles": 2536,
+    "new_articles_in_last_fetch": 2536,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -32915,6 +32915,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: UNITED UNVEILS NEW SUMMER 2026 FLIGHTS 🚀\n\n- United expands nonstop flights to smaller European cities ✈️\n- Focus on providing direct routes for traveler convenience 🌍\n- Bet on passenger preference for avoiding connecting flights ✅\n- Strategy aims to attract more customers seeking ease of travel 🎯\n\nTAKEAWAY: United's bold move to introduce additional nonstop flights to smaller European cities aligns with the growing trend of passenger demand for convenient travel options.",
       "exported_at": "2025-10-09T10:58:23.040636",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump administration sends student loan forgiveness notices during government shutdown",
+      "link": "https://www.cnbc.com/2025/10/09/trump-administration-sends-student-loan-forgiveness-notices.html",
+      "summary": "Despite the government shutdown, student loan borrowers are receiving emails from the Education Department that their debt will soon be discharged.",
+      "published": "Thu, 09 Oct 2025 14:58:20 GMT",
+      "content": "Despite the government shutdown, student loan borrowers are receiving emails from the Education Department that their debt will soon be discharged.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "eb5b0fae63f5a86a3167043b557112c0",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP ADMINISTRATION SENDS STUDENT LOAN FORGIVENESS NOTICES DURING GOVERNMENT SHUTDOWN ⚠️\n\n- Education Department emails student loan borrowers about debt discharge 📧\n- Notices sent out despite ongoing government shutdown 🚫\n- Student loan forgiveness process continues amidst shutdown chaos 🌀\n\nTAKEAWAY: Student loan borrowers receive unexpected relief as Education Department pushes forward with debt discharge notifications during the government shutdown.",
+      "exported_at": "2025-10-09T11:03:39.156287",
       "continuous_session": true
     }
   ]
