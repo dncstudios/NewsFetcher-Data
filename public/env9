@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T13:26:29.747966",
-    "total_articles": 2546,
-    "new_articles_in_last_fetch": 2546,
+    "created_at": "2025-10-09T13:31:40.750283",
+    "total_articles": 2547,
+    "new_articles_in_last_fetch": 2547,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -33058,6 +33058,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP THREATENS SHUTDOWN TO CUT 'POPULAR DEMOCRAT PROGRAMS' ⚠️\n\n- Trump aims to slash government programs favored by Democrats 💰\n- Administration plans to leverage government shutdown for cuts 🪓\n- Popular Democrat programs targeted for permanent elimination 🎯\n\nTAKEAWAY: Trump's strategy to use a government shutdown to cut programs favored by Democrats raises concerns and sparks political tensions.",
       "exported_at": "2025-10-09T13:26:29.567743",
+      "continuous_session": true
+    },
+    {
+      "title": "Jeff Bezos: I made a career choice in my 20s that &apos;increases your odds&apos; of starting a successful business",
+      "link": "https://www.cnbc.com/2025/10/09/jeff-bezos-this-strategy-increases-odds-of-starting-successful-business.html",
+      "summary": "Prospective startup founders don't have to follow college dropouts like Bill Gates and Mark Zuckerberg to succeed, says the billionaire Amazon founder.",
+      "published": "Thu, 09 Oct 2025 16:32:48 GMT",
+      "content": "Prospective startup founders don't have to follow college dropouts like Bill Gates and Mark Zuckerberg to succeed, says the billionaire Amazon founder.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c72fec29e9a86e047f3c62ae8c6067c6",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JEFF BEZOS REVEALS CAREER CHOICE THAT BOOSTS BUSINESS SUCCESS 🚀\n\n- Bezos shares key to launching a successful startup 💡\n- Disproves notion of college dropout as only path to success 🎓\n- Encourages unique career choices for aspiring entrepreneurs ✨\n\nTAKEAWAY: Jeff Bezos challenges the stereotype by highlighting a career choice in your 20s that can significantly increase your chances of starting a successful business, offering hope and inspiration to future entrepreneurs.",
+      "exported_at": "2025-10-09T13:31:40.721657",
       "continuous_session": true
     }
   ]
