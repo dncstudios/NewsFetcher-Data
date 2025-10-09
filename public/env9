@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T09:15:46.991974",
-    "total_articles": 2515,
-    "new_articles_in_last_fetch": 2515,
+    "created_at": "2025-10-09T09:25:58.266295",
+    "total_articles": 2516,
+    "new_articles_in_last_fetch": 2516,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -32658,6 +32658,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JIM CRAMER'S TOP 10 THINGS TO WATCH IN THE STOCK MARKET THURSDAY 🚀\n\n- Nvidia gains approval to sell chips to the UAE 🚀\n- Delta Air Lines soars on strong earnings report 🔥\n\nTAKEAWAY: Stay tuned for potential market movements as Nvidia secures UAE chip sales approval and Delta Air Lines shines with soaring earnings.",
       "exported_at": "2025-10-09T09:15:46.798919",
+      "continuous_session": true
+    },
+    {
+      "title": "China tightens grip on rare earths supplies. The stocks involved in this crucial industry are surging",
+      "link": "https://www.cnbc.com/2025/10/09/china-tightens-rare-earths-grip-stocks-surge.html",
+      "summary": "Rare earths stocks were jumping Thursday",
+      "published": "Thu, 09 Oct 2025 13:24:38 GMT",
+      "content": "Rare earths stocks were jumping Thursday",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "038ecfdfac2b5a4b51d884eb3ed81e2c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "exported_at": "2025-10-09T09:25:58.081141",
       "continuous_session": true
     }
   ]
