@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T16:45:43.093883",
-    "total_articles": 2568,
-    "new_articles_in_last_fetch": 2568,
+    "created_at": "2025-10-09T17:00:57.824794",
+    "total_articles": 2569,
+    "new_articles_in_last_fetch": 2569,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -33344,6 +33344,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCKS PULL BACK FROM RECORD HIGHS AS GOVERNMENT SHUTDOWN CONTINUES 🚨\n\n- S&P 500 and Nasdaq retreat from all-time highs 📉\n- Market takes a breather amid federal government shutdown ⏸️\n- Investors cautious as stocks close lower on Thursday 📉\n\nTAKEAWAY: Stock market retreats as S&P 500 and Nasdaq step back from record highs, impacted by the ongoing federal government shutdown.",
       "exported_at": "2025-10-09T16:45:42.908369",
+      "continuous_session": true
+    },
+    {
+      "title": "New York AG Letitia James indicted by grand jury after Trump called for charges: MSNBC",
+      "link": "https://www.cnbc.com/2025/10/09/trump-letitia-james-halligan-mortgage.html",
+      "summary": "New York Attorney General Letitia James previously sued President Trump in a civil case that led to him and his company being held liable for business fraud.",
+      "published": "Thu, 09 Oct 2025 20:55:54 GMT",
+      "content": "New York Attorney General Letitia James previously sued President Trump in a civil case that led to him and his company being held liable for business fraud.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "eee516622d76a9b04208b6e99e95c23f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GRAND JURY ASKED TO INDICT TRUMP FOE LETITIA JAMES, MSNBC REPORTS ⚠️\n\n- Letitia James, Trump's legal opponent, faces grand jury indictment request 🏛️\n- James sued Trump, resulting in his company found liable for business fraud 💼\n- Potential legal action against James raises speculation 🤔\n\nTAKEAWAY: Letitia James, known for suing Trump, now faces a grand jury indictment request, sparking legal intrigue.",
+      "exported_at": "2025-10-09T17:00:57.644599",
       "continuous_session": true
     }
   ]
