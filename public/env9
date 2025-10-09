@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T10:37:47.347261",
-    "total_articles": 2532,
-    "new_articles_in_last_fetch": 2532,
+    "created_at": "2025-10-09T10:48:05.332687",
+    "total_articles": 2533,
+    "new_articles_in_last_fetch": 2533,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -32876,6 +32876,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: THE RISE OF AI-ENHANCED REAL ESTATE LISTINGS 🏡⚡️\n\n- Owners may use AI to enhance home listings for sale\n- AI can virtually improve images to attract buyers 📸\n- Perfect-looking homes may have AI touch-ups\n- AI technology increasingly used in real estate marketing\n- Potential buyers should be aware of AI enhancements\n- Virtual improvements can make properties look flawless\n\nTAKEAWAY: The real estate industry is leveraging AI to enhance property listings, making homes appear flawless and attracting potential buyers, raising awareness of virtual enhancements among house hunters.",
       "exported_at": "2025-10-09T10:37:47.166750",
+      "continuous_session": true
+    },
+    {
+      "title": "IRS unveils higher capital gains tax brackets for 2026",
+      "link": "https://www.cnbc.com/2025/10/09/capital-gains-tax-2026-federal.html",
+      "summary": "The IRS has announced higher long-term capital gains brackets for 2026. Here's what investors need to know.",
+      "published": "Thu, 09 Oct 2025 14:45:36 GMT",
+      "content": "The IRS has announced higher long-term capital gains brackets for 2026. Here's what investors need to know.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c00df60cd1a09edba243ec9a7874f248",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: IRS UNVEILS HIGHER CAPITAL GAINS TAX BRACKETS FOR 2026 🚀\n\n- IRS reveals increased long-term capital gains brackets for 2026 💸\n- Investors must prepare for potential higher tax obligations 💼\n- Understanding new tax brackets crucial for financial planning 📈\n- Changes may impact investment strategies and decisions 🤔\n- Higher brackets may affect profitability in long-term investments 💰\n\nTAKEAWAY: The IRS's announcement of higher capital gains tax brackets for 2026 signals the need for investors to adapt their financial strategies and be prepared for potential increased tax obligations.",
+      "exported_at": "2025-10-09T10:48:05.184031",
       "continuous_session": true
     }
   ]
