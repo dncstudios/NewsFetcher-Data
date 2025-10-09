@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T09:25:58.266295",
-    "total_articles": 2516,
-    "new_articles_in_last_fetch": 2516,
+    "created_at": "2025-10-09T09:31:05.138528",
+    "total_articles": 2517,
+    "new_articles_in_last_fetch": 2517,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -32670,6 +32670,19 @@
       "hash": "038ecfdfac2b5a4b51d884eb3ed81e2c",
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "exported_at": "2025-10-09T09:25:58.081141",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks are little changed as S&amp;P 500 takes breather after hitting all-time high: Live updates",
+      "link": "https://www.cnbc.com/2025/10/08/stock-market-today-live-updates.html",
+      "summary": "The S&amp;P 500 and Nasdaq Composite finished Wedneday's session at records.",
+      "published": "Thu, 09 Oct 2025 13:30:18 GMT",
+      "content": "The S&amp;P 500 and Nasdaq Composite finished Wedneday's session at records.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "34b53165272019b8ee4fff893fc0f6ae",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: S&P 500 FUTURES STABLE AFTER ALL-TIME HIGH 🚀\n\n- S&P 500, Nasdaq close at record highs on Wednesday 📈\n- Futures show minimal movement following historic highs 📉\n- Market sentiment cautiously optimistic 🌟\n\nTAKEAWAY: S&P 500 futures remain steady after reaching all-time highs, reflecting a cautiously optimistic market sentiment.",
+      "exported_at": "2025-10-09T09:31:04.970637",
       "continuous_session": true
     }
   ]
