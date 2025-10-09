@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T14:27:59.990273",
-    "total_articles": 2556,
-    "new_articles_in_last_fetch": 2556,
+    "created_at": "2025-10-09T14:53:26.445491",
+    "total_articles": 2557,
+    "new_articles_in_last_fetch": 2557,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -33188,6 +33188,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: RARE EARTH RESTRICTIONS RESURFACE: US MARKET FACES CHINESE LAWFARE 🚨\n\n- Rare earth limits signal onset of 'lawfare' era 🌐\n- US economy unready for China's challenge 💥\n- Market urged to brace for Chinese legal warfare 🛡️\n\nTAKEAWAY: With rare earth restrictions resurfacing, the US market must gear up to face China's lawfare challenges ahead.",
       "exported_at": "2025-10-09T14:27:59.961165",
+      "continuous_session": true
+    },
+    {
+      "title": "These 5 stocks reporting earnings next week have momentum on their side",
+      "link": "https://www.cnbc.com/2025/10/09/these-5-stocks-reporting-earnings-next-week-have-momentum-on-their-side.html",
+      "summary": "Stocks reporting results next week that could see a post-earnings boost include Progressive and Charles Schwab.",
+      "published": "Thu, 09 Oct 2025 18:36:16 GMT",
+      "content": "Stocks reporting results next week that could see a post-earnings boost include Progressive and Charles Schwab.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "59e319c7575d500e1ac18f2ca2e56a96",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: THESE 5 EARNINGS REPORTS COULD IGNITE STOCK MOMENTUM 🚀\n\n- Progressive and Charles Schwab anticipate post-earnings boosts\n- Investors eye potential growth opportunities\n- Market excitement grows as earnings week approaches\n\nTAKEAWAY: Keep an eye on Progressive and Charles Schwab as they gear up for potentially momentum-boosting earnings reports next week, igniting investor excitement.",
+      "exported_at": "2025-10-09T14:53:26.247591",
       "continuous_session": true
     }
   ]
