@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T09:46:30.958073",
-    "total_articles": 2521,
-    "new_articles_in_last_fetch": 2521,
+    "created_at": "2025-10-09T09:51:37.837280",
+    "total_articles": 2523,
+    "new_articles_in_last_fetch": 2523,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -32735,6 +32735,31 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: RUSSIA'S 'HYBRID WARFARE' THREATENS EUROPE 🚨\n\n- Russia aims to sow division in Europe, EU chief warns 🌍\n- EU must confront the reality of 'hybrid warfare' tactics 🛡️\n- Hybrid warfare includes cyberattacks, disinformation campaigns 💻📰\n- European officials emphasize need for unity against Russia 🤝\n- Russia's tactics pose a serious threat to European security 🚷\n- EU urged to strengthen defenses and counter hybrid threats 🛡️💪\n\nTAKEAWAY: Europe faces a critical challenge as Russia engages in 'hybrid warfare,' emphasizing the need for unity, defense strengthening, and countermeasures against cyberattacks and disinformation campaigns.",
       "exported_at": "2025-10-09T09:46:30.812891",
+      "continuous_session": true
+    },
+    {
+      "title": "Rare earths stocks surge after China tightens grip on global supplies",
+      "link": "https://www.cnbc.com/2025/10/09/china-tightens-rare-earths-grip-stocks-surge.html",
+      "summary": "Rare earths stocks were jumping Thursday",
+      "published": "Thu, 09 Oct 2025 13:47:46 GMT",
+      "content": "Rare earths stocks were jumping Thursday",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "201a2e54e2b5a82ee8a65e9aacd27b3e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "exported_at": "2025-10-09T09:51:37.807386",
+      "continuous_session": true
+    },
+    {
+      "title": "What is &apos;hybrid warfare’ — which Russia is accused of waging against Europe",
+      "link": "https://www.cnbc.com/2025/10/09/russia-accused-of-hybrid-warfare-against-europe-what-does-that-mean.html",
+      "summary": "Russia \"wants to sow division,\" the EU chief said Wednesday, and the bloc needs to face up to the new reality of \"hybrid warfare.\"",
+      "published": "Thu, 09 Oct 2025 13:47:56 GMT",
+      "content": "Russia \"wants to sow division,\" the EU chief said Wednesday, and the bloc needs to face up to the new reality of \"hybrid warfare.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "46ca4953511d5c75c07f00680dc9f962",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: RUSSIA'S 'HYBRID WARFARE' THREATENS EUROPE 🚨\n\n- Russia aims to sow division in Europe, EU chief warns 🌍\n- EU must confront the reality of 'hybrid warfare' tactics 🛡️\n- Hybrid warfare includes cyberattacks, disinformation campaigns 💻📰\n- European officials emphasize need for unity against Russia 🤝\n- Russia's tactics pose a serious threat to European security 🚷\n- EU urged to strengthen defenses and counter hybrid threats 🛡️💪\n\nTAKEAWAY: Europe faces a critical challenge as Russia engages in 'hybrid warfare,' emphasizing the need for unity, defense strengthening, and countermeasures against cyberattacks and disinformation campaigns.",
+      "exported_at": "2025-10-09T09:51:37.807404",
       "continuous_session": true
     }
   ]
