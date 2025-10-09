@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T05:55:35.942612",
-    "total_articles": 2487,
-    "new_articles_in_last_fetch": 2487,
+    "created_at": "2025-10-09T06:10:55.681873",
+    "total_articles": 2489,
+    "new_articles_in_last_fetch": 2489,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -32295,6 +32295,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CHINA'S GOLDEN WEEK TRAVEL BOOM MASKS A BRUISING PRICE WAR 🚀\n\n- China's Golden Week holiday sees surge in travel activity 🧳\n- Businesses engage in fierce price competition 🏷️\n- Industry witnesses significant price reductions 📉\n- Trend of lower prices attracts more consumers 🛒\n- Price war intensifies across various sectors 💥\n- Challenges emerge as businesses navigate fierce competition ⚠️\n\nTAKEAWAY: China's Golden Week travel boom conceals a fierce price war in various sectors, driving significant price reductions and intense competition among businesses.",
       "exported_at": "2025-10-09T05:55:35.768316",
+      "continuous_session": true
+    },
+    {
+      "title": "PepsiCo earnings top estimates as international markets fuel sales growth",
+      "link": "https://www.cnbc.com/2025/10/09/pepsico-pep-q3-2025-earnings.html",
+      "summary": "The food and beverage giant PepsiCo reiterated its full-year forecast.",
+      "published": "Thu, 09 Oct 2025 10:07:15 GMT",
+      "content": "The food and beverage giant PepsiCo reiterated its full-year forecast.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a1596190c1b9a0da7663e44fbaa0f2d2",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PEPSICO EARNINGS SURPASS EXPECTATIONS ON STRONG INTERNATIONAL SALES 🚀\n\n- PepsiCo beats earnings estimates fueled by international markets 🌍\n- Company maintains full-year forecast amid strong sales growth ✅\n- Reiteration of guidance showcases confidence in future performance 🎯\n\nTAKEAWAY: PepsiCo's impressive earnings, driven by robust international sales, reaffirm its position as a powerhouse in the food and beverage industry with a promising outlook for future growth.",
+      "exported_at": "2025-10-09T06:10:55.492730",
+      "continuous_session": true
+    },
+    {
+      "title": "Candy maker Ferrero goes all in on sports with Super Bowl ad, World Cup promotions",
+      "link": "https://www.cnbc.com/2025/10/09/candy-maker-ferrero-super-bowl-ad-world-cup-promotions.html",
+      "summary": "The confectioner's parent company has been pushing further into the U.S. over the last decade through dealmaking and investments in production.",
+      "published": "Thu, 09 Oct 2025 10:00:01 GMT",
+      "content": "The confectioner's parent company has been pushing further into the U.S. over the last decade through dealmaking and investments in production.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d33198dfddcc894acd4d43ce447152f1",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FERRERO SWEETENS SPORTS PRESENCE WITH SUPER BOWL AD, WORLD CUP PROMOTIONS 🚀\n\n- Ferrero intensifies U.S. expansion efforts over the past decade 📈\n- Parent company dives deep into sports with strategic moves 🏈⚽\n- Focus on dealmaking and production investments in America 🌟\n\nTAKEAWAY: Ferrero's strategic push into the U.S. market and sports sponsorship signals a sweet success recipe for global growth and brand visibility.",
+      "exported_at": "2025-10-09T06:10:55.492802",
       "continuous_session": true
     }
   ]
