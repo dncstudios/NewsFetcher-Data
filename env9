@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T05:50:23.072061",
-    "total_articles": 2486,
-    "new_articles_in_last_fetch": 2486,
+    "created_at": "2025-10-09T05:55:35.942612",
+    "total_articles": 2487,
+    "new_articles_in_last_fetch": 2487,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -32282,6 +32282,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ORSTED TO CUT 2,000 JOBS AMID WIND POWER CHALLENGES ⚠️\n\n- Orsted to reduce 2,000 jobs in the next 2 years ⚠️\n- Company faces challenges due to US wind power restrictions 🌬️\n- Trump administration's policies impact Orsted's operations 🇺🇸\n\nTAKEAWAY: Orsted's decision to cut 2,000 jobs reflects challenges in the wind power sector, exacerbated by US policies affecting operations.",
       "exported_at": "2025-10-09T05:50:22.888873",
+      "continuous_session": true
+    },
+    {
+      "title": "China’s Golden Week travel boom masks a bruising price war",
+      "link": "https://www.cnbc.com/2025/10/09/chinas-golden-week-travel-boom-masks-a-bruising-price-war.html",
+      "summary": "China's last public holiday of the year reinforced a nationwide trend: more people and businesses flocking toward an industry — driving prices sharply lower.",
+      "published": "Thu, 09 Oct 2025 09:51:00 GMT",
+      "content": "China's last public holiday of the year reinforced a nationwide trend: more people and businesses flocking toward an industry — driving prices sharply lower.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "14218989dccb4373495902a9f3bfccf4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CHINA'S GOLDEN WEEK TRAVEL BOOM MASKS A BRUISING PRICE WAR 🚀\n\n- China's Golden Week holiday sees surge in travel activity 🧳\n- Businesses engage in fierce price competition 🏷️\n- Industry witnesses significant price reductions 📉\n- Trend of lower prices attracts more consumers 🛒\n- Price war intensifies across various sectors 💥\n- Challenges emerge as businesses navigate fierce competition ⚠️\n\nTAKEAWAY: China's Golden Week travel boom conceals a fierce price war in various sectors, driving significant price reductions and intense competition among businesses.",
+      "exported_at": "2025-10-09T05:55:35.768316",
       "continuous_session": true
     }
   ]
