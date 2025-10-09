@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T08:40:07.210532",
-    "total_articles": 2512,
-    "new_articles_in_last_fetch": 2512,
+    "created_at": "2025-10-09T09:10:40.581739",
+    "total_articles": 2514,
+    "new_articles_in_last_fetch": 2514,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -32619,6 +32619,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NOVO NORDISK ACQUIRES AKERO THERAPEUTICS IN $5.2B DEAL 🚀\n\n- Novo Nordisk invests in Akero for liver drug candidate 💊\n- Acquisition valued at up to $5.2 billion 💰\n- Strategic move to expand portfolio in liver disease segment 📈\n- Akero's promising drug attracts Novo Nordisk's new CEO 🎯\n- Deal signals confidence in future growth and innovation 🌟\n\nTAKEAWAY: Novo Nordisk's acquisition of Akero Therapeutics for $5.2 billion showcases a bold strategic move to tap into a lucrative market with high potential for growth and innovation.",
       "exported_at": "2025-10-09T08:40:07.028182",
+      "continuous_session": true
+    },
+    {
+      "title": "Jim Cramer&apos;s top 10 things to watch in the stock market Thursday",
+      "link": "https://www.cnbc.com/2025/10/09/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
+      "summary": "Nvidia got approval to sell chips to the UAE, and Delta Air Lines soared on earnings.",
+      "published": "Thu, 09 Oct 2025 13:06:05 GMT",
+      "content": "Nvidia got approval to sell chips to the UAE, and Delta Air Lines soared on earnings.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4532f36837da0ac3ce1cad67eef13386",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JIM CRAMER'S TOP 10 THINGS TO WATCH IN THE STOCK MARKET THURSDAY 🚀\n\n- Nvidia gains approval to sell chips to the UAE 🚀\n- Delta Air Lines soars on strong earnings report 🔥\n\nTAKEAWAY: Stay tuned for potential market movements as Nvidia secures UAE chip sales approval and Delta Air Lines shines with soaring earnings.",
+      "exported_at": "2025-10-09T09:10:40.394324",
+      "continuous_session": true
+    },
+    {
+      "title": "These 4 job description red flags can reveal a toxic workplace, says serial entrepreneur: &apos;You get to decide whether you join&apos;",
+      "link": "https://www.cnbc.com/2025/10/09/job-description-red-flags-that-show-a-toxic-workplace-serial-entrepreneur.html",
+      "summary": "People who rush to apply for jobs online could easily miss warnings in each role's job description, says serial entrepreneur and workplace author Ben Askins.",
+      "published": "Thu, 09 Oct 2025 13:05:02 GMT",
+      "content": "People who rush to apply for jobs online could easily miss warnings in each role's job description, says serial entrepreneur and workplace author Ben Askins.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "637273a7317afd751e0ea065a414a318",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SPOTTING TOXIC WORKPLACES: WATCH OUT FOR THESE JOB DESCRIPTION RED FLAGS 🚨\n\n- Rushing job applications risks overlooking toxic workplace signs\n- Serial entrepreneur Ben Askins warns of red flags in job descriptions\n- Job seekers must carefully analyze job postings for warning signs\n\nTAKEAWAY: Serial entrepreneur Ben Askins highlights the importance of scrutinizing job descriptions to avoid toxic workplaces.",
+      "exported_at": "2025-10-09T09:10:40.394388",
       "continuous_session": true
     }
   ]
