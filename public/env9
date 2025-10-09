@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T12:30:29.303982",
-    "total_articles": 2543,
-    "new_articles_in_last_fetch": 2543,
+    "created_at": "2025-10-09T12:35:37.900477",
+    "total_articles": 2544,
+    "new_articles_in_last_fetch": 2544,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -33019,6 +33019,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NOVO NORDISK ACQUIRES AKERO THERAPEUTICS IN $5.2B DEAL 🚀\n\n- Novo Nordisk invests in Akero for liver drug candidate 💊\n- Acquisition valued at up to $5.2 billion 💰\n- Strategic move to expand portfolio in liver disease segment 📈\n- Akero's promising drug attracts Novo Nordisk's new CEO 🎯\n- Deal signals confidence in future growth and innovation 🌟\n\nTAKEAWAY: Novo Nordisk's acquisition of Akero Therapeutics for $5.2 billion showcases a bold strategic move to tap into a lucrative market with high potential for growth and innovation.",
       "exported_at": "2025-10-09T12:30:29.106772",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves midday: Oracle, Ferrari, Delta, Albemarle and more",
+      "link": "https://www.cnbc.com/2025/10/09/stocks-making-the-biggest-moves-midday-orcl-race-dal-alb-and-more.html",
+      "summary": "These are the stocks posting the largest moves midday.",
+      "published": "Thu, 09 Oct 2025 16:24:56 GMT",
+      "content": "These are the stocks posting the largest moves midday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3b0f4e38ba31168778809fa9d8b0548c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS MAKING BIGGEST MIDDAY MOVES: ORACLE, FERRARI, DELTA, ALBEMARLE 🚀\n\n- Oracle, Ferrari, Delta, Albemarle among top movers 📈\n- Market witnessing significant fluctuations midday 📉\n- Investors closely monitoring these stock movements 🧐\n\nTAKEAWAY: Keep a close eye on Oracle, Ferrari, Delta, Albemarle, and other top movers as the market experiences significant midday fluctuations.",
+      "exported_at": "2025-10-09T12:35:37.739221",
       "continuous_session": true
     }
   ]
