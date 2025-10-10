@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T14:54:39.054798",
-    "total_articles": 2661,
-    "new_articles_in_last_fetch": 2661,
+    "created_at": "2025-10-10T15:04:56.434901",
+    "total_articles": 2662,
+    "new_articles_in_last_fetch": 2662,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -34550,6 +34550,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP SECURES DEAL WITH ASTRAZENECA TO SLASH U.S. DRUG PRICES 🚀\n\n- Trump to reveal AstraZeneca deal soon 💊\n- Previous deal with Pfizer already in place 💪\n- Focus on lowering drug prices in the U.S. 📉\n\nTAKEAWAY: Trump's consecutive agreements with AstraZeneca and Pfizer aim to reduce U.S. drug prices, signaling a proactive approach towards healthcare affordability.",
       "exported_at": "2025-10-10T14:54:38.870699",
+      "continuous_session": true
+    },
+    {
+      "title": "Wall Street&apos;s momentum into next week gets spoiled by tariff concerns, with earnings looming",
+      "link": "https://www.cnbc.com/2025/10/10/wall-streets-momentum-into-next-week-gets-spoiled-by-tariff-concerns-with-earnings-looming.html",
+      "summary": "A resurgence in trade tensions between the U.S. and China squeezed some of the excess out of an enthusiastic market and put investors on guard as big banks report.",
+      "published": "Fri, 10 Oct 2025 19:02:19 GMT",
+      "content": "A resurgence in trade tensions between the U.S. and China squeezed some of the excess out of an enthusiastic market and put investors on guard as big banks report.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ff36344fa3585bf7036d1a0b1fd3059d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WALL STREET'S MOMENTUM DAMPENED BY TARIFF CONCERNS 🚨\n\n- Trade tensions between U.S. and China disrupt market enthusiasm 🌍\n- Investors cautious as big banks prepare to report earnings 🏦\n- Resurgence in tariff concerns impacts market sentiment 📉\n\nTAKEAWAY: Wall Street's momentum takes a hit as trade tensions between the U.S. and China resurface, causing investor caution ahead of big banks' earnings reports.",
+      "exported_at": "2025-10-10T15:04:56.250214",
       "continuous_session": true
     }
   ]
