@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T03:40:38.726749",
-    "total_articles": 2585,
-    "new_articles_in_last_fetch": 2585,
+    "created_at": "2025-10-10T04:06:06.005180",
+    "total_articles": 2586,
+    "new_articles_in_last_fetch": 2586,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -33565,6 +33565,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TAKAICHI'S PREMIERSHIP BID SHAKEN AS KOMEITO QUITS COALITION ⚠️\n\n- Komeito exits ruling coalition due to LDP's unclear political funding 🚨\n- Takaichi's premiership ambitions face uncertainty and challenges 🤔\n- LDP under scrutiny for lack of transparency in political finance 💸\n\nTAKEAWAY: Komeito's departure from the ruling coalition over funding issues shakes Takaichi's bid for premiership, highlighting challenges and uncertainties ahead.",
       "exported_at": "2025-10-10T03:40:38.549320",
+      "continuous_session": true
+    },
+    {
+      "title": "France is Europe&apos;s new &apos;bad boy.&apos; Could a technocratic government save it?",
+      "link": "https://www.cnbc.com/2025/10/10/france-is-europes-new-bad-boy-could-a-technocratic-government-save-it.html",
+      "summary": "On paper, a technocratic government ticks a lot of boxes for France. But there's a key reason it's unlikely to work.",
+      "published": "Fri, 10 Oct 2025 08:03:24 GMT",
+      "content": "On paper, a technocratic government ticks a lot of boxes for France. But there's a key reason it's unlikely to work.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "664694646a5819e0ee56674ba433ffde",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FRANCE: EUROPE'S NEW 'BAD BOY' 🚨\n\n- France considers technocratic government for stability 📈\n- Technocratic approach appears promising on paper ✅\n- Challenges exist, casting doubt on its effectiveness ⚠️\n- Key reason why technocratic government may fail 🤔\n\nTAKEAWAY: France's consideration of a technocratic government as a solution reflects a quest for stability, but challenges may hinder its effectiveness.",
+      "exported_at": "2025-10-10T04:06:05.905109",
       "continuous_session": true
     }
   ]
