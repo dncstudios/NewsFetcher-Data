@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T05:37:50.238603",
-    "total_articles": 2592,
-    "new_articles_in_last_fetch": 2592,
+    "created_at": "2025-10-10T05:48:00.763119",
+    "total_articles": 2593,
+    "new_articles_in_last_fetch": 2593,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -33656,6 +33656,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: GOOGLE SEARCH FACES SCRUTINY IN UK AS REGULATOR ACTIVATES NEW POWERS ⚠️\n\n- UK regulator targets Google's search activities 🎯\n- Tech giant under scrutiny for potential further regulation 🧐\n- Competition watchdog flexes new powers against Google 🔍\n- Google faces increased oversight in the UK market 🇬🇧\n- Regulator's move highlights growing concerns about Google's dominance 📈\n\nTAKEAWAY: Google's search activities face intensified scrutiny in the UK as the competition regulator activates new powers, signaling potential further regulation for the tech giant.",
       "exported_at": "2025-10-10T05:37:50.058889",
+      "continuous_session": true
+    },
+    {
+      "title": "Israel Defense Forces announce ceasefire agreement in Gaza is now in effect",
+      "link": "https://www.cnbc.com/2025/10/10/israel-approves-trump-peace-plan-paving-the-way-for-a-gaza-ceasefire.html",
+      "summary": "The Israeli cabinet ratified the agreement in the early hours of Friday morning.",
+      "published": "Fri, 10 Oct 2025 09:45:56 GMT",
+      "content": "The Israeli cabinet ratified the agreement in the early hours of Friday morning.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c8cf1b86e9364c734ced0500f773884e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ISRAEL RATIFIES TRUMP'S PEACE PLAN, SPARKING CEASEFIRE HOPE 🕊️\n\n- Israeli cabinet approves agreement for Gaza ceasefire 🤝\n- Key step towards peace after ratification early Friday 🌅\n- Trump's peace plan gains momentum in the region 🚀\n\nTAKEAWAY: Israel's approval of Trump's peace plan signals progress towards a ceasefire in Gaza, fostering hope for peace in the region.",
+      "exported_at": "2025-10-10T05:48:00.733541",
       "continuous_session": true
     }
   ]
