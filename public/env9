@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T05:27:29.783522",
-    "total_articles": 2590,
-    "new_articles_in_last_fetch": 2590,
+    "created_at": "2025-10-10T05:32:38.284657",
+    "total_articles": 2591,
+    "new_articles_in_last_fetch": 2591,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -33630,6 +33630,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TOP HOLLYWOOD AGENCIES SLAM OPENAI'S SORA AS 'EXPLOITATION' ⚠️\n\n- CAA criticizes OpenAI for disregarding creators' rights 🚨\n- OpenAI's Sora platform labeled as a risk to clients 🔥\n- Hollywood agencies express concerns over exploitation ⚠️\n- Doja Cat, Scarlett Johansson, Tom Hanks among CAA clients ✅\n- OpenAI faces backlash from top entertainment representatives ⚠️\n\nTAKEAWAY: Hollywood's top agencies, including CAA, voice strong opposition against OpenAI's Sora platform, citing concerns of exploitation and risks to clients.",
       "exported_at": "2025-10-10T05:27:29.753680",
+      "continuous_session": true
+    },
+    {
+      "title": "How President Trump’s H-1B visa changes could impact Big Tech",
+      "link": "https://www.cnbc.com/2025/10/09/what-trumps-h-1b-visa-overhaul-means-for-big-tech.html",
+      "summary": "President Trump imposed a new $100,000 H-1B visa fee, aiming to boost hiring of domestic workers. Yet critics argue it could hinder innovation and tech talent.",
+      "published": "Thu, 09 Oct 2025 16:07:29 GMT",
+      "content": "President Trump imposed a new $100,000 H-1B visa fee, aiming to boost hiring of domestic workers. Yet critics argue it could hinder innovation and tech talent.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3c38ee344d4ea17d680877055cd3b35e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PRESIDENT TRUMP'S H-1B VISA CHANGES IMPACT BIG TECH ⚠️\n\n- Trump introduces $100,000 H-1B visa fee to promote local hiring 🇺🇸\n- Critics fear fee may stifle innovation and tech expertise 🚫\n- Policy aims to prioritize domestic workers over foreign talent ✅\n\nTAKEAWAY: President Trump's new $100,000 H-1B visa fee generates debate as it seeks to prioritize domestic hiring in Big Tech, potentially impacting innovation and talent.",
+      "exported_at": "2025-10-10T05:32:38.112650",
       "continuous_session": true
     }
   ]
