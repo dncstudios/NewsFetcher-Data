@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T13:22:53.406517",
-    "total_articles": 2654,
-    "new_articles_in_last_fetch": 2654,
+    "created_at": "2025-10-10T13:48:19.515112",
+    "total_articles": 2655,
+    "new_articles_in_last_fetch": 2655,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -34460,6 +34460,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: APPLIED DIGITAL STOCK SURGES 16% ON AI DATA CENTER GROWTH 🚀\n\n- Stock jumps 16% fueled by AI data center demand 📈\n- Secures $7 billion lease deal with CoreWeave 💰\n- Expansion in AI data centers boosts investor confidence 📊\n- Applied Digital capitalizes on growing AI market 🌐\n- Strong performance driven by increased demand for data centers 💪\n\nTAKEAWAY: Applied Digital's stock surges 16% as they secure a $7 billion lease agreement for AI data centers, capitalizing on the growing demand in this market.",
       "exported_at": "2025-10-10T13:22:53.211835",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump nominee Paul Ingrassia reportedly accused of sexual harassment",
+      "link": "https://www.cnbc.com/2025/10/10/trump-ingrassia-accused-sexual-harassment.html",
+      "summary": "Paul Ingrassia, Trump's nominee to lead the Office of Special Counsel, has been accused of sexual harassment, according to a report from Politico.",
+      "published": "Fri, 10 Oct 2025 17:46:32 GMT",
+      "content": "Paul Ingrassia, Trump's nominee to lead the Office of Special Counsel, has been accused of sexual harassment, according to a report from Politico.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "579eb691bf1b56f8086f537449988fa2",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP'S NOMINEE PAUL INGRASSIA ACCUSED OF SEXUAL HARASSMENT ⚠️\n\n- Paul Ingrassia faces sexual harassment allegations 💔\n- Nominee for Office of Special Counsel under scrutiny 🔍\n- Accusations reported by Politico 📰\n\nTAKEAWAY: Allegations of sexual harassment against Paul Ingrassia, Trump's nominee for the Office of Special Counsel, raise concerns and require thorough investigation.",
+      "exported_at": "2025-10-10T13:48:19.344168",
       "continuous_session": true
     }
   ]
