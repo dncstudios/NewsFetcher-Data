@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T14:34:16.242441",
-    "total_articles": 2660,
-    "new_articles_in_last_fetch": 2660,
+    "created_at": "2025-10-10T14:54:39.054798",
+    "total_articles": 2661,
+    "new_articles_in_last_fetch": 2661,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -34537,6 +34537,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WHITE HOUSE CRITICIZES NOBEL COMMITTEE; PEACE PRIZE WINNER PRAISES TRUMP 🚀\n\n- Trump's allies advocate for Nobel Peace Prize nomination 🏅\n- Nomination deadline expired early in Trump's current term ⏰\n- White House expresses disappointment over Nobel snub 🤨\n- Peace Prize winner praises Trump's peace efforts 🕊️\n- Republican allies continue to support Trump's nomination 🎯\n\nTAKEAWAY: Despite missing the nomination deadline, Trump's allies push for his Nobel Peace Prize, receiving criticism from the White House while gaining praise from a past Peace Prize winner.",
       "exported_at": "2025-10-10T14:34:16.061113",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump reaches deal with AstraZeneca to lower U.S. drug prices, MSNBC reports",
+      "link": "https://www.cnbc.com/2025/10/10/trump-astrazeneca-drug-pricing-deal.html",
+      "summary": "Trump is set to announce the agreement with AstraZeneca on Friday, after striking a similar deal with Pfizer late last month.",
+      "published": "Fri, 10 Oct 2025 18:53:15 GMT",
+      "content": "Trump is set to announce the agreement with AstraZeneca on Friday, after striking a similar deal with Pfizer late last month.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fb77f53146ed0d04aa5ee9b8524b370f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP SECURES DEAL WITH ASTRAZENECA TO SLASH U.S. DRUG PRICES 🚀\n\n- Trump to reveal AstraZeneca deal soon 💊\n- Previous deal with Pfizer already in place 💪\n- Focus on lowering drug prices in the U.S. 📉\n\nTAKEAWAY: Trump's consecutive agreements with AstraZeneca and Pfizer aim to reduce U.S. drug prices, signaling a proactive approach towards healthcare affordability.",
+      "exported_at": "2025-10-10T14:54:38.870699",
       "continuous_session": true
     }
   ]
