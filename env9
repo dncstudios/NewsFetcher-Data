@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T12:51:54.682994",
-    "total_articles": 2648,
-    "new_articles_in_last_fetch": 2648,
+    "created_at": "2025-10-10T12:57:04.692459",
+    "total_articles": 2649,
+    "new_articles_in_last_fetch": 2649,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -34382,6 +34382,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NBA COMMISSIONER SILVER EYES WNBA GAME IN CHINA 🏀\n\n- Adam Silver aims to expand NBA presence in China 🇨🇳\n- Plans to introduce a WNBA game in the Chinese market 🌏\n- Strategic move to increase basketball's popularity in China 📈\n\nTAKEAWAY: NBA Commissioner Adam Silver's initiative to bring a WNBA game to China demonstrates a strategic effort to expand basketball's reach and popularity in the Chinese market.",
       "exported_at": "2025-10-10T12:51:54.486198",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves midday: MP Materials, Alibaba, Protagonist Therapeutics &amp; more",
+      "link": "https://www.cnbc.com/2025/10/10/stocks-making-the-biggest-moves-midday-mp-bab-ptgx.html",
+      "summary": "These are the stocks posting the largest moves midday.",
+      "published": "Fri, 10 Oct 2025 16:38:57 GMT",
+      "content": "These are the stocks posting the largest moves midday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "48f32f04b169d29642691e34464e0dc6",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS MAKING BIGGEST MIDDAY MOVES 🚀\n\n- MP Materials, Alibaba, Protagonist Therapeutics show significant shifts\n- Market experiences high volatility across various sectors\n- Investors closely monitoring these key players\n\nTAKEAWAY: Market sees major midday movements with stocks like MP Materials, Alibaba, and Protagonist Therapeutics, indicating high volatility and investor interest.",
+      "exported_at": "2025-10-10T12:57:04.493144",
       "continuous_session": true
     }
   ]
