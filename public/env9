@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T20:24:14.253177",
-    "total_articles": 2577,
-    "new_articles_in_last_fetch": 2577,
+    "created_at": "2025-10-09T20:29:23.754279",
+    "total_articles": 2578,
+    "new_articles_in_last_fetch": 2578,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -33461,6 +33461,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FRIDAY'S STOCK OUTLOOK: WILL MARKET REBOUND? 📈\n\n- S&P 500, Nasdaq closed lower on Thursday 📉\n- Indexes could still end the week with gains 📈\n- Market sentiment uncertain for next trading session 🤔\n\nTAKEAWAY: Despite Thursday's dip, the market shows resilience as S&P 500 and Nasdaq might close the week with gains, but uncertainty looms over the next trading session.",
       "exported_at": "2025-10-09T20:24:14.076428",
+      "continuous_session": true
+    },
+    {
+      "title": "Microsoft engineer resigns over cloud business from Israeli military",
+      "link": "https://www.cnbc.com/2025/10/09/microsoft-engineer-resigns-over-cloud-business-from-israeli-military.html",
+      "summary": "Scott Sutfin-Glowski, who joined Microsoft in 2012, is resigning over the company's work with  Israel's military.",
+      "published": "Fri, 10 Oct 2025 00:20:04 GMT",
+      "content": "Scott Sutfin-Glowski, who joined Microsoft in 2012, is resigning over the company's work with  Israel's military.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "cc56f8c5b8a72301422fbbf6a7a76efc",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MICROSOFT ENGINEER RESIGNS OVER ISRAELI MILITARY CLOUD BUSINESS ⚠️\n\n- Scott Sutfin-Glowski, Microsoft engineer since 2012, resigns 🚪\n- Resignation linked to Microsoft's collaboration with Israeli military 🇮🇱\n- Decision highlights ethical concerns regarding tech-military partnerships 💻🚫\n\nTAKEAWAY: Scott Sutfin-Glowski's resignation from Microsoft due to their involvement with the Israeli military underscores the growing ethical dilemmas surrounding tech companies' military ties.",
+      "exported_at": "2025-10-09T20:29:23.725342",
       "continuous_session": true
     }
   ]
