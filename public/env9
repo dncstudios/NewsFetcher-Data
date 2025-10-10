@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T11:45:37.788091",
-    "total_articles": 2641,
-    "new_articles_in_last_fetch": 2641,
+    "created_at": "2025-10-10T11:55:50.214972",
+    "total_articles": 2642,
+    "new_articles_in_last_fetch": 2642,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -34291,6 +34291,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ROCKET LAB'S STOCK SOARS 25% THIS WEEK AFTER NEW LAUNCH DEALS 🚀\n\n- Rocket Lab gains 25% following multiple new launch contracts 📈\n- Surge in stock value attributed to recent flurry of deals 🔥\n- Company's success reflected in market excitement 🎉\n\nTAKEAWAY: Rocket Lab's stock surges 25% fueled by a series of new launch contracts, showcasing market confidence in the company's growth potential.",
       "exported_at": "2025-10-10T11:45:37.757205",
+      "continuous_session": true
+    },
+    {
+      "title": "Oracle has been on fire. This options strategy also gives traders an income stream",
+      "link": "https://www.cnbc.com/2025/10/10/oracle-has-been-on-fire-this-options-strategy-also-gives-traders-an-income-stream-to-boot.html",
+      "summary": "Jeff Kilburg breaks down this options trade on Oracle.",
+      "published": "Fri, 10 Oct 2025 15:42:52 GMT",
+      "content": "Jeff Kilburg breaks down this options trade on Oracle.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "db69578efd4b77f9a0eeae2e1397321d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ORACLE'S HOT STREAK CONTINUES WITH INCOME STREAM OPTIONS STRATEGY 🔥\n\n- Oracle's stock performance remains strong 📈\n- Traders can utilize options strategy for income 💰\n- Expert Jeff Kilburg analyzes Oracle's options trade 🧐\n\nTAKEAWAY: Oracle's impressive stock performance paired with income-generating options strategies offers traders a lucrative opportunity in the market.",
+      "exported_at": "2025-10-10T11:55:50.184744",
       "continuous_session": true
     }
   ]
