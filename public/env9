@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T20:29:23.754279",
-    "total_articles": 2578,
-    "new_articles_in_last_fetch": 2578,
+    "created_at": "2025-10-09T21:55:36.600089",
+    "total_articles": 2579,
+    "new_articles_in_last_fetch": 2579,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -33474,6 +33474,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: MICROSOFT ENGINEER RESIGNS OVER ISRAELI MILITARY CLOUD BUSINESS ⚠️\n\n- Scott Sutfin-Glowski, Microsoft engineer since 2012, resigns 🚪\n- Resignation linked to Microsoft's collaboration with Israeli military 🇮🇱\n- Decision highlights ethical concerns regarding tech-military partnerships 💻🚫\n\nTAKEAWAY: Scott Sutfin-Glowski's resignation from Microsoft due to their involvement with the Israeli military underscores the growing ethical dilemmas surrounding tech companies' military ties.",
       "exported_at": "2025-10-09T20:29:23.725342",
+      "continuous_session": true
+    },
+    {
+      "title": "Shares of SK Hynix and Samsung Electronics hit record highs on AI boost",
+      "link": "https://www.cnbc.com/2025/10/10/asia-pacific-markets-friday-nikkei-225-kospi.html",
+      "summary": "Asia-Pacific markets traded lower Friday, tracking Wall Street declines as investors assess the state of the economy.",
+      "published": "Fri, 10 Oct 2025 01:51:22 GMT",
+      "content": "Asia-Pacific markets traded lower Friday, tracking Wall Street declines as investors assess the state of the economy.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "bd66dd690c34e798e84e4d2ca99fc279",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASIA-PACIFIC MARKETS OPEN LOWER, FOLLOWING WALL STREET LOSSES 📉\n\n- Friday sees Asia-Pacific markets trading lower 🌏\n- Investors evaluate economy as they track Wall Street declines 📉\n- Market sentiment impacted by Wall Street losses 📊\n\nTAKEAWAY: Asia-Pacific markets open lower, mirroring Wall Street's decline, as investors analyze the economic landscape.",
+      "exported_at": "2025-10-09T21:55:36.570428",
       "continuous_session": true
     }
   ]
