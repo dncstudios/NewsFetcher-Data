@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T17:17:40.440037",
-    "total_articles": 2677,
-    "new_articles_in_last_fetch": 2677,
+    "created_at": "2025-10-10T17:48:11.251873",
+    "total_articles": 2678,
+    "new_articles_in_last_fetch": 2678,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -34758,6 +34758,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TECH MEGACAPS LOSE $770B AS NASDAQ DROPS, TRUMP'S TARIFF THREAT HITS TECH STOCKS ⚠️\n\n- Nasdaq sees sharpest drop since April, tech giants lose $770B 💸\n- Nvidia leads with nearly 5% decline post Trump's tariff warning 📉\n- President Trump's threat triggers tech stock sell-off 📉\n\nTAKEAWAY: Tech megacaps face a significant $770 billion loss in value with Nasdaq's steepest drop since April due to President Trump's tariff threats impacting tech stocks like Nvidia.",
       "exported_at": "2025-10-10T17:17:40.259146",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump reaches deal with AstraZeneca to lower U.S. drug prices",
+      "link": "https://www.cnbc.com/2025/10/10/trump-astrazeneca-drug-pricing-deal.html",
+      "summary": "Trump announced the agreement with AstraZeneca on Friday, after striking a similar deal with Pfizer late last month.",
+      "published": "Fri, 10 Oct 2025 21:46:27 GMT",
+      "content": "Trump announced the agreement with AstraZeneca on Friday, after striking a similar deal with Pfizer late last month.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8a48194282b20c7c91751799db25644c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP SECURES DEAL WITH ASTRAZENECA TO CUT U.S. DRUG PRICES 🚀\n\n- Trump seals deal with AstraZeneca after Pfizer agreement 💊\n- Aim to lower drug prices in the United States 📉\n- Partnership expected to impact healthcare costs positively ✅\n\nTAKEAWAY: Trump's recent deal with AstraZeneca aims to reduce U.S. drug prices, following a similar agreement with Pfizer, potentially benefiting healthcare affordability.",
+      "exported_at": "2025-10-10T17:48:11.221884",
       "continuous_session": true
     }
   ]
