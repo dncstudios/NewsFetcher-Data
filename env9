@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T11:25:05.631311",
-    "total_articles": 2636,
-    "new_articles_in_last_fetch": 2636,
+    "created_at": "2025-10-10T11:30:15.742866",
+    "total_articles": 2638,
+    "new_articles_in_last_fetch": 2638,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -34226,6 +34226,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCKS PLUNGE AFTER TRUMP LABELS CHINA 'HOSTILE' OVER RARE EARTHS 🚨\n\n- Market experiences rapid sell-off post Trump's China comments 📉\n- Investors react to cancellation of Xi meeting 🤔\n- Uncertainty looms over future US-China relations ⚠️\n\nTAKEAWAY: Trump's remarks on China's rare earths stance trigger a stock market sell-off, fueling uncertainty in US-China relations and investor sentiment.",
       "exported_at": "2025-10-10T11:25:05.601991",
+      "continuous_session": true
+    },
+    {
+      "title": "Dow drops 340 points after Trump says China becoming &apos;hostile&apos; over rare earth metals, cancels Xi meeting",
+      "link": "https://www.cnbc.com/2025/10/09/stock-market-today-live-updates.html",
+      "summary": "The Trump post sparked a rapid sell-off in stocks Friday.",
+      "published": "Fri, 10 Oct 2025 15:28:48 GMT",
+      "content": "The Trump post sparked a rapid sell-off in stocks Friday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "445e3e1855ad687138d3ac1a64afa115",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS PLUNGE AFTER TRUMP LABELS CHINA 'HOSTILE' OVER RARE EARTHS 🚨\n\n- Market experiences rapid sell-off post Trump's China comments 📉\n- Investors react to cancellation of Xi meeting 🤔\n- Uncertainty looms over future US-China relations ⚠️\n\nTAKEAWAY: Trump's remarks on China's rare earths stance trigger a stock market sell-off, fueling uncertainty in US-China relations and investor sentiment.",
+      "exported_at": "2025-10-10T11:30:15.570841",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump threatens &apos;massive&apos; tariff hike on China over rare earths dispute",
+      "link": "https://www.cnbc.com/2025/10/10/trump-china-tariffs-rare-earths.html",
+      "summary": "Stock markets dropped on Trump's bellicose Truth Social post that said China is \"becoming very hostile\" in seeking tough export controls on rare earths.",
+      "published": "Fri, 10 Oct 2025 15:29:34 GMT",
+      "content": "Stock markets dropped on Trump's bellicose Truth Social post that said China is \"becoming very hostile\" in seeking tough export controls on rare earths.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5e65dce11627cbaeb8c535f44d775a5a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP THREATENS 'MASSIVE' TARIFF HIKE ON CHINA OVER RARE EARTHS DISPUTE ⚠️\n\n- Stock markets plummet after Trump's warning on China's rare earths stance 📉\n- Trump accuses China of hostility in imposing strict export controls 🇨🇳\n- Threatens 'massive' tariff increase if China continues its actions 💥\n- Rare earths essential for tech industry, escalating tensions 📱💣\n- Concerns rise over potential impact on global supply chains 🌐\n- Investors wary as uncertainty looms over trade relations 🤨\n\nTAKEAWAY: Trump's threat of a significant tariff hike on China due to rare earths dispute sparks market turmoil and raises concerns about the tech industry and global supply chains.",
+      "exported_at": "2025-10-10T11:30:15.570907",
       "continuous_session": true
     }
   ]
