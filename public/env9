@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T16:21:27.331895",
-    "total_articles": 2671,
-    "new_articles_in_last_fetch": 2671,
+    "created_at": "2025-10-10T16:26:37.487181",
+    "total_articles": 2672,
+    "new_articles_in_last_fetch": 2672,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -34680,6 +34680,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: U.S. TO HOST QATARI AIR FORCE FACILITY IN IDAHO 🚀\n\n- Qatar Air Force facility to be hosted in Idaho ✈️\n- Announcement made by Defense Secretary Hegseth 🇺🇸\n- Press conference held with Qatar's Defense Minister 🤝\n\nTAKEAWAY: Hosting Qatar's Air Force facility in Idaho signifies strengthened defense ties, boosting collaboration between the U.S. and Qatar.",
       "exported_at": "2025-10-10T16:21:27.121469",
+      "continuous_session": true
+    },
+    {
+      "title": "Spirit Airlines wins approval for $475 million lifeline in bankruptcy court",
+      "link": "https://www.cnbc.com/2025/10/10/spirit-airlines-bankruptcy-court-approves-lifeline-financing.html",
+      "summary": "Spirit Airlines will get a $475 million lifeline from its bondholders and another $150 million from an aircraft lessor.",
+      "published": "Fri, 10 Oct 2025 20:22:50 GMT",
+      "content": "Spirit Airlines will get a $475 million lifeline from its bondholders and another $150 million from an aircraft lessor.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "191016a9fd46e8a96220d3af310a40a1",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SPIRIT AIRLINES SECURES $625 MILLION LIFELINE IN BANKRUPTCY COURT 🚀\n\n- $475M lifeline from bondholders, $150M from aircraft lessor 💰\n- Lifeline crucial for Spirit Airlines amid bankruptcy proceedings 🛫\n- Funds to support operations and financial stability 📈\n- Boosts confidence in Spirit's ability to navigate bankruptcy 💪\n\nTAKEAWAY: Spirit Airlines' successful approval of a $625 million lifeline from bondholders and an aircraft lessor bolsters its financial position during bankruptcy, ensuring operational support and stability.",
+      "exported_at": "2025-10-10T16:26:37.304897",
       "continuous_session": true
     }
   ]
