@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T07:40:17.264218",
-    "total_articles": 2603,
-    "new_articles_in_last_fetch": 2603,
+    "created_at": "2025-10-10T07:50:31.503939",
+    "total_articles": 2604,
+    "new_articles_in_last_fetch": 2604,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -33799,6 +33799,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BRISTOL-MYERS ACQUIRES ORBITAL THERAPEUTICS FOR $1.5 BILLION 🚀\n\n- Bristol-Myers Squibb buys Orbital Therapeutics for $1.5 billion 💰\n- Acquisition to strengthen Bristol-Myers' cell therapy portfolio 🧬\n- Orbital Therapeutics, a cell therapy developer, acquired for cash 💸\n- Deal expected to enhance Bristol-Myers' innovative capabilities 🌟\n- Bristol-Myers invests $1.5 billion in Orbital Therapeutics acquisition 💼\n\nTAKEAWAY: Bristol-Myers' $1.5 billion acquisition of Orbital Therapeutics bolsters its position in cell therapy, showcasing a strategic move to enhance its innovative offerings.",
       "exported_at": "2025-10-10T07:40:17.074518",
+      "continuous_session": true
+    },
+    {
+      "title": "Citi says to buy the dip in Oracle, sees stock soaring nearly 40% from here",
+      "link": "https://www.cnbc.com/2025/10/10/citi-says-to-buy-the-dip-in-oracle-sees-stock-soaring-nearly-40percent-from-here.html",
+      "summary": "Oracle's upcoming AI World event, which takes place in Oct. 13 and Oct. 16, could serve as a catalyst for the stock.",
+      "published": "Fri, 10 Oct 2025 11:48:14 GMT",
+      "content": "Oracle's upcoming AI World event, which takes place in Oct. 13 and Oct. 16, could serve as a catalyst for the stock.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0ec762f5eff638ede78f27b3b3ebd329",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CITI'S BULLISH OUTLOOK ON ORACLE SENDS STOCK SOARING 🚀\n\n- Citi recommends buying Oracle stock amidst potential 40% surge 📈\n- Oracle's upcoming AI World event on Oct. 13-16 could boost shares 🚀\n- Positive outlook indicates significant upside potential 💰\n- Analysts foresee Oracle's stock price rising substantially 📈\n- AI World event expected to act as a catalyst for Oracle's growth 📊\n- Citi's endorsement suggests a lucrative investment opportunity 💼\n\nTAKEAWAY: Citi's optimistic prediction of a 40% surge in Oracle stock, fueled by the upcoming AI World event, presents a promising investment opportunity for growth-minded investors.",
+      "exported_at": "2025-10-10T07:50:31.317079",
       "continuous_session": true
     }
   ]
