@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T20:19:01.689573",
-    "total_articles": 2575,
-    "new_articles_in_last_fetch": 2575,
+    "created_at": "2025-10-09T20:24:14.253177",
+    "total_articles": 2577,
+    "new_articles_in_last_fetch": 2577,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -33435,6 +33435,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ASIA-PACIFIC MARKETS OPEN LOWER, FOLLOWING WALL STREET LOSSES 📉\n\n- Friday sees Asia-Pacific markets trading lower 🌏\n- Investors evaluate economy as they track Wall Street declines 📉\n- Market sentiment impacted by Wall Street losses 📊\n\nTAKEAWAY: Asia-Pacific markets open lower, mirroring Wall Street's decline, as investors analyze the economic landscape.",
       "exported_at": "2025-10-09T20:19:01.500428",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump boosts Argentina&apos;s Milei with $20 billion lifeline as U.S. buys pesos",
+      "link": "https://www.cnbc.com/2025/10/09/us-buys-argentine-pesos-agrees-to-20-billion-swap-line-bessent-says.html",
+      "summary": "The U.S. Treasury finalized a $20 billion currency swap framework with Argentina and bought pesos in the open market on Thursday.",
+      "published": "Fri, 10 Oct 2025 00:20:23 GMT",
+      "content": "The U.S. Treasury finalized a $20 billion currency swap framework with Argentina and bought pesos in the open market on Thursday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1ac64bb6e2059866488f7d910db61237",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP INFUSES ARGENTINA'S MILEI WITH $20B BOOST 🚀\n\n- U.S. Treasury seals $20 billion currency swap deal with Argentina 💵\n- Direct purchase of pesos in the open market by the U.S. on Thursday 📈\n- Milei's economic prospects soar with the significant financial injection 💸\n\nTAKEAWAY: Trump's massive $20 billion lifeline to Argentina's Milei, coupled with the U.S. buying pesos, propels the country's economic outlook to new heights.",
+      "exported_at": "2025-10-09T20:24:14.076365",
+      "continuous_session": true
+    },
+    {
+      "title": "Friday&apos;s big stock stories: What’s likely to move the market in the next trading session",
+      "link": "https://www.cnbc.com/2025/10/09/fridays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html",
+      "summary": "Both the S&amp;P 500 and the Nasdaq Composite closed lower on Thursday, but the two indexes still could manage gains for the week.",
+      "published": "Thu, 09 Oct 2025 23:18:18 GMT",
+      "content": "Both the S&amp;P 500 and the Nasdaq Composite closed lower on Thursday, but the two indexes still could manage gains for the week.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "964e11fc2177b3011216a720a4963385",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FRIDAY'S STOCK OUTLOOK: WILL MARKET REBOUND? 📈\n\n- S&P 500, Nasdaq closed lower on Thursday 📉\n- Indexes could still end the week with gains 📈\n- Market sentiment uncertain for next trading session 🤔\n\nTAKEAWAY: Despite Thursday's dip, the market shows resilience as S&P 500 and Nasdaq might close the week with gains, but uncertainty looms over the next trading session.",
+      "exported_at": "2025-10-09T20:24:14.076428",
       "continuous_session": true
     }
   ]
