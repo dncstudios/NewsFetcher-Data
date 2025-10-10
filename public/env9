@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T01:33:47.401914",
-    "total_articles": 2583,
-    "new_articles_in_last_fetch": 2583,
+    "created_at": "2025-10-10T02:44:48.931779",
+    "total_articles": 2584,
+    "new_articles_in_last_fetch": 2584,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -33539,6 +33539,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: 'BITCOIN NOT AN ASSET CLASS': UK'S TOP INVESTMENT PLATFORM WARNS ⚠️\n\n- Hargreaves Lansdowne warns against including crypto in portfolios 🚫\n- Bitcoin lacks characteristics for growth or income portfolios 📉\n- UK's biggest investment platform challenges cryptocurrency status 🇬🇧\n\nTAKEAWAY: Hargreaves Lansdowne's stance on Bitcoin as not fitting the criteria for inclusion in portfolios emphasizes caution towards cryptocurrencies.",
       "exported_at": "2025-10-10T01:33:47.221602",
+      "continuous_session": true
+    },
+    {
+      "title": "France is Europe&apos;s new &apos;bad boy.&apos; Could a technocratic government save it?",
+      "link": "https://www.cnbc.com/2025/10/10/france-is-europes-new-bad-boy-could-a-technocratic-government-save-it.html",
+      "summary": "It might be time for France to take some Italian lessons.",
+      "published": "Fri, 10 Oct 2025 06:29:36 GMT",
+      "content": "It might be time for France to take some Italian lessons.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "94262c690aff77372355a7477e8e3cc9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FRANCE: EUROPE'S NEW 'BAD BOY' NEEDS A TECHNOCRATIC SAVIOR? 🚨\n\n- France dubbed Europe's new 'bad boy' 🇫🇷\n- Calls for a technocratic government to save the day 🦸‍♂️\n- Comparison drawn to Italy's past experiences 🇮🇹\n- Not disclosed.\n\nTAKEAWAY: France's reputation as Europe's 'bad boy' sparks discussions on whether a technocratic government could be its saving grace, following in Italy's footsteps.",
+      "exported_at": "2025-10-10T02:44:48.754449",
       "continuous_session": true
     }
   ]
