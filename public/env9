@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T16:36:52.188298",
-    "total_articles": 2673,
-    "new_articles_in_last_fetch": 2673,
+    "created_at": "2025-10-10T17:12:27.599157",
+    "total_articles": 2675,
+    "new_articles_in_last_fetch": 2675,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -34706,6 +34706,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FRANCE'S MACRON REAPPOINTS LECORNU AS PRIME MINISTER 🚀\n\n- Macron reinstates Sebastien Lecornu as prime minister 🇫🇷\n- Lecornu returns to the role after resigning recently 🔙\n- Continuity in leadership with Lecornu's reappointment 🔄\n\nTAKEAWAY: Macron's decision to reappoint Lecornu as prime minister ensures stability and continuity in French leadership.",
       "exported_at": "2025-10-10T16:36:52.011735",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump puts extra 100% tariff on China imports, adds export controls on &apos;critical software&apos;",
+      "link": "https://www.cnbc.com/2025/10/10/trump-trade-tariffs-china-software.html",
+      "summary": "President Trump's announcement followed a move by China imposing export controls on rare earths minerals from that nation.",
+      "published": "Fri, 10 Oct 2025 21:10:03 GMT",
+      "content": "President Trump's announcement followed a move by China imposing export controls on rare earths minerals from that nation.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1e3958c6a40e40a664b6b021be17cc93",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP DOUBLES TARIFFS ON CHINA IMPORTS, RESTRICTS 'CRITICAL SOFTWARE' EXPORTS 🚨\n\n- Trump escalates trade war with 100% tariff hike on Chinese imports 📈\n- Export controls imposed on 'critical software' amid tensions with China 🛡️\n- China's rare earths minerals export controls prompt Trump's retaliation 🇨🇳\n- Move intensifies economic conflict between US and China 🌐\n- Uncertainty looms over impact on global supply chains 🌍⚠️\n\nTAKEAWAY: Trump's aggressive tariff increase and export controls on 'critical software' in response to China's actions heighten economic tensions, raising concerns about supply chain disruptions.",
+      "exported_at": "2025-10-10T17:12:27.420369",
+      "continuous_session": true
+    },
+    {
+      "title": "Govini, a defense tech startup taking on Palantir, hits $100 million in annual recurring revenue",
+      "link": "https://www.cnbc.com/2025/10/10/defense-tech-govini-palantir-revenue.html",
+      "summary": "Defense tech startup Govini said it has surpassed $100 million in annual recurring revenue and secured a $150 million investment from Bain Capital.",
+      "published": "Fri, 10 Oct 2025 20:55:50 GMT",
+      "content": "Defense tech startup Govini said it has surpassed $100 million in annual recurring revenue and secured a $150 million investment from Bain Capital.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9b0af293ea1cf18a6445ed4b2274e3f9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GOVINI HITS $100M ANNUAL REVENUE 🚀\n\n- Govini achieves $100M in annual recurring revenue milestone 💰\n- Secures $150M investment from Bain Capital for growth 📈\n- Positioned to challenge Palantir in the defense tech sector 💥\n\nTAKEAWAY: Govini's rapid revenue growth and significant investment from Bain Capital signal its emergence as a formidable player in the defense tech industry, poised to compete with established giants like Palantir.",
+      "exported_at": "2025-10-10T17:12:27.420443",
       "continuous_session": true
     }
   ]
