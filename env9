@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T00:27:42.431483",
-    "total_articles": 2580,
-    "new_articles_in_last_fetch": 2580,
+    "created_at": "2025-10-10T01:23:34.235205",
+    "total_articles": 2582,
+    "new_articles_in_last_fetch": 2582,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -33500,6 +33500,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CHINA BLACKLISTS TECHINSIGHTS OVER HUAWEI REPORT ⚠️\n\n- Beijing prohibits TechInsights from collaborations in China 🚫\n- Ban follows TechInsights report on Huawei 📉\n- TechInsights barred from accessing data in China 🛑\n\nTAKEAWAY: Beijing's ban on TechInsights reveals China's strict response to reports affecting companies like Huawei, impacting future collaborations.",
       "exported_at": "2025-10-10T00:27:42.249974",
+      "continuous_session": true
+    },
+    {
+      "title": "China&apos;s property slump this year is looking much worse than expected, S&amp;P says",
+      "link": "https://www.cnbc.com/2025/10/10/chinas-property-slump-this-year-looks-worse-than-expected-sp-says.html",
+      "summary": "China's real estate market is on track to drop more than previously expected this year due to the lack of government support, S&amp;P Global Ratings said.",
+      "published": "Fri, 10 Oct 2025 05:20:40 GMT",
+      "content": "China's real estate market is on track to drop more than previously expected this year due to the lack of government support, S&amp;P Global Ratings said.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0d47319d1efeb45958cb26a777a5a21e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CHINA'S PROPERTY SLUMP WORSE THAN EXPECTED, S&P WARNS 🚨\n\n- China's real estate market to decline more in 2021\n- Lack of government support exacerbates the situation\n- S&P Global Ratings issues a cautionary statement\n\nTAKEAWAY: China's real estate market faces a deeper decline than anticipated in 2021, highlighting the impact of limited government support.",
+      "exported_at": "2025-10-10T01:23:34.030169",
+      "continuous_session": true
+    },
+    {
+      "title": "First Brands’ implosion is ripping through private credit – and lenders are scrambling to contain the fallout",
+      "link": "https://www.cnbc.com/2025/10/10/first-brands-implosion-lenders-scramble-to-contain-the-fallout-.html",
+      "summary": "The stricken U.S. auto parts maker's dramatic collapse has hit Jefferies, Millennium and UBS fund unit O'Connor",
+      "published": "Fri, 10 Oct 2025 05:21:20 GMT",
+      "content": "The stricken U.S. auto parts maker's dramatic collapse has hit Jefferies, Millennium and UBS fund unit O'Connor",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "280ec93b1773ac5f0fa1af1513adc289",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FIRST BRANDS' COLLAPSE SHAKES PRIVATE CREDIT MARKET ⚠️\n\n- Struggling U.S. auto parts maker's collapse affects Jefferies, Millennium, UBS\n- Lenders like O'Connor fund unit scramble to limit the damage 🚨\n- First Brands' downfall sends shockwaves through private credit sector ⚡️\n\nTAKEAWAY: The collapse of First Brands is causing chaos in the private credit market, impacting major lenders and sending ripples of uncertainty.",
+      "exported_at": "2025-10-10T01:23:34.030238",
       "continuous_session": true
     }
   ]
