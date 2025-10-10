@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T14:24:02.088201",
-    "total_articles": 2658,
-    "new_articles_in_last_fetch": 2658,
+    "created_at": "2025-10-10T14:34:16.242441",
+    "total_articles": 2660,
+    "new_articles_in_last_fetch": 2660,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -34511,6 +34511,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRAGEDY STRIKES TENNESSEE EXPLOSIVES PLANT 🚨\n\n- Fatal blast at Tennessee military explosives plant\n- Multiple casualties reported by law enforcement\n- Search ongoing for missing individuals\n- Uncertainty surrounds the final toll of the tragedy\n- Incident raises concerns about safety protocols\n- Investigation underway to determine cause of explosion\n\nTAKEAWAY: A tragic blast at a Tennessee explosives plant results in multiple casualties, as search efforts continue for missing individuals, raising concerns about safety measures and prompting an investigation into the cause of the explosion.",
       "exported_at": "2025-10-10T14:24:02.058837",
+      "continuous_session": true
+    },
+    {
+      "title": "The stock market is diving on Trump&apos;s threat of more China tariffs. Is this a good time to buy?",
+      "link": "https://www.cnbc.com/2025/10/10/the-stock-market-is-diving-on-trumps-threat-of-more-china-tariffs-is-this-a-good-time-to-buy.html",
+      "summary": "Wall Street is wondering if Trump's tariff threats on China following its rare earth export crackdown have teeth.",
+      "published": "Fri, 10 Oct 2025 18:27:55 GMT",
+      "content": "Wall Street is wondering if Trump's tariff threats on China following its rare earth export crackdown have teeth.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "82e3c166aaa94c0175899eaeba4d1360",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK MARKET DIVE ON TRUMP'S CHINA TARIFF THREATS 🚨\n\n- Wall Street questions impact of Trump's China tariff threats 🤔\n- Stocks plummet following China's rare earth export restrictions 📉\n- Investors uncertain about potential economic repercussions ⚠️\n- Traders cautious amidst escalating trade tensions 🔥\n- Market volatility expected as uncertainty looms ⚠️📊\n- Analysts advise caution and strategic investment approach ✅\n\nTAKEAWAY: Trump's China tariff threats spark stock market dive, leaving investors cautious and uncertain about the future amidst escalating trade tension.",
+      "exported_at": "2025-10-10T14:34:16.061040",
+      "continuous_session": true
+    },
+    {
+      "title": "Nobel Peace Prize winner Machado praises Trump after White House criticizes snub",
+      "link": "https://www.cnbc.com/2025/10/10/trump-nobel-peace-prize-machado-cheung.html",
+      "summary": "Some of Trump's Republican allies have called for him to get the Nobel Peace Prize, though the nomination deadline passed early in his current term.",
+      "published": "Fri, 10 Oct 2025 18:30:03 GMT",
+      "content": "Some of Trump's Republican allies have called for him to get the Nobel Peace Prize, though the nomination deadline passed early in his current term.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "407c4e50a764641e3d17faaca0f50876",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WHITE HOUSE CRITICIZES NOBEL COMMITTEE; PEACE PRIZE WINNER PRAISES TRUMP 🚀\n\n- Trump's allies advocate for Nobel Peace Prize nomination 🏅\n- Nomination deadline expired early in Trump's current term ⏰\n- White House expresses disappointment over Nobel snub 🤨\n- Peace Prize winner praises Trump's peace efforts 🕊️\n- Republican allies continue to support Trump's nomination 🎯\n\nTAKEAWAY: Despite missing the nomination deadline, Trump's allies push for his Nobel Peace Prize, receiving criticism from the White House while gaining praise from a past Peace Prize winner.",
+      "exported_at": "2025-10-10T14:34:16.061113",
       "continuous_session": true
     }
   ]
