@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T11:35:23.358061",
-    "total_articles": 2639,
-    "new_articles_in_last_fetch": 2639,
+    "created_at": "2025-10-10T11:40:31.960252",
+    "total_articles": 2640,
+    "new_articles_in_last_fetch": 2640,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -34265,6 +34265,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCKS PLUNGE AFTER TRUMP LABELS CHINA 'HOSTILE' OVER RARE EARTHS 🚨\n\n- Market experiences rapid sell-off post Trump's China comments 📉\n- Investors react to cancellation of Xi meeting 🤔\n- Uncertainty looms over future US-China relations ⚠️\n\nTAKEAWAY: Trump's remarks on China's rare earths stance trigger a stock market sell-off, fueling uncertainty in US-China relations and investor sentiment.",
       "exported_at": "2025-10-10T11:35:23.184378",
+      "continuous_session": true
+    },
+    {
+      "title": "Rocket Lab&apos;s stock set for 25% gain this week after flurry of new launch deals",
+      "link": "https://www.cnbc.com/2025/10/10/rocket-lab-stock-launch-deals-japan.html",
+      "summary": "Rocket Lab has secured several new launch contracts over the last few weeks.",
+      "published": "Fri, 10 Oct 2025 15:25:09 GMT",
+      "content": "Rocket Lab has secured several new launch contracts over the last few weeks.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fc0709c089391fca2610cd58a3b1e023",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ROCKET LAB'S STOCK SOARS 25% THIS WEEK AFTER NEW LAUNCH DEALS 🚀\n\n- Rocket Lab gains 25% following multiple new launch contracts 📈\n- Surge in stock value attributed to recent flurry of deals 🔥\n- Company's success reflected in market excitement 🎉\n\nTAKEAWAY: Rocket Lab's stock surges 25% fueled by a series of new launch contracts, showcasing market confidence in the company's growth potential.",
+      "exported_at": "2025-10-10T11:40:31.931072",
       "continuous_session": true
     }
   ]
