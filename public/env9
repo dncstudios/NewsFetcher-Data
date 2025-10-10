@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T01:23:34.235205",
-    "total_articles": 2582,
-    "new_articles_in_last_fetch": 2582,
+    "created_at": "2025-10-10T01:33:47.401914",
+    "total_articles": 2583,
+    "new_articles_in_last_fetch": 2583,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -33526,6 +33526,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FIRST BRANDS' COLLAPSE SHAKES PRIVATE CREDIT MARKET ⚠️\n\n- Struggling U.S. auto parts maker's collapse affects Jefferies, Millennium, UBS\n- Lenders like O'Connor fund unit scramble to limit the damage 🚨\n- First Brands' downfall sends shockwaves through private credit sector ⚡️\n\nTAKEAWAY: The collapse of First Brands is causing chaos in the private credit market, impacting major lenders and sending ripples of uncertainty.",
       "exported_at": "2025-10-10T01:23:34.030238",
+      "continuous_session": true
+    },
+    {
+      "title": "&apos;Bitcoin is not an asset class&apos;: UK&apos;s biggest investment platform has a stark warning for investors",
+      "link": "https://www.cnbc.com/2025/10/10/uk-investment-platform-warns-traders-to-avoid-bitcoin-crypto.html",
+      "summary": "\"We do not think cryptocurrency has characteristics that mean it should be included in portfolios for growth or income,\" Hargreaves Lansdowne said.",
+      "published": "Fri, 10 Oct 2025 05:27:35 GMT",
+      "content": "\"We do not think cryptocurrency has characteristics that mean it should be included in portfolios for growth or income,\" Hargreaves Lansdowne said.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "edb9df3fd6a46e5a35534f800676e14d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 'BITCOIN NOT AN ASSET CLASS': UK'S TOP INVESTMENT PLATFORM WARNS ⚠️\n\n- Hargreaves Lansdowne warns against including crypto in portfolios 🚫\n- Bitcoin lacks characteristics for growth or income portfolios 📉\n- UK's biggest investment platform challenges cryptocurrency status 🇬🇧\n\nTAKEAWAY: Hargreaves Lansdowne's stance on Bitcoin as not fitting the criteria for inclusion in portfolios emphasizes caution towards cryptocurrencies.",
+      "exported_at": "2025-10-10T01:33:47.221602",
       "continuous_session": true
     }
   ]
