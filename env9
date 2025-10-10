@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T21:55:36.600089",
-    "total_articles": 2579,
-    "new_articles_in_last_fetch": 2579,
+    "created_at": "2025-10-10T00:27:42.431483",
+    "total_articles": 2580,
+    "new_articles_in_last_fetch": 2580,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -33487,6 +33487,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ASIA-PACIFIC MARKETS OPEN LOWER, FOLLOWING WALL STREET LOSSES 📉\n\n- Friday sees Asia-Pacific markets trading lower 🌏\n- Investors evaluate economy as they track Wall Street declines 📉\n- Market sentiment impacted by Wall Street losses 📊\n\nTAKEAWAY: Asia-Pacific markets open lower, mirroring Wall Street's decline, as investors analyze the economic landscape.",
       "exported_at": "2025-10-09T21:55:36.570428",
+      "continuous_session": true
+    },
+    {
+      "title": "China blacklists major chip research firm TechInsights following report on Huawei",
+      "link": "https://www.cnbc.com/2025/10/10/china-blacklists-major-chip-ai-research-firm-techinsights-analyzed-report-huawei.html",
+      "summary": "Beijing has banned semiconductor researcher TechInsights from working with or receiving data from entities in China.",
+      "published": "Fri, 10 Oct 2025 04:26:33 GMT",
+      "content": "Beijing has banned semiconductor researcher TechInsights from working with or receiving data from entities in China.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7357310afa2b445a187f06faa50e4fc8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CHINA BLACKLISTS TECHINSIGHTS OVER HUAWEI REPORT ⚠️\n\n- Beijing prohibits TechInsights from collaborations in China 🚫\n- Ban follows TechInsights report on Huawei 📉\n- TechInsights barred from accessing data in China 🛑\n\nTAKEAWAY: Beijing's ban on TechInsights reveals China's strict response to reports affecting companies like Huawei, impacting future collaborations.",
+      "exported_at": "2025-10-10T00:27:42.249974",
       "continuous_session": true
     }
   ]
