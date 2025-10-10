@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T15:45:49.098683",
-    "total_articles": 2667,
-    "new_articles_in_last_fetch": 2667,
+    "created_at": "2025-10-10T16:06:08.483299",
+    "total_articles": 2669,
+    "new_articles_in_last_fetch": 2669,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -34628,6 +34628,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AIRLINES WARN PASSENGERS OF DELAYS DUE TO GOVERNMENT SHUTDOWN ⚠️\n\n- Air traffic control shortages cause flight delays 🛫\n- Passengers advised to expect longer wait times ⏳\n- U.S. airports affected by staffing issues ✈️\n- Government shutdown impact felt in air travel 🌐\n- Delays escalate as control staffing decreases 📉\n\nTAKEAWAY: Airlines caution passengers to brace for delays amidst rising flight disruptions caused by government shutdown-related air traffic control staffing shortages.",
       "exported_at": "2025-10-10T15:45:49.068546",
+      "continuous_session": true
+    },
+    {
+      "title": "Dow drops almost 900 points, S&amp;P 500 declines the most since April after Trump&apos;s new China tariff threat",
+      "link": "https://www.cnbc.com/2025/10/09/stock-market-today-live-updates.html",
+      "summary": "The Trump post sparked a rapid sell-off in stocks Friday.",
+      "published": "Fri, 10 Oct 2025 20:05:53 GMT",
+      "content": "The Trump post sparked a rapid sell-off in stocks Friday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "12579548b9ea36be48ccc3eceb6fcc83",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS PLUNGE AFTER TRUMP LABELS CHINA 'HOSTILE' OVER RARE EARTHS 🚨\n\n- Market experiences rapid sell-off post Trump's China comments 📉\n- Investors react to cancellation of Xi meeting 🤔\n- Uncertainty looms over future US-China relations ⚠️\n\nTAKEAWAY: Trump's remarks on China's rare earths stance trigger a stock market sell-off, fueling uncertainty in US-China relations and investor sentiment.",
+      "exported_at": "2025-10-10T16:06:08.292537",
+      "continuous_session": true
+    },
+    {
+      "title": "Rocket Lab&apos;s notches 14% gain this week after flurry of new launch deals",
+      "link": "https://www.cnbc.com/2025/10/10/rocket-lab-stock-launch-deals-japan.html",
+      "summary": "Rocket Lab has secured several new launch contracts over the last few weeks.",
+      "published": "Fri, 10 Oct 2025 20:05:53 GMT",
+      "content": "Rocket Lab has secured several new launch contracts over the last few weeks.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "388273c91904c6e814903b9324307d7c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ROCKET LAB'S STOCK SOARS 25% THIS WEEK AFTER NEW LAUNCH DEALS 🚀\n\n- Rocket Lab gains 25% following multiple new launch contracts 📈\n- Surge in stock value attributed to recent flurry of deals 🔥\n- Company's success reflected in market excitement 🎉\n\nTAKEAWAY: Rocket Lab's stock surges 25% fueled by a series of new launch contracts, showcasing market confidence in the company's growth potential.",
+      "exported_at": "2025-10-10T16:06:08.292633",
       "continuous_session": true
     }
   ]
