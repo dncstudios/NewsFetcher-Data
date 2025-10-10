@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T08:41:43.677804",
-    "total_articles": 2614,
-    "new_articles_in_last_fetch": 2614,
+    "created_at": "2025-10-10T09:12:15.352268",
+    "total_articles": 2616,
+    "new_articles_in_last_fetch": 2616,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -33941,6 +33941,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BRISTOL-MYERS ACQUIRES ORBITAL THERAPEUTICS FOR $1.5 BILLION 🚀\n\n- Bristol-Myers Squibb buys Orbital Therapeutics for $1.5 billion 💰\n- Acquisition to strengthen Bristol-Myers' cell therapy portfolio 🧬\n- Orbital Therapeutics, a cell therapy developer, acquired for cash 💸\n- Deal expected to enhance Bristol-Myers' innovative capabilities 🌟\n- Bristol-Myers invests $1.5 billion in Orbital Therapeutics acquisition 💼\n\nTAKEAWAY: Bristol-Myers' $1.5 billion acquisition of Orbital Therapeutics bolsters its position in cell therapy, showcasing a strategic move to enhance its innovative offerings.",
       "exported_at": "2025-10-10T08:41:43.632081",
+      "continuous_session": true
+    },
+    {
+      "title": "Jim Cramer&apos;s top 10 things to watch in the stock market Friday",
+      "link": "https://www.cnbc.com/2025/10/10/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday.html",
+      "summary": "Gold is back above $4,000 an ounce, and Qualcomm shares dropped after Chinese antitrust regulators opened a probe into its acquisition of a vehicle tech firm.",
+      "published": "Fri, 10 Oct 2025 12:54:12 GMT",
+      "content": "Gold is back above $4,000 an ounce, and Qualcomm shares dropped after Chinese antitrust regulators opened a probe into its acquisition of a vehicle tech firm.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c6e34c524257a339927576944e758610",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JIM CRAMER'S TOP 10 STOCK MARKET WATCHES FOR FRIDAY 🚀\n\n- Gold surpasses $4,000/ounce 📈\n- Qualcomm shares fall post Chinese antitrust probe 📉\n\nTAKEAWAY: Keep an eye on Gold's surge and Qualcomm's dip due to Chinese antitrust scrutiny for potential market impacts this Friday.",
+      "exported_at": "2025-10-10T09:12:15.182149",
+      "continuous_session": true
+    },
+    {
+      "title": "Debt keeps 7 in 10 adults from building wealth or saving, survey finds — 5 strategies for debt relief",
+      "link": "https://www.cnbc.com/2025/10/10/debt-relief-strategies.html",
+      "summary": "Debt is keeping many Americans from building wealth or saving, according to a recent survey. Here are five strategies for debt relief.",
+      "published": "Fri, 10 Oct 2025 12:45:01 GMT",
+      "content": "Debt is keeping many Americans from building wealth or saving, according to a recent survey. Here are five strategies for debt relief.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "51e509a7245e558227650a9a2e5ea2eb",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DEBT HINDERS WEALTH BUILDING FOR MAJORITY OF ADULTS 🚨\n\n- Survey reveals 7 in 10 adults struggle to build wealth due to debt 💸\n- Many Americans unable to save money because of their debt burdens 📉\n- 5 effective strategies outlined for debt relief and financial freedom 💪\n- Debt management crucial for individuals to start accumulating wealth 📈\n- High debt levels hinder financial growth and stability for most adults 💼\n\nTAKEAWAY: Overwhelming debt burdens prevent the majority of adults from building wealth, emphasizing the importance of effective debt relief strategies for financial freedom.",
+      "exported_at": "2025-10-10T09:12:15.182210",
       "continuous_session": true
     }
   ]
