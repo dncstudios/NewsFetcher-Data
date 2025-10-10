@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T07:04:26.600052",
-    "total_articles": 2598,
-    "new_articles_in_last_fetch": 2598,
+    "created_at": "2025-10-10T07:19:45.956664",
+    "total_articles": 2599,
+    "new_articles_in_last_fetch": 2599,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -33734,6 +33734,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: GOLDMAN'S TOP EARNINGS SEASON TRADES 🚀\n\n- Goldman predicts Hershey and Wynn Resorts to soar post earnings 📈\n- Hershey and Wynn Resorts identified as top performers 🔝\n\nTAKEAWAY: Goldman recommends betting on Hershey and Wynn Resorts for potential gains after their next quarterly earnings reports.",
       "exported_at": "2025-10-10T07:04:26.504051",
+      "continuous_session": true
+    },
+    {
+      "title": "High earners could soon lose a tax break from this 401(k) change",
+      "link": "https://www.cnbc.com/2025/10/10/401k-change-catch-up-contributions.html",
+      "summary": "Starting in 2026, 401(k) catch-up contributions for certain high earners must be after tax Roth, rather than pretax. Here's what to know about the change.",
+      "published": "Fri, 10 Oct 2025 11:15:01 GMT",
+      "content": "Starting in 2026, 401(k) catch-up contributions for certain high earners must be after tax Roth, rather than pretax. Here's what to know about the change.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c8b5beaf3e1cf60a76c8cc86c8cc217c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: HIGH EARNERS FACE TAX CHANGES ON 401(K) CATCH-UP CONTRIBUTIONS ⚠️\n\n- 401(k) catch-up contributions for high earners shift to after-tax Roth by 2026\n- Change affects specific income brackets only 💰\n- Transition brings potential tax implications to consider 🤔\n- High earners urged to understand impact on retirement savings 📈\n- Shift aims to balance tax code and promote fairness 🔍\n- Change not immediate, allowing time for adjustment ⏳\n\nTAKEAWAY: High earners need to prepare for a tax shift in 401(k) catch-up contributions to after-tax Roth by 2026, emphasizing the importance of understanding the implications on retirement savings.",
+      "exported_at": "2025-10-10T07:19:45.774377",
       "continuous_session": true
     }
   ]
