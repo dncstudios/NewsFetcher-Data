@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T12:11:06.972422",
-    "total_articles": 2644,
-    "new_articles_in_last_fetch": 2644,
+    "created_at": "2025-10-10T12:16:13.688708",
+    "total_articles": 2645,
+    "new_articles_in_last_fetch": 2645,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -34330,6 +34330,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCKS PLUNGE AFTER TRUMP LABELS CHINA 'HOSTILE' OVER RARE EARTHS 🚨\n\n- Market experiences rapid sell-off post Trump's China comments 📉\n- Investors react to cancellation of Xi meeting 🤔\n- Uncertainty looms over future US-China relations ⚠️\n\nTAKEAWAY: Trump's remarks on China's rare earths stance trigger a stock market sell-off, fueling uncertainty in US-China relations and investor sentiment.",
       "exported_at": "2025-10-10T12:11:06.898516",
+      "continuous_session": true
+    },
+    {
+      "title": "White House knocks Nobel Committee for snubbing Trump, but peace prize winner praises him",
+      "link": "https://www.cnbc.com/2025/10/10/trump-nobel-peace-prize-machado-cheung.html",
+      "summary": "Some of Trump's Republican allies have called for him to get the Nobel Peace Prize, though the nomination deadline passed early in his current term.",
+      "published": "Fri, 10 Oct 2025 16:12:19 GMT",
+      "content": "Some of Trump's Republican allies have called for him to get the Nobel Peace Prize, though the nomination deadline passed early in his current term.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a8c4ceffc1a77a39179641ae01b817da",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WHITE HOUSE CRITICIZES NOBEL COMMITTEE; PEACE PRIZE WINNER PRAISES TRUMP 🚀\n\n- Trump's allies advocate for Nobel Peace Prize nomination 🏅\n- Nomination deadline expired early in Trump's current term ⏰\n- White House expresses disappointment over Nobel snub 🤨\n- Peace Prize winner praises Trump's peace efforts 🕊️\n- Republican allies continue to support Trump's nomination 🎯\n\nTAKEAWAY: Despite missing the nomination deadline, Trump's allies push for his Nobel Peace Prize, receiving criticism from the White House while gaining praise from a past Peace Prize winner.",
+      "exported_at": "2025-10-10T12:16:13.655005",
       "continuous_session": true
     }
   ]
