@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T13:48:19.515112",
-    "total_articles": 2655,
-    "new_articles_in_last_fetch": 2655,
+    "created_at": "2025-10-10T14:18:51.666664",
+    "total_articles": 2656,
+    "new_articles_in_last_fetch": 2656,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -34473,6 +34473,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP'S NOMINEE PAUL INGRASSIA ACCUSED OF SEXUAL HARASSMENT ⚠️\n\n- Paul Ingrassia faces sexual harassment allegations 💔\n- Nominee for Office of Special Counsel under scrutiny 🔍\n- Accusations reported by Politico 📰\n\nTAKEAWAY: Allegations of sexual harassment against Paul Ingrassia, Trump's nominee for the Office of Special Counsel, raise concerns and require thorough investigation.",
       "exported_at": "2025-10-10T13:48:19.344168",
+      "continuous_session": true
+    },
+    {
+      "title": "We tested OpenAI’s Sora 2 video generator to find out why Hollywood is freaking out",
+      "link": "https://www.cnbc.com/2025/10/10/how-sora-2-by-openai-is-challenging-hollywood.html",
+      "summary": "The launch of OpenAI’s Sora 2 video service kicked off another round of anxiety among content creators in the U.S.",
+      "published": "Fri, 10 Oct 2025 18:11:35 GMT",
+      "content": "The launch of OpenAI’s Sora 2 video service kicked off another round of anxiety among content creators in the U.S.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "dd7eff63f0df9733d62e9f687ed42209",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: OPENAI'S SORA 2 VIDEO GENERATOR SHAKES HOLLYWOOD 🚀\n\n- OpenAI's Sora 2 video service sparks anxiety in US content creators\n- Hollywood rattled by the impact of advanced AI technology 🎥\n- Sora 2 launch fuels concerns about job displacement in the industry\n- Content creators in the U.S. on edge due to OpenAI's latest offering\n- Anxiety levels rise as Sora 2 video generator disrupts traditional filmmaking\n- Hollywood faces uncertainty with the rapid advancement of AI in content creation\n\nTAKEAWAY: OpenAI's Sora 2 video generator launch intensifies fears and concerns among Hollywood content creators, signaling a shift towards AI-driven filmmaking.",
+      "exported_at": "2025-10-10T14:18:51.492265",
       "continuous_session": true
     }
   ]
