@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T10:28:54.567599",
-    "total_articles": 2628,
-    "new_articles_in_last_fetch": 2628,
+    "created_at": "2025-10-10T10:59:28.925573",
+    "total_articles": 2631,
+    "new_articles_in_last_fetch": 2631,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -34122,6 +34122,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: INSIDE WEALTH: ENTREPRENEURS EYEING GLOBAL MOVES 🚀\n\n- 50%+ entrepreneurs mull relocating, Singapore top choice 🌏\n- Tax savings less cited; safety, business growth prime motivators 🔍\n- Personal safety, business expansion key factors driving moves 💼\n\nTAKEAWAY: Entrepreneurs globally eyeing relocation, with Singapore as a top destination, driven by safety and business expansion over tax incentives.",
       "exported_at": "2025-10-10T10:28:54.391337",
+      "continuous_session": true
+    },
+    {
+      "title": "AI power demand is forcing a coal revival. Jefferies sees more than 30% rally in one such stock",
+      "link": "https://www.cnbc.com/2025/10/10/coal-core-natural-resource-cnr-peabody-btu-ai-data-center-trump.html",
+      "summary": "Long viewed as part of the \"old economy,\" coal is now exacting revenge by taking market share from fuels like natural gas that displaced it.",
+      "published": "Fri, 10 Oct 2025 14:34:58 GMT",
+      "content": "Long viewed as part of the \"old economy,\" coal is now exacting revenge by taking market share from fuels like natural gas that displaced it.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0aef99b19249fd3fe4e8ba4395b5efa4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AI POWER DEMAND DRIVES COAL REVIVAL, STOCK SET FOR 30% RALLY 🚀\n\n- Coal gains market share from natural gas amid AI power demand ⚡️\n- Jefferies predicts over 30% rally for a coal stock 📈\n- Coal transitions from \"old economy\" to high demand market 🔄\n- Rising demand for coal challenges traditional fuel perceptions 🛢️\n- Market shift favors coal over previously dominant natural gas 🌏\n- Coal's resurgence fueled by increased demand and market dynamics 💰\n\nTAKEAWAY: Coal's resurgence driven by AI power demand marks a significant market shift, with a Jefferies-backed stock poised for a 30% rally.",
+      "exported_at": "2025-10-10T10:59:28.895618",
+      "continuous_session": true
+    },
+    {
+      "title": "Why &apos;doorstep taxes’ are making Amazon, DoorDash deliveries more expensive",
+      "link": "https://www.cnbc.com/2025/10/10/new-fees-government-taxes-on-demand-delivery-food-shopping-apps.html",
+      "summary": "In some states, your Amazon toilet paper order or DoorDash meal may have gotten a little pricier. State and local government hope you don't notice.",
+      "published": "Fri, 10 Oct 2025 14:51:35 GMT",
+      "content": "In some states, your Amazon toilet paper order or DoorDash meal may have gotten a little pricier. State and local government hope you don't notice.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3c54b0469aeeef29baf25e07c07e89d2",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WHY 'DOORSTEP TAXES' ARE DRIVING UP AMAZON, DOORDASH PRICES ⚠️\n\n- Some states increase taxes on Amazon, DoorDash purchases 📈\n- Price hikes aimed to boost state and local revenue 💰\n- Consumers likely unaware of the added costs 🤫\n- Impact felt on everyday purchases like toilet paper, meals 🍽️\n- State governments banking on consumers not noticing 🤔\n\nTAKEAWAY: The rise of 'doorstep taxes' on Amazon and DoorDash purchases is quietly impacting consumers, leading to higher prices on everyday items while boosting state and local revenues.",
+      "exported_at": "2025-10-10T10:59:28.895627",
+      "continuous_session": true
+    },
+    {
+      "title": "At-risk teens and AI chatbot crisis: &apos;You need to know what&apos;s going on,&apos; warns Talkspace CEO",
+      "link": "https://www.cnbc.com/2025/10/10/talkspace-online-therapy-therapists-mental-health.html",
+      "summary": "Jon Cohen, CEO of Talkspace, which provides online mental health to teens, says everyone should be worried about at-risk youth turning to large language models.",
+      "published": "Fri, 10 Oct 2025 14:45:42 GMT",
+      "content": "Jon Cohen, CEO of Talkspace, which provides online mental health to teens, says everyone should be worried about at-risk youth turning to large language models.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b7995ebc2c6c98dd3da7aa8197efe3b6",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AT-RISK TEENS AND AI CHATBOT CRISIS: TALKSPACE CEO WARNS ⚠️\n\n- Talkspace CEO Jon Cohen warns about at-risk youth using large AI models 🤖\n- Concerns rise as teens seek online mental health support 📈\n- AI chatbots may not provide adequate help for vulnerable teens 🛑\n- CEO emphasizes the importance of understanding the risks involved 💡\n\nTAKEAWAY: Jon Cohen's warning sheds light on the potential dangers of at-risk teens relying on AI chatbots for mental health support, urging a deeper understanding of the risks involved.",
+      "exported_at": "2025-10-10T10:59:28.895631",
       "continuous_session": true
     }
   ]
