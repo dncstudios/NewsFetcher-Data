@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T13:02:12.044697",
-    "total_articles": 2651,
-    "new_articles_in_last_fetch": 2651,
+    "created_at": "2025-10-10T13:07:21.277550",
+    "total_articles": 2653,
+    "new_articles_in_last_fetch": 2653,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -34421,6 +34421,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCKS PLUNGE AFTER TRUMP LABELS CHINA 'HOSTILE' OVER RARE EARTHS 🚨\n\n- Market experiences rapid sell-off post Trump's China comments 📉\n- Investors react to cancellation of Xi meeting 🤔\n- Uncertainty looms over future US-China relations ⚠️\n\nTAKEAWAY: Trump's remarks on China's rare earths stance trigger a stock market sell-off, fueling uncertainty in US-China relations and investor sentiment.",
       "exported_at": "2025-10-10T13:02:11.862929",
+      "continuous_session": true
+    },
+    {
+      "title": "Dow drops 600 points, S&amp;P 500 falls the most since April after Trump&apos;s China tariff threat: Live updates",
+      "link": "https://www.cnbc.com/2025/10/09/stock-market-today-live-updates.html",
+      "summary": "The Trump post sparked a rapid sell-off in stocks Friday.",
+      "published": "Fri, 10 Oct 2025 17:06:03 GMT",
+      "content": "The Trump post sparked a rapid sell-off in stocks Friday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "68ea29eb92d6dd94d65e135451069c1b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS PLUNGE AFTER TRUMP LABELS CHINA 'HOSTILE' OVER RARE EARTHS 🚨\n\n- Market experiences rapid sell-off post Trump's China comments 📉\n- Investors react to cancellation of Xi meeting 🤔\n- Uncertainty looms over future US-China relations ⚠️\n\nTAKEAWAY: Trump's remarks on China's rare earths stance trigger a stock market sell-off, fueling uncertainty in US-China relations and investor sentiment.",
+      "exported_at": "2025-10-10T13:07:21.162249",
+      "continuous_session": true
+    },
+    {
+      "title": "Chinese stocks slide as Trump threatens tariffs, accuses Beijing of holding world ‘captive’",
+      "link": "https://www.cnbc.com/2025/10/10/chinese-stocks-slide-as-trump-threatens-tariffs-accuses-beijing-of-holding-world-captive.html",
+      "summary": "The selloff underscored renewed investor anxiety over escalating U.S.-China tensions.",
+      "published": "Fri, 10 Oct 2025 16:59:51 GMT",
+      "content": "The selloff underscored renewed investor anxiety over escalating U.S.-China tensions.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c681c142b71346104afb8c9ed6d2580e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CHINESE STOCKS PLUNGE AS TRUMP THREATENS TARIFFS 🚨\n\n- Investor anxiety spikes amidst U.S.-China tension escalation 📉\n- Trump accuses Beijing of holding the world ‘captive’ 🇨🇳\n- Chinese stocks experience significant selloff 📉\n- Renewed concerns over trade war repercussions 🔥\n- Market reacts to Trump's tariff threats ⚠️\n- Uncertainty looms over future of U.S.-China relations 🤔\n\nTAKEAWAY: Trump's tariff threats and accusations against Beijing ignite a selloff in Chinese stocks, amplifying investor anxiety and uncertainty in the market.",
+      "exported_at": "2025-10-10T13:07:21.162509",
       "continuous_session": true
     }
   ]
