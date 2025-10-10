@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T11:09:39.900569",
-    "total_articles": 2632,
-    "new_articles_in_last_fetch": 2632,
+    "created_at": "2025-10-10T11:19:58.629869",
+    "total_articles": 2635,
+    "new_articles_in_last_fetch": 2635,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -34174,6 +34174,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCKS TICK HIGHER, S&P 500 AND NASDAQ AIM FOR WEEKLY GAINS 🚀\n\n- S&P 500 and Nasdaq see uptrend on Friday 📈\n- Both indices set to secure weekly gains 📈\n- Market shows positive momentum as stocks rise 🚀\n\nTAKEAWAY: The S&P 500 and Nasdaq are on track for a week of gains, reflecting positive market sentiment and upward momentum.",
       "exported_at": "2025-10-10T11:09:39.726860",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks drop in rapid move after Trump says China becoming &apos;hostile&apos; over rare earths, cancels Xi meeting",
+      "link": "https://www.cnbc.com/2025/10/09/stock-market-today-live-updates.html",
+      "summary": "The Trump post sparked a rapid sell-off in stocks Friday.",
+      "published": "Fri, 10 Oct 2025 15:17:16 GMT",
+      "content": "The Trump post sparked a rapid sell-off in stocks Friday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3a8c2e67f883baecb13949db11889426",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS PLUNGE AFTER TRUMP LABELS CHINA 'HOSTILE' OVER RARE EARTHS 🚨\n\n- Market experiences rapid sell-off post Trump's China comments 📉\n- Investors react to cancellation of Xi meeting 🤔\n- Uncertainty looms over future US-China relations ⚠️\n\nTAKEAWAY: Trump's remarks on China's rare earths stance trigger a stock market sell-off, fueling uncertainty in US-China relations and investor sentiment.",
+      "exported_at": "2025-10-10T11:19:58.444011",
+      "continuous_session": true
+    },
+    {
+      "title": "CPI inflation report will be released by Labor Department, while other data is delayed by shutdown",
+      "link": "https://www.cnbc.com/2025/10/10/cpi-inflation-data-government-shutdown.html",
+      "summary": "The Labor Department will bring back staff to work on a key inflation report.",
+      "published": "Fri, 10 Oct 2025 14:57:34 GMT",
+      "content": "The Labor Department will bring back staff to work on a key inflation report.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "02ecc5cbfb43f6f9863ac2234c3a0f27",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CPI INFLATION REPORT TO BE RELEASED BY LABOR DEPARTMENT 🚀\n\n- Labor Department recalls staff for crucial inflation report 📈\n- Other data delayed due to government shutdown 🚫\n- Market awaits insights on consumer price changes 📊\n- CPI report key for understanding economic trends 🎯\n\nTAKEAWAY: The upcoming CPI inflation report from the Labor Department is eagerly anticipated as other data remains delayed due to the government shutdown.",
+      "exported_at": "2025-10-10T11:19:58.444085",
+      "continuous_session": true
+    },
+    {
+      "title": "White House knocks Nobel Committee for snubbing Trump, but Peace Prize winner praises him",
+      "link": "https://www.cnbc.com/2025/10/10/trump-nobel-peace-prize-machado-cheung.html",
+      "summary": "Some of Trump's Republican allies have called for him to get the Nobel Peace Prize, though the nomination deadline passed early in his current term.",
+      "published": "Fri, 10 Oct 2025 15:10:18 GMT",
+      "content": "Some of Trump's Republican allies have called for him to get the Nobel Peace Prize, though the nomination deadline passed early in his current term.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e3d1c4b75ddfa6334eee09f7d3878c63",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WHITE HOUSE CRITICIZES NOBEL COMMITTEE; PEACE PRIZE WINNER PRAISES TRUMP 🚀\n\n- Trump's allies advocate for Nobel Peace Prize nomination 🏅\n- Nomination deadline expired early in Trump's current term ⏰\n- White House expresses disappointment over Nobel snub 🤨\n- Peace Prize winner praises Trump's peace efforts 🕊️\n- Republican allies continue to support Trump's nomination 🎯\n\nTAKEAWAY: Despite missing the nomination deadline, Trump's allies push for his Nobel Peace Prize, receiving criticism from the White House while gaining praise from a past Peace Prize winner.",
+      "exported_at": "2025-10-10T11:19:58.444102",
       "continuous_session": true
     }
   ]
