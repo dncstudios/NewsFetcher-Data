@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T16:06:08.483299",
-    "total_articles": 2669,
-    "new_articles_in_last_fetch": 2669,
+    "created_at": "2025-10-10T16:11:16.187788",
+    "total_articles": 2670,
+    "new_articles_in_last_fetch": 2670,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -34654,6 +34654,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ROCKET LAB'S STOCK SOARS 25% THIS WEEK AFTER NEW LAUNCH DEALS 🚀\n\n- Rocket Lab gains 25% following multiple new launch contracts 📈\n- Surge in stock value attributed to recent flurry of deals 🔥\n- Company's success reflected in market excitement 🎉\n\nTAKEAWAY: Rocket Lab's stock surges 25% fueled by a series of new launch contracts, showcasing market confidence in the company's growth potential.",
       "exported_at": "2025-10-10T16:06:08.292633",
+      "continuous_session": true
+    },
+    {
+      "title": "Rocket Lab notches 14% gain this week after flurry of new launch deals",
+      "link": "https://www.cnbc.com/2025/10/10/rocket-lab-stock-launch-deals-japan.html",
+      "summary": "Rocket Lab has secured several new launch contracts over the last few weeks.",
+      "published": "Fri, 10 Oct 2025 20:07:28 GMT",
+      "content": "Rocket Lab has secured several new launch contracts over the last few weeks.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2a7caa4f4dcc859a543ed8a036e0c7bb",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ROCKET LAB'S STOCK SOARS 25% THIS WEEK AFTER NEW LAUNCH DEALS 🚀\n\n- Rocket Lab gains 25% following multiple new launch contracts 📈\n- Surge in stock value attributed to recent flurry of deals 🔥\n- Company's success reflected in market excitement 🎉\n\nTAKEAWAY: Rocket Lab's stock surges 25% fueled by a series of new launch contracts, showcasing market confidence in the company's growth potential.",
+      "exported_at": "2025-10-10T16:11:15.988606",
       "continuous_session": true
     }
   ]
