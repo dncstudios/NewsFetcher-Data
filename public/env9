@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T05:32:38.284657",
-    "total_articles": 2591,
-    "new_articles_in_last_fetch": 2591,
+    "created_at": "2025-10-10T05:37:50.238603",
+    "total_articles": 2592,
+    "new_articles_in_last_fetch": 2592,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -33643,6 +33643,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: PRESIDENT TRUMP'S H-1B VISA CHANGES IMPACT BIG TECH ⚠️\n\n- Trump introduces $100,000 H-1B visa fee to promote local hiring 🇺🇸\n- Critics fear fee may stifle innovation and tech expertise 🚫\n- Policy aims to prioritize domestic workers over foreign talent ✅\n\nTAKEAWAY: President Trump's new $100,000 H-1B visa fee generates debate as it seeks to prioritize domestic hiring in Big Tech, potentially impacting innovation and talent.",
       "exported_at": "2025-10-10T05:32:38.112650",
+      "continuous_session": true
+    },
+    {
+      "title": "Google search comes under renewed scrutiny in UK as competition watchdog flexes new powers",
+      "link": "https://www.cnbc.com/2025/10/10/uks-cma-activates-new-powers-to-regulate-google-search.html",
+      "summary": "Britain's competition regulator activated new powers to regulate Google's search activities, putting the tech giant in the firing line for further regulation.",
+      "published": "Fri, 10 Oct 2025 09:35:33 GMT",
+      "content": "Britain's competition regulator activated new powers to regulate Google's search activities, putting the tech giant in the firing line for further regulation.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9365941dc22ad46d287a062464aa7cc9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GOOGLE SEARCH FACES SCRUTINY IN UK AS REGULATOR ACTIVATES NEW POWERS ⚠️\n\n- UK regulator targets Google's search activities 🎯\n- Tech giant under scrutiny for potential further regulation 🧐\n- Competition watchdog flexes new powers against Google 🔍\n- Google faces increased oversight in the UK market 🇬🇧\n- Regulator's move highlights growing concerns about Google's dominance 📈\n\nTAKEAWAY: Google's search activities face intensified scrutiny in the UK as the competition regulator activates new powers, signaling potential further regulation for the tech giant.",
+      "exported_at": "2025-10-10T05:37:50.058889",
       "continuous_session": true
     }
   ]
