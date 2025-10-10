@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T12:57:04.692459",
-    "total_articles": 2649,
-    "new_articles_in_last_fetch": 2649,
+    "created_at": "2025-10-10T13:02:12.044697",
+    "total_articles": 2651,
+    "new_articles_in_last_fetch": 2651,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -34395,6 +34395,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCKS MAKING BIGGEST MIDDAY MOVES 🚀\n\n- MP Materials, Alibaba, Protagonist Therapeutics show significant shifts\n- Market experiences high volatility across various sectors\n- Investors closely monitoring these key players\n\nTAKEAWAY: Market sees major midday movements with stocks like MP Materials, Alibaba, and Protagonist Therapeutics, indicating high volatility and investor interest.",
       "exported_at": "2025-10-10T12:57:04.493144",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump administration begins layoffs of federal workers amid government shutdown",
+      "link": "https://www.cnbc.com/2025/10/10/trump-russ-vought-layoffs-government-shutdown.html",
+      "summary": "The Trump administration and Republicans have sought to blame Democrats for the government shutdown, and any negative fallout from it.",
+      "published": "Fri, 10 Oct 2025 17:01:37 GMT",
+      "content": "The Trump administration and Republicans have sought to blame Democrats for the government shutdown, and any negative fallout from it.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c4246bfdefc5552803438ab0ad955a53",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP OFFICIAL CONFIRMS FEDERAL LAYOFFS AMID SHUTDOWN ⚠️\n\n- Federal layoffs initiated as government shutdown continues 📉\n- Trump admin shifts blame to Democrats for shutdown fallout ⚠️\n- Republicans support Trump's stance on shutdown 🐘\n- Democrats face criticism for government shutdown impact 💼\n\nTAKEAWAY: Federal layoffs kick off as Trump administration and Republicans accuse Democrats of government shutdown consequences.",
+      "exported_at": "2025-10-10T13:02:11.862865",
+      "continuous_session": true
+    },
+    {
+      "title": "Dow drops 500 points, S&amp;P 500 falls the most since April after Trump&apos;s China tariff threat: Live updates",
+      "link": "https://www.cnbc.com/2025/10/09/stock-market-today-live-updates.html",
+      "summary": "The Trump post sparked a rapid sell-off in stocks Friday.",
+      "published": "Fri, 10 Oct 2025 16:58:48 GMT",
+      "content": "The Trump post sparked a rapid sell-off in stocks Friday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "39cbeaa24af2bec6e528c3cafe9705aa",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS PLUNGE AFTER TRUMP LABELS CHINA 'HOSTILE' OVER RARE EARTHS 🚨\n\n- Market experiences rapid sell-off post Trump's China comments 📉\n- Investors react to cancellation of Xi meeting 🤔\n- Uncertainty looms over future US-China relations ⚠️\n\nTAKEAWAY: Trump's remarks on China's rare earths stance trigger a stock market sell-off, fueling uncertainty in US-China relations and investor sentiment.",
+      "exported_at": "2025-10-10T13:02:11.862929",
       "continuous_session": true
     }
   ]
