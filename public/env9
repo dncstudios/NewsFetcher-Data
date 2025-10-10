@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T09:12:15.352268",
-    "total_articles": 2616,
-    "new_articles_in_last_fetch": 2616,
+    "created_at": "2025-10-10T09:27:33.118436",
+    "total_articles": 2617,
+    "new_articles_in_last_fetch": 2617,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -33967,6 +33967,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: DEBT HINDERS WEALTH BUILDING FOR MAJORITY OF ADULTS 🚨\n\n- Survey reveals 7 in 10 adults struggle to build wealth due to debt 💸\n- Many Americans unable to save money because of their debt burdens 📉\n- 5 effective strategies outlined for debt relief and financial freedom 💪\n- Debt management crucial for individuals to start accumulating wealth 📈\n- High debt levels hinder financial growth and stability for most adults 💼\n\nTAKEAWAY: Overwhelming debt burdens prevent the majority of adults from building wealth, emphasizing the importance of effective debt relief strategies for financial freedom.",
       "exported_at": "2025-10-10T09:12:15.182210",
+      "continuous_session": true
+    },
+    {
+      "title": "Morgan Stanley drops restrictions on which wealth clients can own crypto funds",
+      "link": "https://www.cnbc.com/2025/10/10/morgan-stanley-drops-crypto-fund-restrictions-for-wealth-clients.html",
+      "summary": "Morgan Stanley's move marks the latest expansion of access to crypto at the world's largest wealth management firm.",
+      "published": "Fri, 10 Oct 2025 13:22:57 GMT",
+      "content": "Morgan Stanley's move marks the latest expansion of access to crypto at the world's largest wealth management firm.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0b8485739c83d85848590b87cc137965",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MORGAN STANLEY OPENS CRYPTO FUNDS TO ALL WEALTH CLIENTS 🚀\n\n- Morgan Stanley removes restrictions on crypto fund ownership 💸\n- Access to crypto expands at the world's largest wealth management firm 🌍\n- Move reflects growing interest in cryptocurrency among investors 📈\n- Decision signals a shift in traditional finance towards digital assets 💰\n- Increasing adoption of crypto by major financial institutions 🏦\n\nTAKEAWAY: Morgan Stanley's decision to open up crypto funds to all wealth clients reflects a broader trend of growing interest and adoption of digital assets in traditional finance.",
+      "exported_at": "2025-10-10T09:27:32.948306",
       "continuous_session": true
     }
   ]
