@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T09:32:39.965332",
-    "total_articles": 2618,
-    "new_articles_in_last_fetch": 2618,
+    "created_at": "2025-10-10T09:37:50.651046",
+    "total_articles": 2619,
+    "new_articles_in_last_fetch": 2619,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -33993,6 +33993,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCK FUTURES STABLE AFTER S&P 500, NASDAQ PULLBACK ⚠️\n\n- S&P 500, Nasdaq reach record intraday highs 📈\n- Both indices retreat, closing lower 📉\n- Stock futures show minimal change post-pullback 📉\n\nTAKEAWAY: Despite record intraday highs, S&P 500 and Nasdaq pulled back, causing stock futures to stabilize after the market retreat.",
       "exported_at": "2025-10-10T09:32:39.770928",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks tick higher, S&amp;P 500 and Nasdaq head for weekly gains: Live updates",
+      "link": "https://www.cnbc.com/2025/10/09/stock-market-today-live-updates.html",
+      "summary": "Stocks ticked higher on Friday, with the S&amp;P 500 and Nasdaq Composite building on their weekly gains.",
+      "published": "Fri, 10 Oct 2025 13:34:26 GMT",
+      "content": "Stocks ticked higher on Friday, with the S&amp;P 500 and Nasdaq Composite building on their weekly gains.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9907ba200d1dbc79ba2283c0e6e7b191",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS TICK HIGHER, S&P 500 AND NASDAQ AIM FOR WEEKLY GAINS 🚀\n\n- S&P 500 and Nasdaq see uptrend on Friday 📈\n- Both indices set to secure weekly gains 📈\n- Market shows positive momentum as stocks rise 🚀\n\nTAKEAWAY: The S&P 500 and Nasdaq are on track for a week of gains, reflecting positive market sentiment and upward momentum.",
+      "exported_at": "2025-10-10T09:37:50.473724",
       "continuous_session": true
     }
   ]
