@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T06:23:35.060318",
-    "total_articles": 2594,
-    "new_articles_in_last_fetch": 2594,
+    "created_at": "2025-10-10T06:33:48.594176",
+    "total_articles": 2595,
+    "new_articles_in_last_fetch": 2595,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -33682,6 +33682,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: QUALCOMM SHARES PLUMMET AS CHINA LAUNCHES ANTITRUST PROBE 🚨\n\n- China opens antitrust probe into U.S. chip giant Qualcomm 🇨🇳\n- Qualcomm has a significant business selling chips to top Chinese firms 📱\n- Shares drop due to concerns over the antitrust investigation 📉\n\nTAKEAWAY: Qualcomm faces a challenging time as China's antitrust probe causes its shares to plummet, reflecting investor concerns over the investigation's impact on the chip giant's business.",
       "exported_at": "2025-10-10T06:23:34.878702",
+      "continuous_session": true
+    },
+    {
+      "title": "AMD gets a price target boost from TD Cowen on chipmaker’s partnership with OpenAI",
+      "link": "https://www.cnbc.com/2025/10/10/amd-gets-a-price-target-boost-from-td-cowen-on-chipmakers-partnership-with-openai.html",
+      "summary": "There may be more upside ahead from AMD's partnership with OpenAI, according to TD Cowen.",
+      "published": "Fri, 10 Oct 2025 10:24:53 GMT",
+      "content": "There may be more upside ahead from AMD's partnership with OpenAI, according to TD Cowen.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4dd98da14eede2d13bc7d4a35ce4f6de",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AMD'S STOCK SOARS AS TD COWEN RAISES PRICE TARGET 🚀\n\n- TD Cowen optimistic about AMD's partnership with OpenAI 💡\n- Price target raised due to potential upside ahead 📈\n- Partnership with OpenAI seen as a significant boost 💥\n- AMD's stock expected to benefit from the collaboration ✅\n- Positive outlook on AMD's future growth and performance 🚀\n\nTAKEAWAY: TD Cowen's price target boost for AMD reflects confidence in the chipmaker's partnership with OpenAI, signaling potential growth and performance ahead.",
+      "exported_at": "2025-10-10T06:33:48.396485",
       "continuous_session": true
     }
   ]
