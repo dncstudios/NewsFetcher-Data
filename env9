@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T14:18:51.666664",
-    "total_articles": 2656,
-    "new_articles_in_last_fetch": 2656,
+    "created_at": "2025-10-10T14:24:02.088201",
+    "total_articles": 2658,
+    "new_articles_in_last_fetch": 2658,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -34486,6 +34486,31 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: OPENAI'S SORA 2 VIDEO GENERATOR SHAKES HOLLYWOOD 🚀\n\n- OpenAI's Sora 2 video service sparks anxiety in US content creators\n- Hollywood rattled by the impact of advanced AI technology 🎥\n- Sora 2 launch fuels concerns about job displacement in the industry\n- Content creators in the U.S. on edge due to OpenAI's latest offering\n- Anxiety levels rise as Sora 2 video generator disrupts traditional filmmaking\n- Hollywood faces uncertainty with the rapid advancement of AI in content creation\n\nTAKEAWAY: OpenAI's Sora 2 video generator launch intensifies fears and concerns among Hollywood content creators, signaling a shift towards AI-driven filmmaking.",
       "exported_at": "2025-10-10T14:18:51.492265",
+      "continuous_session": true
+    },
+    {
+      "title": "Long-dated bonds are starting to break higher, says Carter Worth",
+      "link": "https://www.cnbc.com/2025/10/10/long-dated-bonds-are-starting-to-break-higher-says-carter-worth.html",
+      "summary": "Carter Worth breaks down the charts on TLT.",
+      "published": "Fri, 10 Oct 2025 18:14:19 GMT",
+      "content": "Carter Worth breaks down the charts on TLT.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a8a711e7eb00309524cd8144f52cd4a3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "exported_at": "2025-10-10T14:24:02.058824",
+      "continuous_session": true
+    },
+    {
+      "title": "Blast at Tennessee explosives plant leaves multiple dead, others missing",
+      "link": "https://www.cnbc.com/2025/10/10/blast-at-tennessee-explosives-plant-leaves-multiple-dead-others-missing.html",
+      "summary": "Multiple people are dead and several others are unaccounted for after a blast on Friday morning in Tennessee at a military explosives plant, according to law enforcement.",
+      "published": "Fri, 10 Oct 2025 18:10:41 GMT",
+      "content": "Multiple people are dead and several others are unaccounted for after a blast on Friday morning in Tennessee at a military explosives plant, according to law enforcement.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "78f0927484d544cd7a4698267001ff37",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRAGEDY STRIKES TENNESSEE EXPLOSIVES PLANT 🚨\n\n- Fatal blast at Tennessee military explosives plant\n- Multiple casualties reported by law enforcement\n- Search ongoing for missing individuals\n- Uncertainty surrounds the final toll of the tragedy\n- Incident raises concerns about safety protocols\n- Investigation underway to determine cause of explosion\n\nTAKEAWAY: A tragic blast at a Tennessee explosives plant results in multiple casualties, as search efforts continue for missing individuals, raising concerns about safety measures and prompting an investigation into the cause of the explosion.",
+      "exported_at": "2025-10-10T14:24:02.058837",
       "continuous_session": true
     }
   ]
