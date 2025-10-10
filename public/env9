@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T08:05:53.263488",
-    "total_articles": 2607,
-    "new_articles_in_last_fetch": 2607,
+    "created_at": "2025-10-10T08:11:02.461869",
+    "total_articles": 2609,
+    "new_articles_in_last_fetch": 2609,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -33851,6 +33851,31 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: COSTCO'S CLOTHING EMPIRE SOARS WITH 40% GROWTH 🚀\n\n- Costco's clothing business outshines BJ's and Sam's Club 🌟\n- Impressive 40% growth in the last five years 💪\n- Quietly building a multibillion-dollar clothing empire 🤫\n- Surpassing competitors in the retail clothing sector 🏆\n\nTAKEAWAY: Costco's silent yet remarkable 40% growth in its clothing business sets it apart from competitors, solidifying its position as a retail giant.",
       "exported_at": "2025-10-10T08:05:53.232429",
+      "continuous_session": true
+    },
+    {
+      "title": "Here are Friday&apos;s biggest analyst calls: Nvidia, Tesla, SharkNinja, Ferrari, Synchrony, Advanced Micro Devices, Caterpillar, Oracle &amp; more",
+      "link": "https://www.cnbc.com/2025/10/10/stocks-friday-from-analyst-calls-like-nvidia.html",
+      "summary": "Here are Friday's biggest calls on Wall Street.",
+      "published": "Fri, 10 Oct 2025 12:05:08 GMT",
+      "content": "Here are Friday's biggest calls on Wall Street.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6cf7751e1b0289ca992b719b556abad7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "exported_at": "2025-10-10T08:11:02.432207",
+      "continuous_session": true
+    },
+    {
+      "title": "This is the &apos;biggest mistake&apos; young investors make, Josh Brown says",
+      "link": "https://www.cnbc.com/2025/10/10/this-is-the-biggest-mistake-young-investors-make-josh-brown-says.html",
+      "summary": "Young investors worry about losing money in the stock market. But it may be riskier for them to avoid stocks in favor of cash and bonds, financial experts say.",
+      "published": "Fri, 10 Oct 2025 12:05:01 GMT",
+      "content": "Young investors worry about losing money in the stock market. But it may be riskier for them to avoid stocks in favor of cash and bonds, financial experts say.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e5a0827e3eac5722e7ce5ffd17866ccb",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: THE 'BIGGEST MISTAKE' YOUNG INVESTORS MAKE, JOSH BROWN WARNS 💡\n\n- Young investors fear stock market losses 📉\n- Experts caution against favoring cash and bonds over stocks 🚫\n- Missing out on stock market gains may pose bigger risk 📈\n\nTAKEAWAY: Josh Brown highlights the risk young investors face by avoiding stocks, emphasizing the potential missed opportunities for growth.",
+      "exported_at": "2025-10-10T08:11:02.432217",
       "continuous_session": true
     }
   ]
