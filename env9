@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T04:06:06.005180",
-    "total_articles": 2586,
-    "new_articles_in_last_fetch": 2586,
+    "created_at": "2025-10-10T04:51:48.008992",
+    "total_articles": 2587,
+    "new_articles_in_last_fetch": 2587,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -33578,6 +33578,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FRANCE: EUROPE'S NEW 'BAD BOY' 🚨\n\n- France considers technocratic government for stability 📈\n- Technocratic approach appears promising on paper ✅\n- Challenges exist, casting doubt on its effectiveness ⚠️\n- Key reason why technocratic government may fail 🤔\n\nTAKEAWAY: France's consideration of a technocratic government as a solution reflects a quest for stability, but challenges may hinder its effectiveness.",
       "exported_at": "2025-10-10T04:06:05.905109",
+      "continuous_session": true
+    },
+    {
+      "title": "Israel approves Trump’s peace plan, clearing the way for a ceasefire in Gaza",
+      "link": "https://www.cnbc.com/2025/10/10/israel-approves-trump-peace-plan-paving-the-way-for-a-gaza-ceasefire.html",
+      "summary": "The Israeli cabinet ratified the agreement in the early hours of Friday morning.",
+      "published": "Fri, 10 Oct 2025 08:49:19 GMT",
+      "content": "The Israeli cabinet ratified the agreement in the early hours of Friday morning.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e62868309ca91d5cc76cce8765190bcd",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ISRAEL RATIFIES TRUMP'S PEACE PLAN, SPARKING CEASEFIRE HOPE 🕊️\n\n- Israeli cabinet approves agreement for Gaza ceasefire 🤝\n- Key step towards peace after ratification early Friday 🌅\n- Trump's peace plan gains momentum in the region 🚀\n\nTAKEAWAY: Israel's approval of Trump's peace plan signals progress towards a ceasefire in Gaza, fostering hope for peace in the region.",
+      "exported_at": "2025-10-10T04:51:47.820269",
       "continuous_session": true
     }
   ]
