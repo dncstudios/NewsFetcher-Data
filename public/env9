@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T16:11:16.187788",
-    "total_articles": 2670,
-    "new_articles_in_last_fetch": 2670,
+    "created_at": "2025-10-10T16:21:27.331895",
+    "total_articles": 2671,
+    "new_articles_in_last_fetch": 2671,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -34667,6 +34667,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ROCKET LAB'S STOCK SOARS 25% THIS WEEK AFTER NEW LAUNCH DEALS 🚀\n\n- Rocket Lab gains 25% following multiple new launch contracts 📈\n- Surge in stock value attributed to recent flurry of deals 🔥\n- Company's success reflected in market excitement 🎉\n\nTAKEAWAY: Rocket Lab's stock surges 25% fueled by a series of new launch contracts, showcasing market confidence in the company's growth potential.",
       "exported_at": "2025-10-10T16:11:15.988606",
+      "continuous_session": true
+    },
+    {
+      "title": "Qatar Air Force facility to be built at USAF base in Idaho, Defense Secretary Hegseth says",
+      "link": "https://www.cnbc.com/2025/10/10/us-qatar-air-force-idaho-hegseth-defense.html",
+      "summary": "Hegseth The Defense secretary made the announcement at a Pentagon press conference with  Sheikh Saoud bin Abdulrahman Al Thani, Qatar's defense minister.",
+      "published": "Fri, 10 Oct 2025 20:20:29 GMT",
+      "content": "Hegseth The Defense secretary made the announcement at a Pentagon press conference with  Sheikh Saoud bin Abdulrahman Al Thani, Qatar's defense minister.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "cd76a0365693da6358a5fb65e8bfd48c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: U.S. TO HOST QATARI AIR FORCE FACILITY IN IDAHO 🚀\n\n- Qatar Air Force facility to be hosted in Idaho ✈️\n- Announcement made by Defense Secretary Hegseth 🇺🇸\n- Press conference held with Qatar's Defense Minister 🤝\n\nTAKEAWAY: Hosting Qatar's Air Force facility in Idaho signifies strengthened defense ties, boosting collaboration between the U.S. and Qatar.",
+      "exported_at": "2025-10-10T16:21:27.121469",
       "continuous_session": true
     }
   ]
