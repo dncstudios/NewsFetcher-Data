@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T17:48:11.251873",
-    "total_articles": 2678,
-    "new_articles_in_last_fetch": 2678,
+    "created_at": "2025-10-10T18:23:44.889052",
+    "total_articles": 2679,
+    "new_articles_in_last_fetch": 2679,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -34771,6 +34771,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP SECURES DEAL WITH ASTRAZENECA TO CUT U.S. DRUG PRICES 🚀\n\n- Trump seals deal with AstraZeneca after Pfizer agreement 💊\n- Aim to lower drug prices in the United States 📉\n- Partnership expected to impact healthcare costs positively ✅\n\nTAKEAWAY: Trump's recent deal with AstraZeneca aims to reduce U.S. drug prices, following a similar agreement with Pfizer, potentially benefiting healthcare affordability.",
       "exported_at": "2025-10-10T17:48:11.221884",
+      "continuous_session": true
+    },
+    {
+      "title": "Apple nears deal to acquire talent and technology from computer vision startup Prompt AI",
+      "link": "https://www.cnbc.com/2025/10/10/apple-nears-deal-to-acquire-talent-tech-from-ai-startup-prompt-ai.html",
+      "summary": "Apple is in late-stage talks with startup Prompt AI to bring on the company's employees and its computer vision technology.",
+      "published": "Fri, 10 Oct 2025 22:22:20 GMT",
+      "content": "Apple is in late-stage talks with startup Prompt AI to bring on the company's employees and its computer vision technology.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "333c73307457718f3f0295dc82267ceb",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: APPLE CLOSING IN ON ACQUIRING TALENT & TECH FROM PROMPT AI 🚀\n\n- Apple in advanced discussions to acquire Prompt AI's tech & team 💼\n- Deal to enhance Apple's computer vision capabilities 📈\n- Prompt AI known for innovative solutions in the AI space 🔍\n- Acquisition aligns with Apple's focus on enhancing its technology offerings ✨\n\nTAKEAWAY: Apple's potential acquisition of Prompt AI showcases its commitment to staying at the forefront of cutting-edge technology through talent and innovation.",
+      "exported_at": "2025-10-10T18:23:44.858520",
       "continuous_session": true
     }
   ]
