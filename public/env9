@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T15:40:38.198889",
-    "total_articles": 2665,
-    "new_articles_in_last_fetch": 2665,
+    "created_at": "2025-10-10T15:45:49.098683",
+    "total_articles": 2667,
+    "new_articles_in_last_fetch": 2667,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -34602,6 +34602,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCKS PLUNGE AFTER TRUMP LABELS CHINA 'HOSTILE' OVER RARE EARTHS 🚨\n\n- Market experiences rapid sell-off post Trump's China comments 📉\n- Investors react to cancellation of Xi meeting 🤔\n- Uncertainty looms over future US-China relations ⚠️\n\nTAKEAWAY: Trump's remarks on China's rare earths stance trigger a stock market sell-off, fueling uncertainty in US-China relations and investor sentiment.",
       "exported_at": "2025-10-10T15:40:38.009317",
+      "continuous_session": true
+    },
+    {
+      "title": "U.S. will host Qatari Air Force facility in Idaho, Defense Secretary Hegseth says",
+      "link": "https://www.cnbc.com/2025/10/10/us-qatar-air-force-idaho-hegseth-defense.html",
+      "summary": "Hegseth The Defense secretary made the announcement at a Pentagon press conference with  Sheikh Saoud bin Abdulrahman Al Thani, Qatar's defense minister.",
+      "published": "Fri, 10 Oct 2025 19:39:40 GMT",
+      "content": "Hegseth The Defense secretary made the announcement at a Pentagon press conference with  Sheikh Saoud bin Abdulrahman Al Thani, Qatar's defense minister.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "25d0fd4aed420335bb151d964e6be7c4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: U.S. TO HOST QATARI AIR FORCE FACILITY IN IDAHO 🚀\n\n- Qatar Air Force facility to be hosted in Idaho ✈️\n- Announcement made by Defense Secretary Hegseth 🇺🇸\n- Press conference held with Qatar's Defense Minister 🤝\n\nTAKEAWAY: Hosting Qatar's Air Force facility in Idaho signifies strengthened defense ties, boosting collaboration between the U.S. and Qatar.",
+      "exported_at": "2025-10-10T15:45:49.068537",
+      "continuous_session": true
+    },
+    {
+      "title": "Airlines tell passengers to prepare for delays as government shutdown continues",
+      "link": "https://www.cnbc.com/2025/10/10/government-shutdown-airlines-passengers-delays.html",
+      "summary": "Air traffic control staffing shortages have driven up some flight delays at U.S. airports this week.",
+      "published": "Fri, 10 Oct 2025 19:43:14 GMT",
+      "content": "Air traffic control staffing shortages have driven up some flight delays at U.S. airports this week.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0f24093c44bb14fae02022fa4a752e86",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AIRLINES WARN PASSENGERS OF DELAYS DUE TO GOVERNMENT SHUTDOWN ⚠️\n\n- Air traffic control shortages cause flight delays 🛫\n- Passengers advised to expect longer wait times ⏳\n- U.S. airports affected by staffing issues ✈️\n- Government shutdown impact felt in air travel 🌐\n- Delays escalate as control staffing decreases 📉\n\nTAKEAWAY: Airlines caution passengers to brace for delays amidst rising flight disruptions caused by government shutdown-related air traffic control staffing shortages.",
+      "exported_at": "2025-10-10T15:45:49.068546",
       "continuous_session": true
     }
   ]
