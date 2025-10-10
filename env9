@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T04:51:48.008992",
-    "total_articles": 2587,
-    "new_articles_in_last_fetch": 2587,
+    "created_at": "2025-10-10T05:22:20.128278",
+    "total_articles": 2589,
+    "new_articles_in_last_fetch": 2589,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -33591,6 +33591,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ISRAEL RATIFIES TRUMP'S PEACE PLAN, SPARKING CEASEFIRE HOPE 🕊️\n\n- Israeli cabinet approves agreement for Gaza ceasefire 🤝\n- Key step towards peace after ratification early Friday 🌅\n- Trump's peace plan gains momentum in the region 🚀\n\nTAKEAWAY: Israel's approval of Trump's peace plan signals progress towards a ceasefire in Gaza, fostering hope for peace in the region.",
       "exported_at": "2025-10-10T04:51:47.820269",
+      "continuous_session": true
+    },
+    {
+      "title": "Tesla faces U.S. auto safety probe after reports FSD ran red lights, caused collisions",
+      "link": "https://www.cnbc.com/2025/10/09/tesla-auto-safety-probe-fsd-collisions.html",
+      "summary": "For years, Tesla CEO Elon Musk has promised investors that Tesla would someday be able to turn their existing electric vehicles into robotaxis.",
+      "published": "Thu, 09 Oct 2025 20:09:39 GMT",
+      "content": "For years, Tesla CEO Elon Musk has promised investors that Tesla would someday be able to turn their existing electric vehicles into robotaxis.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d8fadbded0e04b068a77b60d1810a639",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TESLA UNDER U.S. AUTO SAFETY PROBE FOR FSD INCIDENTS 🚨\n\n- Tesla's Full Self-Driving (FSD) under scrutiny for running red lights 🚦\n- Reports show FSD causing collisions, triggering safety concerns 🔴\n- CEO Elon Musk's vision of Tesla robotaxis faces regulatory obstacles 🤖\n\nTAKEAWAY: Tesla's Full Self-Driving technology faces safety probe after incidents, raising concerns over Elon Musk's robotaxi ambitions.",
+      "exported_at": "2025-10-10T05:22:19.943413",
+      "continuous_session": true
+    },
+    {
+      "title": "Nike, Starbucks score well among teen shoppers — and Microsoft has fans in the C-suite",
+      "link": "https://www.cnbc.com/2025/10/09/nike-starbucks-score-well-among-teen-shoppers-and-microsoft-has-fans-in-the-c-suite.html",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "published": "Thu, 09 Oct 2025 18:53:37 GMT",
+      "content": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "95425d32f3bf969adcc4aa626f1823db",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NIKE AND STARBUCKS SHINE WITH TEEN SHOPPERS 🌟\n\n- Nike and Starbucks popular with teen shoppers 🛍️\n- Microsoft gains admiration from C-suite executives 💼\n- Investing Club's Homestretch provides timely trading insights 📈\n\nTAKEAWAY: Nike and Starbucks stand out among teen shoppers, while Microsoft earns respect from C-suite executives, as Investing Club's Homestretch offers valuable trading updates.",
+      "exported_at": "2025-10-10T05:22:19.943476",
       "continuous_session": true
     }
   ]
