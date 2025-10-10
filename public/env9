@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T09:53:12.016003",
-    "total_articles": 2622,
-    "new_articles_in_last_fetch": 2622,
+    "created_at": "2025-10-10T10:18:40.565827",
+    "total_articles": 2626,
+    "new_articles_in_last_fetch": 2626,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -34044,6 +34044,58 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: QUALCOMM SHARES PLUMMET AS CHINA LAUNCHES ANTITRUST PROBE 🚨\n\n- China opens antitrust probe into U.S. chip giant Qualcomm 🇨🇳\n- Qualcomm has a significant business selling chips to top Chinese firms 📱\n- Shares drop due to concerns over the antitrust investigation 📉\n\nTAKEAWAY: Qualcomm faces a challenging time as China's antitrust probe causes its shares to plummet, reflecting investor concerns over the investigation's impact on the chip giant's business.",
       "exported_at": "2025-10-10T09:53:11.838736",
+      "continuous_session": true
+    },
+    {
+      "title": "With U.S. port fees on Chinese-built ships coming, ocean freight carriers scramble to avoid surprise financial hit",
+      "link": "https://www.cnbc.com/2025/10/10/ocean-freight-carriers-port-fees-china-shipbuilding-vessels.html",
+      "summary": "Confusion over looming port fee rules on China-built containerships has ocean carriers scrutinizing financing deals that could deem them to be Chinese entities.",
+      "published": "Fri, 10 Oct 2025 14:13:50 GMT",
+      "content": "Confusion over looming port fee rules on China-built containerships has ocean carriers scrutinizing financing deals that could deem them to be Chinese entities.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b4614eb13d4bf25bbb2450891b60991c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: OCEAN CARRIERS GRAPPLE WITH U.S. PORT FEES ON CHINA-BUILT SHIPS 🚨\n\n- U.S. port fee rules on China-built ships spark carrier concerns ⚠️\n- Ocean carriers review financing deals to avoid Chinese entity status 🔄\n- Confusion looms over potential financial impact 💰\n- Scrutiny intensifies among carriers facing surprise fees 🧐\n- Fear of unexpected financial burden grips ocean freight industry 💼\n\nTAKEAWAY: Ocean carriers face uncertainty and financial risks as they navigate U.S. port fees on China-built ships, leading to intensified scrutiny and concerns in the industry.",
+      "exported_at": "2025-10-10T10:18:40.384308",
+      "continuous_session": true
+    },
+    {
+      "title": "BMO says buy this little-known energy stock that&apos;s cheap, can jump more than 25%",
+      "link": "https://www.cnbc.com/2025/10/10/bmo-says-buy-this-little-known-energy-stock-thats-cheap-can-jump-more-than-25percent.html",
+      "summary": "BMO Capital Markets foresees shares of Weatherford International rising 27% from here.",
+      "published": "Fri, 10 Oct 2025 14:08:20 GMT",
+      "content": "BMO Capital Markets foresees shares of Weatherford International rising 27% from here.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9fa6a044b6dc906a712f6e9682442f62",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BMO TOUTS WEATHERFORD INTERNATIONAL STOCK, PREDICTS 27% SURGE 🚀\n\n- BMO Capital Markets recommends buying Weatherford International shares\n- Forecasts a potential 27% increase in stock value\n- Weatherford International is described as an undervalued energy stock\n- Investors urged to consider buying shares now for potential gains\n- BMO sees significant growth potential in Weatherford International\n- Positive outlook on Weatherford International's future performance\n\nTAKEAWAY: BMO Capital Markets is bullish on Weatherford International, predicting a substantial 27% surge in stock value, making it a promising investment opportunity.",
+      "exported_at": "2025-10-10T10:18:40.384387",
+      "continuous_session": true
+    },
+    {
+      "title": "UPS is &apos;disposing of&apos; U.S.-bound packages over customs paperwork problems",
+      "link": "https://www.cnbc.com/2025/10/10/ups-is-disposing-of-us-bound-packages-over-customs-paperwork-problems.html",
+      "summary": "Shifting Trump tariffs have created a nightmare for UPS, as thousands of packages from overseas pile up at its hubs while they await customs clearance.",
+      "published": "Fri, 10 Oct 2025 14:03:34 GMT",
+      "content": "Shifting Trump tariffs have created a nightmare for UPS, as thousands of packages from overseas pile up at its hubs while they await customs clearance.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ad8f0df0e77c78750dade6d2ba930b68",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: UPS STRUGGLES WITH CUSTOMS PAPERWORK NIGHTMARE 🚨\n\n- Thousands of overseas packages stuck in UPS hubs 📦\n- Delays caused by shifting Trump tariffs 🔄\n- UPS facing challenges with U.S.-bound packages 🇺🇸\n\nTAKEAWAY: UPS grapples with customs paperwork issues due to shifting Trump tariffs, causing delays for thousands of overseas packages bound for the U.S. 🚨",
+      "exported_at": "2025-10-10T10:18:40.384401",
+      "continuous_session": true
+    },
+    {
+      "title": "Inside Wealth: More than half of entrepreneurs are considering moving to a new country. Singapore is their top option",
+      "link": "https://www.cnbc.com/2025/10/10/entrepreneurs-moving-motivations-hsbc-survey.html",
+      "summary": "Tax savings were one of the least-cited reasons to move, with entrepreneurs more likely to cite personal safety or expanding their business as motivations.",
+      "published": "Fri, 10 Oct 2025 14:08:46 GMT",
+      "content": "Tax savings were one of the least-cited reasons to move, with entrepreneurs more likely to cite personal safety or expanding their business as motivations.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7fe0fc3a35b018026cb3c1f524016cc3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: INSIDE WEALTH: ENTREPRENEURS EYEING GLOBAL MOVES 🚀\n\n- 50%+ entrepreneurs mull relocating, Singapore top choice 🌏\n- Tax savings less cited; safety, business growth prime motivators 🔍\n- Personal safety, business expansion key factors driving moves 💼\n\nTAKEAWAY: Entrepreneurs globally eyeing relocation, with Singapore as a top destination, driven by safety and business expansion over tax incentives.",
+      "exported_at": "2025-10-10T10:18:40.384413",
       "continuous_session": true
     }
   ]
