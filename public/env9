@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T15:04:56.434901",
-    "total_articles": 2662,
-    "new_articles_in_last_fetch": 2662,
+    "created_at": "2025-10-10T15:15:11.740041",
+    "total_articles": 2664,
+    "new_articles_in_last_fetch": 2664,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -34563,6 +34563,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WALL STREET'S MOMENTUM DAMPENED BY TARIFF CONCERNS 🚨\n\n- Trade tensions between U.S. and China disrupt market enthusiasm 🌍\n- Investors cautious as big banks prepare to report earnings 🏦\n- Resurgence in tariff concerns impacts market sentiment 📉\n\nTAKEAWAY: Wall Street's momentum takes a hit as trade tensions between the U.S. and China resurface, causing investor caution ahead of big banks' earnings reports.",
       "exported_at": "2025-10-10T15:04:56.250214",
+      "continuous_session": true
+    },
+    {
+      "title": "Market sell-off on Trump&apos;s China tariff threat worsens into the close with the Dow down 700 points: Live updates",
+      "link": "https://www.cnbc.com/2025/10/09/stock-market-today-live-updates.html",
+      "summary": "The Trump post sparked a rapid sell-off in stocks Friday.",
+      "published": "Fri, 10 Oct 2025 19:14:34 GMT",
+      "content": "The Trump post sparked a rapid sell-off in stocks Friday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "196ccceddf069c6bd99510e3786fdb9e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS PLUNGE AFTER TRUMP LABELS CHINA 'HOSTILE' OVER RARE EARTHS 🚨\n\n- Market experiences rapid sell-off post Trump's China comments 📉\n- Investors react to cancellation of Xi meeting 🤔\n- Uncertainty looms over future US-China relations ⚠️\n\nTAKEAWAY: Trump's remarks on China's rare earths stance trigger a stock market sell-off, fueling uncertainty in US-China relations and investor sentiment.",
+      "exported_at": "2025-10-10T15:15:11.558388",
+      "continuous_session": true
+    },
+    {
+      "title": "Bitcoin drops as government shutdown continues for tenth straight day: CNBC Crypto World",
+      "link": "https://www.cnbc.com/video/2025/10/10/bitcoin-drops-as-government-shutdown-continues-for-tenth-straight-day-cnbc-crypto-world.html",
+      "summary": "On today's episode of CNBC Crypto World, major cryptocurrencies fall to end the week as the government shutdown continues. Plus, Morgan Stanley broadens access to crypto investments to all clients. And, former SEC attorney Ashley Ebersole weighs in on how the agency is operating under the Trump administration compared to the Biden administration.",
+      "published": "Fri, 10 Oct 2025 19:00:02 GMT",
+      "content": "On today's episode of CNBC Crypto World, major cryptocurrencies fall to end the week as the government shutdown continues. Plus, Morgan Stanley broadens access to crypto investments to all clients. And, former SEC attorney Ashley Ebersole weighs in on how the agency is operating under the Trump administration compared to the Biden administration.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6b92f815c4065e59975ad16b7501d3f3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BITCOIN DROPS AMID GOVERNMENT SHUTDOWN 📉\n\n- Major cryptocurrencies plummet due to ongoing government shutdown 📉\n- Bitcoin and other cryptos end the week on a downward trend 🔻\n- Morgan Stanley opens up crypto investment access to all clients ✅\n- Former SEC attorney discusses agency operations under Trump vs. Biden 🏛️\n- Market reacts to uncertainties caused by the shutdown 📉⚠️\n\nTAKEAWAY: Bitcoin and major cryptocurrencies face a downward trend amidst the government shutdown, while Morgan Stanley's move to expand access to crypto investments signals growing mainstream interest in the market.",
+      "exported_at": "2025-10-10T15:15:11.558459",
       "continuous_session": true
     }
   ]
