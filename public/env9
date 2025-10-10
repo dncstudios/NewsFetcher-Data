@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T06:44:01.994018",
-    "total_articles": 2596,
-    "new_articles_in_last_fetch": 2596,
+    "created_at": "2025-10-10T07:04:26.600052",
+    "total_articles": 2598,
+    "new_articles_in_last_fetch": 2598,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -33708,6 +33708,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CHINA HITS BACK AT U.S. PORT FEES WITH NEW CHARGES ON AMERICAN SHIPS ⚠️\n\n- China retaliates against U.S. with charges on American ships 🚢\n- New fees follow escalated restrictions on rare earths exports 🛑\n- Ongoing tensions between China and the U.S. fuel retaliatory actions ⚠️\n\nTAKEAWAY: China's response to U.S. port fees with new charges on American ships escalates trade tensions, impacting global shipping and trade relations.",
       "exported_at": "2025-10-10T06:44:01.805452",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump&apos;s Fed chair candidates list narrowed down to five by Bessent after interviews, sources say",
+      "link": "https://www.cnbc.com/2025/10/10/trumps-fed-chair-candidates-list-narrowed-down-to-five-by-bessent-after-interviews-sources-say.html",
+      "summary": "Treasury plans to hold another round of interviews with all five candidates in the coming weeks and months.",
+      "published": "Fri, 10 Oct 2025 11:03:51 GMT",
+      "content": "Treasury plans to hold another round of interviews with all five candidates in the coming weeks and months.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "909a2b09bcf428dfd65d2e9eddb6b233",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP'S FED CHAIR CANDIDATES NARROWED DOWN TO FINAL FIVE BY BESSANT 🚀\n\n- Bessant narrows down Fed chair candidates after interviews 🌟\n- Treasury schedules follow-up interviews with final five 🗓️\n- Final decision on Fed chair to be made in the upcoming weeks and months 🕒\n\nTAKEAWAY: Bessant's selection of the final five candidates for the Fed chair position signals progress towards a decision in the near future, bringing anticipation to the financial market.",
+      "exported_at": "2025-10-10T07:04:26.503986",
+      "continuous_session": true
+    },
+    {
+      "title": "Here are Goldman&apos;s top trades for earnings season",
+      "link": "https://www.cnbc.com/2025/10/10/here-are-goldmans-top-trades-for-earnings-season.html",
+      "summary": "Stocks that could rise on the back of their next quarterly earnings include Hershey and Wynn Resorts.",
+      "published": "Fri, 10 Oct 2025 10:45:00 GMT",
+      "content": "Stocks that could rise on the back of their next quarterly earnings include Hershey and Wynn Resorts.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e0b1e688863937c1de00f4b7c25caf30",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GOLDMAN'S TOP EARNINGS SEASON TRADES 🚀\n\n- Goldman predicts Hershey and Wynn Resorts to soar post earnings 📈\n- Hershey and Wynn Resorts identified as top performers 🔝\n\nTAKEAWAY: Goldman recommends betting on Hershey and Wynn Resorts for potential gains after their next quarterly earnings reports.",
+      "exported_at": "2025-10-10T07:04:26.504051",
       "continuous_session": true
     }
   ]
