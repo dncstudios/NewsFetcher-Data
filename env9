@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T08:11:02.461869",
-    "total_articles": 2609,
-    "new_articles_in_last_fetch": 2609,
+    "created_at": "2025-10-10T08:36:27.683521",
+    "total_articles": 2610,
+    "new_articles_in_last_fetch": 2610,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -33876,6 +33876,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: THE 'BIGGEST MISTAKE' YOUNG INVESTORS MAKE, JOSH BROWN WARNS 💡\n\n- Young investors fear stock market losses 📉\n- Experts caution against favoring cash and bonds over stocks 🚫\n- Missing out on stock market gains may pose bigger risk 📈\n\nTAKEAWAY: Josh Brown highlights the risk young investors face by avoiding stocks, emphasizing the potential missed opportunities for growth.",
       "exported_at": "2025-10-10T08:11:02.432217",
+      "continuous_session": true
+    },
+    {
+      "title": "How federal workers became a bargaining chip in the government shutdown",
+      "link": "https://www.cnbc.com/2025/10/10/why-president-trump-wants-to-fire-federal-workers.html",
+      "summary": "The government may fire thousands of federal workers during the shutdown, advancing the long-term goals of influential conservatives in Washington.",
+      "published": "Fri, 10 Oct 2025 12:24:03 GMT",
+      "content": "The government may fire thousands of federal workers during the shutdown, advancing the long-term goals of influential conservatives in Washington.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c27bda00731a7d8436bf100bbf639126",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FEDERAL WORKERS AS BARGAINING CHIP IN GOV'T SHUTDOWN ⚠️\n\n- Thousands of federal workers at risk of termination 🚨\n- Shutdown benefits influential conservatives' objectives 💼\n- Uncertainty looms over the fate of federal employees 🤔\n\nTAKEAWAY: Federal workers are caught in the crossfire of the government shutdown, facing potential job loss as influential conservatives advance their agenda.",
+      "exported_at": "2025-10-10T08:36:27.518421",
       "continuous_session": true
     }
   ]
