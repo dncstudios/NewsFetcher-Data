@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-09T19:02:55.858271",
-    "total_articles": 2574,
-    "new_articles_in_last_fetch": 2574,
+    "created_at": "2025-10-09T20:19:01.689573",
+    "total_articles": 2575,
+    "new_articles_in_last_fetch": 2575,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -33422,6 +33422,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: U.S. SENDING 200 TROOPS TO ISRAEL TO SUPPORT GAZA CEASEFIRE 🚀\n\n- 200 troops deployed to Israel for Gaza ceasefire support 🕊️\n- Team includes partner nations, NGOs, and private sector players 💪\n- Mission aims to monitor and uphold the ceasefire agreement ✅\n\nTAKEAWAY: The U.S. deploys 200 troops to Israel, joining forces with various entities to support and monitor the Gaza ceasefire, promoting peace and stability in the region.",
       "exported_at": "2025-10-09T19:02:55.692076",
+      "continuous_session": true
+    },
+    {
+      "title": "Asia-Pacific markets open lower, tracking Wall Street losses",
+      "link": "https://www.cnbc.com/2025/10/10/asia-pacific-markets-friday-nikkei-225-kospi.html",
+      "summary": "Asia-Pacific markets traded lower Friday, tracking Wall Street declines as investors assess the state of the economy.",
+      "published": "Fri, 10 Oct 2025 00:16:45 GMT",
+      "content": "Asia-Pacific markets traded lower Friday, tracking Wall Street declines as investors assess the state of the economy.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "44d61e0af971fd21267f4ecc2fe1211f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASIA-PACIFIC MARKETS OPEN LOWER, FOLLOWING WALL STREET LOSSES 📉\n\n- Friday sees Asia-Pacific markets trading lower 🌏\n- Investors evaluate economy as they track Wall Street declines 📉\n- Market sentiment impacted by Wall Street losses 📊\n\nTAKEAWAY: Asia-Pacific markets open lower, mirroring Wall Street's decline, as investors analyze the economic landscape.",
+      "exported_at": "2025-10-09T20:19:01.500428",
       "continuous_session": true
     }
   ]
