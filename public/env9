@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T12:16:13.688708",
-    "total_articles": 2645,
-    "new_articles_in_last_fetch": 2645,
+    "created_at": "2025-10-10T12:51:54.682994",
+    "total_articles": 2648,
+    "new_articles_in_last_fetch": 2648,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -34343,6 +34343,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WHITE HOUSE CRITICIZES NOBEL COMMITTEE; PEACE PRIZE WINNER PRAISES TRUMP 🚀\n\n- Trump's allies advocate for Nobel Peace Prize nomination 🏅\n- Nomination deadline expired early in Trump's current term ⏰\n- White House expresses disappointment over Nobel snub 🤨\n- Peace Prize winner praises Trump's peace efforts 🕊️\n- Republican allies continue to support Trump's nomination 🎯\n\nTAKEAWAY: Despite missing the nomination deadline, Trump's allies push for his Nobel Peace Prize, receiving criticism from the White House while gaining praise from a past Peace Prize winner.",
       "exported_at": "2025-10-10T12:16:13.655005",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump official says federal layoffs &apos;have begun&apos; amid government shutdown",
+      "link": "https://www.cnbc.com/2025/10/10/trump-russ-vought-layoffs-government-shutdown.html",
+      "summary": "The Trump administration and Republicans have sought to blame Democrats for the government shutdown, and any negative fallout from it.",
+      "published": "Fri, 10 Oct 2025 16:49:26 GMT",
+      "content": "The Trump administration and Republicans have sought to blame Democrats for the government shutdown, and any negative fallout from it.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fd3658a320b2d29b79f1f6c36f53a4fe",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP OFFICIAL CONFIRMS FEDERAL LAYOFFS AMID SHUTDOWN ⚠️\n\n- Federal layoffs initiated as government shutdown continues 📉\n- Trump admin shifts blame to Democrats for shutdown fallout ⚠️\n- Republicans support Trump's stance on shutdown 🐘\n- Democrats face criticism for government shutdown impact 💼\n\nTAKEAWAY: Federal layoffs kick off as Trump administration and Republicans accuse Democrats of government shutdown consequences.",
+      "exported_at": "2025-10-10T12:51:54.486108",
+      "continuous_session": true
+    },
+    {
+      "title": "How new federal tax changes for 2026 may affect families",
+      "link": "https://www.cnbc.com/2025/10/10/irs-2026-tax-changes-child-tax-credit-family-refunds.html",
+      "summary": "The IRS has announced new federal tax changes for 2026  that may affect what families may owe and the refunds they may receive.",
+      "published": "Fri, 10 Oct 2025 16:49:52 GMT",
+      "content": "The IRS has announced new federal tax changes for 2026  that may affect what families may owe and the refunds they may receive.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "df003ac11ce0b3c45c8a0a76f6d4b3a7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NEW FEDERAL TAX CHANGES FOR 2026: WHAT FAMILIES NEED TO KNOW ⚠️\n\n- IRS unveils new federal tax changes for 2026 💼\n- Changes could impact families' owed amounts and refunds 💸\n- Families urged to stay updated on tax regulations 📈\n- Possible adjustments in tax brackets and deductions 📊\n- Implications on financial planning and budgeting 📅\n- Details on changes yet to be fully disclosed 🤔\n\nTAKEAWAY: The IRS's new federal tax changes for 2026 may lead to shifts in owed amounts, refunds, and tax strategies, urging families to stay informed for effective financial planning.",
+      "exported_at": "2025-10-10T12:51:54.486186",
+      "continuous_session": true
+    },
+    {
+      "title": "NBA Commissioner Adam Silver says &apos;we&apos;d love to bring a WNBA game&apos; to China",
+      "link": "https://www.cnbc.com/2025/10/10/nba-commissioner-adam-silver-wnba-games-china.html",
+      "summary": "NBA Commissioner Adam Silver is looking to grow the NBA's footprint in China.",
+      "published": "Fri, 10 Oct 2025 16:41:25 GMT",
+      "content": "NBA Commissioner Adam Silver is looking to grow the NBA's footprint in China.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "607ad404dfea9cca1aedc52d0004b944",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NBA COMMISSIONER SILVER EYES WNBA GAME IN CHINA 🏀\n\n- Adam Silver aims to expand NBA presence in China 🇨🇳\n- Plans to introduce a WNBA game in the Chinese market 🌏\n- Strategic move to increase basketball's popularity in China 📈\n\nTAKEAWAY: NBA Commissioner Adam Silver's initiative to bring a WNBA game to China demonstrates a strategic effort to expand basketball's reach and popularity in the Chinese market.",
+      "exported_at": "2025-10-10T12:51:54.486198",
       "continuous_session": true
     }
   ]
