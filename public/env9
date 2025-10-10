@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T16:26:37.487181",
-    "total_articles": 2672,
-    "new_articles_in_last_fetch": 2672,
+    "created_at": "2025-10-10T16:36:52.188298",
+    "total_articles": 2673,
+    "new_articles_in_last_fetch": 2673,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -34693,6 +34693,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SPIRIT AIRLINES SECURES $625 MILLION LIFELINE IN BANKRUPTCY COURT 🚀\n\n- $475M lifeline from bondholders, $150M from aircraft lessor 💰\n- Lifeline crucial for Spirit Airlines amid bankruptcy proceedings 🛫\n- Funds to support operations and financial stability 📈\n- Boosts confidence in Spirit's ability to navigate bankruptcy 💪\n\nTAKEAWAY: Spirit Airlines' successful approval of a $625 million lifeline from bondholders and an aircraft lessor bolsters its financial position during bankruptcy, ensuring operational support and stability.",
       "exported_at": "2025-10-10T16:26:37.304897",
+      "continuous_session": true
+    },
+    {
+      "title": "France&apos;s Macron reappoints former prime minister Lecornu as PM",
+      "link": "https://www.cnbc.com/2025/10/10/frances-macron-reappoints-former-prime-minister-lecornu-as-pm.html",
+      "summary": "French President Emmanuel Macron on Friday named Sebastien Lecornu as prime minister, reappointing him after he quit the job earlier this week.",
+      "published": "Fri, 10 Oct 2025 20:27:51 GMT",
+      "content": "French President Emmanuel Macron on Friday named Sebastien Lecornu as prime minister, reappointing him after he quit the job earlier this week.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e341e7a56c1d9ed949c5414994ac5c61",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FRANCE'S MACRON REAPPOINTS LECORNU AS PRIME MINISTER 🚀\n\n- Macron reinstates Sebastien Lecornu as prime minister 🇫🇷\n- Lecornu returns to the role after resigning recently 🔙\n- Continuity in leadership with Lecornu's reappointment 🔄\n\nTAKEAWAY: Macron's decision to reappoint Lecornu as prime minister ensures stability and continuity in French leadership.",
+      "exported_at": "2025-10-10T16:36:52.011735",
       "continuous_session": true
     }
   ]
