@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T07:24:57.847601",
-    "total_articles": 2601,
-    "new_articles_in_last_fetch": 2601,
+    "created_at": "2025-10-10T07:40:17.264218",
+    "total_articles": 2603,
+    "new_articles_in_last_fetch": 2603,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -33773,6 +33773,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SINGAPORE PROBES MEGASPEED OVER CHINA EXPORT VIOLATIONS ⚠️\n\n- Singapore investigates Megaspeed, Nvidia customer, for export violations 🕵️‍♂️\n- Allegations of breaching domestic laws under scrutiny 🧐\n- AI computing company under investigation for potential violations 🤖\n\nTAKEAWAY: Singapore authorities are probing Megaspeed, a customer of Nvidia, for potential export violations, raising concerns over compliance with domestic laws.",
       "exported_at": "2025-10-10T07:24:57.657759",
+      "continuous_session": true
+    },
+    {
+      "title": "NBA looks to China for growth, renewing a foothold in its second-largest market",
+      "link": "https://www.cnbc.com/2025/10/10/nba-macao-games-kickstart-renewed-growth-in-china.html",
+      "summary": "The weekend marks a major milestone for the NBA, as years of rebuilding its relationship with China culminate with the Phoenix Suns and Brooklyn Nets facing off.",
+      "published": "Fri, 10 Oct 2025 11:30:01 GMT",
+      "content": "The weekend marks a major milestone for the NBA, as years of rebuilding its relationship with China culminate with the Phoenix Suns and Brooklyn Nets facing off.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "06d3836e05e92e7b9295b9b11f0e2bfe",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NBA EYES CHINA FOR GROWTH 🌏\n\n- NBA rebuilds relationship with China 🏀\n- Phoenix Suns vs. Brooklyn Nets game signifies milestone 🏆\n- Renewed focus on second-largest market 🔥\n- Years of effort lead to pivotal moment 📈\n- Strong growth potential in Chinese market 🚀\n- Game marks culmination of strategic rebuilding 🎯\n\nTAKEAWAY: NBA's strategic focus on rebuilding its relationship with China pays off as the Phoenix Suns vs. Brooklyn Nets game marks a significant milestone in tapping into the second-largest market for growth opportunities.",
+      "exported_at": "2025-10-10T07:40:17.074458",
+      "continuous_session": true
+    },
+    {
+      "title": "Bristol-Myers buys Orbital Therapeutics for $1.5 billion",
+      "link": "https://www.cnbc.com/2025/10/10/bristol-myers-buys-orbital-therapeutics.html",
+      "summary": "Drugmaker Bristol-Myers Squibb said on Friday it will acquire privately held cell therapy developer Orbital Therapeutics for $1.5 billion in cash.",
+      "published": "Fri, 10 Oct 2025 11:34:14 GMT",
+      "content": "Drugmaker Bristol-Myers Squibb said on Friday it will acquire privately held cell therapy developer Orbital Therapeutics for $1.5 billion in cash.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "aefc3e03afe3d77b704516112bf1140e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BRISTOL-MYERS ACQUIRES ORBITAL THERAPEUTICS FOR $1.5 BILLION 🚀\n\n- Bristol-Myers Squibb buys Orbital Therapeutics for $1.5 billion 💰\n- Acquisition to strengthen Bristol-Myers' cell therapy portfolio 🧬\n- Orbital Therapeutics, a cell therapy developer, acquired for cash 💸\n- Deal expected to enhance Bristol-Myers' innovative capabilities 🌟\n- Bristol-Myers invests $1.5 billion in Orbital Therapeutics acquisition 💼\n\nTAKEAWAY: Bristol-Myers' $1.5 billion acquisition of Orbital Therapeutics bolsters its position in cell therapy, showcasing a strategic move to enhance its innovative offerings.",
+      "exported_at": "2025-10-10T07:40:17.074518",
       "continuous_session": true
     }
   ]
