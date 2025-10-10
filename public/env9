@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T10:59:28.925573",
-    "total_articles": 2631,
-    "new_articles_in_last_fetch": 2631,
+    "created_at": "2025-10-10T11:09:39.900569",
+    "total_articles": 2632,
+    "new_articles_in_last_fetch": 2632,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -34161,6 +34161,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AT-RISK TEENS AND AI CHATBOT CRISIS: TALKSPACE CEO WARNS ⚠️\n\n- Talkspace CEO Jon Cohen warns about at-risk youth using large AI models 🤖\n- Concerns rise as teens seek online mental health support 📈\n- AI chatbots may not provide adequate help for vulnerable teens 🛑\n- CEO emphasizes the importance of understanding the risks involved 💡\n\nTAKEAWAY: Jon Cohen's warning sheds light on the potential dangers of at-risk teens relying on AI chatbots for mental health support, urging a deeper understanding of the risks involved.",
       "exported_at": "2025-10-10T10:59:28.895631",
+      "continuous_session": true
+    },
+    {
+      "title": "Dow drops 270 points in rapid move after Trump says China becoming &apos;hostile,&apos; cancels Xi meeting",
+      "link": "https://www.cnbc.com/2025/10/09/stock-market-today-live-updates.html",
+      "summary": "Stocks ticked higher on Friday, with the S&amp;P 500 and Nasdaq Composite building on their weekly gains.",
+      "published": "Fri, 10 Oct 2025 15:08:03 GMT",
+      "content": "Stocks ticked higher on Friday, with the S&amp;P 500 and Nasdaq Composite building on their weekly gains.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "01a59c284f71abf6602d974148f693c8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS TICK HIGHER, S&P 500 AND NASDAQ AIM FOR WEEKLY GAINS 🚀\n\n- S&P 500 and Nasdaq see uptrend on Friday 📈\n- Both indices set to secure weekly gains 📈\n- Market shows positive momentum as stocks rise 🚀\n\nTAKEAWAY: The S&P 500 and Nasdaq are on track for a week of gains, reflecting positive market sentiment and upward momentum.",
+      "exported_at": "2025-10-10T11:09:39.726860",
       "continuous_session": true
     }
   ]
