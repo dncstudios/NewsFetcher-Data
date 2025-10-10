@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T07:50:31.503939",
-    "total_articles": 2604,
-    "new_articles_in_last_fetch": 2604,
+    "created_at": "2025-10-10T08:05:53.263488",
+    "total_articles": 2607,
+    "new_articles_in_last_fetch": 2607,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -33812,6 +33812,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CITI'S BULLISH OUTLOOK ON ORACLE SENDS STOCK SOARING 🚀\n\n- Citi recommends buying Oracle stock amidst potential 40% surge 📈\n- Oracle's upcoming AI World event on Oct. 13-16 could boost shares 🚀\n- Positive outlook indicates significant upside potential 💰\n- Analysts foresee Oracle's stock price rising substantially 📈\n- AI World event expected to act as a catalyst for Oracle's growth 📊\n- Citi's endorsement suggests a lucrative investment opportunity 💼\n\nTAKEAWAY: Citi's optimistic prediction of a 40% surge in Oracle stock, fueled by the upcoming AI World event, presents a promising investment opportunity for growth-minded investors.",
       "exported_at": "2025-10-10T07:50:31.317079",
+      "continuous_session": true
+    },
+    {
+      "title": "Fed Governor Waller sees more rate cuts but says central bank needs to be &apos;cautious about it&apos;",
+      "link": "https://www.cnbc.com/2025/10/10/fed-governor-waller-rate-cuts.html",
+      "summary": "Waller continues to support lowering rates but said the central bank needs to be careful amid conflicting economic signals.",
+      "published": "Fri, 10 Oct 2025 12:05:06 GMT",
+      "content": "Waller continues to support lowering rates but said the central bank needs to be careful amid conflicting economic signals.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "259ca839c63145bd78c690dee74fdcf4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FED'S WALLER SUPPORTS RATE CUTS, URGES CAUTION ⚠️\n\n- Waller advocates for more rate cuts despite economic uncertainties\n- Emphasizes caution due to conflicting signals in the economy\n- Balancing act for the central bank to navigate rate adjustments\n\nTAKEAWAY: Fed Governor Waller backs rate cuts but warns of the need for caution in the face of conflicting economic signals, highlighting the delicate balancing act for the central bank.",
+      "exported_at": "2025-10-10T08:05:53.232412",
+      "continuous_session": true
+    },
+    {
+      "title": "How the world’s 240,000 crypto millionaires are spending their fortunes",
+      "link": "https://www.cnbc.com/2025/10/10/how-crypto-millionaires-spend-their-fortunes.html",
+      "summary": "There are now an estimated 241,700 individuals with crypto holdings worth $1 million or more, up 40% from last year, according to new data.",
+      "published": "Fri, 10 Oct 2025 12:00:01 GMT",
+      "content": "There are now an estimated 241,700 individuals with crypto holdings worth $1 million or more, up 40% from last year, according to new data.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a36b09ef093df8f971324f80f64d8260",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: INSIDE THE LIVES OF 240,000 CRYPTO MILLIONAIRES 🚀\n\n- 241,700 individuals hold crypto fortunes of $1 million+\n- Numbers surged by 40% compared to last year 🔥\n- Exclusive data reveals how crypto millionaires spend\n- Growing trend of luxury purchases among crypto elite\n- Rise in investments beyond traditional assets\n- Lifestyle changes and financial decisions analyzed\n\nTAKEAWAY: The world's 240,000 crypto millionaires are reshaping luxury spending and investment trends, reflecting the growing influence of cryptocurrency in personal finance.",
+      "exported_at": "2025-10-10T08:05:53.232425",
+      "continuous_session": true
+    },
+    {
+      "title": "How Costco quietly built a multibillion-dollar clothing empire",
+      "link": "https://www.cnbc.com/2025/10/10/how-costco-built-clothing-business.html",
+      "summary": "Costco has grown its clothing business by nearly 40% over the past five years, which is more than its peers BJ's and Sam's Club.",
+      "published": "Fri, 10 Oct 2025 12:00:01 GMT",
+      "content": "Costco has grown its clothing business by nearly 40% over the past five years, which is more than its peers BJ's and Sam's Club.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "eabffaf64103f473c37c1e7af853a7fa",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: COSTCO'S CLOTHING EMPIRE SOARS WITH 40% GROWTH 🚀\n\n- Costco's clothing business outshines BJ's and Sam's Club 🌟\n- Impressive 40% growth in the last five years 💪\n- Quietly building a multibillion-dollar clothing empire 🤫\n- Surpassing competitors in the retail clothing sector 🏆\n\nTAKEAWAY: Costco's silent yet remarkable 40% growth in its clothing business sets it apart from competitors, solidifying its position as a retail giant.",
+      "exported_at": "2025-10-10T08:05:53.232429",
       "continuous_session": true
     }
   ]
