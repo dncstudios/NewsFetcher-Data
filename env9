@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T09:48:05.327204",
-    "total_articles": 2621,
-    "new_articles_in_last_fetch": 2621,
+    "created_at": "2025-10-10T09:53:12.016003",
+    "total_articles": 2622,
+    "new_articles_in_last_fetch": 2622,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -34031,6 +34031,19 @@
       "hash": "dcb849ef733db60cdafc6ba6106c0ad1",
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "exported_at": "2025-10-10T09:48:05.156484",
+      "continuous_session": true
+    },
+    {
+      "title": "China opens antitrust probe into the U.S. chip giant Qualcomm",
+      "link": "https://www.cnbc.com/2025/10/10/qualcomm-shares-today-after-china-opens-antitrust-probe.html",
+      "summary": "Qualcomm has a big business in China selling its smartphone chips to some of the biggest players in the country such as Xiaomi.",
+      "published": "Fri, 10 Oct 2025 13:50:43 GMT",
+      "content": "Qualcomm has a big business in China selling its smartphone chips to some of the biggest players in the country such as Xiaomi.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b47559a133b64e8660ab5983044806eb",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: QUALCOMM SHARES PLUMMET AS CHINA LAUNCHES ANTITRUST PROBE 🚨\n\n- China opens antitrust probe into U.S. chip giant Qualcomm 🇨🇳\n- Qualcomm has a significant business selling chips to top Chinese firms 📱\n- Shares drop due to concerns over the antitrust investigation 📉\n\nTAKEAWAY: Qualcomm faces a challenging time as China's antitrust probe causes its shares to plummet, reflecting investor concerns over the investigation's impact on the chip giant's business.",
+      "exported_at": "2025-10-10T09:53:11.838736",
       "continuous_session": true
     }
   ]
