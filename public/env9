@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T15:15:11.740041",
-    "total_articles": 2664,
-    "new_articles_in_last_fetch": 2664,
+    "created_at": "2025-10-10T15:40:38.198889",
+    "total_articles": 2665,
+    "new_articles_in_last_fetch": 2665,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -34589,6 +34589,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BITCOIN DROPS AMID GOVERNMENT SHUTDOWN 📉\n\n- Major cryptocurrencies plummet due to ongoing government shutdown 📉\n- Bitcoin and other cryptos end the week on a downward trend 🔻\n- Morgan Stanley opens up crypto investment access to all clients ✅\n- Former SEC attorney discusses agency operations under Trump vs. Biden 🏛️\n- Market reacts to uncertainties caused by the shutdown 📉⚠️\n\nTAKEAWAY: Bitcoin and major cryptocurrencies face a downward trend amidst the government shutdown, while Morgan Stanley's move to expand access to crypto investments signals growing mainstream interest in the market.",
       "exported_at": "2025-10-10T15:15:11.558459",
+      "continuous_session": true
+    },
+    {
+      "title": "Market sell-off on Trump&apos;s China tariff threat worsens into the close with the Dow down 800 points: Live updates",
+      "link": "https://www.cnbc.com/2025/10/09/stock-market-today-live-updates.html",
+      "summary": "The Trump post sparked a rapid sell-off in stocks Friday.",
+      "published": "Fri, 10 Oct 2025 19:39:52 GMT",
+      "content": "The Trump post sparked a rapid sell-off in stocks Friday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f3514535859784ead848d40257d59418",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS PLUNGE AFTER TRUMP LABELS CHINA 'HOSTILE' OVER RARE EARTHS 🚨\n\n- Market experiences rapid sell-off post Trump's China comments 📉\n- Investors react to cancellation of Xi meeting 🤔\n- Uncertainty looms over future US-China relations ⚠️\n\nTAKEAWAY: Trump's remarks on China's rare earths stance trigger a stock market sell-off, fueling uncertainty in US-China relations and investor sentiment.",
+      "exported_at": "2025-10-10T15:40:38.009317",
       "continuous_session": true
     }
   ]
