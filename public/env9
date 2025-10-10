@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T07:19:45.956664",
-    "total_articles": 2599,
-    "new_articles_in_last_fetch": 2599,
+    "created_at": "2025-10-10T07:24:57.847601",
+    "total_articles": 2601,
+    "new_articles_in_last_fetch": 2601,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -33747,6 +33747,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: HIGH EARNERS FACE TAX CHANGES ON 401(K) CATCH-UP CONTRIBUTIONS ⚠️\n\n- 401(k) catch-up contributions for high earners shift to after-tax Roth by 2026\n- Change affects specific income brackets only 💰\n- Transition brings potential tax implications to consider 🤔\n- High earners urged to understand impact on retirement savings 📈\n- Shift aims to balance tax code and promote fairness 🔍\n- Change not immediate, allowing time for adjustment ⏳\n\nTAKEAWAY: High earners need to prepare for a tax shift in 401(k) catch-up contributions to after-tax Roth by 2026, emphasizing the importance of understanding the implications on retirement savings.",
       "exported_at": "2025-10-10T07:19:45.774377",
+      "continuous_session": true
+    },
+    {
+      "title": "Shaq, Sam Altman-backed college startup Campus taps former Meta AI head as CTO",
+      "link": "https://www.cnbc.com/2025/10/10/sam-altman-college-startup-campus-meta-ai.html",
+      "summary": "As part of the deal, Campus will buy Pesenti's artificial intelligence learning platform Sizzle AI for an undisclosed amount.",
+      "published": "Fri, 10 Oct 2025 11:23:17 GMT",
+      "content": "As part of the deal, Campus will buy Pesenti's artificial intelligence learning platform Sizzle AI for an undisclosed amount.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "730e11fceab1e087d8ed1b173342aa01",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SHAQ-BACKED STARTUP CAMPUS ACQUIRES SIZZLE AI PLATFORM 🚀\n\n- Campus secures former Meta AI head Pesenti as CTO 🌟\n- Acquisition of Sizzle AI platform enhances Campus's AI capabilities 🧠\n- Deal details undisclosed, but strategic move confirmed 🔒\n\nTAKEAWAY: Campus's acquisition of Sizzle AI platform and appointment of Pesenti as CTO boost its AI expertise, signaling growth in the competitive tech industry.",
+      "exported_at": "2025-10-10T07:24:57.657679",
+      "continuous_session": true
+    },
+    {
+      "title": "Singapore police probe Nvidia customer Megaspeed over alleged China export violations",
+      "link": "https://www.cnbc.com/2025/10/10/singapore-us-investigate-nvidia-client-megaspeed-export-controls-violation.html",
+      "summary": "Singapore officials are investigating AI computing company Megaspeed, a customer of American AI chip maker Nvidia, for potentially violating domestic laws.",
+      "published": "Fri, 10 Oct 2025 11:17:40 GMT",
+      "content": "Singapore officials are investigating AI computing company Megaspeed, a customer of American AI chip maker Nvidia, for potentially violating domestic laws.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6df60f18986cc854a6ab08a4913ff6c2",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SINGAPORE PROBES MEGASPEED OVER CHINA EXPORT VIOLATIONS ⚠️\n\n- Singapore investigates Megaspeed, Nvidia customer, for export violations 🕵️‍♂️\n- Allegations of breaching domestic laws under scrutiny 🧐\n- AI computing company under investigation for potential violations 🤖\n\nTAKEAWAY: Singapore authorities are probing Megaspeed, a customer of Nvidia, for potential export violations, raising concerns over compliance with domestic laws.",
+      "exported_at": "2025-10-10T07:24:57.657759",
       "continuous_session": true
     }
   ]
