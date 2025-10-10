@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T05:22:20.128278",
-    "total_articles": 2589,
-    "new_articles_in_last_fetch": 2589,
+    "created_at": "2025-10-10T05:27:29.783522",
+    "total_articles": 2590,
+    "new_articles_in_last_fetch": 2590,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -33617,6 +33617,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NIKE AND STARBUCKS SHINE WITH TEEN SHOPPERS 🌟\n\n- Nike and Starbucks popular with teen shoppers 🛍️\n- Microsoft gains admiration from C-suite executives 💼\n- Investing Club's Homestretch provides timely trading insights 📈\n\nTAKEAWAY: Nike and Starbucks stand out among teen shoppers, while Microsoft earns respect from C-suite executives, as Investing Club's Homestretch offers valuable trading updates.",
       "exported_at": "2025-10-10T05:22:19.943476",
+      "continuous_session": true
+    },
+    {
+      "title": "Top Hollywood agencies slam OpenAI&apos;s Sora as &apos;exploitation&apos; and a risk to clients",
+      "link": "https://www.cnbc.com/2025/10/09/caa-open-ai-sora-copyright-talent-agency.html",
+      "summary": "CAA, which represents artists including Doja Cat, Scarlett Johansson, and Tom Hanks, said OpenAI was \"dismissing creators' rights.\"",
+      "published": "Thu, 09 Oct 2025 19:29:06 GMT",
+      "content": "CAA, which represents artists including Doja Cat, Scarlett Johansson, and Tom Hanks, said OpenAI was \"dismissing creators' rights.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8ba64222a7a42861b58ccd3024ecf83a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TOP HOLLYWOOD AGENCIES SLAM OPENAI'S SORA AS 'EXPLOITATION' ⚠️\n\n- CAA criticizes OpenAI for disregarding creators' rights 🚨\n- OpenAI's Sora platform labeled as a risk to clients 🔥\n- Hollywood agencies express concerns over exploitation ⚠️\n- Doja Cat, Scarlett Johansson, Tom Hanks among CAA clients ✅\n- OpenAI faces backlash from top entertainment representatives ⚠️\n\nTAKEAWAY: Hollywood's top agencies, including CAA, voice strong opposition against OpenAI's Sora platform, citing concerns of exploitation and risks to clients.",
+      "exported_at": "2025-10-10T05:27:29.753680",
       "continuous_session": true
     }
   ]
