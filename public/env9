@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T17:12:27.599157",
-    "total_articles": 2675,
-    "new_articles_in_last_fetch": 2675,
+    "created_at": "2025-10-10T17:17:40.440037",
+    "total_articles": 2677,
+    "new_articles_in_last_fetch": 2677,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -34732,6 +34732,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: GOVINI HITS $100M ANNUAL REVENUE 🚀\n\n- Govini achieves $100M in annual recurring revenue milestone 💰\n- Secures $150M investment from Bain Capital for growth 📈\n- Positioned to challenge Palantir in the defense tech sector 💥\n\nTAKEAWAY: Govini's rapid revenue growth and significant investment from Bain Capital signal its emergence as a formidable player in the defense tech industry, poised to compete with established giants like Palantir.",
       "exported_at": "2025-10-10T17:12:27.420443",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump puts extra 100% tariff on China imports, adds export controls on &apos;critical software&apos;",
+      "link": "https://www.cnbc.com/2025/10/10/trump-trade-tariffs-china-software.html",
+      "summary": "President Trump retaliated against China's export controls on rare earths after suggesting he also would cancel a meeting with Chinese President Xi Jinping.",
+      "published": "Fri, 10 Oct 2025 21:15:05 GMT",
+      "content": "President Trump retaliated against China's export controls on rare earths after suggesting he also would cancel a meeting with Chinese President Xi Jinping.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d20060285c81eaafca8638829f9e8927",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP DOUBLES TARIFFS ON CHINA IMPORTS, RESTRICTS 'CRITICAL SOFTWARE' EXPORTS 🚨\n\n- Trump imposes 100% tariff increase on Chinese imports 📈\n- Export controls on 'critical software' added in retaliation 🎯\n- Threatens to cancel meeting with China's President Xi Jinping ⚠️\n\nTAKEAWAY: President Trump's aggressive trade actions against China, including doubling tariffs and imposing export controls, escalate tensions and raise concerns over potential economic repercussions.",
+      "exported_at": "2025-10-10T17:17:40.259053",
+      "continuous_session": true
+    },
+    {
+      "title": "Tech megacaps lose $770 billion in value as Nasdaq suffers steepest drop since April",
+      "link": "https://www.cnbc.com/2025/10/10/tech-megacaps-market-cap-mag-7.html",
+      "summary": "Nvidia dropped almost 5%, pacing a steep decline in tech stocks, after President Trump threatened more tariffs on China.",
+      "published": "Fri, 10 Oct 2025 21:15:28 GMT",
+      "content": "Nvidia dropped almost 5%, pacing a steep decline in tech stocks, after President Trump threatened more tariffs on China.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7b55ca012c2642361649cf71ef82efe2",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TECH MEGACAPS LOSE $770B AS NASDAQ DROPS, TRUMP'S TARIFF THREAT HITS TECH STOCKS ⚠️\n\n- Nasdaq sees sharpest drop since April, tech giants lose $770B 💸\n- Nvidia leads with nearly 5% decline post Trump's tariff warning 📉\n- President Trump's threat triggers tech stock sell-off 📉\n\nTAKEAWAY: Tech megacaps face a significant $770 billion loss in value with Nasdaq's steepest drop since April due to President Trump's tariff threats impacting tech stocks like Nvidia.",
+      "exported_at": "2025-10-10T17:17:40.259146",
       "continuous_session": true
     }
   ]
