@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T09:27:33.118436",
-    "total_articles": 2617,
-    "new_articles_in_last_fetch": 2617,
+    "created_at": "2025-10-10T09:32:39.965332",
+    "total_articles": 2618,
+    "new_articles_in_last_fetch": 2618,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -33980,6 +33980,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: MORGAN STANLEY OPENS CRYPTO FUNDS TO ALL WEALTH CLIENTS 🚀\n\n- Morgan Stanley removes restrictions on crypto fund ownership 💸\n- Access to crypto expands at the world's largest wealth management firm 🌍\n- Move reflects growing interest in cryptocurrency among investors 📈\n- Decision signals a shift in traditional finance towards digital assets 💰\n- Increasing adoption of crypto by major financial institutions 🏦\n\nTAKEAWAY: Morgan Stanley's decision to open up crypto funds to all wealth clients reflects a broader trend of growing interest and adoption of digital assets in traditional finance.",
       "exported_at": "2025-10-10T09:27:32.948306",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks tick higher, S&amp;P 500 and Nasdaq head for weekly gains: Live updates",
+      "link": "https://www.cnbc.com/2025/10/09/stock-market-today-live-updates.html",
+      "summary": "Both the S&amp;P 500 and the Nasdaq Composite hit all-time intrady highs on Thursday, but stocks later reversed and all three major U.S. indexed closed lower.",
+      "published": "Fri, 10 Oct 2025 13:32:18 GMT",
+      "content": "Both the S&amp;P 500 and the Nasdaq Composite hit all-time intrady highs on Thursday, but stocks later reversed and all three major U.S. indexed closed lower.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9de694d1484ce1c7cc94d7cdcd0f2275",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK FUTURES STABLE AFTER S&P 500, NASDAQ PULLBACK ⚠️\n\n- S&P 500, Nasdaq reach record intraday highs 📈\n- Both indices retreat, closing lower 📉\n- Stock futures show minimal change post-pullback 📉\n\nTAKEAWAY: Despite record intraday highs, S&P 500 and Nasdaq pulled back, causing stock futures to stabilize after the market retreat.",
+      "exported_at": "2025-10-10T09:32:39.770928",
       "continuous_session": true
     }
   ]
