@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T05:48:00.763119",
-    "total_articles": 2593,
-    "new_articles_in_last_fetch": 2593,
+    "created_at": "2025-10-10T06:23:35.060318",
+    "total_articles": 2594,
+    "new_articles_in_last_fetch": 2594,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -33669,6 +33669,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ISRAEL RATIFIES TRUMP'S PEACE PLAN, SPARKING CEASEFIRE HOPE 🕊️\n\n- Israeli cabinet approves agreement for Gaza ceasefire 🤝\n- Key step towards peace after ratification early Friday 🌅\n- Trump's peace plan gains momentum in the region 🚀\n\nTAKEAWAY: Israel's approval of Trump's peace plan signals progress towards a ceasefire in Gaza, fostering hope for peace in the region.",
       "exported_at": "2025-10-10T05:48:00.733541",
+      "continuous_session": true
+    },
+    {
+      "title": "Qualcomm shares fall after China opens antitrust probe into the U.S. chip giant",
+      "link": "https://www.cnbc.com/2025/10/10/qualcomm-shares-today-after-china-opens-antitrust-probe.html",
+      "summary": "Qualcomm has a big business in China selling its smartphone chips to some of the biggest players in the country such as Xiaomi.",
+      "published": "Fri, 10 Oct 2025 10:21:41 GMT",
+      "content": "Qualcomm has a big business in China selling its smartphone chips to some of the biggest players in the country such as Xiaomi.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f7577f1b81a731fdbd3ee8f2d96cc1ef",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: QUALCOMM SHARES PLUMMET AS CHINA LAUNCHES ANTITRUST PROBE 🚨\n\n- China opens antitrust probe into U.S. chip giant Qualcomm 🇨🇳\n- Qualcomm has a significant business selling chips to top Chinese firms 📱\n- Shares drop due to concerns over the antitrust investigation 📉\n\nTAKEAWAY: Qualcomm faces a challenging time as China's antitrust probe causes its shares to plummet, reflecting investor concerns over the investigation's impact on the chip giant's business.",
+      "exported_at": "2025-10-10T06:23:34.878702",
       "continuous_session": true
     }
   ]
