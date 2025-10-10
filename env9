@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T06:33:48.594176",
-    "total_articles": 2595,
-    "new_articles_in_last_fetch": 2595,
+    "created_at": "2025-10-10T06:44:01.994018",
+    "total_articles": 2596,
+    "new_articles_in_last_fetch": 2596,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -33695,6 +33695,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AMD'S STOCK SOARS AS TD COWEN RAISES PRICE TARGET 🚀\n\n- TD Cowen optimistic about AMD's partnership with OpenAI 💡\n- Price target raised due to potential upside ahead 📈\n- Partnership with OpenAI seen as a significant boost 💥\n- AMD's stock expected to benefit from the collaboration ✅\n- Positive outlook on AMD's future growth and performance 🚀\n\nTAKEAWAY: TD Cowen's price target boost for AMD reflects confidence in the chipmaker's partnership with OpenAI, signaling potential growth and performance ahead.",
       "exported_at": "2025-10-10T06:33:48.396485",
+      "continuous_session": true
+    },
+    {
+      "title": "China retaliates against U.S. port fees with new charges on American ships",
+      "link": "https://www.cnbc.com/2025/10/10/china-retaliates-against-us-port-fees-with-charges-on-american-ships.html",
+      "summary": "The move comes a day after China ramped up restrictions on rare earths exports amid ongoing tensions with the U.S.",
+      "published": "Fri, 10 Oct 2025 10:35:53 GMT",
+      "content": "The move comes a day after China ramped up restrictions on rare earths exports amid ongoing tensions with the U.S.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8eee437947a33f4dae4de51a55090129",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CHINA HITS BACK AT U.S. PORT FEES WITH NEW CHARGES ON AMERICAN SHIPS ⚠️\n\n- China retaliates against U.S. with charges on American ships 🚢\n- New fees follow escalated restrictions on rare earths exports 🛑\n- Ongoing tensions between China and the U.S. fuel retaliatory actions ⚠️\n\nTAKEAWAY: China's response to U.S. port fees with new charges on American ships escalates trade tensions, impacting global shipping and trade relations.",
+      "exported_at": "2025-10-10T06:44:01.805452",
       "continuous_session": true
     }
   ]
