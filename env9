@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T09:37:50.651046",
-    "total_articles": 2619,
-    "new_articles_in_last_fetch": 2619,
+    "created_at": "2025-10-10T09:48:05.327204",
+    "total_articles": 2621,
+    "new_articles_in_last_fetch": 2621,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -34006,6 +34006,31 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCKS TICK HIGHER, S&P 500 AND NASDAQ AIM FOR WEEKLY GAINS 🚀\n\n- S&P 500 and Nasdaq see uptrend on Friday 📈\n- Both indices set to secure weekly gains 📈\n- Market shows positive momentum as stocks rise 🚀\n\nTAKEAWAY: The S&P 500 and Nasdaq are on track for a week of gains, reflecting positive market sentiment and upward momentum.",
       "exported_at": "2025-10-10T09:37:50.473724",
+      "continuous_session": true
+    },
+    {
+      "title": "Ocean freight carriers scramble to make sense of U.S. port fees on Chinese-built ships, fearing surprise financial hit",
+      "link": "https://www.cnbc.com/2025/10/10/ocean-freight-carriers-port-fees-china-shipbuilding-vessels.html",
+      "summary": "Confusion over looming port fee rules on China-built containerships has ocean carriers scrutinizing financing deals that could deem them to be Chinese entities.",
+      "published": "Fri, 10 Oct 2025 13:36:45 GMT",
+      "content": "Confusion over looming port fee rules on China-built containerships has ocean carriers scrutinizing financing deals that could deem them to be Chinese entities.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e6cc180c9a4ef86004797ae8434dcb51",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: OCEAN CARRIERS GRAPPLE WITH U.S. PORT FEES ON CHINA-BUILT SHIPS 🚨\n\n- U.S. port fee rules on China-built ships spark carrier concerns ⚠️\n- Ocean carriers review financing deals to avoid Chinese entity status 🔄\n- Confusion looms over potential financial impact 💰\n- Scrutiny intensifies among carriers facing surprise fees 🧐\n- Fear of unexpected financial burden grips ocean freight industry 💼\n\nTAKEAWAY: Ocean carriers face uncertainty and financial risks as they navigate U.S. port fees on China-built ships, leading to intensified scrutiny and concerns in the industry.",
+      "exported_at": "2025-10-10T09:48:05.156412",
+      "continuous_session": true
+    },
+    {
+      "title": "How this gold bull market stacks up to others — and why it may be getting too hot",
+      "link": "https://www.cnbc.com/2025/10/10/how-this-gold-bull-market-stacks-up-to-others-and-why-it-may-be-getting-too-hot.html",
+      "summary": "Gold just won't stop going higher.",
+      "published": "Fri, 10 Oct 2025 13:27:17 GMT",
+      "content": "Gold just won't stop going higher.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "dcb849ef733db60cdafc6ba6106c0ad1",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "exported_at": "2025-10-10T09:48:05.156484",
       "continuous_session": true
     }
   ]
