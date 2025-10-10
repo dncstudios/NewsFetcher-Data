@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T18:49:06.637992",
-    "total_articles": 2680,
-    "new_articles_in_last_fetch": 2680,
+    "created_at": "2025-10-10T19:04:24.394163",
+    "total_articles": 2681,
+    "new_articles_in_last_fetch": 2681,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -34797,6 +34797,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP OFFICIAL CONFIRMS FEDERAL LAYOFFS AMID SHUTDOWN ⚠️\n\n- Federal layoffs initiated as government shutdown continues 📉\n- Trump admin shifts blame to Democrats for shutdown fallout ⚠️\n- Republicans support Trump's stance on shutdown 🐘\n- Democrats face criticism for government shutdown impact 💼\n\nTAKEAWAY: Federal layoffs kick off as Trump administration and Republicans accuse Democrats of government shutdown consequences.",
       "exported_at": "2025-10-10T18:49:06.607702",
+      "continuous_session": true
+    },
+    {
+      "title": "Navan sets price range for IPO, expects market cap of up to $6.5 billion",
+      "link": "https://www.cnbc.com/2025/10/10/navan-sets-price-range-for-ipo-expects-market-cap-up-to-6point5-billion.html",
+      "summary": "Navan updated its IPO prospectus and offered a pricing range, as it seeks to potentially hit the public market during a government shutdown.",
+      "published": "Fri, 10 Oct 2025 23:02:31 GMT",
+      "content": "Navan updated its IPO prospectus and offered a pricing range, as it seeks to potentially hit the public market during a government shutdown.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "edcbe31fed7deadfd00da50d2a367895",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NAVAN SETS IPO PRICE RANGE, EYES $6.5B MARKET CAP 🚀\n\n- Navan updates IPO prospectus, aims for up to $6.5 billion market cap 💼\n- Pricing range disclosed amidst government shutdown 🏛️\n- Company gears up for potential public market debut 📈\n\nTAKEAWAY: Navan's IPO pricing range announcement signals their readiness to enter the public market, eyeing a substantial market cap of up to $6.5 billion amidst challenging circumstances.",
+      "exported_at": "2025-10-10T19:04:24.195189",
       "continuous_session": true
     }
   ]
