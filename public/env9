@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-11T08:12:48.205909",
-    "total_articles": 2689,
-    "new_articles_in_last_fetch": 2689,
+    "created_at": "2025-10-11T09:33:58.310031",
+    "total_articles": 2690,
+    "new_articles_in_last_fetch": 2690,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -34914,6 +34914,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: OPENAI'S UNPRECEDENTED DOMINANCE SHAKES SILICON VALLEY 🚀\n\n- OpenAI leads the AI boom, expanding across the tech stack 📈\n- Competing with a rising number of startups 🌐\n- Positioned uniquely in the heart of the AI industry 🔥\n\nTAKEAWAY: OpenAI's unparalleled dominance in AI disrupts Silicon Valley, challenging startups and reshaping the tech landscape.",
       "exported_at": "2025-10-11T08:12:48.015909",
+      "continuous_session": true
+    },
+    {
+      "title": "Warren Buffett Watch: Berkshire&apos;s Japanese stock positions top $30 billion",
+      "link": "https://www.cnbc.com/2025/10/11/berkshires-japanese-stock-positions-top-30-billion.html",
+      "summary": "The value of the five Japanese \"trading houses\" in Berkshire Hathaway's equity portfolio has topped $30 billion in recent weeks. Buffett apparently is still buying.",
+      "published": "Sat, 11 Oct 2025 13:30:53 GMT",
+      "content": "The value of the five Japanese \"trading houses\" in Berkshire Hathaway's equity portfolio has topped $30 billion in recent weeks. Buffett apparently is still buying.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2afd3299f8440a35327d3ae54f1c20a0",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WARREN BUFFETT'S JAPANESE STOCKS SURGE PAST $30 BILLION 🚀\n\n- Berkshire Hathaway's Japanese stock positions exceed $30 billion 💰\n- Buffett continues buying, showing confidence in the market 📈\n- Five Japanese \"trading houses\" contribute to the portfolio 🏢\n- Strong performance indicates Buffett's strategic investment vision ✅\n- Berkshire's equity portfolio reaches impressive milestones ⚡️\n- Japanese stocks remain a key focus for Berkshire Hathaway 🔍\n\nTAKEAWAY: Warren Buffett's massive $30 billion Japanese stock positions signal strong confidence, strategic vision, and continued growth in Berkshire Hathaway's equity portfolio.",
+      "exported_at": "2025-10-11T09:33:58.136766",
       "continuous_session": true
     }
   ]
