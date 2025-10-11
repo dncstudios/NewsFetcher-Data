@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-11T12:47:36.651540",
-    "total_articles": 2699,
-    "new_articles_in_last_fetch": 2699,
+    "created_at": "2025-10-11T13:13:06.337641",
+    "total_articles": 2700,
+    "new_articles_in_last_fetch": 2700,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -35044,6 +35044,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRAGEDY AT TENNESSEE EXPLOSIVES FACTORY: NO SURVIVORS 😢\n\n- Multiple fatalities reported after blast at military explosives plant 💥\n- Sheriff confirms no survivors found at the scene 🚨\n- Several individuals still missing after the tragic incident\n- Law enforcement investigating the cause of the explosion ⚠️\n- Community mourns the loss of lives in the devastating blast 😔\n\nTAKEAWAY: The tragic explosion at the Tennessee explosives factory has resulted in multiple fatalities, with no survivors found as authorities continue search and investigation.",
       "exported_at": "2025-10-11T12:47:36.453014",
+      "continuous_session": true
+    },
+    {
+      "title": "There are no survivors in the blast at a Tennessee explosives factory, sheriff says",
+      "link": "https://www.cnbc.com/2025/10/11/tennessee-plant-explosion.html",
+      "summary": "The blast in rural Tennessee that leveled an explosives plant and was felt for miles around left no survivors, authorities said Saturday.",
+      "published": "Sat, 11 Oct 2025 17:11:58 GMT",
+      "content": "The blast in rural Tennessee that leveled an explosives plant and was felt for miles around left no survivors, authorities said Saturday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "466c6e566001648b9665aac145ab492b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRAGIC EXPLOSION AT TENNESSEE FACTORY LEAVES NO SURVIVORS 🚨\n\n- Blast at Tennessee explosives plant claims all lives 💔\n- Rural area devastated by explosion felt for miles 🌪️\n- Authorities confirm no survivors in tragic incident 🕯️\n\nTAKEAWAY: The devastating explosion at a Tennessee explosives factory has tragically resulted in the loss of all lives, leaving the rural community in mourning.",
+      "exported_at": "2025-10-11T13:13:06.306251",
       "continuous_session": true
     }
   ]
