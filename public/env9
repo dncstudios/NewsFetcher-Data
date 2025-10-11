@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-11T13:13:06.337641",
-    "total_articles": 2700,
-    "new_articles_in_last_fetch": 2700,
+    "created_at": "2025-10-11T13:38:32.473933",
+    "total_articles": 2701,
+    "new_articles_in_last_fetch": 2701,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -35057,6 +35057,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRAGIC EXPLOSION AT TENNESSEE FACTORY LEAVES NO SURVIVORS 🚨\n\n- Blast at Tennessee explosives plant claims all lives 💔\n- Rural area devastated by explosion felt for miles 🌪️\n- Authorities confirm no survivors in tragic incident 🕯️\n\nTAKEAWAY: The devastating explosion at a Tennessee explosives factory has tragically resulted in the loss of all lives, leaving the rural community in mourning.",
       "exported_at": "2025-10-11T13:13:06.306251",
+      "continuous_session": true
+    },
+    {
+      "title": "Palestinians return to ruins and U.S. troops land in Israel as Gaza ceasefire holds",
+      "link": "https://www.cnbc.com/2025/10/11/palestinians-us-troops-ceasefire-gaza.html",
+      "summary": "Tens of thousands of displaced Palestinians returned to their Gaza neighborhoods Saturday as a ceasefire between Israel and Hamas held in its second day.",
+      "published": "Sat, 11 Oct 2025 17:37:18 GMT",
+      "content": "Tens of thousands of displaced Palestinians returned to their Gaza neighborhoods Saturday as a ceasefire between Israel and Hamas held in its second day.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "bdb3481deccc4633c829152b418b3f21",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PALESTINIANS RETURN TO RUINS AS GAZA CEASEFIRE HOLDS 🕊️\n\n- Tens of thousands of displaced Palestinians go back to Gaza 🏠\n- Ceasefire between Israel and Hamas holds for the second day 🕊️\n- U.S. troops land in Israel amidst the ceasefire 🇺🇸\n\nTAKEAWAY: Amidst the Gaza ceasefire, Palestinian residents return to their devastated neighborhoods while U.S. troops arrive in Israel, marking a delicate peace.",
+      "exported_at": "2025-10-11T13:38:32.285597",
       "continuous_session": true
     }
   ]
