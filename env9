@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-11T07:52:26.831901",
-    "total_articles": 2688,
-    "new_articles_in_last_fetch": 2688,
+    "created_at": "2025-10-11T08:12:48.205909",
+    "total_articles": 2689,
+    "new_articles_in_last_fetch": 2689,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -34901,6 +34901,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WEALTH REQUIRES PATIENCE, SAYS 'THE ART OF SPENDING MONEY' AUTHOR 🚀\n\n- Building wealth demands long-term commitment 💪\n- Saving and smart spending crucial for financial success 🌟\n- 'The Art of Spending Money' emphasizes money tradeoffs 💸\n- Quick riches not sustainable for long-term wealth growth 📈\n- Author Morgan Housel advocates for wise spending strategies 💡\n\nTAKEAWAY: The path to wealth lies in patience, strategic saving, and wise spending choices, as highlighted in 'The Art of Spending Money' by Morgan Housel.",
       "exported_at": "2025-10-11T07:52:26.801202",
+      "continuous_session": true
+    },
+    {
+      "title": "OpenAI&apos;s dominance is unlike anything Silicon Valley has ever seen",
+      "link": "https://www.cnbc.com/2025/10/11/open-ai-silicon-valley-tech-startup.html",
+      "summary": "OpenAI's position at the heart of the AI boom, and its expansion up and down the stack, is putting the company in competition with a growing list of startups.",
+      "published": "Sat, 11 Oct 2025 12:00:01 GMT",
+      "content": "OpenAI's position at the heart of the AI boom, and its expansion up and down the stack, is putting the company in competition with a growing list of startups.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "75600f1e63d1d25a03c50509cb97d0ce",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: OPENAI'S UNPRECEDENTED DOMINANCE SHAKES SILICON VALLEY 🚀\n\n- OpenAI leads the AI boom, expanding across the tech stack 📈\n- Competing with a rising number of startups 🌐\n- Positioned uniquely in the heart of the AI industry 🔥\n\nTAKEAWAY: OpenAI's unparalleled dominance in AI disrupts Silicon Valley, challenging startups and reshaping the tech landscape.",
+      "exported_at": "2025-10-11T08:12:48.015909",
       "continuous_session": true
     }
   ]
