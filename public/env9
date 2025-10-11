@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-11T03:11:03.596895",
-    "total_articles": 2684,
-    "new_articles_in_last_fetch": 2684,
+    "created_at": "2025-10-11T03:21:16.680406",
+    "total_articles": 2685,
+    "new_articles_in_last_fetch": 2685,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -34849,6 +34849,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP ADMIN LAYS OFF CDC OFFICIALS: SHAKE-UP AT THE TOP ⚠️\n\n- Dozens of CDC officials laid off by Trump administration 📉\n- White House and CDC silent on the reported layoffs 🤐\n- Uncertainty looms over the future of CDC leadership 🌐\n\nTAKEAWAY: Trump's administration shake-up at CDC with dozens of layoffs raises concerns and uncertainties about the organization's future direction.",
       "exported_at": "2025-10-11T03:11:03.559819",
+      "continuous_session": true
+    },
+    {
+      "title": "U.S. military hikes operational command of counter-narcotics operations in Latin America",
+      "link": "https://www.cnbc.com/2025/10/11/us-military-hikes-operational-command-of-counter-narcotics-operations-in-latin-america.html",
+      "summary": "Defense Secretary Pete Hegseth said the task force aimed \"to crush the cartels, stop the poison, and keep America safe.\"",
+      "published": "Sat, 11 Oct 2025 07:15:09 GMT",
+      "content": "Defense Secretary Pete Hegseth said the task force aimed \"to crush the cartels, stop the poison, and keep America safe.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "823eb9711a363e5e4ad1721b0747d916",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: U.S. MILITARY INTENSIFIES COUNTER-NARCOTICS OPERATIONS IN LATIN AMERICA 🚀\n\n- Defense Secretary vows to crush cartels and keep America safe 🛡️\n- Task force aims to stop the poison of narcotics in Latin America 🌿\n- Operational command boosted to tackle drug trafficking in the region 🌎\n\nTAKEAWAY: The U.S. military's increased focus on counter-narcotics operations in Latin America signals a determined effort to combat drug trafficking and ensure national security.",
+      "exported_at": "2025-10-11T03:21:16.498824",
       "continuous_session": true
     }
   ]
