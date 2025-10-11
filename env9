@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-11T14:24:15.700903",
-    "total_articles": 2702,
-    "new_articles_in_last_fetch": 2702,
+    "created_at": "2025-10-11T14:44:38.224161",
+    "total_articles": 2703,
+    "new_articles_in_last_fetch": 2703,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -35083,6 +35083,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: PALESTINIANS RETURN TO RUINS AS U.S. EXPECTS HOSTAGES FREED 🚀\n\n- Gaza ceasefire holds for second day amid returning displaced Palestinians 🕊️\n- Tens of thousands go back to neighborhoods in ruins 🏚️\n- U.S. anticipates hostages' release by Monday 🔓\n- Hope rises for peace in Gaza as ceasefire remains intact ✌️\n\nTAKEAWAY: Amidst the ruins, the return of displaced Palestinians and the anticipated release of hostages bring hope for peace in Gaza as the ceasefire holds strong.",
       "exported_at": "2025-10-11T14:24:15.507391",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump says administration has &apos;identified funds&apos; to pay troops during shutdown",
+      "link": "https://www.cnbc.com/2025/10/11/trump-government-shutdown-pay-troops.html",
+      "summary": "President Donald Trump on Saturday said his administration has \"identified funds\" to pay troops next week despite the federal government shutdown.",
+      "published": "Sat, 11 Oct 2025 18:40:39 GMT",
+      "content": "President Donald Trump on Saturday said his administration has \"identified funds\" to pay troops next week despite the federal government shutdown.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e21a86e2a30a8bc29ea7ba63a3c4cb19",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP IDENTIFIES FUNDS TO PAY TROOPS DURING SHUTDOWN 🚀\n\n- Trump assures funds for troops despite government shutdown 🇺🇸\n- Administration takes action to ensure troops get paid ✅\n- Troops will receive their pay next week as planned 💵\n- Trump's commitment to supporting troops remains strong 🦅\n- Assurance provided amidst federal government shutdown ⚠️\n\nTAKEAWAY: Despite the government shutdown, President Trump ensures troops' pay is secured, showing unwavering support for the military.",
+      "exported_at": "2025-10-11T14:44:38.027173",
       "continuous_session": true
     }
   ]
