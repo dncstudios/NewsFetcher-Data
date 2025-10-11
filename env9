@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-11T09:44:42.343644",
-    "total_articles": 2694,
-    "new_articles_in_last_fetch": 2694,
+    "created_at": "2025-10-11T10:00:00.368415",
+    "total_articles": 2695,
+    "new_articles_in_last_fetch": 2695,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -34979,6 +34979,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JULIA ROBERTS' JOURNEY THROUGH CAREER CRITICISM 🌟\n\n- Julia Roberts overcame harsh early career criticism 💪\n- Learn to leverage feedback for personal growth 📈\n- Career coach shares tips on turning criticism into opportunity 🌟\n\nTAKEAWAY: Julia Roberts' story teaches us to transform career criticism into personal development and success with the right mindset and strategies.",
       "exported_at": "2025-10-11T09:44:42.147956",
+      "continuous_session": true
+    },
+    {
+      "title": "41-year-old American makes $46,000 a year tending bar in the Arctic Circle: &apos;I feel so welcome&apos;",
+      "link": "https://www.cnbc.com/2025/10/11/meet-the-41-year-old-american-who-bartends-north-of-the-arctic-circle.html",
+      "summary": "Robert E. Yarber earns roughly $47,000 in Norway. He says its more than enough for a comfortable life.",
+      "published": "Sat, 11 Oct 2025 13:50:01 GMT",
+      "content": "Robert E. Yarber earns roughly $47,000 in Norway. He says its more than enough for a comfortable life.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "497bb852c048d865932123e1edcde4d8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 41-YEAR-OLD AMERICAN THRIVES ON $46,000 AS ARCTIC CIRCLE BARTENDER 🚀\n\n- American bartender earns $47,000 in Norway ❄️\n- Finds comfort and warmth in Arctic Circle life 🌟\n- Living comfortably on his income 💰\n- Feels welcomed and appreciated in his community 🙌\n- Embraces the unique lifestyle and environment 🌌\n\nTAKEAWAY: Thriving on $46,000 as a bartender in the Arctic Circle, Robert E. Yarber finds comfort, warmth, and a strong sense of community in Norway.",
+      "exported_at": "2025-10-11T10:00:00.337899",
       "continuous_session": true
     }
   ]
