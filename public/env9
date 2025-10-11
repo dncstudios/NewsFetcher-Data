@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-11T16:05:53.496287",
-    "total_articles": 2704,
-    "new_articles_in_last_fetch": 2704,
+    "created_at": "2025-10-11T17:57:31.946444",
+    "total_articles": 2705,
+    "new_articles_in_last_fetch": 2705,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -35109,6 +35109,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AIRLINES WAIVE FEES FOR EAST COAST FLIGHTS AHEAD OF STORM ⚠️\n\n- More than a dozen airports covered by fee waivers ✈️\n- Airlines waive fare differences and change fees ✅\n- Proactive measure taken ahead of incoming coastal storm 🌧️\n\nTAKEAWAY: U.S. airlines show flexibility by waiving flight-change fees for East Coast flights, ensuring passenger safety during the upcoming storm.",
       "exported_at": "2025-10-11T16:05:53.296860",
+      "continuous_session": true
+    },
+    {
+      "title": "Diane Keaton, Oscar-winning star of ‘Annie Hall’ and ‘The Godfather’ series, has died at 79",
+      "link": "https://www.cnbc.com/2025/10/11/diane-keaton-star-of-annie-hall-and-the-godfather-died-at-79.html",
+      "summary": "Diane Keaton, whose quirky, vibrant manner and depth made her one of the most singular actors of a generation, has died. She was 79.",
+      "published": "Sat, 11 Oct 2025 21:56:10 GMT",
+      "content": "Diane Keaton, whose quirky, vibrant manner and depth made her one of the most singular actors of a generation, has died. She was 79.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "484ce8075131508734273bf1b1d72d00",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DIANE KEATON, OSCAR-WINNING STAR OF 'ANNIE HALL' AND 'THE GODFATHER' SERIES, PASSES AWAY AT 79 ⚠️\n\n- Hollywood mourns the loss of iconic actor Diane Keaton 🎬\n- Keaton's unique charm and talent captivated audiences worldwide 🌟\n- Known for her roles in 'Annie Hall' and 'The Godfather' series 🎥\n- Keaton leaves behind a legacy of memorable performances 🌹\n- Fans and industry peers remember her as a true talent and inspiration 💔\n\nTAKEAWAY: The passing of Diane Keaton, known for her unforgettable roles in iconic movies, leaves a void in Hollywood and her fans' hearts.",
+      "exported_at": "2025-10-11T17:57:31.750192",
       "continuous_session": true
     }
   ]
