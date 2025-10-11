@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-11T09:39:11.565912",
-    "total_articles": 2693,
-    "new_articles_in_last_fetch": 2693,
+    "created_at": "2025-10-11T09:44:42.343644",
+    "total_articles": 2694,
+    "new_articles_in_last_fetch": 2694,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -34966,6 +34966,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCKS WITH EARNINGS BEATS AND RALLIES SET TO REPORT 🚀\n\n- Companies reporting next week consistently exceed revenue expectations ✅\n- History of posting higher-than-expected earnings boosts investor confidence 📈\n- Anticipation high for upcoming quarterly results 🎯\n\nTAKEAWAY: Investors eagerly await the upcoming earnings reports from these companies known for surpassing revenue and earnings forecasts, driving market optimism.",
       "exported_at": "2025-10-11T09:39:11.383464",
+      "continuous_session": true
+    },
+    {
+      "title": "How Julia Roberts learned to navigate career criticism: &apos;I had a lot of things I needed to overcome for myself&apos;",
+      "link": "https://www.cnbc.com/2025/10/11/how-julia-roberts-learned-to-navigate-career-criticism.html",
+      "summary": "Julia Roberts faced harsh criticism early in her career, she says. Here's how to use that feedback to your advantage, according to a career coach.",
+      "published": "Sat, 11 Oct 2025 13:30:01 GMT",
+      "content": "Julia Roberts faced harsh criticism early in her career, she says. Here's how to use that feedback to your advantage, according to a career coach.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "10c30f53a07f8a30577b7f7c36c5858d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JULIA ROBERTS' JOURNEY THROUGH CAREER CRITICISM 🌟\n\n- Julia Roberts overcame harsh early career criticism 💪\n- Learn to leverage feedback for personal growth 📈\n- Career coach shares tips on turning criticism into opportunity 🌟\n\nTAKEAWAY: Julia Roberts' story teaches us to transform career criticism into personal development and success with the right mindset and strategies.",
+      "exported_at": "2025-10-11T09:44:42.147956",
       "continuous_session": true
     }
   ]
