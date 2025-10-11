@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T20:05:23.485502",
-    "total_articles": 2683,
-    "new_articles_in_last_fetch": 2683,
+    "created_at": "2025-10-11T03:11:03.596895",
+    "total_articles": 2684,
+    "new_articles_in_last_fetch": 2684,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -34836,6 +34836,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP THREATENS EXPORT CONTROLS ON BOEING PARTS IN RESPONSE TO CHINA 🚨\n\n- US considers export controls on Boeing parts due to China's rare earth mineral limits\n- President Trump's response to Chinese restrictions escalates trade tensions\n- Boeing faces potential impact if export controls are implemented\n\nTAKEAWAY: President Trump's threat to impose export controls on Boeing parts in retaliation to China's actions could heighten trade tensions and impact Boeing's operations.",
       "exported_at": "2025-10-10T20:05:23.308899",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump administration lays off dozens of CDC officials, NYT reports",
+      "link": "https://www.cnbc.com/2025/10/11/trump-administration-lays-off-dozens-of-cdc-officials-nyt-reports.html",
+      "summary": "The White House and the CDC did not immediately respond to Reuters requests for comment.",
+      "published": "Sat, 11 Oct 2025 05:15:53 GMT",
+      "content": "The White House and the CDC did not immediately respond to Reuters requests for comment.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "020244e047f39bbc5f77f4fe60f1953c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP ADMIN LAYS OFF CDC OFFICIALS: SHAKE-UP AT THE TOP ⚠️\n\n- Dozens of CDC officials laid off by Trump administration 📉\n- White House and CDC silent on the reported layoffs 🤐\n- Uncertainty looms over the future of CDC leadership 🌐\n\nTAKEAWAY: Trump's administration shake-up at CDC with dozens of layoffs raises concerns and uncertainties about the organization's future direction.",
+      "exported_at": "2025-10-11T03:11:03.559819",
       "continuous_session": true
     }
   ]
