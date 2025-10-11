@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-11T10:15:14.957842",
-    "total_articles": 2696,
-    "new_articles_in_last_fetch": 2696,
+    "created_at": "2025-10-11T11:06:01.048319",
+    "total_articles": 2697,
+    "new_articles_in_last_fetch": 2697,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -35005,6 +35005,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WARREN BUFFETT'S JAPANESE STOCKS SURGE PAST $30 BILLION 🚀\n\n- Berkshire Hathaway's Japanese stock positions exceed $30 billion 💰\n- Buffett continues buying, showing confidence in the market 📈\n- Five Japanese \"trading houses\" contribute to the portfolio 🏢\n- Strong performance indicates Buffett's strategic investment vision ✅\n- Berkshire's equity portfolio reaches impressive milestones ⚡️\n- Japanese stocks remain a key focus for Berkshire Hathaway 🔍\n\nTAKEAWAY: Warren Buffett's massive $30 billion Japanese stock positions signal strong confidence, strategic vision, and continued growth in Berkshire Hathaway's equity portfolio.",
       "exported_at": "2025-10-11T10:15:14.764909",
+      "continuous_session": true
+    },
+    {
+      "title": "BlackRock sees shift in artificial intelligence trade. Where investors are putting their money now.",
+      "link": "https://www.cnbc.com/2025/10/11/artificial-intelligence-bitcoin-as-top-blackrock-etf-place.html",
+      "summary": "The key trend BlackRock is seeing when it comes to exchange traded funds.",
+      "published": "Sat, 11 Oct 2025 15:00:01 GMT",
+      "content": "The key trend BlackRock is seeing when it comes to exchange traded funds.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a7153025ed5e91682bf659badde4a768",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BLACKROCK SPOTS SHIFT IN AI TRADE 📈\n\n- BlackRock notes changing trends in exchange traded funds 💡\n- Investors shifting focus on AI-related investments 🤖\n- AI trade gaining momentum in the market 📈\n- Increased interest in AI ETFs observed by BlackRock 📊\n- Investors diversifying portfolios with AI-focused assets 🔄\n- BlackRock highlights the growing importance of AI in investment strategies 💰\n\nTAKEAWAY: BlackRock identifies a significant shift towards AI investments in the market, signaling a growing trend in investor preferences.",
+      "exported_at": "2025-10-11T11:06:01.017615",
       "continuous_session": true
     }
   ]
