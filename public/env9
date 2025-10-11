@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-10T19:09:34.296576",
-    "total_articles": 2682,
-    "new_articles_in_last_fetch": 2682,
+    "created_at": "2025-10-10T20:05:23.485502",
+    "total_articles": 2683,
+    "new_articles_in_last_fetch": 2683,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -34823,6 +34823,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CRAMER'S INSIGHTS ON EARNINGS SEASON KICKOFF 🚀\n\n- CNBC's Jim Cramer guides investors through a week packed with earnings 📈\n- Focus on big banks as they lead the way into earnings season 🏦\n- Wall Street anticipates key financial reports to set the market tone 📊\n- Investors eager for insights on economic trends from earnings releases 💡\n- Big banks' performance to provide crucial market indicators ✅\n- Cramer's analysis offers valuable guidance for navigating earnings season 🎯\n\nTAKEAWAY: With earnings season starting off with big banks, investors look to Cramer for valuable insights to navigate the market effectively.",
       "exported_at": "2025-10-10T19:09:34.096924",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump threatens export controls on Boeing parts in response to China",
+      "link": "https://www.cnbc.com/2025/10/10/trump-threatens-export-controls-on-boeing-parts-in-response-to-china.html",
+      "summary": "The United States could impose export controls on Boeing plane parts as part of Washington's response to Chinese export limits on rare earth minerals, President Donald Trump said on Friday.",
+      "published": "Sat, 11 Oct 2025 00:01:44 GMT",
+      "content": "The United States could impose export controls on Boeing plane parts as part of Washington's response to Chinese export limits on rare earth minerals, President Donald Trump said on Friday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7b6574ac362555076ce36c8a104d03b4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP THREATENS EXPORT CONTROLS ON BOEING PARTS IN RESPONSE TO CHINA 🚨\n\n- US considers export controls on Boeing parts due to China's rare earth mineral limits\n- President Trump's response to Chinese restrictions escalates trade tensions\n- Boeing faces potential impact if export controls are implemented\n\nTAKEAWAY: President Trump's threat to impose export controls on Boeing parts in retaliation to China's actions could heighten trade tensions and impact Boeing's operations.",
+      "exported_at": "2025-10-10T20:05:23.308899",
       "continuous_session": true
     }
   ]
