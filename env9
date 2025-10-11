@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-11T11:06:01.048319",
-    "total_articles": 2697,
-    "new_articles_in_last_fetch": 2697,
+    "created_at": "2025-10-11T11:51:46.294827",
+    "total_articles": 2698,
+    "new_articles_in_last_fetch": 2698,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -35018,6 +35018,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BLACKROCK SPOTS SHIFT IN AI TRADE 📈\n\n- BlackRock notes changing trends in exchange traded funds 💡\n- Investors shifting focus on AI-related investments 🤖\n- AI trade gaining momentum in the market 📈\n- Increased interest in AI ETFs observed by BlackRock 📊\n- Investors diversifying portfolios with AI-focused assets 🔄\n- BlackRock highlights the growing importance of AI in investment strategies 💰\n\nTAKEAWAY: BlackRock identifies a significant shift towards AI investments in the market, signaling a growing trend in investor preferences.",
       "exported_at": "2025-10-11T11:06:01.017615",
+      "continuous_session": true
+    },
+    {
+      "title": "Biden is receiving radiation and hormone therapy to treat his prostate cancer",
+      "link": "https://www.cnbc.com/2025/10/11/biden-is-receiving-radiation-and-hormone-therapy-to-treat-his-prostate-cancer.html",
+      "summary": "Former President Joe Biden is receiving radiation and hormone therapy as part of a new phase of treating the aggressive form of prostate cancer.",
+      "published": "Sat, 11 Oct 2025 15:48:46 GMT",
+      "content": "Former President Joe Biden is receiving radiation and hormone therapy as part of a new phase of treating the aggressive form of prostate cancer.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6255e8c4dfa87546cbcb23d3b41e4a40",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BIDEN UNDERGOES RADIATION & HORMONE THERAPY FOR PROSTATE CANCER ⚠️\n\n- Biden enters new phase of treatment for aggressive prostate cancer\n- Receiving radiation and hormone therapy for the condition\n- Therapy aims to combat the aggressive nature of the cancer\n\nTAKEAWAY: Former President Biden's decision to undergo radiation and hormone therapy marks a new phase in his battle against aggressive prostate cancer.",
+      "exported_at": "2025-10-11T11:51:46.080776",
       "continuous_session": true
     }
   ]
