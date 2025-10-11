@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-11T14:44:38.224161",
-    "total_articles": 2703,
-    "new_articles_in_last_fetch": 2703,
+    "created_at": "2025-10-11T16:05:53.496287",
+    "total_articles": 2704,
+    "new_articles_in_last_fetch": 2704,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -35096,6 +35096,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP IDENTIFIES FUNDS TO PAY TROOPS DURING SHUTDOWN 🚀\n\n- Trump assures funds for troops despite government shutdown 🇺🇸\n- Administration takes action to ensure troops get paid ✅\n- Troops will receive their pay next week as planned 💵\n- Trump's commitment to supporting troops remains strong 🦅\n- Assurance provided amidst federal government shutdown ⚠️\n\nTAKEAWAY: Despite the government shutdown, President Trump ensures troops' pay is secured, showing unwavering support for the military.",
       "exported_at": "2025-10-11T14:44:38.027173",
+      "continuous_session": true
+    },
+    {
+      "title": "Airlines waive flight-change fees for East Coast flights ahead of storm",
+      "link": "https://www.cnbc.com/2025/10/11/airlines-flight-change-fees-waived-east-coast-storm.html",
+      "summary": "U.S. airlines waived fare differences and change fees for more than a dozen airports ahead of an incoming coastal storm.",
+      "published": "Sat, 11 Oct 2025 20:01:48 GMT",
+      "content": "U.S. airlines waived fare differences and change fees for more than a dozen airports ahead of an incoming coastal storm.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "db7c66c6653670b06b3dbacc7b71b351",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AIRLINES WAIVE FEES FOR EAST COAST FLIGHTS AHEAD OF STORM ⚠️\n\n- More than a dozen airports covered by fee waivers ✈️\n- Airlines waive fare differences and change fees ✅\n- Proactive measure taken ahead of incoming coastal storm 🌧️\n\nTAKEAWAY: U.S. airlines show flexibility by waiving flight-change fees for East Coast flights, ensuring passenger safety during the upcoming storm.",
+      "exported_at": "2025-10-11T16:05:53.296860",
       "continuous_session": true
     }
   ]
