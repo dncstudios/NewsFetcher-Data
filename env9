@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-11T11:51:46.294827",
-    "total_articles": 2698,
-    "new_articles_in_last_fetch": 2698,
+    "created_at": "2025-10-11T12:47:36.651540",
+    "total_articles": 2699,
+    "new_articles_in_last_fetch": 2699,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -35031,6 +35031,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BIDEN UNDERGOES RADIATION & HORMONE THERAPY FOR PROSTATE CANCER ⚠️\n\n- Biden enters new phase of treatment for aggressive prostate cancer\n- Receiving radiation and hormone therapy for the condition\n- Therapy aims to combat the aggressive nature of the cancer\n\nTAKEAWAY: Former President Biden's decision to undergo radiation and hormone therapy marks a new phase in his battle against aggressive prostate cancer.",
       "exported_at": "2025-10-11T11:51:46.080776",
+      "continuous_session": true
+    },
+    {
+      "title": "There are no survivors in the blast at a Tennessee explosives factory, sheriff says",
+      "link": "https://www.cnbc.com/2025/10/11/tennessee-plant-explosion.html",
+      "summary": "Multiple people are dead and several others are unaccounted for after a blast in Tennessee at a military explosives plant, according to law enforcement.",
+      "published": "Sat, 11 Oct 2025 16:44:18 GMT",
+      "content": "Multiple people are dead and several others are unaccounted for after a blast in Tennessee at a military explosives plant, according to law enforcement.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1e268263f1f4291f05384ff59211f955",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRAGEDY AT TENNESSEE EXPLOSIVES FACTORY: NO SURVIVORS 😢\n\n- Multiple fatalities reported after blast at military explosives plant 💥\n- Sheriff confirms no survivors found at the scene 🚨\n- Several individuals still missing after the tragic incident\n- Law enforcement investigating the cause of the explosion ⚠️\n- Community mourns the loss of lives in the devastating blast 😔\n\nTAKEAWAY: The tragic explosion at the Tennessee explosives factory has resulted in multiple fatalities, with no survivors found as authorities continue search and investigation.",
+      "exported_at": "2025-10-11T12:47:36.453014",
       "continuous_session": true
     }
   ]
