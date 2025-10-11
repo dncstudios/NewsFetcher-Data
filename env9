@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-11T09:33:58.310031",
-    "total_articles": 2690,
-    "new_articles_in_last_fetch": 2690,
+    "created_at": "2025-10-11T09:39:11.565912",
+    "total_articles": 2693,
+    "new_articles_in_last_fetch": 2693,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -34927,6 +34927,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WARREN BUFFETT'S JAPANESE STOCKS SURGE PAST $30 BILLION 🚀\n\n- Berkshire Hathaway's Japanese stock positions exceed $30 billion 💰\n- Buffett continues buying, showing confidence in the market 📈\n- Five Japanese \"trading houses\" contribute to the portfolio 🏢\n- Strong performance indicates Buffett's strategic investment vision ✅\n- Berkshire's equity portfolio reaches impressive milestones ⚡️\n- Japanese stocks remain a key focus for Berkshire Hathaway 🔍\n\nTAKEAWAY: Warren Buffett's massive $30 billion Japanese stock positions signal strong confidence, strategic vision, and continued growth in Berkshire Hathaway's equity portfolio.",
       "exported_at": "2025-10-11T09:33:58.136766",
+      "continuous_session": true
+    },
+    {
+      "title": "Market sell-off: Trump post lops off $2 trillion from stocks in a single day",
+      "link": "https://www.cnbc.com/2025/10/11/trump-post-costs-stocks-2-trillion-in-single-day.html",
+      "summary": "The unraveling shows the sway the president's one-man trade policy still has over the fate of the global economy.",
+      "published": "Sat, 11 Oct 2025 13:32:09 GMT",
+      "content": "The unraveling shows the sway the president's one-man trade policy still has over the fate of the global economy.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4404a9e73bac9aaa9d6c793a6321e09d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MARKET SELLOFF: TRUMP'S POST SHAVES OFF $2 TRILLION FROM STOCKS! 🚨\n\n- Trump's trade policy impact slashes global stocks by $2 trillion 💸\n- President's decisions hold immense power over the global economy 🌍\n- Market unraveling highlights the influence of Trump's actions 📉\n\nTAKEAWAY: Trump's recent trade policy decisions result in a massive $2 trillion loss in stock value, showcasing his significant influence on the global economy.",
+      "exported_at": "2025-10-11T09:39:11.383383",
+      "continuous_session": true
+    },
+    {
+      "title": "Activist Irenic takes a stake in Atkore, urges company to consider a sale",
+      "link": "https://www.cnbc.com/2025/10/11/activist-irenic-takes-a-stake-in-atkore-urges-company-to-consider-a-sale.html",
+      "summary": "Irenic's stake comes at a critical inflection point for Atkore. It needs a CEO, has operational and capital challenges, and a poor market perception.",
+      "published": "Sat, 11 Oct 2025 13:09:33 GMT",
+      "content": "Irenic's stake comes at a critical inflection point for Atkore. It needs a CEO, has operational and capital challenges, and a poor market perception.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "953d1ad90519b142e77186f3028553a6",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ACTIVIST IRENIC PUSHES ATKORE FOR SALE 🚀\n\n- Irenic buys stake in Atkore amid critical phase 📈\n- Urges company to contemplate a potential sale 💼\n- Atkore faces CEO vacancy and operational hurdles ⚠️\n- Capital challenges and negative market sentiment persist 📉\n\nTAKEAWAY: Irenic's move to push Atkore for a potential sale comes at a crucial juncture with leadership and operational obstacles, highlighting the need for strategic decisions.",
+      "exported_at": "2025-10-11T09:39:11.383448",
+      "continuous_session": true
+    },
+    {
+      "title": "These stocks reporting next week have a history of posting earnings beats and rallying",
+      "link": "https://www.cnbc.com/2025/10/11/these-stocks-reporting-next-week-have-a-history-of-posting-earnings-beats-and-rallying.html",
+      "summary": "Several companies slated to report their quarterly results next week have regularly posted higher-than-expected revenue and earnings.",
+      "published": "Sat, 11 Oct 2025 13:08:08 GMT",
+      "content": "Several companies slated to report their quarterly results next week have regularly posted higher-than-expected revenue and earnings.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "94c0fcd3e67a08ddf9377b64de34c770",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS WITH EARNINGS BEATS AND RALLIES SET TO REPORT 🚀\n\n- Companies reporting next week consistently exceed revenue expectations ✅\n- History of posting higher-than-expected earnings boosts investor confidence 📈\n- Anticipation high for upcoming quarterly results 🎯\n\nTAKEAWAY: Investors eagerly await the upcoming earnings reports from these companies known for surpassing revenue and earnings forecasts, driving market optimism.",
+      "exported_at": "2025-10-11T09:39:11.383464",
       "continuous_session": true
     }
   ]
