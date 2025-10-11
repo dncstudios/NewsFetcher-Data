@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-11T03:21:16.680406",
-    "total_articles": 2685,
-    "new_articles_in_last_fetch": 2685,
+    "created_at": "2025-10-11T06:15:22.413975",
+    "total_articles": 2686,
+    "new_articles_in_last_fetch": 2686,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -34862,6 +34862,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: U.S. MILITARY INTENSIFIES COUNTER-NARCOTICS OPERATIONS IN LATIN AMERICA 🚀\n\n- Defense Secretary vows to crush cartels and keep America safe 🛡️\n- Task force aims to stop the poison of narcotics in Latin America 🌿\n- Operational command boosted to tackle drug trafficking in the region 🌎\n\nTAKEAWAY: The U.S. military's increased focus on counter-narcotics operations in Latin America signals a determined effort to combat drug trafficking and ensure national security.",
       "exported_at": "2025-10-11T03:21:16.498824",
+      "continuous_session": true
+    },
+    {
+      "title": "Luigi Mangione&apos;s lawyers seek dismissal of federal charges in assassination of UnitedHealthcare CEO",
+      "link": "https://www.cnbc.com/2025/10/11/luigi-mangione-trial-unitedhealthcare-ceo.html",
+      "summary": "Lawyers for Luigi Mangione asked a New York federal judge Saturday to dismiss some criminal charges.",
+      "published": "Sat, 11 Oct 2025 10:08:39 GMT",
+      "content": "Lawyers for Luigi Mangione asked a New York federal judge Saturday to dismiss some criminal charges.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d31ba1a6567784df68c7ca551603d652",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: LUIGI MANGIONE'S LAWYERS AIM TO DISMISS FEDERAL CHARGES ⚠️\n\n- Luigi Mangione's lawyers push for dismissal of criminal charges\n- Legal team requests judge in New York to drop some charges\n- Federal case involves the assassination of UnitedHealthcare CEO\n\nTAKEAWAY: Legal defense for Luigi Mangione intensifies as lawyers seek to dismiss federal charges tied to the UnitedHealthcare CEO assassination case.",
+      "exported_at": "2025-10-11T06:15:22.382584",
       "continuous_session": true
     }
   ]
