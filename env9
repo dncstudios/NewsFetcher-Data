@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-11T06:30:36.666971",
-    "total_articles": 2687,
-    "new_articles_in_last_fetch": 2687,
+    "created_at": "2025-10-11T07:52:26.831901",
+    "total_articles": 2688,
+    "new_articles_in_last_fetch": 2688,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -34888,6 +34888,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: LUIGI MANGIONE'S LAWYERS AIM TO DISMISS FEDERAL CHARGES ⚠️\n\n- Luigi Mangione's lawyers push for dismissal of criminal charges\n- Legal team requests judge in New York to drop some charges\n- Federal case involves the assassination of UnitedHealthcare CEO\n\nTAKEAWAY: Legal defense for Luigi Mangione intensifies as lawyers seek to dismiss federal charges tied to the UnitedHealthcare CEO assassination case.",
       "exported_at": "2025-10-11T06:30:36.636341",
+      "continuous_session": true
+    },
+    {
+      "title": "Wealth requires long-term effort, says &apos;The Art of Spending Money&apos; author: Getting rich quickly won&apos;t cut it",
+      "link": "https://www.cnbc.com/2025/10/11/morgan-housel-wealth-requires-long-term-effort.html",
+      "summary": "To build wealth, we not only need to save but also spend wisely. In \"The Art of Spending Money,\" Morgan Housel writes about the money tradeoffs we all face.",
+      "published": "Sat, 11 Oct 2025 11:30:02 GMT",
+      "content": "To build wealth, we not only need to save but also spend wisely. In \"The Art of Spending Money,\" Morgan Housel writes about the money tradeoffs we all face.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0cfcdfec3fe9bbe923cf929bc54c195b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WEALTH REQUIRES PATIENCE, SAYS 'THE ART OF SPENDING MONEY' AUTHOR 🚀\n\n- Building wealth demands long-term commitment 💪\n- Saving and smart spending crucial for financial success 🌟\n- 'The Art of Spending Money' emphasizes money tradeoffs 💸\n- Quick riches not sustainable for long-term wealth growth 📈\n- Author Morgan Housel advocates for wise spending strategies 💡\n\nTAKEAWAY: The path to wealth lies in patience, strategic saving, and wise spending choices, as highlighted in 'The Art of Spending Money' by Morgan Housel.",
+      "exported_at": "2025-10-11T07:52:26.801202",
       "continuous_session": true
     }
   ]
