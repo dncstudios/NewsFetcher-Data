@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-11T13:38:32.473933",
-    "total_articles": 2701,
-    "new_articles_in_last_fetch": 2701,
+    "created_at": "2025-10-11T14:24:15.700903",
+    "total_articles": 2702,
+    "new_articles_in_last_fetch": 2702,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -35070,6 +35070,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: PALESTINIANS RETURN TO RUINS AS GAZA CEASEFIRE HOLDS 🕊️\n\n- Tens of thousands of displaced Palestinians go back to Gaza 🏠\n- Ceasefire between Israel and Hamas holds for the second day 🕊️\n- U.S. troops land in Israel amidst the ceasefire 🇺🇸\n\nTAKEAWAY: Amidst the Gaza ceasefire, Palestinian residents return to their devastated neighborhoods while U.S. troops arrive in Israel, marking a delicate peace.",
       "exported_at": "2025-10-11T13:38:32.285597",
+      "continuous_session": true
+    },
+    {
+      "title": "Palestinians return to ruins and the U.S. expects hostages freed on Monday as Gaza ceasefire holds",
+      "link": "https://www.cnbc.com/2025/10/11/palestinians-us-troops-ceasefire-gaza.html",
+      "summary": "The Gaza ceasefire held in its second day as tens of thousands of displaced Palestinians returned to their neighborhoods Saturday.",
+      "published": "Sat, 11 Oct 2025 18:23:36 GMT",
+      "content": "The Gaza ceasefire held in its second day as tens of thousands of displaced Palestinians returned to their neighborhoods Saturday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "29dd3feddac8399e0cd924ceba3fc7f7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PALESTINIANS RETURN TO RUINS AS U.S. EXPECTS HOSTAGES FREED 🚀\n\n- Gaza ceasefire holds for second day amid returning displaced Palestinians 🕊️\n- Tens of thousands go back to neighborhoods in ruins 🏚️\n- U.S. anticipates hostages' release by Monday 🔓\n- Hope rises for peace in Gaza as ceasefire remains intact ✌️\n\nTAKEAWAY: Amidst the ruins, the return of displaced Palestinians and the anticipated release of hostages bring hope for peace in Gaza as the ceasefire holds strong.",
+      "exported_at": "2025-10-11T14:24:15.507391",
       "continuous_session": true
     }
   ]
