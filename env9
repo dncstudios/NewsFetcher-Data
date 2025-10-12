@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-12T18:34:38.523388",
-    "total_articles": 2733,
-    "new_articles_in_last_fetch": 2733,
+    "created_at": "2025-10-12T19:55:47.360924",
+    "total_articles": 2734,
+    "new_articles_in_last_fetch": 2734,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -35486,6 +35486,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP THREATENS RUSSIA WITH TOMAHAWK MISSILES 🚨\n\n- Trump warns Russia of sending long-range Tomahawks to Ukraine 🚀\n- Ultimatum issued for Moscow to settle war promptly ⚠️\n- Tensions rise as Trump escalates warning to Moscow 🔥\n\nTAKEAWAY: President Trump's threat to send long-range Tomahawk missiles to Ukraine if Russia doesn't settle the war soon escalates tensions in the region.",
       "exported_at": "2025-10-12T18:34:38.329577",
+      "continuous_session": true
+    },
+    {
+      "title": "Asia-Pacific markets set to fall on renewed China-U.S. trade tensions",
+      "link": "https://www.cnbc.com/2025/10/13/asia-markets-hang-seng-index-csi-300-us-china-trade-tensions.html",
+      "summary": "Asia-Pacific markets were set to fall Monday, as investors kept an eye out for any fallout from the renewed China-U.S. trade tensions.",
+      "published": "Sun, 12 Oct 2025 23:51:30 GMT",
+      "content": "Asia-Pacific markets were set to fall Monday, as investors kept an eye out for any fallout from the renewed China-U.S. trade tensions.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f9273f1b4fe56aa067a4ec29fc491e71",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASIA-PACIFIC MARKETS BRACE FOR FALL ON CHINA-U.S. TRADE TENSIONS 🚨\n\n- Investors anticipate market decline due to renewed trade tensions 📉\n- Focus on potential fallout from China-U.S. trade disputes 🇨🇳🇺🇸\n- Uncertainty looms over Asia-Pacific markets 🌏\n- Market sentiment cautious amidst escalating trade tensions ⚠️\n- Investors monitor impact of trade tensions on market performance 📈📊\n- Concerns rise over potential negative effects on regional economies 📉\n\nTAKEAWAY: Asia-Pacific markets face a looming decline as renewed China-U.S. trade tensions cast a shadow of uncertainty, prompting cautious investor sentiment.",
+      "exported_at": "2025-10-12T19:55:47.329933",
       "continuous_session": true
     }
   ]
