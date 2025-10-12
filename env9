@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-12T12:59:20.066469",
-    "total_articles": 2725,
-    "new_articles_in_last_fetch": 2725,
+    "created_at": "2025-10-12T13:14:38.104734",
+    "total_articles": 2726,
+    "new_articles_in_last_fetch": 2726,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -35382,6 +35382,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRUMP TO GREET ISRAELI HOSTAGES 'IN PERSON' AFTER HAMAS RELEASE 🚀\n\n- Vice President JD Vance confirms imminent release by Hamas ✅\n- Trump plans to personally welcome hostages upon release 🤝\n- Anticipation grows as Gaza hostage situation nears resolution ⚡️\n\nTAKEAWAY: Trump's proactive stance to greet Israeli hostages 'in person' following their release by Hamas elevates anticipation and optimism for a successful resolution.",
       "exported_at": "2025-10-12T12:59:19.875226",
+      "continuous_session": true
+    },
+    {
+      "title": "New Jersey declares state of emergency as nor&apos;easter approaches",
+      "link": "https://www.cnbc.com/2025/10/12/new-jersey-declares-state-of-emergency-as-noreaster-approaches.html",
+      "summary": "A nor'easter churned its way up the East Coast on Sunday, with New Jersey declaring a state of emergency.",
+      "published": "Sun, 12 Oct 2025 17:10:40 GMT",
+      "content": "A nor'easter churned its way up the East Coast on Sunday, with New Jersey declaring a state of emergency.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "49a2f0b2a5cdff01f020fa7a5f5c7047",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NEW JERSEY DECLARES STATE OF EMERGENCY AS NOR'EASTER APPROACHES 🚨\n\n- Nor'easter threatens East Coast, New Jersey on high alert 🌊\n- State of emergency declared as precautionary measure ⚠️\n- Residents urged to stay safe and prepared for severe weather 🌀\n- Nor'easter expected to bring strong winds and heavy rain 🌧️💨\n- Authorities taking necessary steps to ensure public safety ✅\n- Emergency resources mobilized to handle potential impact 🚑🚒🚓\n\nTAKEAWAY: New Jersey's state of emergency declaration in anticipation of the approaching nor'easter underscores the importance of preparedness and safety measures for residents.",
+      "exported_at": "2025-10-12T13:14:37.927067",
       "continuous_session": true
     }
   ]
