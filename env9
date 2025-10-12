@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-12T01:49:13.593710",
-    "total_articles": 2710,
-    "new_articles_in_last_fetch": 2710,
+    "created_at": "2025-10-12T06:07:43.468671",
+    "total_articles": 2711,
+    "new_articles_in_last_fetch": 2711,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -35187,6 +35187,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: U.S. FOUNDERS 'SHAMELESS' WITH FEEDBACK, EUROPE SHOULD FOLLOW 🚀\n\n- OpenAI's EMEA startup boss urges AI startups to appoint feedback officers 🎯\n- Embrace shameless feedback culture for growth and improvement 💪\n- Feedback critical for innovation and staying ahead in AI industry 🌟\n\nTAKEAWAY: OpenAI's startup boss advocates for a shameless feedback culture in AI startups, emphasizing its crucial role in growth and innovation.",
       "exported_at": "2025-10-12T01:49:13.391990",
+      "continuous_session": true
+    },
+    {
+      "title": "CDC walks back hundreds of firings as U.S. shutdown persists",
+      "link": "https://www.cnbc.com/2025/10/12/cdc-walks-back-hundreds-of-firings-as-us-shutdown-persists.html",
+      "summary": "Among those initially cut were staff responsible for the Morbidity and Mortality Weekly Report, a critical vehicle for disseminating public health findings.",
+      "published": "Sun, 12 Oct 2025 10:04:53 GMT",
+      "content": "Among those initially cut were staff responsible for the Morbidity and Mortality Weekly Report, a critical vehicle for disseminating public health findings.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "17a482982630a557f67410da0a3465cf",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CDC REVERSES HUNDREDS OF FIRINGS AMID U.S. SHUTDOWN 🚨\n\n- CDC reinstates staff, including Morbidity & Mortality Weekly Report team\n- Firings reversed due to critical role in public health dissemination\n- U.S. shutdown impacts CDC operations and workforce\n- Morbidity & Mortality Weekly Report essential for public health findings\n\nTAKEAWAY: CDC's reversal of hundreds of firings, especially the team responsible for the Morbidity and Mortality Weekly Report, highlights the critical role in public health dissemination during the U.S. shutdown.",
+      "exported_at": "2025-10-12T06:07:43.278871",
       "continuous_session": true
     }
   ]
