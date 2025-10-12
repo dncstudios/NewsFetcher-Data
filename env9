@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-12T01:18:43.846344",
-    "total_articles": 2709,
-    "new_articles_in_last_fetch": 2709,
+    "created_at": "2025-10-12T01:49:13.593710",
+    "total_articles": 2710,
+    "new_articles_in_last_fetch": 2710,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -35174,6 +35174,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CDC REVERSES HUNDREDS OF FIRINGS AMID U.S. SHUTDOWN 🚨\n\n- CDC reinstates workers, including crucial staff for health report 📊\n- Firings reversed due to shutdown impact 💼\n- Morbidity and Mortality Weekly Report dissemination restored ✅\n\nTAKEAWAY: CDC's reversal of hundreds of firings, especially reinstating vital staff for health reports, alleviates concerns amid the ongoing U.S. shutdown.",
       "exported_at": "2025-10-12T01:18:43.641520",
+      "continuous_session": true
+    },
+    {
+      "title": "U.S. founders are &apos;shameless&apos; with feedback and Europe&apos;s should do the same: OpenAI&apos;s startup boss",
+      "link": "https://www.cnbc.com/2025/10/11/american-founders-more-demanding-than-europe-openai-startup-boss-says.html",
+      "summary": "\"Every AI startup should have a chief feedback officer,\" OpenAI's EMEA startup boss said.",
+      "published": "Sat, 11 Oct 2025 02:07:12 GMT",
+      "content": "\"Every AI startup should have a chief feedback officer,\" OpenAI's EMEA startup boss said.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "66084327565e7cd5ce7188af1e847c9c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: U.S. FOUNDERS 'SHAMELESS' WITH FEEDBACK, EUROPE SHOULD FOLLOW 🚀\n\n- OpenAI's EMEA startup boss urges AI startups to appoint feedback officers 🎯\n- Embrace shameless feedback culture for growth and improvement 💪\n- Feedback critical for innovation and staying ahead in AI industry 🌟\n\nTAKEAWAY: OpenAI's startup boss advocates for a shameless feedback culture in AI startups, emphasizing its crucial role in growth and innovation.",
+      "exported_at": "2025-10-12T01:49:13.391990",
       "continuous_session": true
     }
   ]
