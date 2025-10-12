@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-11T17:57:31.946444",
-    "total_articles": 2705,
-    "new_articles_in_last_fetch": 2705,
+    "created_at": "2025-10-11T22:56:38.469360",
+    "total_articles": 2706,
+    "new_articles_in_last_fetch": 2706,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -35122,6 +35122,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: DIANE KEATON, OSCAR-WINNING STAR OF 'ANNIE HALL' AND 'THE GODFATHER' SERIES, PASSES AWAY AT 79 ⚠️\n\n- Hollywood mourns the loss of iconic actor Diane Keaton 🎬\n- Keaton's unique charm and talent captivated audiences worldwide 🌟\n- Known for her roles in 'Annie Hall' and 'The Godfather' series 🎥\n- Keaton leaves behind a legacy of memorable performances 🌹\n- Fans and industry peers remember her as a true talent and inspiration 💔\n\nTAKEAWAY: The passing of Diane Keaton, known for her unforgettable roles in iconic movies, leaves a void in Hollywood and her fans' hearts.",
       "exported_at": "2025-10-11T17:57:31.750192",
+      "continuous_session": true
+    },
+    {
+      "title": "China defends rare earth export curbs as ‘legitimate,’ hits back at U.S. tariffs ahead of possible Trump-Xi meeting",
+      "link": "https://www.cnbc.com/2025/10/12/china-defends-rare-earth-export-curbs-as-legitimate-hits-back-at-us-tariffs-ahead-of-possible-trump-xi-meeting.html",
+      "summary": "The Chinese Ministry of Commerce said the controls, issued Oct. 9, were part of Beijing's effort to \"better safeguard world peace and regional stability.\"",
+      "published": "Sun, 12 Oct 2025 02:55:56 GMT",
+      "content": "The Chinese Ministry of Commerce said the controls, issued Oct. 9, were part of Beijing's effort to \"better safeguard world peace and regional stability.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "053a40ee0376d760475bbc2fddb2d2eb",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CHINA DEFENDS RARE EARTH EXPORT CURBS AMID U.S. TARIFFS 🚨\n\n- Chinese Ministry of Commerce defends export controls as \"legitimate\" 🛡️\n- Measures aim to safeguard world peace and regional stability 🌍\n- China hits back at U.S. tariffs ahead of possible Trump-Xi meeting 💥\n- Uncertainty looms over trade tensions between U.S. and China ⚠️\n- Rare earth export curbs add to existing trade dispute 🔒\n- Beijing's actions escalate trade war fears 🚨\n\nTAKEAWAY: China's defense of rare earth export curbs and pushback against U.S. tariffs heighten trade tensions, setting the stage for a crucial Trump-Xi meeting.",
+      "exported_at": "2025-10-11T22:56:38.438095",
       "continuous_session": true
     }
   ]
