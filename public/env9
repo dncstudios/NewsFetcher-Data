@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-12T15:26:42.760511",
-    "total_articles": 2729,
-    "new_articles_in_last_fetch": 2729,
+    "created_at": "2025-10-12T17:58:52.868314",
+    "total_articles": 2730,
+    "new_articles_in_last_fetch": 2730,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -35434,6 +35434,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AG PAM BONDI EMBRACES SNL SPOOF WITH DHS SEC. KRISTI NOEM 🌟\n\n- SNL skit pokes fun at Bondi's stonewalling and Noem's dog incident 🐶\n- President Trump's hair color preference also a target 🎨\n- Bondi reacts positively to the spoof, appreciates Amy Poehler's portrayal 🌟\n\nTAKEAWAY: Pam Bondi's positive response to the SNL spoof shows her ability to embrace humor and criticism, creating a light-hearted moment in politics.",
       "exported_at": "2025-10-12T15:26:42.552989",
+      "continuous_session": true
+    },
+    {
+      "title": "New Jersey declares emergency as nor&apos;easter approaches, while Alaska flooding carries away homes",
+      "link": "https://www.cnbc.com/2025/10/12/new-jersey-declares-state-of-emergency-as-noreaster-approaches.html",
+      "summary": "As nor'easter churned its way up the East Coast, heavily populated areas experienced excessive rain, lashing winds and coastal flooding.",
+      "published": "Sun, 12 Oct 2025 21:56:42 GMT",
+      "content": "As nor'easter churned its way up the East Coast, heavily populated areas experienced excessive rain, lashing winds and coastal flooding.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "82b7858fda9c2249cdbeb159b7a853de",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NEW JERSEY DECLARES EMERGENCY AS NOR'EASTER APPROACHES 🚨\n\n- Nor'easter brings heavy rain, strong winds to East Coast 🌧️💨\n- New Jersey declares emergency due to coastal flooding 🚨\n- Alaska faces severe flooding, homes swept away 🏠🌊\n- Residents in Alaska evacuated as flooding worsens 🚨\n- Nor'easter causes chaos in heavily populated areas 🏙️\n- Emergency measures taken to ensure safety in affected regions 🚑🛑\n\nTAKEAWAY: New Jersey and Alaska face crises with a nor'easter causing flooding and destruction, prompting emergency declarations and evacuations.",
+      "exported_at": "2025-10-12T17:58:52.705377",
       "continuous_session": true
     }
   ]
