@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-12T17:58:52.868314",
-    "total_articles": 2730,
-    "new_articles_in_last_fetch": 2730,
+    "created_at": "2025-10-12T18:09:07.386757",
+    "total_articles": 2731,
+    "new_articles_in_last_fetch": 2731,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -35447,6 +35447,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NEW JERSEY DECLARES EMERGENCY AS NOR'EASTER APPROACHES 🚨\n\n- Nor'easter brings heavy rain, strong winds to East Coast 🌧️💨\n- New Jersey declares emergency due to coastal flooding 🚨\n- Alaska faces severe flooding, homes swept away 🏠🌊\n- Residents in Alaska evacuated as flooding worsens 🚨\n- Nor'easter causes chaos in heavily populated areas 🏙️\n- Emergency measures taken to ensure safety in affected regions 🚑🛑\n\nTAKEAWAY: New Jersey and Alaska face crises with a nor'easter causing flooding and destruction, prompting emergency declarations and evacuations.",
       "exported_at": "2025-10-12T17:58:52.705377",
+      "continuous_session": true
+    },
+    {
+      "title": "Stock futures rebound from Friday’s rout after Trump says China situation ‘will all be fine’: Live updates",
+      "link": "https://www.cnbc.com/2025/10/12/stock-market-today-live-updates.html",
+      "summary": "Those moves come after Trump's latest Truth Social post suggested to investors the president may not follow through on his threat to post a \"massive increase of tariffs\" on China.",
+      "published": "Sun, 12 Oct 2025 22:06:49 GMT",
+      "content": "Those moves come after Trump's latest Truth Social post suggested to investors the president may not follow through on his threat to post a \"massive increase of tariffs\" on China.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9877c1ed034f8515b2c77f232c67e096",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK FUTURES REBOUND AS TRUMP EASES CHINA TENSION 🚀\n\n- Stock futures rise after Trump's reassuring message on China 📈\n- Investors relieved as Trump hints at avoiding tariff hike 🙌\n- Market responds positively to potential de-escalation with China 📈\n- Trump's Truth Social post eases concerns of tariff escalation 📊\n\nTAKEAWAY: Trump's optimistic message on China calms investors, leading to a rebound in stock futures after the recent rout.",
+      "exported_at": "2025-10-12T18:09:07.190082",
       "continuous_session": true
     }
   ]
