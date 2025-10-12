@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-12T06:07:43.468671",
-    "total_articles": 2711,
-    "new_articles_in_last_fetch": 2711,
+    "created_at": "2025-10-12T06:23:01.000626",
+    "total_articles": 2712,
+    "new_articles_in_last_fetch": 2712,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -35200,6 +35200,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CDC REVERSES HUNDREDS OF FIRINGS AMID U.S. SHUTDOWN 🚨\n\n- CDC reinstates staff, including Morbidity & Mortality Weekly Report team\n- Firings reversed due to critical role in public health dissemination\n- U.S. shutdown impacts CDC operations and workforce\n- Morbidity & Mortality Weekly Report essential for public health findings\n\nTAKEAWAY: CDC's reversal of hundreds of firings, especially the team responsible for the Morbidity and Mortality Weekly Report, highlights the critical role in public health dissemination during the U.S. shutdown.",
       "exported_at": "2025-10-12T06:07:43.278871",
+      "continuous_session": true
+    },
+    {
+      "title": "Warner Bros rebuffs Paramount takeover approach, Bloomberg News reports",
+      "link": "https://www.cnbc.com/2025/10/12/warner-bros-rebuffs-paramount-takeover-approach-according-to-reports.html",
+      "summary": "Warner Bros Discovery has rebuffed Paramount Skydance's initial takeover approach as too low, Bloomberg News reported on Saturday.",
+      "published": "Sun, 12 Oct 2025 10:20:39 GMT",
+      "content": "Warner Bros Discovery has rebuffed Paramount Skydance's initial takeover approach as too low, Bloomberg News reported on Saturday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1d1fe4003cbd5a6b99f7cc72464cf75f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WARNER BROS REJECTS PARAMOUNT TAKEOVER BID 🚫\n\n- Warner Bros Discovery says no to Paramount Skydance bid 💼\n- Bloomberg News: Initial offer deemed too low 📉\n- Potential takeover attempt met with resistance \n\nTAKEAWAY: Warner Bros stands firm against Paramount Skydance's low bid, signaling a potential takeover battle in the entertainment industry.",
+      "exported_at": "2025-10-12T06:23:00.808498",
       "continuous_session": true
     }
   ]
