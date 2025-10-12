@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-12T01:08:30.513487",
-    "total_articles": 2708,
-    "new_articles_in_last_fetch": 2708,
+    "created_at": "2025-10-12T01:18:43.846344",
+    "total_articles": 2709,
+    "new_articles_in_last_fetch": 2709,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -35161,6 +35161,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: THREE-SPEED EUROPE SET TO MEET WASHINGTON D.C. 🚀\n\n- Europe faces diverging economic fortunes 🌍\n- Bloc needs unity for U.S. relations 🇺🇸\n- Meeting in Washington D.C. crucial for Europe's stance 🏛️\n\nTAKEAWAY: Europe's varied economic situations challenge its unity as it heads to Washington D.C. to shape U.S. relations.",
       "exported_at": "2025-10-12T01:08:30.337515",
+      "continuous_session": true
+    },
+    {
+      "title": "CDC walks back hundreds of firings as U.S. shutdown persists",
+      "link": "https://www.cnbc.com/2025/10/12/cdc-walks-back-hundreds-of-firings-as-us-shutdown-persists.html",
+      "summary": "Among the CDC workers initially cut were staff responsible for the Morbidity and Mortality Weekly Report, a critical vehicle for disseminating public health findings.",
+      "published": "Sun, 12 Oct 2025 05:13:20 GMT",
+      "content": "Among the CDC workers initially cut were staff responsible for the Morbidity and Mortality Weekly Report, a critical vehicle for disseminating public health findings.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0cf95295a22427cfe9e08eaf03fded0a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CDC REVERSES HUNDREDS OF FIRINGS AMID U.S. SHUTDOWN 🚨\n\n- CDC reinstates workers, including crucial staff for health report 📊\n- Firings reversed due to shutdown impact 💼\n- Morbidity and Mortality Weekly Report dissemination restored ✅\n\nTAKEAWAY: CDC's reversal of hundreds of firings, especially reinstating vital staff for health reports, alleviates concerns amid the ongoing U.S. shutdown.",
+      "exported_at": "2025-10-12T01:18:43.641520",
       "continuous_session": true
     }
   ]
