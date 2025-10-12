@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-12T13:34:56.951478",
-    "total_articles": 2727,
-    "new_articles_in_last_fetch": 2727,
+    "created_at": "2025-10-12T14:30:47.471088",
+    "total_articles": 2728,
+    "new_articles_in_last_fetch": 2728,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -35408,6 +35408,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: 7 TOXIC PARENTING HABITS THAT HINDER CHILDREN'S MENTAL STRENGTH ⚠️\n\n- Child psychologist identifies 7 harmful parenting behaviors\n- Research based on 200 child-parent relationships 📊\n- Aim is to prevent mentally weak children in the future\n- Avoid these habits to nurture resilience and confidence ✅\n- Toxic behaviors can hinder kids' mental development 🚨\n- Vital for parents to provide tools for children's mental strength\n- Parental impact crucial in shaping children's resilience\n\nTAKEAWAY: Understanding and avoiding toxic parenting habits is key to fostering resilience and confidence in children, shaping their mental strength for the future.",
       "exported_at": "2025-10-12T13:34:56.755471",
+      "continuous_session": true
+    },
+    {
+      "title": "Government shutdown: Vance says &apos;fraud&apos; is rife in ACA tax credits use",
+      "link": "https://www.cnbc.com/2025/10/12/government-shutdown-vance-aca-democrats.html",
+      "summary": "Democrats want any government funding bill include an extension for enhanced Obamacare subsidies, which are set to expire at the end of this year.",
+      "published": "Sun, 12 Oct 2025 18:28:05 GMT",
+      "content": "Democrats want any government funding bill include an extension for enhanced Obamacare subsidies, which are set to expire at the end of this year.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "766851053062b68e92c92eb7e24d5f15",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GOVERNMENT SHUTDOWN LOOMS AS DEMOCRATS PUSH FOR ACA SUBSIDY EXTENSION ⚠️\n\n- Vance warns of widespread fraud in ACA tax credit usage\n- Democrats advocate for extending Obamacare subsidies\n- Enhanced subsidies set to expire by year-end 📆\n- Shutdown risk increases if funding bill lacks subsidy extension\n- ACA subsidies crucial for affordable healthcare access ✅\n- Uncertainty surrounds government funding bill negotiations ⚠️\n\nTAKEAWAY: The looming government shutdown threat intensifies as Democrats push for extending ACA subsidies, while concerns about fraud in tax credit usage add another layer of complexity to the situation.",
+      "exported_at": "2025-10-12T14:30:47.440249",
       "continuous_session": true
     }
   ]
