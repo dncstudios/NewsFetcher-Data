@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-12T07:08:42.529525",
-    "total_articles": 2713,
-    "new_articles_in_last_fetch": 2713,
+    "created_at": "2025-10-12T07:34:12.837825",
+    "total_articles": 2716,
+    "new_articles_in_last_fetch": 2716,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -35226,6 +35226,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CEASEFIRE HOLDS IN GAZA AHEAD OF HOSTAGE RELEASE AND TRUMP'S VISIT TO ISRAEL 🚀\n\n- Gaza ceasefire remains stable for three consecutive days 🕊️\n- Anticipation builds as Israeli hostages and Palestinian prisoners set for release 🙌\n- Peaceful atmosphere maintained in the region amidst ongoing tensions ✌️\n\nTAKEAWAY: The stable ceasefire in Gaza paves the way for positive developments with the expected release of hostages and prisoners, setting a hopeful tone for Trump's upcoming visit to Israel.",
       "exported_at": "2025-10-12T07:08:42.337498",
+      "continuous_session": true
+    },
+    {
+      "title": "Earnings playbook: Big banks including Goldman Sachs and JPMorgan Chase kick off the season",
+      "link": "https://www.cnbc.com/2025/10/12/earnings-playbook-gs-jpm-kick-off-the-season.html",
+      "summary": "The latest earnings season is set to kick off in earnest, and the stakes are high.",
+      "published": "Sun, 12 Oct 2025 11:26:27 GMT",
+      "content": "The latest earnings season is set to kick off in earnest, and the stakes are high.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "17a8f702426d01e9996e04fcd0c27b9e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: EARNINGS PLAYBOOK: BIG BANKS READY TO SHINE 🚀\n\n- Big banks like Goldman Sachs, JPMorgan Chase lead earnings season 🏦\n- Market eagerly awaits financial performance updates 💰\n- High expectations for strong revenue and profit numbers ✅📊\n- Investor focus on guidance for future growth and stability 🎯\n- Performance of big banks to set the tone for overall market sentiment 📈\n- Earnings season crucial for gauging economic recovery progress ⚡️\n\nTAKEAWAY: Big banks, including Goldman Sachs and JPMorgan Chase, are set to lead the earnings season, with investors eagerly anticipating strong financial performances and guidance that will influence market sentiment and economic recovery assessment.",
+      "exported_at": "2025-10-12T07:34:12.640866",
+      "continuous_session": true
+    },
+    {
+      "title": "Chinese robots are on a roll. Morgan Stanley shares its favorite plays",
+      "link": "https://www.cnbc.com/2025/10/12/chinese-robots-are-on-a-roll-morgan-stanley-shares-its-favorite-plays.html",
+      "summary": "\"As robotics in China is opening up new markets, there is no indication that robot demand in China will decrease,\" the International Federation of Robotics said.",
+      "published": "Sun, 12 Oct 2025 11:31:54 GMT",
+      "content": "\"As robotics in China is opening up new markets, there is no indication that robot demand in China will decrease,\" the International Federation of Robotics said.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "67222c6be9f57fd0f2e52190daf79551",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CHINESE ROBOTS DOMINATE MARKET, MORGAN STANLEY REVEALS TOP PICKS 🤖📈\n\n- Chinese robotics market booming, no sign of slowing down 🇨🇳\n- International Federation of Robotics optimistic about China's robot demand 🌐\n- Morgan Stanley shares top investment opportunities in Chinese robotics sector 💼\n- Rising demand for robots creating new market opportunities in China 📈\n- Chinese robotics industry showing strong growth potential 🚀\n- Future outlook for robotics in China remains highly promising 💰\n\nTAKEAWAY: Chinese robots are on the rise, with Morgan Stanley highlighting lucrative investment options in the thriving Chinese robotics market.",
+      "exported_at": "2025-10-12T07:34:12.640929",
+      "continuous_session": true
+    },
+    {
+      "title": "Baby boomers still love their department stores. Here’s what they know that Gen Zers don’t",
+      "link": "https://www.cnbc.com/2025/10/12/department-store-perks-rival-some-online-retailers.html",
+      "summary": "While younger consumers find themselves shopping online, baby boomers still hit the stores. Here's what they know that others don't, experts say.",
+      "published": "Sun, 12 Oct 2025 11:30:01 GMT",
+      "content": "While younger consumers find themselves shopping online, baby boomers still hit the stores. Here's what they know that others don't, experts say.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c9c520d1980f71d5356a03cafbbecae4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BABY BOOMERS' LOVE FOR DEPARTMENT STORES: A TIMELESS SECRET 🛍️\n\n- Baby boomers loyal to department stores, defying online trend 🛒\n- Experts reveal unique reasons behind boomers' in-store shopping 🧐\n- Younger generations favor online shopping over traditional stores 📱\n- Baby boomers' experience and preferences shape their shopping habits 🛍️\n- Department stores hold special place in baby boomers' hearts 💖\n\nTAKEAWAY: Baby boomers' enduring love for department stores reveals a unique insight into shopping habits across generations.",
+      "exported_at": "2025-10-12T07:34:12.640943",
       "continuous_session": true
     }
   ]
