@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-12T10:52:17.770086",
-    "total_articles": 2721,
-    "new_articles_in_last_fetch": 2721,
+    "created_at": "2025-10-12T11:22:49.582668",
+    "total_articles": 2722,
+    "new_articles_in_last_fetch": 2722,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -35330,6 +35330,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CHINA DEFENDS RARE EARTH EXPORT CURBS AMID U.S. TARIFFS 🚨\n\n- Chinese Ministry of Commerce defends export controls as \"legitimate\" 🛡️\n- Measures aim to safeguard world peace and regional stability 🌍\n- China hits back at U.S. tariffs ahead of possible Trump-Xi meeting 💥\n- Uncertainty looms over trade tensions between U.S. and China ⚠️\n- Rare earth export curbs add to existing trade dispute 🔒\n- Beijing's actions escalate trade war fears 🚨\n\nTAKEAWAY: China's defense of rare earth export curbs and pushback against U.S. tariffs heighten trade tensions, setting the stage for a crucial Trump-Xi meeting.",
       "exported_at": "2025-10-12T10:52:17.737984",
+      "continuous_session": true
+    },
+    {
+      "title": "China &apos;not afraid of trade war,&apos; accuses US of &apos;double standard&apos; for rare earths retaliation",
+      "link": "https://www.cnbc.com/2025/10/12/china-defends-rare-earth-export-curbs-as-legitimate-hits-back-at-us-tariffs-ahead-of-possible-trump-xi-meeting.html",
+      "summary": "U.S. stocks lost $2 trillion after President Trump said he would impose new tariffs on imports from China in retaliation for rare earth export controls.",
+      "published": "Sun, 12 Oct 2025 15:21:10 GMT",
+      "content": "U.S. stocks lost $2 trillion after President Trump said he would impose new tariffs on imports from China in retaliation for rare earth export controls.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0190464feedc7fe55529eacec6716fd1",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CHINA STANDS STRONG AMID TRADE WAR TENSIONS 🚨\n\n- China accuses US of 'double standard' in rare earths retaliation\n- President Trump to impose new tariffs on Chinese imports 📉\n- US stocks plummet, losing $2 trillion in value 💸\n- Trade war escalates as tensions rise between US and China 📈\n- Rare earth export controls spark retaliation from US 🔄\n- China shows resilience, claims to be 'not afraid' of trade war 🇨🇳\n\nTAKEAWAY: Amid escalating trade war tensions, China stands firm and accuses the US of double standards, leading to a significant impact on global markets.",
+      "exported_at": "2025-10-12T11:22:49.390430",
       "continuous_session": true
     }
   ]
