@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-12T10:06:40.447005",
-    "total_articles": 2720,
-    "new_articles_in_last_fetch": 2720,
+    "created_at": "2025-10-12T10:52:17.770086",
+    "total_articles": 2721,
+    "new_articles_in_last_fetch": 2721,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -35317,6 +35317,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: FROM REJECTION TO SUCCESS: WOMAN BECOMES BASEBALL TEAM GM 🚀\n\n- Brooke Cooper overcomes rejection to lead Worcester Red Sox ⚾\n- Initially denied internship, now excels as general manager 💼\n- Inspiring journey from setback to career fulfillment 🌟\n\nTAKEAWAY: Brooke Cooper's transformation from internship rejection to general manager at Worcester Red Sox showcases resilience and determination in pursuing a dream career in baseball.",
       "exported_at": "2025-10-12T10:06:40.415947",
+      "continuous_session": true
+    },
+    {
+      "title": "China &apos;not afraid of trade war,&apos; accuses US of &apos;double standard&apos; for rare earths retaliation",
+      "link": "https://www.cnbc.com/2025/10/12/china-defends-rare-earth-export-curbs-as-legitimate-hits-back-at-us-tariffs-ahead-of-possible-trump-xi-meeting.html",
+      "summary": "The Chinese Ministry of Commerce said the controls, issued Oct. 9, were part of Beijing's effort to \"better safeguard world peace and regional stability.\"",
+      "published": "Sun, 12 Oct 2025 14:48:50 GMT",
+      "content": "The Chinese Ministry of Commerce said the controls, issued Oct. 9, were part of Beijing's effort to \"better safeguard world peace and regional stability.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "13f764ffc7a00926333a1db278c6615e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CHINA DEFENDS RARE EARTH EXPORT CURBS AMID U.S. TARIFFS 🚨\n\n- Chinese Ministry of Commerce defends export controls as \"legitimate\" 🛡️\n- Measures aim to safeguard world peace and regional stability 🌍\n- China hits back at U.S. tariffs ahead of possible Trump-Xi meeting 💥\n- Uncertainty looms over trade tensions between U.S. and China ⚠️\n- Rare earth export curbs add to existing trade dispute 🔒\n- Beijing's actions escalate trade war fears 🚨\n\nTAKEAWAY: China's defense of rare earth export curbs and pushback against U.S. tariffs heighten trade tensions, setting the stage for a crucial Trump-Xi meeting.",
+      "exported_at": "2025-10-12T10:52:17.737984",
       "continuous_session": true
     }
   ]
