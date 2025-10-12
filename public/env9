@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-12T18:09:07.386757",
-    "total_articles": 2731,
-    "new_articles_in_last_fetch": 2731,
+    "created_at": "2025-10-12T18:29:28.657692",
+    "total_articles": 2732,
+    "new_articles_in_last_fetch": 2732,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -35460,6 +35460,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCK FUTURES REBOUND AS TRUMP EASES CHINA TENSION 🚀\n\n- Stock futures rise after Trump's reassuring message on China 📈\n- Investors relieved as Trump hints at avoiding tariff hike 🙌\n- Market responds positively to potential de-escalation with China 📈\n- Trump's Truth Social post eases concerns of tariff escalation 📊\n\nTAKEAWAY: Trump's optimistic message on China calms investors, leading to a rebound in stock futures after the recent rout.",
       "exported_at": "2025-10-12T18:09:07.190082",
+      "continuous_session": true
+    },
+    {
+      "title": "Israel expects hostages to be freed from Gaza &apos;in a few hours&apos; as ceasefire holds",
+      "link": "https://www.cnbc.com/2025/10/12/ceasefire-holds-in-gaza.html",
+      "summary": "Israel said it expects all of the living hostages held in Gaza to be released Monday, confirming the next phase of the breakthrough ceasefire deal with Hamas.",
+      "published": "Sun, 12 Oct 2025 22:26:01 GMT",
+      "content": "Israel said it expects all of the living hostages held in Gaza to be released Monday, confirming the next phase of the breakthrough ceasefire deal with Hamas.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ab8c1ba4020dc3f956a1bba8e0451b8b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ISRAEL SET TO RELEASE HOSTAGES IN BREAKTHROUGH CEASEFIRE DEAL 🚀\n\n- Israel anticipates release of all living hostages in Gaza 🇮🇱\n- Prisoner swap part of next phase in ceasefire deal with Hamas ✅\n- Monday marked as the expected date for the release ⏰\n\nTAKEAWAY: Israel's planned release of hostages in the ceasefire deal with Hamas marks a significant step towards peace in the region.",
+      "exported_at": "2025-10-12T18:29:28.454710",
       "continuous_session": true
     }
   ]
