@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-12T07:34:12.837825",
-    "total_articles": 2716,
-    "new_articles_in_last_fetch": 2716,
+    "created_at": "2025-10-12T07:39:22.702790",
+    "total_articles": 2717,
+    "new_articles_in_last_fetch": 2717,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -35265,6 +35265,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BABY BOOMERS' LOVE FOR DEPARTMENT STORES: A TIMELESS SECRET 🛍️\n\n- Baby boomers loyal to department stores, defying online trend 🛒\n- Experts reveal unique reasons behind boomers' in-store shopping 🧐\n- Younger generations favor online shopping over traditional stores 📱\n- Baby boomers' experience and preferences shape their shopping habits 🛍️\n- Department stores hold special place in baby boomers' hearts 💖\n\nTAKEAWAY: Baby boomers' enduring love for department stores reveals a unique insight into shopping habits across generations.",
       "exported_at": "2025-10-12T07:34:12.640943",
+      "continuous_session": true
+    },
+    {
+      "title": "Top Wall Street analysts are bullish on these 3 stocks for the long term",
+      "link": "https://www.cnbc.com/2025/10/12/top-wall-street-analysts-are-bullish-on-these-3-stocks-for-the-long-term.html",
+      "summary": "TipRanks' ranking service discusses three stocks, including Snowflake and Advanced Micro Devices, favored by Wall Street.",
+      "published": "Sun, 12 Oct 2025 11:35:49 GMT",
+      "content": "TipRanks' ranking service discusses three stocks, including Snowflake and Advanced Micro Devices, favored by Wall Street.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b11d0fee96c91f51338080bebf0bbc13",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WALL STREET ANALYSTS BULLISH ON 3 STOCKS FOR LONG TERM 🚀\n\n- Top analysts back Snowflake and Advanced Micro Devices 📈\n- TipRanks ranks these stocks as long-term winners 💰\n- Snowflake and AMD stand out as favorites 🌟\n\nTAKEAWAY: Wall Street's top analysts are optimistic about Snowflake and Advanced Micro Devices for long-term growth potential, according to TipRanks.",
+      "exported_at": "2025-10-12T07:39:22.528019",
       "continuous_session": true
     }
   ]
