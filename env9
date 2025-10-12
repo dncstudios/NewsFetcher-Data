@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-12T18:29:28.657692",
-    "total_articles": 2732,
-    "new_articles_in_last_fetch": 2732,
+    "created_at": "2025-10-12T18:34:38.523388",
+    "total_articles": 2733,
+    "new_articles_in_last_fetch": 2733,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -35473,6 +35473,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ISRAEL SET TO RELEASE HOSTAGES IN BREAKTHROUGH CEASEFIRE DEAL 🚀\n\n- Israel anticipates release of all living hostages in Gaza 🇮🇱\n- Prisoner swap part of next phase in ceasefire deal with Hamas ✅\n- Monday marked as the expected date for the release ⏰\n\nTAKEAWAY: Israel's planned release of hostages in the ceasefire deal with Hamas marks a significant step towards peace in the region.",
       "exported_at": "2025-10-12T18:29:28.454710",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump warns Russia he may send Ukraine long-range Tomahawks if Moscow doesn&apos;t settle war soon",
+      "link": "https://www.cnbc.com/2025/10/12/trump-russia-ukraine-long-range-tomahawks.html",
+      "summary": "President Donald Trump on Sunday warned Russia that he may send Ukraine long-range Tomahawk missiles if Moscow doesn't settle its war there soon.",
+      "published": "Sun, 12 Oct 2025 22:31:29 GMT",
+      "content": "President Donald Trump on Sunday warned Russia that he may send Ukraine long-range Tomahawk missiles if Moscow doesn't settle its war there soon.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6a079c0af36682943d41fad066843998",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP THREATENS RUSSIA WITH TOMAHAWK MISSILES 🚨\n\n- Trump warns Russia of sending long-range Tomahawks to Ukraine 🚀\n- Ultimatum issued for Moscow to settle war promptly ⚠️\n- Tensions rise as Trump escalates warning to Moscow 🔥\n\nTAKEAWAY: President Trump's threat to send long-range Tomahawk missiles to Ukraine if Russia doesn't settle the war soon escalates tensions in the region.",
+      "exported_at": "2025-10-12T18:34:38.329577",
       "continuous_session": true
     }
   ]
