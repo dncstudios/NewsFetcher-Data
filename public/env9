@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-12T14:30:47.471088",
-    "total_articles": 2728,
-    "new_articles_in_last_fetch": 2728,
+    "created_at": "2025-10-12T15:26:42.760511",
+    "total_articles": 2729,
+    "new_articles_in_last_fetch": 2729,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -35421,6 +35421,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: GOVERNMENT SHUTDOWN LOOMS AS DEMOCRATS PUSH FOR ACA SUBSIDY EXTENSION ⚠️\n\n- Vance warns of widespread fraud in ACA tax credit usage\n- Democrats advocate for extending Obamacare subsidies\n- Enhanced subsidies set to expire by year-end 📆\n- Shutdown risk increases if funding bill lacks subsidy extension\n- ACA subsidies crucial for affordable healthcare access ✅\n- Uncertainty surrounds government funding bill negotiations ⚠️\n\nTAKEAWAY: The looming government shutdown threat intensifies as Democrats push for extending ACA subsidies, while concerns about fraud in tax credit usage add another layer of complexity to the situation.",
       "exported_at": "2025-10-12T14:30:47.440249",
+      "continuous_session": true
+    },
+    {
+      "title": "AG Pam Bondi embraces SNL spoof of her and DHS Sec. Kristi Noem: &apos;Loving Amy Poehler!&apos;",
+      "link": "https://www.cnbc.com/2025/10/12/trump-bondi-snl-poehler-noem-fey.html",
+      "summary": "The \"Saturday Night Live\" skit spoofed Pam Bondi's stonewalling, Kristi Noem's history of killing a dog, and President Donald Trump's preferred hair color.",
+      "published": "Sun, 12 Oct 2025 19:21:24 GMT",
+      "content": "The \"Saturday Night Live\" skit spoofed Pam Bondi's stonewalling, Kristi Noem's history of killing a dog, and President Donald Trump's preferred hair color.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "510d3cc7a8952381c908a0bb64b842ea",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AG PAM BONDI EMBRACES SNL SPOOF WITH DHS SEC. KRISTI NOEM 🌟\n\n- SNL skit pokes fun at Bondi's stonewalling and Noem's dog incident 🐶\n- President Trump's hair color preference also a target 🎨\n- Bondi reacts positively to the spoof, appreciates Amy Poehler's portrayal 🌟\n\nTAKEAWAY: Pam Bondi's positive response to the SNL spoof shows her ability to embrace humor and criticism, creating a light-hearted moment in politics.",
+      "exported_at": "2025-10-12T15:26:42.552989",
       "continuous_session": true
     }
   ]
