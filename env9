@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-12T11:43:14.429503",
-    "total_articles": 2724,
-    "new_articles_in_last_fetch": 2724,
+    "created_at": "2025-10-12T12:59:20.066469",
+    "total_articles": 2725,
+    "new_articles_in_last_fetch": 2725,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -35369,6 +35369,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ISRAEL SET TO RELEASE HOSTAGES IN BREAKTHROUGH CEASEFIRE DEAL 🚀\n\n- Israel anticipates release of all living hostages in Gaza 🇮🇱\n- Prisoner swap part of next phase in ceasefire deal with Hamas ✅\n- Monday marked as the expected date for the release ⏰\n\nTAKEAWAY: Israel's planned release of hostages in the ceasefire deal with Hamas marks a significant step towards peace in the region.",
       "exported_at": "2025-10-12T11:43:14.237019",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump will greet Israel hostages &apos;in person&apos; after Hamas releases them from Gaza, Vance says",
+      "link": "https://www.cnbc.com/2025/10/12/trump-israel-hostages-hamas-vance.html",
+      "summary": "Vice President JD Vance in an interview on NBC News' \"Meet the Press\" said Hamas will release Israeli hostages from Gaza at \"any moment now.\"",
+      "published": "Sun, 12 Oct 2025 16:55:07 GMT",
+      "content": "Vice President JD Vance in an interview on NBC News' \"Meet the Press\" said Hamas will release Israeli hostages from Gaza at \"any moment now.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fdf9bfecbbbe78b3b97736280953c86a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP TO GREET ISRAELI HOSTAGES 'IN PERSON' AFTER HAMAS RELEASE 🚀\n\n- Vice President JD Vance confirms imminent release by Hamas ✅\n- Trump plans to personally welcome hostages upon release 🤝\n- Anticipation grows as Gaza hostage situation nears resolution ⚡️\n\nTAKEAWAY: Trump's proactive stance to greet Israeli hostages 'in person' following their release by Hamas elevates anticipation and optimism for a successful resolution.",
+      "exported_at": "2025-10-12T12:59:19.875226",
       "continuous_session": true
     }
   ]
