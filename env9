@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-12T09:31:00.688634",
-    "total_articles": 2719,
-    "new_articles_in_last_fetch": 2719,
+    "created_at": "2025-10-12T10:06:40.447005",
+    "total_articles": 2720,
+    "new_articles_in_last_fetch": 2720,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -35304,6 +35304,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STUDYING THE WORLD'S HEALTHIEST COUNTRIES: 5 TIPS FOR A LONGER, HAPPIER LIFE 🌍\n\n- Research reveals the secrets of the world's healthiest nations 🌿\n- Author Ken Stern shares insights on longevity and happiness 📚\n- Strong social connections key to living a longer life 💪\n- Rethink lifestyle choices to prioritize health and well-being 🧘‍♂️\n- Implement changes inspired by studying healthy societies 🌟\n\nTAKEAWAY: Discover the keys to longevity and happiness from the world's healthiest countries, and rethink your lifestyle choices for a longer, happier life.",
       "exported_at": "2025-10-12T09:31:00.507527",
+      "continuous_session": true
+    },
+    {
+      "title": "33-year-old was rejected from a baseball internship, now she&apos;s the team&apos;s general manager: &apos;I never pictured I could have a career in baseball&apos;",
+      "link": "https://www.cnbc.com/2025/10/12/33-year-old-was-rejected-from-a-baseball-internship-now-shes-the-teams-general-manager.html",
+      "summary": "Brooke Cooper is the general manager of the Worcester Red Sox. She was rejected the first time she applied for an internship with the team.",
+      "published": "Sun, 12 Oct 2025 13:45:01 GMT",
+      "content": "Brooke Cooper is the general manager of the Worcester Red Sox. She was rejected the first time she applied for an internship with the team.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "bf8999031ed24b69b6c42e1ec7edeac3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: FROM REJECTION TO SUCCESS: WOMAN BECOMES BASEBALL TEAM GM 🚀\n\n- Brooke Cooper overcomes rejection to lead Worcester Red Sox ⚾\n- Initially denied internship, now excels as general manager 💼\n- Inspiring journey from setback to career fulfillment 🌟\n\nTAKEAWAY: Brooke Cooper's transformation from internship rejection to general manager at Worcester Red Sox showcases resilience and determination in pursuing a dream career in baseball.",
+      "exported_at": "2025-10-12T10:06:40.415947",
       "continuous_session": true
     }
   ]
