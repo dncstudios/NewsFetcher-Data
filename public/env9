@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-12T07:39:22.702790",
-    "total_articles": 2717,
-    "new_articles_in_last_fetch": 2717,
+    "created_at": "2025-10-12T09:31:00.688634",
+    "total_articles": 2719,
+    "new_articles_in_last_fetch": 2719,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -35278,6 +35278,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WALL STREET ANALYSTS BULLISH ON 3 STOCKS FOR LONG TERM 🚀\n\n- Top analysts back Snowflake and Advanced Micro Devices 📈\n- TipRanks ranks these stocks as long-term winners 💰\n- Snowflake and AMD stand out as favorites 🌟\n\nTAKEAWAY: Wall Street's top analysts are optimistic about Snowflake and Advanced Micro Devices for long-term growth potential, according to TipRanks.",
       "exported_at": "2025-10-12T07:39:22.528019",
+      "continuous_session": true
+    },
+    {
+      "title": "I&apos;ve studied over 200 kids—these 7 toxic parenting habits lead to mentally weak children",
+      "link": "https://www.cnbc.com/2025/10/12/ive-studied-over-200-kids-these-7-toxic-parenting-habits-lead-to-mentally-weak-children.html",
+      "summary": "It's our job to give kids the tools they need to be mentally strong in life. Child psychologist Reem Raouda has studied more than 200 child-parent relationships. Based on her research, she's identified the seven things to avoid if you want your kids to be resilient and confident.",
+      "published": "Sun, 12 Oct 2025 13:24:25 GMT",
+      "content": "It's our job to give kids the tools they need to be mentally strong in life. Child psychologist Reem Raouda has studied more than 200 child-parent relationships. Based on her research, she's identified the seven things to avoid if you want your kids to be resilient and confident.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "24fad9cc96f3d0d67da05248374d0eb9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 7 TOXIC PARENTING HABITS THAT HINDER CHILDREN'S MENTAL STRENGTH ⚠️\n\n- Child psychologist identifies 7 harmful parenting behaviors\n- Research based on 200 child-parent relationships 📊\n- Aim is to prevent mentally weak children in the future\n- Avoid these habits to nurture resilience and confidence ✅\n- Toxic behaviors can hinder kids' mental development 🚨\n- Vital for parents to provide tools for children's mental strength\n- Parental impact crucial in shaping children's resilience\n\nTAKEAWAY: Understanding and avoiding toxic parenting habits is key to fostering resilience and confidence in children, shaping their mental strength for the future.",
+      "exported_at": "2025-10-12T09:31:00.507450",
+      "continuous_session": true
+    },
+    {
+      "title": "I studied 5 of the world&apos;s healthiest countries: 5 things I&apos;m doing now to live a longer, happier life",
+      "link": "https://www.cnbc.com/2025/10/12/i-studied-5-of-the-worlds-healthiest-countries-things-im-doing-to-live-a-longer-happier-life.html",
+      "summary": "\"My research has inspired me to rethink how I should live my life,\" says Ken Stern, author of \"Healthy to 100: How Strong Social Ties Lead to Long Lives.\"",
+      "published": "Sun, 12 Oct 2025 13:13:50 GMT",
+      "content": "\"My research has inspired me to rethink how I should live my life,\" says Ken Stern, author of \"Healthy to 100: How Strong Social Ties Lead to Long Lives.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "49a692858a8cf0617e2135f2f51643c4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STUDYING THE WORLD'S HEALTHIEST COUNTRIES: 5 TIPS FOR A LONGER, HAPPIER LIFE 🌍\n\n- Research reveals the secrets of the world's healthiest nations 🌿\n- Author Ken Stern shares insights on longevity and happiness 📚\n- Strong social connections key to living a longer life 💪\n- Rethink lifestyle choices to prioritize health and well-being 🧘‍♂️\n- Implement changes inspired by studying healthy societies 🌟\n\nTAKEAWAY: Discover the keys to longevity and happiness from the world's healthiest countries, and rethink your lifestyle choices for a longer, happier life.",
+      "exported_at": "2025-10-12T09:31:00.507527",
       "continuous_session": true
     }
   ]
