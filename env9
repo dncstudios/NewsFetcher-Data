@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-12T06:23:01.000626",
-    "total_articles": 2712,
-    "new_articles_in_last_fetch": 2712,
+    "created_at": "2025-10-12T07:08:42.529525",
+    "total_articles": 2713,
+    "new_articles_in_last_fetch": 2713,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -35213,6 +35213,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WARNER BROS REJECTS PARAMOUNT TAKEOVER BID 🚫\n\n- Warner Bros Discovery says no to Paramount Skydance bid 💼\n- Bloomberg News: Initial offer deemed too low 📉\n- Potential takeover attempt met with resistance \n\nTAKEAWAY: Warner Bros stands firm against Paramount Skydance's low bid, signaling a potential takeover battle in the entertainment industry.",
       "exported_at": "2025-10-12T06:23:00.808498",
+      "continuous_session": true
+    },
+    {
+      "title": "Ceasefire holds in Gaza ahead of hostage release and Trump&apos;s visit to Israel",
+      "link": "https://www.cnbc.com/2025/10/12/ceasefire-holds-in-gaza.html",
+      "summary": "A ceasefire between Israel and Hamas held in Gaza for a third day on Sunday ahead of the expected release of Israeli hostages and Palestinian prisoners.",
+      "published": "Sun, 12 Oct 2025 11:02:55 GMT",
+      "content": "A ceasefire between Israel and Hamas held in Gaza for a third day on Sunday ahead of the expected release of Israeli hostages and Palestinian prisoners.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2e25c2c8fcb8b44e61e3bb1a60e7fe41",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CEASEFIRE HOLDS IN GAZA AHEAD OF HOSTAGE RELEASE AND TRUMP'S VISIT TO ISRAEL 🚀\n\n- Gaza ceasefire remains stable for three consecutive days 🕊️\n- Anticipation builds as Israeli hostages and Palestinian prisoners set for release 🙌\n- Peaceful atmosphere maintained in the region amidst ongoing tensions ✌️\n\nTAKEAWAY: The stable ceasefire in Gaza paves the way for positive developments with the expected release of hostages and prisoners, setting a hopeful tone for Trump's upcoming visit to Israel.",
+      "exported_at": "2025-10-12T07:08:42.337498",
       "continuous_session": true
     }
   ]
