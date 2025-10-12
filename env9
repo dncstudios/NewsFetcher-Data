@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-12T13:14:38.104734",
-    "total_articles": 2726,
-    "new_articles_in_last_fetch": 2726,
+    "created_at": "2025-10-12T13:34:56.951478",
+    "total_articles": 2727,
+    "new_articles_in_last_fetch": 2727,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -35395,6 +35395,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: NEW JERSEY DECLARES STATE OF EMERGENCY AS NOR'EASTER APPROACHES 🚨\n\n- Nor'easter threatens East Coast, New Jersey on high alert 🌊\n- State of emergency declared as precautionary measure ⚠️\n- Residents urged to stay safe and prepared for severe weather 🌀\n- Nor'easter expected to bring strong winds and heavy rain 🌧️💨\n- Authorities taking necessary steps to ensure public safety ✅\n- Emergency resources mobilized to handle potential impact 🚑🚒🚓\n\nTAKEAWAY: New Jersey's state of emergency declaration in anticipation of the approaching nor'easter underscores the importance of preparedness and safety measures for residents.",
       "exported_at": "2025-10-12T13:14:37.927067",
+      "continuous_session": true
+    },
+    {
+      "title": "I&apos;ve studied over 200 kids—parents who raise mentally strong children never do 7 things",
+      "link": "https://www.cnbc.com/2025/10/12/ive-studied-over-200-kids-these-7-toxic-parenting-habits-lead-to-mentally-weak-children.html",
+      "summary": "It's our job to give kids the tools they need to be mentally strong in life. Child psychologist Reem Raouda has studied more than 200 child-parent relationships. Based on her research, she's identified the seven things to avoid if you want your kids to be resilient and confident.",
+      "published": "Sun, 12 Oct 2025 17:32:21 GMT",
+      "content": "It's our job to give kids the tools they need to be mentally strong in life. Child psychologist Reem Raouda has studied more than 200 child-parent relationships. Based on her research, she's identified the seven things to avoid if you want your kids to be resilient and confident.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b64cebf041586f23ea143683143fce6c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: 7 TOXIC PARENTING HABITS THAT HINDER CHILDREN'S MENTAL STRENGTH ⚠️\n\n- Child psychologist identifies 7 harmful parenting behaviors\n- Research based on 200 child-parent relationships 📊\n- Aim is to prevent mentally weak children in the future\n- Avoid these habits to nurture resilience and confidence ✅\n- Toxic behaviors can hinder kids' mental development 🚨\n- Vital for parents to provide tools for children's mental strength\n- Parental impact crucial in shaping children's resilience\n\nTAKEAWAY: Understanding and avoiding toxic parenting habits is key to fostering resilience and confidence in children, shaping their mental strength for the future.",
+      "exported_at": "2025-10-12T13:34:56.755471",
       "continuous_session": true
     }
   ]
