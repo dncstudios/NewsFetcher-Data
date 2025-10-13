@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-12T19:55:47.360924",
-    "total_articles": 2734,
-    "new_articles_in_last_fetch": 2734,
+    "created_at": "2025-10-12T20:21:12.872827",
+    "total_articles": 2735,
+    "new_articles_in_last_fetch": 2735,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -35499,6 +35499,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ASIA-PACIFIC MARKETS BRACE FOR FALL ON CHINA-U.S. TRADE TENSIONS 🚨\n\n- Investors anticipate market decline due to renewed trade tensions 📉\n- Focus on potential fallout from China-U.S. trade disputes 🇨🇳🇺🇸\n- Uncertainty looms over Asia-Pacific markets 🌏\n- Market sentiment cautious amidst escalating trade tensions ⚠️\n- Investors monitor impact of trade tensions on market performance 📈📊\n- Concerns rise over potential negative effects on regional economies 📉\n\nTAKEAWAY: Asia-Pacific markets face a looming decline as renewed China-U.S. trade tensions cast a shadow of uncertainty, prompting cautious investor sentiment.",
       "exported_at": "2025-10-12T19:55:47.329933",
+      "continuous_session": true
+    },
+    {
+      "title": "Asia-Pacific markets fall on renewed China-U.S. trade tensions",
+      "link": "https://www.cnbc.com/2025/10/13/asia-markets-hang-seng-index-csi-300-us-china-trade-tensions.html",
+      "summary": "Asia-Pacific markets fell on Monday, as investors kept an eye out for any fallout from the renewed China-U.S. trade tensions.",
+      "published": "Mon, 13 Oct 2025 00:17:10 GMT",
+      "content": "Asia-Pacific markets fell on Monday, as investors kept an eye out for any fallout from the renewed China-U.S. trade tensions.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "494547c18a2c8544f1ba89a3c25a31b9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASIA-PACIFIC MARKETS FALL ON RENEWED CHINA-U.S. TRADE TENSIONS 🚨\n\n- Markets decline due to renewed China-U.S. trade tensions 📉\n- Investors cautious about potential fallout from tensions ⚠️\n- Uncertainty looms over Asia-Pacific markets 🌏\n\nTAKEAWAY: Renewed trade tensions between China and the U.S. lead to a market decline in the Asia-Pacific region, causing investor caution and uncertainty.",
+      "exported_at": "2025-10-12T20:21:12.690563",
       "continuous_session": true
     }
   ]
