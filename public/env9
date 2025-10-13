@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-12T22:33:07.866629",
-    "total_articles": 2739,
-    "new_articles_in_last_fetch": 2739,
+    "created_at": "2025-10-12T23:34:02.317913",
+    "total_articles": 2740,
+    "new_articles_in_last_fetch": 2740,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -35564,6 +35564,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ASIA-PACIFIC MARKETS FALL ON RENEWED CHINA-U.S. TRADE TENSIONS 🚨\n\n- Markets decline due to renewed China-U.S. trade tensions 📉\n- Investors cautious about potential fallout from tensions ⚠️\n- Uncertainty looms over Asia-Pacific markets 🌏\n\nTAKEAWAY: Renewed trade tensions between China and the U.S. lead to a market decline in the Asia-Pacific region, causing investor caution and uncertainty.",
       "exported_at": "2025-10-12T22:33:07.663586",
+      "continuous_session": true
+    },
+    {
+      "title": "China September exports beat expectations, imports rise at fastest pace since April 2024",
+      "link": "https://www.cnbc.com/2025/10/13/china-september-exports-beat-expectations-imports-rise-at-fastest-pace-since-april-2024.html",
+      "summary": "Tensions between Beijing and Washington have flared again in recent days as both sides traded barbs and ramped up respective restrictions.",
+      "published": "Mon, 13 Oct 2025 03:30:52 GMT",
+      "content": "Tensions between Beijing and Washington have flared again in recent days as both sides traded barbs and ramped up respective restrictions.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "bac6c969eb73b34e25d9ed22167d03d3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CHINA'S EXPORTS SURPASS EXPECTATIONS IN SEPTEMBER 🚀\n\n- China's September exports exceed forecasts 📈\n- Imports in September grow at the quickest rate since April 2024 📈\n- Recent days witness escalated tensions between Beijing and Washington ⚠️🚨\n\nTAKEAWAY: China's robust export performance in September, along with a significant rise in imports, contrasts with escalating tensions between China and the US, creating a dynamic economic landscape.",
+      "exported_at": "2025-10-12T23:34:02.116459",
       "continuous_session": true
     }
   ]
