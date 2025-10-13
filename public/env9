@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-13T01:15:39.932774",
-    "total_articles": 2743,
-    "new_articles_in_last_fetch": 2743,
+    "created_at": "2025-10-13T01:46:12.368060",
+    "total_articles": 2745,
+    "new_articles_in_last_fetch": 2745,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -35616,6 +35616,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BIG OIL FACES TOUGH CHOICES AS 'MONSTER PROFITS' FADE 🚨\n\n- Weaker crude prices threaten industry's shareholder payouts 💰\n- Big Oil forced to confront serious risks to profits 📉\n- Generous shareholder payouts could be at risk in coming months ⚠️\n\nTAKEAWAY: Big Oil is challenged as 'monster profits' fade, facing tough choices with shareholder payouts at serious risk due to weaker crude prices.",
       "exported_at": "2025-10-13T01:15:39.900995",
+      "continuous_session": true
+    },
+    {
+      "title": "$100 silver? Analysts say the metal could double from record highs",
+      "link": "https://www.cnbc.com/2025/10/13/silver-could-double-to-100-after-cross-50-mark-analysts-say.html",
+      "summary": "Spot silver has gained more than 70% since the beginning of the year, compared to spot gold's year-to-date gain of just over 50%.",
+      "published": "Mon, 13 Oct 2025 05:26:08 GMT",
+      "content": "Spot silver has gained more than 70% since the beginning of the year, compared to spot gold's year-to-date gain of just over 50%.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8ba5c5da227464540ef3dec3acf0fe53",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: $100 SILVER ON THE HORIZON? ANALYSTS PREDICT DOUBLING FROM RECORD HIGHS 🚀\n\n- Spot silver up 70% YTD, outperforming gold's 50% gain 📈\n- Analysts foresee silver doubling from current levels 💰\n- Market sentiment bullish on silver's potential 📈\n- Rising demand and inflation fears fueling silver rally 🔥\n- Silver's historical volatility poses investment risks ⚠️\n\nTAKEAWAY: Analysts predict silver could reach $100, fueled by strong performance, rising demand, and inflation concerns, but caution is advised due to its historical volatility.",
+      "exported_at": "2025-10-13T01:46:12.169536",
+      "continuous_session": true
+    },
+    {
+      "title": "European markets head for mostly higher open, brushing off new U.S.-China trade spat",
+      "link": "https://www.cnbc.com/2025/10/13/european-markets-on-mon-oct-13-stoxx-600-dax-cac-ftse.html",
+      "summary": "European stocks are expected to open mostly higher Monday as markets keep a close eye on a new trade dispute between the U.S. and China.",
+      "published": "Mon, 13 Oct 2025 05:20:29 GMT",
+      "content": "European stocks are expected to open mostly higher Monday as markets keep a close eye on a new trade dispute between the U.S. and China.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "df0f45bd62c16442cb5f6f61b08e5c1b",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: EUROPEAN MARKETS RESILIENT DESPITE U.S.-CHINA TRADE DISPUTE 🚀\n\n- European stocks set for mostly higher open on Monday 📈\n- Markets unfazed by new trade spat between U.S. and China 🇺🇸🇨🇳\n- Investors closely monitoring developments in the global trade landscape 🌍\n- Resilience shown amid uncertainties in the market 💪\n- Positive outlook despite external trade tensions ✅\n- European markets demonstrate strength and stability 🌟\n\nTAKEAWAY: European markets show resilience and strength despite the new U.S.-China trade dispute, maintaining a positive outlook amidst global uncertainties.",
+      "exported_at": "2025-10-13T01:46:12.169603",
       "continuous_session": true
     }
   ]
