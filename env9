@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-12T21:57:33.755971",
-    "total_articles": 2737,
-    "new_articles_in_last_fetch": 2737,
+    "created_at": "2025-10-12T22:17:52.890905",
+    "total_articles": 2738,
+    "new_articles_in_last_fetch": 2738,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -35538,6 +35538,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ASIA-PACIFIC MARKETS FALL ON RENEWED CHINA-U.S. TRADE TENSIONS 🚨\n\n- Markets decline due to renewed China-U.S. trade tensions 📉\n- Investors cautious about potential fallout from tensions ⚠️\n- Uncertainty looms over Asia-Pacific markets 🌏\n\nTAKEAWAY: Renewed trade tensions between China and the U.S. lead to a market decline in the Asia-Pacific region, causing investor caution and uncertainty.",
       "exported_at": "2025-10-12T21:57:33.580945",
+      "continuous_session": true
+    },
+    {
+      "title": "Pam Bondi and DHS embrace SNL spoof of her and Kristi Noem: &apos;Loving Amy Poehler!&apos;",
+      "link": "https://www.cnbc.com/2025/10/12/trump-bondi-snl-poehler-noem-fey.html",
+      "summary": "The \"Saturday Night Live\" skit spoofed Pam Bondi's stonewalling, Kristi Noem's history of killing a dog, and President Donald Trump's preferred hair color.",
+      "published": "Mon, 13 Oct 2025 02:14:40 GMT",
+      "content": "The \"Saturday Night Live\" skit spoofed Pam Bondi's stonewalling, Kristi Noem's history of killing a dog, and President Donald Trump's preferred hair color.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5a40e45c9f9981555e1ef220e5cfac87",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AG PAM BONDI EMBRACES SNL SPOOF WITH DHS SEC. KRISTI NOEM 🌟\n\n- SNL skit pokes fun at Bondi's stonewalling and Noem's dog incident 🐶\n- President Trump's hair color preference also a target 🎨\n- Bondi reacts positively to the spoof, appreciates Amy Poehler's portrayal 🌟\n\nTAKEAWAY: Pam Bondi's positive response to the SNL spoof shows her ability to embrace humor and criticism, creating a light-hearted moment in politics.",
+      "exported_at": "2025-10-12T22:17:52.691618",
       "continuous_session": true
     }
   ]
