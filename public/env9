@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-13T00:09:33.094706",
-    "total_articles": 2741,
-    "new_articles_in_last_fetch": 2741,
+    "created_at": "2025-10-13T00:45:07.113064",
+    "total_articles": 2742,
+    "new_articles_in_last_fetch": 2742,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -35590,6 +35590,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ASIA-PACIFIC MARKETS FALL ON RENEWED CHINA-U.S. TRADE TENSIONS 🚨\n\n- Markets decline due to renewed China-U.S. trade tensions 📉\n- Investors cautious about potential fallout from tensions ⚠️\n- Uncertainty looms over Asia-Pacific markets 🌏\n\nTAKEAWAY: Renewed trade tensions between China and the U.S. lead to a market decline in the Asia-Pacific region, causing investor caution and uncertainty.",
       "exported_at": "2025-10-13T00:09:32.884266",
+      "continuous_session": true
+    },
+    {
+      "title": "China&apos;s market rally faces test as U.S. trade rift flare: &apos;much more difficult couple of weeks now&apos;",
+      "link": "https://www.cnbc.com/2025/10/13/china-market-shares-csi-300-shanghai-composite-rally-faces-test-us-trade-rift-flares-xi-trump.html",
+      "summary": "China's market rebound may be heading into choppier waters as a resurgence of U.S.-China trade tensions threaten to derail investor optimism.",
+      "published": "Mon, 13 Oct 2025 04:37:38 GMT",
+      "content": "China's market rebound may be heading into choppier waters as a resurgence of U.S.-China trade tensions threaten to derail investor optimism.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3eea1367076040f17c2c2aa26e223bbc",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CHINA'S MARKET RALLY FACES TEST AS U.S. TRADE RIFT FLARES 🚨\n\n- China's market rebound at risk due to U.S.-China trade tensions reemergence\n- Investor optimism threatened by potential disruption from trade rift\n- Uncertainty looms over China's market stability\n\nTAKEAWAY: China's market rally faces challenges with the resurgence of U.S.-China trade tensions, casting a shadow of uncertainty over investor optimism.",
+      "exported_at": "2025-10-13T00:45:06.923530",
       "continuous_session": true
     }
   ]
