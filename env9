@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-13T02:16:42.340107",
-    "total_articles": 2746,
-    "new_articles_in_last_fetch": 2746,
+    "created_at": "2025-10-13T02:21:51.213712",
+    "total_articles": 2747,
+    "new_articles_in_last_fetch": 2747,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -35655,6 +35655,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: DUTCH GOVT TAKES CONTROL OF CHINESE-OWNED NEXPERIA 🚨\n\n- Dutch government uses Goods Availability Act to seize Nexperia 🇳🇱\n- Unprecedented move to control Chinese-owned semiconductor company 💥\n- Ensures national interest protection in critical technology sector 📡\n- Signals increased scrutiny on foreign investments in strategic industries 🧐\n\nTAKEAWAY: The Dutch government's bold step to take control of Nexperia demonstrates a commitment to safeguarding national interests and critical technology sectors from foreign ownership.",
       "exported_at": "2025-10-13T02:16:42.149891",
+      "continuous_session": true
+    },
+    {
+      "title": "Hamas releases first Israeli hostages under Trump-brokered ceasefire as leaders head to Egypt for Gaza peace talks",
+      "link": "https://www.cnbc.com/2025/10/13/hamas-frees-hostages-under-trump-brokered-ceasefire-israel.html",
+      "summary": "Iraq's Prime Minister Mohammed Shia Al-Sudani expressed hope the truce would be \"sustainable and the beginning of a radical solution to this problem.\"",
+      "published": "Mon, 13 Oct 2025 06:18:38 GMT",
+      "content": "Iraq's Prime Minister Mohammed Shia Al-Sudani expressed hope the truce would be \"sustainable and the beginning of a radical solution to this problem.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d5aff607c65ba1f33ae562f7883e5339",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: HAMAS RELEASES FIRST ISRAELI HOSTAGES UNDER TRUMP-BROKERED CEASEFIRE 🚀\n\n- Hamas frees first Israeli captives post Trump-negotiated ceasefire 🇮🇱\n- Leaders en route to Egypt for critical Gaza peace discussions 🕊️\n- Iraq PM optimistic for sustainable truce and long-term resolution ✅\n\nTAKEAWAY: The release of Israeli hostages by Hamas marks a positive step following the Trump-brokered ceasefire, paving the way for crucial peace talks in Egypt.",
+      "exported_at": "2025-10-13T02:21:51.182419",
       "continuous_session": true
     }
   ]
