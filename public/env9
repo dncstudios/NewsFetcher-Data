@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-12T22:17:52.890905",
-    "total_articles": 2738,
-    "new_articles_in_last_fetch": 2738,
+    "created_at": "2025-10-12T22:33:07.866629",
+    "total_articles": 2739,
+    "new_articles_in_last_fetch": 2739,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -35551,6 +35551,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AG PAM BONDI EMBRACES SNL SPOOF WITH DHS SEC. KRISTI NOEM 🌟\n\n- SNL skit pokes fun at Bondi's stonewalling and Noem's dog incident 🐶\n- President Trump's hair color preference also a target 🎨\n- Bondi reacts positively to the spoof, appreciates Amy Poehler's portrayal 🌟\n\nTAKEAWAY: Pam Bondi's positive response to the SNL spoof shows her ability to embrace humor and criticism, creating a light-hearted moment in politics.",
       "exported_at": "2025-10-12T22:17:52.691618",
+      "continuous_session": true
+    },
+    {
+      "title": "Chinese stocks fall 2% amid declines in Asia on renewed China-U.S. trade tensions",
+      "link": "https://www.cnbc.com/2025/10/13/asia-markets-hang-seng-index-csi-300-us-china-trade-tensions.html",
+      "summary": "Asia-Pacific markets fell on Monday, as investors kept an eye out for any fallout from the renewed China-U.S. trade tensions.",
+      "published": "Mon, 13 Oct 2025 02:30:19 GMT",
+      "content": "Asia-Pacific markets fell on Monday, as investors kept an eye out for any fallout from the renewed China-U.S. trade tensions.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ed413db5cfb83b0257b1842c81088947",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASIA-PACIFIC MARKETS FALL ON RENEWED CHINA-U.S. TRADE TENSIONS 🚨\n\n- Markets decline due to renewed China-U.S. trade tensions 📉\n- Investors cautious about potential fallout from tensions ⚠️\n- Uncertainty looms over Asia-Pacific markets 🌏\n\nTAKEAWAY: Renewed trade tensions between China and the U.S. lead to a market decline in the Asia-Pacific region, causing investor caution and uncertainty.",
+      "exported_at": "2025-10-12T22:33:07.663586",
       "continuous_session": true
     }
   ]
