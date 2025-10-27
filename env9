@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-27T11:48:40.890500",
-    "total_articles": 2793,
-    "new_articles_in_last_fetch": 2793,
+    "created_at": "2025-10-27T12:03:54.870250",
+    "total_articles": 2794,
+    "new_articles_in_last_fetch": 2794,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -36266,6 +36266,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TRIMMING FRUSTRATING STOCK AFTER HUGE POST-EARNINGS MOVE ⚠️\n\n- Stock trimmed due to frustrating performance\n- Market overbought as per S&P Short Range Oscillator\n- Trade made in line with discipline and market signals\n\nTAKEAWAY: Trimming stock post-earnings due to frustration and overbought market signals aligns with disciplined trading approach.",
       "exported_at": "2025-10-27T11:48:40.713747",
+      "continuous_session": true
+    },
+    {
+      "title": "Airbnb wants to help hosts prevent Halloween parties in the U.S. and Canada",
+      "link": "https://www.cnbc.com/2025/10/27/airbnb-wants-to-help-hosts-prevent-halloween-parties-.html",
+      "summary": "Airbnb will take a number of factors into consideration to block reservations it deems higher risks of being used for Halloween parties.",
+      "published": "Mon, 27 Oct 2025 16:00:57 GMT",
+      "content": "Airbnb will take a number of factors into consideration to block reservations it deems higher risks of being used for Halloween parties.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "04e3125c5cbc46c65a87a632ba72b0ac",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AIRBNB TO BLOCK HALLOWEEN PARTIES IN U.S. & CANADA 🚨\n\n- Airbnb to use factors to prevent high-risk Halloween parties 🎃\n- Reservations with potential for parties to be blocked ✋\n- Measures aimed at maintaining safety and security 🛡️\n\nTAKEAWAY: Airbnb implements measures to help hosts prevent Halloween parties, prioritizing safety and security in the U.S. and Canada.",
+      "exported_at": "2025-10-27T12:03:54.717258",
       "continuous_session": true
     }
   ]
