@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-27T19:39:14.747330",
-    "total_articles": 2828,
-    "new_articles_in_last_fetch": 2828,
+    "created_at": "2025-10-27T19:54:23.739657",
+    "total_articles": 2829,
+    "new_articles_in_last_fetch": 2829,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -36720,6 +36720,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SOUTH KOREA'S Q3 GDP GROWS 1.7%, BEATS EXPECTATIONS 🚀\n\n- Q3 GDP up 1.7%, surpassing 1.5% forecast 📈\n- Fastest growth in over a year 🚀\n- Bank of Korea's advance estimates reveal strong performance 💪\n- Economists polled by Reuters underestimated growth 📉\n\nTAKEAWAY: South Korea's third-quarter GDP growth of 1.7% exceeds expectations, marking the fastest pace in over a year and showcasing a strong economic performance.",
       "exported_at": "2025-10-27T19:39:14.577067",
+      "continuous_session": true
+    },
+    {
+      "title": "Hurricane Melissa bears down on Jamaica and threatens to be the island’s strongest recorded storm",
+      "link": "https://www.cnbc.com/2025/10/26/melissa-hurricane-jamaica-haiti-caribbean.html",
+      "summary": "Hurricane Melissa would be the strongest hurricane to hit the island since record-keeping began in 1851.",
+      "published": "Mon, 27 Oct 2025 23:49:17 GMT",
+      "content": "Hurricane Melissa would be the strongest hurricane to hit the island since record-keeping began in 1851.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8da17806807dc29551d8b939e61b4744",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MELISSA INTENSIFIES TO CATEGORY 5, SET TO HIT JAMAICA AS STRONGEST STORM EVER 🌪️\n\n- Hurricane Melissa reaches Category 5, aiming for Jamaica 🌀\n- Jamaica braces for impact of strongest storm in recorded history 🇯🇲\n- Melissa poised to make history as the most powerful storm since 1851 📈\n\nTAKEAWAY: Hurricane Melissa's intensification to Category 5 poses a significant threat to Jamaica, marking it as the strongest storm the island has ever faced since records began in 1851.",
+      "exported_at": "2025-10-27T19:54:23.551971",
       "continuous_session": true
     }
   ]
