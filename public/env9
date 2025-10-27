@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-27T09:42:00.534485",
-    "total_articles": 2781,
-    "new_articles_in_last_fetch": 2781,
+    "created_at": "2025-10-27T10:02:13.802923",
+    "total_articles": 2783,
+    "new_articles_in_last_fetch": 2783,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -36110,6 +36110,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: DOW SOARS 300 POINTS ON US-CHINA TRADE TRUCE 🚀\n\n- Market surges as US-China tensions ease 📈\n- Investors optimistic after weekend developments 🌟\n- Positive sentiment boosts stock performance 📈\n- Potential trade truce fuels market excitement 🎉\n- Dow opens with a strong 300 point increase 💪\n- US and China officials work towards de-escalation ✅\n\nTAKEAWAY: The Dow surges 300 points as optimism grows with the potential US-China trade truce, fueling excitement and positive sentiment among investors.",
       "exported_at": "2025-10-27T09:42:00.503379",
+      "continuous_session": true
+    },
+    {
+      "title": "Qualcomm announces AI chips to compete with AMD and Nvidia",
+      "link": "https://www.cnbc.com/2025/10/27/qualcomm-ai200-ai250-ai-chips-nvidia-amd.html",
+      "summary": "The AI200, expected in 2026, and the AI250, planned for 2027, both can come in a system that fills up a full, liquid-cooled server rack, Qualcomm said.",
+      "published": "Mon, 27 Oct 2025 14:00:01 GMT",
+      "content": "The AI200, expected in 2026, and the AI250, planned for 2027, both can come in a system that fills up a full, liquid-cooled server rack, Qualcomm said.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6625615592bb4855ee66d971f9a4e265",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: QUALCOMM UNVEILS AI CHIPS TO RIVAL AMD AND NVIDIA 🚀\n\n- Qualcomm introduces AI200 and AI250 chips for 2026 and 2027 📈\n- AI chips to challenge AMD and Nvidia in performance 🏆\n- Chips can be integrated into liquid-cooled server racks 💧\n- Aim to dominate AI chip market with powerful offerings 💪\n- AI200 and AI250 in server racks for enhanced capabilities 🔥\n\nTAKEAWAY: Qualcomm's latest AI chips pose a significant challenge to AMD and Nvidia, aiming to dominate the market with powerful performance and innovative server rack integration.",
+      "exported_at": "2025-10-27T10:02:13.771116",
+      "continuous_session": true
+    },
+    {
+      "title": "Hurricane Melissa, at Category 5, is set to slam into Jamaica as island&apos;s strongest recorded storm",
+      "link": "https://www.cnbc.com/2025/10/26/melissa-hurricane-jamaica-haiti-caribbean.html",
+      "summary": "Hurricane Melissa is forecast to make landfall on the island Tuesday and cross Cuba and the Bahamas through Wednesday.",
+      "published": "Mon, 27 Oct 2025 13:57:36 GMT",
+      "content": "Hurricane Melissa is forecast to make landfall on the island Tuesday and cross Cuba and the Bahamas through Wednesday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5c1b24d648d78cf9ec06b6c7215a4ed8",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: HURRICANE MELISSA REACHES CATEGORY 5 NEAR JAMAICA 🌀\n\n- Melissa upgraded to Category 5, heading towards Jamaica 🌪️\n- Forecasted landfall on Jamaica Tuesday, then Cuba and Bahamas 🌎\n- Residents urged to prepare for potential impact 🚨\n\nTAKEAWAY: Hurricane Melissa intensifies to a Category 5, posing a significant threat as it approaches Jamaica, Cuba, and the Bahamas.",
+      "exported_at": "2025-10-27T10:02:13.771133",
       "continuous_session": true
     }
   ]
