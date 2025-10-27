@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-27T18:08:22.086761",
-    "total_articles": 2824,
-    "new_articles_in_last_fetch": 2824,
+    "created_at": "2025-10-27T19:03:49.521669",
+    "total_articles": 2825,
+    "new_articles_in_last_fetch": 2825,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -36668,6 +36668,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCK FUTURES STABLE AFTER RECORD HIGHS 📈\n\n- U.S. indexes hit new highs, futures show stability\n- Investors celebrate easing U.S.-China tensions 🎉\n- Monday's session reflects positive market sentiment\n\nTAKEAWAY: Stock futures remain steady after major U.S. indexes reach record highs, fueled by improved U.S.-China relations.",
       "exported_at": "2025-10-27T18:08:21.930693",
+      "continuous_session": true
+    },
+    {
+      "title": "This week&apos;s tech earnings will steer the market&apos;s direction over the next few months, Jim Cramer says",
+      "link": "https://www.cnbc.com/2025/10/27/tech-earnings-steer-market-next-few-months-jim-cramer.html",
+      "summary": "CNBC's Jim Cramer stressed the importance of upcoming earnings from Apple, Amazon, Alphabet, Meta and Microsoft.",
+      "published": "Mon, 27 Oct 2025 22:53:11 GMT",
+      "content": "CNBC's Jim Cramer stressed the importance of upcoming earnings from Apple, Amazon, Alphabet, Meta and Microsoft.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "75e5c546265f7c29b7f4b813f59706fb",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: THIS WEEK'S TECH EARNINGS TO SET MARKET DIRECTION, SAYS JIM CRAMER 🚀\n\n- Apple, Amazon, Alphabet, Meta, Microsoft earnings key 🔑\n- Jim Cramer emphasizes significance of upcoming reports 💡\n- Market direction heavily reliant on tech giants' performances 📈\n\nTAKEAWAY: Tech earnings from major players like Apple, Amazon, and Microsoft will shape the market's trajectory in the coming months, as highlighted by Jim Cramer.",
+      "exported_at": "2025-10-27T19:03:49.332110",
       "continuous_session": true
     }
   ]
