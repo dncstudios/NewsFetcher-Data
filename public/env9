@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-27T15:06:23.079885",
-    "total_articles": 2812,
-    "new_articles_in_last_fetch": 2812,
+    "created_at": "2025-10-27T15:11:30.828270",
+    "total_articles": 2813,
+    "new_articles_in_last_fetch": 2813,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -36512,6 +36512,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: WHERE TO INVEST CASH BEFORE FED CUTS RATES AGAIN 🚀\n\n- Cash yields to decrease with Federal Reserve rate cut 🔻\n- Investors advised to explore alternative investment options 💰\n- Opportunity to maximize returns before rate adjustment ⏳\n\nTAKEAWAY: As the Fed plans to cut rates, investors should consider reallocating cash to alternative investments for higher returns before the adjustment.",
       "exported_at": "2025-10-27T15:06:22.885011",
+      "continuous_session": true
+    },
+    {
+      "title": "Democratic senators ask colleagues to condemn Binance founder’s pardon: CNBC Crypto World",
+      "link": "https://www.cnbc.com/video/2025/10/27/democratic-senators-ask-colleagues-to-condemn-binance-founders-pardon-cnbc-crypto-world.html",
+      "summary": "On today's episode of CNBC Crypto World, bitcoin and other cryptocurrencies rise after the U.S. and China agree on a trade deal framework. Senate democrats also rally colleagues to join a resolution condemning the president's pardon of Binance founder Changpeng Zhao. Lastly, CleanSpark CEO Matt Schultz discusses the company's move to pivot from pure-play bitcoin mining to also incorporate AI.",
+      "published": "Mon, 27 Oct 2025 19:00:01 GMT",
+      "content": "On today's episode of CNBC Crypto World, bitcoin and other cryptocurrencies rise after the U.S. and China agree on a trade deal framework. Senate democrats also rally colleagues to join a resolution condemning the president's pardon of Binance founder Changpeng Zhao. Lastly, CleanSpark CEO Matt Schultz discusses the company's move to pivot from pure-play bitcoin mining to also incorporate AI.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "38d31eca755aff0beedb9b794e1fdc51",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DEMOCRATIC SENATORS URGE COLLEAGUES TO CONDEMN BINANCE FOUNDER'S PARDON: CNBC CRYPTO WORLD 🚨\n\n- Bitcoin, crypto prices surge post US-China trade deal 📈💰\n- Senate democrats push resolution against Binance founder's pardon 🏛️\n- CleanSpark CEO reveals shift to blend bitcoin mining with AI 🔄💡\n\nTAKEAWAY: Democratic senators call for condemnation of Binance founder's pardon amidst crypto market surge and CleanSpark's strategic shift to integrate AI with bitcoin mining.",
+      "exported_at": "2025-10-27T15:11:30.666554",
       "continuous_session": true
     }
   ]
