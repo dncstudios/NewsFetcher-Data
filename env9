@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-27T11:43:27.894507",
-    "total_articles": 2790,
-    "new_articles_in_last_fetch": 2790,
+    "created_at": "2025-10-27T11:48:40.890500",
+    "total_articles": 2793,
+    "new_articles_in_last_fetch": 2793,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -36227,6 +36227,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: U.S. DEPARTMENT OF ENERGY PARTNERS WITH AMD FOR $1 BILLION SUPERCOMPUTER 🚀\n\n- U.S. Energy Department collaborates with AMD for $1 billion project 💰\n- Partnership aims to build two supercomputers for solving large scientific challenges 🧬\n- Cutting-edge technology and AI to be utilized in the supercomputers 🤖\n- Project set to push boundaries of scientific research and innovation 🌌\n- AMD positioned to play a key role in advancing computational capabilities 💻\n- Supercomputers expected to revolutionize problem-solving in various fields 🌐\n\nTAKEAWAY: The $1 billion partnership between the U.S. Department of Energy and AMD to develop advanced supercomputers signals a significant leap in scientific research capabilities with cutting-edge technology and AI integration. 🌟",
       "exported_at": "2025-10-27T11:43:27.862771",
+      "continuous_session": true
+    },
+    {
+      "title": "Stock market rally may hinge on what Powell says after Fed rate decision Wednesday",
+      "link": "https://www.cnbc.com/2025/10/27/stock-market-rally-may-hinge-on-what-powell-says-after-fed-rate-decision-wednesday.html",
+      "summary": "Jay Woods explains why Fed Chair Jerome Powell's comments carry special weight this week and reviews three key companies reporting earnings.",
+      "published": "Mon, 27 Oct 2025 15:35:49 GMT",
+      "content": "Jay Woods explains why Fed Chair Jerome Powell's comments carry special weight this week and reviews three key companies reporting earnings.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4818be0e00a69b6acc86f4b2732dcbaf",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK MARKET RALLY HINGES ON POWELL'S POST-FED STATEMENT 🚀\n\n- Investors await Fed Chair Jerome Powell's crucial remarks 🎯\n- Powell's comments post-rate decision key to market direction 🔍\n- Three major companies set to announce earnings 📈\n\nTAKEAWAY: Powell's post-Fed statement holds immense significance for the stock market rally, alongside key earnings reports from major companies.",
+      "exported_at": "2025-10-27T11:48:40.713678",
+      "continuous_session": true
+    },
+    {
+      "title": "What student loan borrowers need to know, as forgiveness resumes for two repayment plans",
+      "link": "https://www.cnbc.com/2025/10/27/student-loan-forgiveness-icr-paye.html",
+      "summary": "Student loan borrowers can get their debt forgiven again under the Income Contingent Repayment and the Pay as You Earn plans. Here's what to know.",
+      "published": "Mon, 27 Oct 2025 15:41:04 GMT",
+      "content": "Student loan borrowers can get their debt forgiven again under the Income Contingent Repayment and the Pay as You Earn plans. Here's what to know.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d5b767050ab292ba1d48ee02e8b62f32",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STUDENT LOAN FORGIVENESS RESUMES FOR 2 PLANS 🚀\n\n- Debt forgiveness reinstated for Income Contingent Repayment & Pay as You Earn 💸\n- Borrowers can benefit from these repayment plans once more ✅\n- Important information for student loan holders to consider 🎓\n\nTAKEAWAY: Student loan borrowers can rejoice as forgiveness resumes under the Income Contingent Repayment and Pay as You Earn plans, offering relief and support.",
+      "exported_at": "2025-10-27T11:48:40.713724",
+      "continuous_session": true
+    },
+    {
+      "title": "We&apos;re trimming a frustrating stock that just made a huge post-earnings move",
+      "link": "https://www.cnbc.com/2025/10/27/were-trimming-a-stock-that-just-made-a-huge-post-earnings-move.html",
+      "summary": "The trade is also out of discipline to the S&amp;P Short Range Oscillator, which is now signaling an overbought market.",
+      "published": "Mon, 27 Oct 2025 15:45:46 GMT",
+      "content": "The trade is also out of discipline to the S&amp;P Short Range Oscillator, which is now signaling an overbought market.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2e071ceba7f331db14ba5f3d931180eb",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRIMMING FRUSTRATING STOCK AFTER HUGE POST-EARNINGS MOVE ⚠️\n\n- Stock trimmed due to frustrating performance\n- Market overbought as per S&P Short Range Oscillator\n- Trade made in line with discipline and market signals\n\nTAKEAWAY: Trimming stock post-earnings due to frustration and overbought market signals aligns with disciplined trading approach.",
+      "exported_at": "2025-10-27T11:48:40.713747",
       "continuous_session": true
     }
   ]
