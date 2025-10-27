@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-27T08:15:55.082477",
-    "total_articles": 2772,
-    "new_articles_in_last_fetch": 2772,
+    "created_at": "2025-10-27T08:21:02.891051",
+    "total_articles": 2773,
+    "new_articles_in_last_fetch": 2773,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -35993,6 +35993,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: HURRICANE MELISSA REACHES CATEGORY 5 NEAR JAMAICA 🌀\n\n- Melissa upgraded to Category 5, heading towards Jamaica 🌪️\n- Forecasted landfall on Jamaica Tuesday, then Cuba and Bahamas 🌎\n- Residents urged to prepare for potential impact 🚨\n\nTAKEAWAY: Hurricane Melissa intensifies to a Category 5, posing a significant threat as it approaches Jamaica, Cuba, and the Bahamas.",
       "exported_at": "2025-10-27T08:15:55.051132",
+      "continuous_session": true
+    },
+    {
+      "title": "Bessent lists five finalists for Fed chair job and Trump says decision coming before the end of the year",
+      "link": "https://www.cnbc.com/2025/10/27/bessent-lists-five-finalists-for-fed-chair-job-and-trump-says-decision-coming-before-the-end-of-the-year.html",
+      "summary": "The Federal Open Market Committee meets this week, with an interest rate decision due Wednesday.",
+      "published": "Mon, 27 Oct 2025 12:16:44 GMT",
+      "content": "The Federal Open Market Committee meets this week, with an interest rate decision due Wednesday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c77292db8dbec5ae5e3155040f37dd1e",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BESSANT LISTS FINALISTS FOR FED CHAIR JOB, TRUMP DECISION SOON 🚀\n\n- Bessant reveals five finalists for the Fed chair position 🌟\n- Trump promises decision on Fed chair before year-end ⏳\n- Federal Open Market Committee to decide interest rates this week 📈\n- Market eagerly awaits Fed's interest rate decision on Wednesday 🤑\n- Speculation and anticipation surround Trump's Fed chair choice 🤔\n\nTAKEAWAY: The selection of the new Fed chair by Bessant and Trump's looming decision before year-end create excitement and speculation in the market.",
+      "exported_at": "2025-10-27T08:21:02.859621",
       "continuous_session": true
     }
   ]
