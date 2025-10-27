@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-27T12:54:36.351250",
-    "total_articles": 2801,
-    "new_articles_in_last_fetch": 2801,
+    "created_at": "2025-10-27T12:59:42.648183",
+    "total_articles": 2802,
+    "new_articles_in_last_fetch": 2802,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -36370,6 +36370,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: RARE EARTH STOCKS PLUNGE AS CHINA DELAYS EXPORT CONTROLS ⚠️\n\n- U.S.-listed rare earth miners' shares drop significantly 📉\n- China anticipated to postpone export control measures 🇨🇳\n- Investors react to the news with selling pressure 💰\n- Market volatility expected amid uncertainty 🌪️\n\nTAKEAWAY: Rare earth stocks experience a sharp decline as China delays export controls, causing market uncertainty and investor reactions.",
       "exported_at": "2025-10-27T12:54:36.204057",
+      "continuous_session": true
+    },
+    {
+      "title": "How President Trump&apos;s China tariffs are taxing the price of cherished Halloween pumpkin pastime",
+      "link": "https://www.cnbc.com/2025/10/27/trump-china-tariffs-inflation-prices-halloween-holiday-shopping.html",
+      "summary": "The price of a pumpkin carving kit shows how tariffs on China are causing steep price hikes even among relatively cheap holiday items.",
+      "published": "Mon, 27 Oct 2025 16:53:28 GMT",
+      "content": "The price of a pumpkin carving kit shows how tariffs on China are causing steep price hikes even among relatively cheap holiday items.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "72de957885544726789148a7031ad8ac",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: PRESIDENT TRUMP'S CHINA TARIFFS HAUNT HALLOWEEN PUMPKIN PRICES 🎃\n\n- Tariffs on China spike prices of pumpkin carving kits 📈\n- Even inexpensive holiday items see significant price hikes 💰\n- Impact of tariffs felt across various consumer products 🌐\n\nTAKEAWAY: President Trump's tariffs on China are spooking Halloween enthusiasts as prices rise, impacting even affordable holiday essentials.",
+      "exported_at": "2025-10-27T12:59:42.454856",
       "continuous_session": true
     }
   ]
