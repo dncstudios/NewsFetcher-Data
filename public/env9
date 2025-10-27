@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-27T13:25:00.680110",
-    "total_articles": 2804,
-    "new_articles_in_last_fetch": 2804,
+    "created_at": "2025-10-27T13:45:14.153921",
+    "total_articles": 2805,
+    "new_articles_in_last_fetch": 2805,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -36408,6 +36408,19 @@
       "hash": "0dc8c1183eccce357b8b96ea9d7c3180",
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "exported_at": "2025-10-27T13:25:00.489865",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves midday: Qualcomm, Fermi, Dyne Therapeutics, Organon, Snowflake and more",
+      "link": "https://www.cnbc.com/2025/10/27/stocks-making-big-moves-midday-qualcomm-fermi-organon-and-more-.html",
+      "summary": "These are some of the stocks posting the largest moves midday.",
+      "published": "Mon, 27 Oct 2025 17:29:23 GMT",
+      "content": "These are some of the stocks posting the largest moves midday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d075016974076d4c83612c6e05e58db6",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS MAKING MAJOR MOVES MIDDAY: QUALCOMM, FERMI, DYNE THERAPEUTICS 🚀\n\n- Qualcomm, Fermi, Dyne Therapeutics among top movers 📈\n- Organon and Snowflake also experiencing significant shifts 🔥\n- Market buzzing with activity and volatility midday 💥\n\nTAKEAWAY: Major stocks like Qualcomm, Fermi, and Dyne Therapeutics are leading the midday market surge, creating excitement and opportunities for investors.",
+      "exported_at": "2025-10-27T13:45:13.997807",
       "continuous_session": true
     }
   ]
