@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-27T16:12:09.828229",
-    "total_articles": 2819,
-    "new_articles_in_last_fetch": 2819,
+    "created_at": "2025-10-27T16:22:19.543984",
+    "total_articles": 2820,
+    "new_articles_in_last_fetch": 2820,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -36603,6 +36603,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AMAZON'S LARGEST CORPORATE JOB CUTS IN HISTORY 🚨\n\n- Amazon set for sweeping corporate layoffs starting Tuesday\n- Largest cuts ever in the company's corporate workforce \n- Significant impact on the Amazon corporate team\n- Details to be revealed as the announcement unfolds\n- Unprecedented move by Amazon in its history\n\nTAKEAWAY: Amazon's upcoming corporate job cuts mark a significant milestone, shaping the company's future trajectory.",
       "exported_at": "2025-10-27T16:12:09.641185",
+      "continuous_session": true
+    },
+    {
+      "title": "One chip stock and two health names to own for the long run, according to investor Hulick",
+      "link": "https://www.cnbc.com/2025/10/27/one-chip-stock-and-two-health-names-to-own-for-the-long-run-according-to-investor-hulick.html",
+      "summary": "Hulick joined CNBC's \"Power Lunch\" on Monday to give his bullish take on a handful of stocks.",
+      "published": "Mon, 27 Oct 2025 20:09:21 GMT",
+      "content": "Hulick joined CNBC's \"Power Lunch\" on Monday to give his bullish take on a handful of stocks.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "514e85f02e70312c64893a4a659517ac",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ONE CHIP STOCK AND TWO HEALTH NAMES TO OWN FOR THE LONG RUN, SAYS INVESTOR HULICK 🚀\n\n- Investor Hulick recommends a chip stock and two health names 💡\n- Bullish outlook shared on CNBC's \"Power Lunch\" 📈\n- Long-term potential highlighted for these selected stocks 🎯\n\nTAKEAWAY: Hulick's endorsement of a chip stock and two health names on CNBC's \"Power Lunch\" signals long-term investment opportunities in these sectors.",
+      "exported_at": "2025-10-27T16:22:19.371884",
       "continuous_session": true
     }
   ]
