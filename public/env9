@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-27T08:31:12.354329",
-    "total_articles": 2775,
-    "new_articles_in_last_fetch": 2775,
+    "created_at": "2025-10-27T08:56:26.984499",
+    "total_articles": 2776,
+    "new_articles_in_last_fetch": 2776,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -36032,6 +36032,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AMERICANS GRAPPLE WITH RETIREMENT CONFIDENCE PARADOX 🚨\n\n- Survey reveals many Americans lack confidence in retirement readiness\n- Record numbers hitting retirement age amidst uncertainty 📉\n- Feeling ready for retirement differs from being financially prepared 💸\n- Importance of planning and saving emphasized for a secure future 📈\n\nTAKEAWAY: The \"retirement confidence paradox\" highlights the gap between feeling ready and being financially prepared for retirement, urging Americans to prioritize planning and saving for a secure future.",
       "exported_at": "2025-10-27T08:31:12.322653",
+      "continuous_session": true
+    },
+    {
+      "title": "Jim Cramer&apos;s top 10 things to watch in the stock market Monday",
+      "link": "https://www.cnbc.com/2025/10/27/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
+      "summary": "Wall Street was in rally mode this morning on the potential for a U.S.-China trade truce.",
+      "published": "Mon, 27 Oct 2025 12:53:25 GMT",
+      "content": "Wall Street was in rally mode this morning on the potential for a U.S.-China trade truce.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "dfe61cb43882118e75d3799ff4e772af",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JIM CRAMER'S TOP 10 STOCK MARKET WATCHES 🚀\n\n- Wall Street rallies on U.S.-China trade truce hopes 📈\n- Market optimism fuels positive Monday start 🌟\n- Investors eye potential impact on stock prices 💰\n- Trade talks with China influence market sentiment 🇨🇳\n- Focus on global trade dynamics for market cues 🌏\n\nTAKEAWAY: Wall Street's rally driven by optimism of U.S.-China trade truce, making it crucial for investors to monitor market dynamics and stock prices closely.",
+      "exported_at": "2025-10-27T08:56:26.952129",
       "continuous_session": true
     }
   ]
