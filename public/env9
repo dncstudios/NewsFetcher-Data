@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-27T17:17:51.882785",
-    "total_articles": 2822,
-    "new_articles_in_last_fetch": 2822,
+    "created_at": "2025-10-27T17:48:09.290795",
+    "total_articles": 2823,
+    "new_articles_in_last_fetch": 2823,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -36642,6 +36642,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: IROBOT STOCK PLUNGES 30% AS BUYER SEARCH STALLS 📉\n\n- iRobot's stock drops by 30% due to stalled buyer search 📉\n- Financial condition worsens post-Amazon acquisition abandonment 💸\n- Company struggles as search for buyer hits roadblock 🛑\n- Stock price hit hard by failed acquisition plans 📉\n- iRobot faces challenges as uncertainty looms over company's future 🤔\n- Market reacts negatively to stalling of acquisition process 📉\n\nTAKEAWAY: iRobot's stock takes a hit as the search for a buyer stalls, leading to financial struggles and market uncertainty.",
       "exported_at": "2025-10-27T17:17:51.696628",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves after hours: Nucor, Waste Management, F5, NXP and more",
+      "link": "https://www.cnbc.com/2025/10/27/stocks-making-the-biggest-moves-after-hours-nucor-waste-management-f5-nxp-and-more.html",
+      "summary": "These are the stocks posting the largest moves in extended trading.",
+      "published": "Mon, 27 Oct 2025 21:27:40 GMT",
+      "content": "These are the stocks posting the largest moves in extended trading.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "84a1df71a06e1d5e7086850cb598b29c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS MAKING BIGGEST MOVES AFTER HOURS 🌙\n\n- Nucor, Waste Management, F5, NXP among top movers 📈\n- Significant price shifts observed in extended trading 💹\n- Market volatility present after regular trading hours 📉\n\nTAKEAWAY: Stay alert as Nucor, Waste Management, F5, NXP, and other stocks show significant movements after hours, indicating potential opportunities or risks for investors.",
+      "exported_at": "2025-10-27T17:48:09.097828",
       "continuous_session": true
     }
   ]
