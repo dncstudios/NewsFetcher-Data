@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-27T14:10:34.330710",
-    "total_articles": 2807,
-    "new_articles_in_last_fetch": 2807,
+    "created_at": "2025-10-27T14:15:40.388699",
+    "total_articles": 2808,
+    "new_articles_in_last_fetch": 2808,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -36447,6 +36447,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: IROBOT STOCK PLUNGES 30% AS BUYER SEARCH STALLS 📉\n\n- iRobot's stock drops by 30% due to stalled buyer search 📉\n- Financial condition worsens post-Amazon acquisition abandonment 💸\n- Company struggles as search for buyer hits roadblock 🛑\n- Stock price hit hard by failed acquisition plans 📉\n- iRobot faces challenges as uncertainty looms over company's future 🤔\n- Market reacts negatively to stalling of acquisition process 📉\n\nTAKEAWAY: iRobot's stock takes a hit as the search for a buyer stalls, leading to financial struggles and market uncertainty.",
       "exported_at": "2025-10-27T14:10:34.136794",
+      "continuous_session": true
+    },
+    {
+      "title": "NBA reviewing prop bets, injury reporting, AI to track wagers after gambling indictment",
+      "link": "https://www.cnbc.com/2025/10/27/nba-prop-bets-ai-rozier-billups-gambling.html",
+      "summary": "The NBA has been rocked by a federal criminal indictment that alleges a group of sport bettors exploited inside information about teams and players to wager.",
+      "published": "Mon, 27 Oct 2025 18:06:22 GMT",
+      "content": "The NBA has been rocked by a federal criminal indictment that alleges a group of sport bettors exploited inside information about teams and players to wager.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6f60866c2717b72529cf27a8844f70b4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: NBA UNDER SCRUTINY FOR BETTING VIOLATIONS ⚠️\n\n- Federal indictment exposes exploitation of inside info 🕵️‍♂️\n- NBA reviewing prop bets and injury reporting 🏀\n- AI to track wagers amidst gambling scandal 🤖\n\nTAKEAWAY: The NBA faces scrutiny over betting violations as it reviews prop bets, injury reporting, and implements AI to monitor wagers post-indictment.",
+      "exported_at": "2025-10-27T14:15:40.224398",
       "continuous_session": true
     }
   ]
