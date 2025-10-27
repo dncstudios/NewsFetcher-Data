@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-27T17:48:09.290795",
-    "total_articles": 2823,
-    "new_articles_in_last_fetch": 2823,
+    "created_at": "2025-10-27T18:08:22.086761",
+    "total_articles": 2824,
+    "new_articles_in_last_fetch": 2824,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -36655,6 +36655,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCKS MAKING BIGGEST MOVES AFTER HOURS 🌙\n\n- Nucor, Waste Management, F5, NXP among top movers 📈\n- Significant price shifts observed in extended trading 💹\n- Market volatility present after regular trading hours 📉\n\nTAKEAWAY: Stay alert as Nucor, Waste Management, F5, NXP, and other stocks show significant movements after hours, indicating potential opportunities or risks for investors.",
       "exported_at": "2025-10-27T17:48:09.097828",
+      "continuous_session": true
+    },
+    {
+      "title": "Stock futures are little changed after major U.S. indexes notch record highs: Live updates",
+      "link": "https://www.cnbc.com/2025/10/27/stock-market-today-live-updates.html",
+      "summary": "Investors during Monday's session cheered cooling tensions between the U.S. and China.",
+      "published": "Mon, 27 Oct 2025 22:04:12 GMT",
+      "content": "Investors during Monday's session cheered cooling tensions between the U.S. and China.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5053218a217934f61f578c99b70134f5",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCK FUTURES STABLE AFTER RECORD HIGHS 📈\n\n- U.S. indexes hit new highs, futures show stability\n- Investors celebrate easing U.S.-China tensions 🎉\n- Monday's session reflects positive market sentiment\n\nTAKEAWAY: Stock futures remain steady after major U.S. indexes reach record highs, fueled by improved U.S.-China relations.",
+      "exported_at": "2025-10-27T18:08:21.930693",
       "continuous_session": true
     }
   ]
