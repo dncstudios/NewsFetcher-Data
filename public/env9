@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-27T10:02:13.802923",
-    "total_articles": 2783,
-    "new_articles_in_last_fetch": 2783,
+    "created_at": "2025-10-27T10:12:21.705470",
+    "total_articles": 2784,
+    "new_articles_in_last_fetch": 2784,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -36136,6 +36136,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: HURRICANE MELISSA REACHES CATEGORY 5 NEAR JAMAICA 🌀\n\n- Melissa upgraded to Category 5, heading towards Jamaica 🌪️\n- Forecasted landfall on Jamaica Tuesday, then Cuba and Bahamas 🌎\n- Residents urged to prepare for potential impact 🚨\n\nTAKEAWAY: Hurricane Melissa intensifies to a Category 5, posing a significant threat as it approaches Jamaica, Cuba, and the Bahamas.",
       "exported_at": "2025-10-27T10:02:13.771133",
+      "continuous_session": true
+    },
+    {
+      "title": "Berkshire Hathaway downgraded to sell by KBW, citing Buffett succession, &apos;many&apos; other issues",
+      "link": "https://www.cnbc.com/2025/10/27/berkshire-hathaway-downgraded-to-sell-by-kbw-citing-buffett-succession-many-other-issues.html",
+      "summary": "KBW said the company's core businesses — from auto insurer Geico to railroad Burlington Northern Santa Fe — are likely to face simultaneous pressures ahead.",
+      "published": "Mon, 27 Oct 2025 14:03:47 GMT",
+      "content": "KBW said the company's core businesses — from auto insurer Geico to railroad Burlington Northern Santa Fe — are likely to face simultaneous pressures ahead.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6097fb9ac5ac3c38f4776e33f2f9449a",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: BERKSHIRE HATHAWAY DOWNGRADED TO SELL BY KBW, WARNING OF MULTIPLE CHALLENGES ⚠️\n\n- KBW downgrades Berkshire Hathaway to sell, highlighting succession concerns 📉\n- Core businesses like Geico and Burlington Northern face future pressures 🏭\n- Analysts raise red flags on various issues within the conglomerate 🚩\n\nTAKEAWAY: Berkshire Hathaway faces a sell rating due to concerns over succession and potential challenges across its core businesses, as highlighted by KBW.",
+      "exported_at": "2025-10-27T10:12:21.674288",
       "continuous_session": true
     }
   ]
