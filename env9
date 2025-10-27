@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-27T19:29:07.896303",
-    "total_articles": 2827,
-    "new_articles_in_last_fetch": 2827,
+    "created_at": "2025-10-27T19:39:14.747330",
+    "total_articles": 2828,
+    "new_articles_in_last_fetch": 2828,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -36707,6 +36707,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SOUTH KOREA'S Q3 GDP GROWS 1.7%, BEATS EXPECTATIONS 🚀\n\n- Q3 GDP up 1.7%, surpassing 1.5% forecast 📈\n- Fastest growth in over a year 🚀\n- Bank of Korea's advance estimates reveal strong performance 💪\n- Economists polled by Reuters underestimated growth 📉\n\nTAKEAWAY: South Korea's third-quarter GDP growth of 1.7% exceeds expectations, marking the fastest pace in over a year and showcasing a strong economic performance.",
       "exported_at": "2025-10-27T19:29:07.733188",
+      "continuous_session": true
+    },
+    {
+      "title": "Exports, manufacturing drive South Korea&apos;s third-quarter GDP growth —  fastest in over a year",
+      "link": "https://www.cnbc.com/2025/10/28/south-koreas-gdp-q3-beats-expectations-.html",
+      "summary": "According to advance estimates from Bank of Korea, GDP rose 1.7%, year on year, compared to the 1.5% expected by economists polled by Reuters.",
+      "published": "Mon, 27 Oct 2025 23:38:47 GMT",
+      "content": "According to advance estimates from Bank of Korea, GDP rose 1.7%, year on year, compared to the 1.5% expected by economists polled by Reuters.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d6805172d81feda380f27c67e8cc075c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SOUTH KOREA'S Q3 GDP GROWS 1.7%, BEATS EXPECTATIONS 🚀\n\n- Q3 GDP up 1.7%, surpassing 1.5% forecast 📈\n- Fastest growth in over a year 🚀\n- Bank of Korea's advance estimates reveal strong performance 💪\n- Economists polled by Reuters underestimated growth 📉\n\nTAKEAWAY: South Korea's third-quarter GDP growth of 1.7% exceeds expectations, marking the fastest pace in over a year and showcasing a strong economic performance.",
+      "exported_at": "2025-10-27T19:39:14.577067",
       "continuous_session": true
     }
   ]
