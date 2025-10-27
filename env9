@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-27T12:34:19.145442",
-    "total_articles": 2798,
-    "new_articles_in_last_fetch": 2798,
+    "created_at": "2025-10-27T12:49:27.607688",
+    "total_articles": 2799,
+    "new_articles_in_last_fetch": 2799,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -36331,6 +36331,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CRAMER CONCERNED ABOUT BROADCOM STOCK 🚨\n\n- Broadcom's stock action raises worries for Cramer 📉\n- Honeywell receives an upgrade 🚀\n- The Investing Club's \"Morning Meeting\" at 10:20 a.m. ET ⏰\n\nTAKEAWAY: Cramer's concerns over Broadcom's stock performance, paired with Honeywell's upgrade, spice up the Investing Club's \"Morning Meeting\" at 10:20 a.m. ET.",
       "exported_at": "2025-10-27T12:34:18.956938",
+      "continuous_session": true
+    },
+    {
+      "title": "U.S. Department of Energy forms $1 billion supercomputer and AI partnership with AMD: Reuters",
+      "link": "https://www.cnbc.com/2025/10/27/amd-us-department-of-energy-partnership.html",
+      "summary": "The U.S. and AMD have formed a $1 billion partnership to construct two supercomputers that will tackle large scientific problems.",
+      "published": "Mon, 27 Oct 2025 16:45:38 GMT",
+      "content": "The U.S. and AMD have formed a $1 billion partnership to construct two supercomputers that will tackle large scientific problems.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2752f52d0cff0cef29c783adfe98d2dc",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: U.S. DEPARTMENT OF ENERGY PARTNERS WITH AMD FOR $1 BILLION SUPERCOMPUTER 🚀\n\n- U.S. Energy Department collaborates with AMD for $1 billion project 💰\n- Partnership aims to build two supercomputers for solving large scientific challenges 🧬\n- Cutting-edge technology and AI to be utilized in the supercomputers 🤖\n- Project set to push boundaries of scientific research and innovation 🌌\n- AMD positioned to play a key role in advancing computational capabilities 💻\n- Supercomputers expected to revolutionize problem-solving in various fields 🌐\n\nTAKEAWAY: The $1 billion partnership between the U.S. Department of Energy and AMD to develop advanced supercomputers signals a significant leap in scientific research capabilities with cutting-edge technology and AI integration. 🌟",
+      "exported_at": "2025-10-27T12:49:27.443971",
       "continuous_session": true
     }
   ]
