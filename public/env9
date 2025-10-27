@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-27T09:36:56.607285",
-    "total_articles": 2780,
-    "new_articles_in_last_fetch": 2780,
+    "created_at": "2025-10-27T09:42:00.534485",
+    "total_articles": 2781,
+    "new_articles_in_last_fetch": 2781,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -36097,6 +36097,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: DOW SOARS 300 POINTS ON US-CHINA TRADE TRUCE 🚀\n\n- Market surges as US-China tensions ease 📈\n- Investors optimistic after weekend developments 🌟\n- Positive sentiment boosts stock performance 📈\n- Potential trade truce fuels market excitement 🎉\n- Dow opens with a strong 300 point increase 💪\n- US and China officials work towards de-escalation ✅\n\nTAKEAWAY: The Dow surges 300 points as optimism grows with the potential US-China trade truce, fueling excitement and positive sentiment among investors.",
       "exported_at": "2025-10-27T09:36:56.575271",
+      "continuous_session": true
+    },
+    {
+      "title": "Dow gains 200 points, hits record on potential China trade truce: Live updates",
+      "link": "https://www.cnbc.com/2025/10/26/stock-market-today-live-updates.html",
+      "summary": "Stocks jumped on Monday after U.S. and China officials cooled tensions over the weekend.",
+      "published": "Mon, 27 Oct 2025 13:41:51 GMT",
+      "content": "Stocks jumped on Monday after U.S. and China officials cooled tensions over the weekend.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "db6b6e523f8db0da0fce0b0bf15d821f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DOW SOARS 300 POINTS ON US-CHINA TRADE TRUCE 🚀\n\n- Market surges as US-China tensions ease 📈\n- Investors optimistic after weekend developments 🌟\n- Positive sentiment boosts stock performance 📈\n- Potential trade truce fuels market excitement 🎉\n- Dow opens with a strong 300 point increase 💪\n- US and China officials work towards de-escalation ✅\n\nTAKEAWAY: The Dow surges 300 points as optimism grows with the potential US-China trade truce, fueling excitement and positive sentiment among investors.",
+      "exported_at": "2025-10-27T09:42:00.503379",
       "continuous_session": true
     }
   ]
