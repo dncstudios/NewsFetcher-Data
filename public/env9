@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-27T10:42:42.028331",
-    "total_articles": 2785,
-    "new_articles_in_last_fetch": 2785,
+    "created_at": "2025-10-27T11:02:59.272928",
+    "total_articles": 2787,
+    "new_articles_in_last_fetch": 2787,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -36162,6 +36162,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CONSERVATIVE OPTIONS STRATEGY BOOSTS YIELD WITH EMA 🚀\n\n- Strategy leverages exponential moving averages (EMA) 📈\n- Utilizes Rocket Lab December 55 puts near 50-day EMA 🚀\n- Enhances yield while managing risk effectively ✅\n\nTAKEAWAY: By incorporating exponential moving averages (EMA) and Rocket Lab December 55 puts, this conservative options strategy boosts yield while cushioning risk.",
       "exported_at": "2025-10-27T10:42:41.996733",
+      "continuous_session": true
+    },
+    {
+      "title": "Qualcomm announces AI chips to compete with AMD and Nvidia — stock soars 15%",
+      "link": "https://www.cnbc.com/2025/10/27/qualcomm-ai200-ai250-ai-chips-nvidia-amd.html",
+      "summary": "The AI200, expected in 2026, and the AI250, planned for 2027, both can come in a system that fills up a full, liquid-cooled server rack, Qualcomm said.",
+      "published": "Mon, 27 Oct 2025 14:58:32 GMT",
+      "content": "The AI200, expected in 2026, and the AI250, planned for 2027, both can come in a system that fills up a full, liquid-cooled server rack, Qualcomm said.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9816a41546d36211e9c1440dec0f9c3d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: QUALCOMM UNVEILS AI CHIPS TO RIVAL AMD AND NVIDIA 🚀\n\n- Qualcomm introduces AI200 and AI250 chips for 2026 and 2027 📈\n- AI chips to challenge AMD and Nvidia in performance 🏆\n- Chips can be integrated into liquid-cooled server racks 💧\n- Aim to dominate AI chip market with powerful offerings 💪\n- AI200 and AI250 in server racks for enhanced capabilities 🔥\n\nTAKEAWAY: Qualcomm's latest AI chips pose a significant challenge to AMD and Nvidia, aiming to dominate the market with powerful performance and innovative server rack integration.",
+      "exported_at": "2025-10-27T11:02:59.241815",
+      "continuous_session": true
+    },
+    {
+      "title": "Josh Brown says this energy Best Stock is moving higher, but poised for an even bigger breakout",
+      "link": "https://www.cnbc.com/2025/10/27/josh-brown-says-this-energy-best-stock-is-moving-higher-but-poised-for-an-even-bigger-breakout.html",
+      "summary": "Josh and Sean do a little housekeeping on Netflix, before breaking down some of energy stocks on the Best Stocks list.",
+      "published": "Mon, 27 Oct 2025 14:56:30 GMT",
+      "content": "Josh and Sean do a little housekeeping on Netflix, before breaking down some of energy stocks on the Best Stocks list.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0d41e1bf667090ef8c2a4a94e6742b99",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: JOSH BROWN PREDICTS ENERGY BEST STOCK PRIMED FOR BIG BREAKOUT 🚀\n\n- Energy best stock surging, potential for significant growth 🔥\n- Expert analysis by Josh Brown highlights stock's upward momentum 📈\n- Market anticipation high for stock's impressive breakout ⚡️\n\nTAKEAWAY: Josh Brown's insight points towards a significant breakout for the energy best stock, fueling market anticipation and optimism.",
+      "exported_at": "2025-10-27T11:02:59.241824",
       "continuous_session": true
     }
   ]
