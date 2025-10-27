@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-27T11:38:21.953700",
-    "total_articles": 2789,
-    "new_articles_in_last_fetch": 2789,
+    "created_at": "2025-10-27T11:43:27.894507",
+    "total_articles": 2790,
+    "new_articles_in_last_fetch": 2790,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -36214,6 +36214,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: MELISSA INTENSIFIES TO CATEGORY 5, SET TO HIT JAMAICA AS STRONGEST STORM EVER 🌪️\n\n- Hurricane Melissa reaches Category 5, aiming for Jamaica 🌀\n- Jamaica braces for impact of strongest storm in recorded history 🇯🇲\n- Melissa poised to make history as the most powerful storm since 1851 📈\n\nTAKEAWAY: Hurricane Melissa's intensification to Category 5 poses a significant threat to Jamaica, marking it as the strongest storm the island has ever faced since records began in 1851.",
       "exported_at": "2025-10-27T11:38:21.922430",
+      "continuous_session": true
+    },
+    {
+      "title": "U.S. Department of Energy forms $1 billion supercomputer and AI partnership with AMD",
+      "link": "https://www.cnbc.com/2025/10/27/amd-us-department-of-energy-partnership.html",
+      "summary": "The U.S. and AMD have formed a $1 billion partnership to construct two supercomputers that will tackle large scientific problems.",
+      "published": "Mon, 27 Oct 2025 15:41:43 GMT",
+      "content": "The U.S. and AMD have formed a $1 billion partnership to construct two supercomputers that will tackle large scientific problems.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "bd3295f30fa4e5e6526438d3a84b9922",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: U.S. DEPARTMENT OF ENERGY PARTNERS WITH AMD FOR $1 BILLION SUPERCOMPUTER 🚀\n\n- U.S. Energy Department collaborates with AMD for $1 billion project 💰\n- Partnership aims to build two supercomputers for solving large scientific challenges 🧬\n- Cutting-edge technology and AI to be utilized in the supercomputers 🤖\n- Project set to push boundaries of scientific research and innovation 🌌\n- AMD positioned to play a key role in advancing computational capabilities 💻\n- Supercomputers expected to revolutionize problem-solving in various fields 🌐\n\nTAKEAWAY: The $1 billion partnership between the U.S. Department of Energy and AMD to develop advanced supercomputers signals a significant leap in scientific research capabilities with cutting-edge technology and AI integration. 🌟",
+      "exported_at": "2025-10-27T11:43:27.862771",
       "continuous_session": true
     }
   ]
