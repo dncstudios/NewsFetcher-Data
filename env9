@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-27T14:56:08.703643",
-    "total_articles": 2810,
-    "new_articles_in_last_fetch": 2810,
+    "created_at": "2025-10-27T15:01:16.037728",
+    "total_articles": 2811,
+    "new_articles_in_last_fetch": 2811,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -36486,6 +36486,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AI DRIVING PRODUCTIVITY GAP: LARGE COS 🚀\n\n- AI boosts productivity for large firms, leaving small ones behind\n- 'K-shaped economy' deepens as AI widens productivity gap\n- Small companies struggle to keep up with AI advancements\n- Large firms benefit from AI's efficiency and innovation\n- Productivity gains from AI highlight disparities in business sizes\n\nTAKEAWAY: The widening productivity gap driven by AI technology emphasizes the challenges faced by small companies in keeping up with large firms, deepening the 'K-shaped economy' divide.",
       "exported_at": "2025-10-27T14:56:08.540371",
+      "continuous_session": true
+    },
+    {
+      "title": "Amazon targets as many as 30,000 corporate job cuts: Reuters, citing sources",
+      "link": "https://www.cnbc.com/2025/10/27/amazon-targets-as-many-as-30000-corporate-job-cuts.html",
+      "summary": "The layoffs would represent the largest job cut at Amazon since around 27,000 jobs were eliminated starting in late 2022.",
+      "published": "Mon, 27 Oct 2025 18:56:59 GMT",
+      "content": "The layoffs would represent the largest job cut at Amazon since around 27,000 jobs were eliminated starting in late 2022.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2599265f73f240de765c32012fc9c856",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AMAZON PLANS UP TO 30,000 JOB CUTS 🚨\n\n- Amazon to cut up to 30,000 corporate jobs 📉\n- Largest layoffs since eliminating 27,000 jobs in late 2022 💼\n- Focus on corporate roles for the cutbacks 🎯\n\nTAKEAWAY: Amazon's move to trim up to 30,000 corporate jobs marks its largest layoff since 2022, emphasizing efficiency in its workforce restructuring.",
+      "exported_at": "2025-10-27T15:01:15.873975",
       "continuous_session": true
     }
   ]
