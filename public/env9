@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-27T15:01:16.037728",
-    "total_articles": 2811,
-    "new_articles_in_last_fetch": 2811,
+    "created_at": "2025-10-27T15:06:23.079885",
+    "total_articles": 2812,
+    "new_articles_in_last_fetch": 2812,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -36499,6 +36499,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AMAZON PLANS UP TO 30,000 JOB CUTS 🚨\n\n- Amazon to cut up to 30,000 corporate jobs 📉\n- Largest layoffs since eliminating 27,000 jobs in late 2022 💼\n- Focus on corporate roles for the cutbacks 🎯\n\nTAKEAWAY: Amazon's move to trim up to 30,000 corporate jobs marks its largest layoff since 2022, emphasizing efficiency in its workforce restructuring.",
       "exported_at": "2025-10-27T15:01:15.873975",
+      "continuous_session": true
+    },
+    {
+      "title": "Where to put your cash to work before the Fed cuts rates again",
+      "link": "https://www.cnbc.com/2025/10/27/where-to-put-your-cash-to-work-before-the-fed-cuts-rates.html",
+      "summary": "With cash yields set to fall as the Federal Reserve lower interest rates, investors may want to consider putting some of that money to work elsewhere.",
+      "published": "Mon, 27 Oct 2025 19:03:48 GMT",
+      "content": "With cash yields set to fall as the Federal Reserve lower interest rates, investors may want to consider putting some of that money to work elsewhere.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "87d2c768a20349b524cf01bc139f8fe4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: WHERE TO INVEST CASH BEFORE FED CUTS RATES AGAIN 🚀\n\n- Cash yields to decrease with Federal Reserve rate cut 🔻\n- Investors advised to explore alternative investment options 💰\n- Opportunity to maximize returns before rate adjustment ⏳\n\nTAKEAWAY: As the Fed plans to cut rates, investors should consider reallocating cash to alternative investments for higher returns before the adjustment.",
+      "exported_at": "2025-10-27T15:06:22.885011",
       "continuous_session": true
     }
   ]
