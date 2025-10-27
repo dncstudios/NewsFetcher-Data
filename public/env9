@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-27T16:07:05.310616",
-    "total_articles": 2818,
-    "new_articles_in_last_fetch": 2818,
+    "created_at": "2025-10-27T16:12:09.828229",
+    "total_articles": 2819,
+    "new_articles_in_last_fetch": 2819,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -36590,6 +36590,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AMAZON'S LARGEST CORPORATE JOB CUTS IN HISTORY 🚨\n\n- Amazon set for sweeping corporate layoffs starting Tuesday\n- Largest cuts ever in the company's corporate workforce \n- Significant impact on the Amazon corporate team\n- Details to be revealed as the announcement unfolds\n- Unprecedented move by Amazon in its history\n\nTAKEAWAY: Amazon's upcoming corporate job cuts mark a significant milestone, shaping the company's future trajectory.",
       "exported_at": "2025-10-27T16:07:05.131884",
+      "continuous_session": true
+    },
+    {
+      "title": "Amazon to announce largest layoffs in company history, source says",
+      "link": "https://www.cnbc.com/2025/10/27/amazon-to-announce-sweeping-corporate-job-cuts-starting-tuesday.html",
+      "summary": "The layoffs will amount to the largest cuts to Amazon's corporate workforce in the company's history, according to a person familiar with the matter.",
+      "published": "Mon, 27 Oct 2025 20:08:43 GMT",
+      "content": "The layoffs will amount to the largest cuts to Amazon's corporate workforce in the company's history, according to a person familiar with the matter.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4b7234f655d8b0da3d5a73ba7f3482a7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AMAZON'S LARGEST CORPORATE JOB CUTS IN HISTORY 🚨\n\n- Amazon set for sweeping corporate layoffs starting Tuesday\n- Largest cuts ever in the company's corporate workforce \n- Significant impact on the Amazon corporate team\n- Details to be revealed as the announcement unfolds\n- Unprecedented move by Amazon in its history\n\nTAKEAWAY: Amazon's upcoming corporate job cuts mark a significant milestone, shaping the company's future trajectory.",
+      "exported_at": "2025-10-27T16:12:09.641185",
       "continuous_session": true
     }
   ]
