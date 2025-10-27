@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-27T16:22:19.543984",
-    "total_articles": 2820,
-    "new_articles_in_last_fetch": 2820,
+    "created_at": "2025-10-27T16:42:34.084284",
+    "total_articles": 2821,
+    "new_articles_in_last_fetch": 2821,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -36616,6 +36616,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ONE CHIP STOCK AND TWO HEALTH NAMES TO OWN FOR THE LONG RUN, SAYS INVESTOR HULICK 🚀\n\n- Investor Hulick recommends a chip stock and two health names 💡\n- Bullish outlook shared on CNBC's \"Power Lunch\" 📈\n- Long-term potential highlighted for these selected stocks 🎯\n\nTAKEAWAY: Hulick's endorsement of a chip stock and two health names on CNBC's \"Power Lunch\" signals long-term investment opportunities in these sectors.",
       "exported_at": "2025-10-27T16:22:19.371884",
+      "continuous_session": true
+    },
+    {
+      "title": "OpenAI says U.S. needs more power to stay ahead of China in AI: &apos;Electrons are the new oil&apos;",
+      "link": "https://www.cnbc.com/2025/10/27/open-ai-power-china.html",
+      "summary": "OpenAI urged the White House to substantially increase the U.S.' investment in new energy capacity",
+      "published": "Mon, 27 Oct 2025 20:38:46 GMT",
+      "content": "OpenAI urged the White House to substantially increase the U.S.' investment in new energy capacity",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d0bd3129ee73ad72265fc858b887d282",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: OPENAI WARNS U.S. NEEDS MORE POWER TO BEAT CHINA IN AI 🚀\n\n- OpenAI calls for increased U.S. investment in new energy capacity ⚡️\n- Urges White House to stay ahead of China in AI development 🇨🇳\n- \"Electrons are the new oil\" - OpenAI's powerful analogy 💡\n- Emphasizes the critical role of energy in AI advancement 🔋\n- Push for substantial increase to maintain technological edge ✅\n- Highlighting the importance of energy resources in AI race 🏎️\n\nTAKEAWAY: OpenAI's call for increased U.S. investment in energy capacity to lead in AI against China emphasizes the crucial role of energy resources in technological advancement.",
+      "exported_at": "2025-10-27T16:42:33.927843",
       "continuous_session": true
     }
   ]
