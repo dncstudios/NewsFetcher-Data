@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-27T12:49:27.607688",
-    "total_articles": 2799,
-    "new_articles_in_last_fetch": 2799,
+    "created_at": "2025-10-27T12:54:36.351250",
+    "total_articles": 2801,
+    "new_articles_in_last_fetch": 2801,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -36344,6 +36344,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: U.S. DEPARTMENT OF ENERGY PARTNERS WITH AMD FOR $1 BILLION SUPERCOMPUTER 🚀\n\n- U.S. Energy Department collaborates with AMD for $1 billion project 💰\n- Partnership aims to build two supercomputers for solving large scientific challenges 🧬\n- Cutting-edge technology and AI to be utilized in the supercomputers 🤖\n- Project set to push boundaries of scientific research and innovation 🌌\n- AMD positioned to play a key role in advancing computational capabilities 💻\n- Supercomputers expected to revolutionize problem-solving in various fields 🌐\n\nTAKEAWAY: The $1 billion partnership between the U.S. Department of Energy and AMD to develop advanced supercomputers signals a significant leap in scientific research capabilities with cutting-edge technology and AI integration. 🌟",
       "exported_at": "2025-10-27T12:49:27.443971",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump says U.S., China close to trade deal ahead of Xi talks, TikTok decision",
+      "link": "https://www.cnbc.com/2025/10/27/trump-says-us-china-close-to-trade-deal-ahead-of-xi-talks-tiktok-decision.html",
+      "summary": "U.S. President Donald Trump launched a whirlwind weeklong trip to Asia aimed at strengthening his position ahead of an expected meeting with Xi Jinping.",
+      "published": "Mon, 27 Oct 2025 08:06:48 GMT",
+      "content": "U.S. President Donald Trump launched a whirlwind weeklong trip to Asia aimed at strengthening his position ahead of an expected meeting with Xi Jinping.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6e166759f2a447a3f98322327a117132",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TRUMP TEASES TRADE DEAL WITH CHINA AHEAD OF XI TALKS 🚀\n\n- Trump hints at nearing trade agreement with China 🤝\n- President embarks on weeklong trip to Asia for strategic talks 🌏\n- Aim is to fortify position before meeting Xi Jinping 🎯\n\nTAKEAWAY: Trump's strategic moves hint at a potential trade deal with China, setting the stage for high-stakes talks with Xi Jinping.",
+      "exported_at": "2025-10-27T12:54:36.204017",
+      "continuous_session": true
+    },
+    {
+      "title": "Rare earth stocks extend losses as U.S. expects China to delay export controls",
+      "link": "https://www.cnbc.com/2025/10/27/trump-xi-meeting-rare-earth-stocks-in-focus-amid-us-china-trade-talks.html",
+      "summary": "Shares of U.S.-listed rare earth miners fell sharply on Monday as U.S. officials expect China to delay introducing export controls on critical minerals",
+      "published": "Mon, 27 Oct 2025 14:06:40 GMT",
+      "content": "Shares of U.S.-listed rare earth miners fell sharply on Monday as U.S. officials expect China to delay introducing export controls on critical minerals",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "cd23ae18ad52ee917609f3258aa535d4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: RARE EARTH STOCKS PLUNGE AS CHINA DELAYS EXPORT CONTROLS ⚠️\n\n- U.S.-listed rare earth miners' shares drop significantly 📉\n- China anticipated to postpone export control measures 🇨🇳\n- Investors react to the news with selling pressure 💰\n- Market volatility expected amid uncertainty 🌪️\n\nTAKEAWAY: Rare earth stocks experience a sharp decline as China delays export controls, causing market uncertainty and investor reactions.",
+      "exported_at": "2025-10-27T12:54:36.204057",
       "continuous_session": true
     }
   ]
