@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-27T08:05:36.707168",
-    "total_articles": 2768,
-    "new_articles_in_last_fetch": 2768,
+    "created_at": "2025-10-27T08:10:44.688856",
+    "total_articles": 2769,
+    "new_articles_in_last_fetch": 2769,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -35941,6 +35941,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: LULULEMON X NFL COLLECTION DROPPING FOR ALL 32 TEAMS 🏈\n\n- Lululemon's NFL collection launches with gear for every team 🌟\n- First time Lululemon offers products for all 32 NFL teams 🚀\n- Exciting partnership brings high-performance gear to football fans 🏆\n\nTAKEAWAY: Lululemon's groundbreaking collaboration with the NFL introduces a new era of athletic apparel for football enthusiasts, offering top-tier products for all 32 teams.",
       "exported_at": "2025-10-27T08:05:36.674601",
+      "continuous_session": true
+    },
+    {
+      "title": "Tesla risks losing CEO Musk if $1 trillion pay package isn&apos;t approved, board chair says",
+      "link": "https://www.cnbc.com/2025/10/27/tesla-musk-pay-shareholder-vote.html",
+      "summary": "Tesla Board Chair Robyn Denholm said Elon Musk is key to the future of the EV maker as it focuses more on Full Self Driving and Optimus.",
+      "published": "Mon, 27 Oct 2025 12:07:50 GMT",
+      "content": "Tesla Board Chair Robyn Denholm said Elon Musk is key to the future of the EV maker as it focuses more on Full Self Driving and Optimus.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d8166f38eb35629b555d446e70273b10",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: TESLA FACES CEO MUSK EXIT THREAT OVER $1 TRILLION PAY PACKAGE 🚨\n\n- Board chair emphasizes Musk's crucial role in Tesla's future 🌟\n- Approval of $1 trillion pay package critical to retain Musk 💰\n- Focus shifts to Full Self Driving and Optimus for Tesla's growth 🚗\n- Uncertainty looms over Tesla's leadership without Musk 🤔\n\nTAKEAWAY: Approval of the $1 trillion pay package is vital for Tesla to retain CEO Musk and ensure a focused approach towards Full Self Driving and Optimus.",
+      "exported_at": "2025-10-27T08:10:44.656594",
       "continuous_session": true
     }
   ]
