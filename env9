@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-27T07:52:05.911643",
-    "total_articles": 2767,
-    "new_articles_in_last_fetch": 2767,
+    "created_at": "2025-10-27T08:05:36.707168",
+    "total_articles": 2768,
+    "new_articles_in_last_fetch": 2768,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -35928,6 +35928,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: INVEST IN STOCKS AND AVOID 1990s-LIKE SPECULATION 🚫\n\n- Embrace stock investments over tempting 1990s-style speculation 💰\n- Shift focus towards long-term growth and stability 📈\n- Diversify portfolio to mitigate risks and maximize returns 🌟\n- Prioritize research and analysis before making investment decisions ✅\n- Stay disciplined and avoid impulsive trading behaviors 🧠\n- Learn from historical market trends to make informed choices 📚\n\nTAKEAWAY: Focus on stock investments for long-term growth, diversify wisely, and prioritize research to avoid speculative pitfalls reminiscent of the 1990s.",
       "exported_at": "2025-10-27T07:52:05.879947",
+      "continuous_session": true
+    },
+    {
+      "title": "Lululemon is partnering with the NFL to release apparel for all 32 teams",
+      "link": "https://www.cnbc.com/2025/10/27/lululemon-nfl-apparel.html",
+      "summary": "Lululemon is launching a new collection around the NFL, marking the first time it will have products featuring all 32 teams.",
+      "published": "Mon, 27 Oct 2025 12:00:01 GMT",
+      "content": "Lululemon is launching a new collection around the NFL, marking the first time it will have products featuring all 32 teams.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a7495edc22e45d1f4cd9d7a538cda979",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: LULULEMON X NFL COLLECTION DROPPING FOR ALL 32 TEAMS 🏈\n\n- Lululemon's NFL collection launches with gear for every team 🌟\n- First time Lululemon offers products for all 32 NFL teams 🚀\n- Exciting partnership brings high-performance gear to football fans 🏆\n\nTAKEAWAY: Lululemon's groundbreaking collaboration with the NFL introduces a new era of athletic apparel for football enthusiasts, offering top-tier products for all 32 teams.",
+      "exported_at": "2025-10-27T08:05:36.674601",
       "continuous_session": true
     }
   ]
