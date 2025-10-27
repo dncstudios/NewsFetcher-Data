@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-27T16:42:34.084284",
-    "total_articles": 2821,
-    "new_articles_in_last_fetch": 2821,
+    "created_at": "2025-10-27T17:17:51.882785",
+    "total_articles": 2822,
+    "new_articles_in_last_fetch": 2822,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -36629,6 +36629,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: OPENAI WARNS U.S. NEEDS MORE POWER TO BEAT CHINA IN AI 🚀\n\n- OpenAI calls for increased U.S. investment in new energy capacity ⚡️\n- Urges White House to stay ahead of China in AI development 🇨🇳\n- \"Electrons are the new oil\" - OpenAI's powerful analogy 💡\n- Emphasizes the critical role of energy in AI advancement 🔋\n- Push for substantial increase to maintain technological edge ✅\n- Highlighting the importance of energy resources in AI race 🏎️\n\nTAKEAWAY: OpenAI's call for increased U.S. investment in energy capacity to lead in AI against China emphasizes the crucial role of energy resources in technological advancement.",
       "exported_at": "2025-10-27T16:42:33.927843",
+      "continuous_session": true
+    },
+    {
+      "title": "iRobot stock tumbles 33% after Roomba maker warns the search for a buyer has stalled",
+      "link": "https://www.cnbc.com/2025/10/27/irobot-stock-roomba.html",
+      "summary": "The Roomba maker's financial condition has worsened since Amazon abandoned its planned acquisition of the company in 2024.",
+      "published": "Mon, 27 Oct 2025 21:15:29 GMT",
+      "content": "The Roomba maker's financial condition has worsened since Amazon abandoned its planned acquisition of the company in 2024.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0212741b9972d0dfa9cabf4ce6011415",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: IROBOT STOCK PLUNGES 30% AS BUYER SEARCH STALLS 📉\n\n- iRobot's stock drops by 30% due to stalled buyer search 📉\n- Financial condition worsens post-Amazon acquisition abandonment 💸\n- Company struggles as search for buyer hits roadblock 🛑\n- Stock price hit hard by failed acquisition plans 📉\n- iRobot faces challenges as uncertainty looms over company's future 🤔\n- Market reacts negatively to stalling of acquisition process 📉\n\nTAKEAWAY: iRobot's stock takes a hit as the search for a buyer stalls, leading to financial struggles and market uncertainty.",
+      "exported_at": "2025-10-27T17:17:51.696628",
       "continuous_session": true
     }
   ]
