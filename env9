@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-27T13:09:52.424477",
-    "total_articles": 2803,
-    "new_articles_in_last_fetch": 2803,
+    "created_at": "2025-10-27T13:25:00.680110",
+    "total_articles": 2804,
+    "new_articles_in_last_fetch": 2804,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -36396,6 +36396,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: MERCOR SOARS TO $10B VALUATION AFTER $350M FUNDING ROUND 🚀\n\n- Mercor's valuation hits $10 billion post $350 million funding round 💰\n- Company capitalizes on data-labeling shift, following Meta's $14.3B investment in Scale AI 📈\n- Impressive growth trajectory propels Mercor to new heights 🚀\n\nTAKEAWAY: Mercor's valuation skyrockets to $10 billion fueled by a successful $350 million funding round and strategic alignment with the data-labeling trend in the industry.",
       "exported_at": "2025-10-27T13:09:52.268459",
+      "continuous_session": true
+    },
+    {
+      "title": "A nuclear power play poised to break out on earnings",
+      "link": "https://www.cnbc.com/2025/10/27/a-nuclear-power-play-poised-to-break-out-on-earnings.html",
+      "summary": "Jay Woods breaks down the trade in NextEra.",
+      "published": "Mon, 27 Oct 2025 17:14:22 GMT",
+      "content": "Jay Woods breaks down the trade in NextEra.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0dc8c1183eccce357b8b96ea9d7c3180",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "exported_at": "2025-10-27T13:25:00.489865",
       "continuous_session": true
     }
   ]
