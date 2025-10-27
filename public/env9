@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-27T13:45:14.153921",
-    "total_articles": 2805,
-    "new_articles_in_last_fetch": 2805,
+    "created_at": "2025-10-27T13:55:22.618851",
+    "total_articles": 2806,
+    "new_articles_in_last_fetch": 2806,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -36421,6 +36421,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: STOCKS MAKING MAJOR MOVES MIDDAY: QUALCOMM, FERMI, DYNE THERAPEUTICS 🚀\n\n- Qualcomm, Fermi, Dyne Therapeutics among top movers 📈\n- Organon and Snowflake also experiencing significant shifts 🔥\n- Market buzzing with activity and volatility midday 💥\n\nTAKEAWAY: Major stocks like Qualcomm, Fermi, and Dyne Therapeutics are leading the midday market surge, creating excitement and opportunities for investors.",
       "exported_at": "2025-10-27T13:45:13.997807",
+      "continuous_session": true
+    },
+    {
+      "title": "Gold may experience a longer consolidation period before bull trend can restart, says Katie Stockton",
+      "link": "https://www.cnbc.com/2025/10/27/gold-may-experience-a-longer-consolidation-period-before-bull-trend-can-restart-says-katie-stockton.html",
+      "summary": "The chart analysts breaks down the charts on bullion and related stocks.",
+      "published": "Mon, 27 Oct 2025 17:43:01 GMT",
+      "content": "The chart analysts breaks down the charts on bullion and related stocks.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "59515d2fd36a0004c47888fc03ef9855",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: GOLD CONSOLIDATION BEFORE BULL TREND RESTART? 📉\n\n- Analyst Katie Stockton predicts prolonged consolidation for gold 📉\n- Stock charts analysis indicates potential delay in bullish trend 📊\n- Market may need more time before gold resumes upward trajectory ⏳\n\nTAKEAWAY: Analyst Katie Stockton suggests that gold could face an extended consolidation period before resuming its bullish trend, based on chart analysis.",
+      "exported_at": "2025-10-27T13:55:22.456561",
       "continuous_session": true
     }
   ]
