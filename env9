@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-27T08:21:02.891051",
-    "total_articles": 2773,
-    "new_articles_in_last_fetch": 2773,
+    "created_at": "2025-10-27T08:31:12.354329",
+    "total_articles": 2775,
+    "new_articles_in_last_fetch": 2775,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -36006,6 +36006,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: BESSANT LISTS FINALISTS FOR FED CHAIR JOB, TRUMP DECISION SOON 🚀\n\n- Bessant reveals five finalists for the Fed chair position 🌟\n- Trump promises decision on Fed chair before year-end ⏳\n- Federal Open Market Committee to decide interest rates this week 📈\n- Market eagerly awaits Fed's interest rate decision on Wednesday 🤑\n- Speculation and anticipation surround Trump's Fed chair choice 🤔\n\nTAKEAWAY: The selection of the new Fed chair by Bessant and Trump's looming decision before year-end create excitement and speculation in the market.",
       "exported_at": "2025-10-27T08:21:02.859621",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: AMD, Lululemon, GameStop, Nvidia, Five Below and more",
+      "link": "https://www.cnbc.com/2025/10/27/stocks-making-the-biggest-moves-premarket-.html",
+      "summary": "These are the stocks posting the largest moves in the premarket.",
+      "published": "Mon, 27 Oct 2025 12:25:58 GMT",
+      "content": "These are the stocks posting the largest moves in the premarket.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8436079b72577e3d4f33d7bf45f17f48",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS MAKING BIGGEST PREMARKET MOVES: AMD, LULULEMON, GAMESTOP 🚀\n\n- AMD, Lululemon, GameStop, Nvidia, Five Below among top movers 📈\n- Market buzz with significant premarket activity 🔥\n- Investors eyeing potential opportunities and risks ⚠️\n\nTAKEAWAY: Pre-market activity shows major movements in AMD, Lululemon, GameStop, Nvidia, and Five Below, attracting investors and signaling market excitement.",
+      "exported_at": "2025-10-27T08:31:12.322642",
+      "continuous_session": true
+    },
+    {
+      "title": "Americans face a retirement &apos;confidence paradox,&apos; expert says: &apos;Feeling ready is very different&apos; from being ready",
+      "link": "https://www.cnbc.com/2025/10/27/retirement-confidence-paradox.html",
+      "summary": "Many Americans face a \"confidence paradox,\" new survey finds, as record numbers reach retirement age. Here's what to know about planning to exit the workforce.",
+      "published": "Mon, 27 Oct 2025 12:30:01 GMT",
+      "content": "Many Americans face a \"confidence paradox,\" new survey finds, as record numbers reach retirement age. Here's what to know about planning to exit the workforce.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e66d0438c83ab609d37369e8beba6bc7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AMERICANS GRAPPLE WITH RETIREMENT CONFIDENCE PARADOX 🚨\n\n- Survey reveals many Americans lack confidence in retirement readiness\n- Record numbers hitting retirement age amidst uncertainty 📉\n- Feeling ready for retirement differs from being financially prepared 💸\n- Importance of planning and saving emphasized for a secure future 📈\n\nTAKEAWAY: The \"retirement confidence paradox\" highlights the gap between feeling ready and being financially prepared for retirement, urging Americans to prioritize planning and saving for a secure future.",
+      "exported_at": "2025-10-27T08:31:12.322653",
       "continuous_session": true
     }
   ]
