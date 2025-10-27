@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-27T12:09:00.994704",
-    "total_articles": 2795,
-    "new_articles_in_last_fetch": 2795,
+    "created_at": "2025-10-27T12:34:19.145442",
+    "total_articles": 2798,
+    "new_articles_in_last_fetch": 2798,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -36292,6 +36292,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: DOW SOARS 300 POINTS ON US-CHINA TRADE TRUCE 🚀\n\n- Market surges as US-China tensions ease 📈\n- Investors optimistic after weekend developments 🌟\n- Positive sentiment boosts stock performance 📈\n- Potential trade truce fuels market excitement 🎉\n- Dow opens with a strong 300 point increase 💪\n- US and China officials work towards de-escalation ✅\n\nTAKEAWAY: The Dow surges 300 points as optimism grows with the potential US-China trade truce, fueling excitement and positive sentiment among investors.",
       "exported_at": "2025-10-27T12:09:00.809321",
+      "continuous_session": true
+    },
+    {
+      "title": "Some &apos;correction cushions&apos; just in case all this market euphoria is misplaced",
+      "link": "https://www.cnbc.com/2025/10/27/some-correction-cushions-just-in-case-all-this-market-euphoria-is-misplaced.html",
+      "summary": "Investors wary of sky-high valuations ahead of what could be a bumpy week could look to dividend-paying names for protection.",
+      "published": "Mon, 27 Oct 2025 16:11:11 GMT",
+      "content": "Investors wary of sky-high valuations ahead of what could be a bumpy week could look to dividend-paying names for protection.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c77b0fb98ab7dbbd3a05f575712754d9",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SOME 'CORRECTION CUSHIONS' FOR MARKET EUPHORIA ⚠️\n\n- Sky-high valuations spark investor caution 📉\n- Dividend-paying stocks offer protection in uncertain times 🛡️\n- Market anticipates potential volatility ahead 📈📉\n\nTAKEAWAY: Amid market euphoria, investors seek safety in dividend-paying stocks to guard against potential corrections and volatility.",
+      "exported_at": "2025-10-27T12:34:18.956883",
+      "continuous_session": true
+    },
+    {
+      "title": "Airbnb wants to prevent Halloween parties in the U.S. and Canada",
+      "link": "https://www.cnbc.com/2025/10/27/airbnb-wants-to-help-hosts-prevent-halloween-parties-.html",
+      "summary": "Airbnb will take a number of factors into consideration to block reservations it deems higher risks of being used for Halloween parties.",
+      "published": "Mon, 27 Oct 2025 16:33:45 GMT",
+      "content": "Airbnb will take a number of factors into consideration to block reservations it deems higher risks of being used for Halloween parties.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1e9e39fda85072193a384441ff2b57ff",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AIRBNB TO BLOCK HALLOWEEN PARTIES IN U.S. & CANADA 🚨\n\n- Airbnb to use factors to prevent high-risk Halloween parties 🎃\n- Reservations with potential for parties to be blocked ✋\n- Measures aimed at maintaining safety and security 🛡️\n\nTAKEAWAY: Airbnb implements measures to help hosts prevent Halloween parties, prioritizing safety and security in the U.S. and Canada.",
+      "exported_at": "2025-10-27T12:34:18.956922",
+      "continuous_session": true
+    },
+    {
+      "title": "Cramer is worried about Broadcom&apos;s stock action, plus Honeywell catches an upgrade",
+      "link": "https://www.cnbc.com/2025/10/27/cramer-is-worried-about-broadcoms-stock-action-plus-honeywells-upgrade.html",
+      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "published": "Mon, 27 Oct 2025 16:04:06 GMT",
+      "content": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "08b4545f6f7406f6be921e9d3bfa6e4d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CRAMER CONCERNED ABOUT BROADCOM STOCK 🚨\n\n- Broadcom's stock action raises worries for Cramer 📉\n- Honeywell receives an upgrade 🚀\n- The Investing Club's \"Morning Meeting\" at 10:20 a.m. ET ⏰\n\nTAKEAWAY: Cramer's concerns over Broadcom's stock performance, paired with Honeywell's upgrade, spice up the Investing Club's \"Morning Meeting\" at 10:20 a.m. ET.",
+      "exported_at": "2025-10-27T12:34:18.956938",
       "continuous_session": true
     }
   ]
