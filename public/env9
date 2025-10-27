@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-27T08:56:26.984499",
-    "total_articles": 2776,
-    "new_articles_in_last_fetch": 2776,
+    "created_at": "2025-10-27T09:06:36.215755",
+    "total_articles": 2777,
+    "new_articles_in_last_fetch": 2777,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -36045,6 +36045,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JIM CRAMER'S TOP 10 STOCK MARKET WATCHES 🚀\n\n- Wall Street rallies on U.S.-China trade truce hopes 📈\n- Market optimism fuels positive Monday start 🌟\n- Investors eye potential impact on stock prices 💰\n- Trade talks with China influence market sentiment 🇨🇳\n- Focus on global trade dynamics for market cues 🌏\n\nTAKEAWAY: Wall Street's rally driven by optimism of U.S.-China trade truce, making it crucial for investors to monitor market dynamics and stock prices closely.",
       "exported_at": "2025-10-27T08:56:26.952129",
+      "continuous_session": true
+    },
+    {
+      "title": "You could be losing out on 15% of your mutual fund and ETF returns, researchers say—how to keep more of your money",
+      "link": "https://www.cnbc.com/2025/10/27/morningstar-research-investors-lose-out-on-mutual-fund-etf-returns.html",
+      "summary": "Morningstar research shows that investors typically earn smaller returns than the funds they own.",
+      "published": "Mon, 27 Oct 2025 13:00:01 GMT",
+      "content": "Morningstar research shows that investors typically earn smaller returns than the funds they own.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e15d9d622836317bb8d1d0b43ff6b5de",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DON'T MISS OUT ON 15% OF YOUR INVESTMENT RETURNS! 🚀\n\n- Investors often earn less than their own funds 📉\n- Morningstar research reveals the gap in returns 💡\n- Tips on maximizing your investment gains 🌟\n\nTAKEAWAY: Stay ahead by maximizing your investment returns with valuable insights from Morningstar research to secure your financial future.",
+      "exported_at": "2025-10-27T09:06:36.184063",
       "continuous_session": true
     }
   ]
