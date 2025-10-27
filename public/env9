@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-27T12:03:54.870250",
-    "total_articles": 2794,
-    "new_articles_in_last_fetch": 2794,
+    "created_at": "2025-10-27T12:09:00.994704",
+    "total_articles": 2795,
+    "new_articles_in_last_fetch": 2795,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -36279,6 +36279,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AIRBNB TO BLOCK HALLOWEEN PARTIES IN U.S. & CANADA 🚨\n\n- Airbnb to use factors to prevent high-risk Halloween parties 🎃\n- Reservations with potential for parties to be blocked ✋\n- Measures aimed at maintaining safety and security 🛡️\n\nTAKEAWAY: Airbnb implements measures to help hosts prevent Halloween parties, prioritizing safety and security in the U.S. and Canada.",
       "exported_at": "2025-10-27T12:03:54.717258",
+      "continuous_session": true
+    },
+    {
+      "title": "S&amp;P 500 rallies 1%, on pace for first close above 6,800 ever on potential China trade truce: Live updates",
+      "link": "https://www.cnbc.com/2025/10/26/stock-market-today-live-updates.html",
+      "summary": "Stocks jumped on Monday after U.S. and China officials cooled tensions over the weekend.",
+      "published": "Mon, 27 Oct 2025 16:04:27 GMT",
+      "content": "Stocks jumped on Monday after U.S. and China officials cooled tensions over the weekend.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e469187d652c4f751f37919d24ad57ad",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DOW SOARS 300 POINTS ON US-CHINA TRADE TRUCE 🚀\n\n- Market surges as US-China tensions ease 📈\n- Investors optimistic after weekend developments 🌟\n- Positive sentiment boosts stock performance 📈\n- Potential trade truce fuels market excitement 🎉\n- Dow opens with a strong 300 point increase 💪\n- US and China officials work towards de-escalation ✅\n\nTAKEAWAY: The Dow surges 300 points as optimism grows with the potential US-China trade truce, fueling excitement and positive sentiment among investors.",
+      "exported_at": "2025-10-27T12:09:00.809321",
       "continuous_session": true
     }
   ]
