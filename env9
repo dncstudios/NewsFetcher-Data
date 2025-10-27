@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-27T08:10:44.688856",
-    "total_articles": 2769,
-    "new_articles_in_last_fetch": 2769,
+    "created_at": "2025-10-27T08:15:55.082477",
+    "total_articles": 2772,
+    "new_articles_in_last_fetch": 2772,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -35954,6 +35954,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: TESLA FACES CEO MUSK EXIT THREAT OVER $1 TRILLION PAY PACKAGE 🚨\n\n- Board chair emphasizes Musk's crucial role in Tesla's future 🌟\n- Approval of $1 trillion pay package critical to retain Musk 💰\n- Focus shifts to Full Self Driving and Optimus for Tesla's growth 🚗\n- Uncertainty looms over Tesla's leadership without Musk 🤔\n\nTAKEAWAY: Approval of the $1 trillion pay package is vital for Tesla to retain CEO Musk and ensure a focused approach towards Full Self Driving and Optimus.",
       "exported_at": "2025-10-27T08:10:44.656594",
+      "continuous_session": true
+    },
+    {
+      "title": "Here are Monday&apos;s biggest analyst calls: Nvidia, Microsoft, Berkshire, Apple, Tesla, Honeywell &amp; more",
+      "link": "https://www.cnbc.com/2025/10/27/monday-analyst-calls-with-stocks-like-nvidia.html",
+      "summary": "Here are the biggest calls on Wall Street on Monday.",
+      "published": "Mon, 27 Oct 2025 12:10:56 GMT",
+      "content": "Here are the biggest calls on Wall Street on Monday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b6fb255738c0ea9ee3707f06daaf4668",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: MONDAY'S TOP WALL STREET ANALYST CALLS 🚀\n\n- Analysts issue major calls on Nvidia, Microsoft, Berkshire 🔥\n- Focus on Apple, Tesla, Honeywell, and more ⚡️\n- Updates on key stock recommendations and market trends 📊\n\nTAKEAWAY: Wall Street analysts make significant calls on top companies like Nvidia, Microsoft, Berkshire, Apple, Tesla, and Honeywell, influencing market trends.",
+      "exported_at": "2025-10-27T08:15:55.051120",
+      "continuous_session": true
+    },
+    {
+      "title": "RBC upgrades Honeywell ahead of planned 2026 breakup",
+      "link": "https://www.cnbc.com/2025/10/27/rbc-upgrades-honeywell-ahead-of-planned-2026-breakup.html",
+      "summary": "RBC Capital Markets believes that Honeywell's separation of its aerospace segment next year could unlock further value.",
+      "published": "Mon, 27 Oct 2025 12:06:26 GMT",
+      "content": "RBC Capital Markets believes that Honeywell's separation of its aerospace segment next year could unlock further value.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e4f2ee6e3c47ca8ad097b0525344e25c",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: RBC UPGRADES HONEYWELL AHEAD OF PLANNED 2026 BREAKUP 🚀\n\n- RBC Capital Markets predicts value unlock with Honeywell's aerospace split ✨\n- Honeywell set to separate aerospace segment in 2026 📈\n- Potential for increased value post-breakup highlighted by RBC Capital Markets 🌟\n\nTAKEAWAY: RBC Capital Markets upgrades Honeywell, anticipating increased value through the planned 2026 breakup of its aerospace segment.",
+      "exported_at": "2025-10-27T08:15:55.051129",
+      "continuous_session": true
+    },
+    {
+      "title": "Melissa strengthens to a Category 5 hurricane and is forecast to make landfall in Jamaica",
+      "link": "https://www.cnbc.com/2025/10/26/melissa-hurricane-jamaica-haiti-caribbean.html",
+      "summary": "Hurricane Melissa is forecast to make landfall on the island Tuesday and cross Cuba and the Bahamas through Wednesday.",
+      "published": "Mon, 27 Oct 2025 12:11:30 GMT",
+      "content": "Hurricane Melissa is forecast to make landfall on the island Tuesday and cross Cuba and the Bahamas through Wednesday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "cff562969cc12b70df4b436295d30bc4",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: HURRICANE MELISSA REACHES CATEGORY 5 NEAR JAMAICA 🌀\n\n- Melissa upgraded to Category 5, heading towards Jamaica 🌪️\n- Forecasted landfall on Jamaica Tuesday, then Cuba and Bahamas 🌎\n- Residents urged to prepare for potential impact 🚨\n\nTAKEAWAY: Hurricane Melissa intensifies to a Category 5, posing a significant threat as it approaches Jamaica, Cuba, and the Bahamas.",
+      "exported_at": "2025-10-27T08:15:55.051132",
       "continuous_session": true
     }
   ]
