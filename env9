@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-27T15:21:37.542648",
-    "total_articles": 2814,
-    "new_articles_in_last_fetch": 2814,
+    "created_at": "2025-10-27T16:01:58.039843",
+    "total_articles": 2816,
+    "new_articles_in_last_fetch": 2816,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -36538,6 +36538,32 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: MELISSA INTENSIFIES TO CATEGORY 5, SET TO HIT JAMAICA AS STRONGEST STORM EVER 🌪️\n\n- Hurricane Melissa reaches Category 5, aiming for Jamaica 🌀\n- Jamaica braces for impact of strongest storm in recorded history 🇯🇲\n- Melissa poised to make history as the most powerful storm since 1851 📈\n\nTAKEAWAY: Hurricane Melissa's intensification to Category 5 poses a significant threat to Jamaica, marking it as the strongest storm the island has ever faced since records began in 1851.",
       "exported_at": "2025-10-27T15:21:37.379271",
+      "continuous_session": true
+    },
+    {
+      "title": "S&amp;P 500 rallies 1% to notch first close ever above 6,800 on potential China trade truce: Live updates",
+      "link": "https://www.cnbc.com/2025/10/26/stock-market-today-live-updates.html",
+      "summary": "Stocks jumped on Monday after U.S. and China officials cooled tensions over the weekend.",
+      "published": "Mon, 27 Oct 2025 20:00:17 GMT",
+      "content": "Stocks jumped on Monday after U.S. and China officials cooled tensions over the weekend.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e755cf31c7fcd855ee0579080094b5b7",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: DOW SOARS 300 POINTS ON US-CHINA TRADE TRUCE 🚀\n\n- Market surges as US-China tensions ease 📈\n- Investors optimistic after weekend developments 🌟\n- Positive sentiment boosts stock performance 📈\n- Potential trade truce fuels market excitement 🎉\n- Dow opens with a strong 300 point increase 💪\n- US and China officials work towards de-escalation ✅\n\nTAKEAWAY: The Dow surges 300 points as optimism grows with the potential US-China trade truce, fueling excitement and positive sentiment among investors.",
+      "exported_at": "2025-10-27T16:01:57.874215",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks from Carvana to Reddit are expected to have the wildest moves on earnings this week",
+      "link": "https://www.cnbc.com/2025/10/27/stocks-from-carvana-to-reddit-expected-to-see-weeks-wildest-earnings-moves.html",
+      "summary": "Several companies reporting earnings results this week could see their stocks post double-digit gains or losses.",
+      "published": "Mon, 27 Oct 2025 19:44:21 GMT",
+      "content": "Several companies reporting earnings results this week could see their stocks post double-digit gains or losses.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1f382e8677661d48485519231be86150",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: STOCKS SET FOR WILD SWINGS ON EARNINGS THIS WEEK 🚀\n\n- Carvana and Reddit among companies reporting earnings 📈🔥\n- Stocks could see double-digit gains or losses 📊🔥\n- Investors anticipate high volatility in the market ⚠️📉\n\nTAKEAWAY: Brace for intense market fluctuations as companies like Carvana and Reddit are expected to make significant moves based on their earnings reports this week.",
+      "exported_at": "2025-10-27T16:01:57.874254",
       "continuous_session": true
     }
   ]
