@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-27T11:02:59.272928",
-    "total_articles": 2787,
-    "new_articles_in_last_fetch": 2787,
+    "created_at": "2025-10-27T11:28:14.406337",
+    "total_articles": 2788,
+    "new_articles_in_last_fetch": 2788,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -36188,6 +36188,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: JOSH BROWN PREDICTS ENERGY BEST STOCK PRIMED FOR BIG BREAKOUT 🚀\n\n- Energy best stock surging, potential for significant growth 🔥\n- Expert analysis by Josh Brown highlights stock's upward momentum 📈\n- Market anticipation high for stock's impressive breakout ⚡️\n\nTAKEAWAY: Josh Brown's insight points towards a significant breakout for the energy best stock, fueling market anticipation and optimism.",
       "exported_at": "2025-10-27T11:02:59.241824",
+      "continuous_session": true
+    },
+    {
+      "title": "Largest federal worker union urges end to government shutdown",
+      "link": "https://www.cnbc.com/2025/10/27/federal-union-government-shutdown-end.html",
+      "summary": "Democrats oppose the Republican resolution to end the shutdown because they want any measure to extend enhanced Affordable Care Act tax credits.",
+      "published": "Mon, 27 Oct 2025 15:25:35 GMT",
+      "content": "Democrats oppose the Republican resolution to end the shutdown because they want any measure to extend enhanced Affordable Care Act tax credits.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8ebe6fc875fc0d0b4a704acc1f8b6a50",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: LARGEST FEDERAL WORKER UNION DEMANDS END TO GOVERNMENT SHUTDOWN 🚨\n\n- Democrats resist Republican resolution due to ACA tax credit extension demand 🛑\n- Pressure mounts on government to resolve shutdown swiftly ⏰\n- Largest federal worker union calls for immediate shutdown conclusion 📣\n\nTAKEAWAY: The largest federal worker union's call to end the government shutdown adds pressure on resolving the situation swiftly as Democrats oppose the Republican resolution.",
+      "exported_at": "2025-10-27T11:28:14.374078",
       "continuous_session": true
     }
   ]
