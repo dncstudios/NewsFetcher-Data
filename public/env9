@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-27T13:55:22.618851",
-    "total_articles": 2806,
-    "new_articles_in_last_fetch": 2806,
+    "created_at": "2025-10-27T14:10:34.330710",
+    "total_articles": 2807,
+    "new_articles_in_last_fetch": 2807,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -36434,6 +36434,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: GOLD CONSOLIDATION BEFORE BULL TREND RESTART? 📉\n\n- Analyst Katie Stockton predicts prolonged consolidation for gold 📉\n- Stock charts analysis indicates potential delay in bullish trend 📊\n- Market may need more time before gold resumes upward trajectory ⏳\n\nTAKEAWAY: Analyst Katie Stockton suggests that gold could face an extended consolidation period before resuming its bullish trend, based on chart analysis.",
       "exported_at": "2025-10-27T13:55:22.456561",
+      "continuous_session": true
+    },
+    {
+      "title": "iRobot stock tumbles 30% after Roomba maker warns the search for a buyer has stalled",
+      "link": "https://www.cnbc.com/2025/10/27/irobot-stock-roomba.html",
+      "summary": "The Roomba maker's financial condition has worsened since Amazon abandoned its planned acquisition of the company in 2024.",
+      "published": "Mon, 27 Oct 2025 17:59:32 GMT",
+      "content": "The Roomba maker's financial condition has worsened since Amazon abandoned its planned acquisition of the company in 2024.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d59aa6a5a721abfcdec26f59849842a3",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: IROBOT STOCK PLUNGES 30% AS BUYER SEARCH STALLS 📉\n\n- iRobot's stock drops by 30% due to stalled buyer search 📉\n- Financial condition worsens post-Amazon acquisition abandonment 💸\n- Company struggles as search for buyer hits roadblock 🛑\n- Stock price hit hard by failed acquisition plans 📉\n- iRobot faces challenges as uncertainty looms over company's future 🤔\n- Market reacts negatively to stalling of acquisition process 📉\n\nTAKEAWAY: iRobot's stock takes a hit as the search for a buyer stalls, leading to financial struggles and market uncertainty.",
+      "exported_at": "2025-10-27T14:10:34.136794",
       "continuous_session": true
     }
   ]
