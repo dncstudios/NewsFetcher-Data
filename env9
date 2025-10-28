@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-27T21:45:20.973909",
-    "total_articles": 2833,
-    "new_articles_in_last_fetch": 2833,
+    "created_at": "2025-10-27T22:55:56.893305",
+    "total_articles": 2834,
+    "new_articles_in_last_fetch": 2834,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -36785,6 +36785,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: CNBC DAILY OPEN: WE ARE ALL FARMERS HOPING FOR THE END OF THE U.S.-CHINA TRADE WAR 🚀\n\n- Global markets surge on anticipation of U.S.-China trade deal 📈\n- U.S. markets reach new highs pre-official agreement 🌍\n- Investors optimistic about potential trade resolution 🤝\n- Sentiment boosts market confidence and performance 🚀\n- Excitement grows as agreement signing approaches 🎯\n\nTAKEAWAY: Anticipation of a U.S.-China trade deal propels global and U.S. markets to new highs, fueling investor optimism and market confidence.",
       "exported_at": "2025-10-27T21:45:20.809680",
+      "continuous_session": true
+    },
+    {
+      "title": "How Saudi Arabia is diversifying away from oil — and betting big on AI",
+      "link": "https://www.cnbc.com/2025/10/28/how-saudi-arabia-is-diversifying-away-from-oil-and-betting-big-on-ai.html",
+      "summary": "While oil is the primary driver of Saudi Arabia's economy, the kingdom is now diversifying into areas such as artificial intelligence, tourism and sports.",
+      "published": "Tue, 28 Oct 2025 02:53:06 GMT",
+      "content": "While oil is the primary driver of Saudi Arabia's economy, the kingdom is now diversifying into areas such as artificial intelligence, tourism and sports.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "779758b0d60c736c1d1d4fdde865335d",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: SAUDI ARABIA'S DIVERSIFICATION STRATEGY: FROM OIL TO AI 🚀\n\n- Saudi Arabia shifts focus from oil to AI, tourism, and sports 🛢️➡️🤖\n- Diversification aims to reduce reliance on oil revenues 💰🔄\n- Kingdom investing heavily in AI, aiming for economic transformation 💸🤖\n- Tourism and sports sectors also key areas for growth 🌴⚽\n- Strategy aligns with Vision 2030 plan for economic reform 🌟\n- Bold moves reflect Saudi Arabia's commitment to modernization 💪\n\nTAKEAWAY: Saudi Arabia's pivot from oil to AI, tourism, and sports showcases its determination to diversify its economy and embrace modernization, in line with Vision 2030.",
+      "exported_at": "2025-10-27T22:55:56.736056",
       "continuous_session": true
     }
   ]
