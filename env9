@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-27T20:14:39.560045",
-    "total_articles": 2832,
-    "new_articles_in_last_fetch": 2832,
+    "created_at": "2025-10-27T21:45:20.973909",
+    "total_articles": 2833,
+    "new_articles_in_last_fetch": 2833,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -36772,6 +36772,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: AI DRIVING PRODUCTIVITY GAP: LARGE COS 🚀\n\n- AI boosts productivity for large firms, leaving small ones behind\n- 'K-shaped economy' deepens as AI widens productivity gap\n- Small companies struggle to keep up with AI advancements\n- Large firms benefit from AI's efficiency and innovation\n- Productivity gains from AI highlight disparities in business sizes\n\nTAKEAWAY: The widening productivity gap driven by AI technology emphasizes the challenges faced by small companies in keeping up with large firms, deepening the 'K-shaped economy' divide.",
       "exported_at": "2025-10-27T20:14:39.370083",
+      "continuous_session": true
+    },
+    {
+      "title": "CNBC Daily Open: We are all farmers hoping for the end of the U.S.-China trade war",
+      "link": "https://www.cnbc.com/2025/10/28/cnbc-daily-open-we-are-all-farmers-hoping-for-the-end-of-the-us-china-trade-war.html",
+      "summary": "Global and U.S. markets hit highs on the prospect of a U.S.-China trade deal. And that's before an agreement has been signed officially.",
+      "published": "Tue, 28 Oct 2025 01:40:10 GMT",
+      "content": "Global and U.S. markets hit highs on the prospect of a U.S.-China trade deal. And that's before an agreement has been signed officially.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "01831ffee8bacbbd2fa39e625732b7ed",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CNBC DAILY OPEN: WE ARE ALL FARMERS HOPING FOR THE END OF THE U.S.-CHINA TRADE WAR 🚀\n\n- Global markets surge on anticipation of U.S.-China trade deal 📈\n- U.S. markets reach new highs pre-official agreement 🌍\n- Investors optimistic about potential trade resolution 🤝\n- Sentiment boosts market confidence and performance 🚀\n- Excitement grows as agreement signing approaches 🎯\n\nTAKEAWAY: Anticipation of a U.S.-China trade deal propels global and U.S. markets to new highs, fueling investor optimism and market confidence.",
+      "exported_at": "2025-10-27T21:45:20.809680",
       "continuous_session": true
     }
   ]
