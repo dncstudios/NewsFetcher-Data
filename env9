@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-27T23:56:25.647099",
-    "total_articles": 2836,
-    "new_articles_in_last_fetch": 2836,
+    "created_at": "2025-10-28T00:16:38.478465",
+    "total_articles": 2837,
+    "new_articles_in_last_fetch": 2837,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -36824,6 +36824,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: ASIA MARKETS NERVOUS AHEAD OF TRUMP-TAKAICHI MEETING IN JAPAN 🚨\n\n- Investors cautious as Trump meets Japan's Takaichi 🇯🇵\n- Takaichi's first in-person meeting with a foreign leader 🌏\n- Markets in Asia experience a slight dip 📉\n- Anticipation and uncertainty in the air 🤔\n- Focus on outcomes of Trump-Takaichi discussion 🧐\n\nTAKEAWAY: Asia markets on edge as investors await the impact of the historic meeting between Trump and Japan's Takaichi, signaling caution and anticipation.",
       "exported_at": "2025-10-27T23:56:25.489121",
+      "continuous_session": true
+    },
+    {
+      "title": "HSBC&apos;s third-quarter profit drops 14%, but beats expectations on higher revenue, interest income",
+      "link": "https://www.cnbc.com/2025/10/28/hsbc-q3-earnings.html",
+      "summary": "The bank's profit before tax for the three months ended in September was $7.3 billion, down nearly 14% from a year ago.",
+      "published": "Tue, 28 Oct 2025 04:11:19 GMT",
+      "content": "The bank's profit before tax for the three months ended in September was $7.3 billion, down nearly 14% from a year ago.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3c518b171f23c82c13a9dca9aa5ca645",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: HSBC'S Q3 PROFIT DROPS 14%, BEATS EXPECTATIONS ON HIGHER REVENUE 🚀\n\n- HSBC's Q3 profit before tax: $7.3 billion, down 14% YoY\n- Despite drop, profit beats expectations with higher revenue\n- Bank shows resilience with strong interest income growth\n\nTAKEAWAY: HSBC impresses by outperforming expectations in Q3 despite a 14% profit drop, showcasing resilience and potential for growth.",
+      "exported_at": "2025-10-28T00:16:38.317793",
       "continuous_session": true
     }
   ]
