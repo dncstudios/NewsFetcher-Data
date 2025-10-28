@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-27T19:54:23.739657",
-    "total_articles": 2829,
-    "new_articles_in_last_fetch": 2829,
+    "created_at": "2025-10-27T20:14:39.560045",
+    "total_articles": 2832,
+    "new_articles_in_last_fetch": 2832,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -36733,6 +36733,45 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: MELISSA INTENSIFIES TO CATEGORY 5, SET TO HIT JAMAICA AS STRONGEST STORM EVER 🌪️\n\n- Hurricane Melissa reaches Category 5, aiming for Jamaica 🌀\n- Jamaica braces for impact of strongest storm in recorded history 🇯🇲\n- Melissa poised to make history as the most powerful storm since 1851 📈\n\nTAKEAWAY: Hurricane Melissa's intensification to Category 5 poses a significant threat to Jamaica, marking it as the strongest storm the island has ever faced since records began in 1851.",
       "exported_at": "2025-10-27T19:54:23.551971",
+      "continuous_session": true
+    },
+    {
+      "title": "Chegg slashes 45% of workforce, blames &apos;new realities of AI&apos;",
+      "link": "https://www.cnbc.com/2025/10/27/chegg-slashes-45percent-of-workforce-blames-new-realities-of-ai.html",
+      "summary": "The online education company said the combination of artificial intelligence and diminished traffic from search engines like Google has hurt the business.",
+      "published": "Tue, 28 Oct 2025 00:10:13 GMT",
+      "content": "The online education company said the combination of artificial intelligence and diminished traffic from search engines like Google has hurt the business.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2a644376ecb97b4e14cee16592bb07ad",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: CHEGG SLASHES 45% OF WORKFORCE, BLAMES 'NEW REALITIES OF AI' 🚨\n\n- Chegg cuts 45% of staff due to AI impact 🤖\n- Blames AI & reduced Google traffic for business challenges 📉\n- Workforce reduction linked to changing tech landscape ✂️\n\nTAKEAWAY: Chegg's drastic 45% workforce cut is attributed to the evolving landscape of AI and decreased search engine traffic, reflecting the company's adaptation to new technological challenges.",
+      "exported_at": "2025-10-27T20:14:39.370030",
+      "continuous_session": true
+    },
+    {
+      "title": "Asia markets dip as investors look to Trump-Takaichi meeting in Japan",
+      "link": "https://www.cnbc.com/2025/10/28/asia-stock-markets-live-tuesday-nikkei-kospi-hang-seng-trump-takaichi-japan.html",
+      "summary": "Trump will be the first foreign leader to meet with Takaichi in person since she assumed the top job in Japan.",
+      "published": "Tue, 28 Oct 2025 00:10:47 GMT",
+      "content": "Trump will be the first foreign leader to meet with Takaichi in person since she assumed the top job in Japan.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "92c6be1c791cfd650a27c5e5e50e5a90",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASIA MARKETS NERVOUS AHEAD OF TRUMP-TAKAICHI MEETING IN JAPAN 🚨\n\n- Investors cautious as Trump meets Japan's Takaichi 🇯🇵\n- Takaichi's first in-person meeting with a foreign leader 🌏\n- Markets in Asia experience a slight dip 📉\n- Anticipation and uncertainty in the air 🤔\n- Focus on outcomes of Trump-Takaichi discussion 🧐\n\nTAKEAWAY: Asia markets on edge as investors await the impact of the historic meeting between Trump and Japan's Takaichi, signaling caution and anticipation.",
+      "exported_at": "2025-10-27T20:14:39.370069",
+      "continuous_session": true
+    },
+    {
+      "title": "AI is driving huge productivity gains for large companies, while small companies get left behind",
+      "link": "https://www.cnbc.com/2025/10/27/ai-is-driving-huge-productivity-gains-for-large-companies-while-small-companies-get-left-behind.html",
+      "summary": "Artificial intelligence is widening the productivity gap between the large and small companies, furthering the 'K-shaped economy' phenomenon.",
+      "published": "Mon, 27 Oct 2025 22:08:49 GMT",
+      "content": "Artificial intelligence is widening the productivity gap between the large and small companies, furthering the 'K-shaped economy' phenomenon.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7e9bb6f0654d7416593636830962961f",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: AI DRIVING PRODUCTIVITY GAP: LARGE COS 🚀\n\n- AI boosts productivity for large firms, leaving small ones behind\n- 'K-shaped economy' deepens as AI widens productivity gap\n- Small companies struggle to keep up with AI advancements\n- Large firms benefit from AI's efficiency and innovation\n- Productivity gains from AI highlight disparities in business sizes\n\nTAKEAWAY: The widening productivity gap driven by AI technology emphasizes the challenges faced by small companies in keeping up with large firms, deepening the 'K-shaped economy' divide.",
+      "exported_at": "2025-10-27T20:14:39.370083",
       "continuous_session": true
     }
   ]
