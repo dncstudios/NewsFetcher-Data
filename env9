@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-27T23:26:11.518144",
-    "total_articles": 2835,
-    "new_articles_in_last_fetch": 2835,
+    "created_at": "2025-10-27T23:56:25.647099",
+    "total_articles": 2836,
+    "new_articles_in_last_fetch": 2836,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -36811,6 +36811,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: SOUTH KOREA'S Q3 GDP GROWS 1.7%, BEATS EXPECTATIONS 🚀\n\n- Q3 GDP up 1.7%, surpassing 1.5% forecast 📈\n- Fastest growth in over a year 🚀\n- Bank of Korea's advance estimates reveal strong performance 💪\n- Economists polled by Reuters underestimated growth 📉\n\nTAKEAWAY: South Korea's third-quarter GDP growth of 1.7% exceeds expectations, marking the fastest pace in over a year and showcasing a strong economic performance.",
       "exported_at": "2025-10-27T23:26:11.349725",
+      "continuous_session": true
+    },
+    {
+      "title": "Asia markets mostly slip as investors look to Trump-Takaichi meeting in Japan",
+      "link": "https://www.cnbc.com/2025/10/28/asia-stock-markets-live-tuesday-nikkei-kospi-hang-seng-trump-takaichi-japan.html",
+      "summary": "Trump will be the first foreign leader to meet with Takaichi in person since she assumed the top job in Japan.",
+      "published": "Tue, 28 Oct 2025 03:54:16 GMT",
+      "content": "Trump will be the first foreign leader to meet with Takaichi in person since she assumed the top job in Japan.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6bec8058ac1fe4b629682b38611c0c94",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: ASIA MARKETS NERVOUS AHEAD OF TRUMP-TAKAICHI MEETING IN JAPAN 🚨\n\n- Investors cautious as Trump meets Japan's Takaichi 🇯🇵\n- Takaichi's first in-person meeting with a foreign leader 🌏\n- Markets in Asia experience a slight dip 📉\n- Anticipation and uncertainty in the air 🤔\n- Focus on outcomes of Trump-Takaichi discussion 🧐\n\nTAKEAWAY: Asia markets on edge as investors await the impact of the historic meeting between Trump and Japan's Takaichi, signaling caution and anticipation.",
+      "exported_at": "2025-10-27T23:56:25.489121",
       "continuous_session": true
     }
   ]
