@@ -1,9 +1,9 @@
 {
   "session_info": {
     "filename": "public/env9",
-    "created_at": "2025-10-28T00:16:38.478465",
-    "total_articles": 2837,
-    "new_articles_in_last_fetch": 2837,
+    "created_at": "2025-10-28T00:31:47.978193",
+    "total_articles": 2838,
+    "new_articles_in_last_fetch": 2838,
     "sources": [],
     "continuous_interval": "15 minutes"
   },
@@ -36837,6 +36837,19 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "rewritten_content": "HEADLINE: HSBC'S Q3 PROFIT DROPS 14%, BEATS EXPECTATIONS ON HIGHER REVENUE 🚀\n\n- HSBC's Q3 profit before tax: $7.3 billion, down 14% YoY\n- Despite drop, profit beats expectations with higher revenue\n- Bank shows resilience with strong interest income growth\n\nTAKEAWAY: HSBC impresses by outperforming expectations in Q3 despite a 14% profit drop, showcasing resilience and potential for growth.",
       "exported_at": "2025-10-28T00:16:38.317793",
+      "continuous_session": true
+    },
+    {
+      "title": "HSBC&apos;s third-quarter profit drops 14%, but beats expectations as net interest income rises",
+      "link": "https://www.cnbc.com/2025/10/28/hsbc-q3-earnings.html",
+      "summary": "The bank's profit before tax for the three months ended in September was $7.3 billion, down nearly 14% from a year ago.",
+      "published": "Tue, 28 Oct 2025 04:27:44 GMT",
+      "content": "The bank's profit before tax for the three months ended in September was $7.3 billion, down nearly 14% from a year ago.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b0fd9a4901970e1e3eac77e33d7efa42",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "rewritten_content": "HEADLINE: HSBC'S Q3 PROFIT DROPS 14%, BEATS EXPECTATIONS ON HIGHER REVENUE 🚀\n\n- HSBC's Q3 profit before tax: $7.3 billion, down 14% YoY\n- Despite drop, profit beats expectations with higher revenue\n- Bank shows resilience with strong interest income growth\n\nTAKEAWAY: HSBC impresses by outperforming expectations in Q3 despite a 14% profit drop, showcasing resilience and potential for growth.",
+      "exported_at": "2025-10-28T00:31:47.778884",
       "continuous_session": true
     }
   ]
