@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2921,
+    "total_articles": 2923,
     "new_articles_in_last_fetch": 2,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -37848,6 +37848,30 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "c0544bc787ed84fa1a715a36e8b87d5b",
       "exported_at": "2025-11-13T13:44:09.730840",
+      "continuous_session": true
+    },
+    {
+      "title": "Dow pulls back from record, falls 600 points in broad market sell-off: Live updates",
+      "link": "https://www.cnbc.com/2025/11/12/stock-market-today-live-updates.html",
+      "summary": "Stocks retreated Thursday, with technology stocks weighing on the major averages even as a broader rotation occurs beneath the surface.",
+      "published": "Thu, 13 Nov 2025 18:52:52 GMT",
+      "content": "Stocks retreated Thursday, with technology stocks weighing on the major averages even as a broader rotation occurs beneath the surface.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2ede026d274605366b240318a33b9833",
+      "exported_at": "2025-11-13T13:54:23.410348",
+      "continuous_session": true
+    },
+    {
+      "title": "Boeing defense workers approve new contract, ending more than 3-month strike",
+      "link": "https://www.cnbc.com/2025/11/13/boeing-defense-workers-strike.html",
+      "summary": "Boeing's defense unit workers approved a new contract on Thursday.",
+      "published": "Thu, 13 Nov 2025 18:53:14 GMT",
+      "content": "Boeing's defense unit workers approved a new contract on Thursday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1f1371c11117764cf8074db405c54008",
+      "exported_at": "2025-11-13T13:54:23.410388",
       "continuous_session": true
     }
   ]
