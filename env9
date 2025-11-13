@@ -2,8 +2,8 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2926,
-    "new_articles_in_last_fetch": 1,
+    "total_articles": 2928,
+    "new_articles_in_last_fetch": 2,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
     ],
@@ -37908,6 +37908,30 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "d6527303bd3a1edcd8e0d7e86e211259",
       "exported_at": "2025-11-13T14:35:11.992336",
+      "continuous_session": true
+    },
+    {
+      "title": "Markets no longer view the December rate cut as a sure bet, with Fed officials casting doubts",
+      "link": "https://www.cnbc.com/2025/11/13/markets-rethink-december-rate-cut-amid-fed-doubts.html",
+      "summary": "Fed Chair Jerome Powell wasn't kidding a couple weeks ago when he said a December rate cut wasn't in the bag.",
+      "published": "Thu, 13 Nov 2025 19:36:39 GMT",
+      "content": "Fed Chair Jerome Powell wasn't kidding a couple weeks ago when he said a December rate cut wasn't in the bag.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "57b1baac866eff2a22ca7c0921c578c9",
+      "exported_at": "2025-11-13T14:40:26.288680",
+      "continuous_session": true
+    },
+    {
+      "title": "Sotheby&apos;s CEO sees &apos;very strong demand&apos; ahead of $1.4 billion art auctions",
+      "link": "https://www.cnbc.com/2025/11/13/art-auction-sothebys-phillips-christies.html",
+      "summary": "The fall auction sales in New York next week are expected to top $1.4 billion, marking a 50% increase from last year, according to art experts.",
+      "published": "Thu, 13 Nov 2025 19:34:45 GMT",
+      "content": "The fall auction sales in New York next week are expected to top $1.4 billion, marking a 50% increase from last year, according to art experts.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2ef0a561f12b3173d484ed836c64608c",
+      "exported_at": "2025-11-13T14:40:26.288714",
       "continuous_session": true
     }
   ]
