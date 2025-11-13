@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2941,
+    "total_articles": 2942,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -38088,6 +38088,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "81e22a0afec6ec2fefef90af902c3431",
       "exported_at": "2025-11-13T16:22:48.972560",
+      "continuous_session": true
+    },
+    {
+      "title": "Google says group behind E-ZPass, USPS text scam has been &apos;shut down&apos; after suit",
+      "link": "https://www.cnbc.com/2025/11/13/google-text-scam-phishing-e-zpass-usps.html",
+      "summary": "Google said it has successfully disrupted the foreign cybercriminal group behind a text scam operation within 24 hours of filing its lawsuit.",
+      "published": "Thu, 13 Nov 2025 21:31:22 GMT",
+      "content": "Google said it has successfully disrupted the foreign cybercriminal group behind a text scam operation within 24 hours of filing its lawsuit.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "661dca9154f6344de9a24490114a866f",
+      "exported_at": "2025-11-13T16:38:04.906203",
       "continuous_session": true
     }
   ]
