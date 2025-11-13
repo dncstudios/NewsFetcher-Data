@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2924,
+    "total_articles": 2925,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -37884,6 +37884,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "4945fbe84674c5cf55f2af8b1e597245",
       "exported_at": "2025-11-13T13:59:38.994030",
+      "continuous_session": true
+    },
+    {
+      "title": "28-year-old&apos;s $25,000 crypto investment grew to $400,000 in 6 years—but he wouldn&apos;t do it again",
+      "link": "https://www.cnbc.com/2025/11/13/28-year-old-says-crypto-investment-was-a-gamble.html",
+      "summary": "Nearly half of Sebastian and Julia's net worth comes from crypto, but they're not investing in it anymore because of its volatility.",
+      "published": "Thu, 13 Nov 2025 18:55:52 GMT",
+      "content": "Nearly half of Sebastian and Julia's net worth comes from crypto, but they're not investing in it anymore because of its volatility.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e531f59503cd27e93539898b9dcae728",
+      "exported_at": "2025-11-13T14:04:53.232141",
       "continuous_session": true
     }
   ]
