@@ -2,8 +2,8 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2910,
-    "new_articles_in_last_fetch": 1,
+    "total_articles": 2913,
+    "new_articles_in_last_fetch": 3,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
     ],
@@ -37716,6 +37716,42 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "155f10891d59160c1f34421713a52fad",
       "exported_at": "2025-11-13T12:22:10.983008",
+      "continuous_session": true
+    },
+    {
+      "title": "New foreclosures jump 20% in October, a sign of more distress in the housing market",
+      "link": "https://www.cnbc.com/2025/11/13/foreclosures-rise-october-housing-market-distress.html",
+      "summary": "All phases of the foreclosure process are seeing big increases, as homeowners fall behind on mortgage payments due to stress in the economy.",
+      "published": "Thu, 13 Nov 2025 17:34:40 GMT",
+      "content": "All phases of the foreclosure process are seeing big increases, as homeowners fall behind on mortgage payments due to stress in the economy.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1086be0581064d0356cd82d8ebc44b69",
+      "exported_at": "2025-11-13T12:42:30.508700",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves midday: Walt Disney, Sweetgreen, Cisco, Planet Fitness and more",
+      "link": "https://www.cnbc.com/2025/11/13/stocks-making-the-biggest-moves-midday-dis-sg-csco-plnt.html",
+      "summary": "These are the stocks posting the largest moves in midday trading.",
+      "published": "Thu, 13 Nov 2025 17:18:25 GMT",
+      "content": "These are the stocks posting the largest moves in midday trading.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0ed8259e935cb8505f3a3185d083753b",
+      "exported_at": "2025-11-13T12:42:30.508737",
+      "continuous_session": true
+    },
+    {
+      "title": "With valuations this elevated, be careful with these zero-revenue stocks",
+      "link": "https://www.cnbc.com/2025/11/13/with-valuations-this-elevated-be-careful-with-these-zero-revenue-stocks.html",
+      "summary": "Investors may need to keep an eye out for companies that don't having the earnings to justify their high valuations.",
+      "published": "Thu, 13 Nov 2025 17:26:19 GMT",
+      "content": "Investors may need to keep an eye out for companies that don't having the earnings to justify their high valuations.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fed72ae4cd61dbca26dbc2da6b05beb5",
+      "exported_at": "2025-11-13T12:42:30.508745",
       "continuous_session": true
     }
   ]
