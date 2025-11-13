@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2871,
+    "total_articles": 2872,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -37248,6 +37248,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "38d2889f4d2de2d4bd82aa8f12bf80db",
       "exported_at": "2025-11-13T06:51:05.191006",
+      "continuous_session": true
+    },
+    {
+      "title": "China’s Singles&apos; Day stumbles as frugal shoppers shrink the world’s biggest sale",
+      "link": "https://www.cnbc.com/2025/11/13/chinas-singles-day-stumbles-as-frugal-shoppers-shrink-the-worlds-biggest-sale.html",
+      "summary": "This year's Double 11 Shopping Festival saw sales jumping 14.2% year on year, slower than last year's 26.6%.",
+      "published": "Thu, 13 Nov 2025 09:36:23 GMT",
+      "content": "This year's Double 11 Shopping Festival saw sales jumping 14.2% year on year, slower than last year's 26.6%.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d08dd120755962d3838cf07248941f6c",
+      "exported_at": "2025-11-13T06:56:22.455141",
       "continuous_session": true
     }
   ]
