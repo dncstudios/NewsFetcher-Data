@@ -2,8 +2,8 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2894,
-    "new_articles_in_last_fetch": 1,
+    "total_articles": 2897,
+    "new_articles_in_last_fetch": 3,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
     ],
@@ -37524,6 +37524,42 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "3b352c6a1f2ec9eceeaa29bc721043a7",
       "exported_at": "2025-11-13T09:43:03.149718",
+      "continuous_session": true
+    },
+    {
+      "title": "IRS announces 2026 401(k) contribution limits, raises savings cap",
+      "link": "https://www.cnbc.com/2025/11/13/401-k-contribution-limits-2026.html",
+      "summary": "The IRS has announced higher 401(k) contribution limits for 2026. Here’s what savers need to know.",
+      "published": "Thu, 13 Nov 2025 15:02:36 GMT",
+      "content": "The IRS has announced higher 401(k) contribution limits for 2026. Here’s what savers need to know.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c555fac3ad4b031392060de9a9374b25",
+      "exported_at": "2025-11-13T10:03:34.516224",
+      "continuous_session": true
+    },
+    {
+      "title": "IRS unveils 2026 IRA contribution limits, raises savings cap",
+      "link": "https://www.cnbc.com/2025/11/13/2026-ira-contribution-limits-irs.html",
+      "summary": "The IRS has announced the IRA contribution limits for 2026. Here’s what savers need to know.",
+      "published": "Thu, 13 Nov 2025 15:02:43 GMT",
+      "content": "The IRS has announced the IRA contribution limits for 2026. Here’s what savers need to know.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "720205da06072fbcd9978af23a366bcc",
+      "exported_at": "2025-11-13T10:03:34.516266",
+      "continuous_session": true
+    },
+    {
+      "title": "IRS announces 401(k) catch-up contributions for 2026, raises cap",
+      "link": "https://www.cnbc.com/2025/11/13/401-k-catch-up-contribution-limits-2026.html",
+      "summary": "The IRS has announced the 401(k) catch-up contribution limits for 2026. Here’s what investors need to know.",
+      "published": "Thu, 13 Nov 2025 15:02:50 GMT",
+      "content": "The IRS has announced the 401(k) catch-up contribution limits for 2026. Here’s what investors need to know.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "abc8de3ca4879752c75ab49fd2b8a8c0",
+      "exported_at": "2025-11-13T10:03:34.516275",
       "continuous_session": true
     }
   ]
