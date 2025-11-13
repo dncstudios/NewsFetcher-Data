@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2949,
+    "total_articles": 2950,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -38184,6 +38184,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "b68ef2fdbf4a7d14fcebf30b5df07c35",
       "exported_at": "2025-11-13T17:59:57.150705",
+      "continuous_session": true
+    },
+    {
+      "title": "Under Armour splits with Steph Curry, leaving NBA legend free to find a new business partner",
+      "link": "https://www.cnbc.com/2025/11/13/under-armour-splits-with-steph-curry.html",
+      "summary": "Under Armour announced mutual split with Curry Brand, effective immediately, to focus on what CEO Kevin Plank called the \"core UA brand.\"",
+      "published": "Thu, 13 Nov 2025 23:03:41 GMT",
+      "content": "Under Armour announced mutual split with Curry Brand, effective immediately, to focus on what CEO Kevin Plank called the \"core UA brand.\"",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b6f8aa02583f72da061c0a7c4d8582eb",
+      "exported_at": "2025-11-13T18:05:09.283752",
       "continuous_session": true
     }
   ]
