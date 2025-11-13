@@ -2,8 +2,8 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2889,
-    "new_articles_in_last_fetch": 1,
+    "total_articles": 2892,
+    "new_articles_in_last_fetch": 3,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
     ],
@@ -37464,6 +37464,42 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "de3e16be6b4f0e73ee62ff81ec219066",
       "exported_at": "2025-11-13T08:31:43.449065",
+      "continuous_session": true
+    },
+    {
+      "title": "WeightWatchers to offer Novo Nordisk&apos;s Wegovy pill after 2026 launch",
+      "link": "https://www.cnbc.com/2025/11/13/weightwatchers-to-offer-novo-nordisks-wegovy-pill-after-2026-launch.html",
+      "summary": "WeightWatchers' CEO said it plans to offer Novo Nordisk's much-anticipated Wegovy in pill form if it is launched next year in the United States.",
+      "published": "Thu, 13 Nov 2025 14:22:26 GMT",
+      "content": "WeightWatchers' CEO said it plans to offer Novo Nordisk's much-anticipated Wegovy in pill form if it is launched next year in the United States.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d410aa60ef9d659a45b15b2dec8eaa72",
+      "exported_at": "2025-11-13T09:32:06.503357",
+      "continuous_session": true
+    },
+    {
+      "title": "The government shutdown has ended. A look at how stocks perform after it reopens",
+      "link": "https://www.cnbc.com/2025/11/13/the-government-shutdown-has-ended-a-look-at-how-stocks-perform-after-it-reopens.html",
+      "summary": "The longest government shutdown in the history of the U.S. has ended. That could send the  stock market higher.",
+      "published": "Thu, 13 Nov 2025 14:26:44 GMT",
+      "content": "The longest government shutdown in the history of the U.S. has ended. That could send the  stock market higher.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "76334b8ad3e68ebb114d80630759825b",
+      "exported_at": "2025-11-13T09:32:06.503397",
+      "continuous_session": true
+    },
+    {
+      "title": "Property Play: This startup backed by Bezos and Benioff launched a trading platform for shares of rental homes",
+      "link": "https://www.cnbc.com/2025/11/13/arrived-launches-trading-platform-for-shares-of-rental-homes.html",
+      "summary": "Arrived is announcing a new $27 million fundraise to help launch a secondary market platform.",
+      "published": "Thu, 13 Nov 2025 14:31:25 GMT",
+      "content": "Arrived is announcing a new $27 million fundraise to help launch a secondary market platform.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3377d6d2a0837baca3f86cc10432b33e",
+      "exported_at": "2025-11-13T09:32:06.503407",
       "continuous_session": true
     }
   ]
