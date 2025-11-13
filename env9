@@ -2,8 +2,8 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2913,
-    "new_articles_in_last_fetch": 3,
+    "total_articles": 2915,
+    "new_articles_in_last_fetch": 2,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
     ],
@@ -37752,6 +37752,30 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "fed72ae4cd61dbca26dbc2da6b05beb5",
       "exported_at": "2025-11-13T12:42:30.508745",
+      "continuous_session": true
+    },
+    {
+      "title": "Congressional hemp restrictions threaten $28 billion industry, sending companies scrambling",
+      "link": "https://www.cnbc.com/2025/11/13/congress-thc-hemp-ban.html",
+      "summary": "Congress' stopgap funding bill added a provision banning almost all hemp, which threatens $28 billion hemp industry and has sent companies scrambling.",
+      "published": "Thu, 13 Nov 2025 17:40:52 GMT",
+      "content": "Congress' stopgap funding bill added a provision banning almost all hemp, which threatens $28 billion hemp industry and has sent companies scrambling.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a1c171bc8cb6dac9583aac05bad5f970",
+      "exported_at": "2025-11-13T12:52:48.606167",
+      "continuous_session": true
+    },
+    {
+      "title": "You can save even more for retirement in 2026—and lower your student loan payment at the same time",
+      "link": "https://www.cnbc.com/2025/11/13/how-saving-for-retirement-can-lower-your-student-loan-payment.html",
+      "summary": "Contributing to a 401(k) or other pre-tax retirement account lowers your taxable income and thus, your student loan payment on income-driven repayment plans.",
+      "published": "Thu, 13 Nov 2025 17:43:59 GMT",
+      "content": "Contributing to a 401(k) or other pre-tax retirement account lowers your taxable income and thus, your student loan payment on income-driven repayment plans.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "43a9b1601e0b79165155cb7cdf8296c3",
+      "exported_at": "2025-11-13T12:52:48.606203",
       "continuous_session": true
     }
   ]
