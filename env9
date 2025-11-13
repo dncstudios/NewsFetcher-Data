@@ -2,8 +2,8 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2892,
-    "new_articles_in_last_fetch": 3,
+    "total_articles": 2893,
+    "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
     ],
@@ -37500,6 +37500,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "3377d6d2a0837baca3f86cc10432b33e",
       "exported_at": "2025-11-13T09:32:06.503407",
+      "continuous_session": true
+    },
+    {
+      "title": "Starbucks workers union launches strike in more than 40 cities on chain&apos;s key holiday sales day",
+      "link": "https://www.cnbc.com/2025/11/13/starbucks-workers-united-union-strike-red-cup-day.html",
+      "summary": "The strike could disrupt Starbucks' key holiday season as it tries to carry out a turnaround under CEO Brian Niccol.",
+      "published": "Thu, 13 Nov 2025 14:34:06 GMT",
+      "content": "The strike could disrupt Starbucks' key holiday season as it tries to carry out a turnaround under CEO Brian Niccol.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8020e59c66e394879eb70dbeebdd2850",
+      "exported_at": "2025-11-13T09:37:34.207705",
       "continuous_session": true
     }
   ]
