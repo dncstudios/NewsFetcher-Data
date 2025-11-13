@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2908,
+    "total_articles": 2909,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -37692,6 +37692,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "bb5f5d05c14971b60d37cd205b4738e6",
       "exported_at": "2025-11-13T12:06:41.010472",
+      "continuous_session": true
+    },
+    {
+      "title": "AI startup Cursor raises $2.3 billion funding round at $29.3 billion valuation",
+      "link": "https://www.cnbc.com/2025/11/13/cursor-ai-startup-funding-round-valuation.html",
+      "summary": "Cursor built a popular AI coding tool that helps software developers generate, edit and review code.",
+      "published": "Thu, 13 Nov 2025 16:57:21 GMT",
+      "content": "Cursor built a popular AI coding tool that helps software developers generate, edit and review code.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c8fe9ce02dba595a4bf30571bf73961d",
+      "exported_at": "2025-11-13T12:16:56.563825",
       "continuous_session": true
     }
   ]
