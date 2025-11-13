@@ -2,8 +2,8 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2938,
-    "new_articles_in_last_fetch": 1,
+    "total_articles": 2940,
+    "new_articles_in_last_fetch": 2,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
     ],
@@ -38052,6 +38052,30 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "5f6c986dd5395764479c60c38b1a68f4",
       "exported_at": "2025-11-13T15:42:13.093342",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks notch worst day in over a month as tech sell-off intensifies: Live updates",
+      "link": "https://www.cnbc.com/2025/11/12/stock-market-today-live-updates.html",
+      "summary": "Stocks retreated on Thursday, with technology stocks weighing on the major averages even as a broader rotation occurs beneath the surface.",
+      "published": "Thu, 13 Nov 2025 21:00:42 GMT",
+      "content": "Stocks retreated on Thursday, with technology stocks weighing on the major averages even as a broader rotation occurs beneath the surface.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "116b509bc143e651fc17ce6184188887",
+      "exported_at": "2025-11-13T16:02:30.371514",
+      "continuous_session": true
+    },
+    {
+      "title": "Treasury yields rise as investors cheer end of government shutdown",
+      "link": "https://www.cnbc.com/2025/11/13/us-treasury-yields-investors-cheer-end-of-government-shutdown-.html",
+      "summary": "U.S. Treasury yields rose on Thursday as investors welcomed the end of the longest government shutdown in U.S. history.",
+      "published": "Thu, 13 Nov 2025 21:02:05 GMT",
+      "content": "U.S. Treasury yields rose on Thursday as investors welcomed the end of the longest government shutdown in U.S. history.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a647e5ee6d74783e57919710df3162ef",
+      "exported_at": "2025-11-13T16:02:30.371552",
       "continuous_session": true
     }
   ]
