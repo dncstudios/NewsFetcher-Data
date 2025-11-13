@@ -2,8 +2,8 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2933,
-    "new_articles_in_last_fetch": 3,
+    "total_articles": 2935,
+    "new_articles_in_last_fetch": 2,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
     ],
@@ -37992,6 +37992,30 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "aa7c6ce2b1ae47ec683778f459beb937",
       "exported_at": "2025-11-13T15:01:10.776449",
+      "continuous_session": true
+    },
+    {
+      "title": "Tesla recalls 10,500 Powerwall 2 battery systems due to overheating, fire risk",
+      "link": "https://www.cnbc.com/2025/11/13/tesla-recall-powerwall-2-overheating-fire-battery.html",
+      "summary": "Elon Musk's autos and energy business said it will replace all affected units for Powerwall 2 customers in the U.S.",
+      "published": "Thu, 13 Nov 2025 19:58:22 GMT",
+      "content": "Elon Musk's autos and energy business said it will replace all affected units for Powerwall 2 customers in the U.S.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "aca0d48dd570ebcd6182e4b5e4a53e01",
+      "exported_at": "2025-11-13T15:06:27.363035",
+      "continuous_session": true
+    },
+    {
+      "title": "MLS games head to Apple TV in 2026 as Season Pass subscription ends",
+      "link": "https://www.cnbc.com/2025/11/13/mls-games-apple-tv-2026-season-pass-ends.html",
+      "summary": "Major League Soccer games will be added to the standard Apple TV streaming service, leaving behind the add on subscription package known as Season Pass.",
+      "published": "Thu, 13 Nov 2025 19:57:24 GMT",
+      "content": "Major League Soccer games will be added to the standard Apple TV streaming service, leaving behind the add on subscription package known as Season Pass.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9aa9565866b23e2f2a1c5252752f275e",
+      "exported_at": "2025-11-13T15:06:27.363079",
       "continuous_session": true
     }
   ]
