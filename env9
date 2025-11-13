@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2873,
+    "total_articles": 2874,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -37272,6 +37272,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "6cdb941c45ca1b33b326838efb05ca10",
       "exported_at": "2025-11-13T07:01:43.837233",
+      "continuous_session": true
+    },
+    {
+      "title": "Scotland to launch &apos;kilt&apos; bonds as it seeks to become an investor friendly destination",
+      "link": "https://www.cnbc.com/2025/11/13/scotland-to-launch-government-kilt-bonds.html",
+      "summary": "Scotland’s government has been granted the same credit rating as the United Kingdom.",
+      "published": "Thu, 13 Nov 2025 12:04:21 GMT",
+      "content": "Scotland’s government has been granted the same credit rating as the United Kingdom.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7a06b6471cb3486b6dde1ef0d371acf6",
+      "exported_at": "2025-11-13T07:07:00.274212",
       "continuous_session": true
     }
   ]
