@@ -2,8 +2,8 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2930,
-    "new_articles_in_last_fetch": 1,
+    "total_articles": 2933,
+    "new_articles_in_last_fetch": 3,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
     ],
@@ -37956,6 +37956,42 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "5c866bbfe4ac86cb44418bd7275b61e6",
       "exported_at": "2025-11-13T14:55:58.227836",
+      "continuous_session": true
+    },
+    {
+      "title": "These stocks reporting earnings next week, including Nvidia, have histories of beating Wall Street&apos;s expectations",
+      "link": "https://www.cnbc.com/2025/11/13/nvidia-and-these-companies-have-histories-of-beating-wall-streets-expectations.html",
+      "summary": "Nvidia and other technology firms that report earnings next week have often beaten the Street's estimates and made stock gains on their earnings days.",
+      "published": "Thu, 13 Nov 2025 19:57:00 GMT",
+      "content": "Nvidia and other technology firms that report earnings next week have often beaten the Street's estimates and made stock gains on their earnings days.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b88ccec8c5e3e22ffd19ae99e727f94a",
+      "exported_at": "2025-11-13T15:01:10.776402",
+      "continuous_session": true
+    },
+    {
+      "title": "Treasury yields rise as investors cheer end of government shutdown",
+      "link": "https://www.cnbc.com/2025/11/13/us-treasury-yields-investors-cheer-end-of-government-shutdown-.html",
+      "summary": "U.S. Treasury yields held steady on Thursday as investors welcomed the end of the longest government shutdown in U.S. history.",
+      "published": "Thu, 13 Nov 2025 19:06:57 GMT",
+      "content": "U.S. Treasury yields held steady on Thursday as investors welcomed the end of the longest government shutdown in U.S. history.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3cdf3eef5848a7767f6828be362722ec",
+      "exported_at": "2025-11-13T15:01:10.776439",
+      "continuous_session": true
+    },
+    {
+      "title": "CEO and his dad each took out second mortgages to start his company—now he could get a $4.6 billion pay package",
+      "link": "https://www.cnbc.com/2025/11/13/rivian-ceo-took-out-second-mortgage-to-start-multi-billion-dollar-company.html",
+      "summary": "Rivian CEO RJ Scaringe launched the electric automaker in 2009 and began delivering its first vehicles in 2021.",
+      "published": "Thu, 13 Nov 2025 19:56:48 GMT",
+      "content": "Rivian CEO RJ Scaringe launched the electric automaker in 2009 and began delivering its first vehicles in 2021.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "aa7c6ce2b1ae47ec683778f459beb937",
+      "exported_at": "2025-11-13T15:01:10.776449",
       "continuous_session": true
     }
   ]
