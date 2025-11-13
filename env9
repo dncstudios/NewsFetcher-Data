@@ -2,8 +2,8 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2935,
-    "new_articles_in_last_fetch": 2,
+    "total_articles": 2936,
+    "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
     ],
@@ -38016,6 +38016,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "9aa9565866b23e2f2a1c5252752f275e",
       "exported_at": "2025-11-13T15:06:27.363079",
+      "continuous_session": true
+    },
+    {
+      "title": "Dow drops more than 800, heads for worst day in over a month: Live updates",
+      "link": "https://www.cnbc.com/2025/11/12/stock-market-today-live-updates.html",
+      "summary": "Stocks retreated on Thursday, with technology stocks weighing on the major averages even as a broader rotation occurs beneath the surface.",
+      "published": "Thu, 13 Nov 2025 20:24:40 GMT",
+      "content": "Stocks retreated on Thursday, with technology stocks weighing on the major averages even as a broader rotation occurs beneath the surface.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "dcee9d755f21f0532f3ba0844fed7b9c",
+      "exported_at": "2025-11-13T15:26:43.199412",
       "continuous_session": true
     }
   ]
