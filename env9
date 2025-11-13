@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2906,
+    "total_articles": 2907,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -37668,6 +37668,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "05e1b05ef1ba318adc1974cbe6fe820d",
       "exported_at": "2025-11-13T11:16:03.356481",
+      "continuous_session": true
+    },
+    {
+      "title": "Striking Boeing defense workers vote on new contract",
+      "link": "https://www.cnbc.com/2025/11/13/boeing-defense-workers-strike.html",
+      "summary": "Boeing's 3,200 defense unit workers voted on a new contract on Thursday.",
+      "published": "Thu, 13 Nov 2025 16:35:15 GMT",
+      "content": "Boeing's 3,200 defense unit workers voted on a new contract on Thursday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ca4e8d0ec9262faa1183c26009592a97",
+      "exported_at": "2025-11-13T11:41:23.226181",
       "continuous_session": true
     }
   ]
