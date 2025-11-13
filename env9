@@ -2,8 +2,8 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2897,
-    "new_articles_in_last_fetch": 3,
+    "total_articles": 2899,
+    "new_articles_in_last_fetch": 2,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
     ],
@@ -37560,6 +37560,30 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "abc8de3ca4879752c75ab49fd2b8a8c0",
       "exported_at": "2025-11-13T10:03:34.516275",
+      "continuous_session": true
+    },
+    {
+      "title": "Musk&apos;s xAI raises $15 billion in latest funding round",
+      "link": "https://www.cnbc.com/2025/11/13/musk-xai-funding.html",
+      "summary": "The funding round adds $5 billion to the $10 billion funding round reported in September, which valued the startup at $200 billion.",
+      "published": "Thu, 13 Nov 2025 15:08:54 GMT",
+      "content": "The funding round adds $5 billion to the $10 billion funding round reported in September, which valued the startup at $200 billion.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a6df9a510eb3cb228b36690c92fcdd87",
+      "exported_at": "2025-11-13T10:09:05.013570",
+      "continuous_session": true
+    },
+    {
+      "title": "Jim Cramer&apos;s top 10 things to watch in the stock market Thursday",
+      "link": "https://www.cnbc.com/2025/11/13/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
+      "summary": "Stocks were down early Thursday morning after the Dow reached a record high during yesterday's session.",
+      "published": "Thu, 13 Nov 2025 14:26:35 GMT",
+      "content": "Stocks were down early Thursday morning after the Dow reached a record high during yesterday's session.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ef3e878af5f3e94be246fa7a9e1b5b56",
+      "exported_at": "2025-11-13T10:09:05.013610",
       "continuous_session": true
     }
   ]
