@@ -2,8 +2,8 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2880,
-    "new_articles_in_last_fetch": 2,
+    "total_articles": 2884,
+    "new_articles_in_last_fetch": 4,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
     ],
@@ -37356,6 +37356,54 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "c0938bde3fbd5bdc5e6e1f39d464b71a",
       "exported_at": "2025-11-13T07:55:45.090957",
+      "continuous_session": true
+    },
+    {
+      "title": "TKO, Polymarket strike multiyear deal to integrate prediction markets into UFC events",
+      "link": "https://www.cnbc.com/2025/11/13/tko-polymarket-strike-multiyear-deal-to-integrate-prediction-markets-into-ufc-events.html",
+      "summary": "The deal makes UFC and Zuffa Boxing the first sports organizations to incorporate prediction market technology into live events.",
+      "published": "Thu, 13 Nov 2025 13:00:21 GMT",
+      "content": "The deal makes UFC and Zuffa Boxing the first sports organizations to incorporate prediction market technology into live events.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ad3c785c08cc227e5c61ff0f13bba525",
+      "exported_at": "2025-11-13T08:06:03.495832",
+      "continuous_session": true
+    },
+    {
+      "title": "Cheaper medicines, free beach trips: U.S. health plans tap prescriptions that feds say are illegal",
+      "link": "https://www.cnbc.com/2025/11/13/employer-health-plans-afp-prescriptions-feds-illegal.html",
+      "summary": "AFPs promise to connect patients with more-affordable options for accessing specialty medications that often come at very high costs. There's a major catch.",
+      "published": "Thu, 13 Nov 2025 13:00:01 GMT",
+      "content": "AFPs promise to connect patients with more-affordable options for accessing specialty medications that often come at very high costs. There's a major catch.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "979fd3b2873ac7d60f0321f405c6dd01",
+      "exported_at": "2025-11-13T08:06:03.495873",
+      "continuous_session": true
+    },
+    {
+      "title": "Joby Aviation wraps up first military aircraft test flight with partner L3Harris",
+      "link": "https://www.cnbc.com/2025/11/13/joby-aviation-l3harris-military-autononmous-defense.html",
+      "summary": "The hybrid aircraft, with piloted and autonomous capabilities, ties into a broader move by the Trump administration to advance U.S. military technology.",
+      "published": "Thu, 13 Nov 2025 13:00:01 GMT",
+      "content": "The hybrid aircraft, with piloted and autonomous capabilities, ties into a broader move by the Trump administration to advance U.S. military technology.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "53e50d908174e66880b900ebc73ce137",
+      "exported_at": "2025-11-13T08:06:03.495882",
+      "continuous_session": true
+    },
+    {
+      "title": "Uber will start taking skiers to the slopes at over 40 resorts across U.S. and Europe",
+      "link": "https://www.cnbc.com/2025/11/13/uber-skis-share-eats.html",
+      "summary": "Uber announced new seasonal Uber Ski feature that allows skiers to book rides to and from 40 mountains in the U.S. and Europe.",
+      "published": "Thu, 13 Nov 2025 13:00:01 GMT",
+      "content": "Uber announced new seasonal Uber Ski feature that allows skiers to book rides to and from 40 mountains in the U.S. and Europe.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6fd6273f2ce066b4ce96bc158087ada4",
+      "exported_at": "2025-11-13T08:06:03.495891",
       "continuous_session": true
     }
   ]
