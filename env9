@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2929,
+    "total_articles": 2930,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -37944,6 +37944,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "0111c639cdb2b01c3fe6bfeeaac69f2d",
       "exported_at": "2025-11-13T14:50:44.071874",
+      "continuous_session": true
+    },
+    {
+      "title": "Boeing defense workers approve new contract, ending more than 3-month strike",
+      "link": "https://www.cnbc.com/2025/11/13/boeing-defense-workers-strike.html",
+      "summary": "Boeing's defense unit workers approved a new contract Thursday.",
+      "published": "Thu, 13 Nov 2025 19:55:07 GMT",
+      "content": "Boeing's defense unit workers approved a new contract Thursday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5c866bbfe4ac86cb44418bd7275b61e6",
+      "exported_at": "2025-11-13T14:55:58.227836",
       "continuous_session": true
     }
   ]
