@@ -2,8 +2,8 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2884,
-    "new_articles_in_last_fetch": 4,
+    "total_articles": 2886,
+    "new_articles_in_last_fetch": 2,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
     ],
@@ -37404,6 +37404,30 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "6fd6273f2ce066b4ce96bc158087ada4",
       "exported_at": "2025-11-13T08:06:03.495891",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: Walt Disney, Cisco Systems, Firefly Aerospace and more",
+      "link": "https://www.cnbc.com/2025/11/13/stocks-making-the-biggest-moves-premarket-walt-disney-cisco-systems-firefly-aerospace-and-more.html",
+      "summary": "These are the stocks posting the largest moves in early trading.",
+      "published": "Thu, 13 Nov 2025 13:07:28 GMT",
+      "content": "These are the stocks posting the largest moves in early trading.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d075f1397ae613a14331b6b3c68cec9d",
+      "exported_at": "2025-11-13T08:11:16.054285",
+      "continuous_session": true
+    },
+    {
+      "title": "What now for peak oil? Unpacking a surprise twist in the fossil fuel feud",
+      "link": "https://www.cnbc.com/2025/11/13/what-now-for-peak-oil-unpacking-the-ieas-shift-on-fossil-fuel-demand.html",
+      "summary": "In a sharp shift in tone, the latest outlook from the world’s top energy agency signals that oil demand could keep growing through to 2050.",
+      "published": "Thu, 13 Nov 2025 13:05:31 GMT",
+      "content": "In a sharp shift in tone, the latest outlook from the world’s top energy agency signals that oil demand could keep growing through to 2050.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "1aaa5bd0bedb8f52791118dfe5720684",
+      "exported_at": "2025-11-13T08:11:16.054334",
       "continuous_session": true
     }
   ]
