@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2937,
+    "total_articles": 2938,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -38040,6 +38040,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "38641c630b32a19b768997da3da92baa",
       "exported_at": "2025-11-13T15:31:57.809127",
+      "continuous_session": true
+    },
+    {
+      "title": "XRP rises as first U.S. spot XRP ETF launches on the Nasdaq: CNBC Crypto World",
+      "link": "https://www.cnbc.com/video/2025/11/13/xrp-rises-as-first-us-spot-xrp-etf-launches-on-the-nasdaq-cnbc-crypto-world.html",
+      "summary": "On today's episode of CNBC Crypto World, bitcoin and ether fall while XRP rises as the first spot XRP ETF in the U.S. starts trading on the Nasdaq. Plus, Grayscale files to list on the New York Stock Exchange. And, Roshan Robert of OKX discusses the company's U.S. expansion strategy.",
+      "published": "Thu, 13 Nov 2025 20:25:17 GMT",
+      "content": "On today's episode of CNBC Crypto World, bitcoin and ether fall while XRP rises as the first spot XRP ETF in the U.S. starts trading on the Nasdaq. Plus, Grayscale files to list on the New York Stock Exchange. And, Roshan Robert of OKX discusses the company's U.S. expansion strategy.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5f6c986dd5395764479c60c38b1a68f4",
+      "exported_at": "2025-11-13T15:42:13.093342",
       "continuous_session": true
     }
   ]
