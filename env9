@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2876,
+    "total_articles": 2877,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -37308,6 +37308,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "06142e95dd5c55a3095c26c49dce2918",
       "exported_at": "2025-11-13T07:38:07.800827",
+      "continuous_session": true
+    },
+    {
+      "title": "From AI to ESG: Family offices expect heirs will take new path on investing",
+      "link": "https://www.cnbc.com/2025/11/13/family-offices-investing.html",
+      "summary": "Ultra-rich families anticipate millennial and Gen X heirs will make big changes to their investment firms or even shut them down altogether.",
+      "published": "Thu, 13 Nov 2025 12:40:52 GMT",
+      "content": "Ultra-rich families anticipate millennial and Gen X heirs will make big changes to their investment firms or even shut them down altogether.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8f9d3ac1f42f9da1d6d56a05d379ab98",
+      "exported_at": "2025-11-13T07:43:20.065004",
       "continuous_session": true
     }
   ]
