@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2874,
+    "total_articles": 2875,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -37284,6 +37284,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "7a06b6471cb3486b6dde1ef0d371acf6",
       "exported_at": "2025-11-13T07:07:00.274212",
+      "continuous_session": true
+    },
+    {
+      "title": "What the Visa, Mastercard legal settlement means for your rewards credit card",
+      "link": "https://www.cnbc.com/2025/11/13/visa-mastercard-legal-settlement-what-you-need-to-know.html",
+      "summary": "A Visa and MasterCard settlement with merchants announced earlier this week could bring changes to your experience checking out.",
+      "published": "Thu, 13 Nov 2025 12:15:01 GMT",
+      "content": "A Visa and MasterCard settlement with merchants announced earlier this week could bring changes to your experience checking out.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ea42ee24002cfe5831b34edb680f412e",
+      "exported_at": "2025-11-13T07:22:16.905628",
       "continuous_session": true
     }
   ]
