@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2886,
+    "total_articles": 2888,
     "new_articles_in_last_fetch": 2,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -37428,6 +37428,30 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "1aaa5bd0bedb8f52791118dfe5720684",
       "exported_at": "2025-11-13T08:11:16.054334",
+      "continuous_session": true
+    },
+    {
+      "title": "Oppenheimer raises Nvidia price target ahead of earnings report",
+      "link": "https://www.cnbc.com/2025/11/13/oppenheimer-raises-nvidia-price-target-ahead-of-earnings-report.html",
+      "summary": "Oppenheimer sees shares of Nvidia rising a further 37%.",
+      "published": "Thu, 13 Nov 2025 13:12:00 GMT",
+      "content": "Oppenheimer sees shares of Nvidia rising a further 37%.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8a2fad283c2c2fcf9d909c2ecbb93f78",
+      "exported_at": "2025-11-13T08:16:27.285100",
+      "continuous_session": true
+    },
+    {
+      "title": "This startup backed by Bezos and Benioff launched a trading platform for shares of rental homes",
+      "link": "https://www.cnbc.com/2025/11/13/arrived-launches-trading-platform-for-shares-of-rental-homes.html",
+      "summary": "Arrived is announcing a new $27 million fundraise to help launch a secondary market platform.",
+      "published": "Thu, 13 Nov 2025 13:00:01 GMT",
+      "content": "Arrived is announcing a new $27 million fundraise to help launch a secondary market platform.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0e02088bf085891596d50e98ebdacd72",
+      "exported_at": "2025-11-13T08:16:27.285142",
       "continuous_session": true
     }
   ]
