@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2945,
+    "total_articles": 2946,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -38136,6 +38136,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "ce9e8d74dbec9fe899eeb508d2be99dd",
       "exported_at": "2025-11-13T17:08:54.059681",
+      "continuous_session": true
+    },
+    {
+      "title": "AI isn&apos;t a bubble but rather an opportunity, JPMorgan&apos;s Erdoes says",
+      "link": "https://www.cnbc.com/2025/11/13/ai-isnt-a-bubble-but-rather-an-opportunity-jpmorgans-erdoes-says.html",
+      "summary": "Erdoes dispelled worries over valuation, saying that AI is presenting opportunities not fully appreciated or understood yet.",
+      "published": "Thu, 13 Nov 2025 22:04:47 GMT",
+      "content": "Erdoes dispelled worries over valuation, saying that AI is presenting opportunities not fully appreciated or understood yet.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fc5a24f76d41894108acbe8cc8a7fefa",
+      "exported_at": "2025-11-13T17:19:11.316393",
       "continuous_session": true
     }
   ]
