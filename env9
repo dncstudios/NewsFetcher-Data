@@ -2,8 +2,8 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2904,
-    "new_articles_in_last_fetch": 2,
+    "total_articles": 2905,
+    "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
     ],
@@ -37644,6 +37644,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "e037d41f1c9e25d5ca4ec79f3aa40b76",
       "exported_at": "2025-11-13T11:00:28.880382",
+      "continuous_session": true
+    },
+    {
+      "title": "IRS unveils Roth IRA income limits for 2026",
+      "link": "https://www.cnbc.com/2025/11/13/roth-ira-income-limits-2026.html",
+      "summary": "The IRS has unveiled the Roth IRA income limits for 2026. Here is what investors need to know.",
+      "published": "Thu, 13 Nov 2025 15:49:35 GMT",
+      "content": "The IRS has unveiled the Roth IRA income limits for 2026. Here is what investors need to know.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "083d71b2c4961b5dbcfb615bffe227bf",
+      "exported_at": "2025-11-13T11:05:46.924323",
       "continuous_session": true
     }
   ]
