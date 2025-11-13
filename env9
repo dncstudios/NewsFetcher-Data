@@ -2,8 +2,8 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2900,
-    "new_articles_in_last_fetch": 1,
+    "total_articles": 2902,
+    "new_articles_in_last_fetch": 2,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
     ],
@@ -37596,6 +37596,30 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "10fe722e3851a3e7e9066240047a41e9",
       "exported_at": "2025-11-13T10:29:28.921698",
+      "continuous_session": true
+    },
+    {
+      "title": "This fintech stock is on fire this year. How to bet on more gains, while hedging, using options",
+      "link": "https://www.cnbc.com/2025/11/13/one-fintech-stock-is-on-fire-in-2025-how-to-bet-on-more-gains-using-options.html",
+      "summary": "SoFi Technologies is evolving into a diversified, regulated platform with a balance-sheet strategy that resembles a high-growth, digital-native bank.",
+      "published": "Thu, 13 Nov 2025 15:36:04 GMT",
+      "content": "SoFi Technologies is evolving into a diversified, regulated platform with a balance-sheet strategy that resembles a high-growth, digital-native bank.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0116dd47a693dbba3a68d7f738e44c6a",
+      "exported_at": "2025-11-13T10:39:53.718458",
+      "continuous_session": true
+    },
+    {
+      "title": "Uber will start taking skiers to the slopes at over 40 resorts across U.S. and Europe",
+      "link": "https://www.cnbc.com/2025/11/13/uber-skis-share-eats.html",
+      "summary": "Uber announced a new seasonal Uber Ski feature that allows skiers to book rides to and from 40 mountains in the U.S. and Europe.",
+      "published": "Thu, 13 Nov 2025 15:39:34 GMT",
+      "content": "Uber announced a new seasonal Uber Ski feature that allows skiers to book rides to and from 40 mountains in the U.S. and Europe.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "05cd5141e0be111f1e6a8505b51700c6",
+      "exported_at": "2025-11-13T10:39:53.718497",
       "continuous_session": true
     }
   ]
