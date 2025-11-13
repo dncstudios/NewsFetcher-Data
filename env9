@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2870,
+    "total_articles": 2871,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -37236,6 +37236,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "022f8e5a6bbed7f7d2d6688ede671ecc",
       "exported_at": "2025-11-13T06:45:48.061827",
+      "continuous_session": true
+    },
+    {
+      "title": "JPMorgan turns bullish on this crypto stock as stablecoins become mainstream",
+      "link": "https://www.cnbc.com/2025/11/13/jpmorgan-turns-bullish-on-this-crypto-stock-as-stablecoins-become-mainstream.html",
+      "summary": "The bank double upgraded the stablecoin issuer to overweight from underweight.",
+      "published": "Thu, 13 Nov 2025 11:49:10 GMT",
+      "content": "The bank double upgraded the stablecoin issuer to overweight from underweight.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "38d2889f4d2de2d4bd82aa8f12bf80db",
+      "exported_at": "2025-11-13T06:51:05.191006",
       "continuous_session": true
     }
   ]
