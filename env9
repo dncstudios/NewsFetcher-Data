@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2936,
+    "total_articles": 2937,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -38028,6 +38028,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "dcee9d755f21f0532f3ba0844fed7b9c",
       "exported_at": "2025-11-13T15:26:43.199412",
+      "continuous_session": true
+    },
+    {
+      "title": "A recent breakout points to a &apos;stealth bull market&apos; in this exchange stock, according to the charts",
+      "link": "https://www.cnbc.com/2025/11/13/a-recent-breakout-points-to-a-stealth-bull-market-in-this-exchange-stock-according-to-the-charts.html",
+      "summary": "David Keller walks readers through the technicals of this exchange stock.",
+      "published": "Thu, 13 Nov 2025 20:28:16 GMT",
+      "content": "David Keller walks readers through the technicals of this exchange stock.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "38641c630b32a19b768997da3da92baa",
+      "exported_at": "2025-11-13T15:31:57.809127",
       "continuous_session": true
     }
   ]
