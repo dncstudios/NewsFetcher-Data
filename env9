@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2952,
+    "total_articles": 2953,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -38220,6 +38220,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "c728c41a5f92a3ec069bcb3d5fe599e4",
       "exported_at": "2025-11-13T18:20:39.160402",
+      "continuous_session": true
+    },
+    {
+      "title": "Goldman Sachs stands by top lawyer Kathy Ruemmler after her emails with Jeffrey Epstein exposed",
+      "link": "https://www.cnbc.com/2025/11/13/goldman-sachs-jeffrey-epstein-emails-ruemmler.html",
+      "summary": "The email chats between top lawyer Kathy Ruemmler and Jeffrey Epstein came years after his guilty plea to sex crimes in Florida.",
+      "published": "Thu, 13 Nov 2025 23:21:13 GMT",
+      "content": "The email chats between top lawyer Kathy Ruemmler and Jeffrey Epstein came years after his guilty plea to sex crimes in Florida.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "03e426dc2c303e13c24b315207779cfa",
+      "exported_at": "2025-11-13T18:30:56.266887",
       "continuous_session": true
     }
   ]
