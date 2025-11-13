@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2917,
+    "total_articles": 2918,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -37800,6 +37800,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "2a6b1995593772d66a4f07b181e886c6",
       "exported_at": "2025-11-13T13:23:22.338463",
+      "continuous_session": true
+    },
+    {
+      "title": "Dow pulls back from record, falls 500 points in broad market sell-off: Live updates",
+      "link": "https://www.cnbc.com/2025/11/12/stock-market-today-live-updates.html",
+      "summary": "Stocks retreated Thursday, with technology stocks weighing on the major averages even as a broader rotation occurs beneath the surface.",
+      "published": "Thu, 13 Nov 2025 18:28:22 GMT",
+      "content": "Stocks retreated Thursday, with technology stocks weighing on the major averages even as a broader rotation occurs beneath the surface.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "634de9826bf15ab344950cb753229b6e",
+      "exported_at": "2025-11-13T13:28:38.175162",
       "continuous_session": true
     }
   ]
