@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2905,
+    "total_articles": 2906,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -37656,6 +37656,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "083d71b2c4961b5dbcfb615bffe227bf",
       "exported_at": "2025-11-13T11:05:46.924323",
+      "continuous_session": true
+    },
+    {
+      "title": "Exxon was added to our Best Stocks list last week. Its fundamentals are bottoming at the right time",
+      "link": "https://www.cnbc.com/2025/11/13/xom-was-added-to-our-best-stocks-list-last-week-its-fundamentals-are-bottoming-at-the-right-time.html",
+      "summary": "Josh Brown and Sean Russo look through Exxon Mobil.",
+      "published": "Thu, 13 Nov 2025 16:10:44 GMT",
+      "content": "Josh Brown and Sean Russo look through Exxon Mobil.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "05e1b05ef1ba318adc1974cbe6fe820d",
+      "exported_at": "2025-11-13T11:16:03.356481",
       "continuous_session": true
     }
   ]
