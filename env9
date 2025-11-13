@@ -2,8 +2,8 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2868,
-    "new_articles_in_last_fetch": 10,
+    "total_articles": 2869,
+    "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
     ],
@@ -37212,6 +37212,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "758c55ee7d96839fe96065efa3dfa65d",
       "exported_at": "2025-11-13T06:30:11.056859",
+      "continuous_session": true
+    },
+    {
+      "title": "Michael Burry of &apos;Big Short&apos; fame deregisters Scion Asset Management",
+      "link": "https://www.cnbc.com/2025/11/13/michael-burry-of-big-short-fame-deregisters-scion-asset-management.html",
+      "summary": "Michael Burry has deregistered his hedge fund, Scion Asset Management LLC, according to records on the Securities and Exchange Commission's website.",
+      "published": "Thu, 13 Nov 2025 11:24:38 GMT",
+      "content": "Michael Burry has deregistered his hedge fund, Scion Asset Management LLC, according to records on the Securities and Exchange Commission's website.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b81cb6f47923d675f85b434049693319",
+      "exported_at": "2025-11-13T06:35:33.018098",
       "continuous_session": true
     }
   ]
