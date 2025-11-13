@@ -2,8 +2,8 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2877,
-    "new_articles_in_last_fetch": 1,
+    "total_articles": 2880,
+    "new_articles_in_last_fetch": 2,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
     ],
@@ -37320,6 +37320,42 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "8f9d3ac1f42f9da1d6d56a05d379ab98",
       "exported_at": "2025-11-13T07:43:20.065004",
+      "continuous_session": true
+    },
+    {
+      "title": "DOT freezes flight cuts as disruptions ease",
+      "link": "https://www.cnbc.com/2025/11/12/flight-cancellations-government-shutdown.html",
+      "summary": "Flight disruptions eased on Wednesday before House lawmakers voted on a spending bill that ended the longest-ever government shutdown.",
+      "published": "Thu, 13 Nov 2025 10:35:51 GMT",
+      "content": "Flight disruptions eased on Wednesday before House lawmakers voted on a spending bill that ended the longest-ever government shutdown.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fabed952ab5954086b08f15facff889c",
+      "exported_at": "2025-11-13T07:49:11.869032",
+      "continuous_session": true
+    },
+    {
+      "title": "Morgan Stanley names Micron a top pick, cites memory shortage leading to new earnings highs",
+      "link": "https://www.cnbc.com/2025/11/13/morgan-stanley-names-micron-a-top-pick-cites-memory-shortage-leading-to-new-earnings-highs.html",
+      "summary": "Morgan Stanley's revised price target implies a 33% upside for shares of Micron.",
+      "published": "Thu, 13 Nov 2025 12:45:23 GMT",
+      "content": "Morgan Stanley's revised price target implies a 33% upside for shares of Micron.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6debe0accfe74adc4b6a3a5311dafb07",
+      "exported_at": "2025-11-13T07:55:45.090917",
+      "continuous_session": true
+    },
+    {
+      "title": "Prada says Milan listing still on the table — but won’t commit until timing is ‘six months away’",
+      "link": "https://www.cnbc.com/2025/11/13/prada-says-milan-listing-still-on-the-table.html",
+      "summary": "Prada CFO Andrea Bonini sat down with CNBC's Charlotte Reed to chat also Miu Miu, the Chinese and U.S. markets, and succession plans.",
+      "published": "Thu, 13 Nov 2025 12:53:18 GMT",
+      "content": "Prada CFO Andrea Bonini sat down with CNBC's Charlotte Reed to chat also Miu Miu, the Chinese and U.S. markets, and succession plans.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c0938bde3fbd5bdc5e6e1f39d464b71a",
+      "exported_at": "2025-11-13T07:55:45.090957",
       "continuous_session": true
     }
   ]
