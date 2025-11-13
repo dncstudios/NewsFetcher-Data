@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2946,
+    "total_articles": 2947,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -38148,6 +38148,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "fc5a24f76d41894108acbe8cc8a7fefa",
       "exported_at": "2025-11-13T17:19:11.316393",
+      "continuous_session": true
+    },
+    {
+      "title": "Under Armour splits with Steph Curry as it focuses on strengthening core brand",
+      "link": "https://www.cnbc.com/2025/11/13/under-armour-splits-with-steph-curry.html",
+      "summary": "Under Armour announces mutual split with Curry Brand, effective immediately, to focus on 'core UA brand.'",
+      "published": "Thu, 13 Nov 2025 22:32:20 GMT",
+      "content": "Under Armour announces mutual split with Curry Brand, effective immediately, to focus on 'core UA brand.'",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c3d9ee1d6804b0f7a6edba39f29ebac3",
+      "exported_at": "2025-11-13T17:44:28.374067",
       "continuous_session": true
     }
   ]
