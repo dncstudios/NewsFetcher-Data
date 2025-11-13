@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2907,
+    "total_articles": 2908,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -37680,6 +37680,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "ca4e8d0ec9262faa1183c26009592a97",
       "exported_at": "2025-11-13T11:41:23.226181",
+      "continuous_session": true
+    },
+    {
+      "title": "November Monthly Meeting: Jim Cramer reveals the stocks that can work away from the risky AI trade.",
+      "link": "https://www.cnbc.com/search/?query=November%20Monthly%20Meeting:%20Jim%20Cramer%20reveals%20the%20stocks%20that%20can%20work%20away%20from%20the%20risky%20AI%20trade.",
+      "summary": "Stocks tied to the data center buildout have had a terrific year, but are becoming risky.  Join Jim and Jeff Marks as they look at other areas of the market with upside and update their positions on stocks in the portfolio.There will be no Morning Meeting on November 13th. Join Jim Cramer for the November Monthly Meeting on Nov. 13 at 12 pm ET.",
+      "published": "Thu, 13 Nov 2025 16:22:50 GMT",
+      "content": "Stocks tied to the data center buildout have had a terrific year, but are becoming risky.  Join Jim and Jeff Marks as they look at other areas of the market with upside and update their positions on stocks in the portfolio.There will be no Morning Meeting on November 13th. Join Jim Cramer for the November Monthly Meeting on Nov. 13 at 12 pm ET.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "bb5f5d05c14971b60d37cd205b4738e6",
+      "exported_at": "2025-11-13T12:06:41.010472",
       "continuous_session": true
     }
   ]
