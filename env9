@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2918,
+    "total_articles": 2919,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -37812,6 +37812,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "634de9826bf15ab344950cb753229b6e",
       "exported_at": "2025-11-13T13:28:38.175162",
+      "continuous_session": true
+    },
+    {
+      "title": "Caterpillar is on fire this year. A look at what’s driving the industrial giant — and where it could go from here",
+      "link": "https://www.cnbc.com/2025/11/13/caterpillar-is-on-fire-this-year-a-look-at-where-it-could-go-from-here.html",
+      "summary": "While some analysts believe that Caterpillar stock is more likely to plateau from here, others are calling for a significant pullback.",
+      "published": "Thu, 13 Nov 2025 18:03:33 GMT",
+      "content": "While some analysts believe that Caterpillar stock is more likely to plateau from here, others are calling for a significant pullback.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "db30f3d3c2a8e0f90e730a5000491d24",
+      "exported_at": "2025-11-13T13:33:54.120147",
       "continuous_session": true
     }
   ]
