@@ -2,8 +2,8 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2923,
-    "new_articles_in_last_fetch": 2,
+    "total_articles": 2924,
+    "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
     ],
@@ -37872,6 +37872,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "1f1371c11117764cf8074db405c54008",
       "exported_at": "2025-11-13T13:54:23.410388",
+      "continuous_session": true
+    },
+    {
+      "title": "Wall Street sell-off worsens, Dow falls more than 600 points: Live updates",
+      "link": "https://www.cnbc.com/2025/11/12/stock-market-today-live-updates.html",
+      "summary": "Stocks retreated on Thursday, with technology stocks weighing on the major averages even as a broader rotation occurs beneath the surface.",
+      "published": "Thu, 13 Nov 2025 18:56:27 GMT",
+      "content": "Stocks retreated on Thursday, with technology stocks weighing on the major averages even as a broader rotation occurs beneath the surface.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4945fbe84674c5cf55f2af8b1e597245",
+      "exported_at": "2025-11-13T13:59:38.994030",
       "continuous_session": true
     }
   ]
