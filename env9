@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2893,
+    "total_articles": 2894,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -37512,6 +37512,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "8020e59c66e394879eb70dbeebdd2850",
       "exported_at": "2025-11-13T09:37:34.207705",
+      "continuous_session": true
+    },
+    {
+      "title": "Disney stock falls 8% as media giant posts mixed results",
+      "link": "https://www.cnbc.com/2025/11/13/disney-dis-earnings-q4-2025.html",
+      "summary": "Disney reported fiscal fourth-quarter results before the bell Thursday, giving its final update on streaming subscriber metrics.",
+      "published": "Thu, 13 Nov 2025 14:39:32 GMT",
+      "content": "Disney reported fiscal fourth-quarter results before the bell Thursday, giving its final update on streaming subscriber metrics.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3b352c6a1f2ec9eceeaa29bc721043a7",
+      "exported_at": "2025-11-13T09:43:03.149718",
       "continuous_session": true
     }
   ]
