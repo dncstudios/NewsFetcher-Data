@@ -2,8 +2,8 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2899,
-    "new_articles_in_last_fetch": 2,
+    "total_articles": 2900,
+    "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
     ],
@@ -37584,6 +37584,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "ef3e878af5f3e94be246fa7a9e1b5b56",
       "exported_at": "2025-11-13T10:09:05.013610",
+      "continuous_session": true
+    },
+    {
+      "title": "Verizon chairman Mark Bertolini says the board &apos;needed to act&apos; to revive company",
+      "link": "https://www.cnbc.com/2025/11/13/verizon-bertolini-ceo-schulman.html",
+      "summary": "Verizon chairman and Oscar Health CEO Mark Bertolini told CNBC's \"Squawk Box\" that the telecom company's board \"needed to act\" with its leadership transition.",
+      "published": "Thu, 13 Nov 2025 15:18:36 GMT",
+      "content": "Verizon chairman and Oscar Health CEO Mark Bertolini told CNBC's \"Squawk Box\" that the telecom company's board \"needed to act\" with its leadership transition.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "10fe722e3851a3e7e9066240047a41e9",
+      "exported_at": "2025-11-13T10:29:28.921698",
       "continuous_session": true
     }
   ]
