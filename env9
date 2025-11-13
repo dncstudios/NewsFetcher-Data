@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2925,
+    "total_articles": 2926,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -37896,6 +37896,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "e531f59503cd27e93539898b9dcae728",
       "exported_at": "2025-11-13T14:04:53.232141",
+      "continuous_session": true
+    },
+    {
+      "title": "Wall Street cools on Oracle&apos;s buildout plans as debt concerns mount: &apos;AI sentiment is waning&apos;",
+      "link": "https://www.cnbc.com/2025/11/13/ai-sentiment-is-waning-wall-street-cools-on-oracle-buildout-plans.html",
+      "summary": "Oracle shares have been hammered in recent weeks and its credit default swaps have risen as investors question the company's reliance on debt.",
+      "published": "Thu, 13 Nov 2025 19:31:24 GMT",
+      "content": "Oracle shares have been hammered in recent weeks and its credit default swaps have risen as investors question the company's reliance on debt.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d6527303bd3a1edcd8e0d7e86e211259",
+      "exported_at": "2025-11-13T14:35:11.992336",
       "continuous_session": true
     }
   ]
