@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2961,
+    "total_articles": 2962,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -38328,6 +38328,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "26d330fbc0a186f6174fbb5e6b5b8c94",
       "exported_at": "2025-11-13T23:03:16.222981",
+      "continuous_session": true
+    },
+    {
+      "title": "CEO of Southeast Asia&apos;s largest bank says AI adoption already paying off: ‘It’s not hope, it’s now’",
+      "link": "https://www.cnbc.com/2025/11/14/ceo-southeast-asias-top-bank-dbs-says-ai-adoption-already-paying-off.html",
+      "summary": "Amid fears of an AI bubble, much has been made of recent reports suggesting that AI has yet to generate returns for companies investing billions into the tech.",
+      "published": "Fri, 14 Nov 2025 04:33:31 GMT",
+      "content": "Amid fears of an AI bubble, much has been made of recent reports suggesting that AI has yet to generate returns for companies investing billions into the tech.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "640b430c3c36a86bed618d096f834f71",
+      "exported_at": "2025-11-13T23:38:37.093120",
       "continuous_session": true
     }
   ]
