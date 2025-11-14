@@ -2,8 +2,8 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 3006,
-    "new_articles_in_last_fetch": 2,
+    "total_articles": 3007,
+    "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
     ],
@@ -38868,6 +38868,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "444f1737c48f1995e84202fe28061c22",
       "exported_at": "2025-11-14T10:44:19.567276",
+      "continuous_session": true
+    },
+    {
+      "title": "Dow drops 300 points, Nasdaq turns positive following three-day rout: Live updates",
+      "link": "https://www.cnbc.com/2025/11/13/stock-market-today-live-updates.html",
+      "summary": "Tech companies dragged the market lower on Thursday, reflecting growing concerns about the strength of the artificial intelligence trade.",
+      "published": "Fri, 14 Nov 2025 15:47:13 GMT",
+      "content": "Tech companies dragged the market lower on Thursday, reflecting growing concerns about the strength of the artificial intelligence trade.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2231b783aa3fe24e8632cd457663299e",
+      "exported_at": "2025-11-14T10:49:35.853951",
       "continuous_session": true
     }
   ]
