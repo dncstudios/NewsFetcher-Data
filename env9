@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2962,
+    "total_articles": 2963,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -38340,6 +38340,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "640b430c3c36a86bed618d096f834f71",
       "exported_at": "2025-11-13T23:38:37.093120",
+      "continuous_session": true
+    },
+    {
+      "title": "CEO of Southeast Asia&apos;s largest bank says AI adoption already paying off: ‘It’s not hope, it’s now’",
+      "link": "https://www.cnbc.com/2025/11/14/ceo-southeast-asias-top-bank-dbs-says-ai-adoption-already-paying-off.html",
+      "summary": "DBS CEO Tan Su Shan says AI adoption efforts are already paying off, despite broader concerns about weak returns on investment from AI initiatives.",
+      "published": "Fri, 14 Nov 2025 04:38:41 GMT",
+      "content": "DBS CEO Tan Su Shan says AI adoption efforts are already paying off, despite broader concerns about weak returns on investment from AI initiatives.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5b592983b8ed6dd33b2792dfa3fbb51a",
+      "exported_at": "2025-11-13T23:43:48.890363",
       "continuous_session": true
     }
   ]
