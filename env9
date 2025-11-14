@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2953,
+    "total_articles": 2954,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -38232,6 +38232,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "03e426dc2c303e13c24b315207779cfa",
       "exported_at": "2025-11-13T18:30:56.266887",
+      "continuous_session": true
+    },
+    {
+      "title": "SoftBank shares plunge over 8%, extending selloff into third day",
+      "link": "https://www.cnbc.com/2025/11/14/softbank-shares-plunge-extending-selloff-nvidia-ai-semiconductor-ai-artificial-intelligence.html",
+      "summary": "Shares of SoftBank Group plunged over 8%, marking its third straight day of selloff after the Japanese giant said it had sold its entire stake in Nvidia.",
+      "published": "Fri, 14 Nov 2025 00:58:34 GMT",
+      "content": "Shares of SoftBank Group plunged over 8%, marking its third straight day of selloff after the Japanese giant said it had sold its entire stake in Nvidia.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "28426897ace15e574c7d6dd6fa1cfb70",
+      "exported_at": "2025-11-13T20:11:30.111143",
       "continuous_session": true
     }
   ]
