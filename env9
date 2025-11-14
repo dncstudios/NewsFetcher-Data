@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2976,
+    "total_articles": 2978,
     "new_articles_in_last_fetch": 2,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -38508,6 +38508,30 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "f458f894ee5087adac16208a66b2285b",
       "exported_at": "2025-11-14T06:58:52.162094",
+      "continuous_session": true
+    },
+    {
+      "title": "The question everyone in AI is asking: How long before a GPU depreciates?",
+      "link": "https://www.cnbc.com/2025/11/14/ai-gpu-depreciation-coreweave-nvidia-michael-burry.html",
+      "summary": "With over $1 trillion in AI spending planned over the next five years, the useful lifespan of the infrastructure is a key issue for investors.",
+      "published": "Fri, 14 Nov 2025 12:00:02 GMT",
+      "content": "With over $1 trillion in AI spending planned over the next five years, the useful lifespan of the infrastructure is a key issue for investors.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f376cb3d3f6327769a601029acbbb203",
+      "exported_at": "2025-11-14T07:04:08.357733",
+      "continuous_session": true
+    },
+    {
+      "title": "Fewer burritos, more bargains: Consumers flash holiday warning signs",
+      "link": "https://www.cnbc.com/2025/11/14/fewer-burritos-more-bargains-consumers-flash-holiday-warning-signs.html",
+      "summary": "In the coming week, some of the biggest names in retail, including Walmart, Target, Gap and Home Depot will report their latest earnings.",
+      "published": "Fri, 14 Nov 2025 12:00:02 GMT",
+      "content": "In the coming week, some of the biggest names in retail, including Walmart, Target, Gap and Home Depot will report their latest earnings.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "65a5e78048abb6cdd66df704216ce620",
+      "exported_at": "2025-11-14T07:04:08.357759",
       "continuous_session": true
     }
   ]
