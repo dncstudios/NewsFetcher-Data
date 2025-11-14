@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2984,
+    "total_articles": 2985,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -38604,6 +38604,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "d49a09db742c51bb86f4970f1bcf0323",
       "exported_at": "2025-11-14T07:41:43.473116",
+      "continuous_session": true
+    },
+    {
+      "title": "After a job loss, don&apos;t forget to manage your 401(k) — it&apos;s &apos;one of your biggest assets,&apos; CFP says",
+      "link": "https://www.cnbc.com/2025/11/14/401k-layoff.html",
+      "summary": "While giving thought to your 401(k) when you're laid off may not be top of mind, be sure not to forget about figuring out what to do with those assets.",
+      "published": "Fri, 14 Nov 2025 12:35:01 GMT",
+      "content": "While giving thought to your 401(k) when you're laid off may not be top of mind, be sure not to forget about figuring out what to do with those assets.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "15f537c317a44b93b2641e5204a18fe5",
+      "exported_at": "2025-11-14T07:52:03.211757",
       "continuous_session": true
     }
   ]
