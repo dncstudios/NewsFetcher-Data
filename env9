@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2985,
+    "total_articles": 2986,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -38616,6 +38616,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "15f537c317a44b93b2641e5204a18fe5",
       "exported_at": "2025-11-14T07:52:03.211757",
+      "continuous_session": true
+    },
+    {
+      "title": "Billionaire families opt for buying sports teams over collecting art and cars",
+      "link": "https://www.cnbc.com/2025/11/14/collecting-sports-teams-art-cars.html",
+      "summary": "Twenty percent of billionaire families own controlling stakes in sports teams, up from 6% in 2022, per a new J.P. Morgan survey.",
+      "published": "Fri, 14 Nov 2025 13:02:07 GMT",
+      "content": "Twenty percent of billionaire families own controlling stakes in sports teams, up from 6% in 2022, per a new J.P. Morgan survey.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b0146171e5b0068c033091c8205c3024",
+      "exported_at": "2025-11-14T08:02:19.938703",
       "continuous_session": true
     }
   ]
