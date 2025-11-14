@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2963,
+    "total_articles": 2964,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -38352,6 +38352,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "5b592983b8ed6dd33b2792dfa3fbb51a",
       "exported_at": "2025-11-13T23:43:48.890363",
+      "continuous_session": true
+    },
+    {
+      "title": "‘Vibe revenue’: AI companies admit they’re worried about a bubble",
+      "link": "https://www.cnbc.com/2025/11/14/vibe-revenue-ai-companies-admit-theyre-worried-about-a-bubble.html",
+      "summary": "The CEOs of DeepL and Picsart told CNBC they were concerned about AI valuations but touted the longer term potential of the technology.",
+      "published": "Fri, 14 Nov 2025 06:13:36 GMT",
+      "content": "The CEOs of DeepL and Picsart told CNBC they were concerned about AI valuations but touted the longer term potential of the technology.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b11c5ecef6e7061e1032b2e9cd57266d",
+      "exported_at": "2025-11-14T01:24:25.189423",
       "continuous_session": true
     }
   ]
