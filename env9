@@ -2,8 +2,8 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2980,
-    "new_articles_in_last_fetch": 2,
+    "total_articles": 2981,
+    "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
     ],
@@ -38556,6 +38556,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "46c58f5ca991d70c2ba6251dc09062f4",
       "exported_at": "2025-11-14T07:09:36.122408",
+      "continuous_session": true
+    },
+    {
+      "title": "Jim Cramer worries about tech insider selling, says AI &apos;mania&apos; could be &apos;starting to unwind&apos;",
+      "link": "https://www.cnbc.com/2025/11/13/jim-cramer-tech-insider-selling-ai-mania-worries-unwind.html",
+      "summary": "CNBC's Jim Cramer unpacked Thursday's market action.",
+      "published": "Thu, 13 Nov 2025 23:19:04 GMT",
+      "content": "CNBC's Jim Cramer unpacked Thursday's market action.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "aefa87c3c034b9cde02b8f8f8b217325",
+      "exported_at": "2025-11-14T07:15:12.280579",
       "continuous_session": true
     }
   ]
