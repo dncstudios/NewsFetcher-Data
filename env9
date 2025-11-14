@@ -2,8 +2,8 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2994,
-    "new_articles_in_last_fetch": 1,
+    "total_articles": 2996,
+    "new_articles_in_last_fetch": 2,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
     ],
@@ -38724,6 +38724,30 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "730eb2232a7701a2fea3e8d7318d8fc1",
       "exported_at": "2025-11-14T09:18:55.385152",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks fall again Friday with another big decline for tech stocks; Nasdaq sheds 1.5%: Live updates",
+      "link": "https://www.cnbc.com/2025/11/13/stock-market-today-live-updates.html",
+      "summary": "Tech companies dragged the market lower on Thursday, reflecting growing concerns about the strength of the artificial intelligence trade.",
+      "published": "Fri, 14 Nov 2025 14:33:44 GMT",
+      "content": "Tech companies dragged the market lower on Thursday, reflecting growing concerns about the strength of the artificial intelligence trade.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "de60fbb07b59be16e516b01a52d4c192",
+      "exported_at": "2025-11-14T09:34:24.343297",
+      "continuous_session": true
+    },
+    {
+      "title": "U.S. and Switzerland reach trade deal to lower tariffs to 15%",
+      "link": "https://www.cnbc.com/2025/11/14/us-and-switzerland-reach-a-trade-deal-ustr-greer-says.html",
+      "summary": "Switzerland has been subject to one of the highest tariff rates levied on an individual country by the Trump administration.",
+      "published": "Fri, 14 Nov 2025 14:30:54 GMT",
+      "content": "Switzerland has been subject to one of the highest tariff rates levied on an individual country by the Trump administration.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "aeae86516f23e232b475abc975a4d2d1",
+      "exported_at": "2025-11-14T09:34:24.343334",
       "continuous_session": true
     }
   ]
