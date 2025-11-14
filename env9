@@ -2,8 +2,8 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2954,
-    "new_articles_in_last_fetch": 1,
+    "total_articles": 2957,
+    "new_articles_in_last_fetch": 3,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
     ],
@@ -38244,6 +38244,42 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "28426897ace15e574c7d6dd6fa1cfb70",
       "exported_at": "2025-11-13T20:11:30.111143",
+      "continuous_session": true
+    },
+    {
+      "title": "Asia-Pacific shares fall, tracking Wall Street declines, as tech selloff deepens",
+      "link": "https://www.cnbc.com/2025/11/14/asia-pacific-friday-stocks-nikkei-225-kospi-nifty-50-hang-seng-hsi-shares-china-retail-property-industrial.html",
+      "summary": "Asia-Pacific markets fell Friday, tracking losses on Wall Street, as technology stocks continue to come under pressure for another day.",
+      "published": "Fri, 14 Nov 2025 00:52:50 GMT",
+      "content": "Asia-Pacific markets fell Friday, tracking losses on Wall Street, as technology stocks continue to come under pressure for another day.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5fd2fbfaf3ab88230df6afc549285aa1",
+      "exported_at": "2025-11-13T20:16:46.400373",
+      "continuous_session": true
+    },
+    {
+      "title": "U.S. to remove tariffs on some products from Ecuador, Argentina, Guatemala and El Salvador",
+      "link": "https://www.cnbc.com/2025/11/14/us-to-remove-tariffs-on-some-products-from-ecuador-argentina-guatemala-and-el-salvador.html",
+      "summary": "The agreements are expected to help lower prices for coffee, bananas and other foodstuffs, a senior Trump administration official told reporters.",
+      "published": "Thu, 13 Nov 2025 23:52:03 GMT",
+      "content": "The agreements are expected to help lower prices for coffee, bananas and other foodstuffs, a senior Trump administration official told reporters.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ebbd988f189e0ce6a17bbe2ff3054e77",
+      "exported_at": "2025-11-13T20:16:46.400410",
+      "continuous_session": true
+    },
+    {
+      "title": "Friday&apos;s big stock stories: What’s likely to move the market in the next trading session",
+      "link": "https://www.cnbc.com/2025/11/13/fridays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html",
+      "summary": "Stocks ended lower, with all three major U.S. indexes logging their worst days in over a month as the sell-off of tech stocks intensified.",
+      "published": "Thu, 13 Nov 2025 23:54:48 GMT",
+      "content": "Stocks ended lower, with all three major U.S. indexes logging their worst days in over a month as the sell-off of tech stocks intensified.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "dfcbd55788347dbb566c338bd70ca485",
+      "exported_at": "2025-11-13T20:16:46.400418",
       "continuous_session": true
     }
   ]
