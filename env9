@@ -2,8 +2,8 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2987,
-    "new_articles_in_last_fetch": 1,
+    "total_articles": 2989,
+    "new_articles_in_last_fetch": 2,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
     ],
@@ -38640,6 +38640,30 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "65394fec901781786ce7b3c0853c3c3f",
       "exported_at": "2025-11-14T08:32:43.755307",
+      "continuous_session": true
+    },
+    {
+      "title": "Bitcoin falls below $95,000 as four-day rout picks up steam",
+      "link": "https://www.cnbc.com/2025/11/14/bitcoin-falls-below-95000-as-four-day-rout-picks-up-steam-.html",
+      "summary": "The world's oldest cryptocurrency fell below $95,000 on Friday, deepening its plunge into the red.",
+      "published": "Fri, 14 Nov 2025 13:40:06 GMT",
+      "content": "The world's oldest cryptocurrency fell below $95,000 on Friday, deepening its plunge into the red.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "05f3459e1f4a3da065eda7dcc3b16ce2",
+      "exported_at": "2025-11-14T08:42:59.509839",
+      "continuous_session": true
+    },
+    {
+      "title": "Stocks making the biggest premarket moves: Warner Bros. Discovery, Cidara Therapeutics, Avadel Pharmaceuticals and more",
+      "link": "https://www.cnbc.com/2025/11/14/stocks-making-big-premarket-moves-wbd-cdtx-avdl-and-more.html",
+      "summary": "These are some of the stocks posting the largest moves in premarket trading.",
+      "published": "Fri, 14 Nov 2025 13:35:07 GMT",
+      "content": "These are some of the stocks posting the largest moves in premarket trading.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d414e5e3618aaed0881c47e9629f3dbc",
+      "exported_at": "2025-11-14T08:42:59.509878",
       "continuous_session": true
     }
   ]
