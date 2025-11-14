@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2999,
+    "total_articles": 3000,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -38784,6 +38784,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "ba8119672fbe25b2c079fd93d3d2b064",
       "exported_at": "2025-11-14T09:56:03.375725",
+      "continuous_session": true
+    },
+    {
+      "title": "Dow drops 500 points as sell-off continues: Live updates",
+      "link": "https://www.cnbc.com/2025/11/13/stock-market-today-live-updates.html",
+      "summary": "Tech companies dragged the market lower on Thursday, reflecting growing concerns about the strength of the artificial intelligence trade.",
+      "published": "Fri, 14 Nov 2025 15:06:19 GMT",
+      "content": "Tech companies dragged the market lower on Thursday, reflecting growing concerns about the strength of the artificial intelligence trade.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "086ed9430e76fcf6201bd1cf2c753255",
+      "exported_at": "2025-11-14T10:06:33.034034",
       "continuous_session": true
     }
   ]
