@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2993,
+    "total_articles": 2994,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -38712,6 +38712,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "a84d91b12586d5932a87dfbdf6b637d6",
       "exported_at": "2025-11-14T09:08:41.109064",
+      "continuous_session": true
+    },
+    {
+      "title": "The top 10 U.S. cities for Gen Z workers, according to new report—6 are in the Midwest",
+      "link": "https://www.cnbc.com/2025/11/14/the-top-10-us-cities-for-gen-z-workers-according-to-new-report.html",
+      "summary": "These U.S. cities offer a winning combination of affordability, robust employment and ample social opportunities.",
+      "published": "Fri, 14 Nov 2025 14:05:01 GMT",
+      "content": "These U.S. cities offer a winning combination of affordability, robust employment and ample social opportunities.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "730eb2232a7701a2fea3e8d7318d8fc1",
+      "exported_at": "2025-11-14T09:18:55.385152",
       "continuous_session": true
     }
   ]
