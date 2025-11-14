@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 3003,
+    "total_articles": 3004,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -38832,6 +38832,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "ebef9c51dfcf06c9d6e60eac0d9dc85b",
       "exported_at": "2025-11-14T10:33:29.258027",
+      "continuous_session": true
+    },
+    {
+      "title": "David Tepper&apos;s Appaloosa bought regional bank, old-economy stocks in the third quarter",
+      "link": "https://www.cnbc.com/2025/11/14/teppers-appaloosa-bought-regional-bank-old-economy-stocks-in-q3.html",
+      "summary": "Tepper opened stakes in several regional banks and increased his positions in stocks such as Goodyear Tire &amp; Rubber and Whirlpool.",
+      "published": "Fri, 14 Nov 2025 15:34:55 GMT",
+      "content": "Tepper opened stakes in several regional banks and increased his positions in stocks such as Goodyear Tire &amp; Rubber and Whirlpool.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0c7d8bd28237b7bd1d3a1f0f0fcd05ae",
+      "exported_at": "2025-11-14T10:38:56.103370",
       "continuous_session": true
     }
   ]
