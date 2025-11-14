@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2983,
+    "total_articles": 2984,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -38592,6 +38592,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "7cfa0f46e3173cf9cda998ede71fadd4",
       "exported_at": "2025-11-14T07:36:18.424100",
+      "continuous_session": true
+    },
+    {
+      "title": "JPMorgan sees an ‘underappreciated national security’ opportunity in this rare earth miner",
+      "link": "https://www.cnbc.com/2025/11/14/jpmorgan-sees-an-underappreciated-national-security-opportunity-in-this-rare-earth-miner.html",
+      "summary": "The bank upgraded the rare earth miner to an overweight rating from neutral.",
+      "published": "Fri, 14 Nov 2025 12:37:26 GMT",
+      "content": "The bank upgraded the rare earth miner to an overweight rating from neutral.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d49a09db742c51bb86f4970f1bcf0323",
+      "exported_at": "2025-11-14T07:41:43.473116",
       "continuous_session": true
     }
   ]
