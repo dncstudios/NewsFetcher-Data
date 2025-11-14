@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2978,
+    "total_articles": 2980,
     "new_articles_in_last_fetch": 2,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -38532,6 +38532,30 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "65a5e78048abb6cdd66df704216ce620",
       "exported_at": "2025-11-14T07:04:08.357759",
+      "continuous_session": true
+    },
+    {
+      "title": "Jefferies upgrades this retailer on emerging opportunity in beauty business",
+      "link": "https://www.cnbc.com/2025/11/14/jefferies-upgrades-this-retailer-on-emerging-opportunity-in-beauty-business.html",
+      "summary": "Jefferies forecasts shares of Gap adding 24% from here.",
+      "published": "Fri, 14 Nov 2025 12:02:35 GMT",
+      "content": "Jefferies forecasts shares of Gap adding 24% from here.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6a1a9fc6327e06a8a0d1da46a02af00a",
+      "exported_at": "2025-11-14T07:09:36.122368",
+      "continuous_session": true
+    },
+    {
+      "title": "D.R. Horton is tapping a startup’s AI zoning tool to build more homes",
+      "link": "https://www.cnbc.com/2025/11/14/dr-horton-taps-prophetic-ai-to-build-more-homes.html",
+      "summary": "Portland, Oregon-based startup Prophetic has developed an AI-native platform for land acquisition and development analysis.",
+      "published": "Fri, 14 Nov 2025 12:06:58 GMT",
+      "content": "Portland, Oregon-based startup Prophetic has developed an AI-native platform for land acquisition and development analysis.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "46c58f5ca991d70c2ba6251dc09062f4",
+      "exported_at": "2025-11-14T07:09:36.122408",
       "continuous_session": true
     }
   ]
