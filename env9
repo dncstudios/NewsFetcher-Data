@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2989,
+    "total_articles": 2991,
     "new_articles_in_last_fetch": 2,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -38664,6 +38664,30 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "d414e5e3618aaed0881c47e9629f3dbc",
       "exported_at": "2025-11-14T08:42:59.509878",
+      "continuous_session": true
+    },
+    {
+      "title": "StubHub stock tanks 20% as CEO says it is not giving guidance for current quarter",
+      "link": "https://www.cnbc.com/2025/11/13/stubhub-stub-q3-earnings-report-2025.html",
+      "summary": "StubHub beat Wall Street's expectations for third-quarter revenue in its first earnings report as a public company.",
+      "published": "Fri, 14 Nov 2025 13:49:08 GMT",
+      "content": "StubHub beat Wall Street's expectations for third-quarter revenue in its first earnings report as a public company.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9ac1f31c6ca01148e485d458cbcae180",
+      "exported_at": "2025-11-14T08:53:14.158833",
+      "continuous_session": true
+    },
+    {
+      "title": "This industrial giant is emerging as a big AI play, says Wells Fargo",
+      "link": "https://www.cnbc.com/2025/11/14/this-industrial-giant-is-emerging-as-a-big-ai-play-says-wells-fargo.html",
+      "summary": "The bank initiated shares of the agricultural equipment manufacturer with an overweight rating.",
+      "published": "Fri, 14 Nov 2025 11:41:54 GMT",
+      "content": "The bank initiated shares of the agricultural equipment manufacturer with an overweight rating.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "36bed64cac30d9670de14bd9739dd4f5",
+      "exported_at": "2025-11-14T08:53:14.158872",
       "continuous_session": true
     }
   ]
