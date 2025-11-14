@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2971,
+    "total_articles": 2973,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -38448,6 +38448,30 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "5808d478f880929d9cd02950cf298f5b",
       "exported_at": "2025-11-14T04:26:39.025004",
+      "continuous_session": true
+    },
+    {
+      "title": "Jim Cramer calls out 3 stocks to buy in his monthly update of every name in the portfolio",
+      "link": "https://www.cnbc.com/2025/11/13/cramer-calls-out-3-stocks-to-buy-in-his-monthly-update-of-every-portfolio-name.html",
+      "summary": "During the November Monthly Meeting, Cramer covered the best ways to navigate the stock market into year end, including which portfolio stocks to buy and sell.",
+      "published": "Thu, 13 Nov 2025 21:37:54 GMT",
+      "content": "During the November Monthly Meeting, Cramer covered the best ways to navigate the stock market into year end, including which portfolio stocks to buy and sell.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "e6132386149b1dadca6e215208cc2516",
+      "exported_at": "2025-11-14T05:07:06.729316",
+      "continuous_session": true
+    },
+    {
+      "title": "U.S. to remove tariffs on some products from Ecuador, Argentina, Guatemala and El Salvador",
+      "link": "https://www.cnbc.com/2025/11/14/us-to-remove-tariffs-on-some-products-from-ecuador-argentina-guatemala-and-el-salvador.html",
+      "summary": "The framework deals with most of the four countries should be finalized within the next two weeks, an official said",
+      "published": "Fri, 14 Nov 2025 10:44:22 GMT",
+      "content": "The framework deals with most of the four countries should be finalized within the next two weeks, an official said",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "dabff3cbb21903777f756fd6fc1eade5",
+      "exported_at": "2025-11-14T05:48:02.974735",
       "continuous_session": true
     }
   ]
