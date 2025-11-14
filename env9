@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2970,
+    "total_articles": 2971,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -38436,6 +38436,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "1ec693111394b16fab13a9c628cd5791",
       "exported_at": "2025-11-14T04:11:18.290184",
+      "continuous_session": true
+    },
+    {
+      "title": "Alibaba cross-border arm plans AI subscriptions and stablecoin-like payments with JPMorgan",
+      "link": "https://www.cnbc.com/2025/11/14/alibaba-plans-ai-subscriptions-stablecoin-like-payments-with-jpmorgan.html",
+      "summary": "Alibaba plans to use \"tokenization\" of payments for cross-border transactions in its business-to-business arm.",
+      "published": "Fri, 14 Nov 2025 09:11:48 GMT",
+      "content": "Alibaba plans to use \"tokenization\" of payments for cross-border transactions in its business-to-business arm.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "5808d478f880929d9cd02950cf298f5b",
+      "exported_at": "2025-11-14T04:26:39.025004",
       "continuous_session": true
     }
   ]
