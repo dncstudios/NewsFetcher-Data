@@ -2,8 +2,8 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2957,
-    "new_articles_in_last_fetch": 3,
+    "total_articles": 2958,
+    "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
     ],
@@ -38280,6 +38280,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "dfcbd55788347dbb566c338bd70ca485",
       "exported_at": "2025-11-13T20:16:46.400418",
+      "continuous_session": true
+    },
+    {
+      "title": "Asia shares track Wall Street declines as tech selloff deepens, Fed rate-cut hopes fade",
+      "link": "https://www.cnbc.com/2025/11/14/asia-pacific-friday-stocks-nikkei-225-kospi-nifty-50-hang-seng-hsi-shares-china-retail-property-industrial.html",
+      "summary": "Asia-Pacific markets fell Friday, tracking losses on Wall Street, as technology stocks continue to come under pressure for another day.",
+      "published": "Fri, 14 Nov 2025 01:50:47 GMT",
+      "content": "Asia-Pacific markets fell Friday, tracking losses on Wall Street, as technology stocks continue to come under pressure for another day.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "31931470bda6e25e0fd1ed5b969a2f6f",
+      "exported_at": "2025-11-13T20:52:06.940210",
       "continuous_session": true
     }
   ]
