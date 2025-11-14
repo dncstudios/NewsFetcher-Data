@@ -2,8 +2,8 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2974,
-    "new_articles_in_last_fetch": 1,
+    "total_articles": 2976,
+    "new_articles_in_last_fetch": 2,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
     ],
@@ -38484,6 +38484,30 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "bbfe9fb62f59302f8d9055297c1a147a",
       "exported_at": "2025-11-14T06:38:35.166725",
+      "continuous_session": true
+    },
+    {
+      "title": "Merck bets on flu prevention with about $9.2 billion deal for Cidara Therapeutics",
+      "link": "https://www.cnbc.com/2025/11/14/merck-to-acquire-cidara-therapeutics.html",
+      "summary": "Merck will acquire Cidara Therapeutics in a nearly $9.2 billion deal, the companies said on Friday, gaining access to an experimental drug for flu prevention.",
+      "published": "Fri, 14 Nov 2025 11:54:50 GMT",
+      "content": "Merck will acquire Cidara Therapeutics in a nearly $9.2 billion deal, the companies said on Friday, gaining access to an experimental drug for flu prevention.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ec11dbf0b8b3cbf079c115e9e80c22ca",
+      "exported_at": "2025-11-14T06:58:52.162058",
+      "continuous_session": true
+    },
+    {
+      "title": "Modi’s victory in a key farm state may tip the balance on India-U.S. trade deal",
+      "link": "https://www.cnbc.com/2025/11/14/modis-victory-in-bihar-may-tip-the-balance-on-india-us-trade-deal.html",
+      "summary": "The victory of Modi and his allies in the state elections of Bihar will allow New Delhi to make farm-related concessions, a key demand of U.S. trade negotiators",
+      "published": "Fri, 14 Nov 2025 11:50:15 GMT",
+      "content": "The victory of Modi and his allies in the state elections of Bihar will allow New Delhi to make farm-related concessions, a key demand of U.S. trade negotiators",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f458f894ee5087adac16208a66b2285b",
+      "exported_at": "2025-11-14T06:58:52.162094",
       "continuous_session": true
     }
   ]
