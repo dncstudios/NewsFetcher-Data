@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2998,
+    "total_articles": 2999,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -38772,6 +38772,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "cb08749ed9e64f996462308f7cdb6769",
       "exported_at": "2025-11-14T09:45:35.935404",
+      "continuous_session": true
+    },
+    {
+      "title": "StubHub stock plummets 24% after company withholds fourth-quarter guidance",
+      "link": "https://www.cnbc.com/2025/11/14/stubhub-stock-concert-tickets.html",
+      "summary": "The company said it was taking a \"long term approach,\" and added that shifting event timing made it hard to predict consumer demand.",
+      "published": "Fri, 14 Nov 2025 14:52:25 GMT",
+      "content": "The company said it was taking a \"long term approach,\" and added that shifting event timing made it hard to predict consumer demand.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ba8119672fbe25b2c079fd93d3d2b064",
+      "exported_at": "2025-11-14T09:56:03.375725",
       "continuous_session": true
     }
   ]
