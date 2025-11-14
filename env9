@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2958,
+    "total_articles": 2959,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -38292,6 +38292,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "31931470bda6e25e0fd1ed5b969a2f6f",
       "exported_at": "2025-11-13T20:52:06.940210",
+      "continuous_session": true
+    },
+    {
+      "title": "China&apos;s economic slowdown deepens in October as housing slump worsens and investments shrink more than expected",
+      "link": "https://www.cnbc.com/2025/11/14/china-economic-slowdown-october-housing-property-investment-retail-trade-industrial-output.html",
+      "summary": "China's slowdown worsened in October, dragged by soft consumer demand and a deepening property downturn, with the long holiday period further denting factory activity.",
+      "published": "Fri, 14 Nov 2025 02:21:22 GMT",
+      "content": "China's slowdown worsened in October, dragged by soft consumer demand and a deepening property downturn, with the long holiday period further denting factory activity.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f72ce21aa1d1e6d01bef4d5cc2d3a5af",
+      "exported_at": "2025-11-13T21:37:30.218059",
       "continuous_session": true
     }
   ]
