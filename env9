@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2973,
+    "total_articles": 2974,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -38472,6 +38472,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "dabff3cbb21903777f756fd6fc1eade5",
       "exported_at": "2025-11-14T05:48:02.974735",
+      "continuous_session": true
+    },
+    {
+      "title": "Dow futures drop 200 points as selling on Wall Street continues: Live updates",
+      "link": "https://www.cnbc.com/2025/11/13/stock-market-today-live-updates.html",
+      "summary": "Tech companies dragged the market lower on Thursday, reflecting growing concerns about the strength of the artificial intelligence trade.",
+      "published": "Fri, 14 Nov 2025 11:34:52 GMT",
+      "content": "Tech companies dragged the market lower on Thursday, reflecting growing concerns about the strength of the artificial intelligence trade.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "bbfe9fb62f59302f8d9055297c1a147a",
+      "exported_at": "2025-11-14T06:38:35.166725",
       "continuous_session": true
     }
   ]
