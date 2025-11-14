@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2960,
+    "total_articles": 2961,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -38316,6 +38316,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "10e56713a9427c9ade9ef88808ddae8b",
       "exported_at": "2025-11-13T22:37:56.874921",
+      "continuous_session": true
+    },
+    {
+      "title": "China economic gloom mounts as housing slump intensifies and investment slides",
+      "link": "https://www.cnbc.com/2025/11/14/china-economic-slowdown-october-housing-property-investment-retail-trade-industrial-output.html",
+      "summary": "China's slowdown worsened in October, dragged by soft consumer demand and a deepening property downturn.",
+      "published": "Fri, 14 Nov 2025 04:01:07 GMT",
+      "content": "China's slowdown worsened in October, dragged by soft consumer demand and a deepening property downturn.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "26d330fbc0a186f6174fbb5e6b5b8c94",
+      "exported_at": "2025-11-13T23:03:16.222981",
       "continuous_session": true
     }
   ]
