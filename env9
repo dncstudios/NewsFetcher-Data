@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 3000,
+    "total_articles": 3001,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -38796,6 +38796,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "086ed9430e76fcf6201bd1cf2c753255",
       "exported_at": "2025-11-14T10:06:33.034034",
+      "continuous_session": true
+    },
+    {
+      "title": "Trump admin drops Biden plan to require passenger compensation for delayed flights",
+      "link": "https://www.cnbc.com/2025/11/14/us-drops-biden-plan-to-require-passenger-compensation-for-delayed-flights.html",
+      "summary": "The Trump administration said on Friday it was formally withdrawing a plan to require airlines pay passengers cash compensation for U.S. flight disruptions.",
+      "published": "Fri, 14 Nov 2025 15:17:07 GMT",
+      "content": "The Trump administration said on Friday it was formally withdrawing a plan to require airlines pay passengers cash compensation for U.S. flight disruptions.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c85b33d31117a3ef021f904b7be234ea",
+      "exported_at": "2025-11-14T10:17:16.943886",
       "continuous_session": true
     }
   ]
