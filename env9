@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 2964,
+    "total_articles": 2965,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -38364,6 +38364,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "b11c5ecef6e7061e1032b2e9cd57266d",
       "exported_at": "2025-11-14T01:24:25.189423",
+      "continuous_session": true
+    },
+    {
+      "title": "Bet on Europe’s &apos;GOTCHA&apos; stocks for global returns in 2026, UBS says",
+      "link": "https://www.cnbc.com/2025/11/14/stocks-to-watch-in-2026-ubss-picks-for-global-returns-next-year.html",
+      "summary": "Strategists at UBS outlined their expectations of European stocks — and identified a number of companies with significant upside potential.",
+      "published": "Fri, 14 Nov 2025 06:25:40 GMT",
+      "content": "Strategists at UBS outlined their expectations of European stocks — and identified a number of companies with significant upside potential.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "fa8316f657ecdcd61d0469c497cd792a",
+      "exported_at": "2025-11-14T01:29:38.971824",
       "continuous_session": true
     }
   ]
