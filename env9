@@ -2,8 +2,8 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 3127,
-    "new_articles_in_last_fetch": 1,
+    "total_articles": 3131,
+    "new_articles_in_last_fetch": 4,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
     ],
@@ -40320,6 +40320,54 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "1a11142e1b22f7502439b4558fdfcc74",
       "exported_at": "2025-11-17T09:20:21.099422",
+      "continuous_session": true
+    },
+    {
+      "title": "AI could be causing &apos;quiet time&apos; in labor market, top Trump economic aide Hassett says",
+      "link": "https://www.cnbc.com/2025/11/17/ai-jobs-labor-economy-kevin-hassett.html",
+      "summary": "President Donald Trump has signed executive orders aimed at lowering regulatory barriers and encouraging the construction of AI infrastructure.",
+      "published": "Mon, 17 Nov 2025 14:52:03 GMT",
+      "content": "President Donald Trump has signed executive orders aimed at lowering regulatory barriers and encouraging the construction of AI infrastructure.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "09bfdbd722a714b47b4eece2fb753d41",
+      "exported_at": "2025-11-17T10:05:54.240006",
+      "continuous_session": true
+    },
+    {
+      "title": "Take-Two CEO says consoles aren&apos;t going away, but gaming is moving toward PCs",
+      "link": "https://www.cnbc.com/2025/11/17/take-two-ceo-gaming-consoles-pc.html",
+      "summary": "Take-Two CEO says consoles aren't going away, but gaming is moving toward PCs.",
+      "published": "Mon, 17 Nov 2025 14:52:48 GMT",
+      "content": "Take-Two CEO says consoles aren't going away, but gaming is moving toward PCs.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "053bc7dc8520f412e7c666f3b251e657",
+      "exported_at": "2025-11-17T10:05:54.240045",
+      "continuous_session": true
+    },
+    {
+      "title": "How Zillow disrupted the real estate industry",
+      "link": "https://www.cnbc.com/2025/11/17/zillow-antitrust-lawsuits-disrupted-real-estate.html",
+      "summary": "Zillow revolutionized how Americans buy, sell and rent homes. Today, it faces lawsuits from a competitor and the U.S. government.",
+      "published": "Mon, 17 Nov 2025 14:48:55 GMT",
+      "content": "Zillow revolutionized how Americans buy, sell and rent homes. Today, it faces lawsuits from a competitor and the U.S. government.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b2b4cbd4304b7174659363b334d8808a",
+      "exported_at": "2025-11-17T10:05:54.240054",
+      "continuous_session": true
+    },
+    {
+      "title": "Mike Khouw&apos;s holiday shopping list of cheap stocks with resilient growth and solid price trends",
+      "link": "https://www.cnbc.com/2025/11/17/mike-khouws-holiday-shopping-list-of-cheap-stocks-with-resilient-growth-and-solid-price-trends.html",
+      "summary": "Khouw screened for mega cap stocks based on three high-level factors.",
+      "published": "Mon, 17 Nov 2025 15:02:13 GMT",
+      "content": "Khouw screened for mega cap stocks based on three high-level factors.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "71b6868ad8964844a0efb2b919c3c07d",
+      "exported_at": "2025-11-17T10:05:54.240063",
       "continuous_session": true
     }
   ]
