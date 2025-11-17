@@ -2,8 +2,8 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 3101,
-    "new_articles_in_last_fetch": 2,
+    "total_articles": 3102,
+    "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
     ],
@@ -40008,6 +40008,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "d61f24ed0b9404043f52d19a5e9aea47",
       "exported_at": "2025-11-17T03:38:13.484627",
+      "continuous_session": true
+    },
+    {
+      "title": "Bitcoin bear market could deepen further as liquidity worries take hold",
+      "link": "https://www.cnbc.com/2025/11/17/bitcoin-bear-market-could-deepen-further-as-liquidity-worries-take-hold-.html",
+      "summary": "Bitcoin's retreat below $100,000 has investors asking whether the sell-off is just another shakeout or the start of something deeper.",
+      "published": "Mon, 17 Nov 2025 08:45:29 GMT",
+      "content": "Bitcoin's retreat below $100,000 has investors asking whether the sell-off is just another shakeout or the start of something deeper.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b70f51c5d44121d900f69240ffb5fb43",
+      "exported_at": "2025-11-17T03:48:27.972388",
       "continuous_session": true
     }
   ]
