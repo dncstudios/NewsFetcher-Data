@@ -2,8 +2,8 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 3105,
-    "new_articles_in_last_fetch": 1,
+    "total_articles": 3108,
+    "new_articles_in_last_fetch": 3,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
     ],
@@ -40056,6 +40056,42 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "a5876cac2572e20d7c970322125fb4d3",
       "exported_at": "2025-11-17T05:49:54.335984",
+      "continuous_session": true
+    },
+    {
+      "title": "S&amp;P 500 and Nasdaq futures rise to start the week: Live updates",
+      "link": "https://www.cnbc.com/2025/11/16/stock-market-today-live-updates.html",
+      "summary": "The moves followed a choppy week in which valuation fears, a rotation within the market and a recalibration of Fed rate cut expectations pressured the AI trade.",
+      "published": "Mon, 17 Nov 2025 11:11:29 GMT",
+      "content": "The moves followed a choppy week in which valuation fears, a rotation within the market and a recalibration of Fed rate cut expectations pressured the AI trade.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "53080f6147abf5a1f471d130f47715b0",
+      "exported_at": "2025-11-17T06:15:15.629182",
+      "continuous_session": true
+    },
+    {
+      "title": "&apos;We haven&apos;t sold our soul to the devil,&apos; Switzerland&apos;s trade deal with the U.S. divides opinion",
+      "link": "https://www.cnbc.com/2025/11/17/we-havent-sold-our-soul-to-the-devil-swiss-defend-us-trade-deal.html",
+      "summary": "Switzerland's trade deal with the U.S. has its supporters and detractors, and the Swiss economy is likely to take a hit, deal or no deal.",
+      "published": "Mon, 17 Nov 2025 11:13:11 GMT",
+      "content": "Switzerland's trade deal with the U.S. has its supporters and detractors, and the Swiss economy is likely to take a hit, deal or no deal.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2c4acbab24c8a666dc63e7f1d7153bce",
+      "exported_at": "2025-11-17T06:15:15.629219",
+      "continuous_session": true
+    },
+    {
+      "title": "AI is contributing to a memory chip shortage that could hit phones and cars, analysts warn",
+      "link": "https://www.cnbc.com/2025/11/17/ai-fuels-memory-chip-shortage-that-could-hit-phones-and-cars.html",
+      "summary": "Chipmakers and analysts are warning of a memory chip shortage that could accelerate next year, hitting consumer electronics and automotives.",
+      "published": "Mon, 17 Nov 2025 11:10:59 GMT",
+      "content": "Chipmakers and analysts are warning of a memory chip shortage that could accelerate next year, hitting consumer electronics and automotives.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4f9804ce3a9020f20eaa6e63e3a1b9de",
+      "exported_at": "2025-11-17T06:15:15.629229",
       "continuous_session": true
     }
   ]
