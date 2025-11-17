@@ -2,8 +2,8 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 3137,
-    "new_articles_in_last_fetch": 1,
+    "total_articles": 3139,
+    "new_articles_in_last_fetch": 2,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
     ],
@@ -40440,6 +40440,30 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "efa058cb335279a57bbd32fa9ba1fb26",
       "exported_at": "2025-11-17T11:17:16.258129",
+      "continuous_session": true
+    },
+    {
+      "title": "Joe Terranova on the quantitative approach to the JOET ETF that identifies winners like Palantir early",
+      "link": "https://www.cnbc.com/2025/11/17/joe-terranova-on-the-quantitative-approach-to-the-joet-etf-that-identifies-winners-like-palantir-early.html",
+      "summary": "Joe Terranova discussed what has helped his quality momentum ETF outperform — and where he envisions taking the fund from here.",
+      "published": "Mon, 17 Nov 2025 16:31:10 GMT",
+      "content": "Joe Terranova discussed what has helped his quality momentum ETF outperform — and where he envisions taking the fund from here.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "309a245674c3cf471f92a9efd99c28cd",
+      "exported_at": "2025-11-17T11:37:35.244678",
+      "continuous_session": true
+    },
+    {
+      "title": "Pro Talks: Joe Terranova on finding the &apos;personality&apos; of stocks and knowing when to buy",
+      "link": "https://www.cnbc.com/video/2025/11/17/pro-talks-joe-terranova-shares-how-he-finds-the-personality-of-a-stock.html",
+      "summary": "Joe Terranova, senior managing director and chief market strategist for Virtus Investment Partners, breaks down a half decade of the JOET ETF's performance, which provides exposure to large-cap companies with strong fundamentals. He also takes questions from CNBC Pro subscribers, including when and how he buys into a stock position.",
+      "published": "Mon, 17 Nov 2025 16:27:29 GMT",
+      "content": "Joe Terranova, senior managing director and chief market strategist for Virtus Investment Partners, breaks down a half decade of the JOET ETF's performance, which provides exposure to large-cap companies with strong fundamentals. He also takes questions from CNBC Pro subscribers, including when and how he buys into a stock position.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "bab909bd97445f1c39ccdd70c3b9dbf5",
+      "exported_at": "2025-11-17T11:37:35.244704",
       "continuous_session": true
     }
   ]
