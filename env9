@@ -2,8 +2,8 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 3113,
-    "new_articles_in_last_fetch": 2,
+    "total_articles": 3114,
+    "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
     ],
@@ -40152,6 +40152,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "f7bc8e3740a714c958c30e9d86d4f26e",
       "exported_at": "2025-11-17T07:11:34.422975",
+      "continuous_session": true
+    },
+    {
+      "title": "Emirates orders 65 more 777X as Boeing studies larger jet",
+      "link": "https://www.cnbc.com/2025/11/17/emirates-orders-65-more-777x-as-boeing-studies-larger-jet.html",
+      "summary": "Emirates said on Monday it was ordering another 65 Boeing 777-9 jets, as the U.S. planemaker agreed to carry out a feasibility study for a larger version.",
+      "published": "Mon, 17 Nov 2025 12:02:12 GMT",
+      "content": "Emirates said on Monday it was ordering another 65 Boeing 777-9 jets, as the U.S. planemaker agreed to carry out a feasibility study for a larger version.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "bbd8b344b45752653cfc19a5f2da8fb6",
+      "exported_at": "2025-11-17T07:16:47.040970",
       "continuous_session": true
     }
   ]
