@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 3118,
+    "total_articles": 3119,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -40212,6 +40212,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "a248dbbceeebe9b6609e73dad0cadddc",
       "exported_at": "2025-11-17T07:52:33.934094",
+      "continuous_session": true
+    },
+    {
+      "title": "Emirates bets big on Boeing with $38 billion order at Dubai Airshow",
+      "link": "https://www.cnbc.com/2025/11/17/emirates-bets-big-on-boeing-with-38-billion-order-at-dubai-airshow.html",
+      "summary": "The move is expected to be welcomed by the Trump Administration, which is pushing companies abroad to invest in the U.S.",
+      "published": "Mon, 17 Nov 2025 12:54:23 GMT",
+      "content": "The move is expected to be welcomed by the Trump Administration, which is pushing companies abroad to invest in the U.S.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "cca35f9a76517ba775b0f6fb70176eb9",
+      "exported_at": "2025-11-17T07:57:53.999063",
       "continuous_session": true
     }
   ]
