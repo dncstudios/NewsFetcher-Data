@@ -2,8 +2,8 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 3116,
-    "new_articles_in_last_fetch": 2,
+    "total_articles": 3117,
+    "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
     ],
@@ -40188,6 +40188,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "8c54b292c31f42df02ef6ec631a61f71",
       "exported_at": "2025-11-17T07:27:03.093283",
+      "continuous_session": true
+    },
+    {
+      "title": "Mark Wahlberg&apos;s new $37 million mansion skyrocketed in value. Here&apos;s what fueled the megahome&apos;s extraordinary rise",
+      "link": "https://www.cnbc.com/2025/11/17/mark-wahlberg-mansion-florida.html",
+      "summary": "The megahome's price more than doubled since 2020, outpacing other luxury real estate markets.",
+      "published": "Mon, 17 Nov 2025 12:30:01 GMT",
+      "content": "The megahome's price more than doubled since 2020, outpacing other luxury real estate markets.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "160131a7b9eb176a046998af992a69d5",
+      "exported_at": "2025-11-17T07:37:18.027647",
       "continuous_session": true
     }
   ]
