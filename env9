@@ -2,8 +2,8 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 3157,
-    "new_articles_in_last_fetch": 2,
+    "total_articles": 3158,
+    "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
     ],
@@ -40680,6 +40680,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "eecc76e363d3eb86155c24cdd833cfa8",
       "exported_at": "2025-11-17T15:41:51.500776",
+      "continuous_session": true
+    },
+    {
+      "title": "Buffett&apos;s Google bet comes 2 decades after billionaire investor &apos;inspired&apos; search giant&apos;s IPO",
+      "link": "https://www.cnbc.com/2025/11/17/buffett-google-bet-2-decades-after-billionaire-inspired-search-ipo-.html",
+      "summary": "The Google founders said in the company's 2004 IPO prospectus that much of their commentary was \"inspired by Warren Buffett's essays\" in annual reports.",
+      "published": "Mon, 17 Nov 2025 20:47:51 GMT",
+      "content": "The Google founders said in the company's 2004 IPO prospectus that much of their commentary was \"inspired by Warren Buffett's essays\" in annual reports.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3ca4bb6b8f2e2a921ecb9f758d79c6eb",
+      "exported_at": "2025-11-17T15:52:07.935088",
       "continuous_session": true
     }
   ]
