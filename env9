@@ -2,8 +2,8 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 3099,
-    "new_articles_in_last_fetch": 1,
+    "total_articles": 3101,
+    "new_articles_in_last_fetch": 2,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
     ],
@@ -39984,6 +39984,30 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "a108ab4553221f474b816524f6ec9729",
       "exported_at": "2025-11-17T03:12:55.314728",
+      "continuous_session": true
+    },
+    {
+      "title": "Bitcoin bear market could deepen further as liquidity worries take hold",
+      "link": "https://www.cnbc.com/2025/11/17/bitcoin-bear-market-could-deepen-further-as-liquidity-worries-take-hold-.html",
+      "summary": "Bitcoin's retreat below $100,000 is leaving investors asking whether the sell-off is just another shakeout or the start of something deeper.",
+      "published": "Mon, 17 Nov 2025 08:34:45 GMT",
+      "content": "Bitcoin's retreat below $100,000 is leaving investors asking whether the sell-off is just another shakeout or the start of something deeper.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "99095a7449f96bcf8887a6bef3569f1f",
+      "exported_at": "2025-11-17T03:38:13.484588",
+      "continuous_session": true
+    },
+    {
+      "title": "European markets in positive territory, Saab gains 6% following Colombia jet deal",
+      "link": "https://www.cnbc.com/2025/11/17/european-markets-on-novpoint17-stoxx-600-ftse-dax-cac.html",
+      "summary": "European stocks started the new trading week on a slightly positive note Monday.",
+      "published": "Mon, 17 Nov 2025 08:37:53 GMT",
+      "content": "European stocks started the new trading week on a slightly positive note Monday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d61f24ed0b9404043f52d19a5e9aea47",
+      "exported_at": "2025-11-17T03:38:13.484627",
       "continuous_session": true
     }
   ]
