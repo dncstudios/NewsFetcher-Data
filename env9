@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 3104,
+    "total_articles": 3105,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -40044,6 +40044,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "719127aa99fa2e8ec0f7c67570b1ca3c",
       "exported_at": "2025-11-17T05:14:31.193520",
+      "continuous_session": true
+    },
+    {
+      "title": "AI is contributing to a memory chip shortage that could hit phones and cars",
+      "link": "https://www.cnbc.com/2025/11/17/ai-fuels-memory-chip-shortage-that-could-hit-phones-and-cars.html",
+      "summary": "Chipmakers and analysts are warning of a memory chip shortage that could accelerate next year, hitting consumer electronics and automotives.",
+      "published": "Mon, 17 Nov 2025 10:49:00 GMT",
+      "content": "Chipmakers and analysts are warning of a memory chip shortage that could accelerate next year, hitting consumer electronics and automotives.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a5876cac2572e20d7c970322125fb4d3",
+      "exported_at": "2025-11-17T05:49:54.335984",
       "continuous_session": true
     }
   ]
