@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 3149,
+    "total_articles": 3150,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -40584,6 +40584,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "3b12c5706c45a00ca31604763f85219e",
       "exported_at": "2025-11-17T14:05:01.198357",
+      "continuous_session": true
+    },
+    {
+      "title": "Dow falls for a third day, loses 400 points: Live updates",
+      "link": "https://www.cnbc.com/2025/11/16/stock-market-today-live-updates.html",
+      "summary": "The moves followed a choppy week in which valuation fears, a rotation within the market and a recalibration of Fed rate cut expectations pressured the AI trade.",
+      "published": "Mon, 17 Nov 2025 19:19:40 GMT",
+      "content": "The moves followed a choppy week in which valuation fears, a rotation within the market and a recalibration of Fed rate cut expectations pressured the AI trade.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "d1c4de4ce437a0b25df3fae424e03d0f",
+      "exported_at": "2025-11-17T14:20:14.962508",
       "continuous_session": true
     }
   ]
