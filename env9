@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 3166,
+    "total_articles": 3167,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -40788,6 +40788,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "7138c0894ff50ad9829758bf2f56c3b5",
       "exported_at": "2025-11-17T17:29:51.023267",
+      "continuous_session": true
+    },
+    {
+      "title": "Arm custom chips get a boost with Nvidia partnership",
+      "link": "https://www.cnbc.com/2025/11/17/arm-nvidia-nvlink-partnership-custom-cpu.html",
+      "summary": "Arm doesn't make CPUs but it licenses its instruction set technology and sells designs that customers can build their chips on top of.",
+      "published": "Mon, 17 Nov 2025 22:30:02 GMT",
+      "content": "Arm doesn't make CPUs but it licenses its instruction set technology and sells designs that customers can build their chips on top of.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "dc4f45d84f0a40ee2778a4a94a1e9000",
+      "exported_at": "2025-11-17T17:35:06.268505",
       "continuous_session": true
     }
   ]
