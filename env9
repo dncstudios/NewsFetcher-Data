@@ -2,8 +2,8 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 3155,
-    "new_articles_in_last_fetch": 1,
+    "total_articles": 3157,
+    "new_articles_in_last_fetch": 2,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
     ],
@@ -40656,6 +40656,30 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "aa70158b34eaf1945c09a92c209c9b6f",
       "exported_at": "2025-11-17T15:36:35.922196",
+      "continuous_session": true
+    },
+    {
+      "title": "Fed Governor Waller backs December rate cut as support for weakening labor market",
+      "link": "https://www.cnbc.com/2025/11/17/fed-governor-waller-backs-december-rate-cut-as-support-for-weakening-labor-market.html",
+      "summary": "Waller's comments put him squarely in the came of those looking to ease monetary policy to head off further danger in the jobs picture.",
+      "published": "Mon, 17 Nov 2025 20:35:57 GMT",
+      "content": "Waller's comments put him squarely in the came of those looking to ease monetary policy to head off further danger in the jobs picture.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f4189096810ee3c822a411ae07f1df64",
+      "exported_at": "2025-11-17T15:41:51.500740",
+      "continuous_session": true
+    },
+    {
+      "title": "Bitcoin is under pressure. Why that could spell trouble for U.S. stocks",
+      "link": "https://www.cnbc.com/2025/11/17/bitcoin-is-under-pressure-why-that-could-spell-trouble-for-us-stocks.html",
+      "summary": "\"In the short-term … a sustained break of the $90,000 level could usher in more selling pressure and bearish momentum,\" one analyst said.",
+      "published": "Mon, 17 Nov 2025 20:31:50 GMT",
+      "content": "\"In the short-term … a sustained break of the $90,000 level could usher in more selling pressure and bearish momentum,\" one analyst said.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "eecc76e363d3eb86155c24cdd833cfa8",
+      "exported_at": "2025-11-17T15:41:51.500776",
       "continuous_session": true
     }
   ]
