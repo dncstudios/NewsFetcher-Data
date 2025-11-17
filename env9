@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 3164,
+    "total_articles": 3165,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -40764,6 +40764,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "b0bfe258c9e38288742babde404beaef",
       "exported_at": "2025-11-17T16:28:33.096511",
+      "continuous_session": true
+    },
+    {
+      "title": "Tuesday&apos;s big stock stories: What’s likely to move the market in the next trading session",
+      "link": "https://www.cnbc.com/2025/11/17/tuesdays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html",
+      "summary": "Stocks pulled back on Monday, with tech shares largely trading lower. That included Nvidia, which dropped about 2% ahead of its earnings on Wednesday.",
+      "published": "Mon, 17 Nov 2025 22:11:36 GMT",
+      "content": "Stocks pulled back on Monday, with tech shares largely trading lower. That included Nvidia, which dropped about 2% ahead of its earnings on Wednesday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "0f627f5bcc6c9ef3ad1e7583f92e7e3c",
+      "exported_at": "2025-11-17T17:24:35.082614",
       "continuous_session": true
     }
   ]
