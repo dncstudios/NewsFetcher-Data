@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 3117,
+    "total_articles": 3118,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -40200,6 +40200,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "160131a7b9eb176a046998af992a69d5",
       "exported_at": "2025-11-17T07:37:18.027647",
+      "continuous_session": true
+    },
+    {
+      "title": "India deepens energy trade with U.S. to mend trade relations amid tariff strain",
+      "link": "https://www.cnbc.com/2025/11/17/india-deepens-us-energy-trade-to-mend-trade-relations-amid-tariffs.html",
+      "summary": "India is increasing its energy imports from the U.S. in the hopes that the move could pave the way to a trade deal between the two countries.",
+      "published": "Mon, 17 Nov 2025 12:47:44 GMT",
+      "content": "India is increasing its energy imports from the U.S. in the hopes that the move could pave the way to a trade deal between the two countries.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a248dbbceeebe9b6609e73dad0cadddc",
+      "exported_at": "2025-11-17T07:52:33.934094",
       "continuous_session": true
     }
   ]
