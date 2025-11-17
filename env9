@@ -2,8 +2,8 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 3139,
-    "new_articles_in_last_fetch": 2,
+    "total_articles": 3140,
+    "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
     ],
@@ -40464,6 +40464,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "bab909bd97445f1c39ccdd70c3b9dbf5",
       "exported_at": "2025-11-17T11:37:35.244704",
+      "continuous_session": true
+    },
+    {
+      "title": "Judge hints at Comey indictment dismissal, orders DOJ to release grand jury material",
+      "link": "https://www.cnbc.com/2025/11/17/trump-james-comey-doj-grand-jury.html",
+      "summary": "President Donald Trump had urged Attorney General Pam Bondi to criminally charge former FBI Director James Comey shortly before he was indicted in Virginia.",
+      "published": "Mon, 17 Nov 2025 16:56:08 GMT",
+      "content": "President Donald Trump had urged Attorney General Pam Bondi to criminally charge former FBI Director James Comey shortly before he was indicted in Virginia.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ae97d42d0c6a9f8f2841627ea4fe2cf1",
+      "exported_at": "2025-11-17T11:57:55.952870",
       "continuous_session": true
     }
   ]
