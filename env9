@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 3120,
+    "total_articles": 3121,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -40236,6 +40236,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "e51f2a6fc9387de94a993bb0c4375a0f",
       "exported_at": "2025-11-17T08:03:14.046642",
+      "continuous_session": true
+    },
+    {
+      "title": "Novo Nordisk cuts direct-to-consumer prices for Wegovy, Ozempic to $349 a month",
+      "link": "https://www.cnbc.com/2025/11/17/novo-nordisk-cash-prices-wegovy-ozempic.html",
+      "summary": "The announcements come days after President Donald Trump struck deals with Novo Nordisk and Eli Lilly to make their GLP-1s easier for Americans to access.",
+      "published": "Mon, 17 Nov 2025 13:11:27 GMT",
+      "content": "The announcements come days after President Donald Trump struck deals with Novo Nordisk and Eli Lilly to make their GLP-1s easier for Americans to access.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8b4409930f5d205ffe4abe72c5652a71",
+      "exported_at": "2025-11-17T08:13:31.105575",
       "continuous_session": true
     }
   ]
