@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 3160,
+    "total_articles": 3161,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -40716,6 +40716,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "ef9c9a9f88a4d38f5b9cedb4482c10ba",
       "exported_at": "2025-11-17T16:07:43.080074",
+      "continuous_session": true
+    },
+    {
+      "title": "Dell, HPE shares sink after Morgan Stanley downgrades — computer hardware stocks also hit",
+      "link": "https://www.cnbc.com/2025/11/17/dell-hpe-shares-sink-after-morgan-stanley-downgrades.html",
+      "summary": "The bank double-downgraded Dell from overweight to underweight and downgraded HPE from overweight to equal weight.",
+      "published": "Mon, 17 Nov 2025 21:12:14 GMT",
+      "content": "The bank double-downgraded Dell from overweight to underweight and downgraded HPE from overweight to equal weight.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "cc122dc13e0f894ace465f3056e351e4",
+      "exported_at": "2025-11-17T16:12:57.996628",
       "continuous_session": true
     }
   ]
