@@ -2,8 +2,8 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 3163,
-    "new_articles_in_last_fetch": 2,
+    "total_articles": 3164,
+    "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
     ],
@@ -40752,6 +40752,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "2ba9d0c5632e09138fa2070330cf4795",
       "exported_at": "2025-11-17T16:23:15.354459",
+      "continuous_session": true
+    },
+    {
+      "title": "Santoli&apos;s Monday market wrap-up: Caution continues to eclipse conviction",
+      "link": "https://www.cnbc.com/2025/11/17/santolis-monday-market-wrap-up-caution-continues-to-eclipse-conviction.html",
+      "summary": "The S&amp;P 500  is now spending quite a bit of time near the lower end of a two-month range.",
+      "published": "Mon, 17 Nov 2025 21:24:27 GMT",
+      "content": "The S&amp;P 500  is now spending quite a bit of time near the lower end of a two-month range.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "b0bfe258c9e38288742babde404beaef",
+      "exported_at": "2025-11-17T16:28:33.096511",
       "continuous_session": true
     }
   ]
