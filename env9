@@ -2,8 +2,8 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 3111,
-    "new_articles_in_last_fetch": 1,
+    "total_articles": 3113,
+    "new_articles_in_last_fetch": 2,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
     ],
@@ -40128,6 +40128,30 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "4d45b542e7b06688c649f4a64ce466bf",
       "exported_at": "2025-11-17T06:56:13.964441",
+      "continuous_session": true
+    },
+    {
+      "title": "Jeep eyes U.S. comeback following yearslong sales troubles",
+      "link": "https://www.cnbc.com/2025/11/17/jeep-recon-wrangler-grand-wagoneer.html",
+      "summary": "Jeep has been in a rut. It has experienced six consecutive years of U.S. sales declines amid a leadership carousel, dearth of new products and push into luxury.",
+      "published": "Mon, 17 Nov 2025 12:00:01 GMT",
+      "content": "Jeep has been in a rut. It has experienced six consecutive years of U.S. sales declines amid a leadership carousel, dearth of new products and push into luxury.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "9d45f4cd898c8d9911bc1989279f06fb",
+      "exported_at": "2025-11-17T07:11:34.422936",
+      "continuous_session": true
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang surprised investors with a &apos;half a trillion&apos; forecast. It&apos;ll come up at earnings",
+      "link": "https://www.cnbc.com/2025/11/17/huangs-half-a-trillion-nvidia-forecast-will-come-up-at-q3-earnings.html",
+      "summary": "\"This is how much business is on the books. Half a trillion dollars worth so far,\" Huang said at the company's GTC conference in Washington last month.",
+      "published": "Mon, 17 Nov 2025 12:00:01 GMT",
+      "content": "\"This is how much business is on the books. Half a trillion dollars worth so far,\" Huang said at the company's GTC conference in Washington last month.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "f7bc8e3740a714c958c30e9d86d4f26e",
+      "exported_at": "2025-11-17T07:11:34.422975",
       "continuous_session": true
     }
   ]
