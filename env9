@@ -2,8 +2,8 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 3136,
-    "new_articles_in_last_fetch": 4,
+    "total_articles": 3137,
+    "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
     ],
@@ -40428,6 +40428,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "77910902ea77a8475b4fd0f07a901304",
       "exported_at": "2025-11-17T10:46:43.854933",
+      "continuous_session": true
+    },
+    {
+      "title": "The healthcare sector is having its market moment. How to find the Best Stocks in the space",
+      "link": "https://www.cnbc.com/2025/11/17/the-healthcare-sector-is-having-its-market-moment-how-to-find-the-best-stocks-in-the-space.html",
+      "summary": "Josh and Sean say it's a lot harder to find the Best Stocks in a space like healthcare than technology.",
+      "published": "Mon, 17 Nov 2025 16:12:51 GMT",
+      "content": "Josh and Sean say it's a lot harder to find the Best Stocks in a space like healthcare than technology.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "efa058cb335279a57bbd32fa9ba1fb26",
+      "exported_at": "2025-11-17T11:17:16.258129",
       "continuous_session": true
     }
   ]
