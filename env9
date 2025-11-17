@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 3150,
+    "total_articles": 3151,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -40596,6 +40596,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "d1c4de4ce437a0b25df3fae424e03d0f",
       "exported_at": "2025-11-17T14:20:14.962508",
+      "continuous_session": true
+    },
+    {
+      "title": "Peter Thiel&apos;s hedge fund dumps Nvidia stake, cuts back Tesla position",
+      "link": "https://www.cnbc.com/2025/11/17/peter-thiels-hedge-fund-dumps-nvidia-stake-cuts-back-tesla-position.html",
+      "summary": "Thiel Macro zeroed out its Nvidia stake worth nearly $94 million during the third quarter.",
+      "published": "Mon, 17 Nov 2025 19:08:49 GMT",
+      "content": "Thiel Macro zeroed out its Nvidia stake worth nearly $94 million during the third quarter.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "86c7e8152a21eb637258f703ad6453b7",
+      "exported_at": "2025-11-17T14:40:33.286547",
       "continuous_session": true
     }
   ]
