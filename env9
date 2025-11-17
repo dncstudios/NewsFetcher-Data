@@ -2,8 +2,8 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 3144,
-    "new_articles_in_last_fetch": 1,
+    "total_articles": 3147,
+    "new_articles_in_last_fetch": 3,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
     ],
@@ -40524,6 +40524,42 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "d2130874bb8b514540cdd81a5b528138",
       "exported_at": "2025-11-17T13:19:09.200407",
+      "continuous_session": true
+    },
+    {
+      "title": "Dow drops 200 points, extending losses for a third day: Live updates",
+      "link": "https://www.cnbc.com/2025/11/16/stock-market-today-live-updates.html",
+      "summary": "The moves followed a choppy week in which valuation fears, a rotation within the market and a recalibration of Fed rate cut expectations pressured the AI trade.",
+      "published": "Mon, 17 Nov 2025 18:13:47 GMT",
+      "content": "The moves followed a choppy week in which valuation fears, a rotation within the market and a recalibration of Fed rate cut expectations pressured the AI trade.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "377d2580af1fe36b22a1ea30c50bf152",
+      "exported_at": "2025-11-17T13:44:27.695138",
+      "continuous_session": true
+    },
+    {
+      "title": "Stanley Druckenmiller rebuilds Big Tech bets, dips into stablecoins with Figure Technology",
+      "link": "https://www.cnbc.com/2025/11/17/stanley-druckenmiller-rebuilds-big-tech-bets-dips-into-stablecoins-with-figure-technology.html",
+      "summary": "Druckenmiller's Duquesne Family Office initiated a $96 million position in Amazon and a $56 million holding in Meta during the third quarter.",
+      "published": "Mon, 17 Nov 2025 18:35:02 GMT",
+      "content": "Druckenmiller's Duquesne Family Office initiated a $96 million position in Amazon and a $56 million holding in Meta during the third quarter.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "4cda18926a95b8b0a4c190edfc2dec32",
+      "exported_at": "2025-11-17T13:44:27.695176",
+      "continuous_session": true
+    },
+    {
+      "title": "AI industry-backed super PAC targets New York Democrat in opening shot of midterms",
+      "link": "https://www.cnbc.com/2025/11/17/ai-super-pac-elections-midterms-bores.html",
+      "summary": "The AI-friendly Trump administration was reportedly frustrated with the super PAC, Leading the Future, over its affiliation with Democratic operatives.",
+      "published": "Mon, 17 Nov 2025 18:27:49 GMT",
+      "content": "The AI-friendly Trump administration was reportedly frustrated with the super PAC, Leading the Future, over its affiliation with Democratic operatives.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "489607442db3250e51123aa029a0b537",
+      "exported_at": "2025-11-17T13:44:27.695185",
       "continuous_session": true
     }
   ]
