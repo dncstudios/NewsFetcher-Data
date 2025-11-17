@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 3159,
+    "total_articles": 3160,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -40704,6 +40704,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "ff0a6905352d6f242dd637199c20f61c",
       "exported_at": "2025-11-17T15:57:23.947293",
+      "continuous_session": true
+    },
+    {
+      "title": "Dow closes down more than 550 points, dragged down by Nvidia, tech shares: Live updates",
+      "link": "https://www.cnbc.com/2025/11/16/stock-market-today-live-updates.html",
+      "summary": "The moves followed a choppy week in which valuation fears, a rotation within the market and a recalibration of Fed rate cut expectations pressured the AI trade.",
+      "published": "Mon, 17 Nov 2025 21:05:21 GMT",
+      "content": "The moves followed a choppy week in which valuation fears, a rotation within the market and a recalibration of Fed rate cut expectations pressured the AI trade.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "ef9c9a9f88a4d38f5b9cedb4482c10ba",
+      "exported_at": "2025-11-17T16:07:43.080074",
       "continuous_session": true
     }
   ]
