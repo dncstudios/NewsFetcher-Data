@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 3103,
+    "total_articles": 3104,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -40032,6 +40032,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "c58741658c676000c1361c5a643d6a00",
       "exported_at": "2025-11-17T05:08:59.237614",
+      "continuous_session": true
+    },
+    {
+      "title": "Bangladesh&apos;s ousted PM Hasina sentenced to death for students crackdown",
+      "link": "https://www.cnbc.com/2025/11/17/bangladesh-ousted-pm-hasina-sentenced-to-death-for-students-crackdown.html",
+      "summary": "A Bangladesh court sentenced ousted Prime Minister Sheikh Hasina to death on Monday.",
+      "published": "Mon, 17 Nov 2025 10:04:26 GMT",
+      "content": "A Bangladesh court sentenced ousted Prime Minister Sheikh Hasina to death on Monday.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "719127aa99fa2e8ec0f7c67570b1ca3c",
+      "exported_at": "2025-11-17T05:14:31.193520",
       "continuous_session": true
     }
   ]
