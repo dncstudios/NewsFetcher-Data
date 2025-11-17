@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 3122,
+    "total_articles": 3123,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -40260,6 +40260,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "f664f68f666485c5efe901279ead1825",
       "exported_at": "2025-11-17T08:23:46.078069",
+      "continuous_session": true
+    },
+    {
+      "title": "Here are Monday&apos;s biggest analyst calls: Nvidia, Apple, Tesla, Dell, Snowflake, Gap, Microsoft, Micron &amp; more",
+      "link": "https://www.cnbc.com/2025/11/17/stocks-from-analyst-calls-monday-like-nvidia.html",
+      "summary": "Here are Monday's biggest calls on Wall Street.",
+      "published": "Mon, 17 Nov 2025 13:29:01 GMT",
+      "content": "Here are Monday's biggest calls on Wall Street.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "16601cda47aca4efeb3390887578218a",
+      "exported_at": "2025-11-17T08:34:11.084031",
       "continuous_session": true
     }
   ]
