@@ -2,8 +2,8 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 3161,
-    "new_articles_in_last_fetch": 1,
+    "total_articles": 3163,
+    "new_articles_in_last_fetch": 2,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
     ],
@@ -40728,6 +40728,30 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "cc122dc13e0f894ace465f3056e351e4",
       "exported_at": "2025-11-17T16:12:57.996628",
+      "continuous_session": true
+    },
+    {
+      "title": "Dow closes down more than 550 points, dragged down by Nvidia, tech shares",
+      "link": "https://www.cnbc.com/2025/11/16/stock-market-today-live-updates.html",
+      "summary": "The moves followed a choppy week in which valuation fears, a rotation within the market and a recalibration of Fed rate cut expectations pressured the AI trade.",
+      "published": "Mon, 17 Nov 2025 21:19:55 GMT",
+      "content": "The moves followed a choppy week in which valuation fears, a rotation within the market and a recalibration of Fed rate cut expectations pressured the AI trade.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "83ac45868eddf0ee9f577ba169b1e799",
+      "exported_at": "2025-11-17T16:23:15.354423",
+      "continuous_session": true
+    },
+    {
+      "title": "Govini founder Eric Gillespie&apos;s lawyer calls child sex chat &apos;internet fantasy,&apos; not a crime",
+      "link": "https://www.cnbc.com/2025/11/17/govini-eric-gillespie-child-sex-encrypted-pentagon-defense.html",
+      "summary": "Defense contractor Govini said Gillespie was no longer a majority shareholder and would not receive a paycheck since his termination.",
+      "published": "Mon, 17 Nov 2025 21:22:12 GMT",
+      "content": "Defense contractor Govini said Gillespie was no longer a majority shareholder and would not receive a paycheck since his termination.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2ba9d0c5632e09138fa2070330cf4795",
+      "exported_at": "2025-11-17T16:23:15.354459",
       "continuous_session": true
     }
   ]
