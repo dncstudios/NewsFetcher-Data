@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 3123,
+    "total_articles": 3124,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -40272,6 +40272,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "16601cda47aca4efeb3390887578218a",
       "exported_at": "2025-11-17T08:34:11.084031",
+      "continuous_session": true
+    },
+    {
+      "title": "Alphabet rallies after Berkshire reveals stake. Why Buffett’s firm likely bought it",
+      "link": "https://www.cnbc.com/2025/11/17/alphabet-rallies-after-berkshire-reveals-stake-why-buffetts-firm-likely-bought-it.html",
+      "summary": "Despite the stellar rally in 2025, Alphabet's valuation remains lower than many of its AI-driven megacap peers.",
+      "published": "Mon, 17 Nov 2025 13:36:10 GMT",
+      "content": "Despite the stellar rally in 2025, Alphabet's valuation remains lower than many of its AI-driven megacap peers.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7e04afcda5c6211f9c98cd827d9c9ff1",
+      "exported_at": "2025-11-17T08:39:25.004222",
       "continuous_session": true
     }
   ]
