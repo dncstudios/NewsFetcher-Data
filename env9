@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 3102,
+    "total_articles": 3103,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -40020,6 +40020,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "b70f51c5d44121d900f69240ffb5fb43",
       "exported_at": "2025-11-17T03:48:27.972388",
+      "continuous_session": true
+    },
+    {
+      "title": "Why the &apos;Year of Magical Investing&apos; will end, and which stocks are safe",
+      "link": "https://www.cnbc.com/2025/11/16/cramer-why-the-year-of-magical-investing-will-end-and-which-stocks-are-safe.html",
+      "summary": "The bounce. Real? Fake? Or the opportunity to buy the best of the megacaps at cheaper prices?",
+      "published": "Sun, 16 Nov 2025 23:02:09 GMT",
+      "content": "The bounce. Real? Fake? Or the opportunity to buy the best of the megacaps at cheaper prices?",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c58741658c676000c1361c5a643d6a00",
+      "exported_at": "2025-11-17T05:08:59.237614",
       "continuous_session": true
     }
   ]
