@@ -2,8 +2,8 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 3132,
-    "new_articles_in_last_fetch": 1,
+    "total_articles": 3136,
+    "new_articles_in_last_fetch": 4,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
     ],
@@ -40380,6 +40380,54 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "1c4686e5461b9134d3d462bcb46b79e1",
       "exported_at": "2025-11-17T10:31:22.959713",
+      "continuous_session": true
+    },
+    {
+      "title": "Jeffrey Epstein victims&apos; ad calls for files to be released, Trump urges GOP to vote for House measure",
+      "link": "https://www.cnbc.com/2025/11/17/trump-jeffrey-epstein-files-republicans.html",
+      "summary": "Trump for months has called the controversy over the DOJ's refusal to release the Jeffrey Epstein files a Democratic \"hoax.\" But some Republicans want them.",
+      "published": "Mon, 17 Nov 2025 15:36:58 GMT",
+      "content": "Trump for months has called the controversy over the DOJ's refusal to release the Jeffrey Epstein files a Democratic \"hoax.\" But some Republicans want them.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a32dad6ee2d4be42c3ad7ee7a98fd4d0",
+      "exported_at": "2025-11-17T10:46:43.854884",
+      "continuous_session": true
+    },
+    {
+      "title": "Jeffrey Gundlach sees one of the &apos;least healthy&apos; stock markets of his career, urges 20% cash",
+      "link": "https://www.cnbc.com/2025/11/17/gundlach-sees-one-of-the-least-healthy-stock-markets-of-his-career.html",
+      "summary": "The money manager sees speculative excess in AI-related stocks and data-center investments, cautioning that momentum investing during a boom can end badly.",
+      "published": "Mon, 17 Nov 2025 15:38:00 GMT",
+      "content": "The money manager sees speculative excess in AI-related stocks and data-center investments, cautioning that momentum investing during a boom can end badly.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "34498ee7024ba81b0207bfa7ba2edf5e",
+      "exported_at": "2025-11-17T10:46:43.854915",
+      "continuous_session": true
+    },
+    {
+      "title": "Sinclair acquires stake in Scripps in a push to merge",
+      "link": "https://www.cnbc.com/2025/11/17/sinclair-scripps-stake-merger-push.html",
+      "summary": "Sinclair recently launched a strategic review that could result in a merger.",
+      "published": "Mon, 17 Nov 2025 15:36:35 GMT",
+      "content": "Sinclair recently launched a strategic review that could result in a merger.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "6629ab3a563cf636ed35aa2da342666d",
+      "exported_at": "2025-11-17T10:46:43.854924",
+      "continuous_session": true
+    },
+    {
+      "title": "Standard Medicare Part B monthly premium to jump 9.7% in 2026",
+      "link": "https://www.cnbc.com/2025/11/17/standard-medicare-part-b-premium-2026.html",
+      "summary": "Medicare Part B premiums are often deducted directly from Social Security checks, and therefore affect how much of an increase beneficiaries may see in 2026.",
+      "published": "Mon, 17 Nov 2025 15:39:06 GMT",
+      "content": "Medicare Part B premiums are often deducted directly from Social Security checks, and therefore affect how much of an increase beneficiaries may see in 2026.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "77910902ea77a8475b4fd0f07a901304",
+      "exported_at": "2025-11-17T10:46:43.854933",
       "continuous_session": true
     }
   ]
