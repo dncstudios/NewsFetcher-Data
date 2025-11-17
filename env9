@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 3165,
+    "total_articles": 3166,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -40776,6 +40776,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "0f627f5bcc6c9ef3ad1e7583f92e7e3c",
       "exported_at": "2025-11-17T17:24:35.082614",
+      "continuous_session": true
+    },
+    {
+      "title": "Senate Republican pitches swapping enhanced ACA tax credits with health savings accounts",
+      "link": "https://www.cnbc.com/2025/11/17/aca-tax-credits-hsa-cassidy-obamacare-congress.html",
+      "summary": "The federal government shut down for more than six week because of Democrats' insistence that a funding plan extend enhanced ACA subsidies past December",
+      "published": "Mon, 17 Nov 2025 22:29:18 GMT",
+      "content": "The federal government shut down for more than six week because of Democrats' insistence that a funding plan extend enhanced ACA subsidies past December",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "7138c0894ff50ad9829758bf2f56c3b5",
+      "exported_at": "2025-11-17T17:29:51.023267",
       "continuous_session": true
     }
   ]
