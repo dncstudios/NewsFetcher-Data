@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 3175,
+    "total_articles": 3176,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -40896,6 +40896,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "0bb253a60d5714ace011931339f52a00",
       "exported_at": "2025-11-18T01:09:11.962274",
+      "continuous_session": true
+    },
+    {
+      "title": "Investors hope these three trades will weather a tech stock downturn",
+      "link": "https://www.cnbc.com/2025/11/18/investors-hope-these-three-trades-will-weather-a-tech-stock-downturn.html",
+      "summary": "Strategists are eyeing several portfolio diversifiers amid fears of tech stock reversal.",
+      "published": "Tue, 18 Nov 2025 06:13:09 GMT",
+      "content": "Strategists are eyeing several portfolio diversifiers amid fears of tech stock reversal.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "2b8d44d5228247495735763c86334fcb",
+      "exported_at": "2025-11-18T01:14:27.935936",
       "continuous_session": true
     }
   ]
