@@ -2,8 +2,8 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 3181,
-    "new_articles_in_last_fetch": 2,
+    "total_articles": 3182,
+    "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
     ],
@@ -40968,6 +40968,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "af8ddaa8c0f010f1b32c65ae2a1fcf8e",
       "exported_at": "2025-11-18T03:41:10.203252",
+      "continuous_session": true
+    },
+    {
+      "title": "Diplomatic spat between Tokyo and Beijing threatens Japan&apos;s already fragile economy",
+      "link": "https://www.cnbc.com/2025/11/18/tokyo-beijing-taikaichi-taiwan-japan-travel-gdp.html",
+      "summary": "Tensions spiraled on Nov. 8, when Takaichi said that a Chinese attempt to seize Taiwan by force would constitute a \"survival-threatening situation\" for Japan.",
+      "published": "Tue, 18 Nov 2025 08:55:36 GMT",
+      "content": "Tensions spiraled on Nov. 8, when Takaichi said that a Chinese attempt to seize Taiwan by force would constitute a \"survival-threatening situation\" for Japan.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3f7eeeb1ed787fc3afa1618b11b51e61",
+      "exported_at": "2025-11-18T04:01:27.007153",
       "continuous_session": true
     }
   ]
