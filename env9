@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 3182,
+    "total_articles": 3183,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -40980,6 +40980,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "3f7eeeb1ed787fc3afa1618b11b51e61",
       "exported_at": "2025-11-18T04:01:27.007153",
+      "continuous_session": true
+    },
+    {
+      "title": "Global stocks sell-off as AI valuation concerns persist ahead of Nvidia earnings",
+      "link": "https://www.cnbc.com/2025/11/18/global-stocks-slide-as-valuation-fears-grow-ahead-of-nvidia-earnings.html",
+      "summary": "Experts told CNBC it's a healthy correction, fueled by a unclear outlook 2026.",
+      "published": "Tue, 18 Nov 2025 09:39:25 GMT",
+      "content": "Experts told CNBC it's a healthy correction, fueled by a unclear outlook 2026.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "c93b24ad8b32473b3ae69b0f2fcc8ddd",
+      "exported_at": "2025-11-18T04:41:51.336895",
       "continuous_session": true
     }
   ]
