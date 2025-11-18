@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 3172,
+    "total_articles": 3173,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -40860,6 +40860,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "c58680c7858df01df7273276a7a4ba2e",
       "exported_at": "2025-11-17T22:07:52.845773",
+      "continuous_session": true
+    },
+    {
+      "title": "The rich are &apos;renting&apos; out their idle gold bars for income as prices remain at historic highs",
+      "link": "https://www.cnbc.com/2025/11/18/gold-rich-are-renting-lease-bullion-bars-spot-mental-xau-income-prices-yield-high-safe-haven-asset.html",
+      "summary": "A soaring gold market is turning stashed bullion into an income source, as investors turn to leasing arrangements that supply jewelers and fabricators hungry for metal.",
+      "published": "Tue, 18 Nov 2025 03:11:33 GMT",
+      "content": "A soaring gold market is turning stashed bullion into an income source, as investors turn to leasing arrangements that supply jewelers and fabricators hungry for metal.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "a5a3ab33b978e260b6f73ca26f8922a5",
+      "exported_at": "2025-11-17T22:13:06.867143",
       "continuous_session": true
     }
   ]
