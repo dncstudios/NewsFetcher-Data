@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 3177,
+    "total_articles": 3178,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -40920,6 +40920,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "3a099e5bd288d385c52d9622cd840eaa",
       "exported_at": "2025-11-18T01:19:43.194436",
+      "continuous_session": true
+    },
+    {
+      "title": "Saudi crown prince to visit U.S. for the first time since Khashoggi scandal",
+      "link": "https://www.cnbc.com/2025/11/18/saudi-crown-prince-to-visit-us-for-first-time-since-khashoggi-death.html",
+      "summary": "The trip follows Trump's visit to Saudi Arabia in May in which the kingdom made a $600 billion trade and investment commitment to the U.S.",
+      "published": "Tue, 18 Nov 2025 06:37:58 GMT",
+      "content": "The trip follows Trump's visit to Saudi Arabia in May in which the kingdom made a $600 billion trade and investment commitment to the U.S.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "3da120d6825778599be2b45869a80f3b",
+      "exported_at": "2025-11-18T01:45:02.198333",
       "continuous_session": true
     }
   ]
