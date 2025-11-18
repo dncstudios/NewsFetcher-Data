@@ -2,7 +2,7 @@
   "session_info": {
     "filename": "public/env9",
     "created_at": "2025-10-28T00:31:47.778923",
-    "total_articles": 3173,
+    "total_articles": 3174,
     "new_articles_in_last_fetch": 1,
     "sources": [
       "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
@@ -40872,6 +40872,18 @@
       "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
       "hash": "a5a3ab33b978e260b6f73ca26f8922a5",
       "exported_at": "2025-11-17T22:13:06.867143",
+      "continuous_session": true
+    },
+    {
+      "title": "‘Nvidia is the Hermès&apos; of the chip industry, says Baillie Gifford, while doubling down on TSMC and ASML",
+      "link": "https://www.cnbc.com/2025/11/18/nvidia-hermes-chip-industry-baillie-gifford-tsmc-asml-mark-urquhart-moncler-moutai-netflix.html",
+      "summary": "Investment management firm Baillie Gifford is remaining committed to a series of names ranging from Nvidia and TSMC to luxury houses such Moncler.",
+      "published": "Tue, 18 Nov 2025 05:59:37 GMT",
+      "content": "Investment management firm Baillie Gifford is remaining committed to a series of names ranging from Nvidia and TSMC to luxury houses such Moncler.",
+      "source": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "hash": "8f3a08e9021c7535759bd19ec53b11f7",
+      "exported_at": "2025-11-18T01:03:55.798620",
       "continuous_session": true
     }
   ]
